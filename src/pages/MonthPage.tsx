@@ -3,13 +3,14 @@ import { useParams, Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { Calendar, ArrowRight } from 'lucide-react';
 import {
-  MONTHS, getMonthInfo, getDestinationsByMonth, getCountriesByMonth, allCountries,
+  MONTHS, getMonthInfo, getDestinationsByMonth, getCountriesByMonth, allCountries, getCountryImageFallbacks,
 } from '@/data';
 import type { MonthNumber } from '@/data';
 import { SectionHeading } from '@/components/SectionHeading';
 import { MonthSelector } from '@/components/MonthSelector';
 import { DestinationCard } from '@/components/DestinationCard';
 import { EmptyState } from '@/components/EmptyState';
+import { SmartImage } from '@/components/SmartImage';
 
 const monthDescriptions: Record<number, string> = {
   1: 'Winter escapes — snow festivals, aurora nights, and cozy cities.',
@@ -68,7 +69,13 @@ export function MonthPage() {
                     to={`/country/${c.slug}`}
                     className="group flex items-center gap-3 bg-stone-900 rounded-full pl-2 pr-5 py-2 border border-white/5 hover:border-amber-400/30 transition-colors"
                   >
-                    <img src={c.heroImage} alt={c.name} className="w-8 h-8 rounded-full object-cover" loading="lazy" />
+                    <SmartImage
+                      src={c.heroImage}
+                      alt={c.name}
+                      fallbackSources={getCountryImageFallbacks(c)}
+                      className="w-8 h-8 rounded-full"
+                      loading="lazy"
+                    />
                     <span className="text-white/80 text-sm group-hover:text-amber-400 transition-colors">
                       {c.flag} {c.name}
                     </span>

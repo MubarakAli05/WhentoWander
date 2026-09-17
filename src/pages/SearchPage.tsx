@@ -2,10 +2,11 @@ import { useState, useEffect } from 'react';
 import { useSearchParams, Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import { Search, ArrowRight } from 'lucide-react';
-import { searchAll, allCountries } from '@/data';
+import { searchAll, allCountries, getCountryImageFallbacks } from '@/data';
 import { SectionHeading } from '@/components/SectionHeading';
 import { DestinationCard } from '@/components/DestinationCard';
 import { EmptyState } from '@/components/EmptyState';
+import { SmartImage } from '@/components/SmartImage';
 
 export function SearchPage() {
   const [searchParams, setSearchParams] = useSearchParams();
@@ -71,7 +72,13 @@ export function SearchPage() {
                         to={`/country/${c.slug}`}
                         className="group flex items-center gap-4 bg-stone-900 rounded-lg p-4 border border-white/5 hover:border-amber-400/30 transition-colors"
                       >
-                        <img src={c.heroImage} alt={c.name} className="w-16 h-16 rounded object-cover flex-shrink-0" loading="lazy" />
+                        <SmartImage
+                          src={c.heroImage}
+                          alt={c.name}
+                          fallbackSources={getCountryImageFallbacks(c)}
+                          className="w-16 h-16 rounded flex-shrink-0"
+                          loading="lazy"
+                        />
                         <div>
                           <p className="text-white font-medium text-sm mb-1">{c.flag} {c.name}</p>
                           <p className="text-stone-500 text-xs line-clamp-1">{c.description}</p>

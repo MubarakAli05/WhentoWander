@@ -3,12 +3,14 @@ import { Link, useNavigate, useLocation } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Search, Menu, X, Compass } from 'lucide-react';
 import { useScrollPosition } from '@/hooks/useScrollPosition';
-import { searchAll, allCountries } from '@/data';
+import { searchAll, allCountries, getCountryImageFallbacks } from '@/data';
+import { SmartImage } from './SmartImage';
 
 const navLinks = [
   { label: 'Explore', path: '/' },
   { label: 'By Month', path: '/months' },
   { label: 'Experiences', path: '/experiences' },
+  { label: 'Countries', path: '/countries' },
   { label: 'World', path: '/world' },
   { label: 'Wanderlist', path: '/wanderlist' },
 ];
@@ -152,7 +154,13 @@ export function Navbar() {
                         to={`/country/${c.slug}`}
                         className="flex items-center gap-3 p-2 rounded-lg hover:bg-white/5 transition-colors"
                       >
-                        <img src={c.heroImage} alt={c.name} className="w-12 h-12 rounded object-cover" loading="lazy" />
+                        <SmartImage
+                          src={c.heroImage}
+                          alt={c.name}
+                          fallbackSources={getCountryImageFallbacks(c)}
+                          className="w-12 h-12 rounded"
+                          loading="lazy"
+                        />
                         <div>
                           <p className="text-white text-sm font-medium">{c.flag} {c.name}</p>
                           <p className="text-stone-500 text-xs">Country · {c.continent}</p>

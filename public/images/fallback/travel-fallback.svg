@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Travel landscape fallback</title>
+  <desc id="desc">A warm illustrated horizon used when a travel image is unavailable.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#292524"/>
+      <stop offset="1" stop-color="#57534e"/>
+    </linearGradient>
+    <linearGradient id="ground" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#a16207"/>
+      <stop offset="1" stop-color="#44403c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="1000" fill="url(#sky)"/>
+  <circle cx="1180" cy="290" r="130" fill="#fbbf24" opacity=".8"/>
+  <path d="M0 690 330 410 590 650 850 300 1240 690 1460 500 1600 650V1000H0Z" fill="#1c1917"/>
+  <path d="M0 790 420 650 760 760 1110 600 1600 760V1000H0Z" fill="url(#ground)"/>
+</svg>

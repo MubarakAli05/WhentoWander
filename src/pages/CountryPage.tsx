@@ -6,7 +6,8 @@ import {
   ArrowRight, Utensils, BookOpen, Sparkles
 } from 'lucide-react';
 import {
-  getCountry, allCountries, MONTHS, getMonthInfo,
+  getCountry, allCountries, MONTHS, getMonthInfo, getPhenomenaByCountry,
+  getCountryImageConfig, getCountryImageFallbacks,
 } from '@/data';
 import type { MonthNumber } from '@/data';
 import { SectionHeading } from '@/components/SectionHeading';
@@ -35,6 +36,7 @@ export function CountryPage() {
     );
   }
 
+  const phenomena = getPhenomenaByCountry(country.id);
   const facts = [
     { icon: MapPin, label: 'Capital', value: country.capital },
     { icon: Coins, label: 'Currency', value: country.currency },
@@ -48,15 +50,25 @@ export function CountryPage() {
       {/* HERO */}
       <section className="relative h-[70vh] min-h-[500px] flex items-end overflow-hidden">
         <div className="absolute inset-0">
-          <motion.img
-            src={country.heroImage}
-            alt={`${country.name} - ${country.description}`}
-            className="w-full h-full object-cover"
+          <motion.div
+            className="w-full h-full"
             initial={{ scale: 1.05 }}
             animate={{ scale: 1 }}
             transition={{ duration: 6, ease: 'easeOut' }}
-            loading="eager"
-          />
+          >
+            {(() => {
+              const image = getCountryImageConfig(country);
+              return (
+                <SmartImage
+                  src={image.primary}
+                  alt={`${country.name} - ${country.description}`}
+                  fallbackSources={getCountryImageFallbacks(country)}
+                  className="w-full h-full"
+                  loading="eager"
+                />
+              );
+            })()}
+          </motion.div>
           <div className="absolute inset-0 bg-gradient-to-t from-stone-950 via-black/40 to-transparent" />
         </div>
 
@@ -108,6 +120,46 @@ export function CountryPage() {
         </div>
       </section>
 
+      {/* COUNTRY DISCOVERY NOTES */}
+      <section className="py-16 px-4 sm:px-6 lg:px-8 border-b border-white/5">
+        <div className="max-w-7xl mx-auto grid grid-cols-1 lg:grid-cols-3 gap-8">
+          <div>
+            <SectionHeading eyebrow="Known For" title="Why Wander Here?" align="left" />
+            <div className="flex flex-wrap gap-2">
+              {(country.famousFor ?? country.cultureHighlights).map(item => (
+                <span key={item} className="px-3 py-2 bg-stone-900 border border-white/5 rounded-full text-xs text-white/70">
+                  {item}
+                </span>
+              ))}
+            </div>
+          </div>
+          <div>
+            <p className="text-amber-400 text-xs uppercase tracking-[0.2em] font-semibold mb-3">Interests</p>
+            <div className="flex flex-wrap gap-2">
+              {(country.interests ?? country.travelStyles).map(item => (
+                <span key={item} className="px-3 py-2 bg-stone-900 border border-white/5 rounded-full text-xs text-white/70">
+                  {item}
+                </span>
+              ))}
+            </div>
+          </div>
+          <div className="space-y-5">
+            <div>
+              <p className="text-amber-400 text-xs uppercase tracking-[0.2em] font-semibold mb-2">Best time</p>
+              <p className="text-white/80 text-sm leading-relaxed">{country.bestMonthsLabel}</p>
+            </div>
+            <div>
+              <p className="text-amber-400 text-xs uppercase tracking-[0.2em] font-semibold mb-2">Consider avoiding</p>
+              <p className="text-white/60 text-sm leading-relaxed">{country.avoid}</p>
+            </div>
+            <div>
+              <p className="text-amber-400 text-xs uppercase tracking-[0.2em] font-semibold mb-2">Special highlight</p>
+              <p className="text-white/80 text-sm leading-relaxed">{country.specialHighlight}</p>
+            </div>
+          </div>
+        </div>
+      </section>
+
       {/* WHEN SHOULD YOU GO */}
       <section className="py-20 md:py-28 px-4 sm:px-6 lg:px-8">
         <div className="max-w-7xl mx-auto">
@@ -124,6 +176,37 @@ export function CountryPage() {
           />
         </div>
       </section>
+
+      {phenomena.length > 0 && (
+        <section className="py-16 px-4 sm:px-6 lg:px-8 border-y border-white/5">
+          <div className="max-w-7xl mx-auto">
+            <SectionHeading
+              eyebrow="Special Moments"
+              title="What Makes This Season Distinct"
+              subtitle="Natural windows — light, bloom, wildlife, weather — that give a reason to come now rather than later."
+              align="left"
+            />
+            <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+              {phenomena.map((item, i) => (
+                <Link
+                  key={item.id}
+                  to={`/phenomena/${item.slug}`}
+                  className="group rounded-lg overflow-hidden border border-white/5 bg-stone-900 hover:border-amber-400/30 transition-colors"
+                >
+                  <div className="relative aspect-[16/10] overflow-hidden">
+                    <img src={item.image} alt={item.name} loading="lazy" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
+                    <div className="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent" />
+                    <p className="absolute bottom-3 left-4 right-4 text-white font-semibold">{item.name}</p>
+                  </div>
+                  <div className="p-4">
+                    <p className="text-stone-400 text-sm leading-relaxed">{item.summary}</p>
+                  </div>
+                </Link>
+              ))}
+            </div>
+          </div>
+        </section>
+      )}
 
       {/* WEATHER */}
       <section className="py-16 px-4 sm:px-6 lg:px-8 border-y border-white/5">
@@ -267,6 +350,7 @@ export function CountryPage() {
                 <SmartImage
                   src={c.heroImage}
                   alt={c.name}
+                  fallbackSources={getCountryImageFallbacks(c)}
                   className="w-full h-full group-hover:scale-105 transition-transform duration-700"
                   loading="lazy"
                 />

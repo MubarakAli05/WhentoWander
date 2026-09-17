@@ -11,6 +11,7 @@ import {
   MONTHS,
   EXPERIENCE_CATEGORIES,
   getCountriesByMonth,
+  getCountryImageFallbacks,
 } from '@/data';
 import type { MonthNumber } from '@/data';
 import { SectionHeading } from '@/components/SectionHeading';
@@ -304,6 +305,7 @@ export function HomePage() {
                   <SmartImage
                     src={country.heroImage}
                     alt={country.name}
+                    fallbackSources={getCountryImageFallbacks(country)}
                     className="w-full h-full group-hover:scale-105 transition-transform duration-700"
                     loading="lazy"
                   />

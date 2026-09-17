@@ -23,7 +23,7 @@ export function Footer() {
             <h3 className="text-xs uppercase tracking-[0.15em] text-stone-500 font-semibold mb-4">Explore</h3>
             <ul className="space-y-2.5">
               <li><Link to="/" className="text-sm text-stone-400 hover:text-amber-400 transition-colors">Destinations</Link></li>
-              <li><Link to="/world" className="text-sm text-stone-400 hover:text-amber-400 transition-colors">Countries</Link></li>
+              <li><Link to="/countries" className="text-sm text-stone-400 hover:text-amber-400 transition-colors">Countries</Link></li>
               <li><Link to="/months" className="text-sm text-stone-400 hover:text-amber-400 transition-colors">Months</Link></li>
               <li><Link to="/experiences" className="text-sm text-stone-400 hover:text-amber-400 transition-colors">Experiences</Link></li>
             </ul>
@@ -33,7 +33,6 @@ export function Footer() {
             <h3 className="text-xs uppercase tracking-[0.15em] text-stone-500 font-semibold mb-4">About</h3>
             <ul className="space-y-2.5">
               <li><Link to="/about" className="text-sm text-stone-400 hover:text-amber-400 transition-colors">About the project</Link></li>
-              <li><Link to="/about" className="text-sm text-stone-400 hover:text-amber-400 transition-colors">Travel philosophy</Link></li>
               <li><Link to="/wanderlist" className="text-sm text-stone-400 hover:text-amber-400 transition-colors">My Wanderlist</Link></li>
             </ul>
           </div>

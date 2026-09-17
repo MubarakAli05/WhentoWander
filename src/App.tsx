@@ -14,6 +14,7 @@ import { NotFoundPage } from '@/pages/NotFoundPage';
 import { SearchPage } from '@/pages/SearchPage';
 import { WanderlistPage } from '@/pages/WanderlistPage';
 import { WorldPage } from '@/pages/WorldPage';
+import { CountriesPage } from '@/pages/CountriesPage';
 
 function App() {
   return (
@@ -29,6 +30,7 @@ function App() {
             <Route path="/experiences" element={<ExperiencesPage />} />
             <Route path="/experience/:experienceId" element={<ExperiencePage />} />
             <Route path="/world" element={<WorldPage />} />
+            <Route path="/countries" element={<CountriesPage />} />
             <Route path="/country/:slug" element={<CountryPage />} />
             <Route path="/destination/:slug" element={<DestinationPage />} />
             <Route path="/wanderlist" element={<WanderlistPage />} />

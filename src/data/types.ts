@@ -103,6 +103,11 @@ export interface Country {
   travelStyles: string[];
   weather: WeatherInfo[];
   tripDurations: TripDuration[];
+  season?: string;
+  famousFor?: string[];
+  interests?: string[];
+  avoid?: string;
+  specialHighlight?: string;
 }
 
 export interface ExperienceCategory {
@@ -149,6 +154,6 @@ export const TRAVEL_STYLES = [
 ];
 
 export const CONTINENTS = [
-  'Africa', 'Asia', 'Europe', 'North America',
-  'South America', 'Oceania', 'Antarctica',
+  'Europe', 'Asia', 'Africa', 'The Americas',
+  'Middle East', 'Oceania & Pacific',
 ];
