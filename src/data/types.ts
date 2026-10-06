@@ -20,6 +20,12 @@ export interface GalleryImage {
   alt: string;
   caption?: string;
   photographer?: string;
+  fullUrl?: string;
+  sourceUrl?: string;
+  license?: string;
+  licenseUrl?: string;
+  width?: number;
+  height?: number;
 }
 
 export interface Experience {
@@ -90,6 +96,7 @@ export interface Country {
   currency: string;
   language: string;
   heroImage: string;
+  gallery?: GalleryImage[];
   description: string;
   poetLine: string;
   bestMonths: MonthNumber[];

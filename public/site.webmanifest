@@ -1,0 +1,16 @@
+{
+  "id": "/",
+  "name": "When to Wander",
+  "short_name": "When to Wander",
+  "description": "Find the best time to go with seasonal travel guides for 195 countries.",
+  "lang": "en",
+  "start_url": "/",
+  "scope": "/",
+  "display": "browser",
+  "theme_color": "#0c0a09",
+  "background_color": "#0c0a09",
+  "icons": [
+    { "src": "/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" }
+  ]
+}

@@ -3,13 +3,15 @@ import countries2 from './countries2';
 import countries3 from './countries3';
 import countries4 from './countries4';
 import countries5 from './countries5';
-import type { Country, Destination, MonthNumber, MonthInfo, MonthRating } from './types';
+import countriesAdditional from './countriesAdditional';
+import { requestedCountries } from './countryCatalog';
+import countryGalleries from './countryGalleries.json';
+import type { Country, Destination, GalleryImage, MonthNumber, MonthInfo, MonthRating } from './types';
 import { MONTHS, EXPERIENCE_CATEGORIES } from './types';
 import { PHENOMENA } from './phenomena';
 import { EVENTS } from './events';
 import type { Phenomenon } from './phenomena';
 import type { TravelEvent } from './events';
-import { countryImages } from './countryImages';
 
 export type {
   Country,
@@ -37,6 +39,7 @@ export interface CountryImageConfig {
   primary: string;
   secondary: string;
   fallback: string;
+  // Kept for compatibility; this now uses another photo of the same country.
   regionFallback: string;
   globalFallback: string;
 }
@@ -52,36 +55,34 @@ const regionAliases: Record<string, string> = {
   'new-zealand': 'Oceania & Pacific',
 };
 
-const rawCountries: Country[] = [...countries1, ...countries2, ...countries3, ...countries4, ...countries5];
+const rawCountries: Country[] = [...countries1, ...countries2, ...countries3, ...countries4, ...countries5, ...countriesAdditional];
+const galleries: Record<string, GalleryImage[]> = countryGalleries;
+const countryNames = new Map(requestedCountries.map(country => [country.id, country.name]));
 
-export const allCountries: Country[] = rawCountries.map(country => ({
-  ...country,
-  heroImage: countryImages[country.id] ?? country.heroImage,
-  continent: regionAliases[country.id] ?? country.continent,
-  season: country.season ?? country.bestMonthsLabel,
-  famousFor: country.famousFor ?? country.cultureHighlights,
-  interests: country.interests ?? country.travelStyles,
-  avoid: country.avoid ?? 'Check regional conditions and current local guidance before travelling.',
-  specialHighlight: country.specialHighlight ?? country.festivals[0]?.description ?? country.description,
-}));
-
-const regionImageFallbacks: Record<string, string> = {
-  Europe: 'https://images.pexels.com/photos/532826/pexels-photo-532826.jpeg?auto=compress&cs=tinysrgb&w=1920',
-  Asia: 'https://images.pexels.com/photos/325185/pexels-photo-325185.jpeg?auto=compress&cs=tinysrgb&w=1920',
-  Africa: 'https://images.pexels.com/photos/631317/pexels-photo-631317.jpeg?auto=compress&cs=tinysrgb&w=1920',
-  'The Americas': 'https://images.pexels.com/photos/2101187/pexels-photo-2101187.jpeg?auto=compress&cs=tinysrgb&w=1920',
-  'Middle East': 'https://images.pexels.com/photos/3889855/pexels-photo-3889855.jpeg?auto=compress&cs=tinysrgb&w=1920',
-  'Oceania & Pacific': 'https://images.pexels.com/photos/248797/pexels-photo-248797.jpeg?auto=compress&cs=tinysrgb&w=1920',
-};
+export const allCountries: Country[] = rawCountries.map(country => {
+  const gallery = galleries[country.id] ?? country.gallery ?? [];
+  return {
+    ...country,
+    name: countryNames.get(country.id) ?? country.name,
+    gallery,
+    heroImage: gallery[0]?.url ?? country.heroImage,
+    continent: regionAliases[country.id] ?? country.continent,
+    season: country.season ?? country.bestMonthsLabel,
+    famousFor: country.famousFor ?? country.cultureHighlights,
+    interests: country.interests ?? country.travelStyles,
+    avoid: country.avoid ?? 'Check regional conditions and current local guidance before travelling.',
+    specialHighlight: country.specialHighlight ?? country.festivals[0]?.description ?? country.description,
+  };
+});
 
 export function getCountryImageConfig(country: Country): CountryImageConfig {
-  const secondary = country.destinations[0]?.heroImage || country.heroImage;
-  const fallback = country.destinations[0]?.gallery[0]?.url || secondary;
+  const secondary = country.gallery?.[1]?.url || country.heroImage;
+  const fallback = country.gallery?.[2]?.url || secondary;
   return {
     primary: country.heroImage,
     secondary,
     fallback,
-    regionFallback: regionImageFallbacks[country.continent] ?? regionImageFallbacks.Europe,
+    regionFallback: country.gallery?.[3]?.url || fallback,
     globalFallback: '/images/fallback/travel-fallback.svg',
   };
 }
@@ -93,8 +94,20 @@ export function getCountryImageFallbacks(country: Country): string[] {
 
 export const allDestinations: Destination[] = allCountries.flatMap(c => c.destinations);
 
+export const countrySlugAliases: Record<string, string> = {
+  'united-states': 'usa',
+  'united-states-of-america': 'usa',
+  'united-kingdom': 'uk',
+  'united-arab-emirates': 'uae',
+  turkey: 'turkiye',
+  czechia: 'czech-republic',
+  'viet-nam': 'vietnam',
+  'russian-federation': 'russia',
+};
+
 export function getCountry(slug: string): Country | undefined {
-  return allCountries.find(c => c.slug === slug);
+  const canonical = countrySlugAliases[slug] ?? slug;
+  return allCountries.find(c => c.slug === slug || c.slug === canonical || c.id === canonical);
 }
 
 export function getDestination(slug: string): Destination | undefined {
@@ -157,8 +170,9 @@ export function searchAll(query: string): {
   const matchedCountries = allCountries.filter(c => {
     const festivals = c.festivals.map(f => `${f.name} ${f.period} ${f.location} ${f.description}`).join(' ');
     const foods = c.foods.map(f => `${f.name} ${f.description}`).join(' ');
-    const text = `${c.name} ${c.description} ${c.poetLine} ${c.continent} ${c.capital} ${(c.famousFor ?? []).join(' ')} ${(c.interests ?? []).join(' ')} ${c.avoid ?? ''} ${c.specialHighlight ?? ''} ${c.cultureHighlights.join(' ')} ${festivals} ${foods}`.toLowerCase();
-    return text.includes(q);
+    const text = `${c.name} ${c.id} ${c.id.replace(/-/g, ' ')} ${c.description} ${c.poetLine} ${c.continent} ${c.capital} ${(c.famousFor ?? []).join(' ')} ${(c.interests ?? []).join(' ')} ${c.avoid ?? ''} ${c.specialHighlight ?? ''} ${c.cultureHighlights.join(' ')} ${festivals} ${foods}`.toLowerCase();
+    const normalize = (value: string) => value.normalize('NFD').replace(/[\u0300-\u036f]/g, '');
+    return normalize(text).includes(normalize(q));
   });
 
   const matchedDestinations = allDestinations.filter(d => {
@@ -182,6 +196,10 @@ export function searchAll(query: string): {
     m.fullName.toLowerCase().includes(q) || m.shortName.toLowerCase() === q
   );
   if (monthMatch) {
+    const existingCountries = new Set(matchedCountries.map(country => country.id));
+    getCountriesByMonth(monthMatch.month).forEach(country => {
+      if (!existingCountries.has(country.id)) matchedCountries.push(country);
+    });
     const monthDests = getDestinationsByMonth(monthMatch.month);
     const existing = new Set(matchedDestinations.map(d => d.id));
     monthDests.forEach(d => {

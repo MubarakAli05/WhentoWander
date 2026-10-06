@@ -1,0 +1,32 @@
+{
+  "northern-lights": {
+    "image": {
+      "url": "/images/phenomena/northern-lights.jpg",
+      "alt": "Green aurora borealis across the night sky in Bærum, Norway",
+      "caption": "Aurora borealis in Bærum, Norway",
+      "photographer": "Ryan Hodnett",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/5/55/Aurora_Borealis_-_B%C3%A6rum%2C_Norway_2021-04-18_%2801%29.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Aurora_Borealis_-_B%C3%A6rum,_Norway_2021-04-18_(01).jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 5875,
+      "height": 3304
+    },
+    "label": "Aurora borealis in Bærum, Norway"
+  },
+  "midnight-sun": {
+    "image": {
+      "url": "/images/phenomena/midnight-sun.jpg",
+      "alt": "Midnight sun low over the Arctic horizon",
+      "caption": "Midnight sun in the Arctic summer",
+      "photographer": "Kautuk1",
+      "fullUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Midnight_Sun.jpg",
+      "sourceUrl": "https://commons.wikimedia.org/wiki/File:Midnight_Sun.jpg",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "width": 4096,
+      "height": 2304
+    },
+    "label": "Midnight sun in the Arctic summer"
+  }
+}

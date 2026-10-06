@@ -1,3 +1,31 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@layer base {
+  :focus-visible {
+    outline: 2px solid #fbbf24;
+    outline-offset: 4px;
+  }
+
+  ::selection {
+    background: #fbbf24;
+    color: #1c1917;
+  }
+}
+
+.gallery-dialog[open] {
+  display: flex;
+  align-items: safe center;
+  justify-content: center;
+  overflow-y: auto;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

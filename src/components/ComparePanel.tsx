@@ -1,7 +1,8 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Link } from 'react-router-dom';
-import { Globe, Check, X } from 'lucide-react';
+import { Check } from 'lucide-react';
+import { SmartImage } from './SmartImage';
 import type { Destination } from '@/data';
 import { allCountries } from '@/data';
 
@@ -11,6 +12,13 @@ interface Props {
 
 export function ComparePanel({ destinations }: Props) {
   const [selected, setSelected] = useState<string[]>([]);
+
+  useEffect(() => {
+    setSelected(previous => {
+      const remaining = previous.filter(slug => destinations.some(destination => destination.slug === slug));
+      return remaining.length === previous.length ? previous : remaining;
+    });
+  }, [destinations]);
 
   const toggle = (slug: string) => {
     setSelected(prev =>
@@ -38,7 +46,7 @@ export function ComparePanel({ destinations }: Props) {
           Select two destinations to compare side by side.
         </p>
         <div className="flex flex-wrap gap-2">
-          {destinations.slice(0, 8).map(d => {
+          {destinations.map(d => {
             const isSelected = selected.includes(d.slug);
             const canSelect = selected.length < 2 || isSelected;
             return (
@@ -46,6 +54,7 @@ export function ComparePanel({ destinations }: Props) {
                 key={d.slug}
                 onClick={() => canSelect && toggle(d.slug)}
                 disabled={!canSelect}
+                aria-pressed={isSelected}
                 className={`px-3 py-2 rounded-full text-xs font-medium transition-all ${
                   isSelected
                     ? 'bg-amber-400 text-stone-950'
@@ -71,12 +80,12 @@ export function ComparePanel({ destinations }: Props) {
             transition={{ duration: 0.3 }}
             className="overflow-hidden"
           >
-            <div className="grid grid-cols-2 gap-4">
+            <div className="grid grid-cols-1 sm:grid-cols-2 gap-4">
               {compareDestinations.map(d => {
                 const country = allCountries.find(c => c.id === d.countryId);
                 return (
                   <div key={d.slug} className="bg-stone-900 rounded-lg p-5 border border-white/5">
-                    <img src={d.heroImage} alt={d.name} className="w-full h-32 rounded object-cover mb-3" loading="lazy" />
+                    <SmartImage src={d.heroImage} alt={d.name} fallbackSources={d.gallery.map(image => image.url)} className="w-full h-32 rounded mb-3" loading="lazy" />
                     <p className="text-amber-400/70 text-xs uppercase tracking-wide mb-1">{country?.name}</p>
                     <Link to={`/destination/${d.slug}`} className="text-white font-semibold text-lg hover:text-amber-400 transition-colors">
                       {d.name}

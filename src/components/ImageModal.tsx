@@ -1,7 +1,9 @@
-import { motion, AnimatePresence } from 'framer-motion';
-import { X, ChevronLeft, ChevronRight } from 'lucide-react';
-import { useEffect, useCallback } from 'react';
+import { motion, AnimatePresence, useReducedMotion } from 'framer-motion';
+import { X, ChevronLeft, ChevronRight, ExternalLink } from 'lucide-react';
+import { useEffect, useRef } from 'react';
+import { createPortal } from 'react-dom';
 import type { GalleryImage } from '@/data';
+import { SmartImage } from './SmartImage';
 
 interface Props {
   images: GalleryImage[];
@@ -12,39 +14,39 @@ interface Props {
 }
 
 export function ImageModal({ images, index, onClose, onNavigate, contextLabel }: Props) {
-  const next = useCallback(() => {
-    onNavigate((index + 1) % images.length);
-  }, [index, images.length, onNavigate]);
-
-  const prev = useCallback(() => {
-    onNavigate((index - 1 + images.length) % images.length);
-  }, [index, images.length, onNavigate]);
+  const dialogRef = useRef<HTMLDialogElement>(null);
+  const reducedMotion = useReducedMotion();
+  const next = () => onNavigate((index + 1) % images.length);
+  const prev = () => onNavigate((index - 1 + images.length) % images.length);
 
   useEffect(() => {
-    const handleKey = (e: KeyboardEvent) => {
-      if (e.key === 'Escape') onClose();
-      if (e.key === 'ArrowRight') next();
-      if (e.key === 'ArrowLeft') prev();
-    };
-    window.addEventListener('keydown', handleKey);
+    const dialog = dialogRef.current;
+    const previousFocus = document.activeElement instanceof HTMLElement ? document.activeElement : null;
+    const overflow = document.body.style.overflow;
+    dialog?.showModal();
     document.body.style.overflow = 'hidden';
     return () => {
-      window.removeEventListener('keydown', handleKey);
-      document.body.style.overflow = '';
+      dialog?.close();
+      document.body.style.overflow = overflow;
+      if (previousFocus?.isConnected) previousFocus.focus({ preventScroll: true });
     };
-  }, [onClose, next, prev]);
+  }, []);
 
   const image = images[index];
   if (!image) return null;
 
-  return (
-    <motion.div
-      initial={{ opacity: 0 }}
-      animate={{ opacity: 1 }}
-      exit={{ opacity: 0 }}
-      transition={{ duration: 0.3 }}
-      className="fixed inset-0 z-[100] bg-black/95 flex items-center justify-center"
-      onClick={onClose}
+  return createPortal(
+    <dialog
+      ref={dialogRef}
+      aria-label={`${contextLabel ?? 'Travel'} photo gallery`}
+      className="gallery-dialog fixed inset-0 m-0 h-dvh max-h-none w-screen max-w-none bg-black/95 text-white backdrop:bg-black/80"
+      onCancel={event => { event.preventDefault(); onClose(); }}
+      onKeyDown={event => {
+        if (event.key === 'Escape') { event.preventDefault(); onClose(); }
+        if (event.key === 'ArrowRight') { event.preventDefault(); next(); }
+        if (event.key === 'ArrowLeft') { event.preventDefault(); prev(); }
+      }}
+      onClick={event => { if (event.target === event.currentTarget) onClose(); }}
     >
       <button
         onClick={(e) => { e.stopPropagation(); onClose(); }}
@@ -59,33 +61,37 @@ export function ImageModal({ images, index, onClose, onNavigate, contextLabel }:
           <button
             onClick={(e) => { e.stopPropagation(); prev(); }}
             aria-label="Previous image"
-            className="absolute left-4 md:left-8 z-10 p-3 rounded-full bg-white/5 hover:bg-white/10 text-white transition-colors"
+            className="absolute left-1 md:left-4 top-1/2 -translate-y-1/2 z-10 p-3 rounded-full bg-white/5 hover:bg-white/10 text-white transition-colors"
           >
             <ChevronLeft className="w-6 h-6" />
           </button>
           <button
             onClick={(e) => { e.stopPropagation(); next(); }}
             aria-label="Next image"
-            className="absolute right-4 md:right-8 z-10 p-3 rounded-full bg-white/5 hover:bg-white/10 text-white transition-colors"
+            className="absolute right-1 md:right-4 top-1/2 -translate-y-1/2 z-10 p-3 rounded-full bg-white/5 hover:bg-white/10 text-white transition-colors"
           >
             <ChevronRight className="w-6 h-6" />
           </button>
         </>
       )}
 
-      <div className="max-w-5xl w-full px-4" onClick={e => e.stopPropagation()}>
+      <div className="max-w-6xl w-full px-12 py-20" onClick={e => e.stopPropagation()}>
         <AnimatePresence mode="wait">
           <motion.div
             key={index}
-            initial={{ opacity: 0, scale: 0.98 }}
+            initial={{ opacity: 0, scale: reducedMotion ? 1 : 0.98 }}
             animate={{ opacity: 1, scale: 1 }}
-            exit={{ opacity: 0, scale: 0.98 }}
-            transition={{ duration: 0.3 }}
+            exit={{ opacity: 0 }}
+            transition={{ duration: reducedMotion ? 0 : 0.2 }}
           >
-            <img
-              src={image.url}
+            <SmartImage
+              src={image.fullUrl ?? image.url}
+              fallbackSources={[image.url]}
+              previewSrc={image.url}
               alt={image.alt}
-              className="w-full max-h-[75vh] object-contain rounded-lg"
+              loading="eager"
+              fit="contain"
+              className="w-full h-[55vh] md:h-[65vh] rounded-lg"
             />
             <div className="mt-4 text-center">
               {image.caption && (
@@ -95,13 +101,24 @@ export function ImageModal({ images, index, onClose, onNavigate, contextLabel }:
                 <p className="text-amber-400/60 text-xs uppercase tracking-wide mt-1">{contextLabel}</p>
               )}
               {image.photographer && (
-                <p className="text-stone-500 text-xs mt-1">Photo by {image.photographer} · Pexels</p>
+                <p className="text-stone-400 text-xs mt-2 line-clamp-3">Photo: {image.photographer}</p>
               )}
-              <p className="text-stone-600 text-xs mt-2">{index + 1} of {images.length}</p>
+              <div className="mt-2 flex flex-wrap items-center justify-center gap-x-4 gap-y-2 text-xs text-amber-300">
+                {image.sourceUrl && <a href={image.sourceUrl} target="_blank" rel="noreferrer" className="underline">Source & credits</a>}
+                {image.licenseUrl && <a href={image.licenseUrl} target="_blank" rel="noreferrer" className="underline">{image.license}</a>}
+                {image.fullUrl && (
+                  <a href={image.fullUrl} target="_blank" rel="noreferrer" className="inline-flex items-center gap-1 underline">
+                    Original{image.width && image.height ? ` · ${image.width} × ${image.height}` : ''}
+                    <ExternalLink className="h-3 w-3" />
+                  </a>
+                )}
+              </div>
+              <p aria-live="polite" className="text-stone-400 text-xs mt-3">{index + 1} of {images.length}</p>
             </div>
           </motion.div>
         </AnimatePresence>
       </div>
-    </motion.div>
+    </dialog>,
+    document.body,
   );
 }

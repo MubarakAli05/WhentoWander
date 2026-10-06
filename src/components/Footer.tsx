@@ -1,5 +1,6 @@
 import { Link } from 'react-router-dom';
-import { Compass, Instagram, Twitter, Youtube } from 'lucide-react';
+import { Instagram, Twitter, Youtube } from 'lucide-react';
+import { BrandLogo } from './BrandLogo';
 
 export function Footer() {
   return (
@@ -8,7 +9,7 @@ export function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12 py-16">
           <div className="md:col-span-1">
             <Link to="/" className="flex items-center gap-2 mb-4">
-              <Compass className="w-5 h-5 text-amber-400" />
+              <BrandLogo />
               <span className="text-sm font-semibold tracking-[0.2em] uppercase">When to Wander</span>
             </Link>
             <p className="text-stone-400 text-sm leading-relaxed">
@@ -26,6 +27,9 @@ export function Footer() {
               <li><Link to="/countries" className="text-sm text-stone-400 hover:text-amber-400 transition-colors">Countries</Link></li>
               <li><Link to="/months" className="text-sm text-stone-400 hover:text-amber-400 transition-colors">Months</Link></li>
               <li><Link to="/experiences" className="text-sm text-stone-400 hover:text-amber-400 transition-colors">Experiences</Link></li>
+              <li><Link to="/events" className="text-sm text-stone-400 hover:text-amber-400 transition-colors">Events</Link></li>
+              <li><Link to="/phenomena" className="text-sm text-stone-400 hover:text-amber-400 transition-colors">Phenomena</Link></li>
+              <li><Link to="/world" className="text-sm text-stone-400 hover:text-amber-400 transition-colors">World explorer</Link></li>
             </ul>
           </div>
 
@@ -40,16 +44,17 @@ export function Footer() {
           <div>
             <h3 className="text-xs uppercase tracking-[0.15em] text-stone-500 font-semibold mb-4">Connect</h3>
             <div className="flex gap-3">
-              <a href="#" aria-label="Instagram" className="p-2.5 rounded-full border border-white/10 text-stone-400 hover:text-amber-400 hover:border-amber-400/30 transition-colors">
+              <span role="img" aria-label="Instagram profile not configured" className="p-2.5 rounded-full border border-white/10 text-stone-600">
                 <Instagram className="w-4 h-4" />
-              </a>
-              <a href="#" aria-label="Twitter" className="p-2.5 rounded-full border border-white/10 text-stone-400 hover:text-amber-400 hover:border-amber-400/30 transition-colors">
+              </span>
+              <span role="img" aria-label="Twitter profile not configured" className="p-2.5 rounded-full border border-white/10 text-stone-600">
                 <Twitter className="w-4 h-4" />
-              </a>
-              <a href="#" aria-label="YouTube" className="p-2.5 rounded-full border border-white/10 text-stone-400 hover:text-amber-400 hover:border-amber-400/30 transition-colors">
+              </span>
+              <span role="img" aria-label="YouTube profile not configured" className="p-2.5 rounded-full border border-white/10 text-stone-600">
                 <Youtube className="w-4 h-4" />
-              </a>
+              </span>
             </div>
+            <p className="mt-3 text-xs text-stone-500">Social profiles have not been added yet.</p>
           </div>
         </div>
 
@@ -58,7 +63,7 @@ export function Footer() {
             © {new Date().getFullYear()} When to Wander. All travel data is approximate and for inspiration only.
           </p>
           <p className="text-stone-600 text-xs">
-            Photography via Pexels · Travel timing data is seasonal guidance, not live forecasts
+            Photography: Wikimedia Commons and Pexels · Commons credits beside galleries and discovery photos · Seasonal guidance, not live forecasts
           </p>
         </div>
       </div>

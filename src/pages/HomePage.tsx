@@ -1,6 +1,6 @@
 import { useState, useRef } from 'react';
 import { Link, useNavigate } from 'react-router-dom';
-import { motion } from 'framer-motion';
+import { motion, useReducedMotion } from 'framer-motion';
 import { Search, ArrowRight, ChevronDown, Calendar, Sparkles, Globe } from 'lucide-react';
 import {
   allCountries,
@@ -13,7 +13,6 @@ import {
   getCountriesByMonth,
   getCountryImageFallbacks,
 } from '@/data';
-import type { MonthNumber } from '@/data';
 import { SectionHeading } from '@/components/SectionHeading';
 import { DestinationCard } from '@/components/DestinationCard';
 import { RecommendationPanel } from '@/components/RecommendationPanel';
@@ -28,6 +27,7 @@ export function HomePage() {
   const navigate = useNavigate();
   const [query, setQuery] = useState('');
   const searchRef = useRef<HTMLInputElement>(null);
+  const reduceMotion = useReducedMotion();
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
@@ -37,7 +37,7 @@ export function HomePage() {
   };
 
   const scrollToMonths = () => {
-    document.getElementById('travel-by-month')?.scrollIntoView({ behavior: 'smooth' });
+    document.getElementById('travel-by-month')?.scrollIntoView({ behavior: reduceMotion ? 'auto' : 'smooth' });
   };
 
   return (
@@ -45,15 +45,19 @@ export function HomePage() {
       {/* HERO */}
       <section className="relative h-screen min-h-[600px] flex items-center justify-center overflow-hidden">
         <div className="absolute inset-0">
-          <motion.img
-            src="https://images.pexels.com/photos/16226231/pexels-photo-16226231.jpeg?auto=compress&cs=tinysrgb&w=1920"
-            alt="Cherry blossoms at a Japanese temple in spring"
-            className="w-full h-full object-cover"
+          <motion.div
+            className="w-full h-full"
             initial={{ scale: 1.1 }}
             animate={{ scale: 1 }}
             transition={{ duration: 8, ease: 'easeOut' }}
-            loading="eager"
-          />
+          >
+            <SmartImage
+              src="https://images.pexels.com/photos/16226231/pexels-photo-16226231.jpeg?auto=compress&cs=tinysrgb&w=1920"
+              alt="Cherry blossoms at a Japanese temple in spring"
+              className="w-full h-full"
+              loading="eager"
+            />
+          </motion.div>
           <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-black/80" />
         </div>
 
@@ -225,7 +229,7 @@ export function HomePage() {
                   >
                     <div className="flex items-center justify-between mb-3">
                       <span className="text-white font-bold text-lg">{m.shortName}</span>
-                      <span className="text-stone-600 text-xs">{dests.length} places</span>
+                      <span className="text-stone-500 text-xs">{countries.length} countries</span>
                     </div>
                     <p className="text-stone-400 text-xs leading-relaxed line-clamp-2">
                       {dests[0] ? `${dests[0].name}, ${allCountries.find(c => c.id === dests[0].countryId)?.name}` : 'Coming soon'}

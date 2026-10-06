@@ -1,8 +1,5 @@
-import { Link } from 'react-router-dom';
-import { motion } from 'framer-motion';
-import { Heart, Compass } from 'lucide-react';
 import { useFavorites } from '@/hooks/useFavorites';
-import { getDestination, allCountries } from '@/data';
+import { getDestination } from '@/data';
 import { SectionHeading } from '@/components/SectionHeading';
 import { DestinationCard } from '@/components/DestinationCard';
 import { EmptyState } from '@/components/EmptyState';
@@ -24,7 +21,7 @@ export function WanderlistPage() {
         />
 
         {savedDestinations.length > 0 ? (
-          <div className="grid grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 md:gap-6">
+          <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 gap-4 md:gap-6">
             {savedDestinations.map((dest, i) => (
               <DestinationCard key={dest.id} destination={dest} index={i} />
             ))}

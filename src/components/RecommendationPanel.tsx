@@ -35,6 +35,7 @@ export function RecommendationPanel() {
       <div className="flex flex-wrap justify-center gap-2 mb-10">
         <button
           onClick={() => setInterest(null)}
+          aria-pressed={!interest}
           className={`px-3 py-1.5 rounded-full text-xs font-medium transition-all ${
             !interest
               ? 'bg-amber-400 text-stone-950'
@@ -47,6 +48,7 @@ export function RecommendationPanel() {
           <button
             key={cat.id}
             onClick={() => setInterest(cat.id)}
+            aria-pressed={interest === cat.id}
             className={`px-3 py-1.5 rounded-full text-xs font-medium transition-all ${
               interest === cat.id
                 ? 'bg-amber-400 text-stone-950'
@@ -68,7 +70,7 @@ export function RecommendationPanel() {
         >
           {results.length > 0 ? (
             <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 md:gap-6">
-              {results.slice(0, 6).map((dest, i) => {
+              {results.slice(0, 6).map(dest => {
                 const country = allCountries.find(c => c.id === dest.countryId);
                 return (
                   <Link
@@ -80,6 +82,7 @@ export function RecommendationPanel() {
                       <SmartImage
                         src={dest.heroImage}
                         alt={`${dest.name}, ${country?.name}`}
+                        fallbackSources={dest.gallery.map(image => image.url)}
                         className="w-full h-full group-hover:scale-105 transition-transform duration-700"
                       />
                     </div>

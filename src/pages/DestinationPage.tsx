@@ -3,7 +3,7 @@ import { useParams, Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import {
   Calendar, Clock, MapPin, ArrowLeft, ArrowRight,
-  Camera, Check, Sparkles
+  Check
 } from 'lucide-react';
 import {
   getDestination, allCountries, getRelatedDestinations,
@@ -18,6 +18,7 @@ import { FavoriteButton } from '@/components/FavoriteButton';
 import { DestinationCard } from '@/components/DestinationCard';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { EmptyState } from '@/components/EmptyState';
+import { SmartImage } from '@/components/SmartImage';
 import { MONTHS } from '@/data';
 
 export function DestinationPage() {
@@ -38,24 +39,26 @@ export function DestinationPage() {
 
   const country = allCountries.find(c => c.id === destination.countryId);
   const related = getRelatedDestinations(destination, 4);
-  const bestMonthNames = destination.bestMonths
-    .map(m => MONTHS.find(mon => mon.month === m)?.fullName)
-    .filter(Boolean);
 
   return (
     <div className="bg-stone-950">
       {/* HERO */}
       <section className="relative h-[75vh] min-h-[500px] flex items-end overflow-hidden">
         <div className="absolute inset-0">
-          <motion.img
-            src={destination.heroImage}
-            alt={`${destination.name} - ${destination.description}`}
-            className="w-full h-full object-cover"
+          <motion.div
+            className="w-full h-full"
             initial={{ scale: 1.05 }}
             animate={{ scale: 1 }}
             transition={{ duration: 6, ease: 'easeOut' }}
-            loading="eager"
-          />
+          >
+            <SmartImage
+              src={destination.heroImage}
+              alt={`${destination.name} - ${destination.description}`}
+              fallbackSources={destination.gallery.map(image => image.url)}
+              className="w-full h-full"
+              loading="eager"
+            />
+          </motion.div>
           <div className="absolute inset-0 bg-gradient-to-t from-stone-950 via-black/40 to-transparent" />
         </div>
 
@@ -186,7 +189,7 @@ export function DestinationPage() {
                   transition={{ duration: 0.5, delay: Math.min(i * 0.08, 0.3) }}
                   className="group relative rounded-lg overflow-hidden aspect-[16/11]"
                 >
-                  <img
+                  <SmartImage
                     src={exp.image}
                     alt={exp.title}
                     loading="lazy"
@@ -217,7 +220,7 @@ export function DestinationPage() {
             <SectionHeading
               eyebrow="See the Place"
               title="Gallery"
-              subtitle="High-resolution photography of {destination.name}. Click any image to view full screen."
+              subtitle={`Photography of ${destination.name}. Click any image to view full screen.`}
               align="left"
             />
             <Gallery images={destination.gallery} contextLabel={`${destination.name}, ${country?.name}`} />
@@ -310,7 +313,7 @@ export function DestinationPage() {
               title={`More in ${country?.name}`}
               align="left"
             />
-            <div className="grid grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
+            <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 md:gap-6">
               {related.map((dest, i) => (
                 <DestinationCard key={dest.id} destination={dest} index={i} />
               ))}

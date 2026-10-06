@@ -1,7 +1,9 @@
 import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { MotionConfig } from 'framer-motion';
 import { Navbar } from '@/components/Navbar';
 import { Footer } from '@/components/Footer';
 import { ScrollToTop } from '@/components/ScrollToTop';
+import { Seo } from '@/components/Seo';
 import { AboutPage } from '@/pages/AboutPage';
 import { CountryPage } from '@/pages/CountryPage';
 import { DestinationPage } from '@/pages/DestinationPage';
@@ -15,10 +17,14 @@ import { SearchPage } from '@/pages/SearchPage';
 import { WanderlistPage } from '@/pages/WanderlistPage';
 import { WorldPage } from '@/pages/WorldPage';
 import { CountriesPage } from '@/pages/CountriesPage';
+import { EventsPage } from '@/pages/EventsPage';
+import { PhenomenaPage } from '@/pages/PhenomenaPage';
+import { PhenomenonPage } from '@/pages/PhenomenonPage';
 
-function App() {
+export function AppContent() {
   return (
-    <BrowserRouter>
+      <MotionConfig reducedMotion="user">
+      <Seo />
       <ScrollToTop />
       <div className="min-h-screen bg-stone-950 text-white antialiased">
         <Navbar />
@@ -30,6 +36,9 @@ function App() {
             <Route path="/experiences" element={<ExperiencesPage />} />
             <Route path="/experience/:experienceId" element={<ExperiencePage />} />
             <Route path="/world" element={<WorldPage />} />
+            <Route path="/events" element={<EventsPage />} />
+            <Route path="/phenomena" element={<PhenomenaPage />} />
+            <Route path="/phenomena/:slug" element={<PhenomenonPage />} />
             <Route path="/countries" element={<CountriesPage />} />
             <Route path="/country/:slug" element={<CountryPage />} />
             <Route path="/destination/:slug" element={<DestinationPage />} />
@@ -41,8 +50,12 @@ function App() {
         </main>
         <Footer />
       </div>
-    </BrowserRouter>
+      </MotionConfig>
   );
+}
+
+function App() {
+  return <BrowserRouter><AppContent /></BrowserRouter>;
 }
 
 export default App;

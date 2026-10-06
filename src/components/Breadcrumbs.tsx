@@ -20,7 +20,7 @@ export function Breadcrumbs({ items }: Props) {
               {item.label}
             </Link>
           ) : (
-            <span className="text-white/80">{item.label}</span>
+            <span aria-current={i === items.length - 1 ? 'page' : undefined} className="text-white/80">{item.label}</span>
           )}
           {i < items.length - 1 && <ChevronRight className="w-3 h-3 text-stone-600" />}
         </div>

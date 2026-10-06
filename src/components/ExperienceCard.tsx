@@ -1,52 +1,48 @@
 import { Link } from 'react-router-dom';
-import { motion } from 'framer-motion';
-import { Calendar } from 'lucide-react';
+import { ArrowRight, CalendarDays } from 'lucide-react';
 import type { Destination } from '@/data';
-import { allCountries } from '@/data';
+import { allCountries, MONTHS } from '@/data';
+import { getExperienceDestinationPhoto } from '@/data/experienceDiscovery';
 import { SmartImage } from './SmartImage';
+import { PhotoAttribution } from './DiscoveryHero';
+import { FavoriteButton } from './FavoriteButton';
 
 interface Props {
   destination: Destination;
   index?: number;
 }
 
-export function ExperienceCard({ destination, index = 0 }: Props) {
+export function ExperienceCard({ destination }: Props) {
   const country = allCountries.find(c => c.id === destination.countryId);
-  const primaryExperience = destination.experiences[0];
+  const { image, label } = getExperienceDestinationPhoto(destination);
+  const months = MONTHS.filter(month => destination.bestMonths.includes(month.month)).map(month => month.shortName).join(' · ');
+  const href = `/destination/${destination.slug}`;
 
   return (
-    <motion.div
-      initial={{ opacity: 0, y: 30 }}
-      whileInView={{ opacity: 1, y: 0 }}
-      viewport={{ once: true, margin: '-50px' }}
-      transition={{ duration: 0.5, delay: Math.min(index * 0.08, 0.4) }}
-      className="group relative rounded-lg overflow-hidden bg-stone-900"
-    >
-      <Link to={`/destination/${destination.slug}`} className="block">
-        <div className="aspect-[16/9] overflow-hidden">
-          <SmartImage
-            src={primaryExperience?.image || destination.heroImage}
-            alt={primaryExperience?.title || destination.name}
-            className="w-full h-full group-hover:scale-105 transition-transform duration-700"
-          />
+    <article className="flex min-w-0 flex-col overflow-hidden rounded-2xl border border-white/10 bg-stone-900">
+      <figure>
+        <div className="relative">
+          <Link to={href} aria-label={`Explore ${destination.name}`} className="group block overflow-hidden focus-visible:outline focus-visible:outline-amber-300">
+            <SmartImage src={image.url} alt={image.alt} className="aspect-[16/10] w-full motion-safe:transition-transform motion-safe:duration-500 motion-safe:group-hover:scale-[1.02]" />
+          </Link>
+          <div className="absolute right-3 top-3"><FavoriteButton slug={destination.slug} variant="overlay" /></div>
         </div>
-        <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/30 to-transparent" />
-        <div className="absolute bottom-0 left-0 right-0 p-6">
-          <p className="text-amber-400/80 text-xs uppercase tracking-[0.15em] mb-1.5">
-            {country?.name} · {destination.name}
-          </p>
-          <h3 className="text-white text-lg font-semibold mb-2 leading-tight">
-            {primaryExperience?.title || destination.name}
-          </h3>
-          <p className="text-white/70 text-sm leading-relaxed line-clamp-2 mb-3">
-            {primaryExperience?.description || destination.whyVisit}
-          </p>
-          <div className="flex items-center gap-1.5 text-white/50 text-xs">
-            <Calendar className="w-3.5 h-3.5" />
-            <span>{destination.bestSeasonLabel}</span>
-          </div>
+        <figcaption className="border-b border-white/10 px-5 py-3">
+          <p className="mb-1 text-xs leading-relaxed text-stone-300">{label}</p>
+          <PhotoAttribution image={image} />
+        </figcaption>
+      </figure>
+      <div className="flex flex-1 flex-col p-5 sm:p-6">
+        <p className="mb-2 text-xs uppercase tracking-[0.15em] text-amber-300">{country?.name} · {destination.region}</p>
+        <h3 className="text-2xl font-semibold text-white"><Link to={href} className="hover:text-amber-300 focus-visible:outline focus-visible:outline-amber-300">{destination.name}</Link></h3>
+        <p className="mt-3 text-sm leading-relaxed text-stone-300">{destination.whyVisit || destination.description}</p>
+        <div className="my-5 rounded-xl bg-stone-950/70 p-4">
+          <p className="mb-2 flex items-center gap-2 text-xs font-semibold uppercase tracking-wide text-amber-200"><CalendarDays className="h-4 w-4 shrink-0" aria-hidden="true" />Recommended visiting months</p>
+          <p className="text-sm leading-relaxed text-stone-200">{months || 'Check local seasonal guidance'}</p>
+          <p className="mt-2 text-xs leading-relaxed text-stone-400">{destination.bestSeasonLabel} · {destination.duration}</p>
         </div>
-      </Link>
-    </motion.div>
+        <Link to={href} className="mt-auto flex min-h-11 items-center justify-between gap-2 border-t border-white/10 pt-4 text-sm font-semibold text-amber-300 focus-visible:outline focus-visible:outline-amber-300">Plan a visit <ArrowRight className="h-4 w-4 shrink-0" aria-hidden="true" /></Link>
+      </div>
+    </article>
   );
 }

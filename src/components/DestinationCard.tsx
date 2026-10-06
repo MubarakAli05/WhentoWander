@@ -1,6 +1,6 @@
 import { Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
-import { Calendar, Heart } from 'lucide-react';
+import { Calendar } from 'lucide-react';
 import type { Destination } from '@/data';
 import { allCountries } from '@/data';
 import { SmartImage } from './SmartImage';
@@ -27,14 +27,12 @@ export function DestinationCard({ destination, index = 0 }: Props) {
           <SmartImage
             src={destination.heroImage}
             alt={`${destination.name}, ${country?.name}`}
+            fallbackSources={destination.gallery.map(image => image.url)}
             className="w-full h-full"
             loading="lazy"
           />
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/30 to-transparent" />
-        <div className="absolute top-4 right-4 z-10">
-          <FavoriteButton slug={destination.slug} variant="overlay" />
-        </div>
         <div className="absolute bottom-0 left-0 right-0 p-5">
           <p className="text-amber-400/80 text-xs uppercase tracking-[0.15em] mb-1.5">
             {country?.flag} {country?.name}
@@ -47,6 +45,9 @@ export function DestinationCard({ destination, index = 0 }: Props) {
           <p className="text-white/70 text-sm leading-relaxed line-clamp-2">{destination.description}</p>
         </div>
       </Link>
+      <div className="absolute top-4 right-4 z-10">
+        <FavoriteButton slug={destination.slug} variant="overlay" />
+      </div>
     </motion.div>
   );
 }

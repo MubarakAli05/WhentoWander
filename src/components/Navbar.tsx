@@ -1,19 +1,13 @@
 import { useState, useRef, useEffect } from 'react';
 import { Link, useNavigate, useLocation } from 'react-router-dom';
-import { motion, AnimatePresence } from 'framer-motion';
-import { Search, Menu, X, Compass } from 'lucide-react';
+import { motion } from 'framer-motion';
+import { Search, Menu, X } from 'lucide-react';
+import { BrandLogo } from './BrandLogo';
 import { useScrollPosition } from '@/hooks/useScrollPosition';
 import { searchAll, allCountries, getCountryImageFallbacks } from '@/data';
 import { SmartImage } from './SmartImage';
 
-const navLinks = [
-  { label: 'Explore', path: '/' },
-  { label: 'By Month', path: '/months' },
-  { label: 'Experiences', path: '/experiences' },
-  { label: 'Countries', path: '/countries' },
-  { label: 'World', path: '/world' },
-  { label: 'Wanderlist', path: '/wanderlist' },
-];
+import { navLinks, isNavigationActive } from './navigation';
 
 export function Navbar() {
   const scrolled = useScrollPosition();
@@ -23,6 +17,9 @@ export function Navbar() {
   const navigate = useNavigate();
   const location = useLocation();
   const searchRef = useRef<HTMLInputElement>(null);
+  const searchButtonRef = useRef<HTMLButtonElement>(null);
+  const menuButtonRef = useRef<HTMLButtonElement>(null);
+  const headerRef = useRef<HTMLElement>(null);
 
   const isHome = location.pathname === '/';
   const transparent = isHome && !scrolled;
@@ -30,11 +27,30 @@ export function Navbar() {
   useEffect(() => {
     setMobileOpen(false);
     setSearchOpen(false);
-  }, [location.pathname]);
+  }, [location.pathname, location.search, location.hash]);
 
   useEffect(() => {
     if (searchOpen) searchRef.current?.focus();
   }, [searchOpen]);
+
+  useEffect(() => {
+    if (!searchOpen && !mobileOpen) return;
+    const dismiss = (event: PointerEvent) => {
+      if (event.target instanceof Node && !headerRef.current?.contains(event.target)) {
+        setSearchOpen(false);
+        setMobileOpen(false);
+      }
+    };
+    document.addEventListener('pointerdown', dismiss);
+    return () => document.removeEventListener('pointerdown', dismiss);
+  }, [searchOpen, mobileOpen]);
+
+  useEffect(() => {
+    const desktop = window.matchMedia('(min-width: 1280px)');
+    const closeMobile = () => { if (desktop.matches) setMobileOpen(false); };
+    desktop.addEventListener('change', closeMobile);
+    return () => desktop.removeEventListener('change', closeMobile);
+  }, []);
 
   const handleSearch = (e: React.FormEvent) => {
     e.preventDefault();
@@ -45,36 +61,55 @@ export function Navbar() {
     }
   };
 
+  const closePanels = () => {
+    setSearchOpen(false);
+    setMobileOpen(false);
+  };
+
   const suggestions = ['Japan', 'Iceland', 'Kyoto', 'September', 'Northern Lights'];
-  const results = query.trim() ? searchAll(query) : { countries: [], destinations: [] };
-  const hasResults = results.countries.length > 0 || results.destinations.length > 0;
+  const results = searchOpen ? searchAll(query) : { countries: [], destinations: [], events: [], phenomena: [] };
+  const resultCount = results.countries.length + results.destinations.length + results.events.length + results.phenomena.length;
+  const hasResults = resultCount > 0;
 
   return (
     <>
       <header
+        ref={headerRef}
+        onKeyDown={event => {
+          if (event.key === 'Escape' && (searchOpen || mobileOpen)) {
+            event.preventDefault();
+            (searchOpen ? searchButtonRef : menuButtonRef).current?.focus();
+            closePanels();
+          }
+        }}
+        onBlur={event => {
+          if (event.relatedTarget instanceof Node && !event.currentTarget.contains(event.relatedTarget)) closePanels();
+        }}
         className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${
           transparent
             ? 'bg-transparent'
             : 'bg-stone-950/95 backdrop-blur-md border-b border-white/5'
         }`}
       >
-        <nav className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
+        <nav aria-label="Main navigation" className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="flex items-center justify-between h-16 lg:h-20">
-            <Link to="/" className="flex items-center gap-2 group">
-              <Compass className={`w-5 h-5 transition-colors ${transparent ? 'text-white' : 'text-amber-400'}`} />
+            <Link to="/" onClick={closePanels} className="flex items-center gap-2 group shrink-0">
+              <BrandLogo />
               <span className={`text-sm font-semibold tracking-[0.2em] uppercase transition-colors ${transparent ? 'text-white' : 'text-white'}`}>
                 When to Wander
               </span>
             </Link>
 
-            <div className="hidden lg:flex items-center gap-8">
+            <div className="hidden xl:flex items-center gap-5">
               {navLinks.map(link => (
                 <Link
                   key={link.path}
                   to={link.path}
+                  onClick={closePanels}
+                  aria-current={isNavigationActive(location.pathname, link) ? 'page' : undefined}
                   className={`text-[13px] font-medium tracking-wide uppercase transition-colors hover:text-amber-400 ${
-                    transparent ? 'text-white/90' : 'text-white/70'
-                  } ${location.pathname === link.path ? 'text-amber-400' : ''}`}
+                    isNavigationActive(location.pathname, link) ? 'text-amber-400' : transparent ? 'text-white/90' : 'text-white/70'
+                  }`}
                 >
                   {link.label}
                 </Link>
@@ -83,8 +118,11 @@ export function Navbar() {
 
             <div className="flex items-center gap-3">
               <button
-                onClick={() => setSearchOpen(!searchOpen)}
-                aria-label="Search"
+                ref={searchButtonRef}
+                onClick={() => { setSearchOpen(!searchOpen); setMobileOpen(false); }}
+                aria-label={searchOpen ? 'Close search' : 'Search'}
+                aria-expanded={searchOpen}
+                aria-controls="navigation-search"
                 className={`p-2 rounded-full transition-colors hover:bg-white/10 ${
                   transparent ? 'text-white' : 'text-white'
                 }`}
@@ -92,9 +130,12 @@ export function Navbar() {
                 <Search className="w-5 h-5" />
               </button>
               <button
-                onClick={() => setMobileOpen(!mobileOpen)}
-                aria-label="Menu"
-                className={`lg:hidden p-2 rounded-full transition-colors hover:bg-white/10 ${
+                ref={menuButtonRef}
+                onClick={() => { setMobileOpen(!mobileOpen); setSearchOpen(false); }}
+                aria-label={mobileOpen ? 'Close menu' : 'Menu'}
+                aria-expanded={mobileOpen}
+                aria-controls="mobile-navigation"
+                className={`xl:hidden p-2 rounded-full transition-colors hover:bg-white/10 ${
                   transparent ? 'text-white' : 'text-white'
                 }`}
               >
@@ -104,14 +145,16 @@ export function Navbar() {
           </div>
         </nav>
 
-        <AnimatePresence>
+        <>
           {searchOpen && (
             <motion.div
+              id="navigation-search"
+              role="search"
+              aria-label="Site search"
               initial={{ height: 0, opacity: 0 }}
               animate={{ height: 'auto', opacity: 1 }}
-              exit={{ height: 0, opacity: 0 }}
               transition={{ duration: 0.3 }}
-              className="overflow-hidden bg-stone-950/98 backdrop-blur-md border-t border-white/5"
+              className="max-h-[calc(100dvh-5rem)] overflow-y-auto bg-stone-950/95 backdrop-blur-md border-t border-white/5"
             >
               <div className="max-w-3xl mx-auto px-4 sm:px-6 py-6">
                 <form onSubmit={handleSearch}>
@@ -119,7 +162,8 @@ export function Navbar() {
                     <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-stone-500" />
                     <input
                       ref={searchRef}
-                      type="text"
+                      type="search"
+                      aria-label="Search countries, destinations, events and phenomena"
                       value={query}
                       onChange={e => setQuery(e.target.value)}
                       placeholder="Search a country, city, landmark or experience..."
@@ -152,13 +196,14 @@ export function Navbar() {
                       <Link
                         key={c.id}
                         to={`/country/${c.slug}`}
+                        onClick={closePanels}
                         className="flex items-center gap-3 p-2 rounded-lg hover:bg-white/5 transition-colors"
                       >
                         <SmartImage
                           src={c.heroImage}
                           alt={c.name}
                           fallbackSources={getCountryImageFallbacks(c)}
-                          className="w-12 h-12 rounded"
+                          className="w-12 h-12 shrink-0 rounded"
                           loading="lazy"
                         />
                         <div>
@@ -173,9 +218,10 @@ export function Navbar() {
                         <Link
                           key={d.id}
                           to={`/destination/${d.slug}`}
+                          onClick={closePanels}
                           className="flex items-center gap-3 p-2 rounded-lg hover:bg-white/5 transition-colors"
                         >
-                          <img src={d.heroImage} alt={d.name} className="w-12 h-12 rounded object-cover" loading="lazy" />
+                          <SmartImage src={d.heroImage} alt={d.name} className="w-12 h-12 shrink-0 rounded" loading="lazy" />
                           <div>
                             <p className="text-white text-sm font-medium">{d.name}</p>
                             <p className="text-stone-500 text-xs">{country?.name} · {d.bestSeasonLabel}</p>
@@ -183,6 +229,21 @@ export function Navbar() {
                         </Link>
                       );
                     })}
+                    {results.events.slice(0, 3).map(event => (
+                      <Link key={event.id} to={`/events?country=${encodeURIComponent(event.countrySlug)}&month=${event.month}`} onClick={closePanels} className="block rounded-lg p-2 hover:bg-white/5">
+                        <p className="text-sm font-medium text-white">{event.title}</p>
+                        <p className="text-xs text-stone-400">Event · {event.countryName}</p>
+                      </Link>
+                    ))}
+                    {results.phenomena.slice(0, 3).map(item => (
+                      <Link key={item.id} to={`/phenomena/${item.slug}`} onClick={closePanels} className="block rounded-lg p-2 hover:bg-white/5">
+                        <p className="text-sm font-medium text-white">{item.name}</p>
+                        <p className="text-xs text-stone-400">Phenomenon · {item.location}</p>
+                      </Link>
+                    ))}
+                    <Link to={`/search?q=${encodeURIComponent(query.trim())}`} onClick={closePanels} className="block p-3 text-sm text-amber-300 underline">
+                      View all {resultCount} results
+                    </Link>
                   </div>
                 )}
 
@@ -192,24 +253,28 @@ export function Navbar() {
               </div>
             </motion.div>
           )}
-        </AnimatePresence>
+        </>
 
-        <AnimatePresence>
+        <>
           {mobileOpen && (
             <motion.div
+              id="mobile-navigation"
+              role="navigation"
+              aria-label="Mobile navigation"
               initial={{ height: 0, opacity: 0 }}
               animate={{ height: 'auto', opacity: 1 }}
-              exit={{ height: 0, opacity: 0 }}
               transition={{ duration: 0.3 }}
-              className="lg:hidden overflow-hidden bg-stone-950/98 backdrop-blur-md border-t border-white/5"
+              className="xl:hidden max-h-[calc(100dvh-5rem)] overflow-y-auto bg-stone-950/95 backdrop-blur-md border-t border-white/5"
             >
               <div className="px-4 py-6 space-y-1">
                 {navLinks.map(link => (
                   <Link
                     key={link.path}
                     to={link.path}
+                    onClick={closePanels}
+                    aria-current={isNavigationActive(location.pathname, link) ? 'page' : undefined}
                     className={`block py-3 px-4 rounded-lg text-sm font-medium tracking-wide uppercase transition-colors ${
-                      location.pathname === link.path
+                      isNavigationActive(location.pathname, link)
                         ? 'text-amber-400 bg-white/5'
                         : 'text-white/70 hover:text-white hover:bg-white/5'
                     }`}
@@ -220,7 +285,7 @@ export function Navbar() {
               </div>
             </motion.div>
           )}
-        </AnimatePresence>
+        </>
       </header>
     </>
   );

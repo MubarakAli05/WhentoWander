@@ -26,6 +26,7 @@ export function SeasonTimeline({ seasonalMonths, selectedMonth, onSelectMonth }:
               viewport={{ once: true }}
               transition={{ duration: 0.3, delay: Math.min(i * 0.03, 0.2) }}
               onClick={() => onSelectMonth(m.month)}
+              aria-pressed={isSelected}
               className={`relative p-4 rounded-lg border text-left transition-all ${
                 isSelected
                   ? 'border-amber-400 bg-stone-800'

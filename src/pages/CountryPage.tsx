@@ -1,12 +1,12 @@
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { useParams, Link } from 'react-router-dom';
 import { motion } from 'framer-motion';
 import {
-  MapPin, Building2, Coins, Languages, Calendar, Clock,
-  ArrowRight, Utensils, BookOpen, Sparkles
+  MapPin, Coins, Languages, Calendar, Clock,
+  BookOpen, Camera, ArrowDown
 } from 'lucide-react';
 import {
-  getCountry, allCountries, MONTHS, getMonthInfo, getPhenomenaByCountry,
+  getCountry, allCountries, getPhenomenaByCountry,
   getCountryImageConfig, getCountryImageFallbacks,
 } from '@/data';
 import type { MonthNumber } from '@/data';
@@ -19,11 +19,16 @@ import { DestinationCard } from '@/components/DestinationCard';
 import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { SmartImage } from '@/components/SmartImage';
 import { EmptyState } from '@/components/EmptyState';
+import { Gallery } from '@/components/Gallery';
+import { PhotoAttribution } from '@/components/DiscoveryHero';
+import { getPhenomenonPhoto } from '@/data/seasonalDiscovery';
 
 export function CountryPage() {
   const { slug } = useParams();
   const country = slug ? getCountry(slug) : undefined;
   const [selectedMonth, setSelectedMonth] = useState<MonthNumber | null>(null);
+
+  useEffect(() => setSelectedMonth(null), [slug]);
 
   if (!country) {
     return (
@@ -94,6 +99,14 @@ export function CountryPage() {
             <p className="text-white/80 text-lg md:text-xl leading-relaxed max-w-2xl">
               {country.poetLine}
             </p>
+            <div className="mt-6 flex flex-wrap gap-3">
+              <a href="#country-gallery" className="inline-flex items-center gap-2 rounded-full bg-amber-400 px-5 py-3 text-sm font-semibold text-stone-950 transition-colors hover:bg-amber-300">
+                <Camera className="h-4 w-4" /> Explore the gallery
+              </a>
+              <a href="#when-to-visit" className="inline-flex items-center gap-2 rounded-full border border-white/30 bg-black/20 px-5 py-3 text-sm text-white transition-colors hover:bg-white/10">
+                <ArrowDown className="h-4 w-4" /> Find your season
+              </a>
+            </div>
           </motion.div>
         </div>
       </section>
@@ -117,6 +130,18 @@ export function CountryPage() {
               </motion.div>
             ))}
           </div>
+        </div>
+      </section>
+
+      <section id="country-gallery" className="scroll-mt-24 border-b border-white/5 px-4 py-16 sm:px-6 lg:px-8">
+        <div className="max-w-7xl mx-auto">
+          <SectionHeading
+            eyebrow="A Closer Look"
+            title={`${country.name}, in Pictures`}
+            subtitle="Country-specific photography with source credits. Open a photo for its original resolution; 4K badges appear only on qualifying sources."
+            align="left"
+          />
+          <Gallery key={country.id} images={country.gallery ?? []} contextLabel={country.name} />
         </div>
       </section>
 
@@ -161,12 +186,12 @@ export function CountryPage() {
       </section>
 
       {/* WHEN SHOULD YOU GO */}
-      <section className="py-20 md:py-28 px-4 sm:px-6 lg:px-8">
+      <section id="when-to-visit" className="scroll-mt-24 py-20 md:py-28 px-4 sm:px-6 lg:px-8">
         <div className="max-w-7xl mx-auto">
           <SectionHeading
             eyebrow="When to Visit"
             title="When Should You Go?"
-            subtitle="Climate varies by region. These ratings are general guidance for most travelers — specific experiences may have different optimal windows."
+            subtitle="Seasonal guidance, not a safety recommendation. Climate varies by region; check current official travel advisories, entry rules and local access before booking."
             align="left"
           />
           <SeasonTimeline
@@ -187,29 +212,34 @@ export function CountryPage() {
               align="left"
             />
             <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-              {phenomena.map((item, i) => (
-                <Link
-                  key={item.id}
-                  to={`/phenomena/${item.slug}`}
-                  className="group rounded-lg overflow-hidden border border-white/5 bg-stone-900 hover:border-amber-400/30 transition-colors"
-                >
-                  <div className="relative aspect-[16/10] overflow-hidden">
-                    <img src={item.image} alt={item.name} loading="lazy" className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700" />
-                    <div className="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent" />
-                    <p className="absolute bottom-3 left-4 right-4 text-white font-semibold">{item.name}</p>
-                  </div>
-                  <div className="p-4">
-                    <p className="text-stone-400 text-sm leading-relaxed">{item.summary}</p>
-                  </div>
-                </Link>
-              ))}
+              {phenomena.map(item => {
+                const photo = getPhenomenonPhoto(item);
+                return (
+                  <article key={item.id} className="group rounded-lg overflow-hidden border border-white/5 bg-stone-900 hover:border-amber-400/30 transition-colors">
+                    <Link to={`/phenomena/${item.slug}`} className="block focus-visible:outline focus-visible:outline-amber-300">
+                      <div className="relative aspect-[16/10] overflow-hidden">
+                        <SmartImage src={photo.image.url} alt={photo.image.alt} loading="lazy" className="w-full h-full group-hover:scale-105 transition-transform duration-700" />
+                        <div className="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent" />
+                        <p className="absolute bottom-3 left-4 right-4 text-white font-semibold">{item.name}</p>
+                      </div>
+                      <div className="p-4">
+                        <p className="text-stone-400 text-sm leading-relaxed">{item.summary}</p>
+                      </div>
+                    </Link>
+                    <div className="px-4 pb-4">
+                      <p className="mb-2 text-xs leading-relaxed text-stone-400">{photo.label}</p>
+                      <PhotoAttribution image={photo.image} />
+                    </div>
+                  </article>
+                );
+              })}
             </div>
           </div>
         </section>
       )}
 
       {/* WEATHER */}
-      <section className="py-16 px-4 sm:px-6 lg:px-8 border-y border-white/5">
+      {country.weather.length > 0 && <section className="py-16 px-4 sm:px-6 lg:px-8 border-y border-white/5">
         <div className="max-w-7xl mx-auto">
           <SectionHeading
             eyebrow="Climate"
@@ -219,10 +249,10 @@ export function CountryPage() {
           />
           <WeatherCard weather={country.weather} />
         </div>
-      </section>
+      </section>}
 
       {/* MUST EXPERIENCE - DESTINATIONS */}
-      <section className="py-20 md:py-28 px-4 sm:px-6 lg:px-8">
+      {country.destinations.length > 0 && <section className="py-20 md:py-28 px-4 sm:px-6 lg:px-8">
         <div className="max-w-7xl mx-auto">
           <SectionHeading
             eyebrow="Must Experience"
@@ -236,10 +266,10 @@ export function CountryPage() {
             ))}
           </div>
         </div>
-      </section>
+      </section>}
 
       {/* TRIP DURATIONS */}
-      <section className="py-16 px-4 sm:px-6 lg:px-8 border-y border-white/5">
+      {country.tripDurations.length > 0 && <section className="py-16 px-4 sm:px-6 lg:px-8 border-y border-white/5">
         <div className="max-w-7xl mx-auto">
           <SectionHeading
             eyebrow="Trip Planning"
@@ -263,7 +293,7 @@ export function CountryPage() {
             ))}
           </div>
         </div>
-      </section>
+      </section>}
 
       {/* FESTIVALS */}
       {country.festivals.length > 0 && (
@@ -281,7 +311,7 @@ export function CountryPage() {
       )}
 
       {/* TASTE THE PLACE */}
-      <section className="py-16 px-4 sm:px-6 lg:px-8 border-y border-white/5">
+      {country.foods.length > 0 && <section className="py-16 px-4 sm:px-6 lg:px-8 border-y border-white/5">
         <div className="max-w-7xl mx-auto">
           <SectionHeading
             eyebrow="Food & Drink"
@@ -291,7 +321,7 @@ export function CountryPage() {
           />
           <FoodCard foods={country.foods} />
         </div>
-      </section>
+      </section>}
 
       {/* UNDERSTAND THE PLACE */}
       <section className="py-20 px-4 sm:px-6 lg:px-8">
@@ -341,7 +371,7 @@ export function CountryPage() {
         <div className="max-w-7xl mx-auto">
           <SectionHeading title="Keep Exploring" align="center" />
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
-            {allCountries.filter(c => c.slug !== country.slug).slice(0, 4).map((c, i) => (
+            {allCountries.filter(c => c.slug !== country.slug).slice(0, 4).map(c => (
               <Link
                 key={c.id}
                 to={`/country/${c.slug}`}

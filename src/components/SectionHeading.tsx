@@ -5,9 +5,10 @@ interface Props {
   title: string;
   subtitle?: string;
   align?: 'left' | 'center';
+  as?: 'h1' | 'h2';
 }
 
-export function SectionHeading({ eyebrow, title, subtitle, align = 'center' }: Props) {
+export function SectionHeading({ eyebrow, title, subtitle, align = 'center', as: Heading = 'h2' }: Props) {
   return (
     <motion.div
       initial={{ opacity: 0, y: 20 }}
@@ -21,9 +22,9 @@ export function SectionHeading({ eyebrow, title, subtitle, align = 'center' }: P
           {eyebrow}
         </p>
       )}
-      <h2 className="text-3xl md:text-4xl lg:text-5xl font-bold text-white tracking-tight leading-tight">
+      <Heading className="text-3xl md:text-4xl lg:text-5xl font-bold text-white tracking-tight leading-tight">
         {title}
-      </h2>
+      </Heading>
       {subtitle && (
         <p className="text-stone-400 text-base md:text-lg leading-relaxed mt-4">
           {subtitle}

@@ -1,5 +1,4 @@
 import { useState } from 'react';
-import { Link } from 'react-router-dom';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Globe, Search } from 'lucide-react';
 import { allCountries, CONTINENTS } from '@/data';
@@ -9,9 +8,11 @@ export function WorldExplorer() {
   const [continent, setContinent] = useState<string | null>(null);
   const [query, setQuery] = useState('');
 
+  const normalize = (value: string) => value.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
+  const search = normalize(query.trim());
   const countries = allCountries.filter(c => {
     const matchesContinent = !continent || c.continent === continent;
-    const matchesQuery = !query || c.name.toLowerCase().includes(query.toLowerCase());
+    const matchesQuery = !search || normalize(`${c.name} ${c.id.replace(/-/g, ' ')}`).includes(search);
     return matchesContinent && matchesQuery;
   });
 
@@ -20,6 +21,7 @@ export function WorldExplorer() {
       <div className="flex flex-wrap justify-center gap-2 mb-8">
         <button
           onClick={() => setContinent(null)}
+          aria-pressed={!continent}
           className={`px-4 py-2 rounded-full text-xs font-semibold tracking-wide transition-all flex items-center gap-1.5 ${
             !continent
               ? 'bg-amber-400 text-stone-950'
@@ -36,6 +38,7 @@ export function WorldExplorer() {
             <button
               key={c}
               onClick={() => setContinent(c)}
+              aria-pressed={continent === c}
               className={`px-4 py-2 rounded-full text-xs font-semibold tracking-wide transition-all ${
                 continent === c
                   ? 'bg-amber-400 text-stone-950'
@@ -56,6 +59,7 @@ export function WorldExplorer() {
             value={query}
             onChange={e => setQuery(e.target.value)}
             placeholder="Search countries..."
+            aria-label="Search countries"
             className="w-full pl-11 pr-4 py-3 bg-stone-900 border border-white/5 rounded-lg text-white placeholder:text-stone-500 focus:outline-none focus:border-amber-400/40 transition-colors text-sm"
           />
         </div>

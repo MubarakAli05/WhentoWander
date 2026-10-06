@@ -121,9 +121,10 @@ export function AboutPage() {
         >
           <h2 className="text-lg font-semibold text-white mb-4">Image & Data Attribution</h2>
           <p className="text-stone-500 text-xs leading-relaxed">
-            All photography is sourced from Pexels and used under the Pexels License. Photographer credits are
-            displayed in the gallery lightbox where available. Travel timing data is compiled from publicly available
-            sources and is approximate. Climate data is seasonal guidance, not live forecasts.
+            Photography includes Pexels images and locally hosted country galleries sourced from Wikimedia Commons.
+            Country gallery images retain their individual licenses or public-domain status; photographer credits,
+            original sources, and license details are available in the gallery lightbox. Travel timing data is compiled
+            from publicly available sources and is approximate. Climate data is seasonal guidance, not live forecasts.
           </p>
         </motion.div>
       </div>

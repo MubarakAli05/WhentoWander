@@ -1,4 +1,5 @@
 import type { Country } from './types';
+import phenomenonPhotos from './phenomenonPhotos.json';
 
 export interface Phenomenon {
   id: string;
@@ -30,7 +31,7 @@ export const PHENOMENA: Phenomenon[] = [
     location: 'Northern latitudes across Iceland, Norway, Finland, and Canada',
     whyItIsSpecial: 'The dark winter sky transforms into moving curtains of green and violet, creating some of the most cinematic night-time travel moments on earth.',
     photographyValue: 'High contrast, long-exposure landscapes, and vibrant color make it a dream for photography.',
-    image: 'https://images.pexels.com/photos/14635706/pexels-photo-14635706.jpeg?auto=compress&cs=tinysrgb&w=1600',
+    image: phenomenonPhotos['northern-lights'].image.url,
     countries: ['iceland', 'norway', 'canada', 'sweden', 'finland'],
     source: 'Official tourism and aurora research references',
     sourceUrl: 'https://www.visiticeland.com/',
@@ -47,7 +48,7 @@ export const PHENOMENA: Phenomenon[] = [
     location: 'Norway, Iceland, Finland, and Arctic northern regions',
     whyItIsSpecial: 'Travelers can hike, photograph, and linger outdoors well into the evening without fully losing daylight, making summer production feel surreal.',
     photographyValue: 'Golden hour lasts for hours, creating soft panoramic scenes and endless scenic light.',
-    image: 'https://images.pexels.com/photos/1690478/pexels-photo-1690478.jpeg?auto=compress&cs=tinysrgb&w=1600',
+    image: phenomenonPhotos['midnight-sun'].image.url,
     countries: ['norway', 'iceland', 'sweden', 'canada', 'finland'],
     source: 'Nordic tourism and official park sources',
     sourceUrl: 'https://www.visitnorway.com/',
