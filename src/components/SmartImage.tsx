@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import fallbackPhoto from '../data/fallbackPhoto.json';
 
 interface Props {
   src: string;
@@ -11,7 +12,7 @@ interface Props {
   previewSrc?: string;
 }
 
-const FINAL_FALLBACK = '/images/fallback/travel-fallback.svg';
+const FINAL_FALLBACK = fallbackPhoto.url;
 
 export function SmartImage({ src, fallbackSources = [], ...props }: Props) {
   const sources = [...new Set([src, ...fallbackSources, FINAL_FALLBACK].filter(Boolean))];
@@ -24,6 +25,7 @@ function ImageWithFallback({
   const [loaded, setLoaded] = useState(false);
   const [sourceIndex, setSourceIndex] = useState(0);
   const exhausted = sourceIndex >= sources.length;
+  const isFallbackPhoto = sources[sourceIndex] === FINAL_FALLBACK;
 
   return (
     <div className={`relative overflow-hidden bg-stone-900 ${className}`}>
@@ -40,7 +42,7 @@ function ImageWithFallback({
       ) : (
         <img
           src={sources[sourceIndex]}
-          alt={sourceIndex === sources.length - 1 ? `Travel illustration — ${alt}` : alt}
+          alt={isFallbackPhoto ? `Travel photo fallback: ${fallbackPhoto.alt}. Requested photo: ${alt}` : alt}
           loading={loading}
           decoding="async"
           sizes={sizes}
@@ -51,6 +53,11 @@ function ImageWithFallback({
           }}
           className={`w-full h-full ${fit === 'contain' ? 'object-contain' : 'object-cover'} transition-opacity duration-700 ${loaded ? 'opacity-100' : 'opacity-0'}`}
         />
+      )}
+      {isFallbackPhoto && loaded && (
+        <span className="pointer-events-none absolute bottom-0 left-0 right-0 bg-black/70 px-2 py-1 text-[10px] text-white" title={fallbackPhoto.modifications}>
+          Travel fallback · Lake Pukaki · {fallbackPhoto.photographer} · {fallbackPhoto.license}
+        </span>
       )}
     </div>
   );

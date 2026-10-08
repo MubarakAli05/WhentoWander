@@ -1,6 +1,7 @@
 import { Link } from 'react-router-dom';
 import { Instagram, Twitter, Youtube } from 'lucide-react';
 import { BrandLogo } from './BrandLogo';
+import fallbackPhoto from '../data/fallbackPhoto.json';
 
 export function Footer() {
   return (
@@ -58,6 +59,11 @@ export function Footer() {
           </div>
         </div>
 
+        <p className="pb-4 text-xs leading-relaxed text-stone-400">
+          Travel fallback: <a href={fallbackPhoto.sourceUrl} target="_blank" rel="noopener noreferrer" className="underline hover:text-amber-400">{fallbackPhoto.alt}</a>
+          {' '}by {fallbackPhoto.photographer} · <a href={fallbackPhoto.licenseUrl} target="_blank" rel="noopener noreferrer" className="underline hover:text-amber-400">{fallbackPhoto.license}</a>.
+          {' '}{fallbackPhoto.modifications}
+        </p>
         <div className="border-t border-white/5 py-6 flex flex-col md:flex-row items-center justify-between gap-3">
           <p className="text-stone-500 text-xs">
             © {new Date().getFullYear()} When to Wander. All travel data is approximate and for inspiration only.

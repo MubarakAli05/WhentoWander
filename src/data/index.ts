@@ -6,6 +6,7 @@ import countries5 from './countries5';
 import countriesAdditional from './countriesAdditional';
 import { requestedCountries } from './countryCatalog';
 import countryGalleries from './countryGalleries.json';
+import fallbackPhoto from './fallbackPhoto.json';
 import type { Country, Destination, GalleryImage, MonthNumber, MonthInfo, MonthRating } from './types';
 import { MONTHS, EXPERIENCE_CATEGORIES } from './types';
 import { PHENOMENA } from './phenomena';
@@ -83,7 +84,7 @@ export function getCountryImageConfig(country: Country): CountryImageConfig {
     secondary,
     fallback,
     regionFallback: country.gallery?.[3]?.url || fallback,
-    globalFallback: '/images/fallback/travel-fallback.svg',
+    globalFallback: fallbackPhoto.url,
   };
 }
 
