@@ -1,4 +1,5 @@
 import { motion } from 'framer-motion';
+import { Link } from 'react-router-dom';
 import { Compass, Calendar, MapPin, Sparkles } from 'lucide-react';
 import { allCountries, allDestinations } from '@/data';
 
@@ -22,9 +23,7 @@ export function AboutPage() {
             About When to Wander
           </p>
           <h1 className="text-3xl md:text-5xl font-bold text-white tracking-tight mb-6">
-            Every place has a moment.
-            <br />
-            Find yours.
+            About When to Wander
           </h1>
         </motion.div>
 
@@ -45,6 +44,25 @@ export function AboutPage() {
             I go? And why does that moment matter? From there, the journey is yours.
           </p>
         </motion.div>
+
+        <section aria-labelledby="using-the-guides" className="mt-10 space-y-4">
+          <h2 id="using-the-guides" className="text-2xl font-bold text-white">How to use our seasonal travel guides</h2>
+          <p className="text-stone-300 text-base leading-relaxed">
+            When to Wander, also written as WhentoWander, brings together {allCountries.length} country guides and a twelve-month travel calendar.
+            If your dates are fixed, start with <Link to="/months" className="text-amber-300 underline underline-offset-4">where to travel by month</Link>.
+            If you already know where you want to go, open a <Link to="/countries" className="text-amber-300 underline underline-offset-4">country guide</Link> and compare its seasonal notes with your intended route.
+          </p>
+          <p className="text-stone-300 text-base leading-relaxed">
+            Recommendations describe broad seasonal patterns, not live weather, current prices or guaranteed sightings.
+            Mountain access, coastal rain and city temperatures can differ within the same country. Use the guides to make a shortlist,
+            then check local forecasts, official travel advisories, entry rules and transport schedules before committing to a trip.
+          </p>
+          <p className="text-stone-300 text-base leading-relaxed">
+            For <Link to="/events" className="text-amber-300 underline underline-offset-4">festivals and seasonal events</Link>, follow the listed official sources to confirm this year's dates.
+            For <Link to="/phenomena" className="text-amber-300 underline underline-offset-4">natural wonders</Link>, check local conditions close to departure.
+            Guides without detailed local information should be treated as a starting point for further research, not a complete itinerary.
+          </p>
+        </section>
 
         {/* Stats */}
         <div className="grid grid-cols-2 md:grid-cols-4 gap-4 my-16">

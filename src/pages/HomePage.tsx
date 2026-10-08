@@ -17,6 +17,7 @@ import { SectionHeading } from '@/components/SectionHeading';
 import { DestinationCard } from '@/components/DestinationCard';
 import { RecommendationPanel } from '@/components/RecommendationPanel';
 import { SmartImage } from '@/components/SmartImage';
+import { TravelPlanningGuide, TravelPlanningFaq } from '@/components/TravelPlanningGuide';
 
 const heroSuggestions = ['Japan', 'Switzerland', 'Iceland', 'Türkiye', 'New Zealand'];
 
@@ -77,9 +78,9 @@ export function HomePage() {
             transition={{ duration: 0.8, delay: 0.4 }}
             className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white tracking-tight leading-tight mb-6"
           >
-            Every place has a moment.
+            Find the best time
             <br />
-            <span className="text-amber-400">Find yours.</span>
+            <span className="text-amber-400">to visit.</span>
           </motion.h1>
 
           <motion.p
@@ -88,7 +89,8 @@ export function HomePage() {
             transition={{ duration: 0.8, delay: 0.6 }}
             className="text-white/70 text-base sm:text-lg leading-relaxed mb-10 max-w-xl mx-auto"
           >
-            Discover extraordinary destinations and the best moments to experience them.
+            Compare seasonal travel guides for {allCountries.length} countries. Choose where to go by month,
+            regional weather patterns, festivals and the experiences you love.
           </motion.p>
 
           <motion.form
@@ -166,6 +168,8 @@ export function HomePage() {
           <ChevronDown className="w-6 h-6 text-white/40 animate-bounce" />
         </motion.div>
       </section>
+
+      <TravelPlanningGuide />
 
       {/* WHERE TO GO THIS MONTH */}
       <section className="py-20 md:py-28 px-4 sm:px-6 lg:px-8 bg-stone-950">
@@ -391,6 +395,8 @@ export function HomePage() {
           </div>
         </div>
       </section>
+
+      <TravelPlanningFaq />
     </div>
   );
 }

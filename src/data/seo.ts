@@ -23,7 +23,7 @@ interface PageDescription {
 }
 
 const pages: Record<string, Omit<PageDescription, 'path'>> = {
-  '/': { title: 'When to Wander | Best Time to Visit & Seasonal Travel Guides', description: site.description },
+  '/': { title: 'When to Wander | Best Time to Visit 195 Countries', description: site.description },
   '/countries': { title: '195 Country Travel Guides & Best Times to Visit', description: 'Compare 195 country guides with recommended travel months, regional seasons, cultural highlights and credited photo galleries. Find your next destination.', collection: true },
   '/months': { title: 'Where to Travel by Month | January to December', description: 'Choose when to travel with our month-by-month calendar. Explore seasonal destinations, regional weather guidance and practical tips for all twelve months.', collection: true },
   '/experiences': { title: 'Travel Experiences | Nature, Culture, Beaches & Adventure', description: 'Find a trip that fits your interests: mountains, beaches, culture, wildlife and more. Compare destinations and recommended visiting months by experience.', collection: true },
@@ -74,7 +74,7 @@ export function getPageSeo(pathname: string, search = '') {
     '@graph': [
       { '@type': page.collection ? 'CollectionPage' : 'WebPage', '@id': `${canonical}#webpage`, url: canonical, name: title, description: page.description, inLanguage: 'en', isPartOf: { '@id': `${SITE_URL}/#website` }, ...(page.country ? { about: { '@type': 'TouristDestination', name: page.country } } : {}) },
       ...(path === '/' ? [
-        { '@type': 'WebSite', '@id': `${SITE_URL}/#website`, url: `${SITE_URL}/`, name: site.name, description: site.description, publisher: { '@id': `${SITE_URL}/#organization` } },
+        { '@type': 'WebSite', '@id': `${SITE_URL}/#website`, url: `${SITE_URL}/`, name: site.name, alternateName: site.alternateName, description: site.description, inLanguage: 'en', publisher: { '@id': `${SITE_URL}/#organization` } },
         { '@type': 'Organization', '@id': `${SITE_URL}/#organization`, name: site.name, url: `${SITE_URL}/`, logo: `${SITE_URL}/icon-512.png` },
       ] : [{ '@type': 'BreadcrumbList', itemListElement: [
         { '@type': 'ListItem', position: 1, name: 'Home', item: `${SITE_URL}/` },

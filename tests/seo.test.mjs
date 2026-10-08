@@ -83,6 +83,43 @@ test('public pages render real headings, content and links without browser JavaS
   }
 });
 
+test('homepage search description and site identity match the visible travel content', () => {
+  const metadata = seo.getPageSeo('/');
+  assert.equal(metadata.title, 'When to Wander | Best Time to Visit 195 Countries');
+  assert.match(metadata.description, /^When to Wander helps you find the best time to visit 195 countries/);
+  const website = metadata.structuredData['@graph'].find(item => item['@type'] === 'WebSite');
+  assert.equal(website.alternateName, 'WhentoWander');
+  assert.equal(website.url, `${seo.SITE_URL}/`);
+  assert.equal(website.description, metadata.description);
+  const template = readFileSync(path.join(root, 'index.html'), 'utf8');
+  assert.ok(template.includes(metadata.title));
+  assert.ok(template.includes(metadata.description));
+
+  const html = renderPage('/');
+  assert.equal((html.match(/<h1[\s>]/g) ?? []).length, 1);
+  assert.match(html, /Find the best time/);
+  assert.match(html, /Seasonal travel guides: where to go and when/);
+  assert.match(html.replace(/<!--.*?-->/g, ''), /195 countries/);
+  assert.match(html, /Questions about planning a seasonal trip/);
+  assert.equal((html.match(/<details[\s>]/g) ?? []).length, 4);
+  assert.match(html, /When to Wander \(WhentoWander\)/);
+  assert.match(html, /not a guarantee of good weather or low prices/);
+  assert.match(html, /Confirm dates with organisers/);
+  for (const route of ['/months', '/countries', '/experiences', '/about', '/phenomena']) {
+    assert.ok(seo.PUBLIC_PATHS.includes(route));
+    assert.ok(html.includes(`href="${route}"`));
+  }
+});
+
+test('about page explains scope and limitations in server-rendered content', () => {
+  const html = renderPage('/about');
+  assert.match(html, /About When to Wander<\/h1>/);
+  assert.match(html, /How to use our seasonal travel guides/);
+  assert.match(html, /not live weather, current prices or guaranteed sightings/);
+  assert.match(html, /official travel advisories/);
+  assert.ok(html.includes('href="/events"'));
+});
+
 test('browser, touch and social branding assets exist at their declared dimensions', () => {
   for (const [filename, width, height] of [
     ['favicon-32.png', 32, 32], ['apple-touch-icon.png', 180, 180],
