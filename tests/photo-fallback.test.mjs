@@ -11,9 +11,11 @@ const root = fileURLToPath(new URL('..', import.meta.url));
 const photo = JSON.parse(await readFile(path.join(root, 'src/data/fallbackPhoto.json'), 'utf8'));
 const server = await createServer({ root, server: { middlewareMode: true, hmr: false, ws: false }, appType: 'custom' });
 let SmartImage;
+let Gallery;
 let data;
 try {
   ({ SmartImage } = await server.ssrLoadModule('/src/components/SmartImage.tsx'));
+  ({ Gallery } = await server.ssrLoadModule('/src/components/Gallery.tsx'));
   data = await server.ssrLoadModule('/src/data/index.ts');
 } finally {
   await server.close();
@@ -64,6 +66,20 @@ test('SmartImage keeps primary photos and identifies a generic fallback honestly
     assert.match(html, /Requested photo: Requested subject/);
     assert.doesNotMatch(html, /Travel illustration/);
   }
+});
+
+test('gallery tries the same photograph original when its preview is missing', () => {
+  const image = { url: '', fullUrl: 'https://example.com/original.jpg', alt: 'Lake photograph', caption: 'Lake photograph' };
+  const html = renderToStaticMarkup(createElement(Gallery, { images: [image] }));
+  assert.ok(html.includes(`src="${image.fullUrl}"`));
+  assert.match(html, /alt="Lake photograph"/);
+  assert.ok(!html.includes(`src="${photo.url}"`));
+
+  const previewHtml = renderToStaticMarkup(createElement(Gallery, { images: [{ ...image, url: '/preview.jpg' }] }));
+  assert.match(previewHtml, /src="\/preview.jpg"/);
+
+  const fallbackHtml = renderToStaticMarkup(createElement(Gallery, { images: [{ ...image, fullUrl: undefined }] }));
+  assert.ok(fallbackHtml.includes(`src="${photo.url}"`));
 });
 
 test('no illustrated fallback remains in application source or public fallback assets', async () => {

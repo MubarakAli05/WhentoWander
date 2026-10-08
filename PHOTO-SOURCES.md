@@ -10,9 +10,11 @@ Only photographs explicitly marked CC0, public domain, CC BY, or CC BY-SA are ac
 
 The mountain-and-sun illustration has been removed. Every `SmartImage` and country image fallback chain now shares `src/data/fallbackPhoto.json`, which points to the bundled `public/images/fallback/travel-landscape-4k.jpg`: **3,840 × 2,560 actual pixels**, proportionally reduced from a 6,000 × 4,000 original, never upscaled. This photograph of Lake Pukaki and Aoraki / Mount Cook is by **HoarfrostFeather**, from [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Lake_Pukaki_by_Hoarfroster.jpg), licensed [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0). The resized, JPEG-recompressed version retains that license; layout-dependent display crops are disclosed in the site footer alongside source and license links.
 
-Existing subject photos and country-specific fallback ordering are preserved. Only when those sources fail does the local 4K landscape appear. Its accessible description and caption identify it as a generic travel fallback rather than falsely depicting the requested destination, food, or event. If even the bundled photo fails, the existing accessible “photo unavailable” state remains. No remote image service is needed to load this final fallback. Branding icons are unchanged.
+Existing subject photos and country-specific fallback ordering are preserved. Gallery cards try the original of the same photograph if its local preview fails, before using the generic landscape; the full-screen viewer already tries the original followed by its local preview. Only when those sources fail does the local 4K landscape appear. Its accessible description and caption identify it as a generic travel fallback rather than falsely depicting the requested destination, food, or event. If even the bundled photo fails, the existing accessible “photo unavailable” state remains. No remote image service is needed to load this final fallback. Branding icons are unchanged.
 
 Validate with `node --test tests/photo-fallback.test.mjs tests/country-data.test.mjs` and the normal build, typecheck, and lint commands.
+
+When viewing a local production preview, keep `npm run preview -- --host 127.0.0.1 --port 4173 --strictPort` running after building. Stopping the server leaves already loaded HTML visible but prevents off-screen, lazy-loaded photos (including local fallbacks) from downloading. Restart the preview and reload the page to recover; this local server state is independent of the deployed website.
 
 ## Resolution and offline behavior
 

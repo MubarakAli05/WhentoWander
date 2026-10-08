@@ -34,7 +34,12 @@ export function Gallery({ images, contextLabel }: Props) {
               aria-label={`Open image: ${img.caption || img.alt}`}
               aria-haspopup="dialog"
             >
-              <SmartImage src={img.url} alt={img.alt} className="w-full h-full group-hover:scale-105 transition-transform duration-700" />
+              <SmartImage
+                src={img.url}
+                fallbackSources={img.fullUrl ? [img.fullUrl] : []}
+                alt={img.alt}
+                className="w-full h-full group-hover:scale-105 transition-transform duration-700"
+              />
               <div className="absolute inset-0 bg-gradient-to-t from-black/70 via-transparent to-transparent" />
               <span className="absolute bottom-4 left-4 flex items-center gap-2 text-xs text-white"><Camera className="h-4 w-4" /> Explore photograph</span>
               {(img.width ?? 0) >= 3840 && (img.height ?? 0) >= 2160 && (
