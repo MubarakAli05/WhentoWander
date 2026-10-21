@@ -1,0 +1,505 @@
+{
+  "sources": [
+    {
+      "title": "Trinidad and Tobago",
+      "url": "https://en.wikivoyage.org/wiki/Trinidad_and_Tobago",
+      "checkedAt": "2026-10-21T08:12:49.243Z"
+    },
+    {
+      "title": "Port of Spain",
+      "url": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "checkedAt": "2026-10-21T08:12:52.320Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Port-of-Spain",
+      "kind": "area",
+      "locality": "Trinidad and Tobago",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Trinidad_and_Tobago",
+      "id": "trinidad-and-tobago-22781629ba30606b9d66"
+    },
+    {
+      "name": "Arima",
+      "kind": "area",
+      "locality": "Trinidad and Tobago",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Trinidad_and_Tobago",
+      "id": "trinidad-and-tobago-d7119aea03f7e0b31a8b"
+    },
+    {
+      "name": "Chaguanas",
+      "kind": "area",
+      "locality": "Trinidad and Tobago",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Trinidad_and_Tobago",
+      "id": "trinidad-and-tobago-1d7868d4f7ac8a8ec500"
+    },
+    {
+      "name": "Chaguaramas",
+      "kind": "area",
+      "locality": "Trinidad and Tobago",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Trinidad_and_Tobago",
+      "id": "trinidad-and-tobago-11157ebb24c4f0c05287"
+    },
+    {
+      "name": "Point Fortin",
+      "kind": "area",
+      "locality": "Trinidad and Tobago",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Trinidad_and_Tobago",
+      "id": "trinidad-and-tobago-dc6624d38b89084abe7b"
+    },
+    {
+      "name": "San Fernando",
+      "kind": "area",
+      "locality": "Trinidad and Tobago",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Trinidad_and_Tobago",
+      "id": "trinidad-and-tobago-cb3469bf7261b8d6f168"
+    },
+    {
+      "name": "Scarborough",
+      "kind": "area",
+      "locality": "Trinidad and Tobago",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Trinidad_and_Tobago",
+      "id": "trinidad-and-tobago-463990db6ba5f87477b0"
+    },
+    {
+      "name": "Carnival",
+      "kind": "do",
+      "locality": "Trinidad and Tobago",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Trinidad_and_Tobago",
+      "id": "trinidad-and-tobago-6e1d5700706abb3994ba"
+    },
+    {
+      "name": "Carnival",
+      "kind": "do",
+      "locality": "Port of Spain",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "url": "http://www.ncctt.org/new/",
+      "id": "trinidad-and-tobago-4dd84ca4d25f64904b50"
+    },
+    {
+      "name": "International Waterfront Centre",
+      "kind": "do",
+      "locality": "Port of Spain",
+      "lat": 10.6498822,
+      "lon": -61.51789,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "1A Wrightson Rd",
+      "id": "trinidad-and-tobago-a0152c13ad89df540ff2"
+    },
+    {
+      "name": "National Academy for Performing Arts",
+      "kind": "do",
+      "locality": "Port of Spain",
+      "lat": 10.6635806,
+      "lon": -61.5129246,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "Frederick St",
+      "url": "https://mtca.gov.tt/tourism_facilities/national-academy-for-the-performing-arts-lord-kitchener-auditorium-napa/",
+      "id": "trinidad-and-tobago-b4d6250e880221e59030"
+    },
+    {
+      "name": "Emperor Valley Zoo",
+      "kind": "do",
+      "locality": "Port of Spain",
+      "lat": 10.674204,
+      "lon": -61.518746,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "id": "trinidad-and-tobago-7f130f68b44422872801"
+    },
+    {
+      "name": "Royal Botanic Gardens",
+      "kind": "do",
+      "locality": "Port of Spain",
+      "lat": 10.6749322,
+      "lon": -61.5147188,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "Circular Rd, Cotton Hill",
+      "url": "https://agriculture.gov.tt/divisions-units/divisions/horticulture-services/royal-botanic-gardens-unit/",
+      "id": "trinidad-and-tobago-3693e703e94c5eca86f3"
+    },
+    {
+      "name": "Royal Victoria Institute",
+      "kind": "do",
+      "locality": "Port of Spain",
+      "lat": 10.6629,
+      "lon": -61.5103,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "Frederick St",
+      "url": "http://nationaltrust.tt/location/royal-victoria-institute/",
+      "id": "trinidad-and-tobago-bbc69b269238049c4dd3"
+    },
+    {
+      "name": "The Magnificent Seven Houses",
+      "kind": "do",
+      "locality": "Port of Spain",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "Maraval Road",
+      "id": "trinidad-and-tobago-a3f22e177a63e92c4c0d"
+    },
+    {
+      "name": "Roomor",
+      "kind": "do",
+      "locality": "Port of Spain",
+      "lat": 10.6707634,
+      "lon": -61.5216808,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "id": "trinidad-and-tobago-8830bdc80a8984dd1149"
+    },
+    {
+      "name": "Queen's Royal College",
+      "kind": "do",
+      "locality": "Port of Spain",
+      "lat": 10.66872,
+      "lon": -61.521871,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "id": "trinidad-and-tobago-107ba64fa9aa62362756"
+    },
+    {
+      "name": "Stollmeyer's Castle",
+      "kind": "do",
+      "locality": "Port of Spain",
+      "lat": 10.6724402,
+      "lon": -61.5214714,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "id": "trinidad-and-tobago-69ba1f2058ce899f8feb"
+    },
+    {
+      "name": "Knowsley Building",
+      "kind": "do",
+      "locality": "Port of Spain",
+      "lat": 10.6635027,
+      "lon": -61.5155117,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "Dundonald St, City side of the Savannah",
+      "url": "http://nationaltrust.tt/location/knowsley-building/",
+      "id": "trinidad-and-tobago-100d6cfd8189abc7bf73"
+    },
+    {
+      "name": "Woodford Square",
+      "kind": "do",
+      "locality": "Port of Spain",
+      "lat": 10.6532195,
+      "lon": -61.5131024,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "Frederick Street",
+      "url": "http://nationaltrust.tt/location/woodford-square/",
+      "id": "trinidad-and-tobago-a2acbbffdbed1928ac74"
+    },
+    {
+      "name": "Independence Square",
+      "kind": "do",
+      "locality": "Port of Spain",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "id": "trinidad-and-tobago-98faa7e2604d1e77e673"
+    },
+    {
+      "name": "Nicholas Tower",
+      "kind": "do",
+      "locality": "Port of Spain",
+      "lat": 10.6492,
+      "lon": -61.5133749,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "id": "trinidad-and-tobago-96f2e6632db6d46be77e"
+    },
+    {
+      "name": "Eric Williams Plaza",
+      "kind": "do",
+      "locality": "Port of Spain",
+      "lat": 10.6492398,
+      "lon": -61.5149614,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "id": "trinidad-and-tobago-a15ebb38cacb0aceced1"
+    },
+    {
+      "name": "Caroni Bird Sanctuary",
+      "kind": "do",
+      "locality": "Port of Spain",
+      "lat": 10.591389,
+      "lon": -61.455278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "id": "trinidad-and-tobago-f4a5cb7c6f301ae94a1f"
+    },
+    {
+      "name": "Queen's Park Savannah",
+      "kind": "do",
+      "locality": "Port of Spain",
+      "lat": 10.6645311,
+      "lon": -61.516615,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "11 Queen's Park E",
+      "id": "trinidad-and-tobago-a61dae676216bf162355"
+    },
+    {
+      "name": "Cricket at Queen's Park Oval",
+      "kind": "do",
+      "locality": "Port of Spain",
+      "lat": 10.6674,
+      "lon": -61.5237,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "Tragarete Rd",
+      "url": "https://qpcc.com/",
+      "id": "trinidad-and-tobago-0f832b9736d711ca3b2e"
+    },
+    {
+      "name": "Bird watching at Asa Wright",
+      "kind": "do",
+      "locality": "Port of Spain",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "id": "trinidad-and-tobago-b427588c6dc400d8bf1d"
+    },
+    {
+      "name": "Mano's Food Delight",
+      "kind": "eat",
+      "locality": "Port of Spain",
+      "lat": 10.6566129,
+      "lon": -61.5120441,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "52-B Park Street",
+      "id": "trinidad-and-tobago-fd6ef5c890b7d594ff66"
+    },
+    {
+      "name": "Dopson's Roti",
+      "kind": "eat",
+      "locality": "Port of Spain",
+      "lat": 10.6640323,
+      "lon": -61.5191916,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "Maraval Road",
+      "id": "trinidad-and-tobago-9baf3f53ed27a9896a8f"
+    },
+    {
+      "name": "George and Son Doubles",
+      "kind": "eat",
+      "locality": "Port of Spain",
+      "lat": 10.6639018,
+      "lon": -61.5224042,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "Carlos St",
+      "id": "trinidad-and-tobago-003ce0c20cbc7080ceed"
+    },
+    {
+      "name": "Sauce On The Avenue",
+      "kind": "eat",
+      "locality": "Port of Spain",
+      "lat": 10.663257,
+      "lon": -61.5268942,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "Ariapita Ave",
+      "id": "trinidad-and-tobago-825af312ad357593e774"
+    },
+    {
+      "name": "Royal Castle",
+      "kind": "eat",
+      "locality": "Port of Spain",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "id": "trinidad-and-tobago-63fa6d7196315d1406fb"
+    },
+    {
+      "name": "Lola's Food Company",
+      "kind": "eat",
+      "locality": "Port of Spain",
+      "lat": 10.6621269,
+      "lon": -61.5190051,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "82 Tragarete Rd",
+      "id": "trinidad-and-tobago-31b42b49f3600b312289"
+    },
+    {
+      "name": "Town Restaurant & Bar",
+      "kind": "eat",
+      "locality": "Port of Spain",
+      "lat": 10.6624804,
+      "lon": -61.5167052,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "51 Cipriani Blvd",
+      "id": "trinidad-and-tobago-89aac0409a0b1d6ba2a6"
+    },
+    {
+      "name": "Jenny's on the Boulevard",
+      "kind": "eat",
+      "locality": "Port of Spain",
+      "lat": 10.6610142,
+      "lon": -61.516626,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "6 Cipriani Blvd",
+      "id": "trinidad-and-tobago-e6c024d6752b6a0f4e14"
+    },
+    {
+      "name": "House of Chan",
+      "kind": "eat",
+      "locality": "Port of Spain",
+      "lat": 10.6636547,
+      "lon": -61.5175316,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "Corner of Warner &, Woodford St",
+      "id": "trinidad-and-tobago-7958239c17f6f869122b"
+    },
+    {
+      "name": "Creole Kitchen",
+      "kind": "eat",
+      "locality": "Port of Spain",
+      "lat": 10.6776045,
+      "lon": -61.52128,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "22 Boissiere Village #1",
+      "id": "trinidad-and-tobago-c3868c6d1d75428719f7"
+    },
+    {
+      "name": "Angelo's",
+      "kind": "eat",
+      "locality": "Port of Spain",
+      "lat": 10.6602771,
+      "lon": -61.5211191,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "38 Ariapita Ave",
+      "id": "trinidad-and-tobago-52e84df67c34056498c4"
+    },
+    {
+      "name": "Maracas Bay Hotel",
+      "kind": "stay",
+      "locality": "Port of Spain",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "Maracas Bay Rd",
+      "price": "From US$87",
+      "url": "http://www.maracasbay.com/",
+      "id": "trinidad-and-tobago-d3e47edb0361cf30bea7"
+    },
+    {
+      "name": "Monique's Guest House",
+      "kind": "stay",
+      "locality": "Port of Spain",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "114-116 Saddle Rd",
+      "price": "From US$70",
+      "url": "http://www.moniquestrinidad.com/",
+      "id": "trinidad-and-tobago-9b33db9f832c3cdcf693"
+    },
+    {
+      "name": "Par May Las Inn",
+      "kind": "stay",
+      "locality": "Port of Spain",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "53 Picton Street, Newtown,",
+      "price": "From US$56",
+      "id": "trinidad-and-tobago-83405d96e330f2bdac9f"
+    },
+    {
+      "name": "S&D Guesthouse",
+      "kind": "stay",
+      "locality": "Port of Spain",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "4 La Puerta Court, Diego Martin",
+      "price": "From US$40",
+      "id": "trinidad-and-tobago-b36e3fc1f562ad10557f"
+    },
+    {
+      "name": "Samise Villa Bed & Breakfast",
+      "kind": "stay",
+      "locality": "Port of Spain",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "47 St. Anns Road, St. Anns",
+      "price": "From US$35",
+      "url": "http://www.samisevillatrinidad.webs.com/",
+      "id": "trinidad-and-tobago-1fb5b7ed51b68f647989"
+    },
+    {
+      "name": "The Little Inn",
+      "kind": "stay",
+      "locality": "Port of Spain",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "41 Picton St",
+      "price": "from US$50 per double room and from US$22 per person for groups over 8",
+      "url": "http://www.facebook.com/pages/edit/?id=167406443294757&sk=basic#!/pages/The-Little-Inn-and-The-Miracle-Healing-Inn/167406443294757?v=wall",
+      "id": "trinidad-and-tobago-e53f3a8c2c1228227829"
+    },
+    {
+      "name": "Tony's Guest House",
+      "kind": "stay",
+      "locality": "Port of Spain",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "Papnis Drive, Petit Valley",
+      "price": "From US$30",
+      "id": "trinidad-and-tobago-d1eb2eff4d21d1a3b2e2"
+    },
+    {
+      "name": "The Brix",
+      "kind": "stay",
+      "locality": "Port of Spain",
+      "lat": 10.6728917,
+      "lon": -61.5113149,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "2-4 Coblentz Ave",
+      "url": "https://www.marriott.com/hotels/fact-sheet/travel/posak-the-brix-autograph-collection/",
+      "id": "trinidad-and-tobago-cac208b94b6752119d7a"
+    },
+    {
+      "name": "Courtyard by Marriott Port of Spain",
+      "kind": "stay",
+      "locality": "Port of Spain",
+      "lat": 10.65976,
+      "lon": -61.5369612,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "Invaders Bay, Audrey Jeffers Highway",
+      "price": "US$149",
+      "url": "https://www.marriott.com/hotels/travel/poscy-courtyard-port-of-spain/",
+      "id": "trinidad-and-tobago-f52b055968eb3bbf8623"
+    },
+    {
+      "name": "Crowne Plaza",
+      "kind": "stay",
+      "locality": "Port of Spain",
+      "lat": 10.659651,
+      "lon": -61.534126,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "Corner Wrightson Rd and London St",
+      "price": "US$190 inc tax and service",
+      "url": "http://www.ichotelsgroup.com/h/d/cp/1/en/hotel/postd",
+      "id": "trinidad-and-tobago-fdfc6be93c5595fa3f22"
+    },
+    {
+      "name": "Hilton Trinidad & Conference Center",
+      "kind": "stay",
+      "locality": "Port of Spain",
+      "lat": 10.6719954,
+      "lon": -61.5112912,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "Lady Young Road",
+      "url": "https://www.hilton.com/en/hotels/poshihh-hilton-trinidad-and-conference-centre/",
+      "id": "trinidad-and-tobago-1e812b3d33170c6c68ed"
+    },
+    {
+      "name": "Hyatt Regency Trinidad",
+      "kind": "stay",
+      "locality": "Port of Spain",
+      "lat": 10.6504832,
+      "lon": -61.5185508,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "1 Wrightson Road,",
+      "price": "US$250 minimum inc. taxes",
+      "id": "trinidad-and-tobago-f105973a06a8cdfc9c39"
+    },
+    {
+      "name": "Kapok Hotel",
+      "kind": "stay",
+      "locality": "Port of Spain",
+      "lat": 10.6749658,
+      "lon": -61.5218811,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "address": "16-18 Cotton Hill",
+      "price": "US$180",
+      "url": "http://www.kapokhotel.com/",
+      "id": "trinidad-and-tobago-9fa025ad07fc57ce327d"
+    },
+    {
+      "name": "Port of Spain",
+      "kind": "area",
+      "locality": "Port of Spain",
+      "lat": 10.66103,
+      "lon": -61.516079,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_of_Spain",
+      "id": "trinidad-and-tobago-3887b1ca1697ecbf356d"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

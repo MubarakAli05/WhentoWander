@@ -1,0 +1,314 @@
+{
+  "sources": [
+    {
+      "title": "Liberia",
+      "url": "https://en.wikivoyage.org/wiki/Liberia",
+      "checkedAt": "2026-10-21T08:10:34.434Z"
+    },
+    {
+      "title": "Monrovia",
+      "url": "https://en.wikivoyage.org/wiki/Monrovia",
+      "checkedAt": "2026-10-21T08:10:37.227Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Monrovia",
+      "kind": "area",
+      "locality": "Liberia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Liberia",
+      "id": "liberia-e2c728922c85da7d23e8"
+    },
+    {
+      "name": "Robertsport",
+      "kind": "area",
+      "locality": "Liberia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Liberia",
+      "id": "liberia-73d3f59d97a07527644a"
+    },
+    {
+      "name": "Greenville",
+      "kind": "area",
+      "locality": "Liberia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Liberia",
+      "id": "liberia-7b6e7887c08cbe23e932"
+    },
+    {
+      "name": "Harper",
+      "kind": "area",
+      "locality": "Liberia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Liberia",
+      "id": "liberia-d4dac59326643d523ab1"
+    },
+    {
+      "name": "Paynesville",
+      "kind": "area",
+      "locality": "Liberia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Liberia",
+      "id": "liberia-0dfa733d7d98d78896db"
+    },
+    {
+      "name": "National Museum of Liberia",
+      "kind": "do",
+      "locality": "Monrovia",
+      "lat": 6.3158,
+      "lon": -10.804,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monrovia",
+      "id": "liberia-068dcbb849185f159649"
+    },
+    {
+      "name": "Ducor Hotel",
+      "kind": "do",
+      "locality": "Monrovia",
+      "lat": 6.320278,
+      "lon": -10.813611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monrovia",
+      "price": "US$5 in 2019",
+      "id": "liberia-80c7d406279ac942164b"
+    },
+    {
+      "name": "Blo Degbo—Rock formation",
+      "kind": "do",
+      "locality": "Monrovia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monrovia",
+      "id": "liberia-d63803df980b214a3f12"
+    },
+    {
+      "name": "Samuel Kanyon Doe Sports Complex",
+      "kind": "do",
+      "locality": "Monrovia",
+      "lat": 6.257017,
+      "lon": -10.702067,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monrovia",
+      "id": "liberia-243cdf3b94abeea08428"
+    },
+    {
+      "name": "Antoinette Tubman Stadium",
+      "kind": "do",
+      "locality": "Monrovia",
+      "lat": 6.309,
+      "lon": -10.804111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monrovia",
+      "id": "liberia-fa9e3c7465f03d314d76"
+    },
+    {
+      "name": "Diana",
+      "kind": "eat",
+      "locality": "Monrovia",
+      "lat": 6.3162,
+      "lon": -10.80684,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monrovia",
+      "url": "https://dianaliberia.com/",
+      "id": "liberia-cd7958126fea1709b8c7"
+    },
+    {
+      "name": "The Living Room Sushi Restaurant",
+      "kind": "eat",
+      "locality": "Monrovia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monrovia",
+      "address": "Tubman Boulevard",
+      "id": "liberia-2d124fe2865c7d8881ae"
+    },
+    {
+      "name": "The Barracuda Seafood and Sushi Bar",
+      "kind": "eat",
+      "locality": "Monrovia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monrovia",
+      "url": "https://mambapointhotel.com/dining-2/",
+      "id": "liberia-0f115878ca33eb3d68e0"
+    },
+    {
+      "name": "P.A.'s Rib House",
+      "kind": "eat",
+      "locality": "Monrovia",
+      "lat": 6.29139,
+      "lon": -10.76233,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monrovia",
+      "address": "Near Spriggs-Payne Airfield",
+      "id": "liberia-89ba2ad756dfa35eee9b"
+    },
+    {
+      "name": "Sajj House Restaurant",
+      "kind": "eat",
+      "locality": "Monrovia",
+      "lat": 6.29025,
+      "lon": -10.77617,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monrovia",
+      "address": "Tubman Blvd, Sinkor",
+      "url": "https://www.facebook.com/profile.php?id=100054564124933&mibextid=ZbWKwL",
+      "id": "liberia-9152b1956bc8f8e35a20"
+    },
+    {
+      "name": "Rangoli Restaurant",
+      "kind": "eat",
+      "locality": "Monrovia",
+      "lat": 6.29395,
+      "lon": -10.78907,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monrovia",
+      "id": "liberia-8438b0e57f504ad16154"
+    },
+    {
+      "name": "FuZion D'Afrique Restaurant",
+      "kind": "eat",
+      "locality": "Monrovia",
+      "lat": 6.29219,
+      "lon": -10.77992,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monrovia",
+      "url": "https://www.facebook.com/FuZiondAfrique",
+      "id": "liberia-5774a33e60807a66a2ff"
+    },
+    {
+      "name": "Monoprix",
+      "kind": "eat",
+      "locality": "Monrovia",
+      "lat": 6.31624,
+      "lon": -10.80872,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monrovia",
+      "address": "Benson Street",
+      "id": "liberia-f5421f6f39288c0c9f5b"
+    },
+    {
+      "name": "Greenland",
+      "kind": "eat",
+      "locality": "Monrovia",
+      "lat": 6.29458,
+      "lon": -10.78769,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monrovia",
+      "address": "Tubman Boulevard",
+      "id": "liberia-816af5d8783d14381855"
+    },
+    {
+      "name": "Exclusive Supermarket",
+      "kind": "eat",
+      "locality": "Monrovia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monrovia",
+      "id": "liberia-973fc75cb694cf66c963"
+    },
+    {
+      "name": "Exclusive Supermarket",
+      "kind": "eat",
+      "locality": "Monrovia",
+      "lat": 6.26513,
+      "lon": -10.70156,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monrovia",
+      "address": "Tubman Boulevard",
+      "id": "liberia-104883a4c4ac89f5cb86"
+    },
+    {
+      "name": "Exclusive Supermarket",
+      "kind": "eat",
+      "locality": "Monrovia",
+      "lat": 6.31541,
+      "lon": -10.8039,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monrovia",
+      "id": "liberia-5607ba5cc0855364065e"
+    },
+    {
+      "name": "Paddy’s Sports Bar",
+      "kind": "eat",
+      "locality": "Monrovia",
+      "lat": 6.320419,
+      "lon": -10.815859,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monrovia",
+      "url": "https://mambapointhotel.com/dining-2/",
+      "id": "liberia-a46fcaf351bd456bdc14"
+    },
+    {
+      "name": "St. Teresa's Convent",
+      "kind": "stay",
+      "locality": "Monrovia",
+      "lat": 6.30843,
+      "lon": -10.80929,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monrovia",
+      "address": "Randall Street",
+      "price": "Beds: $10–15/night",
+      "id": "liberia-442cc26c092672d65fc3"
+    },
+    {
+      "name": "Corina Hotel",
+      "kind": "stay",
+      "locality": "Monrovia",
+      "lat": 6.28584,
+      "lon": -10.76897,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monrovia",
+      "address": "Tubman Blvd at 24th St",
+      "url": "https://www.corinahotelliberia.info/",
+      "id": "liberia-3b3b798d8ebf97a63052"
+    },
+    {
+      "name": "Hotel Provident",
+      "kind": "stay",
+      "locality": "Monrovia",
+      "lat": 6.29127,
+      "lon": -10.786,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monrovia",
+      "address": "9th St., Sinkor",
+      "id": "liberia-2dfcb8878f78f0c6e993"
+    },
+    {
+      "name": "Moko's Guest House",
+      "kind": "stay",
+      "locality": "Monrovia",
+      "lat": 6.28755,
+      "lon": -10.77616,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monrovia",
+      "price": "About US$80-100 per night",
+      "id": "liberia-44c885475b023e33810b"
+    },
+    {
+      "name": "Mamba Point",
+      "kind": "stay",
+      "locality": "Monrovia",
+      "lat": 6.311444,
+      "lon": -10.81424,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monrovia",
+      "address": "United Nations Dr",
+      "price": "Starting at US$194",
+      "url": "https://mambapointhotel.com/",
+      "id": "liberia-8d9c2ee4eda6b92247dc"
+    },
+    {
+      "name": "Royal Hotel",
+      "kind": "stay",
+      "locality": "Monrovia",
+      "lat": 6.292089,
+      "lon": -10.779251,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monrovia",
+      "address": "Tubman Blvd",
+      "url": "https://royalgrandhotel.com/",
+      "id": "liberia-60619d0563bcca1fb2fc"
+    },
+    {
+      "name": "Kendeja Resorts and Villas",
+      "kind": "stay",
+      "locality": "Monrovia",
+      "lat": 6.233156,
+      "lon": -10.682657,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monrovia",
+      "url": "https://www.kendejaresort.com.lr/",
+      "id": "liberia-4484183aed6f61233b42"
+    },
+    {
+      "name": "The Cape Hotel",
+      "kind": "stay",
+      "locality": "Monrovia",
+      "lat": 6.311764,
+      "lon": -10.815259,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monrovia",
+      "address": "United Nations Dr",
+      "url": "https://thecapehotellib.com/",
+      "id": "liberia-24cdbbf24ff9c77a9838"
+    },
+    {
+      "name": "Monrovia",
+      "kind": "area",
+      "locality": "Monrovia",
+      "lat": 6.31,
+      "lon": -10.804,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monrovia",
+      "id": "liberia-10bd771bf4a89e83f531"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

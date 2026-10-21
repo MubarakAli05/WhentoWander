@@ -1,0 +1,792 @@
+{
+  "sources": [
+    {
+      "title": "Belarus",
+      "url": "https://en.wikivoyage.org/wiki/Belarus",
+      "checkedAt": "2026-10-21T08:08:31.525Z"
+    },
+    {
+      "title": "Minsk",
+      "url": "https://en.wikivoyage.org/wiki/Minsk",
+      "checkedAt": "2026-10-21T08:08:34.743Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Minsk",
+      "kind": "area",
+      "locality": "Belarus",
+      "lat": 53.9,
+      "lon": 27.566667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belarus",
+      "id": "belarus-996705f88f4bef173a2a"
+    },
+    {
+      "name": "Brest",
+      "kind": "area",
+      "locality": "Belarus",
+      "lat": 52.0976214,
+      "lon": 23.7340503,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belarus",
+      "id": "belarus-101e8b6c49e34947e235"
+    },
+    {
+      "name": "Polotsk",
+      "kind": "area",
+      "locality": "Belarus",
+      "lat": 55.4831573,
+      "lon": 28.7990619,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belarus",
+      "id": "belarus-7ef4143e6385e52a5b0c"
+    },
+    {
+      "name": "Gomel",
+      "kind": "area",
+      "locality": "Belarus",
+      "lat": 52.4411761,
+      "lon": 30.9878461,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belarus",
+      "id": "belarus-64c1038e40f6d68edc16"
+    },
+    {
+      "name": "Pinsk",
+      "kind": "area",
+      "locality": "Belarus",
+      "lat": 52.116667,
+      "lon": 26.1,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belarus",
+      "id": "belarus-4c27afc58e625abc5b40"
+    },
+    {
+      "name": "Grodno",
+      "kind": "area",
+      "locality": "Belarus",
+      "lat": 53.6693538,
+      "lon": 23.8131306,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belarus",
+      "id": "belarus-c19d85594351a893a40e"
+    },
+    {
+      "name": "Mogilev",
+      "kind": "area",
+      "locality": "Belarus",
+      "lat": 53.9007159,
+      "lon": 30.3313598,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belarus",
+      "id": "belarus-76a5287f3b3e0d045944"
+    },
+    {
+      "name": "Nesvizh",
+      "kind": "area",
+      "locality": "Belarus",
+      "lat": 53.2226038,
+      "lon": 26.6766138,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belarus",
+      "id": "belarus-4dbe3d8d13b0da1b9103"
+    },
+    {
+      "name": "Vitebsk",
+      "kind": "area",
+      "locality": "Belarus",
+      "lat": 55.1848061,
+      "lon": 30.201622,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belarus",
+      "id": "belarus-534e29e207a5fb769da8"
+    },
+    {
+      "name": "Belarusian National Arts Museum",
+      "kind": "do",
+      "locality": "Minsk",
+      "lat": 53.898333,
+      "lon": 27.560556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Vulitsa Lenina 20",
+      "price": "8 rubles",
+      "url": "http://www.artmuseum.by/eng/main",
+      "id": "belarus-6f87f9a4a4554579d996"
+    },
+    {
+      "name": "Belarusian National History Museum",
+      "kind": "do",
+      "locality": "Minsk",
+      "lat": 53.896667,
+      "lon": 27.555556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "vul. Karla Marksa (вулiца Карла Маркса) 12",
+      "url": "http://www.histmuseum.by/",
+      "id": "belarus-adb90593eaf5a7f6db02"
+    },
+    {
+      "name": "Belarusian Great Patriotic War Museum",
+      "kind": "do",
+      "locality": "Minsk",
+      "lat": 53.91634,
+      "lon": 27.53791,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "praspiekt Pieramožcaŭ, 8",
+      "price": "Adults 8 rubles, students 4 rubles, free on 1st Tuesday of a month",
+      "url": "http://warmuseum.by/",
+      "id": "belarus-21b1cd99f8ab7559f3e7"
+    },
+    {
+      "name": "Art Palace",
+      "kind": "do",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Vulitsa Kazlova 3",
+      "id": "belarus-cf417575314c93c236ef"
+    },
+    {
+      "name": "House of the Vankovichs",
+      "kind": "do",
+      "locality": "Minsk",
+      "lat": 53.905005,
+      "lon": 27.559882,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Internacyjanalnaja street, 33A",
+      "price": "8 rubles (+10 rubles for an optional guided tour)",
+      "url": "https://vankovich.artmuseum.by/en",
+      "id": "belarus-13494ee07dc99e1bc728"
+    },
+    {
+      "name": "Cat Museum",
+      "kind": "do",
+      "locality": "Minsk",
+      "lat": 53.903854,
+      "lon": 27.558705,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Internacyjanalnaja street, 23",
+      "url": "https://catmuseum.by/index_en.html",
+      "id": "belarus-66ef6c18a5b34edd50d5"
+    },
+    {
+      "name": "Cathedral of the Holy Spirit",
+      "kind": "do",
+      "locality": "Minsk",
+      "lat": 53.905,
+      "lon": 27.556111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Vulica Kiryla i Miafodzija, 3",
+      "url": "http://sabor.by/",
+      "id": "belarus-35325a7a6eec876b266d"
+    },
+    {
+      "name": "Saint Apostles Peter and Paul Church",
+      "kind": "do",
+      "locality": "Minsk",
+      "lat": 53.90471,
+      "lon": 27.55176,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Vulica Rakaǔskaja, 4",
+      "url": "http://sppsobor.by/",
+      "id": "belarus-d683a1b5f50b76d5cdc8"
+    },
+    {
+      "name": "Saint Mary Magdalene Church",
+      "kind": "do",
+      "locality": "Minsk",
+      "lat": 53.916225,
+      "lon": 27.553625,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Vulica Kisialiova, 42",
+      "id": "belarus-7833b9d93c357dc0d245"
+    },
+    {
+      "name": "Archcathedral of the Name of the Most Holy Virgin Mary",
+      "kind": "do",
+      "locality": "Minsk",
+      "lat": 53.90313,
+      "lon": 27.55461,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Plosšča Svabody, 9",
+      "url": "https://catholic.by/3/kasciol/parishes/19-mma/3344-minsk-arkhikatedra-imya-najsvyatsejshaj-panny-maryi",
+      "id": "belarus-497465eb19310b159450"
+    },
+    {
+      "name": "Church of Holy Trinity",
+      "kind": "do",
+      "locality": "Minsk",
+      "lat": 53.910908,
+      "lon": 27.579364,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Praspiekt Niezaliežnasci, 44A",
+      "url": "http://roch.by/",
+      "id": "belarus-b51953e796da2bdc2680"
+    },
+    {
+      "name": "St Simon and St Helena Church",
+      "kind": "do",
+      "locality": "Minsk",
+      "lat": 53.8965271,
+      "lon": 27.5453701,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Vulica Savieckaja, 15",
+      "url": "https://chyrvony.by/",
+      "id": "belarus-265b4e69d7b0e53d2737"
+    },
+    {
+      "name": "Alivaria Brewery Tour",
+      "kind": "do",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Vulica Kisialiova Кісялёва, 30",
+      "price": "14 rubles, card payment available",
+      "url": "http://alivaria.by/eng/museum",
+      "id": "belarus-496ab9ed14818d1d594a"
+    },
+    {
+      "name": "Minsk Tractor Works",
+      "kind": "do",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "vul. Daŭhabrockaja, 35",
+      "price": "12 rubles; less for children",
+      "url": "http://belarus-tractor.com/en/company/industrial-tourism/",
+      "id": "belarus-bcef2e6e7b8ed48d72bf"
+    },
+    {
+      "name": "Former Residence of Lee Harvey Oswald",
+      "kind": "do",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Vulitsa Kamunistychnaja 4 (the bottom left apartment)",
+      "id": "belarus-e9e9a930f176768ca88a"
+    },
+    {
+      "name": "KGB Headquarters",
+      "kind": "do",
+      "locality": "Minsk",
+      "lat": 53.8991,
+      "lon": 27.5551,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Praspekt Nezalezhnasti (Проспект Независимости) 17",
+      "id": "belarus-00e3a89847bb5120e67d"
+    },
+    {
+      "name": "National Library of Belarus",
+      "kind": "do",
+      "locality": "Minsk",
+      "lat": 53.931421,
+      "lon": 27.645844,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Prospekt Nezalezhnasti (Проспект Независимости) 116",
+      "price": "3.50 rubles",
+      "url": "https://www.nlb.by/en/",
+      "id": "belarus-cf2f2ae78572b1c8d47b"
+    },
+    {
+      "name": "Minsk Sea",
+      "kind": "do",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "id": "belarus-f5870b1dc664e771bce7"
+    },
+    {
+      "name": "Haradzišča Archaeological Complex",
+      "kind": "do",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Piyanierskaya street, 5A, Haradzišča",
+      "url": "https://starymensk.by/",
+      "id": "belarus-ec7f7ac33c6014a932f0"
+    },
+    {
+      "name": "Ozertso - Open Air Museum of Rural Architecture and Life",
+      "kind": "do",
+      "locality": "Minsk",
+      "lat": 53.8345,
+      "lon": 27.3742,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "url": "http://www.etna.by/",
+      "id": "belarus-7ab10d1f70110f3b201a"
+    },
+    {
+      "name": "Stalin's Line",
+      "kind": "do",
+      "locality": "Minsk",
+      "lat": 54.05801,
+      "lon": 27.29642,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "price": "14 rubles",
+      "url": "https://stalin-line.by/en/",
+      "id": "belarus-33d5d102e4d5c427be97"
+    },
+    {
+      "name": "Mound of Glory",
+      "kind": "do",
+      "locality": "Minsk",
+      "lat": 54.0189,
+      "lon": 27.8982,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "id": "belarus-2eba4bede94f79770fb8"
+    },
+    {
+      "name": "Khatyn Memorial Complex",
+      "kind": "do",
+      "locality": "Minsk",
+      "lat": 54.334444,
+      "lon": 27.943611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "url": "http://www.khatyn.by/",
+      "id": "belarus-daff0f3dbf617f10849f"
+    },
+    {
+      "name": "BELAZ",
+      "kind": "do",
+      "locality": "Minsk",
+      "lat": 54.09775,
+      "lon": 28.31689,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "40 let Oktyabrya Str. 4, Žodzina",
+      "price": "From 20 rubles",
+      "url": "http://www.belaz.by/en/about/industrial-tourism/",
+      "id": "belarus-e7894639e431c06fa8ae"
+    },
+    {
+      "name": "Mir castle",
+      "kind": "do",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "id": "belarus-1b412b439895835460e8"
+    },
+    {
+      "name": "Children's Railroad",
+      "kind": "do",
+      "locality": "Minsk",
+      "lat": 53.925994,
+      "lon": 27.621732,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "prospekt Nezavisimosti, ~84a",
+      "id": "belarus-9a0ee9e38e70eda60cf0"
+    },
+    {
+      "name": "Botanical Garden",
+      "kind": "do",
+      "locality": "Minsk",
+      "lat": 53.916111,
+      "lon": 27.6125,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Vulica Surhanava вул.Сурганава, 2v",
+      "price": "8/4 rubles",
+      "url": "http://cbg.org.by/",
+      "id": "belarus-abcc1c4fa14bd1407251"
+    },
+    {
+      "name": "Park Čaliuskincaǔ",
+      "kind": "do",
+      "locality": "Minsk",
+      "lat": 53.92194,
+      "lon": 27.616666,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Praspekt Niezaliežnasci, ~91",
+      "id": "belarus-7c00816380b19d60d274"
+    },
+    {
+      "name": "Park Horkaha",
+      "kind": "do",
+      "locality": "Minsk",
+      "lat": 53.9031,
+      "lon": 27.5734,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Vulica Frunze вул.Фрунзэ, 2",
+      "id": "belarus-e87e8001cda74980e28c"
+    },
+    {
+      "name": "Park Janki Kupaly",
+      "kind": "do",
+      "locality": "Minsk",
+      "lat": 53.905556,
+      "lon": 27.566389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "id": "belarus-a84bd61879ee84e519f4"
+    },
+    {
+      "name": "National Academic Bolshoi Opera and Ballet Theatre",
+      "kind": "do",
+      "locality": "Minsk",
+      "lat": 53.9105,
+      "lon": 27.5616,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Plošča Paryžskaj Kamuny пл.Парыжскай Камуны, 1, 220029",
+      "price": "4.50-80.00 rubles and more for special events",
+      "url": "http://bolshoibelarus.by/eng/",
+      "id": "belarus-e9f74782ad26ecb110ae"
+    },
+    {
+      "name": "Janka Kupala National Theatre",
+      "kind": "do",
+      "locality": "Minsk",
+      "lat": 53.9007,
+      "lon": 27.56274,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Vulica Enhielsa вул.Энгельса, 7, 220030",
+      "price": "6-22 rubles",
+      "url": "http://kupalauski.by/en/",
+      "id": "belarus-bb9658737642789e3612"
+    },
+    {
+      "name": "Film Actors' Studio Theatre",
+      "kind": "do",
+      "locality": "Minsk",
+      "lat": 53.9097,
+      "lon": 27.5476,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Praspiekt Pieramozcau пр.Пераможцаў, 13",
+      "url": "http://teatrkinoaktera.by/",
+      "id": "belarus-dd9559c7d0e98f36e15b"
+    },
+    {
+      "name": "Republican Theatre of Belarusian Drama",
+      "kind": "do",
+      "locality": "Minsk",
+      "lat": 53.9224,
+      "lon": 27.5603,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Krapotkina 44",
+      "id": "belarus-be3beee5f2f5af5f7d8a"
+    },
+    {
+      "name": "Supermarket Centralny Buffet",
+      "kind": "eat",
+      "locality": "Minsk",
+      "lat": 53.9012831,
+      "lon": 27.5598328,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "praspeiekt Nieszliežnasci, 23",
+      "url": "https://centralny.by/",
+      "id": "belarus-541c9121642dd418f3ae"
+    },
+    {
+      "name": "Draniki",
+      "kind": "eat",
+      "locality": "Minsk",
+      "lat": 53.904162,
+      "lon": 27.5531226,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Plošča Svabody, 4",
+      "price": "6-14 rubles mains",
+      "id": "belarus-4e29bf513a66eab7d550"
+    },
+    {
+      "name": "Pesochnica",
+      "kind": "eat",
+      "locality": "Minsk",
+      "lat": 53.9157401,
+      "lon": 27.5669674,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "vul. Kujbyšava 45 / pr. Mašerava 11",
+      "price": "7-10 rubles for set",
+      "url": "https://sbox.by/",
+      "id": "belarus-a4472802711723f85be3"
+    },
+    {
+      "name": "ENZO",
+      "kind": "eat",
+      "locality": "Minsk",
+      "lat": 53.8901539,
+      "lon": 27.5722594,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "vulica Kastryčnickaja, 23",
+      "price": "15-50 rubles dinner mains; up to 10 rubles lunch courses",
+      "url": "http://www.enzo.by/",
+      "id": "belarus-a21e48c7bdd966308dda"
+    },
+    {
+      "name": "Kuchmistr",
+      "kind": "eat",
+      "locality": "Minsk",
+      "lat": 53.9015,
+      "lon": 27.5656,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Vulica Karla Marksa, 40",
+      "price": "15-35 rubles mains",
+      "url": "http://www.kuxmistr.relax.by/",
+      "id": "belarus-90926885fa1c7d72ae16"
+    },
+    {
+      "name": "Simple",
+      "kind": "eat",
+      "locality": "Minsk",
+      "lat": 53.8978365,
+      "lon": 27.5481707,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "viluca Sviardlova, 2",
+      "price": "10-15 rubles starters, 20-25 - mains",
+      "url": "http://simple.by/",
+      "id": "belarus-747a6a2d5629a812f818"
+    },
+    {
+      "name": "Tiflis",
+      "kind": "eat",
+      "locality": "Minsk",
+      "lat": 53.9254725,
+      "lon": 27.6108743,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "vul. Talbuchina 3",
+      "price": "12-30 rubles mains",
+      "url": "https://rest-tiflis.relax.by/",
+      "id": "belarus-ab55e28cfb5327b16b0e"
+    },
+    {
+      "name": "Chumatskiy shlyakh",
+      "kind": "eat",
+      "locality": "Minsk",
+      "lat": 53.89787,
+      "lon": 27.543209,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Myasnikova street, 34",
+      "url": "https://chumaczki.by/",
+      "id": "belarus-fba827935bc349a2d1ea"
+    },
+    {
+      "name": "Vasiĺki",
+      "kind": "eat",
+      "locality": "Minsk",
+      "lat": 53.89742,
+      "lon": 27.55671,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "pr. Niezaležnasci",
+      "url": "http://www.vasilki.by/",
+      "id": "belarus-5cffd5122915e714c688"
+    },
+    {
+      "name": "Green+Go",
+      "kind": "eat",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Vulica Kastryčnickaja, 19",
+      "price": "12 rubles set",
+      "url": "https://www.facebook.com/greengo.minsk/",
+      "id": "belarus-1c4c38f93a4a2b2b7096"
+    },
+    {
+      "name": "MonkeyFood",
+      "kind": "eat",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Vulica Kastryčnickaja, 16",
+      "price": "10 rubles set",
+      "url": "http://monkeyfood.by/",
+      "id": "belarus-00ef0be0a00624f2ed86"
+    },
+    {
+      "name": "Yellow SLON",
+      "kind": "eat",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Vulica Bahdanoviča, 133",
+      "price": "15 rubles lunch set",
+      "url": "https://www.yellowslon.by/",
+      "id": "belarus-708e2f173c974bf49423"
+    },
+    {
+      "name": "1801 Coffee",
+      "kind": "eat",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Praspiekt Niezaliežnasci, 95",
+      "url": "https://www.facebook.com/1801Coffee/",
+      "id": "belarus-e99c2000d0bb43086106"
+    },
+    {
+      "name": "Grand Cafe",
+      "kind": "eat",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Vulitsa Lenina 2",
+      "id": "belarus-4243f49df5ee88b33137"
+    },
+    {
+      "name": "Golden Coffee",
+      "kind": "eat",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Pr. Nezalezhnasti 18",
+      "url": "http://www.goldencoffee.by/",
+      "id": "belarus-182161630f1708f6e8fa"
+    },
+    {
+      "name": "Zerno",
+      "kind": "eat",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Praspiekt Niezaliežnasci, 46",
+      "price": "5 rubles coffee, 7 rubles cakes",
+      "url": "https://cafezerno.by/",
+      "id": "belarus-788483bec7ed1c1336c5"
+    },
+    {
+      "name": "Berlin",
+      "kind": "eat",
+      "locality": "Minsk",
+      "lat": 53.90726,
+      "lon": 27.52978,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "zavulak Turčynski, 2",
+      "price": "5-10 rubles",
+      "url": "https://www.facebook.com/berlinclubminsk/",
+      "id": "belarus-58c5667a0e4028130181"
+    },
+    {
+      "name": "Club Burlesque",
+      "kind": "eat",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "vulica Kastryčnickaja, 5",
+      "id": "belarus-088e37c94759a6762d99"
+    },
+    {
+      "name": "Petushnia",
+      "kind": "eat",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "zavulak Turčynski, 2",
+      "url": "https://www.facebook.com/petushnia/",
+      "id": "belarus-ea4e72e270362004bc4e"
+    },
+    {
+      "name": "EasyFlat Hostel",
+      "kind": "stay",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Aeradromnaja str. 40, app. 14",
+      "price": "14-19 rubles",
+      "url": "http://easyflat.by/",
+      "id": "belarus-9b26eddbd56c0992a28f"
+    },
+    {
+      "name": "Smile Minsk Hotel",
+      "kind": "stay",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "praspekt Dziaržynskaha, 131, entrance 8. Check-in only on a preliminary call",
+      "price": "From 13 rubles in 8-person room",
+      "url": "http://smileminsk.by/",
+      "id": "belarus-54621fbd416157bc0019"
+    },
+    {
+      "name": "Hostel Stary Minsk",
+      "kind": "stay",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "praspiekt Niezalieznasci, 19",
+      "price": "6-bed dorm: US$11",
+      "url": "https://staryminsk.by/",
+      "id": "belarus-f5b98469fe217a11df39"
+    },
+    {
+      "name": "Trinity Traveler & Riverside Hostel",
+      "kind": "stay",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Starovilenskaya, 12",
+      "url": "http://hostel-traveler.by/",
+      "id": "belarus-3886025d7baff6c4fe60"
+    },
+    {
+      "name": "Hostel Viva",
+      "kind": "stay",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Zhukovsky 4/ 1N",
+      "price": "Dorm bed €6-12",
+      "url": "http://book.hostelviva.by/",
+      "id": "belarus-0d9e61781d0cb732e6df"
+    },
+    {
+      "name": "Your Hostel Minsk",
+      "kind": "stay",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "1-y pereulok Skoriny 28 ap.7 / Скорины 1-й переулок, дом 28, кв. 7",
+      "url": "http://your-hostel.com/en/",
+      "id": "belarus-9f819934c93993141ff4"
+    },
+    {
+      "name": "40 Let Pobedy",
+      "kind": "stay",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Azgura 3",
+      "price": "US$45/shared room",
+      "id": "belarus-dcec024e1dacb336b5a8"
+    },
+    {
+      "name": "Hotel Belarus",
+      "kind": "stay",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "vulica Staražoŭskaja, 15-201",
+      "price": "€35/single",
+      "url": "http://www.hotel-belarus.com/en/",
+      "id": "belarus-78f985071b32b0d08a9c"
+    },
+    {
+      "name": "Hotel Orbita",
+      "kind": "stay",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "vulica Puškina, 39",
+      "url": "http://www.orbita-hotel.com/",
+      "id": "belarus-6af8d8cbb6cf2ad0f021"
+    },
+    {
+      "name": "Planeta",
+      "kind": "stay",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Prospekt Pobediteley 31",
+      "url": "http://www.hotelplaneta.by/",
+      "id": "belarus-06fa48d52a2d560bc6e9"
+    },
+    {
+      "name": "Hampton by Hilton Minsk City Centre",
+      "kind": "stay",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Vulica Talstoha 8",
+      "price": "USUSD 95",
+      "url": "https://hamptoninn3.hilton.com/en/hotels/belarus/hampton-by-hilton-minsk-city-centre-MSQHXHX/index.html",
+      "id": "belarus-29c6fe6db57c315d864c"
+    },
+    {
+      "name": "Hotel Europe",
+      "kind": "stay",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "International Street 28",
+      "price": "From €100",
+      "url": "http://www.hoteleurope.by/en/",
+      "id": "belarus-5dd800245fc6d99e6aac"
+    },
+    {
+      "name": "Crowne Plaza Minsk",
+      "kind": "stay",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Kirova 13",
+      "url": "http://cpminsk.com/en/",
+      "id": "belarus-f949345245e9b04bec80"
+    },
+    {
+      "name": "Marriott Renaissance Minsk Hotel",
+      "kind": "stay",
+      "locality": "Minsk",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "address": "Dzerzhinsky Avenue 1E",
+      "url": "https://www.marriott.com/hotels/travel/mhpbr-renaissance-minsk-hotel/",
+      "id": "belarus-e2779679e3e667976204"
+    },
+    {
+      "name": "Minsk",
+      "kind": "area",
+      "locality": "Minsk",
+      "lat": 53.9,
+      "lon": 27.5667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Minsk",
+      "id": "belarus-de88e41b5cf13b9398f2"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

@@ -1,0 +1,219 @@
+{
+  "sources": [
+    {
+      "title": "Seychelles",
+      "url": "https://en.wikivoyage.org/wiki/Seychelles",
+      "checkedAt": "2026-10-21T08:12:14.229Z"
+    },
+    {
+      "title": "Victoria (Seychelles)",
+      "url": "https://en.wikivoyage.org/wiki/Victoria_(Seychelles)",
+      "checkedAt": "2026-10-21T08:12:17.196Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Victoria",
+      "kind": "area",
+      "locality": "Seychelles",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Seychelles",
+      "id": "seychelles-b8f1b0a62fcd6be7b6db"
+    },
+    {
+      "name": "Beau Vallon",
+      "kind": "area",
+      "locality": "Seychelles",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Seychelles",
+      "id": "seychelles-f8a8a3063eb73c5f94bf"
+    },
+    {
+      "name": "Tamaka",
+      "kind": "area",
+      "locality": "Seychelles",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Seychelles",
+      "id": "seychelles-3532b184220f00e1034d"
+    },
+    {
+      "name": "Belgium",
+      "kind": "do",
+      "locality": "Seychelles",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Seychelles",
+      "address": "Victoria House, Victoria",
+      "id": "seychelles-2637b1dce16ef956f95d"
+    },
+    {
+      "name": "France",
+      "kind": "do",
+      "locality": "Seychelles",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Seychelles",
+      "address": "Victoria House, Victoria",
+      "id": "seychelles-7ef83ef2c602f5917bcc"
+    },
+    {
+      "name": "Greece",
+      "kind": "do",
+      "locality": "Seychelles",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Seychelles",
+      "address": "Victoria",
+      "id": "seychelles-610ff11e8a3021cb5ff1"
+    },
+    {
+      "name": "India",
+      "kind": "do",
+      "locality": "Seychelles",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Seychelles",
+      "address": "Le Chantier, Victoria",
+      "id": "seychelles-aa55554f46b59046f6fd"
+    },
+    {
+      "name": "Mauritius",
+      "kind": "do",
+      "locality": "Seychelles",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Seychelles",
+      "address": "Anse aux Pins",
+      "id": "seychelles-52ea431e896efebf0bbc"
+    },
+    {
+      "name": "Netherlands",
+      "kind": "do",
+      "locality": "Seychelles",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Seychelles",
+      "address": "Glacis",
+      "id": "seychelles-392da9339028a25a498d"
+    },
+    {
+      "name": "Norway",
+      "kind": "do",
+      "locality": "Seychelles",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Seychelles",
+      "address": "Victoria House, Victoria",
+      "id": "seychelles-feb6ecf6bdfaf7e9a7ef"
+    },
+    {
+      "name": "Sweden",
+      "kind": "do",
+      "locality": "Seychelles",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Seychelles",
+      "address": "New Port, Victoria",
+      "id": "seychelles-9e6ce418fd115fc08a01"
+    },
+    {
+      "name": "Switzerland",
+      "kind": "do",
+      "locality": "Seychelles",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Seychelles",
+      "address": "Victoria",
+      "id": "seychelles-2272e7c04f2c0bccacfa"
+    },
+    {
+      "name": "United Kingdom",
+      "kind": "do",
+      "locality": "Seychelles",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Seychelles",
+      "address": "Oliaji Trade Centre, Victoria",
+      "id": "seychelles-227abdfd66bd2e39b92b"
+    },
+    {
+      "name": "United States",
+      "kind": "do",
+      "locality": "Seychelles",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Seychelles",
+      "address": "Victoria House, Victoria",
+      "id": "seychelles-0041bb0c782a99875cf0"
+    },
+    {
+      "name": "Natural History Museum",
+      "kind": "do",
+      "locality": "Victoria (Seychelles)",
+      "lat": -4.623,
+      "lon": 55.453,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Victoria_(Seychelles)",
+      "address": "Independence Ave",
+      "id": "seychelles-1dbb377d7a5326c16d8e"
+    },
+    {
+      "name": "Immaculate Conception Cathedral",
+      "kind": "do",
+      "locality": "Victoria (Seychelles)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Victoria_(Seychelles)",
+      "address": "Olivier Maradan St",
+      "id": "seychelles-c3e38273c5b2ce01afed"
+    },
+    {
+      "name": "Arul Mihu Navasakthi Vinayagar Temple",
+      "kind": "do",
+      "locality": "Victoria (Seychelles)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Victoria_(Seychelles)",
+      "id": "seychelles-7e6aef099493ca2b89c3"
+    },
+    {
+      "name": "Barrel Night Club",
+      "kind": "eat",
+      "locality": "Victoria (Seychelles)",
+      "lat": -4.6222,
+      "lon": 55.45006,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Victoria_(Seychelles)",
+      "address": "Revolution Ave",
+      "url": "https://www.facebook.com/Barrel-Nightclub-119377658771939/",
+      "id": "seychelles-2d2d8c99b797584f8a24"
+    },
+    {
+      "name": "Boardwalk Bar & Grill",
+      "kind": "eat",
+      "locality": "Victoria (Seychelles)",
+      "lat": -4.64157,
+      "lon": 55.47594,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Victoria_(Seychelles)",
+      "url": "https://www.facebook.com/theboardwalksez/",
+      "id": "seychelles-670917f777568be92f6d"
+    },
+    {
+      "name": "Calypha Guest House",
+      "kind": "stay",
+      "locality": "Victoria (Seychelles)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Victoria_(Seychelles)",
+      "address": "Ma Constance",
+      "url": "https://www.facebook.com/calyphaguesthouse",
+      "id": "seychelles-0693e7bb1721e1d06d00"
+    },
+    {
+      "name": "Belair Hotel",
+      "kind": "stay",
+      "locality": "Victoria (Seychelles)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Victoria_(Seychelles)",
+      "price": "From €165",
+      "url": "http://www.hotelbelair.sc/",
+      "id": "seychelles-30a0b8e86d012675532d"
+    },
+    {
+      "name": "Casuarina Beach Hotel",
+      "kind": "stay",
+      "locality": "Victoria (Seychelles)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Victoria_(Seychelles)",
+      "price": "Approximately US$200",
+      "id": "seychelles-79ec836f4044caad954d"
+    },
+    {
+      "name": "Avani Seychelles Barbarons",
+      "kind": "stay",
+      "locality": "Victoria (Seychelles)",
+      "lat": -4.683333,
+      "lon": 55.454167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Victoria_(Seychelles)",
+      "price": "About $US380",
+      "url": "https://www.avanihotels.com/en/seychelles-barbarons",
+      "id": "seychelles-ef77b90eaa704577bd33"
+    },
+    {
+      "name": "Victoria (Seychelles)",
+      "kind": "area",
+      "locality": "Victoria (Seychelles)",
+      "lat": -4.6308,
+      "lon": 55.4619,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Victoria_(Seychelles)",
+      "id": "seychelles-830237e034e87c813dea"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

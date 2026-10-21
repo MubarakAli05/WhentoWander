@@ -1,0 +1,2668 @@
+{
+  "sources": [
+    {
+      "title": "Malaysia",
+      "url": "https://en.wikivoyage.org/wiki/Malaysia",
+      "checkedAt": "2026-10-21T08:05:56.482Z"
+    },
+    {
+      "title": "Kuala Lumpur",
+      "url": "https://en.wikivoyage.org/wiki/Kuala_Lumpur",
+      "checkedAt": "2026-10-21T08:05:59.450Z"
+    },
+    {
+      "title": "Kuala Lumpur/Golden Triangle",
+      "url": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "checkedAt": "2026-10-21T08:06:02.210Z"
+    },
+    {
+      "title": "Kuala Lumpur/Old City Centre",
+      "url": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "checkedAt": "2026-10-21T08:06:08.612Z"
+    },
+    {
+      "title": "Kuala Lumpur/Botanical Garden",
+      "url": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBotanical_Garden",
+      "checkedAt": "2026-10-21T08:06:11.168Z"
+    },
+    {
+      "title": "Kuala Lumpur/Brickfields and Bangsar",
+      "url": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "checkedAt": "2026-10-21T08:06:14.183Z"
+    },
+    {
+      "title": "Kuala Lumpur/North of City Centre",
+      "url": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "checkedAt": "2026-10-21T08:06:17.406Z"
+    },
+    {
+      "title": "Kuala Lumpur/West",
+      "url": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FWest",
+      "checkedAt": "2026-10-21T08:06:20.370Z"
+    },
+    {
+      "title": "Putrajaya",
+      "url": "https://en.wikivoyage.org/wiki/Putrajaya",
+      "checkedAt": "2026-10-21T08:06:23.212Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuala Lumpur",
+      "kind": "area",
+      "locality": "Malaysia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malaysia",
+      "id": "malaysia-d597e4fc19424a0d745a"
+    },
+    {
+      "name": "George Town",
+      "kind": "area",
+      "locality": "Malaysia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malaysia",
+      "id": "malaysia-b8113e01a7368c804aff"
+    },
+    {
+      "name": "Malacca",
+      "kind": "area",
+      "locality": "Malaysia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malaysia",
+      "id": "malaysia-07979d79df212ba7a601"
+    },
+    {
+      "name": "Ipoh",
+      "kind": "area",
+      "locality": "Malaysia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malaysia",
+      "id": "malaysia-e3298322f9c977216b08"
+    },
+    {
+      "name": "Johor Bahru",
+      "kind": "area",
+      "locality": "Malaysia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malaysia",
+      "id": "malaysia-b97e25d4c842591cc07a"
+    },
+    {
+      "name": "Kuantan",
+      "kind": "area",
+      "locality": "Malaysia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malaysia",
+      "id": "malaysia-157bb9c531144be69006"
+    },
+    {
+      "name": "Kota Kinabalu",
+      "kind": "area",
+      "locality": "Malaysia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malaysia",
+      "id": "malaysia-f701a7052e79d2925b72"
+    },
+    {
+      "name": "Kuching",
+      "kind": "area",
+      "locality": "Malaysia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malaysia",
+      "id": "malaysia-01d672b640e526af90a1"
+    },
+    {
+      "name": "Miri",
+      "kind": "area",
+      "locality": "Malaysia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malaysia",
+      "id": "malaysia-919c534f1fde28890da6"
+    },
+    {
+      "name": "Nur Salam",
+      "kind": "do",
+      "locality": "Kuala Lumpur",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur",
+      "address": "24A-B Jl Chow Kit",
+      "url": "http://www.yck.org.my/",
+      "id": "malaysia-ff9f1f440b5f86aea063"
+    },
+    {
+      "name": "SPCA Selangor",
+      "kind": "do",
+      "locality": "Kuala Lumpur",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur",
+      "address": "Jl Kerja Air Lama, 68000 Ampang, Selangor",
+      "url": "http://www.spca.org.my/",
+      "id": "malaysia-d23ec2ea70ef068efcd0"
+    },
+    {
+      "name": "Zoo Negara",
+      "kind": "do",
+      "locality": "Kuala Lumpur",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur",
+      "address": "Hulu Kelang, Ampang, Selangor",
+      "url": "http://www.zoonegaramalaysia.my/volunteerprogram.html",
+      "id": "malaysia-a891823ab0cde10bcde4"
+    },
+    {
+      "name": "Kuala Lumpur",
+      "kind": "area",
+      "locality": "Kuala Lumpur",
+      "lat": 3.1394,
+      "lon": 101.6893,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur",
+      "id": "malaysia-7cee370e76f34a88157c"
+    },
+    {
+      "name": "Petronas Twin Towers",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.157778,
+      "lon": 101.711667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "Jalan Ampang and Jalan P Ramlee",
+      "price": "Foreigners/Malaysians: Adults RM80/25, Children RM30/12",
+      "url": "http://www.petronastwintowers.com.my/",
+      "id": "malaysia-89e0c3376c241ee66000"
+    },
+    {
+      "name": "Kuala Lumpur Tower",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.15281,
+      "lon": 101.70392,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "2 Jalan Puncak",
+      "price": "Foreigners/Malaysians: adults RM110/27, children RM60/19",
+      "url": "http://www.menarakl.com.my/",
+      "id": "malaysia-d71a3415e1d1b534ccda"
+    },
+    {
+      "name": "Aquaria KLCC",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.153393,
+      "lon": 101.713078,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "Kuala Lumpur Convention Centre, Jl Pinang",
+      "price": "Foreigners/Malaysians: adults RM50/38, children RM40/28, Seniors RM30/28",
+      "url": "http://www.aquariaklcc.com/",
+      "id": "malaysia-04bf3d439aca35cd9eeb"
+    },
+    {
+      "name": "Badan Warisan Malaysia",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.150498,
+      "lon": 101.716854,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "2 Jl Stoner",
+      "url": "http://www.badanwarisan.org.my/",
+      "id": "malaysia-4ee00dd659686479792e"
+    },
+    {
+      "name": "Petrosains",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.158449,
+      "lon": 101.712689,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "Lvl 4, Suria KLCC",
+      "price": "Foreigners/Malaysians: adults RM25/15, children RM15/5, seniors RM18/8, family (2 adults & 2 children) RM50/30",
+      "url": "http://www.petrosains.com.my/",
+      "id": "malaysia-3c8857f4094809e2b9a3"
+    },
+    {
+      "name": "Muzium Telekom",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.14893,
+      "lon": 101.69914,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "Jalan Raja Chulan",
+      "price": "RM11 for foreign adults and RM5 for children",
+      "url": "http://www.muziumtelekom.com.my/",
+      "id": "malaysia-3449145e62cf8c2ed5d6"
+    },
+    {
+      "name": "As Syakirin Mosque",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.157222,
+      "lon": 101.716111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "id": "malaysia-da46a7ca517851488978"
+    },
+    {
+      "name": "Berjaya Times Square Theme Park",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.14218,
+      "lon": 101.711,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "Levels 5 & 7, 1 Jl Imbi",
+      "price": "Foreigners/Malaysians: adults RM48/38, children RM38/28, family (2 adults & 2 children) RM138/106",
+      "url": "http://www.berjayatimessquarethemeparkkl.com/",
+      "id": "malaysia-f18c8809516cdc6fa11b"
+    },
+    {
+      "name": "KL Forest Eco Park",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.152778,
+      "lon": 101.7025,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "price": "Foreigners: adult RM40, child (6-16) RM 5; Malaysians: RM10/1",
+      "url": "https://www.visitselangor.com/kl-forest-eco-park/",
+      "id": "malaysia-63ddc6db274f5f7f0103"
+    },
+    {
+      "name": "Craft Village @ Kompleks Kraf KL",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.149322,
+      "lon": 101.7185,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "Seksyen 63, Jl Conlay",
+      "url": "http://www.kraftangan.gov.my/en/craft-complex/kuala-lumpur-craft-complex",
+      "id": "malaysia-7e3a59b3bfab39d47eee"
+    },
+    {
+      "name": "Petronas Philharmonic Hall",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.15811,
+      "lon": 101.71219,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "url": "http://www.malaysianphilharmonic.com/",
+      "id": "malaysia-5864fbb0e63c639c7bc9"
+    },
+    {
+      "name": "Diving @ Aquaria KLCC",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.154116,
+      "lon": 101.713091,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "Kuala Lumpur Convention Centre Complex, Jl Pinang",
+      "price": "Cage Rage: RM199, Dive With Sharks: RM400 (Requires diving card and log book)",
+      "url": "http://www.aquariaklcc.com/adventure/cage-rage",
+      "id": "malaysia-e6dd84fe14569a110c06"
+    },
+    {
+      "name": "KLCC Park",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.15558,
+      "lon": 101.71501,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "price": "Free",
+      "id": "malaysia-af4253668198c7e417f0"
+    },
+    {
+      "name": "Pamper Zone",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.147201,
+      "lon": 101.713957,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "181 Jl Bukit Bintang",
+      "id": "malaysia-a909a6175221168c65c0"
+    },
+    {
+      "name": "Lot 10 Hutong",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.146689,
+      "lon": 101.711667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "Cnr Jl Bukit Bintang & Jl Sultan Ismail",
+      "url": "http://www.lot10hutong.com/",
+      "id": "malaysia-e996bca82672366e8d76"
+    },
+    {
+      "name": "Nasi Kandar Pelita",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.159338,
+      "lon": 101.714963,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "149 Jl Ampang",
+      "url": "http://www.pelita.com.my/",
+      "id": "malaysia-29a1fc04a18c75c1ff07"
+    },
+    {
+      "name": "Bijan",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "price": "RM60-90 per adult",
+      "url": "http://www.bijanrestaurant.com/",
+      "id": "malaysia-93ce83022f55a95b0c57"
+    },
+    {
+      "name": "Jalan Alor Food Stalls",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.145653,
+      "lon": 101.708567,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "Jalan Alor",
+      "id": "malaysia-36551d9365f049e4d87d"
+    },
+    {
+      "name": "Glutton Street Market",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.13522,
+      "lon": 101.71312,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "Jalan Sayur",
+      "id": "malaysia-5f19b49ca6840ac62217"
+    },
+    {
+      "name": "Dharma Realm Monastery Canteen",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.159418,
+      "lon": 101.71603,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "price": "RM6-12 for buffet",
+      "id": "malaysia-a927472ed02bb4f71d89"
+    },
+    {
+      "name": "Super Noodle House",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.144831,
+      "lon": 101.711447,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "LG-001, Lower Ground, Sungai Wang Shopping Centre, Jalan Sultan Ismail",
+      "id": "malaysia-78911ece86fa31b12085"
+    },
+    {
+      "name": "Overseas restaurant",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "84-88 Jl Imbi",
+      "id": "malaysia-4b3c26dc67e92013a61d"
+    },
+    {
+      "name": "Passage Thru' India",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.146821,
+      "lon": 101.721122,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "4 Jl Delima (several other locations through Malaysia)",
+      "url": "http://www.passagethruindia.com/",
+      "id": "malaysia-e1f5f978baf81d53dbbc"
+    },
+    {
+      "name": "Restoran Ganesh",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "id": "malaysia-833b7b4b7b0cb68764f6"
+    },
+    {
+      "name": "Uncle Jack Fried Chicken",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "Sungei Wang Plaza Jl Bukit Bintang",
+      "price": "a meal with drink for RM4.29",
+      "id": "malaysia-ee1c68efed5c8c1fac30"
+    },
+    {
+      "name": "Havana Bar and Grill",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "2 & 4, Changkat Bukit Bintang, Bukit Bintang",
+      "price": "RM65 and up",
+      "url": "https://havanakl.com/",
+      "id": "malaysia-afa51a7d0cf62f1e6782"
+    },
+    {
+      "name": "Sahara Tent",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "87 Jalan Berangan, off Jalan Bukit Bintang",
+      "id": "malaysia-2844e5f84fa603e22f05"
+    },
+    {
+      "name": "Twenty One Bar and Kitchen",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "url": "http://www.twentyone.com.my/",
+      "id": "malaysia-f45aed0516bdd339dd6e"
+    },
+    {
+      "name": "EEST @ The Westin Kuala Lumpur",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "Level 1, 199, Jalan Bukit Bintang",
+      "id": "malaysia-288e0855d3c0e741e388"
+    },
+    {
+      "name": "Bistro de Paris",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "18-1 Jalan P. Ramlee.",
+      "id": "malaysia-f0381aef742dc77947d6"
+    },
+    {
+      "name": "El Cerdo",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "43-45 Changkat Bukit Bintang",
+      "url": "http://www.elcerdokl.com/",
+      "id": "malaysia-501197dd83daa3f8e801"
+    },
+    {
+      "name": "Neroteca",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "8 Lorong Ceylon",
+      "url": "http://www.neroteca.com/",
+      "id": "malaysia-ce15437dd7e66e46efd4"
+    },
+    {
+      "name": "Horizon Grill",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.15048,
+      "lon": 101.71387,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "2, Jalan Conlay",
+      "price": "Above RM150/head",
+      "url": "https://www.banyantree.com/en/malaysia/kuala-lumpur/dining/horizon-grill",
+      "id": "malaysia-c71786845f65fb6d26bf"
+    },
+    {
+      "name": "Luna Bar",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.1529623,
+      "lon": 101.7054979,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "url": "http://www.pacific-regency.com/dining/lunar-bar/",
+      "id": "malaysia-a84239ffc3c35b1d68fd"
+    },
+    {
+      "name": "Pinchos Tapas Bar",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "Changkat Bukit Bintang",
+      "url": "http://www.pinchoskl.com/",
+      "id": "malaysia-5719cfc9657989619c4f"
+    },
+    {
+      "name": "Sky Bar",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.1538642,
+      "lon": 101.714888,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "Traders Hotel",
+      "id": "malaysia-1cccd776f3ed5cff72be"
+    },
+    {
+      "name": "Heli Lounge",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.151144,
+      "lon": 101.709943,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "Menara KH, Level 37",
+      "price": "RM100 cover charge, 2 drinks included",
+      "url": "https://www.facebook.com/pages/Helipad-Heli-Lounge-Bar/172533302915864",
+      "id": "malaysia-0190c5104d03e6ac9599"
+    },
+    {
+      "name": "Rainforest Bed & Breakfast",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.148572,
+      "lon": 101.708781,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "27 Jl Mesui",
+      "price": "Dorms RM39, rooms from RM115",
+      "url": "http://www.rainforestbnbhotel.com/",
+      "id": "malaysia-03ead222854e35932494"
+    },
+    {
+      "name": "Sunshine Bedz",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.147024,
+      "lon": 101.710969,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "65B Jl Sultan Ismail",
+      "price": "Dorms RM30, rooms from RM50",
+      "url": "http://www.sunshinebedz.com.my/",
+      "id": "malaysia-738137907e088a396913"
+    },
+    {
+      "name": "Ancasa Express @ Pudu",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.1456009,
+      "lon": 101.7009338,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "4th floor Pudusentral Terminal",
+      "price": "Rates start at RM118",
+      "url": "http://www.ancasahotels.com/",
+      "id": "malaysia-6d102ab31e7d937e834c"
+    },
+    {
+      "name": "Paper Plane Hostel",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.14311,
+      "lon": 101.7049,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "15, Jalan Sin Chew Kee, Bukit Bintang",
+      "price": "RM70 for a dorm; RM160 for a room",
+      "url": "http://www.paperplanehostel.com/",
+      "id": "malaysia-6cdd03273f61c77ab091"
+    },
+    {
+      "name": "Dorms KL 2",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "10, Tengkat Tong Shin, Bukit Bintang",
+      "price": "RM25-45",
+      "id": "malaysia-c7167c7e9046ed5dee33"
+    },
+    {
+      "name": "Bintang Garden Hotel",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.1448,
+      "lon": 101.70857,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "24 Jl Bukit Bintang",
+      "price": "From RM161.39",
+      "url": "http://www.bintangwarisanhotel.com/",
+      "id": "malaysia-acca2ee6eff8a26ced08"
+    },
+    {
+      "name": "Bintang Warisan Hotel",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.14563,
+      "lon": 101.7096,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "url": "http://www.bintangwarisanhotel.com/",
+      "id": "malaysia-8744f7963397bf64d646"
+    },
+    {
+      "name": "Citin Pudu Hotel Kuala Lumpur",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "38 Jl Pudu",
+      "url": "http://www.citinpudu.com/",
+      "id": "malaysia-95c09d11969a9260858c"
+    },
+    {
+      "name": "Concorde",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.15552,
+      "lon": 101.70594,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "2 Jl Sultan Ismail",
+      "price": "From RM298",
+      "url": "http://kualalumpur.concordehotelsresorts.com/",
+      "id": "malaysia-4465f65e47c7770aa2e1"
+    },
+    {
+      "name": "Seasons' View",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "url": "http://www.seasonsview.com/",
+      "id": "malaysia-adfbdbdb84e6613a7c7d"
+    },
+    {
+      "name": "Sungei Wang Hotel",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "74-76, Jl Bukit Bintang",
+      "url": "http://www.sungeiwanghotel-kualalumpur.com/",
+      "id": "malaysia-ff698df4230629fa3ced"
+    },
+    {
+      "name": "Swiss Garden Residences",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.14378,
+      "lon": 101.70527,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "117 Jl Pudu, 55100, Kuala Lumpur, Malaysia",
+      "price": "From RM 245",
+      "url": "http://www.swissgarden.com/hotels/residences/",
+      "id": "malaysia-886436bf0930c188c973"
+    },
+    {
+      "name": "The Malaysia Hotel",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "67-69 Jl Bukit Bintang",
+      "price": "Rates start at RM86.21",
+      "url": "http://www.themalaysiahotel.com/",
+      "id": "malaysia-f765b493decb0438b571"
+    },
+    {
+      "name": "Ascott Kuala Lumpur",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.15468,
+      "lon": 101.71044,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "No 9 Jalan Pinang",
+      "url": "https://www.the-ascott.com/en/malaysia/kuala-lumpur/ascott-kuala-lumpur.html",
+      "id": "malaysia-861dad301542406b12a1"
+    },
+    {
+      "name": "Berjaya Times Square Hotel",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.1426284,
+      "lon": 101.7101426,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "1, Jl Imbi",
+      "url": "http://www.berjayahotel.com/kualalumpur/index.asp",
+      "id": "malaysia-bdb8467f1e83fbadda22"
+    },
+    {
+      "name": "Dorsett Regency Hotel Kuala Lumpur",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.1470849,
+      "lon": 101.7138655,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "172 Jl Imbi",
+      "price": "From RM228",
+      "url": "http://www.dorsetthotels.com/malaysia/kualalumpur/promotions-room.php",
+      "id": "malaysia-49e18fd1e9ccbad77fda"
+    },
+    {
+      "name": "The Federal",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "35 Jl Bukit Bintang, 55100",
+      "price": "From RM250",
+      "url": "http://www.federalkualalumpur.com/",
+      "id": "malaysia-462c48d09cc5b5f74559"
+    },
+    {
+      "name": "Hotel Maya",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.15875,
+      "lon": 101.70799,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "138 Jl. Ampang",
+      "price": "From RM343",
+      "url": "http://www.hotelmaya.com.my/",
+      "id": "malaysia-9180f1586e728c3af77e"
+    },
+    {
+      "name": "Parkroyal Kuala Lumpur",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.1451673,
+      "lon": 101.7106147,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "Jl Sultan Ismail",
+      "url": "http://www.parkroyalhotels.com/en/hotels-resorts/malaysia/kuala-lumpur.html",
+      "id": "malaysia-dfdf165c9890b2f92bd6"
+    },
+    {
+      "name": "Grand Millennium Kuala Lumpur",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.1470849,
+      "lon": 101.7138655,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "160 Jl Bukit Bintang",
+      "url": "http://www.millenniumhotels.com/my/millenniumkualalumpur",
+      "id": "malaysia-8d3301a920b52c4c6565"
+    },
+    {
+      "name": "JW Marriott",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.147954,
+      "lon": 101.713818,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "183 Jl Bukit Bintang",
+      "url": "https://www.marriott.com/property/propertyPage/KULDT",
+      "id": "malaysia-f318f2dbc9e256064449"
+    },
+    {
+      "name": "Pavilion Residences Apartments",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "183 Jl Bukit Bintang",
+      "url": "https://www.pavilion-residences.com/",
+      "id": "malaysia-922af6ae18b5d03f5971"
+    },
+    {
+      "name": "Meliá",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "16 Jl Imbi",
+      "url": "http://www.solmelia.com/sol/hoteles/jsp/CHome.jsp?idSolRes=5702",
+      "id": "malaysia-40ecc506880b5509f3ce"
+    },
+    {
+      "name": "Westin",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.14781,
+      "lon": 101.7145,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "199 Jl Bukit Bintang",
+      "url": "http://westin.com/kualalumpur",
+      "id": "malaysia-e9fc08c1fc116da906ca"
+    },
+    {
+      "name": "Shangri-La",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "11 Jalan Sultan Ismail",
+      "url": "http://www.shangri-la.com/kualalumpur/",
+      "id": "malaysia-a9ae41fd458d71199cb9"
+    },
+    {
+      "name": "Ritz Carlton",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.1470849,
+      "lon": 101.7138655,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "168, Jalan Imbi",
+      "url": "http://www.ritzcarlton.com/en/hotels/malaysia/kuala-lumpur",
+      "id": "malaysia-438e95e5b6ab77faa3e8"
+    },
+    {
+      "name": "Zon All Suites",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "161-D, Jalan Ampang, 50450, Wilayah Persekutuan",
+      "price": "From RM330.60",
+      "url": "http://www.zonhotel.com.my/",
+      "id": "malaysia-007290d3a8586aaee551"
+    },
+    {
+      "name": "Mandarin Oriental",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.155969,
+      "lon": 101.711576,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "Jl Pinang, Kuala Lumpur City Centre",
+      "price": "From RM629",
+      "url": "http://www.mandarinoriental.com/kualalumpur/",
+      "id": "malaysia-f4337c55176a435af029"
+    },
+    {
+      "name": "Renaissance",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "url": "http://www.klrenaissance.com/",
+      "id": "malaysia-d3c8d300110a7c7a466b"
+    },
+    {
+      "name": "Royal Chulan",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.14963,
+      "lon": 101.71696,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "5 Jalan Conlay",
+      "url": "http://www.royalechulan.com/",
+      "id": "malaysia-7c6232dcea0123441896"
+    },
+    {
+      "name": "Traders Hotel",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.15412,
+      "lon": 101.71504,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "address": "Jl Pinang, Kuala Lumpur City Centre",
+      "price": "From RM360",
+      "url": "http://www.shangri-la.com/kualalumpur/traders/",
+      "id": "malaysia-0a0abd320d72724b8f8f"
+    },
+    {
+      "name": "Kuala Lumpur/Golden Triangle",
+      "kind": "area",
+      "locality": "Kuala Lumpur/Golden Triangle",
+      "lat": 3.15123,
+      "lon": 101.71211,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FGolden_Triangle",
+      "id": "malaysia-64b2c508485601a23c1f"
+    },
+    {
+      "name": "Masjid Jamek",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.148906,
+      "lon": 101.695961,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "id": "malaysia-05eb93e4f127bab012fb"
+    },
+    {
+      "name": "Independence Square",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.14881,
+      "lon": 101.69359,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "id": "malaysia-b5551e99895738ccdcca"
+    },
+    {
+      "name": "Sultan Abdul Samad Building",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.148611,
+      "lon": 101.694444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "Jalan Raja",
+      "price": "Free",
+      "url": "https://bsas.com.my/",
+      "id": "malaysia-afd6110e1d6a945eba48"
+    },
+    {
+      "name": "Kuala Lumpur Railway Station",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.139444,
+      "lon": 101.693333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "id": "malaysia-306cc522d28190853cfa"
+    },
+    {
+      "name": "Taman Budaya Kuala Lumpur",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.14105,
+      "lon": 101.69579,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "id": "malaysia-d2412d0b14b583af6fe4"
+    },
+    {
+      "name": "Medan Pasar (Market Square) Clock Tower",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.1474,
+      "lon": 101.6959,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "Medan Pasar",
+      "id": "malaysia-5eb4e77a664b9b17e0a3"
+    },
+    {
+      "name": "Oriental Building",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.149338,
+      "lon": 101.696631,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "Jalan Melaka",
+      "id": "malaysia-885bd65f570ab9817a68"
+    },
+    {
+      "name": "Sri Maha Mariamman Temple",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.1434,
+      "lon": 101.69649,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "Jalan Tun HS Lee",
+      "id": "malaysia-fa5da152d92fcc2f14e8"
+    },
+    {
+      "name": "Chan She Shu Yuen Temple",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.14025,
+      "lon": 101.6983,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "Jalan Petaling",
+      "id": "malaysia-ff6546e79e4baacda750"
+    },
+    {
+      "name": "Sin Sze Si Ya Temple",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "Lebuh Pudu",
+      "id": "malaysia-8655b9937aac09960ba3"
+    },
+    {
+      "name": "Guan Di Temple",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.14402,
+      "lon": 101.6967,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "Jalan Tun HS Lee",
+      "url": "https://kwongsiew.org/",
+      "id": "malaysia-8f6892b91e86f3023e5b"
+    },
+    {
+      "name": "Kwai Chai Hong",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.14152,
+      "lon": 101.69762,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "url": "https://www.kwaichaihong.com/",
+      "id": "malaysia-88afe6f01e82f5573f0f"
+    },
+    {
+      "name": "Merdeka 118",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.141667,
+      "lon": 101.700722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "url": "https://merdeka118.com/",
+      "id": "malaysia-74784ed4874cf33d897d"
+    },
+    {
+      "name": "Stadium Merdeka",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.139086,
+      "lon": 101.700581,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "Jalan Stadium",
+      "id": "malaysia-73f423c5d4bf4cf97250"
+    },
+    {
+      "name": "Stadium Negara",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.140556,
+      "lon": 101.702778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "Jalan Hang Jebat",
+      "id": "malaysia-c2f3ef778183d56219a8"
+    },
+    {
+      "name": "Victoria Institution",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.13869,
+      "lon": 101.702,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "Jalan Hang Tuah",
+      "url": "http://viweb.school/",
+      "id": "malaysia-0536045459e92fada35c"
+    },
+    {
+      "name": "Al-Bukhari Foundation Mosque",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.13927,
+      "lon": 101.70499,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "1, Jalan Hang Tuah",
+      "url": "https://m.facebook.com/pages/Masjid-Al-bukharyMasjid-Al-bukhary-Jalan-Hang-Tuah/202469383103520",
+      "id": "malaysia-9fee13d5b08d6d53e4f8"
+    },
+    {
+      "name": "Chin Woo Stadium",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.14122,
+      "lon": 101.69937,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "Jalan Hang Jebat",
+      "price": "Adult RM 5.30",
+      "url": "http://www.chinwoo.org.my/",
+      "id": "malaysia-f371ec196a5da28b962b"
+    },
+    {
+      "name": "Royal Selangor Club",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.149167,
+      "lon": 101.692778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "url": "https://www.rsc.org.my/",
+      "id": "malaysia-3d012ee5cf1d5f07e915"
+    },
+    {
+      "name": "Bunn Choon Restaurant",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.141556,
+      "lon": 101.697555,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "No. 8, Lorong Panggung",
+      "id": "malaysia-652ac1fc22d81804a18c"
+    },
+    {
+      "name": "Kim Lian Kee",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.144274,
+      "lon": 101.697391,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "id": "malaysia-ba925d98c31d1a3f70e5"
+    },
+    {
+      "name": "Soong Kee Beef Noodles",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.14726,
+      "lon": 101.69679,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "86, Jalan Tun H S Lee",
+      "price": "RM11/12/13",
+      "id": "malaysia-7256d5a0ff7339a8481f"
+    },
+    {
+      "name": "Sin Kiew Yee Shin Kee Beef Noodles",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.14511,
+      "lon": 101.69695,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "price": "RM12–14",
+      "id": "malaysia-cebe08f486b1c04bb8f4"
+    },
+    {
+      "name": "Lebuh Ampang banana leaf restaurants",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.148992,
+      "lon": 101.697305,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "id": "malaysia-526c38d345502c2c85dd"
+    },
+    {
+      "name": "Central Market Food Court",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.14552,
+      "lon": 101.69549,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "id": "malaysia-67cdaf2fa65bc41fd49e"
+    },
+    {
+      "name": "Tang City Food Court",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.144423,
+      "lon": 101.698041,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "21-27, Jalan Hang Lekir",
+      "id": "malaysia-c6500fa122378b5810ef"
+    },
+    {
+      "name": "Kedai Makanan Daun Pisang Vinny Jeyaa",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.143282,
+      "lon": 101.695733,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "Jalan Hang Kasturi",
+      "id": "malaysia-2d633124e04366e760b5"
+    },
+    {
+      "name": "Zhing Kong Restaurant",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.14283,
+      "lon": 101.69592,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "90-92, Jalan Hang Kasturi",
+      "id": "malaysia-70b21c0ecdfee305feef"
+    },
+    {
+      "name": "Ho Kow Hainam Kopitiam",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.141316,
+      "lon": 101.6977,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "Jalan Balai Polis",
+      "id": "malaysia-5c802bed568200827d4d"
+    },
+    {
+      "name": "Texas Chicken",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.14551,
+      "lon": 101.69742,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "Lot G.02, Ground Floor, Wisma Fui Chiu, No. 32, Jalan Tun Tan Cheng Lock",
+      "url": "http://www.texaschickenmalaysia.com/",
+      "id": "malaysia-b2cfb4dec73f3c9d6c4d"
+    },
+    {
+      "name": "KFC",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.14509,
+      "lon": 101.69867,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "117, Jalan Sultan",
+      "url": "http://www.kfc.com.my/",
+      "id": "malaysia-52f1b13f9ab7095f83b7"
+    },
+    {
+      "name": "Wan Fo Yuan",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.141963,
+      "lon": 101.697178,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "8, Jalan Panggong",
+      "id": "malaysia-4171d94013c4a03e5052"
+    },
+    {
+      "name": "San Francisco Coffee Express",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "LG-022 Lower Ground Floor, City Square Mall",
+      "id": "malaysia-f151fb38e1baa5626760"
+    },
+    {
+      "name": "Reggae Bar",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "53 Jalan Tun H.S. Lee",
+      "url": "http://www.reggaehostelsmalaysia.com/",
+      "id": "malaysia-5424471ed44af4726ed2"
+    },
+    {
+      "name": "Hostel Travel Hub",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.14139,
+      "lon": 101.697248,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "15-1 Jalan Balai Polis",
+      "price": "RM25-90",
+      "url": "http://travelhubkl.com/",
+      "id": "malaysia-8104cf2f71829724ca56"
+    },
+    {
+      "name": "Hotel Petaling",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.1422553,
+      "lon": 101.6978172,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "121-123 Jalan Petaling",
+      "price": "From RM50",
+      "url": "http://www.petalinghotel.com/",
+      "id": "malaysia-30c336012c71106846a2"
+    },
+    {
+      "name": "The Original Backpacker's Travellers Inn",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.143668,
+      "lon": 101.698495,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "60 B, Jalan Sultan",
+      "price": "A/C dorm bed RM18 per person",
+      "url": "http://www.backpackerskl.com/",
+      "id": "malaysia-0f8c0f8deb7b36376ea6"
+    },
+    {
+      "name": "Etika Inn",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.1440516,
+      "lon": 101.6985053,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "76A Jalan Sultan",
+      "price": "Single room RM75, double RM95",
+      "url": "http://www.etikainn.com.my/",
+      "id": "malaysia-6366ad3ef8ef1d77b36c"
+    },
+    {
+      "name": "Heritage Hotel",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.1402648,
+      "lon": 101.6934307,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "Bangunan Stesen Keretapi, Jalan Sultan Hishamuddin",
+      "price": "Backpacker packages from RM18. Full hotel rooms start at RM60. Walk-in prices are around RM85",
+      "id": "malaysia-9bf62e2814e1ceee8c8a"
+    },
+    {
+      "name": "Chinatown Boutique Hotel",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.1445327,
+      "lon": 101.6984596,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "34 Jalan Hang Lekir",
+      "price": "RM100 weekdays, RM130 holidays and weekends",
+      "url": "http://www.chinatownboutiquehotel.com/",
+      "id": "malaysia-328b000878c1320f89f1"
+    },
+    {
+      "name": "Le Village",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.1444979,
+      "lon": 101.6974399,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "47, Jalan Petaling",
+      "id": "malaysia-e528f7e2b19837b97541"
+    },
+    {
+      "name": "Matahari Lodge",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.143921,
+      "lon": 101.6958228,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "58-1 Jalan Hang Kasturi",
+      "price": "RM30-76",
+      "id": "malaysia-cceedc921fe0ebd56846"
+    },
+    {
+      "name": "My City Hotel",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "118-120A, Jl Petaling",
+      "url": "http://www.myhotelcity.com/",
+      "id": "malaysia-2ae2ff33d337ae9a2294"
+    },
+    {
+      "name": "Travellers Home Moon Lodge",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "No. 23 & 25 Jalan Tun Tan Siew Sin (formerly Jalan Silang)",
+      "price": "Rooms from RM30",
+      "id": "malaysia-f9443f52727ce9af92be"
+    },
+    {
+      "name": "The 5 Elements Hotel",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.14386,
+      "lon": 101.69874,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "243, Jl Sultan (Chinatown)",
+      "url": "http://www.the5elementshotel.com.my/",
+      "id": "malaysia-600de7634f86dc8b04ec"
+    },
+    {
+      "name": "Hotel Chinatown 2",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.143474,
+      "lon": 101.697749,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "70-72 Jalan Petaling",
+      "price": "Room with window and A/C RM100",
+      "url": "http://www.hotelchinatown2.com/",
+      "id": "malaysia-b791fe7883442daeede8"
+    },
+    {
+      "name": "D’Oriental Inn Chinatown",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.143181,
+      "lon": 101.697795,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "82-84, Jl Petaling",
+      "url": "https://m.facebook.com/D-Oriental-Inn-Kuala-Lumpur-331647573596832/",
+      "id": "malaysia-420e4f50cecb1938aef7"
+    },
+    {
+      "name": "Travelodge City Centre",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.14403,
+      "lon": 101.69561,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "Jalan Hang Kasturi, 50050 Kuala Lumpur",
+      "url": "http://www.travelodgehotels.asia/hotel/travelodge-city-centre",
+      "id": "malaysia-4b5917559c1fcba8da19"
+    },
+    {
+      "name": "Lavana Hotel",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.143428,
+      "lon": 101.695772,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "Jalan Hang Kasturi",
+      "id": "malaysia-f4f94d42343de3ed2590"
+    },
+    {
+      "name": "Olympic Sports Hotel",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.14279,
+      "lon": 101.70248,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "Jalan Hang Jebat 50150 Kuala Lumpur",
+      "id": "malaysia-79797fbff475f216cf09"
+    },
+    {
+      "name": "Regal Park Hotel",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.13888,
+      "lon": 101.69715,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "8, Jl. Kampung Attap",
+      "id": "malaysia-299ed0d8a976099fce78"
+    },
+    {
+      "name": "Four Points by Sheraton",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.1409,
+      "lon": 101.69794,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "Jalan Balai Polis",
+      "url": "https://www.marriott.com/hotels/travel/kulfc-four-points-kuala-lumpur-chinatown/",
+      "id": "malaysia-c5835f159872c15e41b7"
+    },
+    {
+      "name": "Pacific Express Hotel Central Market",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.14684,
+      "lon": 101.69579,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "address": "Lebuh Pasar Besar",
+      "url": "http://www.pacific-express.com.my/",
+      "id": "malaysia-50131db7077248552792"
+    },
+    {
+      "name": "Kuala Lumpur/Old City Centre",
+      "kind": "area",
+      "locality": "Kuala Lumpur/Old City Centre",
+      "lat": 3.14367,
+      "lon": 101.69437,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FOld_City_Centre",
+      "id": "malaysia-36bd170e108735f42538"
+    },
+    {
+      "name": "ASEAN Sculpture Garden",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Botanical Garden",
+      "lat": 3.14925,
+      "lon": 101.684767,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBotanical_Garden",
+      "address": "Persiaran Sultan Salahuddin",
+      "price": "Free",
+      "id": "malaysia-d91e9e25c0526e6ed370"
+    },
+    {
+      "name": "Orchid Garden",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Botanical Garden",
+      "lat": 3.143542,
+      "lon": 101.687608,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBotanical_Garden",
+      "price": "Free, RM1 on weekends",
+      "id": "malaysia-90f81b578e37807ee4a1"
+    },
+    {
+      "name": "Hibiscus Garden",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Botanical Garden",
+      "lat": 3.145112,
+      "lon": 101.686277,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBotanical_Garden",
+      "price": "Free, but RM1 on weekends",
+      "id": "malaysia-62e7d14c542676af98a7"
+    },
+    {
+      "name": "Herbal Garden",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Botanical Garden",
+      "lat": 3.145674,
+      "lon": 101.682259,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBotanical_Garden",
+      "id": "malaysia-14c06b35045d07fa71c4"
+    },
+    {
+      "name": "Deer & Mousdeer Park",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Botanical Garden",
+      "lat": 3.14328,
+      "lon": 101.68627,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBotanical_Garden",
+      "price": "Free",
+      "id": "malaysia-40a8fef379ab1f0893c2"
+    },
+    {
+      "name": "National Mosque",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Botanical Garden",
+      "lat": 3.141944,
+      "lon": 101.691667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBotanical_Garden",
+      "address": "JL Perdana",
+      "id": "malaysia-62021bfe96c0f07bc461"
+    },
+    {
+      "name": "Heroes' Mausoleum",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Botanical Garden",
+      "lat": 3.141958,
+      "lon": 101.690681,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBotanical_Garden",
+      "id": "malaysia-4794412c0fd1f85b2183"
+    },
+    {
+      "name": "National Monument",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Botanical Garden",
+      "lat": 3.14886,
+      "lon": 101.68384,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBotanical_Garden",
+      "address": "Jl Tugu, Off Jl Parlimen",
+      "id": "malaysia-75ac996e2a8cb8aad891"
+    },
+    {
+      "name": "Tun Abdul Razak Memorial",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Botanical Garden",
+      "lat": 3.14243,
+      "lon": 101.68658,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBotanical_Garden",
+      "url": "http://www.jmm.gov.my/en/tun-abdul-razak-memorial",
+      "id": "malaysia-119087126ff996d73196"
+    },
+    {
+      "name": "National Museum",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Botanical Garden",
+      "lat": 3.13758,
+      "lon": 101.68739,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBotanical_Garden",
+      "address": "Jalan Damansara",
+      "price": "Adult RM5, child RM2 (foreigners)",
+      "url": "http://www.muziumnegara.gov.my/",
+      "id": "malaysia-08a11ab313694b4fb110"
+    },
+    {
+      "name": "Islamic Arts Museum",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Botanical Garden",
+      "lat": 3.14144,
+      "lon": 101.68973,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBotanical_Garden",
+      "address": "Jalan Lembah Perdana",
+      "price": "RM14",
+      "url": "http://www.iamm.org.my/",
+      "id": "malaysia-ce1b804a1b46947dc3c8"
+    },
+    {
+      "name": "National Planetarium",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Botanical Garden",
+      "lat": 3.139467,
+      "lon": 101.689369,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBotanical_Garden",
+      "address": "53 Jalan Perdana",
+      "price": "Gallery: free; Planetarium show: adult RM12, child RM8",
+      "url": "http://www.planetariumnegara.gov.my/?q=en",
+      "id": "malaysia-07c7f88908d2493ba921"
+    },
+    {
+      "name": "Royal Malaysian Police Museum",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Botanical Garden",
+      "lat": 3.1409386,
+      "lon": 101.6889136,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBotanical_Garden",
+      "address": "5 Jalan Perdana",
+      "price": "Free",
+      "id": "malaysia-141c4857fc39c5c85e81"
+    },
+    {
+      "name": "Malay World Ethnology Museum",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Botanical Garden",
+      "lat": 3.13775,
+      "lon": 101.68838,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBotanical_Garden",
+      "address": "Jalan Damansara",
+      "price": "RM5 foreigners, RM2 Malaysian citizen",
+      "url": "http://www.jmm.gov.my/en/museum/malay-world-ethnology-museum",
+      "id": "malaysia-06c1f01fa3254a5853c5"
+    },
+    {
+      "name": "Seri Negara",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Botanical Garden",
+      "lat": 3.141764,
+      "lon": 101.68194,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBotanical_Garden",
+      "price": "Free",
+      "url": "https://serinegara.com.my/",
+      "id": "malaysia-f7239e2b5ffa091e9216"
+    },
+    {
+      "name": "Bird Park",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Botanical Garden",
+      "lat": 3.14318,
+      "lon": 101.68823,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBotanical_Garden",
+      "address": "920 Jalan Cenderawasih",
+      "price": "Adult RM67, child RM45 for foreigners",
+      "url": "http://www.klbirdpark.com/",
+      "id": "malaysia-8403aa363e8a87e6b200"
+    },
+    {
+      "name": "Butterfly Park",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Botanical Garden",
+      "lat": 3.14573,
+      "lon": 101.689,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBotanical_Garden",
+      "address": "Jalan Chenderasari",
+      "price": "RM22 (children RM10) plus another RM4 if you wish to use your video camera",
+      "url": "http://klbutterflypark.com/",
+      "id": "malaysia-47568d55eb0da5746524"
+    },
+    {
+      "name": "The Hornbill Restaurant & Cafe",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Botanical Garden",
+      "lat": 3.14363,
+      "lon": 101.68878,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBotanical_Garden",
+      "id": "malaysia-b526c6850e1d5b378fa6"
+    },
+    {
+      "name": "Rebung",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Botanical Garden",
+      "lat": 3.14783,
+      "lon": 101.68699,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBotanical_Garden",
+      "price": "From 22RM (breakfast) to 53RM (dinner)",
+      "id": "malaysia-f16823cf8ac117a339d3"
+    },
+    {
+      "name": "Laman Selera MADANI Tanglin",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Botanical Garden",
+      "lat": 3.144046,
+      "lon": 101.690638,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBotanical_Garden",
+      "address": "Jalan Cenderasari",
+      "id": "malaysia-4db35ed0166c221beafd"
+    },
+    {
+      "name": "Nasi Lemak Tanglin",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Botanical Garden",
+      "lat": 3.144091,
+      "lon": 101.690619,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBotanical_Garden",
+      "address": "Jalan Cenderasari",
+      "price": "From RM3.00 to RM10.00",
+      "id": "malaysia-7989777f2bf466de703b"
+    },
+    {
+      "name": "The Majestic Hotel",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Botanical Garden",
+      "lat": 3.1383353,
+      "lon": 101.6916666,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBotanical_Garden",
+      "address": "5 Jalan Sultan Hishamuddin",
+      "price": "US$45-129",
+      "url": "http://www.majestickl.com/",
+      "id": "malaysia-6c8fe3ff719ca5a78332"
+    },
+    {
+      "name": "Kuala Lumpur/Botanical Garden",
+      "kind": "area",
+      "locality": "Kuala Lumpur/Botanical Garden",
+      "lat": 3.14419,
+      "lon": 101.68677,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBotanical_Garden",
+      "id": "malaysia-ff85abb5ea92a2f440ce"
+    },
+    {
+      "name": "Little India",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "lat": 3.12937,
+      "lon": 101.68413,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "id": "malaysia-1c883ed53ac046303224"
+    },
+    {
+      "name": "Buddhist Maha Vihara",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "lat": 3.128097,
+      "lon": 101.686701,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "address": "123 Jalan Berhala",
+      "url": "http://www.buddhistmahavihara.org/",
+      "id": "malaysia-c7d5242c0fa31ffff620"
+    },
+    {
+      "name": "Sri Kandaswamy Kovil",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "lat": 3.13396,
+      "lon": 101.69338,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "address": "Lorong Scott 3",
+      "url": "http://www.srikandaswamykovil.org/",
+      "id": "malaysia-362553fb993d6951feeb"
+    },
+    {
+      "name": "Muzium Diraja",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "lat": 3.132487,
+      "lon": 101.695703,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "address": "Jalan Istana",
+      "price": "10RM (foreigners)",
+      "url": "http://www.jmm.gov.my/en/museum/royal-museum",
+      "id": "malaysia-c650a16b53026e88bd8c"
+    },
+    {
+      "name": "Taman Dusun Bandar",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "lat": 3.13055,
+      "lon": 101.695101,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "address": "Lorong Bellamy",
+      "url": "https://www.malaysia-traveller.com/taman-dusun-bandar.html",
+      "id": "malaysia-f20b7adad3dd3cf37b51"
+    },
+    {
+      "name": "Thean Hou Temple",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "lat": 3.12167,
+      "lon": 101.688,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "address": "65 Persiaran Endah",
+      "url": "http://www.gokl.my/thean-hou-temple/",
+      "id": "malaysia-1c4fe563636a55b7b959"
+    },
+    {
+      "name": "Galeria Sri Perdana",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "lat": 3.14448,
+      "lon": 101.674358,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "price": "Free",
+      "id": "malaysia-fe01ee923b754c38c632"
+    },
+    {
+      "name": "Cycle or hike on SWBC",
+      "kind": "do",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "lat": 3.13622,
+      "lon": 101.69431,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "id": "malaysia-6dffcfd61cea92171c5d"
+    },
+    {
+      "name": "Jaya Restoran",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "lat": 3.131884,
+      "lon": 101.68769,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "address": "Jalan Thambipillay 47",
+      "price": "RM8-14 for an average lunch w/o drinks",
+      "url": "https://www.facebook.com/pages/Jaya-Restaurant-Brickfields/691586490922586",
+      "id": "malaysia-67515808289e4cb3d4fb"
+    },
+    {
+      "name": "Peter's Pork Noodle",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "lat": 3.131247,
+      "lon": 101.6865895,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "address": "7, Jalan Tun Sambanthan 4",
+      "price": "RM 8-10",
+      "id": "malaysia-a4a2860c0bed61d1c56c"
+    },
+    {
+      "name": "Annalakshmi Vegetarian Restaurant",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "address": "116 Jl Berhala",
+      "price": "From RM 10 for lunch or dinner",
+      "id": "malaysia-da719bb9dcbb59360c7d"
+    },
+    {
+      "name": "Chat Masala",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "address": "259G Jl Tun Sambanthan",
+      "price": "RM 10 for lunch or dinner",
+      "id": "malaysia-9ef2949f3b5f0267418a"
+    },
+    {
+      "name": "Kaveri",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "address": "Jl Padang Belia",
+      "price": "RM1 for roti canai, RM4-5 for meat",
+      "id": "malaysia-8c6ed180b71119f61507"
+    },
+    {
+      "name": "Saravanaa Bhavan",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "address": "196 Jl Tun Sambanthan",
+      "price": "RM13 for set meal of rice, papadum, chapati and a selection of 10 chutneys and dhals",
+      "id": "malaysia-0e24332bc84718a9a5cf"
+    },
+    {
+      "name": "Vindya Curry House",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "price": "RM4.50-8",
+      "id": "malaysia-607e133f7393e97a7d14"
+    },
+    {
+      "name": "Vishalatchi Food Catering",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "address": "18 Jl Scott",
+      "price": "RM10",
+      "id": "malaysia-f95dec0e7b1343c76ee8"
+    },
+    {
+      "name": "Chynna",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "address": "5th Floor, 3 Jl Stesen Sentral",
+      "url": "http://www.hilton.com/en/hi/hotels/dining.jhtml?ctyhocn=KULHIHI#2",
+      "id": "malaysia-6194771703010acce627"
+    },
+    {
+      "name": "Devi's Corner",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "lat": 3.13224,
+      "lon": 101.67164,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "address": "9 Jalan Telawi 2",
+      "url": "http://deviscornerbangsar.blogspot.my/",
+      "id": "malaysia-0cdca5a97d50fef80af5"
+    },
+    {
+      "name": "Sage",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "address": "Level 6, The Gardens Residences, Mid Valley City",
+      "price": "RM 150-200",
+      "id": "malaysia-8ea9cd3e5b695d72b333"
+    },
+    {
+      "name": "The Social",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "lat": 3.13059,
+      "lon": 101.67097,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "address": "57-59 Jalan Telawi 3",
+      "id": "malaysia-ace0d835acc999737c9c"
+    },
+    {
+      "name": "Joy Inn",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "lat": 3.132433,
+      "lon": 101.688529,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "address": "22 Jalan Thambypillai",
+      "price": "RM88",
+      "url": "http://joy-inn-hotel.kualalumpurshotels.com/en/",
+      "id": "malaysia-7bb0a93167053ffd43aa"
+    },
+    {
+      "name": "PODs The Backpackers Home",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "lat": 3.1318,
+      "lon": 101.68789,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "address": "1-6, no 30 Jalan Thambipillay, 50470 Brickfields",
+      "price": "RM35-75",
+      "url": "http://podsbackpacker.com/",
+      "id": "malaysia-18ef30e4a9e75715b29b"
+    },
+    {
+      "name": "YMCA Hostel",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "lat": 3.1332726,
+      "lon": 101.689548,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "address": "95 Jalan Padang Belia",
+      "price": "Single or double RM110",
+      "url": "http://www.ymcakl.com/",
+      "id": "malaysia-359b525aa736fe0ded32"
+    },
+    {
+      "name": "Hotel Sentral",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "lat": 3.1320949,
+      "lon": 101.6882079,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "address": "30 Jalan Thambypillai",
+      "price": "RM160-200",
+      "url": "http://www.hotelsentral.com.my/",
+      "id": "malaysia-a8b0441ab68cd3c4ff76"
+    },
+    {
+      "name": "My Hotel @ Brickfields",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "lat": 3.1335081,
+      "lon": 101.6902189,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "address": "Jalan Padang Belia 68",
+      "price": "From RM100",
+      "url": "http://www.brickfields.myhotels.com.my/",
+      "id": "malaysia-e4e20e1392a88d76684c"
+    },
+    {
+      "name": "Hilton",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "lat": 3.13519,
+      "lon": 101.686,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "address": "3 Jalan Stesen Sentral",
+      "url": "https://www3.hilton.com/en/hotels/malaysia/hilton-kuala-lumpur-KULHIHI/index.html",
+      "id": "malaysia-9e90624c256d8a6faba3"
+    },
+    {
+      "name": "Le Meridien",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "lat": 3.1356,
+      "lon": 101.68655,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "address": "2 Jalan Stesen Sentral",
+      "url": "http://kualalumpur.lemeridien.com/",
+      "id": "malaysia-c3b09a94ef1938cfb318"
+    },
+    {
+      "name": "Aloft Kuala Lumpur Sentral",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "lat": 3.13303,
+      "lon": 101.68607,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "address": "No 5, Jalan Stesen Sentral",
+      "url": "http://www.aloftkualalumpursentral.com/",
+      "id": "malaysia-496fca4cbaf9ddad0c36"
+    },
+    {
+      "name": "The St. Regis",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "lat": 3.13666,
+      "lon": 101.68864,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "address": "6, Jalan Stesen Sentral 2",
+      "price": "US$207 - 285 (standard room)",
+      "url": "http://www.stregiskualalumpur.com/",
+      "id": "malaysia-bbc935945026c37e8d42"
+    },
+    {
+      "name": "Ascott Sentral Kuala Lumpur",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "lat": 3.13096,
+      "lon": 101.68509,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "address": "No. 211, Jalan Tun Sambanthan, KL Sentral",
+      "url": "https://www.the-ascott.com/en/malaysia/kuala-lumpur/ascott-sentral-kuala-lumpur.html",
+      "id": "malaysia-c0a2cf76e8fdeb9416c0"
+    },
+    {
+      "name": "Kuala Lumpur/Brickfields and Bangsar",
+      "kind": "area",
+      "locality": "Kuala Lumpur/Brickfields and Bangsar",
+      "lat": 3.1313,
+      "lon": 101.6861,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FBrickfields_and_Bangsar",
+      "id": "malaysia-8fa835597380617e82db"
+    },
+    {
+      "name": "Istana Budaya",
+      "kind": "do",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "lat": 3.17436,
+      "lon": 101.70373,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "address": "Istana Budaya, Jalan Tun Razak",
+      "url": "http://www.istanabudaya.gov.my/",
+      "id": "malaysia-47fa741463e6cb3c0089"
+    },
+    {
+      "name": "Balai Seni Visual Negara",
+      "kind": "do",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "lat": 3.17353,
+      "lon": 101.705,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "address": "2 Jalan Temerloh, off Jalan Tun Razak",
+      "price": "Free",
+      "url": "http://www.artgallery.gov.my/",
+      "id": "malaysia-703cda96558b0cb6cc6d"
+    },
+    {
+      "name": "Titiwangsa Lake Gardens",
+      "kind": "do",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "lat": 3.1795,
+      "lon": 101.705,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "id": "malaysia-9607bce21d8acf8b0313"
+    },
+    {
+      "name": "Art Deco architecture",
+      "kind": "do",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "lat": 3.155895,
+      "lon": 101.696131,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "id": "malaysia-125a6ba86e8e23a86c88"
+    },
+    {
+      "name": "Stroll around Kampung Baru",
+      "kind": "do",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "lat": 3.16547,
+      "lon": 101.70979,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "id": "malaysia-902764298ee5bbedc6fb"
+    },
+    {
+      "name": "Hike in Taman Tugu",
+      "kind": "do",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "lat": 3.153056,
+      "lon": 101.684444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "id": "malaysia-ebaa22bb4f5550ca54ab"
+    },
+    {
+      "name": "La Cuisine",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "id": "malaysia-5a33289a60d569d868d5"
+    },
+    {
+      "name": "Capital Cafe",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "lat": 3.1560249,
+      "lon": 101.6940631,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "address": "213, Jalan Tuanku Abdul Rahman, City Centre",
+      "id": "malaysia-f38d584670675fbc3569"
+    },
+    {
+      "name": "RA Nasi Lemak",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "lat": 3.1571864,
+      "lon": 101.7011824,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "address": "15, Jalan Raja Abdullah, Kampung Baru",
+      "id": "malaysia-f429a3c69a669ae433f4"
+    },
+    {
+      "name": "Yut Kee Restaurant",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "lat": 3.1573318,
+      "lon": 101.6987169,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "address": "1, Jalan Kamunting, Medan Tuanku",
+      "id": "malaysia-9f0ce9f78f0728e1b7ab"
+    },
+    {
+      "name": "Plaza City One Food Court",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "lat": 3.1550281,
+      "lon": 101.6958046,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "address": "Level 2, Jalan Bunus 6, City Centre",
+      "price": "RM 10 - 20",
+      "id": "malaysia-428cde29cd34b71ef591"
+    },
+    {
+      "name": "Kudu bin Abdul Nasi Kandar",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "lat": 3.1603954,
+      "lon": 101.697321,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "address": "335, Jalan Tuanku Abdul Rahman, Medan Tuanku",
+      "id": "malaysia-b0aea31864f7e068e665"
+    },
+    {
+      "name": "Coliseum Cafe and Bar",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "lat": 3.1536483,
+      "lon": 101.6962597,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "address": "98 Jln. Tuanku Abdul Rahman",
+      "id": "malaysia-a1ea0cbdb4b35934b68e"
+    },
+    {
+      "name": "Lotus Hotel",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "lat": 3.150303,
+      "lon": 101.696017,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "address": "45, Jalan Melayu",
+      "id": "malaysia-6c43dd8a45cc0c2894cd"
+    },
+    {
+      "name": "City Park Hotel Kuala Lumpur",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "address": "46, Lorong Haji Hussein Satu",
+      "url": "http://www.citypark-kualalumpur.com/",
+      "id": "malaysia-9fd94e3fdadd8160f54d"
+    },
+    {
+      "name": "Swiss Hotel",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "lat": 3.1514642,
+      "lon": 101.6947596,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "address": "12 Jalan Tuanku Abdul Rahman",
+      "price": "From RM90",
+      "url": "http://www.swisshotel.com.my/",
+      "id": "malaysia-80b801ec87c908cf74c2"
+    },
+    {
+      "name": "Palace Hotel Kuala Lumpur",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "lat": 3.152476,
+      "lon": 101.694811,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "address": "40a, Jalan Masjid India",
+      "id": "malaysia-a324a418d868ed7c8248"
+    },
+    {
+      "name": "Citin Hotel Masjid Jamek",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "lat": 3.15116,
+      "lon": 101.695888,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "address": "Lot No. 7, Seksyen 33, Jl Melayu, Off Jalan Masjid India",
+      "price": "From RM115 depending on time of year",
+      "url": "http://www.citinmj.com/",
+      "id": "malaysia-452d7bbb72d5db8c0a1a"
+    },
+    {
+      "name": "Kuala Lumpur International Hotel",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "lat": 3.166821,
+      "lon": 101.699633,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "address": "Lorong Haji Hussein 2, off Jalan Raja Muda Abd Aziz",
+      "url": "https://klitel.com.my/",
+      "id": "malaysia-4b1f7a2f9a77122a298d"
+    },
+    {
+      "name": "Leo Palace Hotel",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "lat": 3.169992,
+      "lon": 101.693516,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "address": "18 Jalan Rahmat off Jalan Ipoh 50350 KL",
+      "url": "http://www.leopalace.com.my/",
+      "id": "malaysia-34e7aa524e5a4643077b"
+    },
+    {
+      "name": "Summit Hotel KL City Centre",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "lat": 3.158727,
+      "lon": 101.693009,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "address": "Jalan Raja Laut",
+      "id": "malaysia-50b9cec6c78de6c2d646"
+    },
+    {
+      "name": "Wira Hotel",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "lat": 3.166017,
+      "lon": 101.692719,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "address": "123 Jalan Thamboosamy",
+      "url": "http://www.wirahotel.com.my/",
+      "id": "malaysia-a9273c085afd11d087ae"
+    },
+    {
+      "name": "Ormond The Chow Kit",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "lat": 3.160297,
+      "lon": 101.696449,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "address": "1012, Jalan Sultan Ismail, Chow Kit",
+      "id": "malaysia-afc01bfc238714b22c2b"
+    },
+    {
+      "name": "Hotel Club Dolphin",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "lat": 3.16278,
+      "lon": 101.693144,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "id": "malaysia-3ed90e7942ecad614114"
+    },
+    {
+      "name": "Sheraton Imperial",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "lat": 3.158658,
+      "lon": 101.699955,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "address": "Jalan Sultan Ismail",
+      "url": "https://www.marriott.com/hotels/travel/kulsi-sheraton-imperial-kuala-lumpur-hotel/",
+      "id": "malaysia-cc7ecec2ea1d82868c72"
+    },
+    {
+      "name": "Silka Maytower",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "lat": 3.1542594,
+      "lon": 101.6983359,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "address": "7, Jalan Munshi Abdullah",
+      "url": "http://www.silkahotels.com/maytower/index.php",
+      "id": "malaysia-ea4ac99088d9056437f7"
+    },
+    {
+      "name": "Twin Tower View",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "lat": 3.1683,
+      "lon": 101.6938,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "address": "Bistari Condominium",
+      "price": "US$110 per night",
+      "url": "http://www.kualalumpurcondo.com/",
+      "id": "malaysia-6f0ae73548e67a9ab049"
+    },
+    {
+      "name": "Stripes Hotel",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "lat": 3.1573633,
+      "lon": 101.6998699,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "address": "25, Jalan Kamunting",
+      "price": "From RM 300",
+      "url": "http://stripeskl.com/",
+      "id": "malaysia-04a321c6607f92202cd5"
+    },
+    {
+      "name": "Kuala Lumpur/North of City Centre",
+      "kind": "area",
+      "locality": "Kuala Lumpur/North of City Centre",
+      "lat": 3.16704,
+      "lon": 101.69516,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FNorth_of_City_Centre",
+      "id": "malaysia-e252e5c43769ca2f1613"
+    },
+    {
+      "name": "National Palace",
+      "kind": "do",
+      "locality": "Kuala Lumpur/West",
+      "lat": 3.159809,
+      "lon": 101.667503,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FWest",
+      "id": "malaysia-91ec788e80cbbdb43ee8"
+    },
+    {
+      "name": "Kuala Lumpur Courts Complex",
+      "kind": "do",
+      "locality": "Kuala Lumpur/West",
+      "lat": 3.17695,
+      "lon": 101.6711,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FWest",
+      "id": "malaysia-0ed548834f376e8a6fac"
+    },
+    {
+      "name": "Federal Territory Mosque",
+      "kind": "do",
+      "locality": "Kuala Lumpur/West",
+      "lat": 3.171944,
+      "lon": 101.671111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FWest",
+      "address": "Jalan Duta",
+      "url": "http://www.masjidwilayah.gov.my/",
+      "id": "malaysia-5f3194727cddf59d30e9"
+    },
+    {
+      "name": "National Science Centre",
+      "kind": "do",
+      "locality": "Kuala Lumpur/West",
+      "lat": 3.14887,
+      "lon": 101.64485,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FWest",
+      "address": "Persiaran Bukit Kiara, Bukit Damansara",
+      "price": "Adult RM6, student RM3",
+      "url": "http://www.psn.gov.my/",
+      "id": "malaysia-a2afad96096820fd976f"
+    },
+    {
+      "name": "Hiking or mountainbiking in Bukit Kiara",
+      "kind": "do",
+      "locality": "Kuala Lumpur/West",
+      "lat": 3.145945,
+      "lon": 101.632219,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FWest",
+      "id": "malaysia-e76fcbd3d56e34deaa55"
+    },
+    {
+      "name": "Reflexology",
+      "kind": "do",
+      "locality": "Kuala Lumpur/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FWest",
+      "id": "malaysia-a12c6d929494b1d8d4a8"
+    },
+    {
+      "name": "Carnaval Churrascaria",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FWest",
+      "address": "Atria, Damansara Jaya",
+      "url": "https://www.facebook.com/Carnaval.Churrascaria/",
+      "id": "malaysia-ecc9c69a7d90dd9f0eb6"
+    },
+    {
+      "name": "Bricks & Barrels",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FWest",
+      "address": "76, Jalan 27/70a, Desa Sri Hartamas",
+      "price": "Before 9PM, drink prices RM 10-20 for a beer and after 9PM, RM 20-30",
+      "id": "malaysia-728a842bc2504f5880b0"
+    },
+    {
+      "name": "Souled Out",
+      "kind": "eat",
+      "locality": "Kuala Lumpur/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FWest",
+      "address": "20, Jalan 30/70 A, Sri Hartamas",
+      "url": "http://www.souledout.com.my/",
+      "id": "malaysia-e4edd03d144321168ee6"
+    },
+    {
+      "name": "The Royal Bintang Damansara",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FWest",
+      "address": "6 Jalan PJU 7/3, Mutiara Damansara",
+      "price": "RM 235-3,000",
+      "id": "malaysia-b286ba44198a518e47ac"
+    },
+    {
+      "name": "Peninsula Residence All Suite Hotel",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FWest",
+      "address": "10, Jalan Semantan, 50490",
+      "price": "From RM 190",
+      "id": "malaysia-a244ad1159fcef85efb7"
+    },
+    {
+      "name": "Damas Suites",
+      "kind": "stay",
+      "locality": "Kuala Lumpur/West",
+      "lat": 3.16251,
+      "lon": 101.65786,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FWest",
+      "address": "Plaza Damas 3, Jalan Sri Hartamas 1, Taman Sri Hartamas",
+      "url": "http://damas-suites.com/",
+      "id": "malaysia-2a37e5bfecd2b57ded2c"
+    },
+    {
+      "name": "Kuala Lumpur/West",
+      "kind": "area",
+      "locality": "Kuala Lumpur/West",
+      "lat": 3.15774,
+      "lon": 101.64611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuala_Lumpur%2FWest",
+      "id": "malaysia-40d82816a5fd174a74dc"
+    },
+    {
+      "name": "Monorail Bridge",
+      "kind": "do",
+      "locality": "Putrajaya",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Putrajaya",
+      "id": "malaysia-4520ead23579b436c4a0"
+    },
+    {
+      "name": "Perdana Putra",
+      "kind": "do",
+      "locality": "Putrajaya",
+      "lat": 2.938333,
+      "lon": 101.692222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Putrajaya",
+      "url": "http://www.pmo.gov.my/",
+      "id": "malaysia-af63829b05d4df5bda86"
+    },
+    {
+      "name": "Putra Mosque",
+      "kind": "do",
+      "locality": "Putrajaya",
+      "lat": 2.936067,
+      "lon": 101.68905,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Putrajaya",
+      "address": "Presint 1",
+      "price": "Free",
+      "id": "malaysia-681c0f95f3658654320a"
+    },
+    {
+      "name": "Putrajaya International Convention Centre",
+      "kind": "do",
+      "locality": "Putrajaya",
+      "lat": 2.895,
+      "lon": 101.676667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Putrajaya",
+      "url": "http://picc.com.my/",
+      "id": "malaysia-b8eb2b5344b89b5a56ba"
+    },
+    {
+      "name": "Seri Perdana",
+      "kind": "do",
+      "locality": "Putrajaya",
+      "lat": 2.9516,
+      "lon": 101.6896,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Putrajaya",
+      "url": "http://www.pmo.gov.my/?menu=page&page=1657",
+      "id": "malaysia-17e18c7bc4d2f6414bb0"
+    },
+    {
+      "name": "Wisma Putra",
+      "kind": "do",
+      "locality": "Putrajaya",
+      "lat": 2.92566,
+      "lon": 101.69224,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Putrajaya",
+      "id": "malaysia-9678e1c5e106a7268714"
+    },
+    {
+      "name": "Taman Putra Perdana",
+      "kind": "do",
+      "locality": "Putrajaya",
+      "lat": 2.94084,
+      "lon": 101.69756,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Putrajaya",
+      "address": "Presint 1",
+      "id": "malaysia-68464e4b7a6f68ff7c3a"
+    },
+    {
+      "name": "Millennium Monument",
+      "kind": "do",
+      "locality": "Putrajaya",
+      "lat": 2.92341,
+      "lon": 101.68258,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Putrajaya",
+      "address": "Presint 2",
+      "id": "malaysia-90e320f717540d5141b5"
+    },
+    {
+      "name": "Cruise Tasik Putrajaya",
+      "kind": "do",
+      "locality": "Putrajaya",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Putrajaya",
+      "address": "Jeti Putra, Jambatan Putra Presint 1",
+      "url": "http://www.cruisetasikputrajaya.com/",
+      "id": "malaysia-526ae048b161a72df27a"
+    },
+    {
+      "name": "Botanical Gardens",
+      "kind": "do",
+      "locality": "Putrajaya",
+      "lat": 2.9448,
+      "lon": 101.6953,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Putrajaya",
+      "address": "Precinct 1",
+      "price": "Free (Jan 2026)",
+      "url": "https://www.ppj.gov.my/en/page/taman-botani-putrajaya-1?slug=eko-pelancongan",
+      "id": "malaysia-bc3d4930f5b28ea3edfe"
+    },
+    {
+      "name": "Taman Ekuestrian Putrajaya",
+      "kind": "do",
+      "locality": "Putrajaya",
+      "lat": 2.89749,
+      "lon": 101.68658,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Putrajaya",
+      "address": "Precinct 5",
+      "id": "malaysia-e181c862522afa2931d7"
+    },
+    {
+      "name": "Medan Selera P8",
+      "kind": "eat",
+      "locality": "Putrajaya",
+      "lat": 2.9389687,
+      "lon": 101.6833534,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Putrajaya",
+      "address": "Jalan P8, Presint 8",
+      "id": "malaysia-a539e780d019c2fc76ac"
+    },
+    {
+      "name": "Taman Warisan",
+      "kind": "eat",
+      "locality": "Putrajaya",
+      "lat": 2.9279726,
+      "lon": 101.7004421,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Putrajaya",
+      "id": "malaysia-1f7b3bad2d13f893a856"
+    },
+    {
+      "name": "Night Market",
+      "kind": "eat",
+      "locality": "Putrajaya",
+      "lat": 2.9263,
+      "lon": 101.6871,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Putrajaya",
+      "address": "Persiaran Perdana, Presint 2",
+      "id": "malaysia-4e2a814af7ff0f5798ec"
+    },
+    {
+      "name": "Secret Recipe Presint 4",
+      "kind": "eat",
+      "locality": "Putrajaya",
+      "lat": 2.9130036,
+      "lon": 101.6839231,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Putrajaya",
+      "address": "Galeria PjH, Unit 8 & 9, Lot 29, Persiaran Perdana, Presint 4",
+      "id": "malaysia-fe49bd8e48d1b0909c2b"
+    },
+    {
+      "name": "Kedai Ayamas Presint 2",
+      "kind": "eat",
+      "locality": "Putrajaya",
+      "lat": 2.9262616,
+      "lon": 101.6864507,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Putrajaya",
+      "address": "A-G-R14, Tower A Bangunan Suasana PjH, Jalan Tun Abdul Razak, Presint 2",
+      "id": "malaysia-606b494ec18a143b2652"
+    },
+    {
+      "name": "Seoul Garden",
+      "kind": "eat",
+      "locality": "Putrajaya",
+      "lat": 2.9390497,
+      "lon": 101.7099291,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Putrajaya",
+      "address": "Lot P03A,Alamanda Shopping Centre, Presint 1",
+      "id": "malaysia-1aade9ead2b220cf36f4"
+    },
+    {
+      "name": "Balqis Restaurant - Shaftsbury",
+      "kind": "eat",
+      "locality": "Putrajaya",
+      "lat": 2.9381584,
+      "lon": 101.7128598,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Putrajaya",
+      "address": "Lot G-08, Shaftsbury Avenue, Precinct 1",
+      "id": "malaysia-f86e66ff68f80387b2bc"
+    },
+    {
+      "name": "Mohd Chan Restaurant",
+      "kind": "eat",
+      "locality": "Putrajaya",
+      "lat": 2.946117,
+      "lon": 101.7221499,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Putrajaya",
+      "address": "58 & 60, Tingkat Bawah, Lot Komersil Nadi @ 15, Jalan Perak P15, Presint 15",
+      "id": "malaysia-00c88bbfc95ae2ca0b62"
+    },
+    {
+      "name": "Cyberview Lodge and Resort",
+      "kind": "stay",
+      "locality": "Putrajaya",
+      "lat": 2.9237,
+      "lon": 101.6669,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Putrajaya",
+      "address": "Persiaran Multimedia, Cyberjaya",
+      "price": "US$100",
+      "url": "http://www.cyberviewresort.com/",
+      "id": "malaysia-d387f492319066c1c328"
+    },
+    {
+      "name": "Hotel Equatorial Bangi",
+      "kind": "stay",
+      "locality": "Putrajaya",
+      "lat": 2.955,
+      "lon": 101.7649,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Putrajaya",
+      "address": "In Bangi Golf Club",
+      "id": "malaysia-978c22e8a68a24d36196"
+    },
+    {
+      "name": "Marriott Putrajaya",
+      "kind": "stay",
+      "locality": "Putrajaya",
+      "lat": 2.9696,
+      "lon": 101.7064,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Putrajaya",
+      "url": "http://www.marriottputrajaya.com/",
+      "id": "malaysia-f6b1e49616afce00401b"
+    },
+    {
+      "name": "Palm Garden Hotel",
+      "kind": "stay",
+      "locality": "Putrajaya",
+      "lat": 2.9699,
+      "lon": 101.7091,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Putrajaya",
+      "url": "http://www.palmgarden.com.my/",
+      "id": "malaysia-51526c231d1ca4000ab8"
+    },
+    {
+      "name": "Pulse Grande",
+      "kind": "stay",
+      "locality": "Putrajaya",
+      "lat": 2.9431,
+      "lon": 101.6997,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Putrajaya",
+      "address": "Taman Putra Perdana Presint 1, Wilayah Persekutuan",
+      "price": "From RM260",
+      "url": "https://www.pulsegrande.com.my/",
+      "id": "malaysia-46d303d9a6938d5b5ccb"
+    },
+    {
+      "name": "Citadines D’Pulze Cyberjaya",
+      "kind": "stay",
+      "locality": "Putrajaya",
+      "lat": 2.9218,
+      "lon": 101.6506,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Putrajaya",
+      "address": "Lingkaran Cyber Point Timur, Cyber 12 63000 Cyberjaya",
+      "url": "https://www.citadines.com/en/malaysia/cyberjaya/citadines-dpulze-cyberjaya.html",
+      "id": "malaysia-01a4e806d4452296e807"
+    },
+    {
+      "name": "Putrajaya",
+      "kind": "area",
+      "locality": "Putrajaya",
+      "lat": 2.9167,
+      "lon": 101.6667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Putrajaya",
+      "id": "malaysia-3bfee44bcca3cea46639"
+    }
+  ],
+  "status": "partial",
+  "note": "Fetched 9 distinct public Wikivoyage source pages; attempted 9 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Coverage cap: Kuala Lumpur: 7 additional linked subpages not fetched; Kuala Lumpur: 7 additional linked subpages not fetched."
+}

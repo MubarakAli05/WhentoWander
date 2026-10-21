@@ -1,0 +1,386 @@
+{
+  "sources": [
+    {
+      "title": "Zimbabwe",
+      "url": "https://en.wikivoyage.org/wiki/Zimbabwe",
+      "checkedAt": "2026-10-21T08:13:19.659Z"
+    },
+    {
+      "title": "Harare",
+      "url": "https://en.wikivoyage.org/wiki/Harare",
+      "checkedAt": "2026-10-21T08:13:21.561Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Harare",
+      "kind": "area",
+      "locality": "Zimbabwe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zimbabwe",
+      "id": "zimbabwe-0ba127aad6472722028e"
+    },
+    {
+      "name": "Bulawayo",
+      "kind": "area",
+      "locality": "Zimbabwe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zimbabwe",
+      "id": "zimbabwe-b7692e60049bcba783a9"
+    },
+    {
+      "name": "Chimanimani",
+      "kind": "area",
+      "locality": "Zimbabwe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zimbabwe",
+      "id": "zimbabwe-545405b481d99f3f9ee4"
+    },
+    {
+      "name": "Gweru",
+      "kind": "area",
+      "locality": "Zimbabwe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zimbabwe",
+      "id": "zimbabwe-d056b6ebb86067e1c469"
+    },
+    {
+      "name": "Kariba",
+      "kind": "area",
+      "locality": "Zimbabwe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zimbabwe",
+      "id": "zimbabwe-d2a18d7dcab081da8986"
+    },
+    {
+      "name": "Masvingo",
+      "kind": "area",
+      "locality": "Zimbabwe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zimbabwe",
+      "id": "zimbabwe-73fcc19a7be0df872676"
+    },
+    {
+      "name": "Mutare",
+      "kind": "area",
+      "locality": "Zimbabwe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zimbabwe",
+      "id": "zimbabwe-ccf12c1d99ce311bc8b1"
+    },
+    {
+      "name": "Hwange National Park",
+      "kind": "do",
+      "locality": "Zimbabwe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zimbabwe",
+      "id": "zimbabwe-4fb180de2280d6eb30bd"
+    },
+    {
+      "name": "Matobo National Park",
+      "kind": "do",
+      "locality": "Zimbabwe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zimbabwe",
+      "id": "zimbabwe-92ea061560119ff243a8"
+    },
+    {
+      "name": "Mana Pools National Park",
+      "kind": "do",
+      "locality": "Zimbabwe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zimbabwe",
+      "id": "zimbabwe-e712d5aef2ccc9a5deec"
+    },
+    {
+      "name": "Great Zimbabwe Ruins",
+      "kind": "do",
+      "locality": "Zimbabwe",
+      "lat": -20.27,
+      "lon": 30.933,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zimbabwe",
+      "id": "zimbabwe-9a51d9331c4e08f549ca"
+    },
+    {
+      "name": "National Heroes Acre",
+      "kind": "do",
+      "locality": "Harare",
+      "lat": -17.834444,
+      "lon": 30.987222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "price": "$10 entree fee per person",
+      "id": "zimbabwe-842ef8a24b24f76e7d89"
+    },
+    {
+      "name": "Harare City Library",
+      "kind": "do",
+      "locality": "Harare",
+      "lat": -17.831367,
+      "lon": 31.03893,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "id": "zimbabwe-02b86678791b1641b8e2"
+    },
+    {
+      "name": "The Kopje",
+      "kind": "do",
+      "locality": "Harare",
+      "lat": -17.840593,
+      "lon": 31.038308,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "id": "zimbabwe-d398ac51529fc4f38f5a"
+    },
+    {
+      "name": "National Gallery of Zimbabwe",
+      "kind": "do",
+      "locality": "Harare",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "price": "$10 per person",
+      "url": "http://www.nationalgallery.co.zw/",
+      "id": "zimbabwe-212010dce19a1db7a9cd"
+    },
+    {
+      "name": "Zimbabwe Museum of Human Sciences",
+      "kind": "do",
+      "locality": "Harare",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "address": "Burnett Way",
+      "id": "zimbabwe-9547f6cadeccd8a409eb"
+    },
+    {
+      "name": "National Archives",
+      "kind": "do",
+      "locality": "Harare",
+      "lat": -17.793978,
+      "lon": 31.063976,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "id": "zimbabwe-61ab3afc7b7ece09fc8d"
+    },
+    {
+      "name": "Chapungu Sculpture Park",
+      "kind": "do",
+      "locality": "Harare",
+      "lat": -17.8434102,
+      "lon": 31.1188522,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "id": "zimbabwe-61e84332e7ac1b1e8ef2"
+    },
+    {
+      "name": "Sacred Heart Cathedral",
+      "kind": "do",
+      "locality": "Harare",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "address": "Fourth St",
+      "id": "zimbabwe-cfcf4cffba23f906a6e1"
+    },
+    {
+      "name": "Cathedral of St Mary and All Saints",
+      "kind": "do",
+      "locality": "Harare",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "id": "zimbabwe-f1f79d8dc591404b4a7c"
+    },
+    {
+      "name": "National Botanic Garden",
+      "kind": "do",
+      "locality": "Harare",
+      "lat": -17.799722,
+      "lon": 31.054282,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "address": "Sandringham Dr",
+      "id": "zimbabwe-274f8120baed2a7e76b3"
+    },
+    {
+      "name": "Mukuvisi Woodlands",
+      "kind": "do",
+      "locality": "Harare",
+      "lat": -17.837257,
+      "lon": 31.088819,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "address": "Hillside Rd",
+      "price": "Adult US$5, child between 5 and 12 US$4",
+      "url": "http://www.mukuvisiwoodland.co.zw/",
+      "id": "zimbabwe-ce9e72db7fb24d41b674"
+    },
+    {
+      "name": "Harare Gardens",
+      "kind": "do",
+      "locality": "Harare",
+      "lat": -17.824,
+      "lon": 31.0465,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "url": "https://www.myguidezimbabwe.com/things-to-do/harare-gardens",
+      "id": "zimbabwe-5dedb588adb7302d934e"
+    },
+    {
+      "name": "Wild Is Life",
+      "kind": "do",
+      "locality": "Harare",
+      "lat": -17.94401,
+      "lon": 31.10426,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "address": "2 Delport Road",
+      "url": "https://wildislife.org/",
+      "id": "zimbabwe-337283a599afe2e8b5f3"
+    },
+    {
+      "name": "Haka Camp Game Park",
+      "kind": "do",
+      "locality": "Harare",
+      "lat": -17.8433,
+      "lon": 31.1444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "url": "https://www.facebook.com/Haka-Camp-Game-Park-331620340959416/",
+      "id": "zimbabwe-443496c84eb7943dd61c"
+    },
+    {
+      "name": "Harare Sports Club",
+      "kind": "do",
+      "locality": "Harare",
+      "lat": -17.8141,
+      "lon": 31.0506,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "address": "3 Lanark Rd",
+      "id": "zimbabwe-46206a30d15f8ac5a575"
+    },
+    {
+      "name": "Epworth Balancing Rocks",
+      "kind": "do",
+      "locality": "Harare",
+      "lat": -17.9173746,
+      "lon": 31.0921201,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "address": "Chiremba Rd, Epworth",
+      "price": "$2 to $10",
+      "id": "zimbabwe-f0f9b86d70ab75fe6639"
+    },
+    {
+      "name": "Pick N Pay Supermarkers",
+      "kind": "eat",
+      "locality": "Harare",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "address": "Robertson Street",
+      "url": "http://www.tmsm.co.zw/",
+      "id": "zimbabwe-6a8c3e273cd19eca2585"
+    },
+    {
+      "name": "Choppies Supermarket",
+      "kind": "eat",
+      "locality": "Harare",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "id": "zimbabwe-e3ebf7874707d4f82a54"
+    },
+    {
+      "name": "Khaya Nyama Wombles",
+      "kind": "eat",
+      "locality": "Harare",
+      "lat": -17.792551,
+      "lon": 31.105582,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "address": "158 Enterprise Road (A2), Highlands",
+      "url": "https://khayanyama.com/",
+      "id": "zimbabwe-1597e81b2d7d2540b57a"
+    },
+    {
+      "name": "Coimbra",
+      "kind": "eat",
+      "locality": "Harare",
+      "lat": -17.822447,
+      "lon": 31.05726,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "address": "61 Selous Avenue, corner 7th St",
+      "price": "$25",
+      "id": "zimbabwe-38544b258dec460017c5"
+    },
+    {
+      "name": "On The Roof Bar",
+      "kind": "eat",
+      "locality": "Harare",
+      "lat": -17.81785,
+      "lon": 31.04657,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "id": "zimbabwe-3d0e894f2d04e7bb4297"
+    },
+    {
+      "name": "Beverlino Restaurant",
+      "kind": "eat",
+      "locality": "Harare",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "address": "100 Nelson Mandela Corner Fourth/Nelson Mandela",
+      "id": "zimbabwe-abed7b99aec7c0b33635"
+    },
+    {
+      "name": "Backpackers Travellers Lodge",
+      "kind": "stay",
+      "locality": "Harare",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "address": "94 Fourth Street",
+      "price": "From USD20",
+      "url": "http://www.smallworldlodge.com/",
+      "id": "zimbabwe-cdcca3be062fe66ff200"
+    },
+    {
+      "name": "Bowood Lodge",
+      "kind": "stay",
+      "locality": "Harare",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "address": "est House, 8",
+      "url": "http://www.bowoodlodge.net/",
+      "id": "zimbabwe-c91e1dbadb2d6b92d43b"
+    },
+    {
+      "name": "Cresta Oasis",
+      "kind": "stay",
+      "locality": "Harare",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "address": "Nelson Mandela Way",
+      "price": "Around $100",
+      "id": "zimbabwe-3b912a1a5513064a2ee4"
+    },
+    {
+      "name": "Simba Harare",
+      "kind": "stay",
+      "locality": "Harare",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "address": "est House, 522",
+      "url": "http://www.accomodation-harare.dk/",
+      "id": "zimbabwe-acfd4897fab83314a0cb"
+    },
+    {
+      "name": "Monomotapa Hotel",
+      "kind": "stay",
+      "locality": "Harare",
+      "lat": -17.826123,
+      "lon": 31.047193,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "address": "54 Park Ln",
+      "price": "$120+",
+      "url": "https://www.africansunhotels.com/hotels/6/monomotapa",
+      "id": "zimbabwe-9d51674f77a7fa816a08"
+    },
+    {
+      "name": "Holiday Inn Harare",
+      "kind": "stay",
+      "locality": "Harare",
+      "lat": -17.825732,
+      "lon": 31.056027,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "address": "Samora Machel Ave",
+      "price": "$120+",
+      "url": "https://www.ihg.com/holidayinn/hotels/us/en/harare/harsf/hoteldetail",
+      "id": "zimbabwe-3e8df51138cef7a3b799"
+    },
+    {
+      "name": "Meikles Hotel",
+      "kind": "stay",
+      "locality": "Harare",
+      "lat": -17.830395,
+      "lon": 31.052721,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "address": "Jason Moyo Avenue",
+      "price": "Prices start at $200 per night",
+      "url": "http://www.meikleshotel.com/",
+      "id": "zimbabwe-82387cc20ce39b3f133f"
+    },
+    {
+      "name": "Harare",
+      "kind": "area",
+      "locality": "Harare",
+      "lat": -17.8292,
+      "lon": 31.054,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Harare",
+      "id": "zimbabwe-a8724d70b0e71f02649f"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

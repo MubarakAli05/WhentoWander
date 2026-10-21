@@ -1,0 +1,232 @@
+{
+  "sources": [
+    {
+      "title": "Lesotho",
+      "url": "https://en.wikivoyage.org/wiki/Lesotho",
+      "checkedAt": "2026-10-21T08:10:28.465Z"
+    },
+    {
+      "title": "Maseru",
+      "url": "https://en.wikivoyage.org/wiki/Maseru",
+      "checkedAt": "2026-10-21T08:10:31.185Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Maseru",
+      "kind": "area",
+      "locality": "Lesotho",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lesotho",
+      "id": "lesotho-7a3bd7d86070f521d51a"
+    },
+    {
+      "name": "Leribe",
+      "kind": "area",
+      "locality": "Lesotho",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lesotho",
+      "id": "lesotho-63f8cbee90f9ed6e5f9f"
+    },
+    {
+      "name": "Mafeteng",
+      "kind": "area",
+      "locality": "Lesotho",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lesotho",
+      "id": "lesotho-a7d89fd446c2632b3421"
+    },
+    {
+      "name": "Mohale's Hoek",
+      "kind": "area",
+      "locality": "Lesotho",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lesotho",
+      "id": "lesotho-91359e756ae68b5e451a"
+    },
+    {
+      "name": "Mokhotlong",
+      "kind": "area",
+      "locality": "Lesotho",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lesotho",
+      "id": "lesotho-c2ce1494107beb7e8a88"
+    },
+    {
+      "name": "Quthing",
+      "kind": "area",
+      "locality": "Lesotho",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lesotho",
+      "id": "lesotho-9edab5599542b20d1adf"
+    },
+    {
+      "name": "Teyateyaneng",
+      "kind": "area",
+      "locality": "Lesotho",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lesotho",
+      "id": "lesotho-1b74e4404697c1cc3bd4"
+    },
+    {
+      "name": "Thaba-Tseka",
+      "kind": "area",
+      "locality": "Lesotho",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lesotho",
+      "id": "lesotho-e7187df0b1397764ae8c"
+    },
+    {
+      "name": "Hiking",
+      "kind": "do",
+      "locality": "Lesotho",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lesotho",
+      "id": "lesotho-bbf0db854ceb80602b79"
+    },
+    {
+      "name": "Sani Top Chalet",
+      "kind": "eat",
+      "locality": "Lesotho",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lesotho",
+      "price": "Maluti beer: M15",
+      "id": "lesotho-07893a6257ffe64b4d3e"
+    },
+    {
+      "name": "Go canoeing on the Caledon river",
+      "kind": "do",
+      "locality": "Maseru",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maseru",
+      "url": "http://www.durham-lesotholink.org.uk/",
+      "id": "lesotho-5a0a400f835b323c9c59"
+    },
+    {
+      "name": "Avani Lesotho Casino",
+      "kind": "do",
+      "locality": "Maseru",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maseru",
+      "url": "https://www.avanihotels.com/en/lesotho",
+      "id": "lesotho-e56a1da4a3940974dff8"
+    },
+    {
+      "name": "Oh Lah Lah French Café",
+      "kind": "eat",
+      "locality": "Maseru",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maseru",
+      "address": "Cnr Kingsway & Pioneer Rd",
+      "id": "lesotho-b87a14c387d46f7b290f"
+    },
+    {
+      "name": "Lesotho - Durham Link",
+      "kind": "stay",
+      "locality": "Maseru",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maseru",
+      "address": "off the Agric / Old Airport Road, on the northern edge of the lake",
+      "price": "M100 per person (dormitory)",
+      "url": "http://www.durham-lesotholink.org.uk/",
+      "id": "lesotho-fad877999f5b5342981c"
+    },
+    {
+      "name": "Anglican Training Centre",
+      "kind": "stay",
+      "locality": "Maseru",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maseru",
+      "address": "Corner Assisi Rd and Lancers Rd",
+      "price": "M120",
+      "id": "lesotho-31050006a4274908bd67"
+    },
+    {
+      "name": "Lesotho Work Camps Association",
+      "kind": "stay",
+      "locality": "Maseru",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maseru",
+      "address": "Kingsway",
+      "price": "M120 per person per night",
+      "id": "lesotho-e459a7a3d452b844b652"
+    },
+    {
+      "name": "Mohokare Guest House",
+      "kind": "stay",
+      "locality": "Maseru",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maseru",
+      "address": "260 Kofi Annan, New Europa",
+      "price": "Single- M400, Double-M550",
+      "url": "http://www.mohokare.co.ls/",
+      "id": "lesotho-eafcfef05e8388f1fd1f"
+    },
+    {
+      "name": "Boikhutsong Bed & Breakfast",
+      "kind": "stay",
+      "locality": "Maseru",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maseru",
+      "address": "623 Tjobolo, Hillsview",
+      "id": "lesotho-2563146831e28e0cae0a"
+    },
+    {
+      "name": "Foothills Guest House",
+      "kind": "stay",
+      "locality": "Maseru",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maseru",
+      "address": "121 Maluti Road, Maseru West.",
+      "price": "Double from M450, single from M295",
+      "id": "lesotho-5dae9e2ab534093b851c"
+    },
+    {
+      "name": "Lakeside Hotel",
+      "kind": "stay",
+      "locality": "Maseru",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maseru",
+      "price": "Double room from M274, Single from M183",
+      "id": "lesotho-bd797e7d010b5a8e00c6"
+    },
+    {
+      "name": "Mpilo Lodge",
+      "kind": "stay",
+      "locality": "Maseru",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maseru",
+      "address": "Maluti Road, Maseru West",
+      "price": "Doubles from M500, singles from M350",
+      "id": "lesotho-3968982017942a59d8a1"
+    },
+    {
+      "name": "Victoria Hotel",
+      "kind": "stay",
+      "locality": "Maseru",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maseru",
+      "address": "Kingsway",
+      "price": "Double room from M600, Single from M540",
+      "id": "lesotho-d4bc19fa547e89ebc463"
+    },
+    {
+      "name": "Lancer's Inn",
+      "kind": "stay",
+      "locality": "Maseru",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maseru",
+      "address": "Kingsway",
+      "price": "Double rooms from M845, singles from M745",
+      "id": "lesotho-23b59158e0f56cc424ce"
+    },
+    {
+      "name": "Avani Maseru Hotel",
+      "kind": "stay",
+      "locality": "Maseru",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maseru",
+      "address": "12 Orpen Rd",
+      "price": "$100 USD (Mar 2022)",
+      "url": "https://www.avanihotels.com/maseru",
+      "id": "lesotho-c8ce4932f2bee384a061"
+    },
+    {
+      "name": "City Stay Maseru",
+      "kind": "stay",
+      "locality": "Maseru",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maseru",
+      "address": "New Parliament Dr",
+      "price": "Double rooms from LM450",
+      "url": "https://citystay-maseru.business.site/",
+      "id": "lesotho-b17dfa08410e65508a38"
+    },
+    {
+      "name": "Maseru",
+      "kind": "area",
+      "locality": "Maseru",
+      "lat": -29.31,
+      "lon": 27.48,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maseru",
+      "id": "lesotho-3e9acae5df48db1e6804"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

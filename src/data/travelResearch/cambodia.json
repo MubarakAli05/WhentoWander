@@ -1,0 +1,1010 @@
+{
+  "sources": [
+    {
+      "title": "Cambodia",
+      "url": "https://en.wikivoyage.org/wiki/Cambodia",
+      "checkedAt": "2026-10-21T08:05:52.705Z"
+    },
+    {
+      "title": "Phnom Penh",
+      "url": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "checkedAt": "2026-10-21T08:05:55.480Z"
+    },
+    {
+      "title": "Angkor Archaeological Park",
+      "url": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+      "checkedAt": "2026-10-21T08:05:58.855Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Phnom Penh",
+      "kind": "area",
+      "locality": "Cambodia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cambodia",
+      "id": "cambodia-54ce582d9004fca4ec0c"
+    },
+    {
+      "name": "Banlung",
+      "kind": "area",
+      "locality": "Cambodia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cambodia",
+      "id": "cambodia-465fc15cf5e5323e2ffa"
+    },
+    {
+      "name": "Battambang",
+      "kind": "area",
+      "locality": "Cambodia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cambodia",
+      "id": "cambodia-b945a2e93cdbf7d0d428"
+    },
+    {
+      "name": "Kampot",
+      "kind": "area",
+      "locality": "Cambodia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cambodia",
+      "id": "cambodia-42d80d46a7e1ca5896cc"
+    },
+    {
+      "name": "Koh Kong",
+      "kind": "area",
+      "locality": "Cambodia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cambodia",
+      "id": "cambodia-cc7d17014b996e833c04"
+    },
+    {
+      "name": "Kampong Thom",
+      "kind": "area",
+      "locality": "Cambodia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cambodia",
+      "id": "cambodia-6837ce79ec45c5af29fc"
+    },
+    {
+      "name": "Kratie",
+      "kind": "area",
+      "locality": "Cambodia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cambodia",
+      "id": "cambodia-858b93f6bc894cf1cc77"
+    },
+    {
+      "name": "Siem Reap",
+      "kind": "area",
+      "locality": "Cambodia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cambodia",
+      "id": "cambodia-89226ee39faa13db993d"
+    },
+    {
+      "name": "Sihanoukville",
+      "kind": "area",
+      "locality": "Cambodia",
+      "lat": 10.6333,
+      "lon": 103.5,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cambodia",
+      "id": "cambodia-1ef5b034638a59edefc3"
+    },
+    {
+      "name": "The National Museum of Cambodia",
+      "kind": "do",
+      "locality": "Phnom Penh",
+      "lat": 11.5658,
+      "lon": 104.929,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "St 13, Sangkat Chey Chumneas, Khan Daun Penh",
+      "price": "US$10, youth US$5",
+      "url": "http://www.cambodiamuseum.info/",
+      "id": "cambodia-65cd00ae333ec6bebcb1"
+    },
+    {
+      "name": "The Royal Palace and Silver Pagoda",
+      "kind": "do",
+      "locality": "Phnom Penh",
+      "lat": 11.563681,
+      "lon": 104.931119,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "Sothearos Blvd",
+      "price": "US$10",
+      "id": "cambodia-d40bfb36cd78c2e9d313"
+    },
+    {
+      "name": "Sisowath Quay",
+      "kind": "do",
+      "locality": "Phnom Penh",
+      "lat": 11.566742,
+      "lon": 104.932031,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "id": "cambodia-6f0e80e034324e1907a2"
+    },
+    {
+      "name": "Tuol Sleng Genocide Museum (S-21 Prison)",
+      "kind": "do",
+      "locality": "Phnom Penh",
+      "lat": 11.549444,
+      "lon": 104.917778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "St 113, Boeng Keng Kang 3, Chamkar Morn",
+      "price": "US$5 entrance, US$5 for audio tour or guided tour",
+      "url": "http://tuolsleng.com/",
+      "id": "cambodia-0c48a67ed7282f602658"
+    },
+    {
+      "name": "The Killing Fields of Choeung Ek",
+      "kind": "do",
+      "locality": "Phnom Penh",
+      "lat": 11.484389,
+      "lon": 104.901972,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "price": "US$6, including audio tour (not sold separately)",
+      "url": "https://www.facebook.com/killingfield",
+      "id": "cambodia-8e17ef2acf490d8b5e8d"
+    },
+    {
+      "name": "Former M-13 Prison",
+      "kind": "do",
+      "locality": "Phnom Penh",
+      "lat": 11.769,
+      "lon": 104.3807,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "id": "cambodia-e39e09988af2b581c3a0"
+    },
+    {
+      "name": "Independence and Liberation Memorials",
+      "kind": "do",
+      "locality": "Phnom Penh",
+      "lat": 11.55646,
+      "lon": 104.92818,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "id": "cambodia-7cfda172eabdb249ca80"
+    },
+    {
+      "name": "Olympic Stadium",
+      "kind": "do",
+      "locality": "Phnom Penh",
+      "lat": 11.558361,
+      "lon": 104.912083,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "price": "6,000 riel to get in, 500 riel to check your things",
+      "id": "cambodia-ad83aac77f9564d0137c"
+    },
+    {
+      "name": "Wat Botum",
+      "kind": "do",
+      "locality": "Phnom Penh",
+      "lat": 11.5594,
+      "lon": 104.931,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "id": "cambodia-8c1cbff74e9b6e71b4ce"
+    },
+    {
+      "name": "Wat Phnom",
+      "kind": "do",
+      "locality": "Phnom Penh",
+      "lat": 11.576036,
+      "lon": 104.923067,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "Norodom Blvd at St 94",
+      "price": "US$1 for foreigners",
+      "id": "cambodia-46fc3b893f57070286f2"
+    },
+    {
+      "name": "Wat Ounalom",
+      "kind": "do",
+      "locality": "Phnom Penh",
+      "lat": 11.5678,
+      "lon": 104.93,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "Samdech Sothearos Blvd",
+      "id": "cambodia-721c60fce05ad7e0e0ef"
+    },
+    {
+      "name": "Wat Langka",
+      "kind": "do",
+      "locality": "Phnom Penh",
+      "lat": 11.565833,
+      "lon": 104.926667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "id": "cambodia-a85d3f70cc5143c861b2"
+    },
+    {
+      "name": "Sosoro Museum",
+      "kind": "do",
+      "locality": "Phnom Penh",
+      "lat": 11.57433,
+      "lon": 104.92545,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "#16 106 Preah Moha Ksatreiyani Kossamak Avenue",
+      "price": "Adult 20,000 riel, 32,000 riel with audioguide; child 2,000 riel, 14,000 riel with audioguide",
+      "url": "http://sosoro.nbc.org.kh/",
+      "id": "cambodia-27c8927cefb9a3a764bf"
+    },
+    {
+      "name": "Phnom Tamao Zoological Park and Wildlife Rescue Center (PTWRC)",
+      "kind": "do",
+      "locality": "Phnom Penh",
+      "lat": 11.2979,
+      "lon": 104.7934,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "National Road No 2, Tro Pang Sap Village, Tro Pang Sap Commune, Ba Ti District",
+      "url": "https://www.wildlifealliance.org/wildlife-phnom-tamao/",
+      "id": "cambodia-b4c71aea46ffdea09dc9"
+    },
+    {
+      "name": "Mekong River Cruises",
+      "kind": "do",
+      "locality": "Phnom Penh",
+      "lat": 11.57775,
+      "lon": 104.92539,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "price": "US$8",
+      "id": "cambodia-44b97c0457a376cf7a0f"
+    },
+    {
+      "name": "Meta House",
+      "kind": "do",
+      "locality": "Phnom Penh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "6, St 264, opposite Wat Botum",
+      "url": "http://www.meta-house.com/",
+      "id": "cambodia-56f313b19d084b9df824"
+    },
+    {
+      "name": "Institute Francais",
+      "kind": "do",
+      "locality": "Phnom Penh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "url": "https://institutfrancais-cambodge.com/",
+      "id": "cambodia-bc87f2225944ad33d96c"
+    },
+    {
+      "name": "Hash House Harriers",
+      "kind": "do",
+      "locality": "Phnom Penh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "price": "US$5",
+      "url": "http://www.p2h3.com/",
+      "id": "cambodia-e61954eef765a9a10bd2"
+    },
+    {
+      "name": "NagaWorld Casino",
+      "kind": "do",
+      "locality": "Phnom Penh",
+      "lat": 11.55602,
+      "lon": 104.93698,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "url": "http://nagaworld.com/",
+      "id": "cambodia-97345fec4b5fc9b842ca"
+    },
+    {
+      "name": "Thunder Ranch Shooting Range",
+      "kind": "do",
+      "locality": "Phnom Penh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "price": "Pistol US$20; AK-47 (30 rounds) US$40; rocket launcher US$350",
+      "id": "cambodia-d88421eb24377ea77da5"
+    },
+    {
+      "name": "3-Pots Lady",
+      "kind": "eat",
+      "locality": "Phnom Penh",
+      "lat": 11.56298,
+      "lon": 104.91596,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "price": "6,000 riel",
+      "id": "cambodia-f700b00e3442d99301d6"
+    },
+    {
+      "name": "Surn Yi Vegetarian Restaurant",
+      "kind": "eat",
+      "locality": "Phnom Penh",
+      "lat": 11.563907,
+      "lon": 104.927035,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "15 Samdach Preah Thoamak Lekhet Ouk St",
+      "price": "US$3-5",
+      "url": "https://www.facebook.com/surn.yi.vegetarian/",
+      "id": "cambodia-5b4473a8b4e193673b4a"
+    },
+    {
+      "name": "Warung Bali",
+      "kind": "eat",
+      "locality": "Phnom Penh",
+      "lat": 11.56676,
+      "lon": 104.93043,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "3D St 178 No. 25 E0, Royal Palace",
+      "id": "cambodia-2805565d1f529783462f"
+    },
+    {
+      "name": "Anise",
+      "kind": "eat",
+      "locality": "Phnom Penh",
+      "lat": 11.555426,
+      "lon": 104.9248287,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "57 St",
+      "id": "cambodia-8d6d8209290b9eb65171"
+    },
+    {
+      "name": "Aussie XL",
+      "kind": "eat",
+      "locality": "Phnom Penh",
+      "lat": 11.578069,
+      "lon": 104.919377,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "96 Phsar Dek (St. 88)",
+      "id": "cambodia-58bed007368790467abd"
+    },
+    {
+      "name": "Java Creative Cafe Toul Tom Poung",
+      "kind": "eat",
+      "locality": "Phnom Penh",
+      "lat": 11.537346,
+      "lon": 104.91377654,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "53, Street 468 Toul Tum Poung II",
+      "url": "https://javacreativecafe.com/",
+      "id": "cambodia-fa9d11fcbf04309c6d6c"
+    },
+    {
+      "name": "Junk Food Junction",
+      "kind": "eat",
+      "locality": "Phnom Penh",
+      "lat": 11.55183,
+      "lon": 104.92679,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "Cnr St 51 and St 310, BKK1",
+      "id": "cambodia-a720f291e9e1b615f632"
+    },
+    {
+      "name": "Kathmandu Kitchen",
+      "kind": "eat",
+      "locality": "Phnom Penh",
+      "lat": 11.55989,
+      "lon": 104.93378,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "13 Long Nget Street 258",
+      "price": "US$2-5; veg. Nepali-style thali US$3.5",
+      "id": "cambodia-35fa4d6061fefe989986"
+    },
+    {
+      "name": "Sony Side Up",
+      "kind": "eat",
+      "locality": "Phnom Penh",
+      "lat": 11.566682,
+      "lon": 104.9273,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "St 172",
+      "id": "cambodia-9497e87df682a31c2d94"
+    },
+    {
+      "name": "The Shop",
+      "kind": "eat",
+      "locality": "Phnom Penh",
+      "lat": 11.560057,
+      "lon": 104.928327,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "#39, St 240",
+      "url": "http://www.theshop-cambodia.com/",
+      "id": "cambodia-92d706d1b8d328410fe5"
+    },
+    {
+      "name": "Digby's",
+      "kind": "eat",
+      "locality": "Phnom Penh",
+      "lat": 11.55206,
+      "lon": 104.92342,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "197 Preah Trasak Paem St. 63",
+      "url": "https://www.facebook.com/digbysphnompenh/",
+      "id": "cambodia-7ba8482de414ad7c8576"
+    },
+    {
+      "name": "Cousin's Burger Coffee",
+      "kind": "eat",
+      "locality": "Phnom Penh",
+      "lat": 11.56245,
+      "lon": 104.9253,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "16, St 200",
+      "url": "http://www.cousin-s.com/",
+      "id": "cambodia-4aae4a677d37cc212874"
+    },
+    {
+      "name": "Luxuries Cafe",
+      "kind": "eat",
+      "locality": "Phnom Penh",
+      "lat": 11.57187,
+      "lon": 104.9214,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "id": "cambodia-7231682fe75537e04bcf"
+    },
+    {
+      "name": "Chhma Catfe",
+      "kind": "eat",
+      "locality": "Phnom Penh",
+      "lat": 11.5665,
+      "lon": 104.93,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "3, St 178",
+      "price": "US$1.5 donation entrance fee. Smoothies US$2.5",
+      "id": "cambodia-eca0d8c27aeb8afed2e6"
+    },
+    {
+      "name": "Mr. Piccolo Coffee",
+      "kind": "eat",
+      "locality": "Phnom Penh",
+      "lat": 11.540523,
+      "lon": 104.917714,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "30 St 123",
+      "id": "cambodia-5b0faca9931e9835beae"
+    },
+    {
+      "name": "Foreign Correspondents' Club (FCC)",
+      "kind": "eat",
+      "locality": "Phnom Penh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "id": "cambodia-8eff2c3274f2fb107499"
+    },
+    {
+      "name": "Bouchon",
+      "kind": "eat",
+      "locality": "Phnom Penh",
+      "lat": 11.5642,
+      "lon": 104.9204,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "St 174",
+      "url": "https://bouchon-wine-bar.business.site/",
+      "id": "cambodia-431d1cafe575805027bb"
+    },
+    {
+      "name": "Cloud9 Skybar",
+      "kind": "eat",
+      "locality": "Phnom Penh",
+      "lat": 11.57035,
+      "lon": 104.927,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "#68 Street 136",
+      "url": "http://www.sunandmoonhotel.com/experiences/eat-drink/cloud-9-skybar.html",
+      "id": "cambodia-7816480d4cd804194fa9"
+    },
+    {
+      "name": "Eclipse Sky Bar",
+      "kind": "eat",
+      "locality": "Phnom Penh",
+      "lat": 11.5584,
+      "lon": 104.9199,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "cnr Monivong and St 232",
+      "price": "US$3 Tiger draught beer",
+      "id": "cambodia-b39f3a9863ba546e4859"
+    },
+    {
+      "name": "Liquid",
+      "kind": "eat",
+      "locality": "Phnom Penh",
+      "lat": 11.555537,
+      "lon": 104.92565,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "3B St 278",
+      "id": "cambodia-42cd9c7365a342329c6f"
+    },
+    {
+      "name": "Zeppelin Cafe",
+      "kind": "eat",
+      "locality": "Phnom Penh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "id": "cambodia-8bf8e939d646460f3c11"
+    },
+    {
+      "name": "#10 Lakeside Guesthouse",
+      "kind": "stay",
+      "locality": "Phnom Penh",
+      "lat": 11.57733,
+      "lon": 104.91499,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "price": "Rooms US$6 (Apr 2023)",
+      "id": "cambodia-cd103e95c8369da9cc9f"
+    },
+    {
+      "name": "Capitol 3 Guesthouse",
+      "kind": "stay",
+      "locality": "Phnom Penh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "207Eo St 107, Sangkat Beng Prolit, 7 Makara",
+      "id": "cambodia-f904d7ef7d413a4d16de"
+    },
+    {
+      "name": "Dragon Guesthouse",
+      "kind": "stay",
+      "locality": "Phnom Penh",
+      "lat": 11.5615,
+      "lon": 104.91865,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "price": "Rooms from US$7 (Apr 2023)",
+      "id": "cambodia-45496d38f7c0d006235c"
+    },
+    {
+      "name": "Europe Guesthouse",
+      "kind": "stay",
+      "locality": "Phnom Penh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "51 St 136",
+      "price": "US$11-20",
+      "url": "https://europeguesthousepp.com/",
+      "id": "cambodia-060fe7e594f4809b1957"
+    },
+    {
+      "name": "Grand View Guesthouse",
+      "kind": "stay",
+      "locality": "Phnom Penh",
+      "lat": 11.57729,
+      "lon": 104.91506,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "price": "Rooms US$6 (Apr 2023)",
+      "id": "cambodia-c756adb8fc88ffae1696"
+    },
+    {
+      "name": "Indian Royal Halal Food & Guest House",
+      "kind": "stay",
+      "locality": "Phnom Penh",
+      "lat": 11.57728,
+      "lon": 104.91515,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "price": "Rooms US$5 (Apr 2023)",
+      "id": "cambodia-a767ce0ecd3932d3a90b"
+    },
+    {
+      "name": "Khmer City Hotel",
+      "kind": "stay",
+      "locality": "Phnom Penh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "90H St 154",
+      "price": "US$15-20",
+      "url": "http://khmer-city.hotel-phnompenh.com/en/",
+      "id": "cambodia-42409042548a1f09a5f0"
+    },
+    {
+      "name": "Okay Guesthouse",
+      "kind": "stay",
+      "locality": "Phnom Penh",
+      "lat": 11.5699012,
+      "lon": 104.9225229,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "5 St 258",
+      "price": "US$6-12",
+      "id": "cambodia-90f31537a231d9a2638b"
+    },
+    {
+      "name": "Top Banana Guesthouse",
+      "kind": "stay",
+      "locality": "Phnom Penh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "2 St 278",
+      "price": "US$7-15",
+      "url": "http://topbanana.biz/",
+      "id": "cambodia-36b670c6f1aa87095e48"
+    },
+    {
+      "name": "Velkommen Guesthouse",
+      "kind": "stay",
+      "locality": "Phnom Penh",
+      "lat": 11.57023,
+      "lon": 104.92948,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "17 St 144",
+      "price": "Dorm beds from US$4",
+      "id": "cambodia-b0cae2bea40a4cd43888"
+    },
+    {
+      "name": "Mad Monkey Hostel",
+      "kind": "stay",
+      "locality": "Phnom Penh",
+      "lat": 11.553063,
+      "lon": 104.926063,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "26, Street 302",
+      "url": "http://www.madmonkeyhostels.com/",
+      "id": "cambodia-36aa98bb7523cdd3de11"
+    },
+    {
+      "name": "Onederz Phnom Penh",
+      "kind": "stay",
+      "locality": "Phnom Penh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "No 12-14 Preah Ang Duong St., adjacent to St. 110",
+      "price": "From US$12 for a bunk (Apr 2022)",
+      "url": "https://onederz.com/phnom-penh/",
+      "id": "cambodia-6baf8c20bd880dde4d68"
+    },
+    {
+      "name": "Angkor International Hotel",
+      "kind": "stay",
+      "locality": "Phnom Penh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "38-50 St 148",
+      "price": "95,000 riel (US$23)",
+      "url": "http://www.angkorinternationalhotel.com/",
+      "id": "cambodia-ed73e4ddbe41869bcbe7"
+    },
+    {
+      "name": "Cambodia Uncovered",
+      "kind": "stay",
+      "locality": "Phnom Penh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "BKK1",
+      "price": "singles US$55, doubles US$75, including breakfast and Wi-Fi",
+      "url": "http://cambodiauncovered.com/cambodia/accommodation.html",
+      "id": "cambodia-d0ae7e8378fa78da4e38"
+    },
+    {
+      "name": "Frangipani Villa Hotels",
+      "kind": "stay",
+      "locality": "Phnom Penh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "various locations",
+      "price": "From US$35",
+      "url": "http://frangipanihotel.com/",
+      "id": "cambodia-b46cdf3b326c1b58140c"
+    },
+    {
+      "name": "Golden Gate Hotel",
+      "kind": "stay",
+      "locality": "Phnom Penh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "9 St 278, Sangkat Beng Keng Kang 1, Khan Chamkarmorn",
+      "price": "US$15-40",
+      "url": "http://goldengatehotels.com/",
+      "id": "cambodia-8c1701d4238e9b8333b6"
+    },
+    {
+      "name": "Bamboo9 Boutique",
+      "kind": "stay",
+      "locality": "Phnom Penh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "# 41, Street 9",
+      "price": "US$40-70",
+      "url": "https://www.facebook.com/pages/category/Hotel-Resort/Bamboo9-Boutique-Restaurant-114068103287642/",
+      "id": "cambodia-415e80c50e73cea8b0cf"
+    },
+    {
+      "name": "The Lone Star Saloon Bar and Guesthouse",
+      "kind": "stay",
+      "locality": "Phnom Penh",
+      "lat": 11.56707,
+      "lon": 104.92611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "30 St 23",
+      "price": "US$25",
+      "url": "http://www.lonestarcambodia.com/",
+      "id": "cambodia-3e2db8baa19ed244d268"
+    },
+    {
+      "name": "Pavilion Hotel",
+      "kind": "stay",
+      "locality": "Phnom Penh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "227 St 19",
+      "price": "US$50-80",
+      "url": "https://www.thepavilion.asia/",
+      "id": "cambodia-ab56867fa508270ae9ff"
+    },
+    {
+      "name": "Bar Oz Riverside Guesthouse",
+      "kind": "stay",
+      "locality": "Phnom Penh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "79 Sisowath",
+      "price": "US$15 (Apr 2022)",
+      "id": "cambodia-0d990b6a5b75ee921c85"
+    },
+    {
+      "name": "The 252",
+      "kind": "stay",
+      "locality": "Phnom Penh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "19 St 252",
+      "price": "US$45-65",
+      "url": "http://the-252.com/index.html",
+      "id": "cambodia-6587af4d781237eebe12"
+    },
+    {
+      "name": "Villa Samnang",
+      "kind": "stay",
+      "locality": "Phnom Penh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "15 St 302",
+      "price": "US$50-90",
+      "url": "https://www.facebook.com/villa.samnang.boutique.hotel/",
+      "id": "cambodia-818353b4fb6520225a6e"
+    },
+    {
+      "name": "YK Art House",
+      "kind": "stay",
+      "locality": "Phnom Penh",
+      "lat": 11.5507165,
+      "lon": 104.9306234,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "13A St 830, Tonle Bassac",
+      "price": "US$20-60",
+      "url": "https://ykarthouse.com/",
+      "id": "cambodia-0ef89a4a3c507c6b34d0"
+    },
+    {
+      "name": "Cambodian Country Club & Hotel Resort",
+      "kind": "stay",
+      "locality": "Phnom Penh",
+      "lat": 11.5527,
+      "lon": 104.8674,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "St 2004 Group 6 Toeuk Thla, District Russey Keao",
+      "price": "US$75",
+      "url": "https://cambodian-country-club.com/",
+      "id": "cambodia-896a8f107f6e35c9005d"
+    },
+    {
+      "name": "La Maison d Ambre",
+      "kind": "stay",
+      "locality": "Phnom Penh",
+      "lat": 11.5729,
+      "lon": 104.9247,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "123 St 110, corner St 19, Sangkat Wat Phnom",
+      "price": "US$90-160",
+      "url": "http://lamaisondambre.com/",
+      "id": "cambodia-651691b36b27582889fb"
+    },
+    {
+      "name": "Raffles Le Royal",
+      "kind": "stay",
+      "locality": "Phnom Penh",
+      "lat": 11.576,
+      "lon": 104.9183,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "92 Rukhak Vithei Daun Penh",
+      "price": "US$150–300 low/high season",
+      "url": "http://phnompenh.raffles.com/",
+      "id": "cambodia-cebcbf2699373db53f5a"
+    },
+    {
+      "name": "Sokha Hotel Phnom Penh",
+      "kind": "stay",
+      "locality": "Phnom Penh",
+      "lat": 11.5685,
+      "lon": 104.9373,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "113 St 360",
+      "price": "US$84-89",
+      "url": "http://sokhahotels.com/phnompenh",
+      "id": "cambodia-14a014c65cde47819025"
+    },
+    {
+      "name": "Central Mansions",
+      "kind": "stay",
+      "locality": "Phnom Penh",
+      "lat": 11.574106,
+      "lon": 104.919325,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "address": "No. 1A, St. 102 Sangkat Wat Phnom",
+      "url": "https://www.centralmansions.com/",
+      "id": "cambodia-0a73267382a2736f751b"
+    },
+    {
+      "name": "Phnom Penh",
+      "kind": "area",
+      "locality": "Phnom Penh",
+      "lat": 11.56522,
+      "lon": 104.92124,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Phnom_Penh",
+      "id": "cambodia-002fd8347a092113a09f"
+    },
+    {
+      "name": "Angkor Panorama Museum",
+      "kind": "do",
+      "locality": "Angkor Archaeological Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+      "id": "cambodia-7c293fad75acbf301e71"
+    },
+    {
+      "name": "Angkor Wat",
+      "kind": "do",
+      "locality": "Angkor Archaeological Park",
+      "lat": 13.4125,
+      "lon": 103.866667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+      "id": "cambodia-96fb84500bac930659ba"
+    },
+    {
+      "name": "Bayon",
+      "kind": "do",
+      "locality": "Angkor Archaeological Park",
+      "lat": 13.441252,
+      "lon": 103.858738,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+      "id": "cambodia-27a8c7726b091924c9ef"
+    },
+    {
+      "name": "Baphuon",
+      "kind": "do",
+      "locality": "Angkor Archaeological Park",
+      "lat": 13.443767,
+      "lon": 103.856169,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+      "id": "cambodia-80a771c5fed9e9097338"
+    },
+    {
+      "name": "The Terrace of the Elephants",
+      "kind": "do",
+      "locality": "Angkor Archaeological Park",
+      "lat": 13.445833,
+      "lon": 103.858611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+      "id": "cambodia-300aff5cf4f2721a5523"
+    },
+    {
+      "name": "The Terrace of the Leper King",
+      "kind": "do",
+      "locality": "Angkor Archaeological Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+      "id": "cambodia-3a09ffa0f6dac134f828"
+    },
+    {
+      "name": "Phnom Bakheng",
+      "kind": "do",
+      "locality": "Angkor Archaeological Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+      "id": "cambodia-ec1d2349eee95be91390"
+    },
+    {
+      "name": "Ta Keo",
+      "kind": "do",
+      "locality": "Angkor Archaeological Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+      "id": "cambodia-d162d3599c0318f7d8f1"
+    },
+    {
+      "name": "Ta Prohm",
+      "kind": "do",
+      "locality": "Angkor Archaeological Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+      "id": "cambodia-5b5314b2707c88521deb"
+    },
+    {
+      "name": "Banteay Kdei",
+      "kind": "do",
+      "locality": "Angkor Archaeological Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+      "id": "cambodia-27784dd34fb68fcb9778"
+    },
+    {
+      "name": "Sras Srang",
+      "kind": "do",
+      "locality": "Angkor Archaeological Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+      "id": "cambodia-5f55a5ff991fa32e31a4"
+    },
+    {
+      "name": "Prasat Kravan",
+      "kind": "do",
+      "locality": "Angkor Archaeological Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+      "id": "cambodia-482e730c9edf9fed630f"
+    },
+    {
+      "name": "Preah Khan",
+      "kind": "do",
+      "locality": "Angkor Archaeological Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+      "id": "cambodia-184d6c12e0763bfee697"
+    },
+    {
+      "name": "Neak Pean",
+      "kind": "do",
+      "locality": "Angkor Archaeological Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+      "id": "cambodia-f57ddec1017bd6e3a9fb"
+    },
+    {
+      "name": "Ta Som",
+      "kind": "do",
+      "locality": "Angkor Archaeological Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+      "id": "cambodia-fc364cae22f8c7e06887"
+    },
+    {
+      "name": "East Mebon",
+      "kind": "do",
+      "locality": "Angkor Archaeological Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+      "id": "cambodia-1acc3d97c28177690956"
+    },
+    {
+      "name": "Pre Rup",
+      "kind": "do",
+      "locality": "Angkor Archaeological Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+      "id": "cambodia-63bd445069bbc970a4b3"
+    },
+    {
+      "name": "Bakong",
+      "kind": "do",
+      "locality": "Angkor Archaeological Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+      "id": "cambodia-66923949120c5714dd15"
+    },
+    {
+      "name": "Lolei",
+      "kind": "do",
+      "locality": "Angkor Archaeological Park",
+      "lat": 13.353385,
+      "lon": 103.973795,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+      "id": "cambodia-b9f520983bc3a50bab19"
+    },
+    {
+      "name": "Preah Ko",
+      "kind": "do",
+      "locality": "Angkor Archaeological Park",
+      "lat": 13.343895,
+      "lon": 103.972716,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+      "id": "cambodia-3f0b40d3c5f27435ed7e"
+    },
+    {
+      "name": "Banteay Samre",
+      "kind": "do",
+      "locality": "Angkor Archaeological Park",
+      "lat": 13.44215,
+      "lon": 103.958972,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+      "id": "cambodia-0ed0e36a230e05a8fa8c"
+    },
+    {
+      "name": "Banteay Srey",
+      "kind": "do",
+      "locality": "Angkor Archaeological Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+      "id": "cambodia-083365ea4fdc31f70f8a"
+    },
+    {
+      "name": "Kbal Spean",
+      "kind": "do",
+      "locality": "Angkor Archaeological Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+      "id": "cambodia-fee16d16cd1e3d59d859"
+    },
+    {
+      "name": "Beng Mealea",
+      "kind": "do",
+      "locality": "Angkor Archaeological Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+      "id": "cambodia-ec002f398f2907dce310"
+    },
+    {
+      "name": "Phnom Krom",
+      "kind": "do",
+      "locality": "Angkor Archaeological Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+      "id": "cambodia-7b439270338e4b6fc8b0"
+    },
+    {
+      "name": "Phnom Kulen Waterfall",
+      "kind": "do",
+      "locality": "Angkor Archaeological Park",
+      "lat": 13.568713,
+      "lon": 104.108233,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+      "id": "cambodia-f35d3e7975288ece50a4"
+    },
+    {
+      "name": "Angkor Archaeological Park",
+      "kind": "area",
+      "locality": "Angkor Archaeological Park",
+      "lat": 13.4333,
+      "lon": 103.8333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angkor_Archaeological_Park",
+      "id": "cambodia-3b7a789dede6bab854d3"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 3 distinct public Wikivoyage source pages; attempted 3 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Destination article routing (regional/landmark guides may use a nearby gateway): Angkor Wat → Angkor Archaeological Park."
+}

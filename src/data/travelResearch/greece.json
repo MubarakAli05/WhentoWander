@@ -1,0 +1,1496 @@
+{
+  "sources": [
+    {
+      "title": "Greece",
+      "url": "https://en.wikivoyage.org/wiki/Greece",
+      "checkedAt": "2026-10-21T08:02:08.199Z"
+    },
+    {
+      "title": "Athens",
+      "url": "https://en.wikivoyage.org/wiki/Athens",
+      "checkedAt": "2026-10-21T08:02:10.541Z"
+    },
+    {
+      "title": "Santorini",
+      "url": "https://en.wikivoyage.org/wiki/Santorini",
+      "checkedAt": "2026-10-21T08:02:13.253Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Athens",
+      "kind": "area",
+      "locality": "Greece",
+      "lat": 37.983972,
+      "lon": 23.727806,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Greece",
+      "id": "greece-6fca867b0839d19b2123"
+    },
+    {
+      "name": "Chania",
+      "kind": "area",
+      "locality": "Greece",
+      "lat": 35.516667,
+      "lon": 24.016667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Greece",
+      "id": "greece-cb866ae30f08a7347a0c"
+    },
+    {
+      "name": "Chersonissos",
+      "kind": "area",
+      "locality": "Greece",
+      "lat": 35.316667,
+      "lon": 25.39,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Greece",
+      "id": "greece-c90930fb4f0fb129482e"
+    },
+    {
+      "name": "Heraklion",
+      "kind": "area",
+      "locality": "Greece",
+      "lat": 35.333333,
+      "lon": 25.133333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Greece",
+      "id": "greece-c2c4c063064fe7cc5721"
+    },
+    {
+      "name": "Kavala",
+      "kind": "area",
+      "locality": "Greece",
+      "lat": 40.941,
+      "lon": 24.403,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Greece",
+      "id": "greece-d0afd87a424472fa46df"
+    },
+    {
+      "name": "Patras",
+      "kind": "area",
+      "locality": "Greece",
+      "lat": 38.25,
+      "lon": 21.733333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Greece",
+      "id": "greece-aedbb9b63d441db0bc8d"
+    },
+    {
+      "name": "Rhodes",
+      "kind": "area",
+      "locality": "Greece",
+      "lat": 36.433333,
+      "lon": 28.216667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Greece",
+      "id": "greece-f0fd324142fb00d349e3"
+    },
+    {
+      "name": "Thessaloniki",
+      "kind": "area",
+      "locality": "Greece",
+      "lat": 40.65,
+      "lon": 22.9,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Greece",
+      "id": "greece-65af15d6e9651205dea5"
+    },
+    {
+      "name": "Volos",
+      "kind": "area",
+      "locality": "Greece",
+      "lat": 39.366667,
+      "lon": 22.933333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Greece",
+      "id": "greece-9e67fc6f76df97061945"
+    },
+    {
+      "name": "Acropolis of Athens",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.97145,
+      "lon": 23.72377,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-ef12b54c3e891fdff9a0"
+    },
+    {
+      "name": "Propylaea",
+      "kind": "do",
+      "locality": "Athens",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-c96d01b2b1669fdf342f"
+    },
+    {
+      "name": "Parthenon",
+      "kind": "do",
+      "locality": "Athens",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-0f60d869e9f12c5c56aa"
+    },
+    {
+      "name": "Erectheion",
+      "kind": "do",
+      "locality": "Athens",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-18eaece3ebb566974478"
+    },
+    {
+      "name": "Theatre of Dionysus",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.97067,
+      "lon": 23.72764,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-91172a1bf7fb037fc330"
+    },
+    {
+      "name": "Odeon of Herodes Atticus",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.9709,
+      "lon": 23.72457,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-baacf00e37e976dd4c55"
+    },
+    {
+      "name": "Acropolis Museum",
+      "kind": "do",
+      "locality": "Athens",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Dionysiou Areopagitou 15, 11742",
+      "price": "€20, reduced €10",
+      "url": "https://www.theacropolismuseum.gr/en",
+      "id": "greece-bd5751a76928b71fa686"
+    },
+    {
+      "name": "Pnyx",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.971667,
+      "lon": 23.719444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "price": "Free",
+      "id": "greece-ceeb0fbe157ddbe24323"
+    },
+    {
+      "name": "Ancient Agora",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.9751,
+      "lon": 23.7224,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "price": "€20, reduced €10, ticket valid for both the archaeological site and the museum",
+      "url": "http://odysseus.culture.gr/h/3/eh351.jsp?obj_id=2485",
+      "id": "greece-56f329c0be298deb7d46"
+    },
+    {
+      "name": "Temple of Hephaestus",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.9757,
+      "lon": 23.7215,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-d4b5a5f2e33835fdfc2b"
+    },
+    {
+      "name": "Stoa of Attalus",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.9752,
+      "lon": 23.7242,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "url": "http://odysseus.culture.gr/h/1/eh151.jsp?obj_id=3290",
+      "id": "greece-6a87fab72e8d11a71aa5"
+    },
+    {
+      "name": "Church of the Holy Apostles",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.974,
+      "lon": 23.7239,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-2fd87b1d7cd11c8efbc1"
+    },
+    {
+      "name": "Roman Agora",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.9743,
+      "lon": 23.7265,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "price": "€10, reduced €5",
+      "url": "http://odysseus.culture.gr/h/3/eh352.jsp?obj_id=2402",
+      "id": "greece-54089b35afec54f14a9c"
+    },
+    {
+      "name": "Kerameikos",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.97859,
+      "lon": 23.71811,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "price": "€10, reduced €5",
+      "id": "greece-5ec9ed6c69f0d78b7f40"
+    },
+    {
+      "name": "Temple of Olympian Zeus",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.9695,
+      "lon": 23.7331,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "price": "€10, reduced €5",
+      "id": "greece-a6afaad8f4a2d211aeae"
+    },
+    {
+      "name": "Arch of Hadrian",
+      "kind": "do",
+      "locality": "Athens",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "price": "Free",
+      "id": "greece-9f628d3f8dc6590c269b"
+    },
+    {
+      "name": "The Lyceum",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.974075,
+      "lon": 23.743503,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "price": "€10, reduced €5",
+      "id": "greece-37d250c82a20d375ef33"
+    },
+    {
+      "name": "Plato's Academy",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.992359,
+      "lon": 23.708059,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-b359f4b51fd39a204f7c"
+    },
+    {
+      "name": "Hadrian's Reservoir",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.979044111132616,
+      "lon": 23.741593526570966,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "price": "Free",
+      "url": "https://www.atlasobscura.com/places/hadrians-reservoir",
+      "id": "greece-47ef8eb685d9ed43e1f7"
+    },
+    {
+      "name": "Panathinaiko Stadium",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.96835,
+      "lon": 23.74111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Leof. Vasileos Konstantinou",
+      "price": "€12 entry / €6 concession",
+      "url": "http://www.panathenaicstadium.gr/HomePage/tabid/84/language/en-US/Default.aspx",
+      "id": "greece-b4896b74e4ea33e04e59"
+    },
+    {
+      "name": "Lycabettus Hill",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.982,
+      "lon": 23.7434,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "url": "https://www.lycabettushill.com/",
+      "id": "greece-c5c85ea1464fdcec117c"
+    },
+    {
+      "name": "Olympic Stadium",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 38.036129,
+      "lon": 23.785403,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "url": "http://www.oaka.com.gr/",
+      "id": "greece-a9e3b2399727f90586bb"
+    },
+    {
+      "name": "National Theatre",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.98479,
+      "lon": 23.72532,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Agiou Konstantinou 22",
+      "url": "http://www.n-t.gr/",
+      "id": "greece-166ec55de9f2099246ac"
+    },
+    {
+      "name": "Syntagma Square",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.97555,
+      "lon": 23.73484,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-e08a775942d6ec76852c"
+    },
+    {
+      "name": "Hellenic Parliament Building",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.97529,
+      "lon": 23.73707,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-f41dc4742f0c0c47290d"
+    },
+    {
+      "name": "Tomb of the Unknown Soldier",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.97553,
+      "lon": 23.73641,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-80ed731fd3f8924cf1da"
+    },
+    {
+      "name": "Daphni Monastery",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 38.01298,
+      "lon": 23.63593,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Athinon avenue",
+      "price": "Free admission",
+      "url": "http://odysseus.culture.gr/h/2/eh251.jsp?obj_id=1514",
+      "id": "greece-f59b4755a254ca95eecd"
+    },
+    {
+      "name": "Kaisariani Monastery and Gardens",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.960833,
+      "lon": 23.798333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Kaisariani Monastery",
+      "id": "greece-ae7d932dc19b1c9e2b04"
+    },
+    {
+      "name": "National Archaeological Museum of Athens",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.9891,
+      "lon": 23.73276,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "44 Patission St",
+      "price": "€12, reduced €6",
+      "url": "https://www.namuseum.gr/en",
+      "id": "greece-0934798f1f8bdd2f2eab"
+    },
+    {
+      "name": "Kanellopoulos Museum",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.973,
+      "lon": 23.72596,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "12 Theorias & Panos Streets",
+      "price": "Apr-Oct: €4, €2 reduced; Nov-Mar: €2",
+      "url": "https://pacf.gr/en/",
+      "id": "greece-0a8812f9ccd96e2c3e42"
+    },
+    {
+      "name": "Benaki Museum of Greek Culture",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.97602,
+      "lon": 23.74038,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "1 Koumbari St. & Vas. Sofias Ave",
+      "url": "https://www.benaki.gr/index.php?lang=en",
+      "id": "greece-9076264cc8b0f47c46f0"
+    },
+    {
+      "name": "Museum of Cycladic Art",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.9757,
+      "lon": 23.74227,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "price": "€7, on Mondays and students - €3.50",
+      "url": "http://www.cycladic.gr/en",
+      "id": "greece-f0d85e6ce424ee666f5d"
+    },
+    {
+      "name": "National Gallery",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.97563,
+      "lon": 23.74938,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Michalakopoulou 1",
+      "url": "http://www.nationalgallery.gr/en",
+      "id": "greece-ef2d16ea8658e05f3e05"
+    },
+    {
+      "name": "Benaki Museum of Islamic Art",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.97924,
+      "lon": 23.72023,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "22 Ag. Asomaton & 12 Dipilou Streets – Kerameikos",
+      "price": "€9; students, seniors and teachers €7",
+      "url": "http://www.benaki.gr/",
+      "id": "greece-5ee645e4f80ded023d70"
+    },
+    {
+      "name": "Museum of Greek Folk Art",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.972533,
+      "lon": 23.732308,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "22 Panos str., Plaka",
+      "url": "http://www.melt.gr/en",
+      "id": "greece-739dfa02ada56c9e080d"
+    },
+    {
+      "name": "Athens Municipal Art Gallery",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.98088,
+      "lon": 23.72144,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Pireos, 51",
+      "url": "http://www.elculture.gr/blog/venues/dimotiki-pinakothiki-athinwn/#prettyPhoto",
+      "id": "greece-0cdce58a0d17b0279d77"
+    },
+    {
+      "name": "Vorres Museum",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.95264,
+      "lon": 23.8476,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "1 Parodos Diadochou Constantinou St., Paiania, Attiki",
+      "price": "€5, students €3",
+      "url": "http://www.vorresmuseum.gr/",
+      "id": "greece-b9446a25f826646b9a7c"
+    },
+    {
+      "name": "Museum of Ancient Greek Technology Kotsanas",
+      "kind": "do",
+      "locality": "Athens",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "url": "https://kotsanas.com/en/home-en/",
+      "id": "greece-9ddb7f71ba9030d1186a"
+    },
+    {
+      "name": "National Historical Museum",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.9775,
+      "lon": 23.732778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Stadiou Street",
+      "price": "€3",
+      "url": "http://www.nhmuseum.gr/en",
+      "id": "greece-1c3507aee628bd31c1af"
+    },
+    {
+      "name": "Numismatic Museum",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.9778,
+      "lon": 23.7354,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "url": "http://www.nummus.gr/",
+      "id": "greece-77affbe0187f63bae9fe"
+    },
+    {
+      "name": "Museum of Greek Popular Musical Instruments",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.97447,
+      "lon": 23.72751,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "1-3 Dioyenous, Plaka",
+      "url": "http://odysseus.culture.gr/h/1/eh151.jsp?obj_id=3403",
+      "id": "greece-7288dbbfa03dd401785a"
+    },
+    {
+      "name": "National War Museum",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.97539,
+      "lon": 23.74534,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "2 Rizari",
+      "price": "€4",
+      "url": "http://www.warmuseum.gr/en",
+      "id": "greece-b43f760d6eba6441a2da"
+    },
+    {
+      "name": "Park of Maritime Tradition",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.93369,
+      "lon": 23.6849,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Palaio Faliro",
+      "id": "greece-542bb571bc99c92986a1"
+    },
+    {
+      "name": "Hellenic Air Force Museum",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 38.104917,
+      "lon": 23.778444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Palaio Faliro",
+      "url": "https://www.haf.gr/en/history/museum/",
+      "id": "greece-b68be545440ac111d2df"
+    },
+    {
+      "name": "City of Athens Technopolis",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.978139,
+      "lon": 23.714111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "url": "https://athens-technopolis.gr/index.php/en/",
+      "id": "greece-72def321290c92ff4afe"
+    },
+    {
+      "name": "Spathario Museum",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 38.053176,
+      "lon": 23.812165,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Mesogeion & Voriou Ipirou 27",
+      "price": "Free",
+      "url": "http://www.karagiozismuseum.gr/",
+      "id": "greece-f3fb86d1f2b3463964ae"
+    },
+    {
+      "name": "Cultural Centre Hellenic Cosmos",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.9626148,
+      "lon": 23.6887172,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-b6513d76745ea6f95a7c"
+    },
+    {
+      "name": "Hellenic Motor Museum",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.991435,
+      "lon": 23.72991,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-b5a94f968ae622bba740"
+    },
+    {
+      "name": "OTE Telecommunications Museum",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 38.088265,
+      "lon": 23.808076,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "price": "Free",
+      "url": "https://www.cosmote.gr/cr2010/cr2010_en/ote-telecommunications-museum.html",
+      "id": "greece-c8b150547b5522f4c521"
+    },
+    {
+      "name": "Michael Cacoyannis Foundation cultural center",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.967475,
+      "lon": 23.696648,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-8ef9f0c06c63d49d6970"
+    },
+    {
+      "name": "Planetary Evgenidio Foundation",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.9398247,
+      "lon": 23.6963433,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "387 Syggrou Ave. (entrance 11 Pentelis st Palaio Faliro, Athens 175 64)",
+      "id": "greece-8c7f81ff1a906d23d0ad"
+    },
+    {
+      "name": "Onassis Cultural centre",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.9579477,
+      "lon": 23.7193069,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-08e5baf86d683ee9b905"
+    },
+    {
+      "name": "Epigraphical Museum",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.988303,
+      "lon": 23.731321,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "1 Tositsa Str",
+      "url": "http://odysseus.culture.gr/h/1/eh151.jsp?obj_id=3348",
+      "id": "greece-3eaaf9072f959176547e"
+    },
+    {
+      "name": "National Museum of Contemporary Art",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.9630089,
+      "lon": 23.7253329,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-1d4882cdb84cce31f224"
+    },
+    {
+      "name": "Digital Museum Plato",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.9944535,
+      "lon": 23.7073032,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-c29a7623a971628ac485"
+    },
+    {
+      "name": "Museum of Mineralogy and Petrology",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.9666472,
+      "lon": 23.7843246,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-589469b764649b2180d1"
+    },
+    {
+      "name": "Gounaropoulos Museum",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.975,
+      "lon": 23.761528,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-66402edc5eba9dd14a92"
+    },
+    {
+      "name": "Philopappos hill",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.9675643,
+      "lon": 23.7221248,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-dc69ce07446a3725aace"
+    },
+    {
+      "name": "Ardettos hill",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.96791,
+      "lon": 23.73928,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-b0b7f07835ea4fbaa60d"
+    },
+    {
+      "name": "National Gardens",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.97351,
+      "lon": 23.7378,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-cf2802bafda888a79b6e"
+    },
+    {
+      "name": "Pedion tou Areos",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.992836,
+      "lon": 23.736514,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-63ea1a929f373b53671e"
+    },
+    {
+      "name": "Dionysiou Aeropagitou Street",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.9698,
+      "lon": 23.72633,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-398e305879ccffa54eab"
+    },
+    {
+      "name": "Parnitha National Park",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 38.173333,
+      "lon": 23.7175,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-07a1aac86ccda5d07bf5"
+    },
+    {
+      "name": "Athens Festival",
+      "kind": "do",
+      "locality": "Athens",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "url": "http://aefestival.gr/",
+      "id": "greece-3415143cbdc32ce93328"
+    },
+    {
+      "name": "Athens Concert Hall",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.98111,
+      "lon": 23.754164,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "url": "https://www.megaron.gr/",
+      "id": "greece-03323e8e260ba0d0e4f8"
+    },
+    {
+      "name": "Stavros Niarchos Cultural Centre",
+      "kind": "do",
+      "locality": "Athens",
+      "lat": 37.94064,
+      "lon": 23.69131,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "price": "Free",
+      "url": "https://www.snfcc.org/",
+      "id": "greece-9ce00c283777854c4594"
+    },
+    {
+      "name": "Σουβλάκι Κώστας 1950 συνταγμα (Kostas)",
+      "kind": "eat",
+      "locality": "Athens",
+      "lat": 37.9749191,
+      "lon": 23.7319332,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "5 Pentelis",
+      "id": "greece-65924219c4636eef15d3"
+    },
+    {
+      "name": "The 2 Brothers",
+      "kind": "eat",
+      "locality": "Athens",
+      "lat": 37.9780537,
+      "lon": 23.7697173,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Leof. Stratarchou Alexandrou Papagou 81",
+      "price": "A giro will cost around €2",
+      "id": "greece-a64f930eb6836b4b864a"
+    },
+    {
+      "name": "Vegan Beat Athens",
+      "kind": "eat",
+      "locality": "Athens",
+      "lat": 37.9767757,
+      "lon": 23.7297995,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Perikleous 56",
+      "id": "greece-54b9b329fc57d4036be2"
+    },
+    {
+      "name": "The Traditional",
+      "kind": "eat",
+      "locality": "Athens",
+      "lat": 37.9777446,
+      "lon": 23.7288011,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Kolokotroni 59",
+      "id": "greece-a2b00e1f9eaf23ec50e7"
+    },
+    {
+      "name": "Krasopoulio tou Kokkora",
+      "kind": "eat",
+      "locality": "Athens",
+      "lat": 37.9776907,
+      "lon": 23.7241521,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Esopou 4",
+      "id": "greece-a99a72f8e164bce0d84e"
+    },
+    {
+      "name": "Aspro Alogo",
+      "kind": "eat",
+      "locality": "Athens",
+      "lat": 37.9747521,
+      "lon": 23.731256,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Apollonos",
+      "id": "greece-763804e59633b7880018"
+    },
+    {
+      "name": "Atlantikos",
+      "kind": "eat",
+      "locality": "Athens",
+      "lat": 37.977424,
+      "lon": 23.7229415,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Greece, Avliton 7",
+      "id": "greece-5ae8860502747588c5ac"
+    },
+    {
+      "name": "Kafeneio Ivis",
+      "kind": "eat",
+      "locality": "Athens",
+      "lat": 37.9775546,
+      "lon": 23.7226786,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Ivis 10",
+      "id": "greece-8449be6e0c2870dd327d"
+    },
+    {
+      "name": "Lefka",
+      "kind": "eat",
+      "locality": "Athens",
+      "lat": 37.9868921,
+      "lon": 23.7421405,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Mavromiháli 121",
+      "url": "https://www.facebook.com/pages/category/Greek-Restaurant/%CE%A4%CE%B1%CE%B2%CE%AD%CF%81%CE%BD%CE%B1-%CE%97-%CE%9B%CE%B5%CF%8D%CE%BA%CE%B1-1708448126101278/",
+      "id": "greece-a4844d319d7887950d09"
+    },
+    {
+      "name": "K Filippou",
+      "kind": "eat",
+      "locality": "Athens",
+      "lat": 37.9791029,
+      "lon": 23.7444796,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "19 Xenokratous",
+      "url": "https://www.filippou.gr/en/",
+      "id": "greece-2c06efcb0dfe17734fdd"
+    },
+    {
+      "name": "Karamanlidika",
+      "kind": "eat",
+      "locality": "Athens",
+      "lat": 37.9770462,
+      "lon": 23.7228509,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Ermou 119",
+      "url": "https://www.karamanlidika.gr/",
+      "id": "greece-f0f880670a354fc15a71"
+    },
+    {
+      "name": "Karavitis",
+      "kind": "eat",
+      "locality": "Athens",
+      "lat": 37.9714946,
+      "lon": 23.7436133,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Pafsaniou 4",
+      "id": "greece-b16cab02f0ca1b1b603f"
+    },
+    {
+      "name": "Το Κιούπι (To Kioupi)",
+      "kind": "eat",
+      "locality": "Athens",
+      "lat": 38.0076697,
+      "lon": 23.7295943,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Acharnon 255",
+      "id": "greece-f9c3d14f9360b01c9b7d"
+    },
+    {
+      "name": "Platanos Taverna",
+      "kind": "eat",
+      "locality": "Athens",
+      "lat": 37.9743207,
+      "lon": 23.727695,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "4 Dioyenous",
+      "url": "http://eleinitsa.wixsite.com/platanos",
+      "id": "greece-771ae6799196014cfa5c"
+    },
+    {
+      "name": "Zeus Xenios",
+      "kind": "eat",
+      "locality": "Athens",
+      "lat": 37.972939,
+      "lon": 23.7277745,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Mnisikleous 37",
+      "url": "http://xenioszeus.business.site/",
+      "id": "greece-f243a225b336718ac72d"
+    },
+    {
+      "name": "Pame Psirri",
+      "kind": "eat",
+      "locality": "Athens",
+      "lat": 37.9791381,
+      "lon": 23.7243386,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Katsikogianni 5",
+      "url": "https://www.pamepsirri.gr/portal/",
+      "id": "greece-4ab35dab86cd74e882ad"
+    },
+    {
+      "name": "O Morias",
+      "kind": "eat",
+      "locality": "Athens",
+      "lat": 38.0084138,
+      "lon": 23.8193609,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Eirinis 56, Ag. Paraskevi 153 41",
+      "id": "greece-4d833fad6925b1147d2f"
+    },
+    {
+      "name": "Voskopoula (The Shepherdess)",
+      "kind": "eat",
+      "locality": "Athens",
+      "lat": 38.0260094,
+      "lon": 23.7481295,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "sivoron 87, 111 42",
+      "url": "https://www.voskopoula.com/",
+      "id": "greece-adf704722131a97a7d30"
+    },
+    {
+      "name": "Τaverna Μanolis.",
+      "kind": "eat",
+      "locality": "Athens",
+      "lat": 38.0305556,
+      "lon": 23.8063889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Samou 1 Chalandri",
+      "url": "http://www.taverna-manolis.gr/#/",
+      "id": "greece-de85b2ca08a5b3538b89"
+    },
+    {
+      "name": "Rosalia",
+      "kind": "eat",
+      "locality": "Athens",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Valtetsiou 58",
+      "url": "http://www.rozalia.gr/?language=en",
+      "id": "greece-388a2f54477947f12769"
+    },
+    {
+      "name": "Giántes",
+      "kind": "eat",
+      "locality": "Athens",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Valtetsiou 44",
+      "url": "https://www.facebook.com/yiantes/",
+      "id": "greece-420e9387a02513be89c0"
+    },
+    {
+      "name": "Kostarelos Cheese and Dairy",
+      "kind": "eat",
+      "locality": "Athens",
+      "lat": 38.0377372,
+      "lon": 23.8253713,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "46 Pentelis Avenue",
+      "url": "https://www.kostarelos.gr/en/home/",
+      "id": "greece-33cc730fb1db7820ab48"
+    },
+    {
+      "name": "Orea Penteli",
+      "kind": "eat",
+      "locality": "Athens",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-c34c87a13c1966f8ff3a"
+    },
+    {
+      "name": "Cafe Avissinia",
+      "kind": "eat",
+      "locality": "Athens",
+      "lat": 37.9766922,
+      "lon": 23.7236566,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Kinetou 7",
+      "url": "https://cafeavissinia.net/",
+      "id": "greece-c32c4043f89bab8b14a0"
+    },
+    {
+      "name": "Balux",
+      "kind": "eat",
+      "locality": "Athens",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Vassileos Georgiou B No. 58 Asteria, Glyfada",
+      "url": "http://www.baluxcafe.com/",
+      "id": "greece-bcff57095b1f105421f7"
+    },
+    {
+      "name": "Taximi",
+      "kind": "eat",
+      "locality": "Athens",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Cnr. Harilaou Trikoupi and Isavron",
+      "id": "greece-12f32f0be640a5099cef"
+    },
+    {
+      "name": "Rebetiki Istoria",
+      "kind": "eat",
+      "locality": "Athens",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "181 Ippokratous",
+      "id": "greece-c150056276d2a434a8a5"
+    },
+    {
+      "name": "Showroom",
+      "kind": "eat",
+      "locality": "Athens",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Milioni 2 & Irakleitou",
+      "price": "€5 for a beer",
+      "url": "http://www.showroom.gr/",
+      "id": "greece-cd51c2115f87e6a2baef"
+    },
+    {
+      "name": "Ydria",
+      "kind": "eat",
+      "locality": "Athens",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "68 Adhrianoú",
+      "url": "http://www.ydria.gr/",
+      "id": "greece-d1f069db2889780f702d"
+    },
+    {
+      "name": "Costa",
+      "kind": "eat",
+      "locality": "Athens",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "price": "€3-€4 for a coffee",
+      "id": "greece-1cfbd88f8fb0a587195b"
+    },
+    {
+      "name": "Metamatic_taf",
+      "kind": "eat",
+      "locality": "Athens",
+      "lat": 37.97657,
+      "lon": 23.72442,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Normanou 5, Monastiraki",
+      "url": "http://www.theartfoundation.gr/",
+      "id": "greece-a952538c9a7535afd77b"
+    },
+    {
+      "name": "Playce",
+      "kind": "eat",
+      "locality": "Athens",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Str. Papagou 128",
+      "url": "http://www.playce.gr/",
+      "id": "greece-ff17f027d8cbd7c48c82"
+    },
+    {
+      "name": "Filion Cafe",
+      "kind": "eat",
+      "locality": "Athens",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-6779fa0deb4d3e39a88e"
+    },
+    {
+      "name": "Dionissotis Camping",
+      "kind": "stay",
+      "locality": "Athens",
+      "lat": 38.1051,
+      "lon": 23.8134,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "price": "€6 per person, €4 per small tent, €6 per large tent/caravan",
+      "url": "http://www.campingdionissotis.gr/",
+      "id": "greece-50c3b63e16c0d191043a"
+    },
+    {
+      "name": "Athens Backpackers",
+      "kind": "stay",
+      "locality": "Athens",
+      "lat": 37.96861,
+      "lon": 23.73051,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "12 Makri Street - Makryanni, Athens",
+      "url": "http://www.backpackers.gr/",
+      "id": "greece-0c39aea793fb29fbacd8"
+    },
+    {
+      "name": "Athens Psiri Hotel",
+      "kind": "stay",
+      "locality": "Athens",
+      "lat": 37.98129,
+      "lon": 23.72632,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "32 Sofokleous street",
+      "price": "€35",
+      "url": "https://www.athenspsirihotel.com/en/",
+      "id": "greece-64d37bd7a7c21fd31e92"
+    },
+    {
+      "name": "Safestay Athens Monastiraki",
+      "kind": "stay",
+      "locality": "Athens",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Ag. Theklas 10 Monastiraki",
+      "price": "€15-50",
+      "url": "https://www.safestay.com/venue/safestay-athens-monastiraki/",
+      "id": "greece-a2fb4164173d4e104b98"
+    },
+    {
+      "name": "Hotel Dioskouros Athens",
+      "kind": "stay",
+      "locality": "Athens",
+      "lat": 37.97128,
+      "lon": 23.73237,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "6 Pittakou Street, Plaka, Athens",
+      "price": "€15-20 per person in high season",
+      "url": "https://www.dioskouroshostel.com/",
+      "id": "greece-ce6f0086410cbf152f10"
+    },
+    {
+      "name": "Tony Hotel",
+      "kind": "stay",
+      "locality": "Athens",
+      "lat": 37.965365,
+      "lon": 23.7233088,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "26 Zaharitsa Str., Koukaki",
+      "url": "http://www.hoteltony.gr/",
+      "id": "greece-44944a6674be16658a96"
+    },
+    {
+      "name": "Hostel Aprodite",
+      "kind": "stay",
+      "locality": "Athens",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "12 Einardou and Michail Voda corner 65, Athena 10440, Greece",
+      "price": "€12 for a 6 bed dorm, €14 for a 4 bed dorm, and more. Air conditioning €3 extra per person",
+      "url": "http://www.hostelaphrodite.com/",
+      "id": "greece-05f80902affdf35fe025"
+    },
+    {
+      "name": "Orion",
+      "kind": "stay",
+      "locality": "Athens",
+      "lat": 37.98736,
+      "lon": 23.73802,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "105 Emm. Benaki & Anexsartisias str",
+      "price": "from €28 double",
+      "url": "http://www.orion-dryades.com/",
+      "id": "greece-aee85f98c7c7f2774dab"
+    },
+    {
+      "name": "Hotel Elite Athens",
+      "kind": "stay",
+      "locality": "Athens",
+      "lat": 37.98271,
+      "lon": 23.72528,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "23 Pireos str Athens",
+      "id": "greece-aa018575d212e7229a39"
+    },
+    {
+      "name": "Acropolis View Hotel Athens",
+      "kind": "stay",
+      "locality": "Athens",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Webster street 10, Athens",
+      "url": "https://www.acropolisviewhotel.gr/en/home",
+      "id": "greece-7370b10eda9034968153"
+    },
+    {
+      "name": "Hotel Acropolis House",
+      "kind": "stay",
+      "locality": "Athens",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "6-8 Kodrou, Plaka",
+      "price": "bathroom ensuite is €87 (includes breakfast)",
+      "url": "http://www.acropolishouse.gr/",
+      "id": "greece-349cfcbcdc07da720956"
+    },
+    {
+      "name": "Athos",
+      "kind": "stay",
+      "locality": "Athens",
+      "lat": 37.97489,
+      "lon": 23.73073,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "url": "http://www.athoshotel.gr/english/profile.htm",
+      "id": "greece-d844869c55b468b1bca3"
+    },
+    {
+      "name": "Central Hotel",
+      "kind": "stay",
+      "locality": "Athens",
+      "lat": 37.97462,
+      "lon": 23.73103,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Apollonas St 21",
+      "url": "http://www.centralhotel.gr/",
+      "id": "greece-6996002131254ff5cbc0"
+    },
+    {
+      "name": "O&B Athens Boutique Hotel",
+      "kind": "stay",
+      "locality": "Athens",
+      "lat": 37.97756,
+      "lon": 23.72194,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "7 Leokoriou str",
+      "url": "http://www.oandbhotel.com/",
+      "id": "greece-5aa83ad855be2dd83b63"
+    },
+    {
+      "name": "Hotel Omiros Athens",
+      "kind": "stay",
+      "locality": "Athens",
+      "lat": 37.97466,
+      "lon": 23.73171,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "15 Apollonos Str, Athens",
+      "url": "http://www.omiros-hotel.com/",
+      "id": "greece-4b29973ca389d02f1214"
+    },
+    {
+      "name": "Fresh Hotel",
+      "kind": "stay",
+      "locality": "Athens",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "url": "https://freshhotel.gr/",
+      "id": "greece-a1ccf77e95d90a00b367"
+    },
+    {
+      "name": "Periscope Hotel",
+      "kind": "stay",
+      "locality": "Athens",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "22 Charitos Street",
+      "url": "http://periscope.athenshotels.it/",
+      "id": "greece-f9a571178d1aa3e50bda"
+    },
+    {
+      "name": "Mirabello",
+      "kind": "stay",
+      "locality": "Athens",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Geraniou 49",
+      "url": "https://www.athens-mirabello.gr/",
+      "id": "greece-5706545eb292e8364100"
+    },
+    {
+      "name": "Radisson Blu Park Hotel",
+      "kind": "stay",
+      "locality": "Athens",
+      "lat": 37.99126,
+      "lon": 23.7333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "10 Alexandras Ave, Athens 10682",
+      "url": "https://www.radissonblu.com/en/hotel-athens?facilitatorId=CSOSEO&csref=org_gmb_sk_en_sn_ho_ATHZH",
+      "id": "greece-8b3444fd1d9dae122b32"
+    },
+    {
+      "name": "The St George Lycabettus Hotel Athens",
+      "kind": "stay",
+      "locality": "Athens",
+      "lat": 37.97942,
+      "lon": 23.74248,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "2 Kleomenous Street, 106 75",
+      "url": "http://www.sglycabettus.gr/",
+      "id": "greece-f237109fa2ee8c8955d7"
+    },
+    {
+      "name": "Conrad Athens the Ilisian",
+      "kind": "stay",
+      "locality": "Athens",
+      "lat": 37.97609,
+      "lon": 23.75058,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Leoforos Vasilissis Sofias 46",
+      "url": "https://www.hilton.com/en/hotels/athgrci-conrad-athens-the-ilisian/",
+      "id": "greece-669cd819fcd4306b04c5"
+    },
+    {
+      "name": "President Hotel Athens",
+      "kind": "stay",
+      "locality": "Athens",
+      "lat": 37.98928,
+      "lon": 23.76369,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "43 Kifissias Avenue, 11523, Athens",
+      "price": "~€80 per night for a double bed room",
+      "url": "http://www.president.gr/",
+      "id": "greece-1ecd0a4cbfa7519ec28f"
+    },
+    {
+      "name": "Royal Olympic Hotel",
+      "kind": "stay",
+      "locality": "Athens",
+      "lat": 37.96783,
+      "lon": 23.73233,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "28-34 Diakou Athanasiou",
+      "url": "http://www.royalolympic.com/",
+      "id": "greece-2d55bd4f37561b800b24"
+    },
+    {
+      "name": "Electra Hotel",
+      "kind": "stay",
+      "locality": "Athens",
+      "lat": 37.97561,
+      "lon": 23.73303,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "5, Ermou str. Syntagma Square",
+      "url": "http://www.electrahotels.gr/",
+      "id": "greece-bf0609d0c3bd33757eb4"
+    },
+    {
+      "name": "Grande Bretagne Hotel",
+      "kind": "stay",
+      "locality": "Athens",
+      "lat": 37.97651,
+      "lon": 23.73549,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "1 Vasileos Georgiou A' str",
+      "price": "Prices from €300",
+      "url": "http://www.grandebretagne.gr/",
+      "id": "greece-f32fa79a5e358112bdf5"
+    },
+    {
+      "name": "King George Palace",
+      "kind": "stay",
+      "locality": "Athens",
+      "lat": 37.97643,
+      "lon": 23.73496,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "3 Vassileos Georgiou A' St, Syntagma Square",
+      "url": "http://www.classicalhotels.com/?siteid=2",
+      "id": "greece-0f0fa8e9629d690260ce"
+    },
+    {
+      "name": "Hellenic Vibes",
+      "kind": "stay",
+      "locality": "Athens",
+      "lat": 37.9770090323007,
+      "lon": 23.727248284533765,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "address": "Agias Irinis 7, Athens 105 51",
+      "price": "€150",
+      "url": "https://www.hellenicvibes.gr/",
+      "id": "greece-f5279426b877219214d3"
+    },
+    {
+      "name": "Athens",
+      "kind": "area",
+      "locality": "Athens",
+      "lat": 37.9667,
+      "lon": 23.7167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Athens",
+      "id": "greece-93af20f3cadd956906ec"
+    },
+    {
+      "name": "Fira",
+      "kind": "area",
+      "locality": "Santorini",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santorini",
+      "id": "greece-6b3e96fd8f6ea0507553"
+    },
+    {
+      "name": "Akrotiri",
+      "kind": "area",
+      "locality": "Santorini",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santorini",
+      "id": "greece-f947fcf6cb0974f0b1d7"
+    },
+    {
+      "name": "Emporio",
+      "kind": "area",
+      "locality": "Santorini",
+      "lat": 36.3562,
+      "lon": 25.4458,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santorini",
+      "id": "greece-f68e0a2706bcde7f0031"
+    },
+    {
+      "name": "Finikia",
+      "kind": "area",
+      "locality": "Santorini",
+      "lat": 36.46323,
+      "lon": 25.39387,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santorini",
+      "id": "greece-641e6ed4e44f3104cdac"
+    },
+    {
+      "name": "Imerovigli",
+      "kind": "area",
+      "locality": "Santorini",
+      "lat": 36.433,
+      "lon": 25.4231,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santorini",
+      "id": "greece-2dfbd53f7e34bd6dd289"
+    },
+    {
+      "name": "Kamari",
+      "kind": "area",
+      "locality": "Santorini",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santorini",
+      "id": "greece-59ac8d1642af7506bab8"
+    },
+    {
+      "name": "Megalochori",
+      "kind": "area",
+      "locality": "Santorini",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santorini",
+      "id": "greece-5c08046b64fdc0b442c6"
+    },
+    {
+      "name": "Oia",
+      "kind": "area",
+      "locality": "Santorini",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santorini",
+      "id": "greece-e2d628ab0f5a67097212"
+    },
+    {
+      "name": "Perissa",
+      "kind": "area",
+      "locality": "Santorini",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santorini",
+      "id": "greece-8c2e57196d9f2acdcb92"
+    },
+    {
+      "name": "Pyrgos",
+      "kind": "area",
+      "locality": "Santorini",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santorini",
+      "id": "greece-40d94af0a80a72fdbb46"
+    },
+    {
+      "name": "Vlychada",
+      "kind": "area",
+      "locality": "Santorini",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santorini",
+      "id": "greece-792035fcb35f389e7ead"
+    },
+    {
+      "name": "Vothonas",
+      "kind": "area",
+      "locality": "Santorini",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santorini",
+      "id": "greece-4eb6b98bf0ea34f9ca86"
+    },
+    {
+      "name": "Vourvoulos",
+      "kind": "area",
+      "locality": "Santorini",
+      "lat": 36.4352,
+      "lon": 25.4358,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santorini",
+      "id": "greece-55c997d66fc1dbc166f7"
+    },
+    {
+      "name": "Thirasia",
+      "kind": "area",
+      "locality": "Santorini",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santorini",
+      "id": "greece-2b3b963ae6c941a6c18a"
+    },
+    {
+      "name": "Santorini",
+      "kind": "area",
+      "locality": "Santorini",
+      "lat": 36.4067,
+      "lon": 25.4333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santorini",
+      "id": "greece-91dfbaf7f70a6cb9f58f"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 3 distinct public Wikivoyage source pages; attempted 3 article titles covering the country, capital(s), and 2 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

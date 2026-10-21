@@ -1,0 +1,571 @@
+{
+  "sources": [
+    {
+      "title": "Timor-Leste",
+      "url": "https://en.wikivoyage.org/wiki/Timor-Leste",
+      "checkedAt": "2026-10-21T08:12:41.203Z"
+    },
+    {
+      "title": "Dili",
+      "url": "https://en.wikivoyage.org/wiki/Dili",
+      "checkedAt": "2026-10-21T08:12:44.653Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Dili",
+      "kind": "area",
+      "locality": "Timor-Leste",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Timor-Leste",
+      "id": "timor-leste-f698655115e1ec5b1c7e"
+    },
+    {
+      "name": "Baucau",
+      "kind": "area",
+      "locality": "Timor-Leste",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Timor-Leste",
+      "id": "timor-leste-5a53c04266b6e401e46b"
+    },
+    {
+      "name": "Ermera",
+      "kind": "area",
+      "locality": "Timor-Leste",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Timor-Leste",
+      "id": "timor-leste-7c601675f4c63c442faa"
+    },
+    {
+      "name": "Gleno",
+      "kind": "area",
+      "locality": "Timor-Leste",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Timor-Leste",
+      "id": "timor-leste-766e01ebe2669d84331c"
+    },
+    {
+      "name": "Liquiçá",
+      "kind": "area",
+      "locality": "Timor-Leste",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Timor-Leste",
+      "id": "timor-leste-9c3ce1dcef1ff9098fc1"
+    },
+    {
+      "name": "Lospalos",
+      "kind": "area",
+      "locality": "Timor-Leste",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Timor-Leste",
+      "id": "timor-leste-3c352ae12da17fa11854"
+    },
+    {
+      "name": "Maliana",
+      "kind": "area",
+      "locality": "Timor-Leste",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Timor-Leste",
+      "id": "timor-leste-2a5356dbd003dfb82461"
+    },
+    {
+      "name": "Suai",
+      "kind": "area",
+      "locality": "Timor-Leste",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Timor-Leste",
+      "id": "timor-leste-1181c720e3461066dcb1"
+    },
+    {
+      "name": "Cristo Rei",
+      "kind": "do",
+      "locality": "Dili",
+      "lat": -8.5206,
+      "lon": 125.6085,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "price": "50 centavos parking fee",
+      "id": "timor-leste-824fb3cf2c3a63fe091d"
+    },
+    {
+      "name": "Cape Fatucama",
+      "kind": "do",
+      "locality": "Dili",
+      "lat": -8.520693,
+      "lon": 125.609327,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "url": "http://wanderme.wordpress.com/2009/11/04/east-timor-22/",
+      "id": "timor-leste-c805f34ced6a963a0c07"
+    },
+    {
+      "name": "Resistance Museum",
+      "kind": "do",
+      "locality": "Dili",
+      "lat": -8.555543,
+      "lon": 125.577759,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Rua Universidade",
+      "price": "$1",
+      "id": "timor-leste-f1d476be2eec95a8927b"
+    },
+    {
+      "name": "Dare War Memorial",
+      "kind": "do",
+      "locality": "Dili",
+      "lat": -8.596059,
+      "lon": 125.576207,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "price": "Free",
+      "id": "timor-leste-df64c2ded44c013fa87d"
+    },
+    {
+      "name": "Motael Church",
+      "kind": "do",
+      "locality": "Dili",
+      "lat": -8.550833,
+      "lon": 125.570556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "id": "timor-leste-39260c1ed1e27ba20464"
+    },
+    {
+      "name": "Chega! Exhibition",
+      "kind": "do",
+      "locality": "Dili",
+      "lat": -8.56533,
+      "lon": 125.57739,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Avenida de Balide",
+      "url": "https://www.timorleste.tl/listings/chega-exhibition/",
+      "id": "timor-leste-47d5e0e212dafb54abda"
+    },
+    {
+      "name": "Santa Cruz cemetery",
+      "kind": "do",
+      "locality": "Dili",
+      "lat": -8.5631,
+      "lon": 125.58622,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Rua de Santa Cruz",
+      "price": "Free",
+      "id": "timor-leste-668d2dcca9381f7cfc04"
+    },
+    {
+      "name": "New Lili's",
+      "kind": "eat",
+      "locality": "Dili",
+      "lat": -8.552402,
+      "lon": 125.585194,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Rua Belarmino Lobo",
+      "price": "$3-5",
+      "id": "timor-leste-0d62dbec3c8f4000cde1"
+    },
+    {
+      "name": "Starco Cafe",
+      "kind": "eat",
+      "locality": "Dili",
+      "lat": -8.552668,
+      "lon": 125.583433,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Rue Presidente Nicolau Lobato",
+      "price": "$4-5",
+      "id": "timor-leste-4f13b848f7ca43ce8330"
+    },
+    {
+      "name": "Bebonuk beach BBQs",
+      "kind": "eat",
+      "locality": "Dili",
+      "lat": -8.541354,
+      "lon": 125.54355,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "price": "$2-4",
+      "id": "timor-leste-0649e5a87eba66003767"
+    },
+    {
+      "name": "Miaow",
+      "kind": "eat",
+      "locality": "Dili",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Rua Belarmino Lobo",
+      "url": "http://www.facebook.com/Artcafemiaow",
+      "id": "timor-leste-1091a0c51b0fb68ba898"
+    },
+    {
+      "name": "Castaway",
+      "kind": "eat",
+      "locality": "Dili",
+      "lat": -8.54831,
+      "lon": 125.560083,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Avenida de Portugal",
+      "price": "$6-15",
+      "id": "timor-leste-de703614e2b99bc40c7a"
+    },
+    {
+      "name": "Timor Plaza",
+      "kind": "eat",
+      "locality": "Dili",
+      "lat": -8.553515,
+      "lon": 125.541299,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "id": "timor-leste-ebdf40dbae6e5107320b"
+    },
+    {
+      "name": "Queen Tundriee",
+      "kind": "eat",
+      "locality": "Dili",
+      "lat": -8.554175,
+      "lon": 125.566802,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Avenida dos Martires de Patria",
+      "price": "$4-8",
+      "id": "timor-leste-381d7a653e536d98e1cd"
+    },
+    {
+      "name": "Linivon",
+      "kind": "eat",
+      "locality": "Dili",
+      "lat": -8.553536,
+      "lon": 125.588158,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Bidau",
+      "price": "$4-5",
+      "id": "timor-leste-fa4b24b1fe08d7e8e764"
+    },
+    {
+      "name": "New 88",
+      "kind": "eat",
+      "locality": "Dili",
+      "lat": -8.55799,
+      "lon": 125.583688,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Rua Audian",
+      "price": "$5-10",
+      "id": "timor-leste-04ef60a06c25c93fe8ae"
+    },
+    {
+      "name": "Caz Bar",
+      "kind": "eat",
+      "locality": "Dili",
+      "lat": -8.533931,
+      "lon": 125.615073,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Areia Branca",
+      "price": "$5-10",
+      "id": "timor-leste-e8ff8c820e7fac448a7e"
+    },
+    {
+      "name": "Kathy's Cafe",
+      "kind": "eat",
+      "locality": "Dili",
+      "lat": -8.533123,
+      "lon": 125.615143,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Areia Branca",
+      "price": "$8-15",
+      "id": "timor-leste-898fa1ab12a066a79610"
+    },
+    {
+      "name": "Early Sun",
+      "kind": "eat",
+      "locality": "Dili",
+      "lat": -8.547235,
+      "lon": 125.597913,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Metiaut",
+      "price": "$6-10",
+      "id": "timor-leste-aae31927337e5d821e1d"
+    },
+    {
+      "name": "Little Pattaya",
+      "kind": "eat",
+      "locality": "Dili",
+      "lat": -8.546513,
+      "lon": 125.601021,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Metiaut",
+      "price": "$6-12",
+      "id": "timor-leste-b372c54874f07b2f5149"
+    },
+    {
+      "name": "Tito's",
+      "kind": "eat",
+      "locality": "Dili",
+      "lat": -8.546928,
+      "lon": 125.599627,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Metiaut",
+      "price": "$15",
+      "id": "timor-leste-4fe80988fe07cf993024"
+    },
+    {
+      "name": "Gion",
+      "kind": "eat",
+      "locality": "Dili",
+      "lat": -8.553461,
+      "lon": 125.541961,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Timor Plaza, lower level next to the car park",
+      "price": "$12+",
+      "id": "timor-leste-12bed7d4b0acfde90d3d"
+    },
+    {
+      "name": "Arriba",
+      "kind": "eat",
+      "locality": "Dili",
+      "lat": -8.548382,
+      "lon": 125.560541,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Av. de Portugal",
+      "price": "$10",
+      "id": "timor-leste-b23f33467ffeff709ea7"
+    },
+    {
+      "name": "Golden Star",
+      "kind": "eat",
+      "locality": "Dili",
+      "lat": -8.557059,
+      "lon": 125.586794,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Rua Audian",
+      "price": "$8+",
+      "id": "timor-leste-e89a5d4517d0a842070c"
+    },
+    {
+      "name": "Dilicious Timor",
+      "kind": "eat",
+      "locality": "Dili",
+      "lat": -8.55413,
+      "lon": 125.57591,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "price": "$6+",
+      "url": "https://www.facebook.com/DiliciousTimor/",
+      "id": "timor-leste-7103cc59fdcfe0a3c909"
+    },
+    {
+      "name": "Osteria",
+      "kind": "eat",
+      "locality": "Dili",
+      "lat": -8.548382,
+      "lon": 125.560541,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Av. de Portugal",
+      "price": "$10-25",
+      "id": "timor-leste-2fe3c73c949f5a7e52a9"
+    },
+    {
+      "name": "Panorama",
+      "kind": "eat",
+      "locality": "Dili",
+      "lat": -8.553274,
+      "lon": 125.542381,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Timor Plaza Level 5",
+      "price": "$25",
+      "id": "timor-leste-f279de1260be3814ccb8"
+    },
+    {
+      "name": "Caz Bar",
+      "kind": "eat",
+      "locality": "Dili",
+      "lat": -8.534039,
+      "lon": 125.614861,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Areia Branca (Cristo Rei Beach)",
+      "id": "timor-leste-7886eb03afcfd40e2a20"
+    },
+    {
+      "name": "Kaliber 12",
+      "kind": "eat",
+      "locality": "Dili",
+      "lat": -8.55675,
+      "lon": 125.587126,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Rua Belarmino Lobo/Rua Audian",
+      "id": "timor-leste-2707a562b5439fb226fc"
+    },
+    {
+      "name": "Tower",
+      "kind": "eat",
+      "locality": "Dili",
+      "lat": -8.553791,
+      "lon": 125.559326,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Comoro Rd",
+      "id": "timor-leste-1c9e982ecbd8a3746956"
+    },
+    {
+      "name": "Moon Bar",
+      "kind": "eat",
+      "locality": "Dili",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "id": "timor-leste-c7d3cba46e88c0dfbc8f"
+    },
+    {
+      "name": "Letefoho Specialty Coffee Roasters",
+      "kind": "eat",
+      "locality": "Dili",
+      "lat": -8.548318,
+      "lon": 125.558862,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Avenida de Portugal",
+      "id": "timor-leste-7453424b36bee16c3cf3"
+    },
+    {
+      "name": "DaTerra Hostel",
+      "kind": "stay",
+      "locality": "Dili",
+      "lat": -8.54295,
+      "lon": 125.54302,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Bebonuk",
+      "price": "Dorm $20, double room $30, incl. breakfast",
+      "url": "https://www.facebook.com/daterratimorleste",
+      "id": "timor-leste-581fbae41ab81780cfbe"
+    },
+    {
+      "name": "Central Hotel",
+      "kind": "stay",
+      "locality": "Dili",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Av Presidente Nicolo Lobato",
+      "id": "timor-leste-2daf5a74c8e4755ce635"
+    },
+    {
+      "name": "Venture Hotel",
+      "kind": "stay",
+      "locality": "Dili",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Rua Filomena De Camara, Bidau Lecidere",
+      "price": "$28/night, $285/month",
+      "id": "timor-leste-cde4c54b73e75540abec"
+    },
+    {
+      "name": "Beachside Hotel",
+      "kind": "stay",
+      "locality": "Dili",
+      "lat": -8.533042,
+      "lon": 125.615473,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Cristo Rei Beach, Metiaut, Dili",
+      "price": "$85 room, $30 dorm",
+      "url": "http://www.beachsidehoteldili.com/",
+      "id": "timor-leste-538ce114365aa3ae76c1"
+    },
+    {
+      "name": "Katua's Hotel",
+      "kind": "stay",
+      "locality": "Dili",
+      "lat": -8.552467,
+      "lon": 125.584076,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Rua Jose Maria Marques, Lecidere",
+      "price": "$65-75",
+      "id": "timor-leste-c29ab04139a65f694099"
+    },
+    {
+      "name": "Hotel Lecidere",
+      "kind": "stay",
+      "locality": "Dili",
+      "lat": -8.552181,
+      "lon": 125.585417,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Rua Jose Maria Marques",
+      "price": "From $50",
+      "url": "http://www.hotel-lecidere-dili.com/",
+      "id": "timor-leste-7ed158ccaa9e857801b4"
+    },
+    {
+      "name": "Golgota Hotel & Resort",
+      "kind": "stay",
+      "locality": "Dili",
+      "lat": 8.55331,
+      "lon": 125.52302,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Av. da Restauração Comoro",
+      "url": "https://www.facebook.com/GolgotaHotelResort/",
+      "id": "timor-leste-5cfe4b72b1438476c44b"
+    },
+    {
+      "name": "Discovery Inn",
+      "kind": "stay",
+      "locality": "Dili",
+      "lat": -8.552477,
+      "lon": 125.584321,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Avenida Presidente Nicolau Lobato",
+      "price": "US$135",
+      "url": "http://www.discoveryinntimorleste.com/",
+      "id": "timor-leste-f88193616ba301a6203d"
+    },
+    {
+      "name": "Hotel Esplanada",
+      "kind": "stay",
+      "locality": "Dili",
+      "lat": -8.546646,
+      "lon": 125.553579,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Avenida de Portugal",
+      "url": "http://www.hotelesplanada.com/",
+      "id": "timor-leste-a7c94c8d2cb8882076e2"
+    },
+    {
+      "name": "Hotel Timor",
+      "kind": "stay",
+      "locality": "Dili",
+      "lat": -8.554281,
+      "lon": 125.57359,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Rua Mártines da Pátria, Apartado 470",
+      "url": "http://www.timortur.com/",
+      "id": "timor-leste-3574a7400852647772c9"
+    },
+    {
+      "name": "Timor Plaza Hotel",
+      "kind": "stay",
+      "locality": "Dili",
+      "lat": -8.553529,
+      "lon": 125.541543,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Rua Presidente Nicolau Lobato, Comoro",
+      "price": "US$160",
+      "url": "https://www.timorplazahotel.com/",
+      "id": "timor-leste-d408ae717879236a756f"
+    },
+    {
+      "name": "Hotel The Ramelau",
+      "kind": "stay",
+      "locality": "Dili",
+      "lat": -8.554648,
+      "lon": 125.548199,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "price": "$130",
+      "url": "http://www.hotelramelau.com/",
+      "id": "timor-leste-1723db336cef59c3e2e7"
+    },
+    {
+      "name": "Malinamoc Paradise",
+      "kind": "stay",
+      "locality": "Dili",
+      "lat": 8.5615,
+      "lon": 125.5284,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Kampung Baru, Aldeia 30 Agosto, Comoro",
+      "url": "http://www.malinamoc.com/",
+      "id": "timor-leste-34cd0ac542c3b719f9dd"
+    },
+    {
+      "name": "Hilton Dili Palm Springs",
+      "kind": "stay",
+      "locality": "Dili",
+      "lat": 8.552,
+      "lon": 125.5587,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "address": "Rua De Manu Tafui Fatuhada",
+      "url": "http://www.hilton.com/",
+      "id": "timor-leste-ba4c535b70afb5a594c3"
+    },
+    {
+      "name": "Dili",
+      "kind": "area",
+      "locality": "Dili",
+      "lat": -8.55861111,
+      "lon": 125.573611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dili",
+      "id": "timor-leste-9eb7a3c789db6f675f39"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

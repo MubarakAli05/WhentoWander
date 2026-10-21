@@ -1,0 +1,506 @@
+{
+  "sources": [
+    {
+      "title": "Turkmenistan",
+      "url": "https://en.wikivoyage.org/wiki/Turkmenistan",
+      "checkedAt": "2026-10-21T08:12:56.417Z"
+    },
+    {
+      "title": "Ashgabat",
+      "url": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "checkedAt": "2026-10-21T08:12:59.279Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Ashgabat",
+      "kind": "area",
+      "locality": "Turkmenistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Turkmenistan",
+      "id": "turkmenistan-b85fe4494c1abf061a99"
+    },
+    {
+      "name": "Balkanabat",
+      "kind": "area",
+      "locality": "Turkmenistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Turkmenistan",
+      "id": "turkmenistan-638f2294dd5239e19cd3"
+    },
+    {
+      "name": "Daşoguz",
+      "kind": "area",
+      "locality": "Turkmenistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Turkmenistan",
+      "id": "turkmenistan-4012e80daadeae6f3858"
+    },
+    {
+      "name": "Mary",
+      "kind": "area",
+      "locality": "Turkmenistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Turkmenistan",
+      "id": "turkmenistan-20cf5c68412a4513d052"
+    },
+    {
+      "name": "Türkmenabat",
+      "kind": "area",
+      "locality": "Turkmenistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Turkmenistan",
+      "id": "turkmenistan-7e2d9746e2d810d3b02b"
+    },
+    {
+      "name": "Turkmenbashi",
+      "kind": "area",
+      "locality": "Turkmenistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Turkmenistan",
+      "id": "turkmenistan-c0244be74a46e095ecdf"
+    },
+    {
+      "name": "Turkmen Carpet Museum",
+      "kind": "do",
+      "locality": "Turkmenistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Turkmenistan",
+      "id": "turkmenistan-e653cf81c5941c132f0e"
+    },
+    {
+      "name": "Adventure tour and camel trek in the Kara Kum Desert",
+      "kind": "do",
+      "locality": "Turkmenistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Turkmenistan",
+      "url": "http://www.stantours.com/",
+      "id": "turkmenistan-e6b3b62cb164fa9bc371"
+    },
+    {
+      "name": "National Museum",
+      "kind": "do",
+      "locality": "Ashgabat",
+      "lat": 37.885231,
+      "lon": 58.348994,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "Archabil sayoli 30",
+      "price": "US$10, camera US$1",
+      "id": "turkmenistan-54892f5d29041e20f25d"
+    },
+    {
+      "name": "Museum of Fine Arts",
+      "kind": "do",
+      "locality": "Ashgabat",
+      "lat": 37.9353,
+      "lon": 58.3747,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "price": "US$10",
+      "id": "turkmenistan-54427c75523ed452424c"
+    },
+    {
+      "name": "Turkmen Carpet Museum",
+      "kind": "do",
+      "locality": "Ashgabat",
+      "lat": 37.9406,
+      "lon": 58.3779,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "5 Georogly köcesi",
+      "price": "12,000 manat",
+      "id": "turkmenistan-4cae32ace25ed57e8ad5"
+    },
+    {
+      "name": "Museum of Turkmen National Values",
+      "kind": "do",
+      "locality": "Ashgabat",
+      "lat": 37.881232,
+      "lon": 58.382318,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "price": "US$10, 25,000 manat for photographs",
+      "id": "turkmenistan-a91f50a431c454b8ae3e"
+    },
+    {
+      "name": "Oguzhan Palace",
+      "kind": "do",
+      "locality": "Ashgabat",
+      "lat": 37.93168,
+      "lon": 58.38463,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "Galkynysh St",
+      "id": "turkmenistan-f8bde7f74a91d9b2fb89"
+    },
+    {
+      "name": "Turkmenistan Independence Monument",
+      "kind": "do",
+      "locality": "Ashgabat",
+      "lat": 37.881217,
+      "lon": 58.381444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "id": "turkmenistan-2e4b57481951a6271eba"
+    },
+    {
+      "name": "Ashgabat Flagpole",
+      "kind": "do",
+      "locality": "Ashgabat",
+      "lat": 37.886999,
+      "lon": 58.350478,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "id": "turkmenistan-64f46039c9467a93320b"
+    },
+    {
+      "name": "Inspiration Park",
+      "kind": "do",
+      "locality": "Ashgabat",
+      "lat": 37.94364,
+      "lon": 58.37714,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "id": "turkmenistan-02010a1bec700c282eac"
+    },
+    {
+      "name": "Wedding Palace",
+      "kind": "do",
+      "locality": "Ashgabat",
+      "lat": 37.92646,
+      "lon": 58.34145,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "url": "http://bagtkoshgi.gov.tm/",
+      "id": "turkmenistan-fa25eddd61949ab6601f"
+    },
+    {
+      "name": "Neutrality Monument",
+      "kind": "do",
+      "locality": "Ashgabat",
+      "lat": 37.8821,
+      "lon": 58.3333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "Archabil Hwy",
+      "id": "turkmenistan-5b9c04e16699a4b5d4f6"
+    },
+    {
+      "name": "Constitution Monument",
+      "kind": "do",
+      "locality": "Ashgabat",
+      "lat": 37.8989,
+      "lon": 58.3201,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "Archabil Hwy",
+      "id": "turkmenistan-e480219e90dc53fff3e3"
+    },
+    {
+      "name": "Halk Hakydasy Memorial Complex",
+      "kind": "do",
+      "locality": "Ashgabat",
+      "lat": 37.9357,
+      "lon": 58.3165,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "id": "turkmenistan-49a3434a24b9ad2872db"
+    },
+    {
+      "name": "Turkmenbashy Ruhy Mosque and Turkmenbashi Mausoleum",
+      "kind": "do",
+      "locality": "Ashgabat",
+      "lat": 38.0179,
+      "lon": 58.25282,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "id": "turkmenistan-c64ed567c93153aa5291"
+    },
+    {
+      "name": "Ertugrul Gazi Mosque",
+      "kind": "do",
+      "locality": "Ashgabat",
+      "lat": 37.93292,
+      "lon": 58.39898,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "id": "turkmenistan-28f4587a13e9591d971f"
+    },
+    {
+      "name": "Tolkuchka Bazaar",
+      "kind": "do",
+      "locality": "Ashgabat",
+      "lat": 38.000052,
+      "lon": 58.395077,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "id": "turkmenistan-bd12977d216f3c7e716a"
+    },
+    {
+      "name": "Turkmenbashi Cableway",
+      "kind": "do",
+      "locality": "Ashgabat",
+      "lat": 37.8339,
+      "lon": 58.3097,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "Kopet Dag",
+      "price": "1000 manat",
+      "id": "turkmenistan-c8bee9f056d110361501"
+    },
+    {
+      "name": "Jeitun archaeological site",
+      "kind": "do",
+      "locality": "Ashgabat",
+      "lat": 38.103267,
+      "lon": 58.207401,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "id": "turkmenistan-b62e79fa27d31c35b581"
+    },
+    {
+      "name": "Mollanepes Drama Theatre",
+      "kind": "do",
+      "locality": "Ashgabat",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "Magtymguly sayoli 79",
+      "price": "US$0.25",
+      "id": "turkmenistan-876703bc7e379797a18a"
+    },
+    {
+      "name": "Magtymguly Theatre",
+      "kind": "do",
+      "locality": "Ashgabat",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "Shevchenko köcesi",
+      "id": "turkmenistan-a24dcad379fcf40fd99e"
+    },
+    {
+      "name": "Pushkin Russian Theatre",
+      "kind": "do",
+      "locality": "Ashgabat",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "Magtymguly sayoli 142",
+      "price": "US$0.25",
+      "id": "turkmenistan-ca50b4c57e22b22174bf"
+    },
+    {
+      "name": "World of Turkmenbashi Tales",
+      "kind": "do",
+      "locality": "Ashgabat",
+      "lat": 37.92219,
+      "lon": 58.37272,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "Garaşsyzlyk şaýoly",
+      "id": "turkmenistan-1c872fb69cf88a540451"
+    },
+    {
+      "name": "Alem Center",
+      "kind": "do",
+      "locality": "Ashgabat",
+      "lat": 37.8987,
+      "lon": 58.2993,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "id": "turkmenistan-99a439323036ffe2f138"
+    },
+    {
+      "name": "Ashgabat Botanical Garden",
+      "kind": "do",
+      "locality": "Ashgabat",
+      "lat": 37.9529,
+      "lon": 58.3466,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "id": "turkmenistan-daabc846d77b3f734e49"
+    },
+    {
+      "name": "Aşgabat Golf klub binasy",
+      "kind": "do",
+      "locality": "Ashgabat",
+      "lat": 37.9212,
+      "lon": 58.3314,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "url": "http://www.ashgabat-golf.tm/",
+      "id": "turkmenistan-1e318fad7bd0381ecd9e"
+    },
+    {
+      "name": "Asghabat Zoo",
+      "kind": "do",
+      "locality": "Ashgabat",
+      "lat": 38.0386,
+      "lon": 58.0488,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "id": "turkmenistan-46b9cf703eaceb64cff6"
+    },
+    {
+      "name": "Hezzet Restaurant",
+      "kind": "eat",
+      "locality": "Ashgabat",
+      "lat": 37.91358,
+      "lon": 58.40913,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "Oguzhan Street 5/7",
+      "url": "http://www.merdem.biz/",
+      "id": "turkmenistan-b59dd38c90323ca80248"
+    },
+    {
+      "name": "AlpEt Steakhouse",
+      "kind": "eat",
+      "locality": "Ashgabat",
+      "lat": 37.92807,
+      "lon": 58.34669,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "Rd of 9th Km",
+      "url": "http://www.alpet.biz/",
+      "id": "turkmenistan-d1b4c394e68304851246"
+    },
+    {
+      "name": "Altyn Jam",
+      "kind": "eat",
+      "locality": "Ashgabat",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "Magtymgily sayoli 101",
+      "id": "turkmenistan-c9f482bc0217b182d7de"
+    },
+    {
+      "name": "City Pub",
+      "kind": "eat",
+      "locality": "Ashgabat",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "Alisher Navoi 54a Köçesi",
+      "url": "https://www.instagram.com/citypub.tm/?hl=en",
+      "id": "turkmenistan-bc3dfa512b1a2123b908"
+    },
+    {
+      "name": "Divan Hotel (formerly Hotel Nissa)",
+      "kind": "stay",
+      "locality": "Ashgabat",
+      "lat": 37.929396,
+      "lon": 58.386336,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "Galkynysh St 70",
+      "id": "turkmenistan-cefcf0d8494ed07b5964"
+    },
+    {
+      "name": "Archabil Hotel (formerly Hotel President)",
+      "kind": "stay",
+      "locality": "Ashgabat",
+      "lat": 37.88453,
+      "lon": 58.35632,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "Arçabil şaýoly 54",
+      "price": "$161 (May 2022)",
+      "url": "http://archabilhotel.gov.tm/",
+      "id": "turkmenistan-11381efbb0463ab750d7"
+    },
+    {
+      "name": "Grand Turkmen Hotel",
+      "kind": "stay",
+      "locality": "Ashgabat",
+      "lat": 37.94003,
+      "lon": 58.37802,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "ul. Georogly 7 (ул. Героглы, 7), 744000 Ашхабад",
+      "id": "turkmenistan-b4b1334bf160fc27e40d"
+    },
+    {
+      "name": "Hotel Ak Altyn",
+      "kind": "stay",
+      "locality": "Ashgabat",
+      "lat": 37.95229,
+      "lon": 58.36471,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "Magtumguly ave 141/1",
+      "price": "US$75 per night",
+      "id": "turkmenistan-be95d6f6667d315c9bc7"
+    },
+    {
+      "name": "Hotel Ahal",
+      "kind": "stay",
+      "locality": "Ashgabat",
+      "lat": 37.88492,
+      "lon": 58.36072,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "Arçabil şaýoly 35",
+      "id": "turkmenistan-71f9febd3d48f3367f30"
+    },
+    {
+      "name": "Hotel Nebitchi",
+      "kind": "stay",
+      "locality": "Ashgabat",
+      "lat": 37.88359,
+      "lon": 58.36326,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "Arçabil şaýoly 29",
+      "id": "turkmenistan-124676918941ec8a26c5"
+    },
+    {
+      "name": "Yyldyz Hotel",
+      "kind": "stay",
+      "locality": "Ashgabat",
+      "lat": 37.9294,
+      "lon": 58.3332,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "2002/5 (Bagtyyarlyk), 17",
+      "price": "US$450",
+      "url": "https://yyldyzhotel.gov.tm/en",
+      "id": "turkmenistan-a160a45b76e0a6dc33dc"
+    },
+    {
+      "name": "Aeroflot",
+      "kind": "stay",
+      "locality": "Ashgabat",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "Turkmenistan Söwda merkazi, Magtymguly sayoli 73",
+      "id": "turkmenistan-4b980c36e275ff6ea8b8"
+    },
+    {
+      "name": "British Airways",
+      "kind": "stay",
+      "locality": "Ashgabat",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "Grand Turkmen Hotel, Görogly köcesi 71",
+      "url": "http://www.britishairways.com/",
+      "id": "turkmenistan-8cb3429662a5a21af117"
+    },
+    {
+      "name": "Lufthansa",
+      "kind": "stay",
+      "locality": "Ashgabat",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "http://www.lufthansa.com",
+      "id": "turkmenistan-8961720ce496054e0d44"
+    },
+    {
+      "name": "Pakistan International Airlines (PIA)",
+      "kind": "stay",
+      "locality": "Ashgabat",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "Magtymguly sayoli 71",
+      "url": "https://www.piac.com.pk/",
+      "id": "turkmenistan-af2c7d5db9bc3d3ae828"
+    },
+    {
+      "name": "Turkish Airlines",
+      "kind": "stay",
+      "locality": "Ashgabat",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "Ataturk Str. 82, Office A7-A8",
+      "url": "https://www.turkishairlines.com/en-us/flights/flights-to-ashgabat/#!m",
+      "id": "turkmenistan-74f5b5b92fbf2f250819"
+    },
+    {
+      "name": "Turkmenistan Airlines",
+      "kind": "stay",
+      "locality": "Ashgabat",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "Magtymguly sayoli 82",
+      "url": "http://www.turkmenistanairlines.com/",
+      "id": "turkmenistan-68949785205fde970b53"
+    },
+    {
+      "name": "Uzbekistan Havo Yullari/Uzbekistan Airways",
+      "kind": "stay",
+      "locality": "Ashgabat",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "Main Concourse, Saparmurat Turkmenbashi Airport",
+      "url": "https://www.uzairways.com/en",
+      "id": "turkmenistan-44f1f4569db43c7ba56b"
+    },
+    {
+      "name": "Belavia",
+      "kind": "stay",
+      "locality": "Ashgabat",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "address": "st. 2028 (Govshudova) 50/2, 4th Floor",
+      "url": "http://belavia.by/",
+      "id": "turkmenistan-83c000ae8e259feddcb3"
+    },
+    {
+      "name": "Ashgabat",
+      "kind": "area",
+      "locality": "Ashgabat",
+      "lat": 37.95,
+      "lon": 58.38333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ashgabat",
+      "id": "turkmenistan-bc6cc754b9ee650f8575"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

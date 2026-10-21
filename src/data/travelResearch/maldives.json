@@ -1,0 +1,425 @@
+{
+  "sources": [
+    {
+      "title": "Maldives",
+      "url": "https://en.wikivoyage.org/wiki/Maldives",
+      "checkedAt": "2026-10-21T08:10:56.676Z"
+    },
+    {
+      "title": "Malé",
+      "url": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "checkedAt": "2026-10-21T08:10:59.897Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Malé",
+      "kind": "area",
+      "locality": "Maldives",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maldives",
+      "id": "maldives-69cd2389713b1c68e691"
+    },
+    {
+      "name": "Addu",
+      "kind": "area",
+      "locality": "Maldives",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maldives",
+      "id": "maldives-ea1600fb3ec6eb2bdff2"
+    },
+    {
+      "name": "Fuvahmulah",
+      "kind": "area",
+      "locality": "Maldives",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maldives",
+      "id": "maldives-2ca01e83f4b326ca8ca6"
+    },
+    {
+      "name": "Kulhudhuffushi",
+      "kind": "area",
+      "locality": "Maldives",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maldives",
+      "id": "maldives-cd82db01f7c19c1686f4"
+    },
+    {
+      "name": "Friday Mosque",
+      "kind": "do",
+      "locality": "Malé",
+      "lat": 4.178015,
+      "lon": 73.512375,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "id": "maldives-aeedcef2b32305545836"
+    },
+    {
+      "name": "Kalhu Vakaru Miskiy",
+      "kind": "do",
+      "locality": "Malé",
+      "lat": 4.1777845,
+      "lon": 73.5101883,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "id": "maldives-4f7734c55635b4ee040e"
+    },
+    {
+      "name": "Republic Square",
+      "kind": "do",
+      "locality": "Malé",
+      "lat": 4.17914,
+      "lon": 73.511064,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "address": "Boduthakururufaanu Magu",
+      "id": "maldives-2c6da1b97823f8ced718"
+    },
+    {
+      "name": "Islamic Centre",
+      "kind": "do",
+      "locality": "Malé",
+      "lat": 4.178505,
+      "lon": 73.510513,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "id": "maldives-d37e828c36e79f7a6cdb"
+    },
+    {
+      "name": "Ministry of Defence HQ",
+      "kind": "do",
+      "locality": "Malé",
+      "lat": 4.178327,
+      "lon": 73.511481,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "address": "Ameer Ahmed Magu",
+      "url": "https://defence.gov.mv/",
+      "id": "maldives-1357192c86d58b30c573"
+    },
+    {
+      "name": "Sultan Park and National Museum",
+      "kind": "do",
+      "locality": "Malé",
+      "lat": 4.17726,
+      "lon": 73.510162,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "price": "Park free, museum US$3 or Rf 38",
+      "id": "maldives-f49430ae45961aa0a129"
+    },
+    {
+      "name": "Ali Rasgefaanu Ziyaaraiy",
+      "kind": "do",
+      "locality": "Malé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "id": "maldives-ccc091ef63a6fd30f364"
+    },
+    {
+      "name": "Medhu Ziyaaraiy",
+      "kind": "do",
+      "locality": "Malé",
+      "lat": 4.177666,
+      "lon": 73.512501,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "id": "maldives-fc8e688ef3e10f97e310"
+    },
+    {
+      "name": "Dharumavantha Mosque",
+      "kind": "do",
+      "locality": "Malé",
+      "lat": 4.1773902,
+      "lon": 73.5116465,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "id": "maldives-41d3bd3be65107365ddd"
+    },
+    {
+      "name": "Whale Submarine",
+      "kind": "do",
+      "locality": "Malé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "address": "H. Abadhahfehi Magu",
+      "url": "http://www.whalesubmarine.com.mv/",
+      "id": "maldives-9dd5bce8eda373dbbbd7"
+    },
+    {
+      "name": "Cruise-maldives.com",
+      "kind": "do",
+      "locality": "Malé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "url": "http://www.cruise-maldives.com/",
+      "id": "maldives-793a82f02fa4a794b578"
+    },
+    {
+      "name": "Waterfront Franchise Building",
+      "kind": "eat",
+      "locality": "Malé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "id": "maldives-f063824158b2cbe0a1ed"
+    },
+    {
+      "name": "The Hive Café",
+      "kind": "eat",
+      "locality": "Malé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "address": "Cypria building, Ground Floor, Boduthakurufaanu Magu",
+      "id": "maldives-e6d49a1677498c533457"
+    },
+    {
+      "name": "The Hive Restaurant",
+      "kind": "eat",
+      "locality": "Malé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "address": "M. Nalahiyaage, Majeedhee Magu",
+      "url": "http://www.beehivehotels.com/",
+      "id": "maldives-0be5b315ac218d5b507c"
+    },
+    {
+      "name": "Café Marine Drive",
+      "kind": "eat",
+      "locality": "Malé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "id": "maldives-9403022c689688f22e32"
+    },
+    {
+      "name": "Saffron Café",
+      "kind": "eat",
+      "locality": "Malé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "address": "Boduthakurufaanu Magu",
+      "id": "maldives-0d0715249e8d407cb84a"
+    },
+    {
+      "name": "Jade Bistro",
+      "kind": "eat",
+      "locality": "Malé",
+      "lat": 4.177965,
+      "lon": 73.515546,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "address": "In front of jetty #8",
+      "price": "Cappuccino US$2.50, Rf 20-30",
+      "id": "maldives-1b6f4d85e9d4d049bdde"
+    },
+    {
+      "name": "Maarukeytu Hota",
+      "kind": "eat",
+      "locality": "Malé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "price": "Rf 20-30",
+      "id": "maldives-7e4a0248becbf1b6894e"
+    },
+    {
+      "name": "Olive Garden",
+      "kind": "eat",
+      "locality": "Malé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "address": "Orchid de Magu St",
+      "price": "US$5-15, Rf 50",
+      "id": "maldives-c93e6287371c4161346b"
+    },
+    {
+      "name": "Pool Side",
+      "kind": "eat",
+      "locality": "Malé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "address": "Hulhulé Island Hotel",
+      "id": "maldives-195caa5ec8969b9e3e42"
+    },
+    {
+      "name": "Shell Beans",
+      "kind": "eat",
+      "locality": "Malé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "price": "US$2, Rf 20-30",
+      "url": "http://www.shellbeans.com/",
+      "id": "maldives-e9a4cb7acd5fe78a27be"
+    },
+    {
+      "name": "Thai Wok",
+      "kind": "eat",
+      "locality": "Malé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "address": "One block from Jetty 6-7-8",
+      "price": "US$5-8, Rf 50",
+      "id": "maldives-58ddf394d534f8b651ec"
+    },
+    {
+      "name": "FoodBank",
+      "kind": "eat",
+      "locality": "Malé",
+      "lat": 4.176978,
+      "lon": 73.515055,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "address": "Orchid magu",
+      "price": "US$6-40",
+      "id": "maldives-91cfc5005c377f57ad8f"
+    },
+    {
+      "name": "Breakwater",
+      "kind": "eat",
+      "locality": "Malé",
+      "lat": 4.173828,
+      "lon": 73.518233,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "address": "Boduthankurufaanu Magu",
+      "price": "US$4-8, Rf 60-120",
+      "url": "https://facebook.com/breakwater.maldives/",
+      "id": "maldives-fa7accb49064381d2305"
+    },
+    {
+      "name": "Seagull Café",
+      "kind": "eat",
+      "locality": "Malé",
+      "lat": 4.177918,
+      "lon": 73.509911,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "address": "Fareedhee Magu",
+      "price": "Rf 50-120",
+      "url": "https://www.facebook.com/SeagullCafeHouse",
+      "id": "maldives-81310a7d7d929f5d26b6"
+    },
+    {
+      "name": "Hulhulé Island Hotel (HIH)",
+      "kind": "eat",
+      "locality": "Malé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "id": "maldives-792e39205bb5bfecfbf8"
+    },
+    {
+      "name": "Meraki Coffee Roasters",
+      "kind": "eat",
+      "locality": "Malé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "address": "G.Blue Stream, Husnuheena Magu",
+      "url": "https://www.facebook.com/merakicoffee/",
+      "id": "maldives-1affa3a1f92f38204180"
+    },
+    {
+      "name": "Ocean Bubbles",
+      "kind": "eat",
+      "locality": "Malé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "address": "Dhigga Magu, Hulhumalé - Majeedhee Magu",
+      "url": "https://www.facebook.com/Oceanbubbles.mv/",
+      "id": "maldives-1ef32ab2cd3a4ccaa274"
+    },
+    {
+      "name": "Family Room Coffee",
+      "kind": "eat",
+      "locality": "Malé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "address": "Lot 20018, Beach Road, Phase 2, Hulhumalé",
+      "url": "https://www.facebook.com/familyroom.mv",
+      "id": "maldives-13e05bd3f2164c4a52b3"
+    },
+    {
+      "name": "Luckyhiya Hotel",
+      "kind": "stay",
+      "locality": "Malé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "id": "maldives-3c16a1acacb19c0223da"
+    },
+    {
+      "name": "Sunny Suites Inn",
+      "kind": "stay",
+      "locality": "Malé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "address": "Dhigga Magu, Hulhumalé",
+      "id": "maldives-26aee3bb5c8e0198dbc5"
+    },
+    {
+      "name": "Beehive Nalahiya Hotel",
+      "kind": "stay",
+      "locality": "Malé",
+      "lat": 4.174231,
+      "lon": 73.502842,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "address": "Shaheed Ali Hingun",
+      "url": "http://www.beehivehotels.com/",
+      "id": "maldives-2e94bd1f9bbe0f67baf6"
+    },
+    {
+      "name": "Candies",
+      "kind": "stay",
+      "locality": "Malé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "address": "Dheefuram Goalhi, Henveiru",
+      "url": "https://candies.themaldiveshotels.com/en/",
+      "id": "maldives-a2eaf23fa33c151110f9"
+    },
+    {
+      "name": "Central Hotel",
+      "kind": "stay",
+      "locality": "Malé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "address": "G. Sanoaraage, Rahdhebai Magu",
+      "url": "http://www.centralmaldives.com/",
+      "id": "maldives-ff6461869693c3e48054"
+    },
+    {
+      "name": "Kam Hotel",
+      "kind": "stay",
+      "locality": "Malé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "address": "Roanuge, Meheli Goalhi",
+      "url": "http://www.kaimoo.com/",
+      "id": "maldives-e2a3088c68e81938f1f5"
+    },
+    {
+      "name": "Mookai Hotel",
+      "kind": "stay",
+      "locality": "Malé",
+      "lat": 4.177164,
+      "lon": 73.517063,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "address": "Kaimoo THS, H. Maagala, Meheli Goalhi",
+      "url": "http://www.mookai.com.mv/",
+      "id": "maldives-89f77f9955fb3439a846"
+    },
+    {
+      "name": "Barceló Nasandhura",
+      "kind": "stay",
+      "locality": "Malé",
+      "lat": 4.177694,
+      "lon": 73.516548,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "url": "https://www.facebook.com/barcelonasandhuramale/",
+      "id": "maldives-2a2dfd38ceefe9aa0b54"
+    },
+    {
+      "name": "Baros Maldives",
+      "kind": "stay",
+      "locality": "Malé",
+      "lat": 5.2669,
+      "lon": 73.1287,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "address": "North Male Atoll",
+      "url": "https://www.baros.com/",
+      "id": "maldives-1d368bcf3eab10d70ba3"
+    },
+    {
+      "name": "Hulhulé Island Hotel",
+      "kind": "stay",
+      "locality": "Malé",
+      "lat": 4.194762,
+      "lon": 73.526137,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "address": "Airport Main Rd",
+      "price": "US$250",
+      "url": "http://www.hih.com.mv/",
+      "id": "maldives-09c08a3786cf302172dc"
+    },
+    {
+      "name": "Baglioni Maldives Resort",
+      "kind": "stay",
+      "locality": "Malé",
+      "lat": 2.9469,
+      "lon": 72.9146,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "address": "Maagau Island, Rinbudhoo",
+      "url": "https://maldives.baglionihotels.com/",
+      "id": "maldives-d33804e316a781d83781"
+    },
+    {
+      "name": "Malé",
+      "kind": "area",
+      "locality": "Malé",
+      "lat": 4.1666667,
+      "lon": 73.5,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mal%C3%A9",
+      "id": "maldives-026bf73a61eb93f0d5f3"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

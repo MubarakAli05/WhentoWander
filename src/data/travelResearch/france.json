@@ -1,0 +1,3054 @@
+{
+  "sources": [
+    {
+      "title": "France",
+      "url": "https://en.wikivoyage.org/wiki/France",
+      "checkedAt": "2026-10-21T08:00:54.683Z"
+    },
+    {
+      "title": "Paris",
+      "url": "https://en.wikivoyage.org/wiki/Paris",
+      "checkedAt": "2026-10-21T08:00:57.799Z"
+    },
+    {
+      "title": "Paris/1st arrondissement",
+      "url": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "checkedAt": "2026-10-21T08:01:00.421Z"
+    },
+    {
+      "title": "Paris/2nd arrondissement",
+      "url": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "checkedAt": "2026-10-21T08:01:03.369Z"
+    },
+    {
+      "title": "Paris/3rd arrondissement",
+      "url": "https://en.wikivoyage.org/wiki/Paris%2F3rd_arrondissement",
+      "checkedAt": "2026-10-21T08:01:06.407Z"
+    },
+    {
+      "title": "Paris/4th arrondissement",
+      "url": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "checkedAt": "2026-10-21T08:01:09.218Z"
+    },
+    {
+      "title": "Paris/5th arrondissement",
+      "url": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "checkedAt": "2026-10-21T08:01:12.223Z"
+    },
+    {
+      "title": "Paris/6th arrondissement",
+      "url": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "checkedAt": "2026-10-21T08:01:15.212Z"
+    },
+    {
+      "title": "Provence-Alpes-Côte d'Azur",
+      "url": "https://en.wikivoyage.org/wiki/Provence-Alpes-C%C3%B4te_d'Azur",
+      "checkedAt": "2026-10-21T08:01:21.209Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Paris",
+      "kind": "area",
+      "locality": "France",
+      "lat": 48.8567,
+      "lon": 2.3508,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/France",
+      "id": "france-3ed71d256444c40adcee"
+    },
+    {
+      "name": "Bordeaux",
+      "kind": "area",
+      "locality": "France",
+      "lat": 44.84,
+      "lon": -0.58,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/France",
+      "id": "france-1684ffb3a5cc9ef97b4d"
+    },
+    {
+      "name": "Lille",
+      "kind": "area",
+      "locality": "France",
+      "lat": 50.6278,
+      "lon": 3.0583,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/France",
+      "id": "france-b1c539b714dc101b1fe5"
+    },
+    {
+      "name": "Lyon",
+      "kind": "area",
+      "locality": "France",
+      "lat": 45.76,
+      "lon": 4.84,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/France",
+      "id": "france-5f57a6eb7c61d3c1e6ea"
+    },
+    {
+      "name": "Marseille",
+      "kind": "area",
+      "locality": "France",
+      "lat": 43.2964,
+      "lon": 5.37,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/France",
+      "id": "france-2b7f58f6c006238538af"
+    },
+    {
+      "name": "Nantes",
+      "kind": "area",
+      "locality": "France",
+      "lat": 47.2181,
+      "lon": -1.5528,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/France",
+      "id": "france-9789a8751fb75f05d2f6"
+    },
+    {
+      "name": "Nice",
+      "kind": "area",
+      "locality": "France",
+      "lat": 43.7034,
+      "lon": 7.2663,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/France",
+      "id": "france-5c5b954e7889d214febb"
+    },
+    {
+      "name": "Strasbourg",
+      "kind": "area",
+      "locality": "France",
+      "lat": 48.58,
+      "lon": 7.75,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/France",
+      "id": "france-af7c6baf8d7831ce80cf"
+    },
+    {
+      "name": "Toulouse",
+      "kind": "area",
+      "locality": "France",
+      "lat": 43.6045,
+      "lon": 1.444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/France",
+      "id": "france-549edf13593c6c174c6e"
+    },
+    {
+      "name": "Paris By Scooter",
+      "kind": "do",
+      "locality": "Paris",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "address": "(Scooter always delivered to your hotel)",
+      "price": "From €60",
+      "url": "http://parisbyscooter.com/",
+      "id": "france-2bb7f387bcdc4426a1d2"
+    },
+    {
+      "name": "Eiffel Tower",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.858,
+      "lon": 2.2953,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-8b3b68c8f78f17aec3c0"
+    },
+    {
+      "name": "Arc de Triomphe de l'Étoile",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.8738,
+      "lon": 2.295,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-4d2392a34a0b8b43a063"
+    },
+    {
+      "name": "Champs-Élysées",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.86967,
+      "lon": 2.30786,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-609b110cd2fd307e83af"
+    },
+    {
+      "name": "Notre Dame Cathedral",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.853,
+      "lon": 2.3498,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-e34d93d9817e339801f3"
+    },
+    {
+      "name": "Sacré Coeur",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.886694,
+      "lon": 2.343,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-bc9912e160b5f57e197f"
+    },
+    {
+      "name": "Opera Garnier",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.871944,
+      "lon": 2.331667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-e3da82689d9d08497cd8"
+    },
+    {
+      "name": "Catacombes de Paris",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.83397,
+      "lon": 2.33245,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-5935438e1dc46136a3fc"
+    },
+    {
+      "name": "Grande Arche de la Défense",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.892778,
+      "lon": 2.235833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-3557c387050156059577"
+    },
+    {
+      "name": "Panthéon",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.846111,
+      "lon": 2.345833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "url": "https://pantheon.monuments-nationaux.fr/fr/",
+      "id": "france-9b6450b4b82ecd37e6b1"
+    },
+    {
+      "name": "Père-Lachaise Cemetery",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.861944,
+      "lon": 2.394167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-8e89e279dad5f4e6f7df"
+    },
+    {
+      "name": "Sainte-Chapelle",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.855369,
+      "lon": 2.345028,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-86f5ddcbaa8947280639"
+    },
+    {
+      "name": "The Louvre",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.861089,
+      "lon": 2.33575,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-5d110d34b9973f7c0a95"
+    },
+    {
+      "name": "Musée d'Orsay",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.86,
+      "lon": 2.326389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-fc4e738b11ba5b1e42c5"
+    },
+    {
+      "name": "Rodin Museum",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.855356,
+      "lon": 2.315819,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-1ca7124c69409c4f4893"
+    },
+    {
+      "name": "Picasso Museum",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.859731,
+      "lon": 2.362439,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-b41d9243ef6fd5f991c8"
+    },
+    {
+      "name": "Musée Marmottan-Monet",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.859361,
+      "lon": 2.2675,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-933f8d0e52d57571a09f"
+    },
+    {
+      "name": "Musée de l'Orangerie",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.863833,
+      "lon": 2.32225,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-21cd19fedd747277da73"
+    },
+    {
+      "name": "Musée Delacroix",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.8546,
+      "lon": 2.3354,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-5c8b0932a920c0019346"
+    },
+    {
+      "name": "Centre Georges Pompidou",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.860653,
+      "lon": 2.352411,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-5a0d396f52d9914ae1ad"
+    },
+    {
+      "name": "Les Invalides",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.855,
+      "lon": 2.3125,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-1c18f3484611b6c1c3c3"
+    },
+    {
+      "name": "Musée national du Moyen Âge",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.850556,
+      "lon": 2.343333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-becd497de12da5b3aaf2"
+    },
+    {
+      "name": "Musée des Arts Décoratifs",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.862783,
+      "lon": 2.334108,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-2478da320d58a5c691e1"
+    },
+    {
+      "name": "Carnavalet",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.8575,
+      "lon": 2.362222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-2b753c3cffb8eecc42eb"
+    },
+    {
+      "name": "Cité des sciences et de l’industrie - La Villette",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.895556,
+      "lon": 2.388056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-554c8cbfafc3cfd78fd9"
+    },
+    {
+      "name": "Mémorial de la Shoah",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.854846,
+      "lon": 2.356196,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-27334cfc7246ff7603ff"
+    },
+    {
+      "name": "Jacquemart-Andre Museum",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.87543,
+      "lon": 2.31055,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-a7b915cae471ae44dc44"
+    },
+    {
+      "name": "Guimet Museum",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.86527777777778,
+      "lon": 2.2938888888888886,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-2d59a9967f531ece70f2"
+    },
+    {
+      "name": "French Open",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.84716,
+      "lon": 2.24924,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-95484d99d163aa59848a"
+    },
+    {
+      "name": "Paris Saint-Germain",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.8414,
+      "lon": 2.253,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-7ed517e73d3c107e515e"
+    },
+    {
+      "name": "Stade de France",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.924438,
+      "lon": 2.360104,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-bc6328b52e28cdcd2fc8"
+    },
+    {
+      "name": "Maison Européene de la Photographie",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.8551395,
+      "lon": 2.3567364,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "address": "5/7 Rue de Fourcy",
+      "price": "Admission €9",
+      "url": "https://www.mep-fr.org/english/",
+      "id": "france-8c04ce2610f7f50d8606"
+    },
+    {
+      "name": "Better Paris Photos",
+      "kind": "do",
+      "locality": "Paris",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "address": "32 Avenue de Suffren",
+      "price": "From €195/half day; €290/full day",
+      "url": "http://www.betterparisphotos.com/tours",
+      "id": "france-fd35f0d27d7cd3f46614"
+    },
+    {
+      "name": "Paris Opera",
+      "kind": "do",
+      "locality": "Paris",
+      "lat": 48.871944,
+      "lon": 2.331667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-6dc612cc859507fe100b"
+    },
+    {
+      "name": "Le Foodist",
+      "kind": "do",
+      "locality": "Paris",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "address": "59 Rue du Cardinal Lemoine, Paris 75004",
+      "price": "Prices range from €35 for a Wine Tasting Initiation to €180 for a Market class",
+      "url": "http://www.lefoodist.com/",
+      "id": "france-f34bdfdc24afddbd1a86"
+    },
+    {
+      "name": "Le Cordon Bleu Paris",
+      "kind": "do",
+      "locality": "Paris",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "address": "8 Rue Léon Delhomme, Paris 75015",
+      "url": "https://www.cordonbleu.edu/paris/home/en",
+      "id": "france-ba8a9f79a7ebc2b36fc6"
+    },
+    {
+      "name": "La Cuisine Paris",
+      "kind": "do",
+      "locality": "Paris",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "address": "80 Quai de L'Hôtel de Ville, Paris 75004",
+      "price": "Prices range from €69 for a two-hour Macaron class to €160 for a 4 hour Market class",
+      "url": "http://lacuisineparis.com/",
+      "id": "france-3f85b4e382e2b4e23d25"
+    },
+    {
+      "name": "Paris",
+      "kind": "area",
+      "locality": "Paris",
+      "lat": 48.856,
+      "lon": 2.351,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris",
+      "id": "france-a99f1ad7b0f6fc497624"
+    },
+    {
+      "name": "Colonne Vendôme",
+      "kind": "do",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.867469,
+      "lon": 2.329414,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "id": "france-bd4edf1fae4637c98b3f"
+    },
+    {
+      "name": "La Conciergerie",
+      "kind": "do",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.856389,
+      "lon": 2.345556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "price": "Booking Required.€6.10, concessions and guided tours available, under-18 free, Passion Monuments pass accepted",
+      "url": "http://conciergerie.monuments-nationaux.fr/en/",
+      "id": "france-4863d0d5eac7a9c9174f"
+    },
+    {
+      "name": "Église Saint-Eustache",
+      "kind": "do",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.863333,
+      "lon": 2.345,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "url": "http://www.saint-eustache.org/",
+      "id": "france-8fbc7eef93e51d95e27a"
+    },
+    {
+      "name": "Jardin des Tuileries",
+      "kind": "do",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.863889,
+      "lon": 2.326111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "id": "france-e29fcd2480085fcd9138"
+    },
+    {
+      "name": "Le Palais Royal",
+      "kind": "do",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.863333,
+      "lon": 2.336944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "url": "http://palais-royal.monuments-nationaux.fr/",
+      "id": "france-e0ddfeec420de53d8013"
+    },
+    {
+      "name": "Saint-Germain l'Auxerrois",
+      "kind": "do",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.859444,
+      "lon": 2.341111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "2 place du Louvre",
+      "url": "http://www.saintgermainauxerrois.cef.fr/",
+      "id": "france-c4b1fc8b2e47fd5cd102"
+    },
+    {
+      "name": "Sainte-Chapelle",
+      "kind": "do",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.855369,
+      "lon": 2.345028,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "4 blvd du Palais",
+      "price": "Adult €22, U18 free, Passion Monuments pass",
+      "url": "https://www.sainte-chapelle.fr/en/",
+      "id": "france-2bae8d9a11ab278d37fc"
+    },
+    {
+      "name": "La Samaritaine",
+      "kind": "do",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.858889,
+      "lon": 2.342083,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "19, rue de la Monnaie",
+      "url": "http://www.lasamaritaine.com/",
+      "id": "france-4e116d561bc92751f0e3"
+    },
+    {
+      "name": "Musée du Louvre",
+      "kind": "do",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.861089,
+      "lon": 2.33575,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "Place du Carrousel",
+      "url": "http://www.louvre.fr/",
+      "id": "france-a914b7d17ec62a078d72"
+    },
+    {
+      "name": "L'Orangerie",
+      "kind": "do",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.863833,
+      "lon": 2.32225,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "price": "Adults, €7.50; concessions, €5; special exhibitions, + €1.20; audio guides available in several languages €4.50/€3",
+      "url": "http://www.musee-orangerie.fr/",
+      "id": "france-bf986d3762f02020e6e7"
+    },
+    {
+      "name": "Jeu de Paume",
+      "kind": "do",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.865833,
+      "lon": 2.323889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "url": "http://www.jeudepaume.org/",
+      "id": "france-8af6ba8d0f7c51cbf7b4"
+    },
+    {
+      "name": "Musée des Arts décoratifs",
+      "kind": "do",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.862783,
+      "lon": 2.334108,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "107, rue de Rivoli",
+      "url": "http://www.lesartsdecoratifs.fr/",
+      "id": "france-ff627013b16f20ab4487"
+    },
+    {
+      "name": "Musée en Herbe",
+      "kind": "do",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.865069,
+      "lon": 2.341858,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "21, rue Hérold",
+      "price": "€4 for the exhibitions, €8 for the workshops",
+      "url": "http://www.musee-en-herbe.com/",
+      "id": "france-b62f0164e11ae26ae830"
+    },
+    {
+      "name": "Bourse de commerce - Pinault Collection",
+      "kind": "do",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.862731,
+      "lon": 2.342778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "2 rue de Viarmes",
+      "price": "€14 full price, €10 reductions, free first Saturday of month after 17:00",
+      "url": "https://www.pinaultcollection.com/en/boursedecommerce",
+      "id": "france-dd52d8058bcfcbc1b083"
+    },
+    {
+      "name": "Cartier Foundation for contempory art",
+      "kind": "do",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.862399,
+      "lon": 2.33734,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "2, place du Palais-Royal",
+      "price": "Full €15, Reduced €10,",
+      "url": "https://www.fondationcartier.com/en",
+      "id": "france-186b8328d3ab2480c20f"
+    },
+    {
+      "name": "Comédie Francaise",
+      "kind": "do",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.863611,
+      "lon": 2.335833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "1 Place Colette",
+      "url": "http://www.comedie-francaise.fr/",
+      "id": "france-e6311b99cd962f4d4bd0"
+    },
+    {
+      "name": "Ô Chateau, Paris Wine Tasting",
+      "kind": "do",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.864276,
+      "lon": 2.344179,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "url": "http://www.o-chateau.com/",
+      "id": "france-bf3c0ff02884638a586d"
+    },
+    {
+      "name": "L'Express Bar",
+      "kind": "eat",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.8611442,
+      "lon": 2.3439084,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "23 Rue du Roule",
+      "id": "france-db568f0cc26a07e5a45b"
+    },
+    {
+      "name": "Pizza Nelly.",
+      "kind": "eat",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.868661,
+      "lon": 2.3254118,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "19 Rue Duphot",
+      "id": "france-88dd8c5db9f6a9a661b4"
+    },
+    {
+      "name": "Lemoni Café",
+      "kind": "eat",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.864854,
+      "lon": 2.341131,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "5, rue Hérold",
+      "url": "https://lemonicafe.fr/category/les-halles-le-louvre/",
+      "id": "france-812856a3e47580568645"
+    },
+    {
+      "name": "Chez Denise",
+      "kind": "eat",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.861521,
+      "lon": 2.344001,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "5, rue Prouvaires",
+      "price": "Starters from €10-12, main courses €18-25, plus wine",
+      "id": "france-34a76b06bb8e062347ac"
+    },
+    {
+      "name": "À la Cloche des Halles",
+      "kind": "eat",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.8642,
+      "lon": 2.341798,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "28 Rue Coquillière",
+      "id": "france-50005c2b3d295ec8affd"
+    },
+    {
+      "name": "La Robe et le Palais",
+      "kind": "eat",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.858616,
+      "lon": 2.345878,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "13, rue des Lavandieres Sainte Opportune",
+      "url": "http://larobeetlepalais.fr/en",
+      "id": "france-d16699a05b1bdf350248"
+    },
+    {
+      "name": "Beef Club & Co",
+      "kind": "eat",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.86356,
+      "lon": 2.3436,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "8 Rue Coquillière",
+      "price": "25€",
+      "url": "https://beefclubandco.com/",
+      "id": "france-7c1ab38ef4489b04d39a"
+    },
+    {
+      "name": "Café Marly",
+      "kind": "eat",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.862786,
+      "lon": 2.336198,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "93, rue de Rivoli / cour Napoléon du Louvre",
+      "url": "http://cafe-marly.com/en/",
+      "id": "france-fc41b9f432e40f758ac3"
+    },
+    {
+      "name": "Macéo",
+      "kind": "eat",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.866412,
+      "lon": 2.338124,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "15, rue des Petits Champs",
+      "price": "Starters €13-18 and main courses are €25-28. Vegetarian menu around €30.",
+      "url": "http://maceorestaurant.com/",
+      "id": "france-30e610d4d88d5cb7b25b"
+    },
+    {
+      "name": "Mystery Cuisine",
+      "kind": "eat",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.865839,
+      "lon": 2.337201,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "37, rue de Montpensier",
+      "id": "france-e76e71b6dca2a03d419b"
+    },
+    {
+      "name": "Bar Hemingway",
+      "kind": "eat",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.869013,
+      "lon": 2.3276673,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "15 Place Vendôme",
+      "price": "Expect to pay €30 or more per drink",
+      "id": "france-fac343a0065ebf8bf24b"
+    },
+    {
+      "name": "Café Oz",
+      "kind": "eat",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.859391,
+      "lon": 2.347944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "18, rue Saint Denis",
+      "url": "http://cafe-oz.com/",
+      "id": "france-503ec87af72ce6b38b02"
+    },
+    {
+      "name": "Juvénile's",
+      "kind": "eat",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.866267,
+      "lon": 2.33707,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "47, rue Richelieu",
+      "id": "france-e04bf4c17d1c49fdb5db"
+    },
+    {
+      "name": "Willi's Wine Bar",
+      "kind": "eat",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.86637,
+      "lon": 2.338384,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "13, rue des Petits Champs",
+      "price": "€20.50-35",
+      "url": "http://www.williswinebar.com/",
+      "id": "france-499720342c5f35b36551"
+    },
+    {
+      "name": "Centre International BVJ Paris-Louvre",
+      "kind": "stay",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.8625381,
+      "lon": 2.3410622,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "20, rue Jean-Jacques Rousseau",
+      "price": "€26+",
+      "url": "http://www.bvjhostelparis.com/en/auberge/bvj-louvre-en/",
+      "id": "france-baae5baa5b8758db48a7"
+    },
+    {
+      "name": "Hotel Karraz",
+      "kind": "stay",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.86365,
+      "lon": 2.34854,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "12, rue Mondétour",
+      "url": "https://www.agoda.com/hotel-karraz/hotel/paris-fr.html",
+      "id": "france-99b52714020b6ceaeb1e"
+    },
+    {
+      "name": "Hôtel Montpensier",
+      "kind": "stay",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.8643457,
+      "lon": 2.3363679,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "12, rue de Richelieu",
+      "url": "http://www.hotelmontpensierparis.com/An/accueilan.htm",
+      "id": "france-fc0594122e2f9e8cd717"
+    },
+    {
+      "name": "Hôtel Saint-Honoré",
+      "kind": "stay",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.8611083,
+      "lon": 2.3433014,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "85, rue Saint-Honoré",
+      "url": "http://hotelsthonore.com/",
+      "id": "france-7a23ec279bf579aeecc0"
+    },
+    {
+      "name": "Hôtel Brighton",
+      "kind": "stay",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.86483,
+      "lon": 2.32905,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "218, rue de Rivoli",
+      "price": "Double from €229",
+      "url": "http://www.paris-hotel-brighton.com/",
+      "id": "france-a3417dd6373e731f8a3d"
+    },
+    {
+      "name": "Hôtel Britannique",
+      "kind": "stay",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.8583295,
+      "lon": 2.3461341,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "20, av Victoria",
+      "price": "Double from €157",
+      "url": "http://www.hotel-britannique.fr/",
+      "id": "france-b35df770d6f8291279f2"
+    },
+    {
+      "name": "Hôtel Louvre Bon Enfants",
+      "kind": "stay",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.8627944,
+      "lon": 2.338108,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "5, rue des Bons-Enfants",
+      "price": "Single rooms start at €90, doubles around €110",
+      "url": "http://www.hotellouvrebonsenfants.com/",
+      "id": "france-13fd005923c8a517d0f7"
+    },
+    {
+      "name": "Hôtel Mansart",
+      "kind": "stay",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.86851,
+      "lon": 2.32984,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "5, rue des Capucines",
+      "url": "http://www.paris-hotel-mansart.com/",
+      "id": "france-133bc81e170e38268a9f"
+    },
+    {
+      "name": "Hôtel de la Place du Louvre",
+      "kind": "stay",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.85927,
+      "lon": 2.34091,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "21, rue des Prêtres Saint Germain l'Auxerrois",
+      "url": "http://www.paris-hotel-place-du-louvre.com/",
+      "id": "france-8fbf03477b1fef2667c6"
+    },
+    {
+      "name": "Hôtel Victoria Châtelet",
+      "kind": "stay",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.8580327,
+      "lon": 2.3460262,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "17 Avenue Victoria",
+      "price": "Basic rooms start at €89 and doubles at €90",
+      "url": "http://www.hovicha.com/",
+      "id": "france-96256a9f3e9a62e751bd"
+    },
+    {
+      "name": "Milestay Paris Les Halles",
+      "kind": "stay",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.8592458,
+      "lon": 2.3452132,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "4 rue des Halles",
+      "price": "From €140",
+      "url": "https://www.milestay.com/en",
+      "id": "france-91959304c7e1caad68d6"
+    },
+    {
+      "name": "Novotel Paris Les Halles",
+      "kind": "stay",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.86091,
+      "lon": 2.34638,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "8 Place Marguerite de Navarre",
+      "url": "https://all.accor.com/hotel/0785/index.en.shtml",
+      "id": "france-b47cf91388a1c4871de3"
+    },
+    {
+      "name": "Castille Paris",
+      "kind": "stay",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.86827,
+      "lon": 2.32681,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "33-37 rue Cambon",
+      "price": "€350-820",
+      "url": "http://www.castille.com/",
+      "id": "france-fb1d813a1f4c8772122b"
+    },
+    {
+      "name": "Hôtel Costes",
+      "kind": "stay",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.86674,
+      "lon": 2.32802,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "239, rue Saint-Honoré",
+      "price": "A basic room starts at €500 off-season",
+      "url": "http://www.hotelcostes.com/",
+      "id": "france-17ac68a304e55d35dec9"
+    },
+    {
+      "name": "Hôtel Ritz",
+      "kind": "stay",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.86797,
+      "lon": 2.32889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "15 Place Vendôme",
+      "price": "€650-8,500",
+      "url": "http://www.ritzparis.com/",
+      "id": "france-49da43b41126f95f2920"
+    },
+    {
+      "name": "Hôtel de Vendôme",
+      "kind": "stay",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.8670031,
+      "lon": 2.328706,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "1, Place Vendôme",
+      "price": "Singles start at €350; suites can be as much as €4,000",
+      "url": "http://www.hoteldevendome.com/",
+      "id": "france-799082d4814a9d749ba6"
+    },
+    {
+      "name": "Hôtel Du Louvre, a Hyatt Hotel",
+      "kind": "stay",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.86299,
+      "lon": 2.33565,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "Place André Malraux",
+      "url": "https://www.hyatt.com/en-US/hotel/france/hotel-du-louvre/paraz",
+      "id": "france-b984c569fbff28ae7079"
+    },
+    {
+      "name": "Le Meurice",
+      "kind": "stay",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.865167,
+      "lon": 2.327972,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "228, Rue De Rivoli",
+      "url": "https://www.dorchestercollection.com/en/paris/le-meurice",
+      "id": "france-6e93d746e2730a425a53"
+    },
+    {
+      "name": "Renaissance Paris Vendôme Hotel",
+      "kind": "stay",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.86547,
+      "lon": 2.32969,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "4 Rue Du Mont Thabor",
+      "url": "https://www.marriott.com/hotels/travel/parvd-renaissance-paris-vendome-hotel/",
+      "id": "france-6d72a63ec400dad3ef34"
+    },
+    {
+      "name": "The Westin Paris Vendôme",
+      "kind": "stay",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.86573,
+      "lon": 2.32747,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "address": "3 rue de Castiglione",
+      "url": "http://www.thewestinparis.com/",
+      "id": "france-6d4bbf885c5f2431cbbc"
+    },
+    {
+      "name": "Paris/1st arrondissement",
+      "kind": "area",
+      "locality": "Paris/1st arrondissement",
+      "lat": 48.8627,
+      "lon": 2.3361,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F1st_arrondissement",
+      "id": "france-b96d9c90dc7bda4ae63c"
+    },
+    {
+      "name": "la Bibliothèque Nationale de France",
+      "kind": "do",
+      "locality": "Paris/2nd arrondissement",
+      "lat": 48.8666,
+      "lon": 2.3382,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "58 rue Richelieu",
+      "price": "Library, free; exhibitions, €5-10",
+      "url": "http://bibliotheque.inha.fr/",
+      "id": "france-2ca7ffad4f8aae87f611"
+    },
+    {
+      "name": "Notre Dame des Victoires",
+      "kind": "do",
+      "locality": "Paris/2nd arrondissement",
+      "lat": 48.866667,
+      "lon": 2.340833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "url": "http://www.notredamedesvictoires.com/",
+      "id": "france-b803085e5ecaa22adfc6"
+    },
+    {
+      "name": "Place des Victoires",
+      "kind": "do",
+      "locality": "Paris/2nd arrondissement",
+      "lat": 48.865833,
+      "lon": 2.341111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "id": "france-a97b136e3e061ef34b20"
+    },
+    {
+      "name": "La Tour Jean-sans-Peur",
+      "kind": "do",
+      "locality": "Paris/2nd arrondissement",
+      "lat": 48.8643,
+      "lon": 2.34806,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "20, rue Étienne-Marcel",
+      "price": "€5; students €3; guided tour, €8",
+      "id": "france-46d8698ef284d3fc1a41"
+    },
+    {
+      "name": "Théâtre national de l'Opéra-Comique",
+      "kind": "do",
+      "locality": "Paris/2nd arrondissement",
+      "lat": 48.870861,
+      "lon": 2.337511,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "5, rue Favart",
+      "url": "http://www.opera-comique.com/",
+      "id": "france-c16691c0b44e52e60e16"
+    },
+    {
+      "name": "Blend Hamburger",
+      "kind": "eat",
+      "locality": "Paris/2nd arrondissement",
+      "lat": 48.865881,
+      "lon": 2.343623,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "44, rue d'Argout",
+      "price": "€15 lunch menu, €10 burger",
+      "url": "http://blendhamburger.com/",
+      "id": "france-dead405599501ccd8c71"
+    },
+    {
+      "name": "Filakia, Petit Café d'Athènes",
+      "kind": "eat",
+      "locality": "Paris/2nd arrondissement",
+      "lat": 48.8656971,
+      "lon": 2.3455187,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "9 Rue Mandar",
+      "id": "france-3ae5f0ac5be9788ac211"
+    },
+    {
+      "name": "Grillé",
+      "kind": "eat",
+      "locality": "Paris/2nd arrondissement",
+      "lat": 48.868854,
+      "lon": 2.336547,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "15, rue Saint-Augustin",
+      "price": "€8 kebab, €10 formule",
+      "id": "france-9abf5d410f14f3a117cc"
+    },
+    {
+      "name": "Hokkaido",
+      "kind": "eat",
+      "locality": "Paris/2nd arrondissement",
+      "lat": 48.8676953,
+      "lon": 2.3370972,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "14 Rue Chabanais",
+      "id": "france-1e510ada23c94024ab8e"
+    },
+    {
+      "name": "Le Bougainville",
+      "kind": "eat",
+      "locality": "Paris/2nd arrondissement",
+      "lat": 48.866432,
+      "lon": 2.339999,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "5, rue de la Banque",
+      "price": "Sandwiches, €3; plates €12-15",
+      "id": "france-b0ac6ec9cf2b489e4680"
+    },
+    {
+      "name": "Little Seoul Restaurant",
+      "kind": "eat",
+      "locality": "Paris/2nd arrondissement",
+      "lat": 48.8675738,
+      "lon": 2.335221,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "19 Pass. Choiseul",
+      "id": "france-124be8bf2f34dc938e22"
+    },
+    {
+      "name": "Lou pasta",
+      "kind": "eat",
+      "locality": "Paris/2nd arrondissement",
+      "lat": 48.868053,
+      "lon": 2.3354571,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "49 Pass. Choiseul",
+      "id": "france-b1ed23be5625ae2e8f2c"
+    },
+    {
+      "name": "Rani Mahal",
+      "kind": "eat",
+      "locality": "Paris/2nd arrondissement",
+      "lat": 48.86884,
+      "lon": 2.337311,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "9, rue Saint-Augustin",
+      "id": "france-e2c7699db1693dbcb302"
+    },
+    {
+      "name": "Yi Ping",
+      "kind": "eat",
+      "locality": "Paris/2nd arrondissement",
+      "lat": 48.8672394,
+      "lon": 2.3360341,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "42 Rue Sainte-Anne",
+      "id": "france-e97ecd01e8af5b75cd57"
+    },
+    {
+      "name": "Café Etienne Marcel",
+      "kind": "eat",
+      "locality": "Paris/2nd arrondissement",
+      "lat": 48.864849,
+      "lon": 2.345446,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "34, rue Etienne Marcel",
+      "price": "€15-20",
+      "id": "france-f1373029f1a6ae81e889"
+    },
+    {
+      "name": "Le Tambour",
+      "kind": "eat",
+      "locality": "Paris/2nd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "41, rue Montmartre",
+      "id": "france-b4b7334ca122a567f9a7"
+    },
+    {
+      "name": "Drouant",
+      "kind": "eat",
+      "locality": "Paris/2nd arrondissement",
+      "lat": 48.868706,
+      "lon": 2.334348,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "16-18, place Gaillon",
+      "url": "http://www.drouant.com/",
+      "id": "france-dd1d7c6e2aa5055e1815"
+    },
+    {
+      "name": "Café Noir",
+      "kind": "eat",
+      "locality": "Paris/2nd arrondissement",
+      "lat": 48.866347,
+      "lon": 2.344344,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "65, rue Montmartre",
+      "id": "france-3be440c666d70b1e06b0"
+    },
+    {
+      "name": "La Cantine",
+      "kind": "eat",
+      "locality": "Paris/2nd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "151, rue Montmartre",
+      "url": "http://lacantine.org/",
+      "id": "france-3b23d6375cd415a113db"
+    },
+    {
+      "name": "The Frog & Rosbif",
+      "kind": "eat",
+      "locality": "Paris/2nd arrondissement",
+      "lat": 48.86439,
+      "lon": 2.350256,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "116, rue St Denis",
+      "url": "http://www.frogpubs.com/",
+      "id": "france-a2bb25fd39f102e33fbc"
+    },
+    {
+      "name": "Harry's New York Bar",
+      "kind": "eat",
+      "locality": "Paris/2nd arrondissement",
+      "lat": 48.869219,
+      "lon": 2.332218,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "5, rue Daunou",
+      "id": "france-10017baf0d0f0ce8602d"
+    },
+    {
+      "name": "Hôtel des Boulevards",
+      "kind": "stay",
+      "locality": "Paris/2nd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "10, rue de la Ville-Neuve",
+      "price": "Doubles with sink, €40; with a shower, €55",
+      "url": "http://www.hoteldesboulevards.com/",
+      "id": "france-94a04064d76cd8edd4a1"
+    },
+    {
+      "name": "Hôtel Sainte-Marie",
+      "kind": "stay",
+      "locality": "Paris/2nd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "6, rue de la Ville-Neuve",
+      "price": "Doubles with a sink, €40-54; with a shower and toilet, €60-70",
+      "url": "http://hotelsaintemarie.com/",
+      "id": "france-9aa9451dde777cf91a81"
+    },
+    {
+      "name": "Hôtel Ascot Opéra",
+      "kind": "stay",
+      "locality": "Paris/2nd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "2, rue Monsigny",
+      "url": "http://www.ascotparishotel.com/",
+      "id": "france-8cbb1130fdfc27e27387"
+    },
+    {
+      "name": "Hôtel Bonne Nouvelle",
+      "kind": "stay",
+      "locality": "Paris/2nd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "17, rue Beauregard",
+      "price": "Doubles, €60-70",
+      "url": "http://hotel-bonne-nouvelle.com/",
+      "id": "france-acae9aa2f9c27648a44c"
+    },
+    {
+      "name": "Hôtel Lautrec Opéra",
+      "kind": "stay",
+      "locality": "Paris/2nd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "8-10 rue d'Amboise",
+      "price": "€95+",
+      "url": "http://paris-hotel-lautrec.com/",
+      "id": "france-d579e7289eca72da1e65"
+    },
+    {
+      "name": "Hôtel Paris France",
+      "kind": "stay",
+      "locality": "Paris/2nd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "21, rue du louvre",
+      "url": "http://www.hotelparisfrance.info/",
+      "id": "france-dbc3ca27c793e7c66037"
+    },
+    {
+      "name": "Hôtel Vivienne",
+      "kind": "stay",
+      "locality": "Paris/2nd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "40, rue Vivienne",
+      "id": "france-2ef08da8d8c9aac20ba6"
+    },
+    {
+      "name": "Tiquetonne Hôtel",
+      "kind": "stay",
+      "locality": "Paris/2nd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "6, rue Tiquetonne",
+      "price": "Doubles with a sink, €40",
+      "id": "france-cf540bc12ed3924b8b62"
+    },
+    {
+      "name": "Tryp Hôtel Paris François",
+      "kind": "stay",
+      "locality": "Paris/2nd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "3, boul Montmartre",
+      "id": "france-97e5fb9e7f181401001e"
+    },
+    {
+      "name": "Hôtel Etats-Unis Opéra",
+      "kind": "stay",
+      "locality": "Paris/2nd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "16, rue d'Antin",
+      "url": "http://www.hoteletatsunisopera.com/",
+      "id": "france-2f8af3aeaf6693a60536"
+    },
+    {
+      "name": "Hôtel Victoires Opera",
+      "kind": "stay",
+      "locality": "Paris/2nd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "56, rue de Montorgueil",
+      "url": "http://www.hotelvictoiresopera.com/",
+      "id": "france-59fb3f6840bc2dad87c7"
+    },
+    {
+      "name": "Park Hyatt Paris - Vendome",
+      "kind": "stay",
+      "locality": "Paris/2nd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "5, rue de la Paix",
+      "url": "http://paris.vendome.hyatt.com/",
+      "id": "france-eee02c314be59e87bbad"
+    },
+    {
+      "name": "Hotel Stendhal Place Vendôme Paris - MGallery Collection",
+      "kind": "stay",
+      "locality": "Paris/2nd arrondissement",
+      "lat": 48.8681,
+      "lon": 2.3313,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "address": "22 Rue Danielle Casanova",
+      "id": "france-b30eaf42fb93f339b237"
+    },
+    {
+      "name": "Paris/2nd arrondissement",
+      "kind": "area",
+      "locality": "Paris/2nd arrondissement",
+      "lat": 48.8678,
+      "lon": 2.3413,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F2nd_arrondissement",
+      "id": "france-45f36db93c2b4318adb4"
+    },
+    {
+      "name": "Les Archives Nationales",
+      "kind": "do",
+      "locality": "Paris/3rd arrondissement",
+      "lat": 48.86032,
+      "lon": 2.35857,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F3rd_arrondissement",
+      "url": "http://www.archivesnationales.culture.gouv.fr/",
+      "id": "france-1f83e639eca96491252e"
+    },
+    {
+      "name": "Musée d'Art et d'Histoire du Judaïsme",
+      "kind": "do",
+      "locality": "Paris/3rd arrondissement",
+      "lat": 48.861111,
+      "lon": 2.355278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F3rd_arrondissement",
+      "address": "71, rue du Temple",
+      "url": "http://www.mahj.org/en/index.php",
+      "id": "france-75ac3f3c6a197af608c2"
+    },
+    {
+      "name": "Musée Carnavalet",
+      "kind": "do",
+      "locality": "Paris/3rd arrondissement",
+      "lat": 48.8575,
+      "lon": 2.362222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F3rd_arrondissement",
+      "address": "23, rue Madame de Sévigné",
+      "url": "http://carnavalet.paris.fr/en",
+      "id": "france-e734f452cdefb845d245"
+    },
+    {
+      "name": "Musée Cognacq-Jay",
+      "kind": "do",
+      "locality": "Paris/3rd arrondissement",
+      "lat": 48.858194,
+      "lon": 2.361389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F3rd_arrondissement",
+      "address": "8 rue Elzévir",
+      "price": "€6-€8",
+      "url": "https://www.museecognacqjay.paris.fr/",
+      "id": "france-785a65c0a6bb6317a697"
+    },
+    {
+      "name": "Musée des Arts et Métiers",
+      "kind": "do",
+      "locality": "Paris/3rd arrondissement",
+      "lat": 48.866111,
+      "lon": 2.355278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F3rd_arrondissement",
+      "address": "60, rue Réaumur",
+      "price": "€9-€12",
+      "url": "http://www.arts-et-metiers.net/",
+      "id": "france-801cfb12c5899c2d386e"
+    },
+    {
+      "name": "Musée Picasso",
+      "kind": "do",
+      "locality": "Paris/3rd arrondissement",
+      "lat": 48.859731,
+      "lon": 2.362439,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F3rd_arrondissement",
+      "address": "5, rue de Thorigny",
+      "url": "https://www.museepicassoparis.fr/en/home-page",
+      "id": "france-f5b9954eb8ca602e7115"
+    },
+    {
+      "name": "Foundation Henri Cartier-Bresson",
+      "kind": "do",
+      "locality": "Paris/3rd arrondissement",
+      "lat": 48.51192,
+      "lon": 2.21323,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F3rd_arrondissement",
+      "address": "79 rue des Archives",
+      "price": "Admission €9, €5 reduced",
+      "url": "https://www.henricartierbresson.org/",
+      "id": "france-a28547cf3181e36c7c52"
+    },
+    {
+      "name": "Institut Tessin",
+      "kind": "do",
+      "locality": "Paris/3rd arrondissement",
+      "lat": 48.858056,
+      "lon": 2.362222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F3rd_arrondissement",
+      "address": "11 rue Payenne",
+      "url": "https://paris.si.se/",
+      "id": "france-e919c1296ae94bbf29c3"
+    },
+    {
+      "name": "Camille",
+      "kind": "eat",
+      "locality": "Paris/3rd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F3rd_arrondissement",
+      "address": "24, rue des Francs-Bourgeois",
+      "price": "€40",
+      "id": "france-f6ec0393d2040a348df4"
+    },
+    {
+      "name": "Chez Janou",
+      "kind": "eat",
+      "locality": "Paris/3rd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F3rd_arrondissement",
+      "address": "2, Rue Roger Verlhomme",
+      "price": "€18",
+      "id": "france-14bebb12b71e87086af0"
+    },
+    {
+      "name": "Page 35",
+      "kind": "eat",
+      "locality": "Paris/3rd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F3rd_arrondissement",
+      "address": "4, rue du Parc Royal",
+      "price": "€8",
+      "id": "france-62566709661ba7f0cb7b"
+    },
+    {
+      "name": "Le Petit Marché",
+      "kind": "eat",
+      "locality": "Paris/3rd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F3rd_arrondissement",
+      "address": "9, rue de Béarn",
+      "id": "france-377d0557a2cdf7218c85"
+    },
+    {
+      "name": "Le Potager du Marais",
+      "kind": "eat",
+      "locality": "Paris/3rd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F3rd_arrondissement",
+      "address": "22 rue Rambuteau",
+      "price": "Menus for around EUR 15",
+      "id": "france-eee5d034ec685e9d31fd"
+    },
+    {
+      "name": "Andy Wahloo",
+      "kind": "eat",
+      "locality": "Paris/3rd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F3rd_arrondissement",
+      "address": "69 rue des Gravilliers",
+      "id": "france-459dfbf2ad97d55153c0"
+    },
+    {
+      "name": "Les Arts et Métiers",
+      "kind": "eat",
+      "locality": "Paris/3rd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F3rd_arrondissement",
+      "address": "51 rue Turbigo",
+      "id": "france-8a99290da0bf0e84b7ed"
+    },
+    {
+      "name": "L'Attirail",
+      "kind": "eat",
+      "locality": "Paris/3rd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F3rd_arrondissement",
+      "address": "9, rue du Maire",
+      "id": "france-76162b739ab4e7562b23"
+    },
+    {
+      "name": "Café des Musées",
+      "kind": "eat",
+      "locality": "Paris/3rd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F3rd_arrondissement",
+      "address": "49, rue de Turenne",
+      "id": "france-5882d6083816a784ce6a"
+    },
+    {
+      "name": "Café Solo",
+      "kind": "eat",
+      "locality": "Paris/3rd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F3rd_arrondissement",
+      "address": "6, rue Dupuis",
+      "id": "france-3852a81a17de57a6c6cc"
+    },
+    {
+      "name": "Les Enfants Rouge",
+      "kind": "eat",
+      "locality": "Paris/3rd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F3rd_arrondissement",
+      "address": "9, rue de Beauce",
+      "id": "france-364362274d7456fd3788"
+    },
+    {
+      "name": "Léonard",
+      "kind": "eat",
+      "locality": "Paris/3rd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F3rd_arrondissement",
+      "address": "57, rue De Turbigo",
+      "id": "france-04710058b4c6d7bf268f"
+    },
+    {
+      "name": "La Perle",
+      "kind": "eat",
+      "locality": "Paris/3rd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F3rd_arrondissement",
+      "address": "rue Vieille du Temple/rue de la Perle",
+      "id": "france-d25ae115dd13c9d3cefd"
+    },
+    {
+      "name": "The Quiet Man",
+      "kind": "eat",
+      "locality": "Paris/3rd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F3rd_arrondissement",
+      "address": "5, rue des Haudriettes",
+      "url": "http://www.thequietman.eu/",
+      "id": "france-1167e952d012e6b5e765"
+    },
+    {
+      "name": "La Villa Kéops",
+      "kind": "eat",
+      "locality": "Paris/3rd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F3rd_arrondissement",
+      "address": "58, boul Sébastopol",
+      "id": "france-1e27a7e924f110bca2cf"
+    },
+    {
+      "name": "Hôtel du Marais",
+      "kind": "stay",
+      "locality": "Paris/3rd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F3rd_arrondissement",
+      "address": "2bis, rue Commines",
+      "price": "Doubles, €70-88",
+      "id": "france-837f8d1e53138ce8ec3c"
+    },
+    {
+      "name": "Austin's Arts et Metiers Hôtel",
+      "kind": "stay",
+      "locality": "Paris/3rd arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F3rd_arrondissement",
+      "address": "6, rue Montgolfier",
+      "price": "Doubles, €120",
+      "id": "france-5f98adefb8ab8ea62482"
+    },
+    {
+      "name": "Paris/3rd arrondissement",
+      "kind": "area",
+      "locality": "Paris/3rd arrondissement",
+      "lat": 48.8627,
+      "lon": 2.3607,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F3rd_arrondissement",
+      "id": "france-7db3a4b5ac529d9d7799"
+    },
+    {
+      "name": "Le Marais",
+      "kind": "do",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.8576,
+      "lon": 2.361453,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "id": "france-f68aa7f7cedfd026425f"
+    },
+    {
+      "name": "Place des Vosges",
+      "kind": "do",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.855556,
+      "lon": 2.365556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "id": "france-0730714e9a97b2c4f666"
+    },
+    {
+      "name": "Rue des Rosiers",
+      "kind": "do",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.857092,
+      "lon": 2.359582,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "id": "france-86c13a64da1c0ad6d984"
+    },
+    {
+      "name": "Île Saint-Louis",
+      "kind": "do",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.851667,
+      "lon": 2.356389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "id": "france-769199f553963adce643"
+    },
+    {
+      "name": "Notre-Dame de Paris",
+      "kind": "do",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.853,
+      "lon": 2.3498,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "Ile de la Cité 6, Place du Parvis Notre Dame",
+      "url": "https://www.notredamedeparis.fr/en/",
+      "id": "france-7d2fb69007ac74d1dfe1"
+    },
+    {
+      "name": "Towers of Notre-Dame",
+      "kind": "do",
+      "locality": "Paris/4th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "price": "Adult €16, U18 free. more details on website.",
+      "url": "https://www.tours-notre-dame-de-paris.fr/en",
+      "id": "france-c9b244ce07dcf21aecb4"
+    },
+    {
+      "name": "Hôtel de Ville",
+      "kind": "do",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.856389,
+      "lon": 2.352222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "Place de la Hôtel de Ville",
+      "url": "http://www.paris.fr/",
+      "id": "france-26cb97e5e9f91035d042"
+    },
+    {
+      "name": "Tour St Jacques",
+      "kind": "do",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.857764,
+      "lon": 2.348778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "Rue de Rivoli",
+      "id": "france-292e28c73941ca8c9159"
+    },
+    {
+      "name": "La Bastille",
+      "kind": "do",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.853333,
+      "lon": 2.369167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "id": "france-31d28d484e6912bc8990"
+    },
+    {
+      "name": "Mémorial de la Shoah",
+      "kind": "do",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.854846,
+      "lon": 2.356196,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "17, rue Geoffroy l’Asnier",
+      "url": "http://www.memorialdelashoah.org/",
+      "id": "france-b586def907d96aa3c8a8"
+    },
+    {
+      "name": "Centre Georges Pompidou",
+      "kind": "do",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.860653,
+      "lon": 2.352411,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "Place George Pompidou",
+      "url": "https://www.centrepompidou.fr/en/the-centre-pompidou-is-transforming-itself",
+      "id": "france-7cf8691dd35c33a58be4"
+    },
+    {
+      "name": "Maison de Victor Hugo",
+      "kind": "do",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.854722,
+      "lon": 2.366111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "6, Place des Vosges",
+      "price": "Free",
+      "url": "http://www.maisonsvictorhugo.paris.fr/",
+      "id": "france-22e087760a2e030b4977"
+    },
+    {
+      "name": "Hôtel de Sully",
+      "kind": "do",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.854583,
+      "lon": 2.363778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "62 rue Saint-Antoine",
+      "url": "https://www.hotel-de-sully.fr/en",
+      "id": "france-d5a093def35fb6466c49"
+    },
+    {
+      "name": "MEP – Maison Européenne de la Photographie",
+      "kind": "do",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.855274,
+      "lon": 2.359293,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "5/7 rue de Fourcy",
+      "price": "Full €13, Reduced €9 (+ €1 online)",
+      "url": "https://www.mep-fr.org/en/homepage/",
+      "id": "france-f8789fb141bc205223e8"
+    },
+    {
+      "name": "Chez Marianne",
+      "kind": "eat",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.857762,
+      "lon": 2.358579,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "2, Rue des Hospitalières-Saint Gervais",
+      "id": "france-ee1d1008a137395c0a4f"
+    },
+    {
+      "name": "La Perla",
+      "kind": "eat",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.855795,
+      "lon": 2.356132,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "26 rue François Miron",
+      "price": "You'll pay about €10 for a plate ordered à la carte",
+      "url": "http://www.cafepacifico-laperla.com/",
+      "id": "france-fcba09dff0795d17d8c6"
+    },
+    {
+      "name": "Flunch",
+      "kind": "eat",
+      "locality": "Paris/4th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "21 Rue de Beaubourg",
+      "price": "Around €8 per person",
+      "url": "http://restaurant.flunch.fr/paris/flunch-paris-beaubourg/#_=_",
+      "id": "france-2304ec812d89aed75691"
+    },
+    {
+      "name": "O Corcovado Marais",
+      "kind": "eat",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.860026,
+      "lon": 2.353783,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "7, rue Simon-Lefranc",
+      "url": "http://www.ocorcovado.com/",
+      "id": "france-ed99ae47d109ca6c8695"
+    },
+    {
+      "name": "Creperie Beaubourg",
+      "kind": "eat",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.859125,
+      "lon": 2.351513,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "2 Rue Brisemiche",
+      "price": "€10",
+      "url": "http://creperiebeaubourg.com/",
+      "id": "france-44dba4c517bfcebcbc77"
+    },
+    {
+      "name": "Le Loir dans la Théière",
+      "kind": "eat",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.856236,
+      "lon": 2.361044,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "3, rue des Rosiers",
+      "id": "france-e7fabcc9dbef890868cd"
+    },
+    {
+      "name": "Pain Vin Fromages",
+      "kind": "eat",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.860529,
+      "lon": 2.354475,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "3, rue Geoffrey l'Angevin",
+      "url": "http://www.painvinfromage.com/",
+      "id": "france-9aaf782a14039c27bbd1"
+    },
+    {
+      "name": "Le Colimaçon",
+      "kind": "eat",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.85808008778574,
+      "lon": 2.3580667026053796,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "44 Rue Vieille du Temple",
+      "price": "€62",
+      "url": "https://www.le-colimacon.fr/en/",
+      "id": "france-4f189be0224889936bdc"
+    },
+    {
+      "name": "L'Ambroisie",
+      "kind": "eat",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.855396,
+      "lon": 2.364372,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "9, place des Vosges",
+      "price": "€500",
+      "url": "http://www.ambroisie-paris.com/",
+      "id": "france-205a651d7177b7318cf6"
+    },
+    {
+      "name": "Brasserie Bofinger",
+      "kind": "eat",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.853894,
+      "lon": 2.36806,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "3, rue de la Bastille",
+      "url": "http://www.bofingerparis.com/",
+      "id": "france-346ac36b09fe50174f26"
+    },
+    {
+      "name": "Le Georges",
+      "kind": "eat",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.860949,
+      "lon": 2.352817,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "19 rue Beaubourg",
+      "price": "M 11:00-24:00, W-Su 11:00-02:00",
+      "url": "http://restaurantgeorgesparis.com/en/",
+      "id": "france-8590900ae3139b83251f"
+    },
+    {
+      "name": "Amorino",
+      "kind": "eat",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.852048,
+      "lon": 2.355752,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "47, rue Saint Louis en l’Ile",
+      "url": "http://amorino.fr/",
+      "id": "france-1e345db1219432d7dbbf"
+    },
+    {
+      "name": "Glacier Berthillon",
+      "kind": "eat",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.851693,
+      "lon": 2.356747,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "31 Rue Saint-Louis en l'Île",
+      "url": "http://www.berthillon.fr/",
+      "id": "france-9b12d94dc5ad45fdf352"
+    },
+    {
+      "name": "Pozetto",
+      "kind": "eat",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.856714,
+      "lon": 2.356282,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "39 Rue du Roi de Sicile",
+      "url": "http://www.pozzetto.biz/",
+      "id": "france-ee34a62cad9d5f783cea"
+    },
+    {
+      "name": "The Auld Alliance Scottish Pub",
+      "kind": "eat",
+      "locality": "Paris/4th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "80, rue Francois Miron",
+      "url": "http://www.theauldalliance.com/",
+      "id": "france-1bfc738aedfc5253d4d0"
+    },
+    {
+      "name": "Café des Phares",
+      "kind": "eat",
+      "locality": "Paris/4th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "7, place de la Bastille",
+      "id": "france-ad82b893e18b44dfa062"
+    },
+    {
+      "name": "Café Lutèce",
+      "kind": "eat",
+      "locality": "Paris/4th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "33, quai de Bourbon",
+      "id": "france-93ede739909f56032bcd"
+    },
+    {
+      "name": "Le Lizard Lounge",
+      "kind": "eat",
+      "locality": "Paris/4th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "18, rue du Bourg-Tibourg",
+      "id": "france-b4099faa89b533ea2fdb"
+    },
+    {
+      "name": "Le Petit Fer A Cheval",
+      "kind": "eat",
+      "locality": "Paris/4th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "30, rue Vieille-du Temple",
+      "id": "france-3e3b1e41713a9e5dc708"
+    },
+    {
+      "name": "La Chaise au Plafond",
+      "kind": "eat",
+      "locality": "Paris/4th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "10, rue du Trésor",
+      "id": "france-1bc4e5a546a9960ab4ca"
+    },
+    {
+      "name": "Les Etages",
+      "kind": "eat",
+      "locality": "Paris/4th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "35, rue Vieille du Temple",
+      "id": "france-f7719760c45e1d2c3324"
+    },
+    {
+      "name": "Stolly's",
+      "kind": "eat",
+      "locality": "Paris/4th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "7, rue Cloche-Perce",
+      "id": "france-243d38d6579f7374ab04"
+    },
+    {
+      "name": "Caféothèque de Paris",
+      "kind": "eat",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.854448,
+      "lon": 2.355762,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "52, rue de l’Hôtel de Ville",
+      "url": "http://www.lacafeotheque.com/",
+      "id": "france-ba5700ca2f875dee2608"
+    },
+    {
+      "name": "Dome Du Marais",
+      "kind": "eat",
+      "locality": "Paris/4th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "53 bis, rue De Francs Bourgeois",
+      "url": "http://www.ledomedumarais.fr/",
+      "id": "france-6fd4007a6cfbd60d3b30"
+    },
+    {
+      "name": "Wake Up Paris",
+      "kind": "eat",
+      "locality": "Paris/4th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "31, boul Henri IV",
+      "id": "france-63c3676776c25eb0c4fb"
+    },
+    {
+      "name": "Queen Ann",
+      "kind": "eat",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.860023,
+      "lon": 2.353834,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "5 rue Simon le Franc",
+      "price": "€22-25 for a brunch",
+      "id": "france-b248014a545a4109db86"
+    },
+    {
+      "name": "MIJE",
+      "kind": "stay",
+      "locality": "Paris/4th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "6, rue de Fourcy, 12 rue des Barres, and 11 rue du Fauconnier",
+      "price": "Dorm-room beds start at €32 at all three places. Single rooms are €52",
+      "url": "http://www.mije.com/",
+      "id": "france-0ebdcdc2413f1dde3bec"
+    },
+    {
+      "name": "Hôtel Rivoli",
+      "kind": "stay",
+      "locality": "Paris/4th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "44 rue de Rivoli",
+      "price": "Double for €48",
+      "url": "https://www.hotelrivoli.fr/",
+      "id": "france-98feb02aa7aef4effd60"
+    },
+    {
+      "name": "Grand Hôtel du Loiret",
+      "kind": "stay",
+      "locality": "Paris/4th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "8, rue des Mauvais Garçons",
+      "price": "€45, or €60 with a shower",
+      "id": "france-0392838c747b8ce85b27"
+    },
+    {
+      "name": "Grand Hôtel Jeanne-d'Arc",
+      "kind": "stay",
+      "locality": "Paris/4th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "3, rue de Jarente",
+      "price": "€57 for a basic room",
+      "url": "http://www.hoteljeannedarc.com/",
+      "id": "france-a13461dcd689e99424e9"
+    },
+    {
+      "name": "Hôtel du Septième Art",
+      "kind": "stay",
+      "locality": "Paris/4th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "20 rue Saint-Paul",
+      "price": "€75+",
+      "id": "france-1079a120119f1ff5c949"
+    },
+    {
+      "name": "Hôtel Hospitel",
+      "kind": "stay",
+      "locality": "Paris/4th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "1, Place du Parvis Notre Dame-Galerie B2, 6F",
+      "price": "Single €88.50, double €99.50",
+      "id": "france-50df4a2da144f8d41e55"
+    },
+    {
+      "name": "Hôtel Bastille Speria",
+      "kind": "stay",
+      "locality": "Paris/4th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "1, rue de la Bastille",
+      "price": "€95 for a single",
+      "url": "http://www.hotel-bastille-speria.com/",
+      "id": "france-f7e039cf6bcae0b56c24"
+    },
+    {
+      "name": "Hotel Caron de Beaumarchais",
+      "kind": "stay",
+      "locality": "Paris/4th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "12, rue Vieille-du-Temple",
+      "price": "Single for €137",
+      "url": "http://www.carondebeaumarchais.com/",
+      "id": "france-e10c8878185c6e8b4b8c"
+    },
+    {
+      "name": "Hôtel de Lutece",
+      "kind": "stay",
+      "locality": "Paris/4th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "65, rue Saint-Louis-en-l'Ile",
+      "price": "€158",
+      "url": "http://www.paris-hotel-lutece.com/",
+      "id": "france-204d9b5e73a043e84229"
+    },
+    {
+      "name": "Hotel Notre Dame",
+      "kind": "stay",
+      "locality": "Paris/4th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "19, rue Maître Alberte",
+      "url": "http://hotel-paris-notredame.com/",
+      "id": "france-ffd99e498292864eade1"
+    },
+    {
+      "name": "Jardins de Paris Marais-Bastille",
+      "kind": "stay",
+      "locality": "Paris/4th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "14, rue Neuve-Saint-Pierre",
+      "price": "Singles for €120, doubles for €135",
+      "url": "http://www.hotelsjardinsdeparis.com/",
+      "id": "france-18196f0f4001dc8c63b6"
+    },
+    {
+      "name": "Hôtel Central",
+      "kind": "stay",
+      "locality": "Paris/4th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "5, rue saint Paul",
+      "id": "france-e9755710477aac9f5826"
+    },
+    {
+      "name": "Hôtel de la Place des Vosges",
+      "kind": "stay",
+      "locality": "Paris/4th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "12 rue de Birague",
+      "price": "€101-140",
+      "url": "http://hotelplacedesvosges.com/",
+      "id": "france-6691ef14458b61932774"
+    },
+    {
+      "name": "Hôtel de Nice",
+      "kind": "stay",
+      "locality": "Paris/4th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "42 bis, rue de Rivoli",
+      "price": "€60+",
+      "url": "http://www.hoteldenice.com/",
+      "id": "france-12972ff231f98434c676"
+    },
+    {
+      "name": "Hôtel Duo",
+      "kind": "stay",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.858211,
+      "lon": 2.352906,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "address": "11 Rue du Temple",
+      "url": "https://duo-paris.com/",
+      "id": "france-c56d578809860faff74f"
+    },
+    {
+      "name": "Paris/4th arrondissement",
+      "kind": "area",
+      "locality": "Paris/4th arrondissement",
+      "lat": 48.8537,
+      "lon": 2.358,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F4th_arrondissement",
+      "id": "france-1c15bdb68a95a4b9ce28"
+    },
+    {
+      "name": "Panthéon",
+      "kind": "do",
+      "locality": "Paris/5th arrondissement",
+      "lat": 48.846111,
+      "lon": 2.345833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "Place du Panthéon",
+      "url": "http://pantheon.monuments-nationaux.fr/fr/",
+      "id": "france-7981e1a3f3f126734f06"
+    },
+    {
+      "name": "Jardin des Plantes",
+      "kind": "do",
+      "locality": "Paris/5th arrondissement",
+      "lat": 48.843889,
+      "lon": 2.359722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "price": "free",
+      "url": "http://www.mnhn.fr/museum/foffice/tous/tous/GuideDecouverte/lieuxVisiter/LieuxAVisiter/FLieuAVisiter.xsp?AE_ID214&INFO_ID21&LIEU_ID158&MAN_ID273&SITE_ID10&idx1&navliste",
+      "id": "france-12217cfa1533943fdd1c"
+    },
+    {
+      "name": "Arènes de Lutèce",
+      "kind": "do",
+      "locality": "Paris/5th arrondissement",
+      "lat": 48.845,
+      "lon": 2.35306,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "47, rue Monge et rue de Navarre",
+      "price": "Free",
+      "id": "france-fc390aa9e3b5ca2a1ae1"
+    },
+    {
+      "name": "Val-de-Grâce",
+      "kind": "do",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "id": "france-006cce568935048b72fb"
+    },
+    {
+      "name": "Musée Curie",
+      "kind": "do",
+      "locality": "Paris/5th arrondissement",
+      "lat": 48.844167,
+      "lon": 2.343611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "11, rue Pierre et Marie Curie",
+      "price": "free",
+      "url": "http://musee.curie.fr/",
+      "id": "france-41adc5405b18e42ae4d0"
+    },
+    {
+      "name": "Musée de l'Institut du Monde Arabe",
+      "kind": "do",
+      "locality": "Paris/5th arrondissement",
+      "lat": 48.84889,
+      "lon": 2.35639,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "1, rue des Fossés-St Bernard",
+      "url": "http://www.imarabe.org/",
+      "id": "france-3ddc366c2f29de31be32"
+    },
+    {
+      "name": "Musée National Du Moyen Âge",
+      "kind": "do",
+      "locality": "Paris/5th arrondissement",
+      "lat": 48.850556,
+      "lon": 2.343333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "6, place Paul Painlevé",
+      "price": "€7.50 (€5.50 reduced rate, free under 18, museum card accepted)",
+      "url": "http://www.musee-moyenage.fr/",
+      "id": "france-f28602f69f6e4128ef9e"
+    },
+    {
+      "name": "Eglise Saint-Étienne-du-Mont",
+      "kind": "do",
+      "locality": "Paris/5th arrondissement",
+      "lat": 48.846389,
+      "lon": 2.347778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "pl Ste Geneviève",
+      "url": "http://www.saintetiennedumont.fr/",
+      "id": "france-e32e26c90e86b111d0c4"
+    },
+    {
+      "name": "Eglise Saint-Julien-le-Pauvre",
+      "kind": "do",
+      "locality": "Paris/5th arrondissement",
+      "lat": 48.851944,
+      "lon": 2.346944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "rue Saint-Julien-le-Pauvre",
+      "id": "france-ec95f7f31d3fc720a14f"
+    },
+    {
+      "name": "Eglise Saint-Médard",
+      "kind": "do",
+      "locality": "Paris/5th arrondissement",
+      "lat": 48.83992,
+      "lon": 2.350484,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "rue Mouffetard",
+      "url": "http://saintmedard.org/",
+      "id": "france-56726512942b78145ea8"
+    },
+    {
+      "name": "Eglise Saint Nicolas du Chardonnet",
+      "kind": "do",
+      "locality": "Paris/5th arrondissement",
+      "lat": 48.849167,
+      "lon": 2.350278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "23, rue des Bernardins",
+      "url": "http://www.saintnicolasduchardonnet.fr/",
+      "id": "france-c8ab301049625b0cf007"
+    },
+    {
+      "name": "Grande Mosquée de Paris",
+      "kind": "do",
+      "locality": "Paris/5th arrondissement",
+      "lat": 48.841944,
+      "lon": 2.355,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "2 bis, place du puits de l'Ermite",
+      "url": "http://www.mosqueedeparis.net/",
+      "id": "france-63f38acb32511a4165c3"
+    },
+    {
+      "name": "Église Saint-Jacques-du-Haut-Pas",
+      "kind": "do",
+      "locality": "Paris/5th arrondissement",
+      "lat": 48.843611,
+      "lon": 2.341389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "url": "http://www.saintjacquesduhautpas.com/",
+      "id": "france-05eabe9cfd3da41ba3aa"
+    },
+    {
+      "name": "Le Grenier de Notre Dame",
+      "kind": "eat",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "18, rue de la Bûcherie",
+      "price": "Dinners start at €12",
+      "id": "france-37f2503712ac6b22f2fc"
+    },
+    {
+      "name": "Jardin des Pâtes",
+      "kind": "eat",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "4, rue Lacépède",
+      "price": "Menus around €12",
+      "id": "france-8e91aaaf71f631f93b4d"
+    },
+    {
+      "name": "Ambiance De L'Inde",
+      "kind": "eat",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "12, rue Thouin",
+      "id": "france-db987bf1957c2165f600"
+    },
+    {
+      "name": "Chez Ernest",
+      "kind": "eat",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "31, rue de la Parcheminerie",
+      "price": "Complete dinner, including beverages, for €25",
+      "id": "france-d465a565b4a999dd4a73"
+    },
+    {
+      "name": "Kootchi",
+      "kind": "eat",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "40, rue du Cardinal Lemoine",
+      "price": "Lunch menu: €9.20 or €12.20, dinner menu €15.50",
+      "id": "france-917bf4c6d4d40c133a26"
+    },
+    {
+      "name": "Le Petit Prince de Paris",
+      "kind": "eat",
+      "locality": "Paris/5th arrondissement",
+      "lat": 48.848421,
+      "lon": 2.34653,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "12, rue de Lanneau",
+      "price": "Set menu (starter+main) €16-23; extra €6 for dessert",
+      "url": "http://lepetitprincedeparis.fr/",
+      "id": "france-cab5caf864146c38de5c"
+    },
+    {
+      "name": "Le Volcan",
+      "kind": "eat",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "10, rue Thouin",
+      "price": "€25 per person without wine",
+      "url": "https://restaurant-levolcan.fr/",
+      "id": "france-6f6509ed4840b21837dd"
+    },
+    {
+      "name": "Bibimpap",
+      "kind": "eat",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "32, boul de l'Hôpital",
+      "price": "Set menu €25-40",
+      "url": "http://www.bibimbap.fr/",
+      "id": "france-251049cbde88c30cfbbd"
+    },
+    {
+      "name": "Coco de Mer",
+      "kind": "eat",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "34, boul St Marcel",
+      "price": "Set menu €30, à la carte from €28-36",
+      "url": "http://www.cocodemer.fr/",
+      "id": "france-a39629345937190b959a"
+    },
+    {
+      "name": "Dans les Landes",
+      "kind": "eat",
+      "locality": "Paris/5th arrondissement",
+      "lat": 48.839069,
+      "lon": 2.351036,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "119 bis, rue Monge",
+      "id": "france-eb9d6825e4152a6d5cd8"
+    },
+    {
+      "name": "Le Petit Pontoise",
+      "kind": "eat",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "9, rue de Pontoise",
+      "price": "Main courses for €18-28, starters and desserts €7-11, wine €20+",
+      "id": "france-107927670999e2ecde4e"
+    },
+    {
+      "name": "La Tour d'Argent",
+      "kind": "eat",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "15-17, quai de la Tournelle",
+      "url": "http://www.tourdargent.com/",
+      "id": "france-de75ee8040961a9b978a"
+    },
+    {
+      "name": "The Bombardier",
+      "kind": "eat",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "place du Panthéon",
+      "id": "france-0d05738571d3d789c43c"
+    },
+    {
+      "name": "The Fifth Bar",
+      "kind": "eat",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "62, rue Mouffetard",
+      "price": "Lager pints are €3.50 at happy hour, €5 after 20ː00 (except for student nights)",
+      "id": "france-2f90d028c4cb0d2e249f"
+    },
+    {
+      "name": "Le Piano Vache",
+      "kind": "eat",
+      "locality": "Paris/5th arrondissement",
+      "lat": 48.847304,
+      "lon": 2.347706,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "8, Rue Laplace",
+      "price": "Draught beer €6-8.50 (50 cl), cocktails €8.50-12",
+      "url": "https://lepianovache.com/en/",
+      "id": "france-db12ce617496d9092f05"
+    },
+    {
+      "name": "Polly Magoo",
+      "kind": "eat",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "3, rue du Petit Pont",
+      "price": "Formule: (1 tapa, 1 beer) is €8",
+      "id": "france-7540c39c2dfebc75df12"
+    },
+    {
+      "name": "Le Vieux Chêne",
+      "kind": "eat",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "69, rue Mouffetard",
+      "id": "france-d87698a7d785090e9ec6"
+    },
+    {
+      "name": "Hôtel du Commerce",
+      "kind": "stay",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "14, rue de la Montagne-Sainte-Geneviève",
+      "price": "Singles without start at €26. Showers cost €2",
+      "url": "http://www.commerce-paris-hotel.com/",
+      "id": "france-1068262834c98a1bce71"
+    },
+    {
+      "name": "Hôtel Esmerelda",
+      "kind": "stay",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "4, rue Saint-Julien-le-Pauvre",
+      "price": "A basic room is €65, doubles are €80-95",
+      "id": "france-55543c54424de2965785"
+    },
+    {
+      "name": "Port-Royal-Hôtel",
+      "kind": "stay",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "8, boul de Port-Royal",
+      "price": "€39-87. Average room rate is around €55. Ask for a room with a bidet.",
+      "url": "http://www.hotelportroyal.fr/",
+      "id": "france-7ec73f4829c2edfde323"
+    },
+    {
+      "name": "Young and Happy Hostel",
+      "kind": "stay",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "80, rue Mouffetard",
+      "price": "A dorm-room bed costs €28, while a double goes for €80",
+      "url": "http://www.youngandhappy.fr/",
+      "id": "france-e880852a588b0167acd0"
+    },
+    {
+      "name": "Hotel Cujas Pantheon",
+      "kind": "stay",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "18, rue Cujas",
+      "price": "Single €74, double €97",
+      "url": "http://www.cujas-pantheon-paris-hotel.com/",
+      "id": "france-d497efb9afc63e8427df"
+    },
+    {
+      "name": "Hôtel de l'Esperance",
+      "kind": "stay",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "15, rue Pascal",
+      "price": "€80-120",
+      "url": "http://www.hoteldelesperance.fr/",
+      "id": "france-dca79a565e719e386d9e"
+    },
+    {
+      "name": "Hôtel Familia",
+      "kind": "stay",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "11, rue des Ecoles",
+      "price": "€73.50-90",
+      "url": "http://www.hotel-paris-familia.com/",
+      "id": "france-99139152ad09a82226b6"
+    },
+    {
+      "name": "Hôtel du Levant",
+      "kind": "stay",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "18, rue de la Harpe",
+      "price": "€115-150 including breakfast and tax",
+      "url": "http://www.hoteldulevant.com/",
+      "id": "france-3be213705fffaa6fc73c"
+    },
+    {
+      "name": "Hôtel Minerve",
+      "kind": "stay",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "13, rue des Ecoles",
+      "price": "€82-128",
+      "url": "http://www.hotel-paris-minerve.com/",
+      "id": "france-fddc631f554c0d58b0fe"
+    },
+    {
+      "name": "Hotel Parc Saint Severin",
+      "kind": "stay",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "22, rue de la Parcheminerie",
+      "url": "http://www.paris-hotel-parcsaintseverin.com/en/home/",
+      "id": "france-0b0a593740740c4ec17b"
+    },
+    {
+      "name": "Maitre Albert B&B",
+      "kind": "stay",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "rue Maitre Albert",
+      "price": "€95 per night for two people including breakfast",
+      "id": "france-fc9a0b9eaf7563801576"
+    },
+    {
+      "name": "Hotel Mercure Paris La Sorbonne",
+      "kind": "stay",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "14, rue de la Sorbonne",
+      "price": "€134+",
+      "url": "https://all.accor.com/hotel/2897/index.en.shtml",
+      "id": "france-13f74699fc4f4b896fd9"
+    },
+    {
+      "name": "Hotel Notre Dame",
+      "kind": "stay",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "1, quai Saint Michel",
+      "price": "€140",
+      "url": "http://www.hotelnotredameparis.com/index.html",
+      "id": "france-df267fe0738e5b1c1387"
+    },
+    {
+      "name": "Hotel Les Rives De Notre Dame",
+      "kind": "stay",
+      "locality": "Paris/5th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "address": "15, quai Saint Michel",
+      "url": "http://paris-hotel-rivesnotredame.com/",
+      "id": "france-44fa5af7e56d7bd140a3"
+    },
+    {
+      "name": "Paris/5th arrondissement",
+      "kind": "area",
+      "locality": "Paris/5th arrondissement",
+      "lat": 48.84513,
+      "lon": 2.35017,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F5th_arrondissement",
+      "id": "france-6daa8fc04d6aa689e393"
+    },
+    {
+      "name": "Eglise Saint-Germain-des-Prés",
+      "kind": "do",
+      "locality": "Paris/6th arrondissement",
+      "lat": 48.853889,
+      "lon": 2.334444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "3 place St-Germain-des-Prés",
+      "url": "http://www.eglise-sgp.org/",
+      "id": "france-1f565566daa6ca886ab1"
+    },
+    {
+      "name": "Palais du Luxembourg",
+      "kind": "do",
+      "locality": "Paris/6th arrondissement",
+      "lat": 48.848333,
+      "lon": 2.3375,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "15 rue de Vaugirard",
+      "price": "free",
+      "url": "http://www.senat.fr/",
+      "id": "france-f8ff29709338968afeaf"
+    },
+    {
+      "name": "Eglise de Saint Sulpice",
+      "kind": "do",
+      "locality": "Paris/6th arrondissement",
+      "lat": 48.851111,
+      "lon": 2.334722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "75 rue Bonaparte",
+      "price": "free",
+      "url": "http://pss75.fr/saint-sulpice-paris",
+      "id": "france-86500a159a5661f791d2"
+    },
+    {
+      "name": "Monument to Balzac",
+      "kind": "do",
+      "locality": "Paris/6th arrondissement",
+      "lat": 48.8424221,
+      "lon": 2.3294541,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "id": "france-98fa32129a9d8091e406"
+    },
+    {
+      "name": "Musée national Eugène Delacroix",
+      "kind": "do",
+      "locality": "Paris/6th arrondissement",
+      "lat": 48.8546,
+      "lon": 2.3354,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "6 rue de Fürstenberg",
+      "price": "€5 discounts available, under-18s free",
+      "url": "http://www.musee-delacroix.fr/",
+      "id": "france-1e7c33f85e6c19096234"
+    },
+    {
+      "name": "Museum of the History of Medicine",
+      "kind": "do",
+      "locality": "Paris/6th arrondissement",
+      "lat": 48.851324,
+      "lon": 2.340779,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "12 rue de l’École de Médecine",
+      "url": "https://u-paris.fr/musee-de-lhistoire-de-la-medecine/",
+      "id": "france-583280ae70b91b608aa2"
+    },
+    {
+      "name": "Cafe Philo in English",
+      "kind": "do",
+      "locality": "Paris/6th arrondissement",
+      "lat": 48.854088,
+      "lon": 2.332649,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "Cafe de Flore, 172, Blvd St-Germain",
+      "price": "Free",
+      "url": "https://www.meetup.com/english-cafe-philo-in-paris/",
+      "id": "france-d3db64bb78cd13c249f8"
+    },
+    {
+      "name": "Guen Maï",
+      "kind": "eat",
+      "locality": "Paris/6th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "6 Rue Cardinale",
+      "id": "france-7c5cf4c5a7f3ed39bf5c"
+    },
+    {
+      "name": "Santa Lucia",
+      "kind": "eat",
+      "locality": "Paris/6th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "22, Rue Canettes",
+      "id": "france-4cd50eb7160db994e060"
+    },
+    {
+      "name": "Cour de Rohan",
+      "kind": "eat",
+      "locality": "Paris/6th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "59, Rue Saint André des Arts",
+      "id": "france-e7249d7e8eed9d8239c3"
+    },
+    {
+      "name": "Kiwi Corner",
+      "kind": "eat",
+      "locality": "Paris/6th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "25, rue Servandoni",
+      "price": "€20",
+      "id": "france-0a8e39eb3f63bb93b799"
+    },
+    {
+      "name": "Padova",
+      "kind": "eat",
+      "locality": "Paris/6th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "159 blvd. de Monparnasse",
+      "url": "http://perso.wanadoo.fr/padova",
+      "id": "france-2b37de74d3e07b45a4cd"
+    },
+    {
+      "name": "Yugaraj",
+      "kind": "eat",
+      "locality": "Paris/6th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "14 Rue Dauphine",
+      "id": "france-4317a29fc24bd0862d40"
+    },
+    {
+      "name": "l'Arbuci",
+      "kind": "eat",
+      "locality": "Paris/6th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "25, rue de Buci",
+      "id": "france-a9a29428e54386f4cbd0"
+    },
+    {
+      "name": "Brasserie Lipp",
+      "kind": "eat",
+      "locality": "Paris/6th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "151, Bld. Saint-Germain",
+      "url": "https://www.brasserielipp.fr/en",
+      "id": "france-9dceef510f3fd4a55866"
+    },
+    {
+      "name": "Le Timbre",
+      "kind": "eat",
+      "locality": "Paris/6th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "3 rue Sainte Beuve",
+      "price": "€33",
+      "id": "france-4d46e24f1f4818230c33"
+    },
+    {
+      "name": "Polidor",
+      "kind": "eat",
+      "locality": "Paris/6th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "41, rue Monsieur Le Prince",
+      "id": "france-5803157119242594913b"
+    },
+    {
+      "name": "Ze Kitchen Gallery",
+      "kind": "eat",
+      "locality": "Paris/6th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "4 rue des Grands-Augustins",
+      "price": "Main courses: €20-30 lunch menu with wine: ~€30",
+      "url": "http://www.zekitchengalerie.fr/",
+      "id": "france-3a32157e5b128a211062"
+    },
+    {
+      "name": "Les Bouquinistes",
+      "kind": "eat",
+      "locality": "Paris/6th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "53 quai des Grands-Augustins",
+      "url": "http://www.guysavoy.com/",
+      "id": "france-35a6ddb522f03534848d"
+    },
+    {
+      "name": "Café de Flore",
+      "kind": "eat",
+      "locality": "Paris/6th arrondissement",
+      "lat": 48.853889,
+      "lon": 2.3325,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "172 boulevard Saint Germain",
+      "url": "http://www.cafedeflore.fr/",
+      "id": "france-54b49e4905eb1cdfab3b"
+    },
+    {
+      "name": "Les Deux Magots",
+      "kind": "eat",
+      "locality": "Paris/6th arrondissement",
+      "lat": 48.853889,
+      "lon": 2.333056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "6 place Saint Germain de Prés",
+      "url": "https://lesdeuxmagots.fr/",
+      "id": "france-d1ba6f0ec510d23c04b3"
+    },
+    {
+      "name": "10 Bar International",
+      "kind": "eat",
+      "locality": "Paris/6th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "10, rue de l'Odéon",
+      "price": "A glass of wine will cost you about €3",
+      "id": "france-77b61155d09284f6b48b"
+    },
+    {
+      "name": "The Moose",
+      "kind": "eat",
+      "locality": "Paris/6th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "16, rue des Quatre Vents",
+      "price": "A glass of wine will cost you about €3.5, Happy Hour everyday 4-8 €5 a pint",
+      "id": "france-168ea57853c9f248cf65"
+    },
+    {
+      "name": "Best Western Hotel Aramis in Saint Germain",
+      "kind": "stay",
+      "locality": "Paris/6th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "124, rue de Rennes",
+      "url": "http://www.hotelaramis.com/",
+      "id": "france-fa7b194dfbbb4ac19af9"
+    },
+    {
+      "name": "Hotel Edouard VI ***",
+      "kind": "stay",
+      "locality": "Paris/6th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "url": "https://www.hotel-montparnasse-paris.com/en/",
+      "id": "france-7be33f376ec34021f4d6"
+    },
+    {
+      "name": "Hotel Apostrophe",
+      "kind": "stay",
+      "locality": "Paris/6th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "3, rue de Chevreuse",
+      "url": "http://apostrophe-hotel.com/",
+      "id": "france-766b1da25e3260ca0e83"
+    },
+    {
+      "name": "Hotel Le Saint Gregoire",
+      "kind": "stay",
+      "locality": "Paris/6th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "43, rue de l'abbe Gregoire",
+      "url": "http://www.hotelsaintgregoire.com/",
+      "id": "france-db3ad88cd2321e847a67"
+    },
+    {
+      "name": "Le Clos Medicis",
+      "kind": "stay",
+      "locality": "Paris/6th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "56 rue Monsieur-Le-Prince",
+      "price": "Rooms start at €120",
+      "url": "http://www.closmedicis.com/",
+      "id": "france-961a540f1aa543152800"
+    },
+    {
+      "name": "Hôtel Trianon Rive Gauche",
+      "kind": "stay",
+      "locality": "Paris/6th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "1 bis et 3 rue de Vaugirard",
+      "price": "rates from €120",
+      "id": "france-c31d285372b159c8612c"
+    },
+    {
+      "name": "K+K Hotel Cayré",
+      "kind": "stay",
+      "locality": "Paris/6th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "4, Boulevard Raspail",
+      "url": "http://www.kkhotels.com/en/hotels/paris/paris/overview-k-k-hotel-cayre/",
+      "id": "france-e70eb5b639653f067847"
+    },
+    {
+      "name": "Hotel des Saints Pères",
+      "kind": "stay",
+      "locality": "Paris/6th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "url": "http://www.paris-hotel-saints-peres.com/en",
+      "id": "france-93d593597dc008f6b393"
+    },
+    {
+      "name": "Hôtel Au Manoir Saint Germain des Prés",
+      "kind": "stay",
+      "locality": "Paris/6th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "153 Boulevard Saint Germain",
+      "price": "Rooms from €170",
+      "url": "http://www.paris-hotels-charm.com/",
+      "id": "france-5e0048b66441f8bcd6e1"
+    },
+    {
+      "name": "l'Hôtel",
+      "kind": "stay",
+      "locality": "Paris/6th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "Rue des Beaux-Arts",
+      "price": "Rooms from €300",
+      "id": "france-c29314190282806fb314"
+    },
+    {
+      "name": "Milestay Saint-Germain",
+      "kind": "stay",
+      "locality": "Paris/6th arrondissement",
+      "lat": 48.848081,
+      "lon": 2.328198,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "117 rue de Rennes",
+      "price": "€350-750",
+      "id": "france-d36cef3df8c167013169"
+    },
+    {
+      "name": "Victoria Palace Hotel",
+      "kind": "stay",
+      "locality": "Paris/6th arrondissement",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "address": "6, Rue Blaise Desgoffe",
+      "price": "Rooms start at €320",
+      "url": "http://www.ila-chateau.com/victoria/",
+      "id": "france-db45953b967da5123d76"
+    },
+    {
+      "name": "Paris/6th arrondissement",
+      "kind": "area",
+      "locality": "Paris/6th arrondissement",
+      "lat": 48.8488,
+      "lon": 2.3332,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paris%2F6th_arrondissement",
+      "id": "france-50256b5b7ef71225b427"
+    },
+    {
+      "name": "Marseille",
+      "kind": "area",
+      "locality": "Provence-Alpes-Côte d'Azur",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Provence-Alpes-C%C3%B4te_d'Azur",
+      "id": "france-c21f199b5a9ec314f1d6"
+    },
+    {
+      "name": "Aix-en-Provence",
+      "kind": "area",
+      "locality": "Provence-Alpes-Côte d'Azur",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Provence-Alpes-C%C3%B4te_d'Azur",
+      "id": "france-132ee4a0d7e075b38a1c"
+    },
+    {
+      "name": "Arles",
+      "kind": "area",
+      "locality": "Provence-Alpes-Côte d'Azur",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Provence-Alpes-C%C3%B4te_d'Azur",
+      "id": "france-4b2ed561cbf2794c056f"
+    },
+    {
+      "name": "Avignon",
+      "kind": "area",
+      "locality": "Provence-Alpes-Côte d'Azur",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Provence-Alpes-C%C3%B4te_d'Azur",
+      "id": "france-c96888060b8c82f87111"
+    },
+    {
+      "name": "Cannes",
+      "kind": "area",
+      "locality": "Provence-Alpes-Côte d'Azur",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Provence-Alpes-C%C3%B4te_d'Azur",
+      "id": "france-31429bb25c2594eb07d5"
+    },
+    {
+      "name": "Monaco",
+      "kind": "area",
+      "locality": "Provence-Alpes-Côte d'Azur",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Provence-Alpes-C%C3%B4te_d'Azur",
+      "id": "france-ec42250dc9aeb78a1561"
+    },
+    {
+      "name": "Nice",
+      "kind": "area",
+      "locality": "Provence-Alpes-Côte d'Azur",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Provence-Alpes-C%C3%B4te_d'Azur",
+      "id": "france-8c0baf7e55fa1c8ef56e"
+    },
+    {
+      "name": "Toulon",
+      "kind": "area",
+      "locality": "Provence-Alpes-Côte d'Azur",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Provence-Alpes-C%C3%B4te_d'Azur",
+      "id": "france-23436864a28ea6ff6fc1"
+    },
+    {
+      "name": "Provence-Alpes-Côte d'Azur",
+      "kind": "area",
+      "locality": "Provence-Alpes-Côte d'Azur",
+      "lat": 44,
+      "lon": 6,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Provence-Alpes-C%C3%B4te_d'Azur",
+      "id": "france-28bd498def390ce0f26a"
+    }
+  ],
+  "status": "partial",
+  "note": "Fetched 9 distinct public Wikivoyage source pages; attempted 9 article titles covering the country, capital(s), and 2 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Coverage cap: Paris: 15 additional linked subpages not fetched; Paris: 15 additional linked subpages not fetched. Destination article routing (regional/landmark guides may use a nearby gateway): Provence → Provence-Alpes-Côte d'Azur."
+}

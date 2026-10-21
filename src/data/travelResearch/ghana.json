@@ -1,0 +1,724 @@
+{
+  "sources": [
+    {
+      "title": "Ghana",
+      "url": "https://en.wikivoyage.org/wiki/Ghana",
+      "checkedAt": "2026-10-21T08:09:48.669Z"
+    },
+    {
+      "title": "Accra",
+      "url": "https://en.wikivoyage.org/wiki/Accra",
+      "checkedAt": "2026-10-21T08:09:51.663Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Accra",
+      "kind": "area",
+      "locality": "Ghana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ghana",
+      "id": "ghana-878f97eec250bb45ce95"
+    },
+    {
+      "name": "Cape Coast",
+      "kind": "area",
+      "locality": "Ghana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ghana",
+      "id": "ghana-2a51a81a8ad50c86e92f"
+    },
+    {
+      "name": "Koforidua",
+      "kind": "area",
+      "locality": "Ghana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ghana",
+      "id": "ghana-e4fd5afedc8669bcf129"
+    },
+    {
+      "name": "Kumasi",
+      "kind": "area",
+      "locality": "Ghana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ghana",
+      "id": "ghana-b64cdf4b92412cf1f3b0"
+    },
+    {
+      "name": "Obuasi",
+      "kind": "area",
+      "locality": "Ghana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ghana",
+      "id": "ghana-4c9a616235a68336f239"
+    },
+    {
+      "name": "Sekondi-Takoradi",
+      "kind": "area",
+      "locality": "Ghana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ghana",
+      "id": "ghana-b2685f811579102b9c9b"
+    },
+    {
+      "name": "Sunyani",
+      "kind": "area",
+      "locality": "Ghana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ghana",
+      "id": "ghana-72945473b6ad02cf7d4d"
+    },
+    {
+      "name": "Tamale",
+      "kind": "area",
+      "locality": "Ghana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ghana",
+      "id": "ghana-fb199504ae0be274eb7b"
+    },
+    {
+      "name": "Tema",
+      "kind": "area",
+      "locality": "Ghana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ghana",
+      "id": "ghana-6aa3acb67bc6ba669945"
+    },
+    {
+      "name": "Christmas",
+      "kind": "do",
+      "locality": "Ghana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ghana",
+      "id": "ghana-6b034e222846f8e82979"
+    },
+    {
+      "name": "National Museum",
+      "kind": "do",
+      "locality": "Accra",
+      "lat": 5.556765,
+      "lon": -0.207751,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "Barnes Rd",
+      "price": "GH₵ 80 for a foreign adult",
+      "url": "http://www.ghanamuseums.org/national-museum.php",
+      "id": "ghana-f6b684e29201d0f9fb8e"
+    },
+    {
+      "name": "Kwame Nkrumah Memorial Park",
+      "kind": "do",
+      "locality": "Accra",
+      "lat": 5.544858,
+      "lon": -0.202872,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "GPS code: GA-184-8219",
+      "id": "ghana-edf06649614e78e2dd44"
+    },
+    {
+      "name": "Independence Square",
+      "kind": "do",
+      "locality": "Accra",
+      "lat": 5.5476,
+      "lon": -0.1926,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "id": "ghana-2274fa6ae47569f388ad"
+    },
+    {
+      "name": "W.E.B. DuBois Memorial Centre",
+      "kind": "do",
+      "locality": "Accra",
+      "lat": 5.58231,
+      "lon": -0.17098,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "22 First Circular Road (Fifth Link Road)",
+      "price": "GH₵ 20 per foreign adult",
+      "id": "ghana-56468036228d9cd48c07"
+    },
+    {
+      "name": "Kane Kwei Carpentry Workshop",
+      "kind": "do",
+      "locality": "Accra",
+      "lat": 5.587742,
+      "lon": -0.09961,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "Teshie First Junction",
+      "url": "http://www.ghanacoffin.com/",
+      "id": "ghana-f3bde9cc976c8c8e51de"
+    },
+    {
+      "name": "Artists Alliance Gallery",
+      "kind": "do",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "La Beach Rd",
+      "price": "US$10–10,000",
+      "id": "ghana-4e6bd820abde26fbc3f4"
+    },
+    {
+      "name": "Jubilee House",
+      "kind": "do",
+      "locality": "Accra",
+      "lat": 5.57974,
+      "lon": -0.18837,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "url": "http://www.ghana.gov.gh/",
+      "id": "ghana-372796ebe837a9ccd2ec"
+    },
+    {
+      "name": "Jamestown",
+      "kind": "do",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "id": "ghana-e8014c913dc4c22a1199"
+    },
+    {
+      "name": "Brazil House",
+      "kind": "do",
+      "locality": "Accra",
+      "lat": 5.53628,
+      "lon": -0.2098,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "url": "http://accradotaltradio.com/",
+      "id": "ghana-a7fcca2f9dcb4ec5c3c1"
+    },
+    {
+      "name": "Achimota Forest",
+      "kind": "do",
+      "locality": "Accra",
+      "lat": 5.6243,
+      "lon": -0.204,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "Achimota College Rd",
+      "id": "ghana-f3cd16436bb634f41b1a"
+    },
+    {
+      "name": "Liberation Day Monument",
+      "kind": "do",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "28th February Road",
+      "id": "ghana-f388c651b237f9290343"
+    },
+    {
+      "name": "Nubuke Foundation",
+      "kind": "do",
+      "locality": "Accra",
+      "lat": 5.63532,
+      "lon": -0.17254,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "7 Lome Close, East Legon",
+      "url": "https://nubukefoundation.com/",
+      "id": "ghana-e1e155040913322e46c4"
+    },
+    {
+      "name": "Holy Trinity Cathedral",
+      "kind": "do",
+      "locality": "Accra",
+      "lat": 5.54149,
+      "lon": -0.20604,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "url": "https://adoa.org.gh/",
+      "id": "ghana-bfd190ecd99dfe30e61a"
+    },
+    {
+      "name": "Holy Spirit Cathedral",
+      "kind": "do",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "Castle Road",
+      "url": "http://www.holyspiritcathedralaccra.org/",
+      "id": "ghana-91761088d61a0aed551c"
+    },
+    {
+      "name": "Wesley Methodist Cathedral",
+      "kind": "do",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "Hansen Rd",
+      "url": "https://www.accrawesley.org/",
+      "id": "ghana-b3b16974338375846236"
+    },
+    {
+      "name": "Accra Central Mosque",
+      "kind": "do",
+      "locality": "Accra",
+      "lat": 5.55818,
+      "lon": -0.23015,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "Abose-Okai Rd",
+      "id": "ghana-3302d6bd849485811033"
+    },
+    {
+      "name": "Ghana National Mosque",
+      "kind": "do",
+      "locality": "Accra",
+      "lat": 5.590694,
+      "lon": -0.18973,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "Kanda (Kawukudi)",
+      "price": "Free",
+      "url": "https://www.ghananationalmosque.com/contact-us.html",
+      "id": "ghana-b3989d0246ee7f35f351"
+    },
+    {
+      "name": "Ghana Police Mosque",
+      "kind": "do",
+      "locality": "Accra",
+      "lat": 5.571687,
+      "lon": -0.180563,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "2 Cantonments Road in Cantonments",
+      "url": "https://ghpolicemosque.org/",
+      "id": "ghana-ddb7863da4f51520b05e"
+    },
+    {
+      "name": "Osu Castle",
+      "kind": "do",
+      "locality": "Accra",
+      "lat": 5.54693,
+      "lon": -0.183332,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "2 Barnes Road, Adabraka",
+      "id": "ghana-e9e542ea1a3ae6cf2a3a"
+    },
+    {
+      "name": "Fort James",
+      "kind": "do",
+      "locality": "Accra",
+      "lat": 5.53368,
+      "lon": -0.21114,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "4131 Tetteh Kpeshie Rd",
+      "price": "About GH₵ 50",
+      "id": "ghana-319c384c997995493e19"
+    },
+    {
+      "name": "Ussher Fort",
+      "kind": "do",
+      "locality": "Accra",
+      "lat": 5.53868,
+      "lon": -0.2084,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "price": "40 GH₵ per foreign adult",
+      "id": "ghana-6bfa83b95a814ae49118"
+    },
+    {
+      "name": "Bojo Beach",
+      "kind": "do",
+      "locality": "Accra",
+      "lat": 5.50884,
+      "lon": -0.32842,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "url": "http://www.bojobeachresort.com/",
+      "id": "ghana-1e9c13548d08045adf3f"
+    },
+    {
+      "name": "Labadi Beach",
+      "kind": "do",
+      "locality": "Accra",
+      "lat": 5.562,
+      "lon": -0.1381,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "price": "GH₵5",
+      "id": "ghana-372b0868df89d4c8e5c5"
+    },
+    {
+      "name": "Tills Beach Resort",
+      "kind": "do",
+      "locality": "Accra",
+      "lat": 5.41568,
+      "lon": -0.46729,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "url": "https://tillsbeachresort.com/",
+      "id": "ghana-2598e660f51e6fd33ff8"
+    },
+    {
+      "name": "Densu Delta Protected Area",
+      "kind": "do",
+      "locality": "Accra",
+      "lat": 5.5299,
+      "lon": -0.2994,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "id": "ghana-d4b282ed7d45e9d3d5a4"
+    },
+    {
+      "name": "Shai Hills Resource Reserve",
+      "kind": "do",
+      "locality": "Accra",
+      "lat": 5.8828,
+      "lon": 0.0457,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "Akosombo-Tema Rd",
+      "price": "1st hour 40 GHC",
+      "id": "ghana-c8ba42857aa462b832a5"
+    },
+    {
+      "name": "The National Archives of Ghana",
+      "kind": "do",
+      "locality": "Accra",
+      "lat": 5.561237,
+      "lon": -0.207929,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "21 Castle Road",
+      "id": "ghana-bee1fd103343071c2b14"
+    },
+    {
+      "name": "Ghana Academy of Arts and Sciences",
+      "kind": "do",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "GA-018-1233",
+      "url": "https://gaas-gh.org/",
+      "id": "ghana-548bdd69a9a98aeb1f6a"
+    },
+    {
+      "name": "University of Ghana",
+      "kind": "do",
+      "locality": "Accra",
+      "lat": 5.661,
+      "lon": -0.1863,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "id": "ghana-5b456a44617cad3a3367"
+    },
+    {
+      "name": "Tatale Vegan Restaurant",
+      "kind": "eat",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "18th Ln, Osu Accra",
+      "url": "https://tatalevegan.com/",
+      "id": "ghana-aac4009156b0170f36a6"
+    },
+    {
+      "name": "Coco Vanilla",
+      "kind": "eat",
+      "locality": "Accra",
+      "lat": 5.63982,
+      "lon": -0.11751,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "149 E Legon - Trasacco Estate Rd, Madina",
+      "id": "ghana-d0f2ec587d6a5811ffef"
+    },
+    {
+      "name": "Eddys Pizza",
+      "kind": "eat",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "url": "https://pizarea.com/restaurant/branches/eddys-pizza",
+      "id": "ghana-6bc65db5816192814b53"
+    },
+    {
+      "name": "50 50 Special Dish",
+      "kind": "eat",
+      "locality": "Accra",
+      "lat": 5.558791,
+      "lon": -0.187398,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "id": "ghana-c7c499e7ddddc240b701"
+    },
+    {
+      "name": "Fantastic",
+      "kind": "eat",
+      "locality": "Accra",
+      "lat": 5.563526,
+      "lon": -0.185713,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "id": "ghana-e68b292f223a91b5647c"
+    },
+    {
+      "name": "Bloom Bar",
+      "kind": "eat",
+      "locality": "Accra",
+      "lat": 5.557503,
+      "lon": -0.180564,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "id": "ghana-c72de48b5216decd3d6c"
+    },
+    {
+      "name": "The Post Lodge",
+      "kind": "stay",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "Accra New Town",
+      "id": "ghana-8fe25735e888e9ba76da"
+    },
+    {
+      "name": "YMCA",
+      "kind": "stay",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "Castle Road",
+      "price": "US$5",
+      "url": "https://ymcaghana.org/",
+      "id": "ghana-9e092440cd18050e386a"
+    },
+    {
+      "name": "Dot's Inn",
+      "kind": "stay",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "Olooti Rd, Labone",
+      "url": "http://dotsinn.com/",
+      "id": "ghana-a4e85001c4cb544a4e6b"
+    },
+    {
+      "name": "Christianborg Hotel",
+      "kind": "stay",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "Dabedu Rd, OSU",
+      "id": "ghana-4c3797d9fd9840a1edbe"
+    },
+    {
+      "name": "Aplaku guesthouse",
+      "kind": "stay",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "Aplaku/Kokrobite",
+      "price": "€30-40",
+      "url": "http://www.ghana-guesthouse.com/",
+      "id": "ghana-3559bcbf84eb9d36b51d"
+    },
+    {
+      "name": "New Kokomlemle Guest House",
+      "kind": "stay",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "Oroko Ave Kokomlemle",
+      "id": "ghana-e2c1ec35a292cc36e05f"
+    },
+    {
+      "name": "Somewhere Nice",
+      "kind": "stay",
+      "locality": "Accra",
+      "lat": 5.5773,
+      "lon": -0.20581,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "9 Cotton Ave",
+      "price": "162 GH₵ for bed",
+      "url": "http://hostelaccra.com/",
+      "id": "ghana-82ec0debf1f1aa9bf1bb"
+    },
+    {
+      "name": "Gye Nyame Hotel",
+      "kind": "stay",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "Asylum Down",
+      "price": "$55",
+      "id": "ghana-638cce63b047449dc537"
+    },
+    {
+      "name": "Meaglent Hotel",
+      "kind": "stay",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "1 Pantang Junction Adenta",
+      "price": "From US$60",
+      "url": "http://www.meaglent.com/",
+      "id": "ghana-40d16aca7781bda960f7"
+    },
+    {
+      "name": "Highgate Hotel",
+      "kind": "stay",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "70 Mango Tree Avenue",
+      "price": "From US$60",
+      "url": "http://www.highgatehotelghana.com/",
+      "id": "ghana-791654ab4812c15f908c"
+    },
+    {
+      "name": "Korkdam Hotel",
+      "kind": "stay",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "No. 8 Korkdam Avenue, New Achimota",
+      "price": "From US$85",
+      "url": "http://www.korkdamhotel.com/",
+      "id": "ghana-7379b71b857dc66ce532"
+    },
+    {
+      "name": "Frankies",
+      "kind": "stay",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "Oxford Street, Osu",
+      "price": "From US$95",
+      "url": "http://www.frankiesghana.com/",
+      "id": "ghana-c66e25f756bab3b40b47"
+    },
+    {
+      "name": "Paloma Hotel",
+      "kind": "stay",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "reservations@palomahotel.com",
+      "price": "From US$95",
+      "url": "http://www.palomahotel.com/",
+      "id": "ghana-a306cefa8be1b4ba9b95"
+    },
+    {
+      "name": "Ritzz Exclusive Guest House",
+      "kind": "stay",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "F530, 1 Dr Esther Ocloo St, Osu, Accra",
+      "id": "ghana-0f6d192d8fb0a81d190e"
+    },
+    {
+      "name": "Hilltop Suites",
+      "kind": "stay",
+      "locality": "Accra",
+      "lat": 5.66224,
+      "lon": -0.26016,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "Taifa",
+      "url": "https://hilltopsuitesgh.com/",
+      "id": "ghana-5e1adafce68985b680dd"
+    },
+    {
+      "name": "Prestige Suite Hotel",
+      "kind": "stay",
+      "locality": "Accra",
+      "lat": 5.5533,
+      "lon": -0.1817,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "Lokko Rd",
+      "url": "http://prestigesuitehotel.com/",
+      "id": "ghana-685da29c824c93b96a1c"
+    },
+    {
+      "name": "Midindi Ghana Hotel",
+      "kind": "stay",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "15 First Circular Road, East Cantonments,",
+      "price": "From US$125",
+      "url": "http://www.midindihotel.com/",
+      "id": "ghana-477d3a6b9fd3022d6c22"
+    },
+    {
+      "name": "Alisa Hotel",
+      "kind": "stay",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "21 Dr Isert St., North Ridge",
+      "price": "From US$125",
+      "url": "http://www.alisahotels.com/",
+      "id": "ghana-3c5fb5f91e9a78eb6967"
+    },
+    {
+      "name": "La Palm Hotel Royal Beach Hotel",
+      "kind": "stay",
+      "locality": "Accra",
+      "lat": 5.56244,
+      "lon": -0.1427,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "No 1 Bypass, Labadi Road",
+      "price": "From US$140",
+      "url": "http://lapalmroyalbeachhotel.com-accra.com/en/",
+      "id": "ghana-dfef2c842cfd3d8f1ad1"
+    },
+    {
+      "name": "African Regent Hotel",
+      "kind": "stay",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "237-238 Airport West",
+      "price": "From US$140",
+      "url": "http://www.theafricanregenthotel.com/",
+      "id": "ghana-47a5287a138d5dd08ae3"
+    },
+    {
+      "name": "Golden Tulip Hotel",
+      "kind": "stay",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "Liberation Road",
+      "price": "€126",
+      "id": "ghana-a8dc6a7a2cbdda5c5afb"
+    },
+    {
+      "name": "Airport View Hotel",
+      "kind": "stay",
+      "locality": "Accra",
+      "lat": 5.6051,
+      "lon": -0.1782,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "Dr Amilcar Cabral Road",
+      "price": "From US$150",
+      "url": "http://www.airportviewhotel.net/",
+      "id": "ghana-68c5abca1369f81faafb"
+    },
+    {
+      "name": "AH Hotel and Conference",
+      "kind": "stay",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "1st Boundary Road, East Legon, 84/86",
+      "price": "From US$180",
+      "url": "http://ahhotelafrica.com/",
+      "id": "ghana-f369bd0b534d24dfe8f7"
+    },
+    {
+      "name": "La Badi Beach Hotel",
+      "kind": "stay",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "price": "From US$180",
+      "url": "http://labadi-beach-hotel.business.site/",
+      "id": "ghana-4c7a7e6fe3074f62996e"
+    },
+    {
+      "name": "Fiesta Royale",
+      "kind": "stay",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "North Dzorwulu",
+      "price": "US$220",
+      "url": "http://www.fiestaroyalehotel.com/",
+      "id": "ghana-4bb2ebf364229156b4fb"
+    },
+    {
+      "name": "Best Western Premier Accra Airport Hotel",
+      "kind": "stay",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "17 White Avenue",
+      "price": "From US$250",
+      "id": "ghana-0a5c403597354b2405e8"
+    },
+    {
+      "name": "Mövenpick Ambassador Hotel",
+      "kind": "stay",
+      "locality": "Accra",
+      "lat": 5.554453,
+      "lon": -0.202671,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "url": "https://www.movenpick.com/en/africa/ghana/accra/moevenpick-ambassador-hotel-accra/overview/",
+      "id": "ghana-c329c6a5f9bac6dd0292"
+    },
+    {
+      "name": "Swiss Spirit Hotel & Suites Alisa - Accra",
+      "kind": "stay",
+      "locality": "Accra",
+      "lat": 5.570466,
+      "lon": -0.197028,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "21 Dr. Isert Road, North Ridge",
+      "price": "From US$ 150",
+      "url": "http://www.swissspirithotels.com/alisa-accra",
+      "id": "ghana-6f3d1108df38696bf207"
+    },
+    {
+      "name": "Accra Central Library",
+      "kind": "do",
+      "locality": "Accra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "address": "Thorpe Road",
+      "id": "ghana-1111e4361a8d44ef1752"
+    },
+    {
+      "name": "Accra",
+      "kind": "area",
+      "locality": "Accra",
+      "lat": 5.54967,
+      "lon": -0.21645,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Accra",
+      "id": "ghana-4c365920026e656e0ce0"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

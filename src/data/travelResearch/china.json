@@ -1,0 +1,3803 @@
+{
+  "sources": [
+    {
+      "title": "China",
+      "url": "https://en.wikivoyage.org/wiki/China",
+      "checkedAt": "2026-10-21T08:05:08.477Z"
+    },
+    {
+      "title": "Beijing",
+      "url": "https://en.wikivoyage.org/wiki/Beijing",
+      "checkedAt": "2026-10-21T08:05:12.202Z"
+    },
+    {
+      "title": "Beijing/Xicheng",
+      "url": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "checkedAt": "2026-10-21T08:05:14.257Z"
+    },
+    {
+      "title": "Beijing/Central Dongcheng",
+      "url": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "checkedAt": "2026-10-21T08:05:17.458Z"
+    },
+    {
+      "title": "Beijing/Shijingshan",
+      "url": "https://en.wikivoyage.org/wiki/Beijing%2FShijingshan",
+      "checkedAt": "2026-10-21T08:05:20.220Z"
+    },
+    {
+      "title": "Beijing/Haidian",
+      "url": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "checkedAt": "2026-10-21T08:05:23.634Z"
+    },
+    {
+      "title": "Beijing/Chaoyang",
+      "url": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "checkedAt": "2026-10-21T08:05:26.684Z"
+    },
+    {
+      "title": "Beijing/Fengtai",
+      "url": "https://en.wikivoyage.org/wiki/Beijing%2FFengtai",
+      "checkedAt": "2026-10-21T08:05:29.342Z"
+    },
+    {
+      "title": "Great Wall of China",
+      "url": "https://en.wikivoyage.org/wiki/Great_Wall_of_China",
+      "checkedAt": "2026-10-21T08:05:35.205Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Beijing",
+      "kind": "area",
+      "locality": "China",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/China",
+      "id": "china-146d36cce16a35f4b84a"
+    },
+    {
+      "name": "Chengdu",
+      "kind": "area",
+      "locality": "China",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/China",
+      "id": "china-2a216484d96956ead887"
+    },
+    {
+      "name": "Guangzhou",
+      "kind": "area",
+      "locality": "China",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/China",
+      "id": "china-d96981e87b8d03094e68"
+    },
+    {
+      "name": "Hangzhou",
+      "kind": "area",
+      "locality": "China",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/China",
+      "id": "china-ab0adac78ae329f6f639"
+    },
+    {
+      "name": "Harbin",
+      "kind": "area",
+      "locality": "China",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/China",
+      "id": "china-50743656f69f5091a22c"
+    },
+    {
+      "name": "Kashgar",
+      "kind": "area",
+      "locality": "China",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/China",
+      "id": "china-010847509ade1cc7a6a2"
+    },
+    {
+      "name": "Nanjing",
+      "kind": "area",
+      "locality": "China",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/China",
+      "id": "china-bca1dffbb1ee176ec4d5"
+    },
+    {
+      "name": "Shanghai",
+      "kind": "area",
+      "locality": "China",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/China",
+      "id": "china-595572c86e84f30c60f0"
+    },
+    {
+      "name": "Xi'an",
+      "kind": "area",
+      "locality": "China",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/China",
+      "id": "china-4f6051a72cf7c0234c84"
+    },
+    {
+      "name": "7 Days Inns",
+      "kind": "stay",
+      "locality": "China",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/China",
+      "url": "http://www.7daysinn.cn/",
+      "id": "china-937002370fe8bc8ec427"
+    },
+    {
+      "name": "JinJiang Inns",
+      "kind": "stay",
+      "locality": "China",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/China",
+      "url": "http://www.jinjianginns.com/",
+      "id": "china-49780f068b18f9dbc01c"
+    },
+    {
+      "name": "JI Hotel",
+      "kind": "stay",
+      "locality": "China",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/China",
+      "url": "https://www.hworld.com/hotel/quanji",
+      "id": "china-67cb55190d6486874edb"
+    },
+    {
+      "name": "Home Inns",
+      "kind": "stay",
+      "locality": "China",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/China",
+      "url": "http://www.homeinns.com/",
+      "id": "china-457894c6ff3e6a42b8d5"
+    },
+    {
+      "name": "Green Tree Inns",
+      "kind": "stay",
+      "locality": "China",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/China",
+      "url": "http://www.998.com/",
+      "id": "china-d38ef6f8f14b6ca5410b"
+    },
+    {
+      "name": "Super 8 Motels by Wyndham",
+      "kind": "stay",
+      "locality": "China",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/China",
+      "url": "http://www.super8.com.cn/Home/Index",
+      "id": "china-d8db36cb97bcc8ee5fd8"
+    },
+    {
+      "name": "Black Sesame Kitchen",
+      "kind": "do",
+      "locality": "Beijing",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing",
+      "address": "3 Black Sesame Hutong, Dongcheng District",
+      "url": "http://www.blacksesamekitchen.com/",
+      "id": "china-35028379246eba4e01ac"
+    },
+    {
+      "name": "Beijing Cookery",
+      "kind": "do",
+      "locality": "Beijing",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing",
+      "url": "http://www.beijingcookingschool.com/",
+      "id": "china-26232c1efc534b3211f5"
+    },
+    {
+      "name": "The Hutong",
+      "kind": "do",
+      "locality": "Beijing",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing",
+      "address": "1 Jiu Dao Wan Zhong Xiang Hutong, Dongcheng District (东城区九道湾中巷1号)",
+      "url": "http://www.thehutong.com/",
+      "id": "china-1e661bd80b500ad10e19"
+    },
+    {
+      "name": "Beijing",
+      "kind": "area",
+      "locality": "Beijing",
+      "lat": 39.913,
+      "lon": 116.391,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing",
+      "id": "china-fbaa312b574eaf5f9235"
+    },
+    {
+      "name": "Beihai Park",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "price": "¥15",
+      "id": "china-e993af34bb6f444be70f"
+    },
+    {
+      "name": "Beijing Zoo and Aquarium",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.938611111111,
+      "lon": 116.33333333333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "price": "Zoo ¥10-15; Pandas ¥5; Aquarium ¥100",
+      "url": "http://www.beijingzoo.com/",
+      "id": "china-3f7b6f18631ac69f14a7"
+    },
+    {
+      "name": "Jingshan Park",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "Jingshan Front Street",
+      "price": "¥2",
+      "id": "china-f077922aaf66d44f00e5"
+    },
+    {
+      "name": "Grand View Garden",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "South Caiyuan Street (南菜园街12号 Náncàiyuánjiē)",
+      "price": "¥40",
+      "id": "china-72958e5c0d677957d30f"
+    },
+    {
+      "name": "Taoranting Park",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "19 Taiping Jie (太平街19号 Tàipíngjiē)",
+      "price": "¥2",
+      "id": "china-1ebbb939b5adfae6f66d"
+    },
+    {
+      "name": "Xuanwu Garden",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.893739,
+      "lon": 116.352627,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "id": "china-11657da7a51040d881d9"
+    },
+    {
+      "name": "Xibianmen City Wall Relics Park",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "price": "Free",
+      "id": "china-322bc7cf36d08155b1c3"
+    },
+    {
+      "name": "Temple of the Moon Park",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "id": "china-6584de91a17a872fa07e"
+    },
+    {
+      "name": "Miaoying Temple",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "price": "¥20",
+      "id": "china-1cdb6ace5949c81bae6d"
+    },
+    {
+      "name": "White Cloud Temple",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "6 Baiyunguan Street (白云观街6号 Báiyúnguànjiē)",
+      "price": "¥10",
+      "id": "china-10cf7a2832a451525f0f"
+    },
+    {
+      "name": "Guanghua Temple",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "31 Ya'er Hutong (后海鸦儿胡同31号 Hòuhǎiyāérhútòng)",
+      "price": "Free",
+      "id": "china-8ee32f929df2cb38d7d5"
+    },
+    {
+      "name": "Guangji Temple",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "Fuchengmennei Street (阜成门内大街 Fùchéngménnèidàjiē)",
+      "price": "Free",
+      "id": "china-2fcbf18dbb723618f27f"
+    },
+    {
+      "name": "Lidai Diwang Miao",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "131 Fuchengmennei Street (阜成门内大街131号 Fùchéngménnèidàjiē)",
+      "price": "¥20",
+      "url": "http://www.lddwm.com/",
+      "id": "china-bd82f2381224488f55ee"
+    },
+    {
+      "name": "Fayuan Monastery",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "Fayuansihou Street (法源寺后街 Fǎyuánsìhòujiē)",
+      "price": "Free",
+      "id": "china-88530e79424bec07b2c8"
+    },
+    {
+      "name": "Baoguo Temple",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "Baoguosi Qianjie, Guang'anmennei Dajie (广安门内大街报国寺前街 Guǎngānménnèidàjiēbàoguósìqiánjiē)",
+      "price": "Free",
+      "id": "china-2df37f5dd72ded7fbfc3"
+    },
+    {
+      "name": "Temple of Agriculture",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.8754,
+      "lon": 116.3874,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "id": "china-4d8b306225338514edac"
+    },
+    {
+      "name": "Changchun Temple",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "price": "Free",
+      "id": "china-20c169e2178bea34410a"
+    },
+    {
+      "name": "Huode Zhenjun Temple",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "price": "Free",
+      "id": "china-5cd03531ca233337da7c"
+    },
+    {
+      "name": "Tianning Temple",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "price": "Free",
+      "id": "china-18be8fe2c1998f1c5220"
+    },
+    {
+      "name": "Beijing City God Temple",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "price": "Free",
+      "id": "china-e83de7fc584bd7297e85"
+    },
+    {
+      "name": "Capital Museum",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.905,
+      "lon": 116.335833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "16 Fuxingmenwai St (复兴门外大街16号 Fùxīngménwài Dàjiē)",
+      "url": "http://www.capitalmuseum.org.cn/",
+      "id": "china-4c1bb8cf1efda6a83a89"
+    },
+    {
+      "name": "Prince Gong's Mansion and Garden",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.936533333333,
+      "lon": 116.37931388889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "14A Liuyin St (柳荫街14号 Liǔyìnjiē",
+      "price": "Entrance ¥20; performances ¥60",
+      "id": "china-e9db36b30d893cd246cf"
+    },
+    {
+      "name": "Soong Ching Ling's Former Residence",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.9454443,
+      "lon": 116.3831477,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "46 Houhai North Riverside (后海北沿46号 Hòuhǎiběiyàn)",
+      "price": "¥20",
+      "url": "http://www.sql.org.cn/",
+      "id": "china-4c83c7b852280dba023f"
+    },
+    {
+      "name": "Mei Lanfang's Residence",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.93411,
+      "lon": 116.37321,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "9 Huguosi Rd (护国寺路9号 Hùguósìlù)",
+      "price": "¥10",
+      "url": "http://www.meilanfang.com.cn/",
+      "id": "china-349a7fd5e36d788a160d"
+    },
+    {
+      "name": "Guo Moruo's Former Residence",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "18 Qianhai W St (前海西街18号 Qiánhǎi Xījiē)",
+      "price": "¥20",
+      "url": "http://guomoruo.cssn.cn/",
+      "id": "china-fc040c43d40c7c9af4b2"
+    },
+    {
+      "name": "Beijing Science Center",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.96856,
+      "lon": 116.386315,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "1 North Third Ring Road Middle Rd (三北环中路1号 Sānběihuánzhōnglù)",
+      "price": "Free",
+      "url": "http://www.bjsc.net.cn/",
+      "id": "china-54cec7b0ba8d73d73b48"
+    },
+    {
+      "name": "Xu Beihong Museum",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "53 Xinjiekou Beidajie (新街口北大街53号 Xīnjiēkǒuběidàjiē)",
+      "price": "¥5",
+      "id": "china-95025bcaea6b685c2183"
+    },
+    {
+      "name": "Beijing Lu Xun Museum",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "19 Gongmenkou Ertiao, Fuchengmennei (阜成门内宫门口二条19号 Fùchèngménnèi Gōngménkǒuèrtiáo)",
+      "price": "Free",
+      "url": "http://www.luxunmuseum.com.cn/",
+      "id": "china-0a115b99ca5c4bc7cc36"
+    },
+    {
+      "name": "Museum of Ancient Pottery Civilization",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "12 South Caiyuan West Street (南菜园西街12号 Náncàiyuán Xījiē)",
+      "price": "¥20",
+      "id": "china-15ee2e067d04a7b3bd4b"
+    },
+    {
+      "name": "Paleozoological Museum of China",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.93625,
+      "lon": 116.327778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "142 Xizhimenwai Street (西直门外大街142号)",
+      "price": "¥20",
+      "url": "http://paleozoo.cn/",
+      "id": "china-00c458057146dc4be502"
+    },
+    {
+      "name": "Geological Museum of China",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.921944,
+      "lon": 116.365278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "url": "http://www.gmc.org.cn/",
+      "id": "china-df6cc9532efc723fffe9"
+    },
+    {
+      "name": "Former Residence of Li Dazhao",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "price": "Free",
+      "id": "china-27396d2073a022eb76e0"
+    },
+    {
+      "name": "Former residence of Shen Jiaben",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "price": "Free",
+      "id": "china-3f375ba801a27296535e"
+    },
+    {
+      "name": "China Numismatic Museum",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "price": "Free",
+      "id": "china-eddef968b0a10b75cae5"
+    },
+    {
+      "name": "Deshengmen",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.948555555556,
+      "lon": 116.37305555556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "North Ring Rd Two (北二环路 Běièrhuánlù)",
+      "price": "¥10",
+      "id": "china-97513e3b42f9025aea6e"
+    },
+    {
+      "name": "Cathedral of the Immaculate Conception",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "price": "Free",
+      "id": "china-958ae35034324f021011"
+    },
+    {
+      "name": "Niujie (Niu Street) Mosque",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.88453,
+      "lon": 116.35849,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "88 Niu Street (牛街88号 Niújiē)",
+      "price": "¥10",
+      "id": "china-3d03f30b27fb2f243f51"
+    },
+    {
+      "name": "Great Hall of the People",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.903333333333,
+      "lon": 116.3875,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "price": "¥30 (adult); ¥15 (student)",
+      "id": "china-54b7f608843ffdfde8d8"
+    },
+    {
+      "name": "Zhongnanhai",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.911388888889,
+      "lon": 116.38055555556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "174 West Chang'an Avenue",
+      "id": "china-025045aad86150551848"
+    },
+    {
+      "name": "Church of the Saviour",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "price": "Free",
+      "id": "china-e2abe317f5e2b6fb9faa"
+    },
+    {
+      "name": "National Assembly Building",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "id": "china-e5d68a2bbbbf10318323"
+    },
+    {
+      "name": "Ji Xiaolan Residence",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "price": "¥10",
+      "id": "china-b2806896aa324326f486"
+    },
+    {
+      "name": "Huguang Huiguan Theatre",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.8876839,
+      "lon": 116.3782947,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "3 Hufang Street (虎坊路3号 Hǔfānglù)",
+      "price": "¥150-580; museum ¥10",
+      "url": "http://www.beijinghuguang.com/",
+      "id": "china-f5ef02c701da73358745"
+    },
+    {
+      "name": "Lao She Teahouse",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "id": "china-8de0ce57f96aa7380b90"
+    },
+    {
+      "name": "Li Yuan Theatre",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "175 Yong'anlu (永安路175号 Yǒng'ānlù)",
+      "price": "¥280-580",
+      "url": "https://www.liyuantheatreopera.com/",
+      "id": "china-236a8245c7fe0c486f45"
+    },
+    {
+      "name": "Tianqiao Theatre",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "Beiwei Road (北纬路30号 Běiwěilù)",
+      "price": "¥100-600",
+      "id": "china-2742df260b909c7017bb"
+    },
+    {
+      "name": "Tsinghua Chi",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "url": "http://www.xdqhc.com/",
+      "id": "china-5fbf310fc273cd89df59"
+    },
+    {
+      "name": "Zhengyici Theatre",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.8973635,
+      "lon": 116.3797159,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "id": "china-660a96283dbca83b8479"
+    },
+    {
+      "name": "Beijing Exhibition Center",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.93931,
+      "lon": 116.33773,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "135 Xizhimenwai St (西直门外大街135号 Xīzhíménwàidàjiē)",
+      "price": "¥80-1,280",
+      "id": "china-c093080e983960d1c2c4"
+    },
+    {
+      "name": "Ethnic Cultural Palace Theatre",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "49 Fuxingmennei St (复兴门内大街49号 Fùxīngménnèidàjiē)",
+      "id": "china-4c02c4eac5132d8d7d3f"
+    },
+    {
+      "name": "People's Theater",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.9335192,
+      "lon": 116.368401,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "74 Huguosi St (护国寺大街74号 Hùguósì Dàjiē)",
+      "id": "china-c2ce6f43d502eef5989d"
+    },
+    {
+      "name": "PLA Song and Dance Theater",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.94669,
+      "lon": 116.36675,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "60 Deshengmennei St (德胜门内大街60号 Déshèngménnèi Dàjiē)",
+      "id": "china-c0014c39df292e85d903"
+    },
+    {
+      "name": "Beijing Concert Hall",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.904658,
+      "lon": 116.376404,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "1 Beixinhua St (北新华街1号 Běixīnhuá Jiē)",
+      "price": "Prices range between ¥30-380 and ¥100-698",
+      "url": "http://www.bjconcerthall.cn/",
+      "id": "china-4067cc20182d3b526a2d"
+    },
+    {
+      "name": "Central Conservatory of Music",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.90132,
+      "lon": 116.35311,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "43 Baojia St (鲍家街43号 Bàojiā Jiē)",
+      "url": "http://www.ccom.edu.cn/",
+      "id": "china-47e42788327de9ace0b7"
+    },
+    {
+      "name": "Forbidden City Concert Hall",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.9109,
+      "lon": 116.3957,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "price": "Prices range between ¥60-380 and ¥80-880",
+      "id": "china-4a358c2e2d5b9993785e"
+    },
+    {
+      "name": "National Centre for the Performing Arts",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.90354,
+      "lon": 116.38333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "2 West Chang'an St (西长安街2号 Xīcháng'ān Jiē)",
+      "url": "http://en.chncpa.org/",
+      "id": "china-a59c3d3dbe3ec43fd94e"
+    },
+    {
+      "name": "Lakes of Shichahai",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.941111111111,
+      "lon": 116.37888888889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "id": "china-eef505949359aeb975f9"
+    },
+    {
+      "name": "Hutongs of Xuanwu",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "id": "china-a896d805ecbe532e00b0"
+    },
+    {
+      "name": "Beijing Planetarium",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.936111111111,
+      "lon": 116.33055555556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "138 Xizhimenwai St (西直门外大街138号 Xīzhíménwàidàjiē)",
+      "price": "¥30-45",
+      "id": "china-278321a2b30098f58ef0"
+    },
+    {
+      "name": "Philippe Active Space Station",
+      "kind": "do",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "43 Pinganli Xidajie (平安里西大街43号 Píngānlǐ Xīdàjiē)",
+      "price": "¥20; children ¥30",
+      "id": "china-ed5d2b1b5459ce46dd22"
+    },
+    {
+      "name": "Jiumen Xiaochi",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "1 Xiaoyou Hutong (孝友胡同1号 Xiàoyǒuhútòng)",
+      "price": "Expect ¥10-30 each person",
+      "id": "china-3c841c8b0b82628e9314"
+    },
+    {
+      "name": "Ri Chang",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "14 Di'anmen W Ave (地安门西大街14号 Dìānménxī Dàjiē)",
+      "url": "http://www.bj-rc.com/",
+      "id": "china-8b32abb9a6a9735f1614"
+    },
+    {
+      "name": "Nevertheless Café",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.93782,
+      "lon": 116.38456,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "No.37 Beiguanfang Hutong 西城区北官房胡同37号",
+      "price": "¥50-100pp",
+      "id": "china-eafd273dc53229325b70"
+    },
+    {
+      "name": "Lanhuahua Restaurant",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "Tianqiao Hotel, No.11, Xijing Lu",
+      "price": "Expect ¥25-50 each person",
+      "id": "china-26f2e23fce90cb49745a"
+    },
+    {
+      "name": "Fengyuan Baozipu",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "Xinjiekou Inner St (西城区新街口外大街 Xīn​jiē​kǒu​wài​dà​jiē​)",
+      "price": "Expect to pay ¥10-30 each person",
+      "id": "china-74cfebd4c2b8e39cdddb"
+    },
+    {
+      "name": "Shaguoju",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "Xisi South St (西四南大街60号 Xīsìnán​ St)",
+      "price": "Expect ¥30-50 each person",
+      "id": "china-11aeea70e23c8031f7e8"
+    },
+    {
+      "name": "Koufuju",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "93 Taipingqiao St (太平桥大街93号 Tài​píng​qiáo​ Dà​jiē​)",
+      "price": "Hot pot from ¥39",
+      "id": "china-906a847c006e3294caab"
+    },
+    {
+      "name": "Charme",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "1 Dayue Building 6, 131 Xidan North St (西单北大街131号大悦城6楼01号 Xī​dān​běi​ Dà​jiē​, Dàyuè​chéng​lóu​)",
+      "price": "Expect around ¥50 each person",
+      "id": "china-aaa327ce33dfe628f943"
+    },
+    {
+      "name": "Qingzhen Xiaochi",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "68 Mianhua Hutong (棉花胡同68号 Miánhua Hútòng)",
+      "price": "Expect ¥10-30 each person",
+      "id": "china-4b14fd237b83f74ee994"
+    },
+    {
+      "name": "Xi'an Restaurant",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "20 Xinjiekou South St (新街口南大街20号 Xīnjiēkǒu Nán​dà​jiē​)",
+      "price": "Expect around ¥30 each person",
+      "id": "china-eee3653562ccc8e9a5a7"
+    },
+    {
+      "name": "Xidan Chiku",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "15 Zhongsheng Hutong (钟声胡同15号 Zhōngshēng Hútòng)",
+      "price": "Expect ¥30-50 each person",
+      "id": "china-dcd192cfd978529e8d4d"
+    },
+    {
+      "name": "Ma Bashi Restaurant",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "37 Xubjiekou East St (新街口东街37号 Xīnjiēkǒu Dōngjiē)",
+      "price": "Expect ¥20-30 each person",
+      "id": "china-35b5363b6b85a9e5ee5b"
+    },
+    {
+      "name": "Jinfuyuan",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "72 Xinjiekou Dongjie (新街口东街72号 Xīnjiēkǒu dōngdà​jiē​)",
+      "id": "china-cd8fba1916bd88151547"
+    },
+    {
+      "name": "Kong Yi Ji",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "South bank of Houhai (后海南岸 Hòuǎi Nánàn)",
+      "price": "Most dishes ¥20-45",
+      "id": "china-f517f2efc0fd0f201a6c"
+    },
+    {
+      "name": "Cafe Sambal",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "43 Doufuchi Hutong, Gulou Ave",
+      "price": "Most dishes ¥30-45",
+      "id": "china-e8f3182e93fac2c79745"
+    },
+    {
+      "name": "Sichuan Restaurant",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "B14 Liuyin St (柳荫街14号 Liǔ​yìn​jiē​)",
+      "price": "Expect around ¥50 each person",
+      "id": "china-abbdae45077946a73636"
+    },
+    {
+      "name": "Hutong Pizza",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "9 Yindingqiao Hutong (银锭桥胡同9号 Yín​dìng​qiáo ​Hú​tòng​)",
+      "price": "Pizzas ¥60-120",
+      "id": "china-2070da0c208521c44624"
+    },
+    {
+      "name": "Kao Rou Ji",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "14 Qianhai Dongyan (前海东沿14号 Qián​hǎi​dōng​yàn​)",
+      "id": "china-37f9dfecf8348d393ee7"
+    },
+    {
+      "name": "Yu Hua Tai",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "23 Yuzhongxili Residence, Yumin Road",
+      "id": "china-a615b79aeb847eafb496"
+    },
+    {
+      "name": "Dong Xing Lou",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "id": "china-b1d1b7caedd06e5b1fb4"
+    },
+    {
+      "name": "Little Sheep",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "43 Guang'anmennei Dajie (光安门内大街43号 Guāng'ānménnèi Dàjiē)",
+      "id": "china-e4f5077865d6f4b9ee1d"
+    },
+    {
+      "name": "Huangcheng Laoma",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "id": "china-9e6d8e7d3e07af0abe08"
+    },
+    {
+      "name": "Jinyang Restaurant",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "id": "china-083cad4f3dcb090fb639"
+    },
+    {
+      "name": "Tan Yu Tou",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "25 Zhushikou West Street (珠市口西大街临25号 Zhūshìkǒu Xīdàjiēlín)",
+      "id": "china-7c4d187a722c7e0a8730"
+    },
+    {
+      "name": "Tulu Fan Canting",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "id": "china-c22efc086cdb12a82b04"
+    },
+    {
+      "name": "Yuxin Sichuan Restaurant",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "Xidan Saite Building, 7F (西单塞特7层 Xīdān Sàitè Qīcéng)",
+      "price": "¥30-50",
+      "id": "china-56f64234bd512c6a7234"
+    },
+    {
+      "name": "Kao Rou Wan",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "58 Nanlishi Rd (南礼士路58号)",
+      "id": "china-6ab2a49602edf5092082"
+    },
+    {
+      "name": "Xiang E Qing",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "3 Jiaoyu St (教育街3号)",
+      "id": "china-b6fd063aaf7d15fa0241"
+    },
+    {
+      "name": "Beijing Ren Grand Restaurant",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "6 Erqi Juchang Rd (二七剧场路甲6号)",
+      "id": "china-9a68cc41d2f4b2ba4c34"
+    },
+    {
+      "name": "Hui Feng Hot Pot",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "115 Xinjiekou Beidajie (新街口北大街115号)",
+      "id": "china-8bdffd4f59a900789d31"
+    },
+    {
+      "name": "Hot & Tasty",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "西城区金城坊街9－7号",
+      "id": "china-9c29d72cd8322392ff29"
+    },
+    {
+      "name": "Royal Icehouse",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "Gongjian Hutong",
+      "id": "china-cff7aa20a8625ac9bb09"
+    },
+    {
+      "name": "Tong He Ju",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "B71 Yueyun South St (月云南街乙71号)",
+      "id": "china-689860418b003c1c07a9"
+    },
+    {
+      "name": "Yu Guo Tian Qing",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "35 Tonglingge Rd (佟麟阁路35号)",
+      "id": "china-b40b773c5ac1774ef189"
+    },
+    {
+      "name": "The Woods",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.9152,
+      "lon": 116.3619,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "Seasons Place - 3rd Floor, Shop L301, Financial Street 北京市西城区金融街购物中心二期3F-301",
+      "price": "¥90-250",
+      "id": "china-f59e77a174f87905f86b"
+    },
+    {
+      "name": "Await Café",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.91967,
+      "lon": 116.36711,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "59 Xisi South Street 西四南大街59号",
+      "price": "20-90 pp",
+      "id": "china-8347b2751121d4fd835b"
+    },
+    {
+      "name": "The Gourmet Room",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "3 Qianhai West St (前海西街3号 Qiánhǎixījiē)",
+      "id": "china-93d0677bd1dfbb5a3712"
+    },
+    {
+      "name": "Lijia Cai Restaurant",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "11 Yangfang Hutong, Deshengmennei St (德胜门内大街羊房胡同11号 Déshèngménnèi Dàjiē Yáng​fáng Hú​tòng​)",
+      "price": "Set menus from ¥200",
+      "id": "china-983ff42a2afa4b4324b4"
+    },
+    {
+      "name": "Haiqing Heyan",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "2 Banqiao Santiao, Xihai Xiyan (西海西沿板桥3条2号 Xīhǎixīyàn Bǎn​qiáo​tiáo​)",
+      "id": "china-33324cc7d7a314bf3e4a"
+    },
+    {
+      "name": "Ken de Rouge",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "22 Houhai West Bank (后海西沿22号 Hòuhǎixīyàn)",
+      "price": "Set menus from ¥488 per couple",
+      "id": "china-6928081f448ed22fb0f1"
+    },
+    {
+      "name": "The Noble Restaurant/Bar",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "Bajiao Pavilion, Houhai Park (后海公园内八角亭 Hòuhǎi Gōngyuánnèi Bājiǎotíng)",
+      "price": "Set menus from ¥260",
+      "id": "china-4ef557eaf5ede018f723"
+    },
+    {
+      "name": "Fu Lin",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "23 Bajiaoting Hutong (八角亭胡同23号 Bājiǎotínghútòng)",
+      "id": "china-05e127455b180bc123f3"
+    },
+    {
+      "name": "Bhodi-Saki",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "10-16 Heiyaochang Street",
+      "id": "china-15e2bab23ac7057ed763"
+    },
+    {
+      "name": "Jin Yang Restaurant",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "No.241, Zhushikou West Street",
+      "id": "china-7a04b7a4065de81b5e8c"
+    },
+    {
+      "name": "Quanjude",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "32 Qianmen Dajie (前门大街32号)",
+      "price": "Ducks cost ¥199 each and ¥99 for half a duck",
+      "id": "china-a9234e224c1b213981fc"
+    },
+    {
+      "name": "Zen",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "id": "china-19ed2d88bc7feaaa5222"
+    },
+    {
+      "name": "Whampoa Club",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "23A Jinrong St (金融大街甲23号 Jīn​róng Dà​jiē​jiǎ​)",
+      "id": "china-9f048b5aaa609f52a541"
+    },
+    {
+      "name": "Restaurant at 95",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.92267,
+      "lon": 116.36315,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "No.95 Fuchengmennei Street 西城区阜成门内大街95号",
+      "price": "¥150 pp",
+      "id": "china-df98e70483f1bb2d6d7d"
+    },
+    {
+      "name": "15 Qianhai Beiyan",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "15 Qianhai Beiyan (前海北沿15号 Qiánhǎiběiyàn)",
+      "id": "china-dee06a9bcbda775169fb"
+    },
+    {
+      "name": "Blue Lotus Club",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "1 Shichahai, Xihaidongyan (什刹海西海东沿1号 Shíchàhǎixīhǎidōngyàn)",
+      "id": "china-9d1a93754645ee29765c"
+    },
+    {
+      "name": "East Shore Live Jazz Café",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "id": "china-82457c4d81f65d4bb11d"
+    },
+    {
+      "name": "Jiadingfang",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "9 Lotus Ln, 51 W Dia'nmen (地安门西大街51号什刹海天荷坊9号 Dìānménxīdàjiē51háo, Shíchàhǎitiānhéfāng9háo)",
+      "id": "china-e065bc090f925def4d9d"
+    },
+    {
+      "name": "Rive Gauche",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "2 South Bank, Qianhai, Shichahai (什刹海前海南沿2号 Shíchàhǎi Qiánhǎi Nányàn)",
+      "id": "china-4216244b22661e5b6658"
+    },
+    {
+      "name": "4corners",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "id": "china-cd6bceb5d94f9800da7c"
+    },
+    {
+      "name": "Cigar Legends Bar",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "3 Jincheng Fangjie (金城坊街3号 Jīn​chéng​fāng​jiē​)",
+      "price": "Cigars ¥98-2,000, cocktails from ¥78",
+      "id": "china-653b36df30a60d81c45b"
+    },
+    {
+      "name": "Lao She Teahouse",
+      "kind": "eat",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "3 Qianmen West Street (前门西大街3号 Qiánménxīdàjiē)",
+      "url": "http://www.laosheteahouse.com/",
+      "id": "china-ad080baadf2ecd602b3b"
+    },
+    {
+      "name": "Baitayuan Guest House",
+      "kind": "stay",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "20 Dachaye Hutong (大茶叶胡同20号; Dàcháyè Hútòng)",
+      "price": "Discounted rates for dorms from ¥40, doubles from ¥160, breakfast included",
+      "id": "china-aec0d2b95b519ac766a4"
+    },
+    {
+      "name": "Beijing Houhai Courtyard Guest House",
+      "kind": "stay",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "14 Sanbulao Hutong",
+      "price": "Dorms from ¥45, single rooms from ¥128",
+      "id": "china-875e654f24d12432ca9b"
+    },
+    {
+      "name": "Beijing Join Inn",
+      "kind": "stay",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "14 Qinmao Hutong, Zhaodengyu Rd",
+      "price": "¥30 dormitory bed, ¥160 double room, ¥180 triple room (seasonal pricing)",
+      "id": "china-0bc611f3e242d1934c56"
+    },
+    {
+      "name": "Beijing Zhongyou Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "Courtyard 1 Lane 2 Liupukang (六铺炕二巷1号院 Liùpūkàng èrxiàng yihàoyuàn)",
+      "price": "Listed rates for doubles from ¥220, discounted from ¥163 including breakfast",
+      "url": "http://zhongyou.hotels-beijing-ch.com/en/",
+      "id": "china-63455c954a66a87c8b92"
+    },
+    {
+      "name": "Garden Inn",
+      "kind": "stay",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "95 Tonglinge Rd (佟麟阁路95号 Tónglíngélù)",
+      "price": "Listed rates for doubles from ¥219, discounted from ¥164; no breakfast available.",
+      "id": "china-895e36f68902190eafff"
+    },
+    {
+      "name": "Red Lantern House",
+      "kind": "stay",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "5 Zhengjue Hutong, Xinjie Kou",
+      "price": "Dorms from ¥50, singles from ¥130, doubles from ¥160",
+      "id": "china-9119d4a3091003ec6d5a"
+    },
+    {
+      "name": "365 Inn",
+      "kind": "stay",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "55 Dazhalan West Street (大栅栏西街55号 Dàzhàlánxījiē",
+      "price": "Dorm beds from ¥30, double rooms from ¥180",
+      "id": "china-ebcf77a1978ece41375e"
+    },
+    {
+      "name": "Beijing Far East Youth Hostel",
+      "kind": "stay",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "90 Tieshuxie Street (铁树斜街90号 Tiěshùxiéjiē)",
+      "price": "Dorm beds from ¥35, listed rates for doubles from ¥220, discounted from ¥174",
+      "id": "china-565a0ad948d84573529e"
+    },
+    {
+      "name": "Changgong Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "price": "Dorm beds ¥35, a triple room is ¥210",
+      "id": "china-5a3641a3b6a78761c80e"
+    },
+    {
+      "name": "Emperor Guest House",
+      "kind": "stay",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "11 Ying Tao Xie Jie, Qianmen, Beijing",
+      "price": "¥45 for dorm beds",
+      "url": "http://www.emperorguesthouse.com/",
+      "id": "china-23ac31476e31076e7d64"
+    },
+    {
+      "name": "Feilongge Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "10 Baizhifang West Street (白纸坊西街10号 Báizhǐfāngxījiē)",
+      "price": "Discounted rates from ¥200",
+      "id": "china-d31b470baf0c85c3e55e"
+    },
+    {
+      "name": "Home Inn (Beiwei Road)",
+      "kind": "stay",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "11 Xijing Road (西经路11号 Xījīnglù)",
+      "price": "Listed rates for doubles from ¥239, discounted from ¥214; breakfast ¥15",
+      "url": "http://www.homeinns.com/resvhomeinns/home/index.aspx",
+      "id": "china-6009ab191750c7b8587b"
+    },
+    {
+      "name": "Jing Yi Shi Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "Located between Leo hostel and Far East Y/H",
+      "price": "Twin room ¥150, ¥180, ¥220; internet access ¥10 per hour",
+      "url": "http://www.jysbg.com/",
+      "id": "china-71b2ee403a05ea3dc583"
+    },
+    {
+      "name": "Leo's Hostel",
+      "kind": "stay",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "price": "Dorm beds ¥45-70, private rooms ¥160-200",
+      "id": "china-75d1c78e055bcba2dbcd"
+    },
+    {
+      "name": "Qian Men Hostel",
+      "kind": "stay",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "33 Meishi Street Qianmen",
+      "price": "Dorm beds ¥60-70, private rooms ¥100-300",
+      "url": "http://www.qianmenhostel.com/",
+      "id": "china-865a1f17c053118c0191"
+    },
+    {
+      "name": "Shanglin Hostel",
+      "kind": "stay",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "22 Shanxixiang (陕西巷22号 Shǎnxīxiàng)",
+      "price": "Discounted rates for dorms from ¥35, doubles from ¥140, without breakfast",
+      "id": "china-e94aed747e2da74b868e"
+    },
+    {
+      "name": "Bamboo Garden Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "url": "http://www.bamboogarden-hotel.com/",
+      "id": "china-e94d06ece2d83871fb5b"
+    },
+    {
+      "name": "Beijing HWA (Apartment) Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "130 N Xidan Ave",
+      "price": "Rates start at ¥620",
+      "url": "http://www.hwaapartmenthotel.com/",
+      "id": "china-6442cf82e900bedea703"
+    },
+    {
+      "name": "Grand Mercure Xidan Beijing",
+      "kind": "stay",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "url": "https://all.accor.com/hotel/6684/index.en.shtml",
+      "id": "china-955fae9a3de3c8f2d8ae"
+    },
+    {
+      "name": "Guang'an Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "(广安门内大街321号 Guǎngānménnèidàjiē)",
+      "price": "Listed rates for doubles from ¥880; discounted from ¥358, including breakfast",
+      "id": "china-1a5cb0ac97b4f02f39e5"
+    },
+    {
+      "name": "ACFTU Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "1 Zhenwumiao Rd, Fuxingmenwai St (复兴门外大街真武庙路1号 Fùxīngménwàidàjiē Zhēnwǔmiàolù)",
+      "price": "Listed rates for doubles ¥988-11,800, discounted rates ¥498-8,960, breakfast ¥55",
+      "id": "china-0b28f9425681ede5e366"
+    },
+    {
+      "name": "Jing Ding Hang",
+      "kind": "stay",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "id": "china-2303441ee1e2ab99d1a4"
+    },
+    {
+      "name": "Presidential Plaza Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "No.9, Fuchengmen Wai Road 阜成门外大街甲9号",
+      "price": "¥500",
+      "id": "china-33021af4775a6bd3a7e3"
+    },
+    {
+      "name": "Golden Sun Commercial Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "85 Xibianmennei Street (西便门内大街85号 Xībiànménnèidàjiē)",
+      "price": "Listed rates for doubles from ¥888; discounted from ¥438, including breakfast",
+      "id": "china-3ecf4b6c83f9b3bd3e90"
+    },
+    {
+      "name": "Shenzhen Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Xicheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "address": "1 Guang An Men Wai Street, Xuanwu District",
+      "id": "china-1a3ba1304ddcdb93a4ff"
+    },
+    {
+      "name": "Beijing/Xicheng",
+      "kind": "area",
+      "locality": "Beijing/Xicheng",
+      "lat": 39.91151,
+      "lon": 116.36027,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FXicheng",
+      "id": "china-51cc65700dea8bc5434f"
+    },
+    {
+      "name": "Chairman Mao Memorial Hall",
+      "kind": "do",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.901025,
+      "lon": 116.39158055556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "price": "Free",
+      "id": "china-34c479c246b3e6ce115a"
+    },
+    {
+      "name": "Monument to the People's Heroes",
+      "kind": "do",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.903055555556,
+      "lon": 116.39166666667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "id": "china-c15d96d14d14386d2956"
+    },
+    {
+      "name": "Great Hall of the People",
+      "kind": "do",
+      "locality": "Beijing/Central Dongcheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "id": "china-13d10a80bd6d017c9090"
+    },
+    {
+      "name": "Tian'anmen Gate",
+      "kind": "do",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.907333333333,
+      "lon": 116.39108333333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "price": "¥15",
+      "id": "china-327ba3f1a93966c29a8b"
+    },
+    {
+      "name": "Zhongshan Park",
+      "kind": "do",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.9083,
+      "lon": 116.388,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "West side of Tian'anmen (天安门西侧; Tiānānménxīcè)",
+      "price": "Adults ¥3, children free",
+      "id": "china-4025c436bb5d54df8146"
+    },
+    {
+      "name": "Zhengyangmen",
+      "kind": "do",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.89796,
+      "lon": 116.39171,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "price": "¥10",
+      "id": "china-aea9ec0569342164c9e4"
+    },
+    {
+      "name": "Zhihua Temple",
+      "kind": "do",
+      "locality": "Beijing/Central Dongcheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "5 Lumicang Hutong (禄米仓胡同5号; Lùmǐcānghútòng)",
+      "price": "¥20",
+      "url": "http://www.zhihuatemple.com/",
+      "id": "china-25f4bf3ee78b7638d353"
+    },
+    {
+      "name": "Imperial Ancestral Temple",
+      "kind": "do",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.912402,
+      "lon": 116.400105,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "price": "¥2, does not include entry into buildings",
+      "url": "http://www.bjwhg.com.cn/",
+      "id": "china-a6791a2f4b1b9297ffc3"
+    },
+    {
+      "name": "Beijing Police Museum",
+      "kind": "do",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.900655,
+      "lon": 116.399122,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "36 Dongjiaomin Lane (东交民巷36号; Dōngjiāomín Xiàng)",
+      "price": "Free",
+      "url": "http://gaj.beijing.gov.cn/jcbwg/",
+      "id": "china-c1283f996839e1e70b5d"
+    },
+    {
+      "name": "China Court Museum",
+      "kind": "do",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.901348,
+      "lon": 116.400992,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "4 Zhengyi Road (正义路4号; Zhèngyì Lù)",
+      "price": "Free",
+      "url": "http://mcc.chinacourt.org/",
+      "id": "china-7e72dc09d46b4e4db9e5"
+    },
+    {
+      "name": "China Customs Museum",
+      "kind": "do",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.905687,
+      "lon": 116.426505,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "2 Jianguomen Inner Avenue (建国门内大街2号; Jiànguómén Nèi Dàjiē",
+      "price": "Free",
+      "url": "http://www.customsmuseum.cn/",
+      "id": "china-bc8f44c7bc86c58eab1e"
+    },
+    {
+      "name": "China National Museum of Women and Children",
+      "kind": "do",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.90908,
+      "lon": 116.417311,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "9 Beijige Road (北极阁路9号; Běijígé Lù",
+      "price": "Free",
+      "url": "http://ccwm.china.com.cn/",
+      "id": "china-3f41e6f753762162d531"
+    },
+    {
+      "name": "Imperial City Art Museum",
+      "kind": "do",
+      "locality": "Beijing/Central Dongcheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "9 Changpuheyan (菖蒲河沿9号; Chāngpúhéyàn)",
+      "price": "Free",
+      "id": "china-8b208384aaa1147c2087"
+    },
+    {
+      "name": "National Museum of China",
+      "kind": "do",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.903333,
+      "lon": 116.394444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "16 East Chang'an St, (东长安街16马 Dōngcháng'ānjiē)",
+      "url": "http://www.chnmuseum.cn/",
+      "id": "china-910081f66a3150e584cd"
+    },
+    {
+      "name": "Shijia Hutong Museum",
+      "kind": "do",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.916691,
+      "lon": 116.416145,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "24 Shijia Hutong (史家胡同24号; Shíjiā Hútóng",
+      "price": "Free",
+      "id": "china-22bf5f51307726d105fe"
+    },
+    {
+      "name": "CourtYard Gallery",
+      "kind": "do",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.91347,
+      "lon": 116.39626,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "53 Donganmen Dajie (东安门大街53号; Dōngānméndàjiē)",
+      "price": "Free",
+      "url": "http://www.courtyard-gallery.com/",
+      "id": "china-be800715355b9546462b"
+    },
+    {
+      "name": "Wan Fung Art Gallery",
+      "kind": "do",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.90868,
+      "lon": 116.39714,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "136 Nanchizi Jie",
+      "price": "Free",
+      "url": "http://www.wanfung.com.cn/eng/",
+      "id": "china-6a40a1aa8d5513c7a3ea"
+    },
+    {
+      "name": "Legation Quarter",
+      "kind": "do",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.90305556,
+      "lon": 116.40166667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "id": "china-cb767a112767a16ffe1f"
+    },
+    {
+      "name": "Ancient Observatory",
+      "kind": "do",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.9062,
+      "lon": 116.42859,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "2 Dongbiaobei Hutong (东裱褙胡同2号; Dōngbiǎobèihútòng)",
+      "price": "¥10",
+      "id": "china-729de13ab9b06074236f"
+    },
+    {
+      "name": "Chaonei No. 81",
+      "kind": "do",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.92332,
+      "lon": 116.42325,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "81 Chaoyangmen Inner St, 朝阳门街道内81号",
+      "price": "Free",
+      "id": "china-0c5c2d0fd664957c3222"
+    },
+    {
+      "name": "Changpu River Park",
+      "kind": "do",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.90711,
+      "lon": 116.39735,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "price": "Free",
+      "id": "china-5fe28a4210d2415f7d2b"
+    },
+    {
+      "name": "Capital Theater",
+      "kind": "do",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.92017,
+      "lon": 116.40543,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "22 Wangfujing Street (王府井大街22号; Wángfǔjǐngdàjiē)",
+      "price": "Price range between ¥40-500 and ¥120-680",
+      "url": "http://www.bjry.com/",
+      "id": "china-27a15f293f9206bc4a33"
+    },
+    {
+      "name": "Chang'an Grand Theater",
+      "kind": "do",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.90789,
+      "lon": 116.41983,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "7 Jianguomennei Street (建国门内大街7号; Jiànguóménnèidàjiē)",
+      "id": "china-2718c7056a6e7b47d328"
+    },
+    {
+      "name": "China Children's Art Theater",
+      "kind": "do",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.91345,
+      "lon": 116.40227,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "64 Donganmen Street (东安门大街64号; Dōngānméndàjiē)",
+      "url": "https://www.thebeijinger.com/directory/china-childrens-art-theater",
+      "id": "china-522aaf3cf2a20a744399"
+    },
+    {
+      "name": "Dongyuan Theater",
+      "kind": "do",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.90783,
+      "lon": 116.39618,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "Inside the Garden of Changpu River (菖蒲河公园内; Chāngpúhégōngyuánnèi)",
+      "id": "china-c0c836d58c298ea17bd4"
+    },
+    {
+      "name": "Goldsail Concert Hall",
+      "kind": "do",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.91969,
+      "lon": 116.4051,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "24 Wangfujing Street (24 Wangfujing Street (王府井大街24号; Wángfǔjǐngdàjiē)",
+      "id": "china-6f77defee0f4f21f3a76"
+    },
+    {
+      "name": "Hutong Cuisine Cooking School",
+      "kind": "do",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.92038,
+      "lon": 116.41166,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "35 Dengcao Hutong (灯草胡同35号)",
+      "price": "¥300 per person",
+      "url": "http://www.beijingcookingschool.com/",
+      "id": "china-2236cc2a2465e3138d59"
+    },
+    {
+      "name": "New China Children's Store",
+      "kind": "do",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.91204,
+      "lon": 116.40554,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "168 Wangfujing Street (王府井大街168号; Wángfǔjǐngdàjiē)",
+      "price": "¥10-20 each ride",
+      "id": "china-89a57294ede7ca815047"
+    },
+    {
+      "name": "Poetry Cafe",
+      "kind": "eat",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.90818,
+      "lon": 116.39687,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "No 15 Nanchizi street Dongcheng District Beijing (南池子大街15号故宫东华门旁",
+      "url": "http://site.douban.com/traveller",
+      "id": "china-f2f2f150891c5080d84c"
+    },
+    {
+      "name": "Wangfujing Snack Street",
+      "kind": "eat",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.90978,
+      "lon": 116.40398,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "id": "china-625409dc4376a6b35972"
+    },
+    {
+      "name": "Donghuamen Night Market",
+      "kind": "eat",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.91403,
+      "lon": 116.40293,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "price": "¥5-20 per item",
+      "id": "china-109112dac0d8e8a05c55"
+    },
+    {
+      "name": "Oriental Dumpling King",
+      "kind": "eat",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.91559,
+      "lon": 116.42078,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "14 Chaoyangmen Nanxiaojie (朝阳门南小街14号楼; Cháoyángménnánxiǎojiē)",
+      "id": "china-086338f09755bd1e69e7"
+    },
+    {
+      "name": "Donglaishun",
+      "kind": "eat",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.91116005603694,
+      "lon": 116.41159944073868,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "198 Wangfujing, Dong Dan,",
+      "url": "http://www.donglaishun.com/",
+      "id": "china-d60f19aea55abe1e8e4e"
+    },
+    {
+      "name": "Wangfujing branch",
+      "kind": "eat",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.90994,
+      "lon": 116.40537,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "198 Wangfujing, Dajie (东城区王府井大街198号)",
+      "id": "china-e60dbbbf64a62f5658da"
+    },
+    {
+      "name": "Yuxin Sichuan Restaurant",
+      "kind": "eat",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.908,
+      "lon": 116.42414,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "price": "¥30-50 per person",
+      "url": "http://www.yuxin1997.com/content/details12_112.html",
+      "id": "china-5da074a6bb287e548290"
+    },
+    {
+      "name": "Peking Chamber (Forbidden City branch)",
+      "kind": "eat",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.913237,
+      "lon": 116.396615,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "11 Nanchizi Dajie",
+      "price": "Peking roast duck from ¥228",
+      "id": "china-4e5177fc411825ff51eb"
+    },
+    {
+      "name": "Dadong Duck Restaurant",
+      "kind": "eat",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.91546955243612,
+      "lon": 116.42125887358105,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "Three locations in Dongcheng district",
+      "price": "sea cucumber ¥200-600, lobster from ¥200, +10% service charge",
+      "url": "http://dadongdadong.com/",
+      "id": "china-4ee0d1492e3188ae56dd"
+    },
+    {
+      "name": "Earl Bar",
+      "kind": "eat",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.91356,
+      "lon": 116.41092,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "1 Dongdan North Street (东单北大街1号; Dōngdānběidàjiē)",
+      "id": "china-2f6aa41ff0e66ad4346a"
+    },
+    {
+      "name": "Beijing City Central Youth Hostel",
+      "kind": "stay",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.90409,
+      "lon": 116.42015,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "1-5 Beijing Station West St. (北京站西街1-5号; Běijīngzhàn xījiē",
+      "price": "Dorms ¥60 (4-8 beds), doubles with shared bathrooms ¥160",
+      "id": "china-f7f642dc182b81c5dc38"
+    },
+    {
+      "name": "Beijing Saga International Youth Hostel",
+      "kind": "stay",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.91709,
+      "lon": 116.41911,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "9 Shijia Hutong, Nanxiao Street (南小街史家胡同9号; Nánxiǎojiē Shǐjiāhútòng)",
+      "price": "Dorms ¥40-50, doubles ¥160, triples ¥180",
+      "url": "http://www.sagayouthhostelbeijing.cn/",
+      "id": "china-6df6c862323b5d4a1ea4"
+    },
+    {
+      "name": "Eastern Morning Youth Hostel",
+      "kind": "stay",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.90904,
+      "lon": 116.41078,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "Dongdan Santiao, behind the Oriental Plaza",
+      "price": "Private rooms cost about ¥90 per night—book in advance",
+      "id": "china-4a903073b67c915ba2b3"
+    },
+    {
+      "name": "Purple Courtyard",
+      "kind": "stay",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.93760839033611,
+      "lon": 116.40044526483639,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "no.24 Shajing Hutong, NanLuoGuXiang, Dongcheng",
+      "price": "Price example, ¥408 for a triple room",
+      "id": "china-bca91012c682122e7c78"
+    },
+    {
+      "name": "Wangfujing Dawan Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.9158,
+      "lon": 116.41122,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "2 Ganyu Hutong, Dongdan Bei Street (东单北大街甘雨胡同甲2号; Dōngdānběidàjiēgānyǔhútòng)",
+      "price": "Listed rates for doubles from ¥238, discounted from ¥137; breakfast ¥15",
+      "id": "china-6b75fca48cf767cb9978"
+    },
+    {
+      "name": "Beijing Fuhao Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.92047,
+      "lon": 116.40415,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "45 Wangfujing Avenue (王府井大街45号; Wáng fǔ jǐngdà jiē)",
+      "price": "Rates for doubles on official website from ¥364.47",
+      "url": "http://www.fuhaohotelbeijing.cn/",
+      "id": "china-49e836e672f7cab48a92"
+    },
+    {
+      "name": "Beijing Golden Palace Silver Street",
+      "kind": "stay",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.91573,
+      "lon": 116.40979,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "31 Ganyu Hutong, Wangfujing Street (王府井大街甘雨胡同31号; Wángfǔjǐngdàjiē Gānyǔhútòng",
+      "id": "china-5f216f6bad8f11d5851e"
+    },
+    {
+      "name": "Beijing Harmony Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.90457,
+      "lon": 116.41816,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "59 Suzhou Hutong, Youtong Street",
+      "price": "¥488",
+      "id": "china-8d60f8fa3735345b5806"
+    },
+    {
+      "name": "Dongjiao Minxiang Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.90128,
+      "lon": 116.40147,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "23A Dongjiao Minxiang, 北京东城区东交民巷甲23号",
+      "price": "Rates start at ¥458",
+      "url": "http://www.dongjiaominxianghotelbeijing.cn/",
+      "id": "china-0ab8c0271ad28eca9812"
+    },
+    {
+      "name": "The Emperor Beijing Forbidden City Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.91859,
+      "lon": 116.397,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "33 Qihelou St. 东城区骑河楼大街33号",
+      "price": "From ¥400",
+      "url": "http://the-emperor-forbidden-city.hotels-beijing-ch.com/en/",
+      "id": "china-ed919ef5022174c9e8ae"
+    },
+    {
+      "name": "Wancheng Hua Fu International Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.91434,
+      "lon": 116.40196,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "53 Donganmen Street, 北京东城区东安门大街53号",
+      "price": "¥338 for a single room. Breakfast buffet available for ¥20",
+      "id": "china-c9e873de1927c37118e1"
+    },
+    {
+      "name": "Jingyuan Courtyard Hotel - Beijing",
+      "kind": "stay",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.9119,
+      "lon": 116.40171,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "35 Xitangzi Hutong, Wangfujing Street",
+      "price": "Rates start at ¥619",
+      "id": "china-f18026279c5add2925b9"
+    },
+    {
+      "name": "Tangyue Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.91361,
+      "lon": 116.39846,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "54 Donghuamen Road (东华门大街54号; Dōnghuàméndàjiē)",
+      "price": "Listed rates for doubles from ¥580, discounted from ¥207; western breakfast ¥25",
+      "id": "china-ae088996246bf4fc180a"
+    },
+    {
+      "name": "Beijing Hotel Nuo",
+      "kind": "stay",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.90725166321576,
+      "lon": 116.40196311921886,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "33 East Chang'an Ave. (东长安街33号, Dōngcháng'ānjiē)",
+      "price": "From ¥950",
+      "url": "https://www.nuohotel.com/en/beijing-hotel-nuo",
+      "id": "china-7916396ce3e1382e4336"
+    },
+    {
+      "name": "Grand Hotel Beijing",
+      "kind": "stay",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.90733594608332,
+      "lon": 116.40132528870633,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "35 East Chang'an Street (东长安街35号; Dōngchángānjiē)",
+      "price": "Listed rates for doubles ¥3,450-14,950, discounted rates ¥765-10,500, breakfast ¥184",
+      "url": "https://www.grandhotelbeijing.com/en_US/index.html",
+      "id": "china-1734e377399245800250"
+    },
+    {
+      "name": "Grand Hyatt Beijing",
+      "kind": "stay",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.90777778,
+      "lon": 116.40805556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "1 East Chang'an Avenue (东长安街1号, Dōngcháng'ānjiē",
+      "price": "¥1,200/night and up",
+      "url": "https://beijing.grand.hyatt.com/",
+      "id": "china-6cd216c25f2ac0ba931b"
+    },
+    {
+      "name": "Legendale Hotel Beijing",
+      "kind": "stay",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.91379,
+      "lon": 116.4131,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "90-92 Jinbao Street (金宝街90-92号; Jīnbǎojiē)",
+      "price": "Listed rates for doubles ¥4,140-7,820, discounted rates ¥1,478-5,797",
+      "url": "http://www.legendalehotel.com/",
+      "id": "china-6c0aece103af76008c1d"
+    },
+    {
+      "name": "Regent Beijing",
+      "kind": "stay",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.91458,
+      "lon": 116.41274,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "99 Jinbao St, Dong Dan, Dongcheng, Beijing, China, 100005",
+      "url": "https://www.ihg.com/regent/hotels/us/en/beijing/pekjb/hoteldetail",
+      "id": "china-09a81de866900c0064de"
+    },
+    {
+      "name": "The Peninsula Beijing",
+      "kind": "stay",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.91375,
+      "lon": 116.40879,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "8 Jinyu Hutong, Wangfujing (王府井金鱼胡同8号; Wángfǔjǐng Jīnyúhútòng)",
+      "price": "Listed rates for doubles from ¥3,400, discounted from ¥1,500, breakfast ¥299",
+      "url": "http://www.peninsula.com/Peninsula_Hotels/en/default.aspx#/Beijing/en/",
+      "id": "china-07b82fccb9e638ef20f4"
+    },
+    {
+      "name": "Xinhai Jin Jiang Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.91459,
+      "lon": 116.41973,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "address": "61 Jinbao Street (金宝街61号, Jīnbǎojiē)",
+      "price": "¥758 and up",
+      "url": "http://www.hotelxinhaijinjiang.com/",
+      "id": "china-f07fde650ecf65030470"
+    },
+    {
+      "name": "Beijing/Central Dongcheng",
+      "kind": "area",
+      "locality": "Beijing/Central Dongcheng",
+      "lat": 39.92718,
+      "lon": 116.41006,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FCentral_Dongcheng",
+      "id": "china-0e9401f51b0a8f3b0e13"
+    },
+    {
+      "name": "Badachu",
+      "kind": "do",
+      "locality": "Beijing/Shijingshan",
+      "lat": 39.955,
+      "lon": 116.17777777778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FShijingshan",
+      "id": "china-55e1a1933e51294a1497"
+    },
+    {
+      "name": "Hope Park",
+      "kind": "do",
+      "locality": "Beijing/Shijingshan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FShijingshan",
+      "id": "china-8f9fbafac5d2292ed65f"
+    },
+    {
+      "name": "Fahai Temple",
+      "kind": "do",
+      "locality": "Beijing/Shijingshan",
+      "lat": 39.9401,
+      "lon": 116.1533,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FShijingshan",
+      "id": "china-56591824b3de4f49f48f"
+    },
+    {
+      "name": "Tianyi's Tomb",
+      "kind": "do",
+      "locality": "Beijing/Shijingshan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FShijingshan",
+      "address": "80 Moshikou Dajie (模式口大街80号)",
+      "id": "china-aaa613478a696d021e91"
+    },
+    {
+      "name": "Cheng'en Temple",
+      "kind": "do",
+      "locality": "Beijing/Shijingshan",
+      "lat": 39.935555555556,
+      "lon": 116.16493333333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FShijingshan",
+      "address": "East Moshikou Dajie (模式口大街东部)",
+      "id": "china-2615a3bedcd3016e26fd"
+    },
+    {
+      "name": "China Quaternary Glacier Museum",
+      "kind": "do",
+      "locality": "Beijing/Shijingshan",
+      "lat": 39.9374983,
+      "lon": 116.162103,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FShijingshan",
+      "address": "Moshikou Dajie (模式口大街)",
+      "id": "china-d1c73730cb0a1482c3f3"
+    },
+    {
+      "name": "Beijing International Sculpture Park",
+      "kind": "do",
+      "locality": "Beijing/Shijingshan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FShijingshan",
+      "price": "¥5",
+      "id": "china-cf7b1209529f4bb4943b"
+    },
+    {
+      "name": "Babaoshan Revolutionary Cemetery",
+      "kind": "do",
+      "locality": "Beijing/Shijingshan",
+      "lat": 39.907736111111,
+      "lon": 116.23596388889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FShijingshan",
+      "id": "china-7db42cdaf5a22548ab31"
+    },
+    {
+      "name": "Cishan Temple",
+      "kind": "do",
+      "locality": "Beijing/Shijingshan",
+      "lat": 39.979747,
+      "lon": 116.156941,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FShijingshan",
+      "id": "china-f5cbd7bb48f898ce2960"
+    },
+    {
+      "name": "Shougang Industry Heritage Park tour",
+      "kind": "do",
+      "locality": "Beijing/Shijingshan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FShijingshan",
+      "id": "china-43925c55bd3afa954ce0"
+    },
+    {
+      "name": "工人 bar",
+      "kind": "eat",
+      "locality": "Beijing/Shijingshan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FShijingshan",
+      "id": "china-04b4e99330e7a5e3ae19"
+    },
+    {
+      "name": "Super 8 Hotel (Beijing Shijingshan Wanda Plaza Taiwan Street Branch)",
+      "kind": "stay",
+      "locality": "Beijing/Shijingshan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FShijingshan",
+      "address": "Building 74 South Side, Yongle East District, Lugu East Street, Shijingshan District, Beijing, 100040, China",
+      "price": "Doubles from about ¥234–330",
+      "id": "china-3ef4b5836e86235d4a71"
+    },
+    {
+      "name": "Mercure Wanshang Beijing",
+      "kind": "stay",
+      "locality": "Beijing/Shijingshan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FShijingshan",
+      "address": "No. 1 Yinhe Street (银河大街1号 Yínhé Dàjiē), Shijingshan District",
+      "price": "Doubles ¥420–600; breakfast ¥108",
+      "url": "https://all.accor.com/hotel/6826/index.en.shtml",
+      "id": "china-8a78a15b283bb7607514"
+    },
+    {
+      "name": "Wanda Realm Beijing",
+      "kind": "stay",
+      "locality": "Beijing/Shijingshan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FShijingshan",
+      "address": "Building 1, No. 18 Jia Shijingshan Road (石景山路甲18号1号楼)",
+      "price": "Doubles ¥570–800; breakfast ¥100",
+      "id": "china-ef2ded627dcdcbd51a4c"
+    },
+    {
+      "name": "Shangri-La Shougang Park",
+      "kind": "stay",
+      "locality": "Beijing/Shijingshan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FShijingshan",
+      "id": "china-bf90f4bfb103b42a8045"
+    },
+    {
+      "name": "Beijing/Shijingshan",
+      "kind": "area",
+      "locality": "Beijing/Shijingshan",
+      "lat": 39.921,
+      "lon": 116.213,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FShijingshan",
+      "id": "china-90e78db10a974f69de9c"
+    },
+    {
+      "name": "Old Summer Palace",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "28 Qinghua West Road 清华西路28号",
+      "price": "¥25",
+      "url": "http://www.yuanmingyuanpark.cn/",
+      "id": "china-80910ba657ae0287a034"
+    },
+    {
+      "name": "Summer Palace",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "price": "¥60(Apr-Oct), ¥50(Nov-Mar)",
+      "url": "https://www.summerpalace.net.cn/en/",
+      "id": "china-549150eea90555568107"
+    },
+    {
+      "name": "Wall of Khanbaliq",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 39.958724,
+      "lon": 116.348113,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "id": "china-11834c4e657772c3a900"
+    },
+    {
+      "name": "Linglong Pagoda and the Linglong Park",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 39.926802,
+      "lon": 116.289214,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "id": "china-b04e8ddffef28dd0d139"
+    },
+    {
+      "name": "Beijing World Art Museum",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 39.911514,
+      "lon": 116.321247,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "price": "Free",
+      "id": "china-d6aca4dd591613ec063c"
+    },
+    {
+      "name": "Haidian Museum",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 39.9754669481,
+      "lon": 116.3127877783,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "1-28 Zhongguancun Street (中关村大街28-1号)",
+      "price": "Free",
+      "url": "http://www.haidianmuseum.org/",
+      "id": "china-b199be312d5a9d6eab66"
+    },
+    {
+      "name": "Military Museum of the Chinese People's Revolution",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 39.90766944,
+      "lon": 116.31772222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "9 Fuxing Lu 海淀区复兴路9号",
+      "url": "http://www.jb.mil.cn/",
+      "id": "china-a39c0be3f1d03696bc73"
+    },
+    {
+      "name": "Art Museum of Tsinghua University",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 39.998357,
+      "lon": 116.329551,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "Qinghua University, 30 Shuangqing Road (双清路30号清华大学)",
+      "price": "¥20 (standard tickets), ¥60 (special exhibitions)",
+      "url": "http://www.artmuseum.tsinghua.edu.cn/en",
+      "id": "china-6687f6f0acb448d7faea"
+    },
+    {
+      "name": "The Museum of Ethnic Cultures of the Minzu University of China",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 39.947746,
+      "lon": 116.312148,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "Minzu University of China, 27 Nanda Street, Zhongguan Village (中关村南大街27号中央民族大学校园内)",
+      "price": "¥10",
+      "url": "https://bwg.muc.edu.cn/",
+      "id": "china-f777eea0ff64912dfb29"
+    },
+    {
+      "name": "Art Gallery (and Library) of China National Academy of Painting",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 39.937256,
+      "lon": 116.304332,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "54 Xi San Huan North Road (西三环北路54号)",
+      "price": "Free",
+      "url": "http://www.cnap.org.cn/cnap/zlsc/zlsc.shtml",
+      "id": "china-446bd7084b713c4c24c7"
+    },
+    {
+      "name": "Bee Museum of China",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 40.01097,
+      "lon": 116.196005,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "price": "Free",
+      "id": "china-38caf0da94b71e46b5ab"
+    },
+    {
+      "name": "Arthur M. Sackler Museum of Art and Archaeology at Peking University",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 39.994225226084126,
+      "lon": 116.29990741371742,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "5 Yiheyuan Road (颐和园路5号)",
+      "price": "Free",
+      "url": "http://www.amsm.pku.edu.cn/",
+      "id": "china-46a0145f7924a584a6b8"
+    },
+    {
+      "name": "Geological Museum of Peking University",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 39.990241628959446,
+      "lon": 116.30869879502985,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "5 Yiheyuan Road (颐和园路5号)",
+      "price": "Free",
+      "url": "http://geomuseum.pku.edu.cn/",
+      "id": "china-79f07903adde90f12912"
+    },
+    {
+      "name": "Memorial of Famous Generals in the War of Resistance Against Japanese Agression",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 39.98876,
+      "lon": 116.198497,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "18 Xiangshanbeizhenghuangqi (香山北正黄旗18号)",
+      "price": "Free",
+      "url": "http://www.kzmjw.com/",
+      "id": "china-1334955377ccb466e122"
+    },
+    {
+      "name": "China National Botanical Garden",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 39.992789,
+      "lon": 116.20934,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "price": "Adults ¥10, students ¥5",
+      "url": "http://www.chnbg.cn/",
+      "id": "china-ae628c61d1bdadba72f2"
+    },
+    {
+      "name": "Cherry Valley Forest of Red Dawnwoods",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 40.008482,
+      "lon": 116.196867,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "id": "china-b939a52e2fc4254723b7"
+    },
+    {
+      "name": "Fragrant Hills",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 39.990997222222,
+      "lon": 116.17969166667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "price": "Adults ¥10, students ¥5",
+      "id": "china-ece7db196f36d98804b4"
+    },
+    {
+      "name": "Purple Bamboo Park",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 39.9416,
+      "lon": 116.3112,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "45 Baishiqiao Road (白石桥路45号 Báishíqiáolù)",
+      "price": "¥5",
+      "id": "china-b6ec4b4da34d22804018"
+    },
+    {
+      "name": "Yuyuantan Park",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 39.917686,
+      "lon": 116.310916,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "Sanlihe Road, West Ring Road Three (西三环路三里河路 Xīsānhuánlù Sānlǐhélù)",
+      "price": "¥2",
+      "id": "china-cd4d8e6857e801b6bd11"
+    },
+    {
+      "name": "Fenghuangling",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 40.105769,
+      "lon": 116.082601,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "url": "http://www.bjfhl.com/",
+      "id": "china-abaf641051da9f5b0870"
+    },
+    {
+      "name": "Yangtaishan",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 40.079938,
+      "lon": 116.07157,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "id": "china-72b3bec33ea6cba2c5ac"
+    },
+    {
+      "name": "Jiufeng",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 40.062331,
+      "lon": 116.085869,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "id": "china-ae87c07e4b8eac79f44b"
+    },
+    {
+      "name": "Bussière Garden",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 40.05825,
+      "lon": 116.09449,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "Bei'anhe Village",
+      "price": "¥40",
+      "id": "china-532cc1e809e3a89875e9"
+    },
+    {
+      "name": "Cuihu Wetland",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 40.097489,
+      "lon": 116.176245,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "url": "http://101.200.104.134/",
+      "id": "china-146ab2b490e080882950"
+    },
+    {
+      "name": "Sikeshu/Biesimao",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 40.017236,
+      "lon": 116.19692,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "id": "china-d400a39162c532622520"
+    },
+    {
+      "name": "Baiwangshan Forest Park",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 40.030241,
+      "lon": 116.256978,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "id": "china-37d9d2c904a86d588b35"
+    },
+    {
+      "name": "Five Pagoda Temple",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 39.944166666667,
+      "lon": 116.32416666667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "24 Waitaisi Cun, Baishiqiao 白石桥五塔寺村24号",
+      "url": "http://www.bjstoneartmuseum.org.cn/",
+      "id": "china-801ea6534ee2745cf988"
+    },
+    {
+      "name": "Great Bell Temple & Museum",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "price": "¥30, free for the first 200 people on Wednesday",
+      "id": "china-3b6178f621a913e617cc"
+    },
+    {
+      "name": "Wanshou Temple",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 39.945322,
+      "lon": 116.305245,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "Xihuan Huanbeilu 西环环北路",
+      "id": "china-e2668ecd8b244b7b2d26"
+    },
+    {
+      "name": "Qinghe Mosque",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 40.025526,
+      "lon": 116.340015,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "id": "china-373ed92e1de14b3ad3af"
+    },
+    {
+      "name": "Longquan Monastery",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 40.102222,
+      "lon": 116.084722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "id": "china-b9069271a83ef4f8f25c"
+    },
+    {
+      "name": "Dajue Temple",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "price": "¥20",
+      "id": "china-9d3ff9afa5f93395838f"
+    },
+    {
+      "name": "Tsinghua University",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 40,
+      "lon": 116.32666666667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "url": "http://www.tsinghua.edu.cn/",
+      "id": "china-a0572d30a71a3fca4445"
+    },
+    {
+      "name": "Central TV Tower",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 39.918092,
+      "lon": 116.300406,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "11 West 3rd Ring Rd Central",
+      "price": "¥90 for admission ticket; ¥258 for lunch at the revolving restaurant; ¥308 for dinner at the revolving restaurant",
+      "url": "http://www.ctvt.com.cn/",
+      "id": "china-dc42d9fd344162d3a51f"
+    },
+    {
+      "name": "Nanchanghe Trail East",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 39.948334,
+      "lon": 116.350532,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "id": "china-ad2f237393aca35642da"
+    },
+    {
+      "name": "Nanchanghe Trail West",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 39.941889,
+      "lon": 116.342582,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "id": "china-1186a12298824936c374"
+    },
+    {
+      "name": "Sujiatou III and IV village",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 40.080251,
+      "lon": 116.16547,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "id": "china-03bad7a9e74a13f02924"
+    },
+    {
+      "name": "Changlecun",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 40.09877,
+      "lon": 116.188281,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "id": "china-3dbb11fd242d7f5da152"
+    },
+    {
+      "name": "Tour the University District",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "id": "china-787a290be0da5a82f16c"
+    },
+    {
+      "name": "Read about China at the National Library",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "lat": 39.945871,
+      "lon": 116.322362,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "33 Zhongguancun Nadajie 海淀区中关村南大街33号",
+      "id": "china-3a10590ce3adbd52cca4"
+    },
+    {
+      "name": "Haidian Theater",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "28 Zhongguancun Dajie, 中关村大街28号",
+      "id": "china-06386d0a996120ded1f3"
+    },
+    {
+      "name": "Cruise from Beijing Exhibition Center to the Summer Palace",
+      "kind": "do",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "id": "china-162f6e109f24f6596824"
+    },
+    {
+      "name": "Dong Lai Shun",
+      "kind": "eat",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "id": "china-0d4ffacfb52a2c887f7e"
+    },
+    {
+      "name": "Haidian branch",
+      "kind": "eat",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "25 Yiheyuan Lu, 颐和园路25号, Haidian",
+      "id": "china-b0966668f6ec7a424c09"
+    },
+    {
+      "name": "Din Tai Fung Restaurant",
+      "kind": "eat",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "40 Zhongguancun Dajie, 中关村大街40号",
+      "id": "china-de8eb60f114a57d5129d"
+    },
+    {
+      "name": "Tairyo Teppanyaki",
+      "kind": "eat",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "15 Wan Liu Zhong Lu, 万柳中路15号",
+      "url": "https://www.thebeijinger.com/directory/tairyo-teppanyaki",
+      "id": "china-6040f932f42c5ffbd8e0"
+    },
+    {
+      "name": "Jardin de Jade",
+      "kind": "eat",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "North Bldg, Block C, Ronge Information Centre, 2 Academy Rd",
+      "price": "¥70-150 per person",
+      "id": "china-4ac7361fa58aa97317d0"
+    },
+    {
+      "name": "Isshin Japanese Restaurant",
+      "kind": "eat",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "Courtyard of 35 Chengfu Lu 成府路35号院",
+      "id": "china-371aa7d27e4b986c4763"
+    },
+    {
+      "name": "Jiaheyipin Congee Restaurant",
+      "kind": "eat",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "35 Chengfu Lu 成府路35号",
+      "id": "china-1a1105696812af7f21f4"
+    },
+    {
+      "name": "Ganges Indian Restaurant",
+      "kind": "eat",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "160 Chengfu Lu, 成府路160号",
+      "url": "http://www.ganges-restaurant.com/en/index.php",
+      "id": "china-72dcfcddc9c2f53d56f1"
+    },
+    {
+      "name": "Dog Restaurant",
+      "kind": "eat",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "5th floor Youyi Shopping City",
+      "id": "china-5c315426a2af89826c65"
+    },
+    {
+      "name": "Sugar Shack",
+      "kind": "eat",
+      "locality": "Beijing/Haidian",
+      "lat": 39.98987,
+      "lon": 116.33096,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "Basement, Huaqing Jiayuan #12, Chengfu Rd 海淀区成府路华清嘉园12号楼B1",
+      "price": "¥50-80 per person",
+      "id": "china-13ec3c8e7ef5d52c4518"
+    },
+    {
+      "name": "Tianchumiaoxiang Vegetarian",
+      "kind": "eat",
+      "locality": "Beijing/Haidian",
+      "lat": 39.994,
+      "lon": 116.3231,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "Tsinghua University Sicence Park 海淀区清华科技园创业大厦110室",
+      "price": "¥40-150 per person",
+      "id": "china-2aa3051d0a6e373028c4"
+    },
+    {
+      "name": "Yummy Box",
+      "kind": "eat",
+      "locality": "Beijing/Haidian",
+      "lat": 39.991,
+      "lon": 116.3341,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "3rd floor Hua Qing Jia Yuan Dongmen, Wudaokou Haidian",
+      "price": "¥50-100 per person",
+      "id": "china-3afda97647db5ad25314"
+    },
+    {
+      "name": "Xinjiang Bayingolin Jinsite Restaurant",
+      "kind": "eat",
+      "locality": "Beijing/Haidian",
+      "lat": 39.962602,
+      "lon": 116.334027,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "2 Zaojunmiao, Sidaokou Road, Haidian, Beijing (皂君庙2号巴州驻京联络办内)",
+      "id": "china-e5b6b28ee7137673ffe5"
+    },
+    {
+      "name": "Sculpting in Time",
+      "kind": "eat",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "url": "http://www.sitcoffee.com/",
+      "id": "china-b857b1eef8ae6477f0cc"
+    },
+    {
+      "name": "Wudaokou Branch",
+      "kind": "eat",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "Fl. 2, Building 12, Huaqing Jiayuan 成府路华清嘉园12 号楼2 号3-4F",
+      "id": "china-0ef0ed81a86e2b519413"
+    },
+    {
+      "name": "Fragrant Hills Branch",
+      "kind": "eat",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "50 Maimai Rd, Fragrant Hills 香山买卖街50号",
+      "id": "china-3fdc0f7c99af88c6af0d"
+    },
+    {
+      "name": "Lush",
+      "kind": "eat",
+      "locality": "Beijing/Haidian",
+      "lat": 39.99115,
+      "lon": 116.3308,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "Level 2, Bld. 1, Huaqing Jiayuan, Wudaokou 五道口华清家园1号楼2层",
+      "id": "china-fb4421c555122b6d8272"
+    },
+    {
+      "name": "Propaganda",
+      "kind": "eat",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "id": "china-c5cdd61cd22a456131bd"
+    },
+    {
+      "name": "PekingUni International Youth Hostel",
+      "kind": "stay",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "150 Chengfu Road (成府路150号 Chéngfǔlù)",
+      "url": "http://pekinguni-international-hostel.hotels-beijing-ch.com/en/",
+      "id": "china-d449888980880aad6184"
+    },
+    {
+      "name": "Huayetianyuan Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "86 Westend of North Ring Road Three (西三环北路86号 Xīsānhuánběilù)",
+      "price": "Listed rates for doubles including breakfast ¥228, discounted ¥163",
+      "id": "china-1456bd5d2a4e2c700de9"
+    },
+    {
+      "name": "Longwu Jingpin Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "35 Enjili (恩济里35号 ēnjìlǐ)",
+      "price": "Listed price for doubles from ¥250, discounted from ¥198; breakfast ¥20",
+      "url": "http://long-wu-hotel.hotels-beijing-ch.com/en/",
+      "id": "china-440fc1fae1a686a73f6d"
+    },
+    {
+      "name": "Beijing Zhong Yu Century Grand Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "31 Lianhuachi East Road 西客站北广场莲花池东路31号",
+      "price": "From ¥360",
+      "id": "china-0a07b931992ed06b43f2"
+    },
+    {
+      "name": "Beijing Xinyuan Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "6 Shifangyuan St",
+      "price": "Best rates on official website start at ¥664",
+      "url": "http://xinyuan.hotels-beijing-ch.com/en/",
+      "id": "china-5a3a5cbd939a5209dcbb"
+    },
+    {
+      "name": "Central Garden Hotel Beijing",
+      "kind": "stay",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "No.18, Gaoliangqiao Xie Street",
+      "url": "http://central-garden.hotels-beijing-ch.com/en/",
+      "id": "china-903f2e8df4961e23f809"
+    },
+    {
+      "name": "Friendship Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "1 Zhongguancun Nandajie 中关村南大街1号",
+      "id": "china-239d50930d4462e15bea"
+    },
+    {
+      "name": "Royal King Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "39 Xueyuan S Rd, Beixiaguan",
+      "url": "http://www.royalking-rh.com/",
+      "id": "china-3272cf6e0433cbc9ec31"
+    },
+    {
+      "name": "Sariz International Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "The Gate Building, 19 Zhongguancun Avenue",
+      "price": "Rates start at ¥620.05",
+      "url": "http://sariz-international.topbeijinghotels.com/en/",
+      "id": "china-004742678897e9b677d3"
+    },
+    {
+      "name": "Shanshui Trends Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "10 Fucheng Road (阜成路10号 Fùchénglù)",
+      "price": "Listed rates for doubles from ¥388, discounted ¥181; no breakfast available.",
+      "id": "china-828551c4d3104b5e8807"
+    },
+    {
+      "name": "Shen Zhou International Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "31 Zhongguancun South Avenue",
+      "price": "from ¥553",
+      "id": "china-c43e59be5948d66faac7"
+    },
+    {
+      "name": "Somerset ZhongGuanCun Beijing",
+      "kind": "stay",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "No 15 Haidian Zhong St",
+      "price": "From ¥568",
+      "url": "http://www.somerset.com/en/china/beijing/somerset_zhongguancun.html",
+      "id": "china-81e77f9983cb8f9882aa"
+    },
+    {
+      "name": "Xinxing Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "No.17 the 3rd Ring Rd Middle West 西三北中路17号",
+      "price": "About $50 per night",
+      "id": "china-9cc74a7b89432c490497"
+    },
+    {
+      "name": "Crowne Plaza Beijing Zhongguancun",
+      "kind": "stay",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "106 Zhichun Road (知春路106号 Zhīchūnlù)",
+      "price": "Listed rates for doubles from ¥1,826, discounted rates from ¥772, breakfast ¥170 (included for more expensive rooms)",
+      "url": "http://www.ichotelsgroup.com/h/d/cp/1/en/hotel/pegzg?rpb=hotel&crUrl=/h/d/cp/1/en/hotelsearchresults",
+      "id": "china-d5bc62b4d83e6041f979"
+    },
+    {
+      "name": "Diaoyutai State Guesthouse",
+      "kind": "stay",
+      "locality": "Beijing/Haidian",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "address": "2 Fucheng Road (阜成路2号)",
+      "url": "http://chinadyt.com/en/floor/index.html",
+      "id": "china-faf6bf5cd9d2c2649072"
+    },
+    {
+      "name": "Beijing/Haidian",
+      "kind": "area",
+      "locality": "Beijing/Haidian",
+      "lat": 39.95812,
+      "lon": 116.29214,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FHaidian",
+      "id": "china-1a63719bb415510fbd4f"
+    },
+    {
+      "name": "China Central Television (CCTV) Headquarters",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "lat": 39.913842,
+      "lon": 116.457981,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "id": "china-f30012fa40f3b88f0337"
+    },
+    {
+      "name": "CITIC Tower (China Zun)",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "lat": 39.911389,
+      "lon": 116.460278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "id": "china-6ef0565449f5a7e7c59b"
+    },
+    {
+      "name": "World Trade Center Tower III",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "lat": 39.91093,
+      "lon": 116.4522,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "id": "china-4bafc8d0dcb9e6f92caa"
+    },
+    {
+      "name": "World Trade Center Phase 3B",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "lat": 39.91153,
+      "lon": 116.454575,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "id": "china-7183d65b12819b97a813"
+    },
+    {
+      "name": "Dongyue Temple",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "141 Chaowai Street (朝外大街141号; Cháowàidàjiē)",
+      "price": "¥10",
+      "url": "https://dym.com.cn/",
+      "id": "china-702a42f29b5c916e22fc"
+    },
+    {
+      "name": "Xihuang Temple",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "No. 11 Huangsi Street, Chaoyang",
+      "price": "Free",
+      "id": "china-a8f1c8e6c03183d64f06"
+    },
+    {
+      "name": "Goddess Beiding Temple",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "price": "Free",
+      "id": "china-3d5e26f1c8768d154cd7"
+    },
+    {
+      "name": "Chaoyang Park",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "lat": 39.94555556,
+      "lon": 116.47944444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "1 Nongzhan South Road (农展南路1号; Nóngzhǎn Nánlù)",
+      "price": "¥5",
+      "url": "http://www.sun-park.com/",
+      "id": "china-6f78a4151fa43165f942"
+    },
+    {
+      "name": "Ritan Park",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "lat": 39.9151,
+      "lon": 116.4377,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "6 Ritan North Road (日坛北路6号; Rìtán Běilù)",
+      "price": "Free",
+      "id": "china-ff1aa066ea0229a522f3"
+    },
+    {
+      "name": "Happy Valley Amusement Park",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "lat": 39.866418,
+      "lon": 116.488627,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "Xiaowuji North Road, Southend of East Ring Road Four (东四环南路小武基北路; Dōngsìhuánnánlù Xiǎowǔjīběilù)",
+      "price": "Adults ¥160, children 1.2 m-1.4 m ¥80",
+      "url": "http://bj.happyvalley.cn/",
+      "id": "china-05b4484926a70b0a0354"
+    },
+    {
+      "name": "Honglingjin Park",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "lat": 39.92533,
+      "lon": 116.48744,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "Houbalizhuang, East Ring Road Four (东四环路后八里庄5号; Dōngsìhuánlù Hòubālǐzhuāng)",
+      "price": "Free",
+      "id": "china-2525569bb60665b1cfd9"
+    },
+    {
+      "name": "Side Park",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "lat": 39.97097,
+      "lon": 116.46916,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "6 Fangyuan West Road (芳园西路6号; Fāngyuán Xīlù)",
+      "price": "¥10",
+      "id": "china-6d0c59bdac455595e2a3"
+    },
+    {
+      "name": "Olympic Forest Park",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "lat": 40.017703,
+      "lon": 116.386058,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "id": "china-cb046652a7afafc40ce7"
+    },
+    {
+      "name": "The North Park of the Olympic Forest Park",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "lat": 40.025703,
+      "lon": 116.386058,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "id": "china-c040cc52ae89b8030c32"
+    },
+    {
+      "name": "Yuan Dadu City Wall Ruins Park",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "Intersection of Jian'an East Road and Anzhen Road (健安东路与安贞路交叉路口)",
+      "price": "Free",
+      "id": "china-f3193da8a01f505f1d13"
+    },
+    {
+      "name": "China National Film Museum",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "id": "china-60aeddb86f5ac8e46762"
+    },
+    {
+      "name": "China Science and Technology Museum",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "id": "china-41440640740dc6e135cd"
+    },
+    {
+      "name": "China Archaeology Museum",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "id": "china-4812064f83093bfaab0a"
+    },
+    {
+      "name": "China National Arts & Crafts Museum",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "id": "china-f76cfb9a2366e777a2c6"
+    },
+    {
+      "name": "Museum of the Communist Party of China",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "id": "china-9f0f7bd85959c951b848"
+    },
+    {
+      "name": "Red Sandalwood Museum",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "id": "china-6b2ddd67c4ec625b7fa3"
+    },
+    {
+      "name": "China Sports Museum",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "id": "china-d1c4528c7e978841549f"
+    },
+    {
+      "name": "Art Museum of the Beijing Fine Art Academy",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "id": "china-d04dedc2ba7a8e93257b"
+    },
+    {
+      "name": "China Ethnic Museum",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "lat": 39.983889,
+      "lon": 116.390278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "1 Minzuyuan Road (民族园路1号; Mínzúyuánlù)",
+      "price": "¥90",
+      "url": "http://www.emuseum.org.cn/",
+      "id": "china-befe978a7aa25847562e"
+    },
+    {
+      "name": "Ethnic Costume Museum",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "id": "china-9798a4fddc6d4d7b7bf6"
+    },
+    {
+      "name": "Museum of Tibetan Culture",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "id": "china-3bf45ec3597ee4db2e6a"
+    },
+    {
+      "name": "National Museum for Modern Chinese Scientists",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "id": "china-ed98f39a9eff462be346"
+    },
+    {
+      "name": "National Museum of Modern Chinese Literature",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "id": "china-994889e8dafefc7d1bef"
+    },
+    {
+      "name": "China Railway Museum",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "id": "china-79767f87fdb1914dfc9b"
+    },
+    {
+      "name": "National Stadium",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "lat": 39.991544,
+      "lon": 116.390478,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "Olympic Park, Chaoyang District",
+      "price": "¥50",
+      "url": "http://www.n-s.cn/",
+      "id": "china-bec6b706fe64ec954932"
+    },
+    {
+      "name": "National Aquatics Center",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "lat": 39.991667,
+      "lon": 116.384167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "Olympic Green, Chaoyang District",
+      "price": "¥30",
+      "id": "china-49226be0fb43f8151ab9"
+    },
+    {
+      "name": "National Indoor Stadium",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "lat": 39.99478,
+      "lon": 116.383958,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "Olympic Green, Chaoyang District",
+      "id": "china-0a14ef3efad3dbda19fd"
+    },
+    {
+      "name": "Olympic Green Tennis Center",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "lat": 40.019133,
+      "lon": 116.373456,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "Olympic Green, Chaoyang District",
+      "id": "china-5f28fc8f74d3a2a17773"
+    },
+    {
+      "name": "Olympic Sports Center Stadium",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "lat": 39.982222,
+      "lon": 116.393056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "Beichen Road area",
+      "id": "china-762f8f70f92d30c453f1"
+    },
+    {
+      "name": "Beijing Workers’ Stadium",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "lat": 39.929528,
+      "lon": 116.441139,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "Gongti North Road",
+      "id": "china-20f37cf7c756176f7584"
+    },
+    {
+      "name": "UCCA Center for Contemporary Art",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "url": "https://www.ucca.org.cn/",
+      "id": "china-61f6764f3232e7692b3e"
+    },
+    {
+      "name": "Tang Contemporary Art",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "price": "Free",
+      "url": "https://www.tangcontemporary.com/",
+      "id": "china-78d6d579e96a96f91110"
+    },
+    {
+      "name": "Beijing Commune",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "price": "Free",
+      "url": "https://www.beijingcommune.com/",
+      "id": "china-532ac837ad49ac79e564"
+    },
+    {
+      "name": "Three Shadows Photography Art Centre",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "155 Caochangdi",
+      "url": "http://www.threeshadows.cn/",
+      "id": "china-d2cfe81f2f629c0df070"
+    },
+    {
+      "name": "Galerie Urs Meile",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "104 Caochangdi",
+      "url": "https://www.galerieursmeile.com/",
+      "id": "china-cc2cd431821d944b3438"
+    },
+    {
+      "name": "China Art Archives and Warehouse",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "url": "http://www.archivesandwarehouse.com/",
+      "id": "china-f05484cf4a8673a4b26d"
+    },
+    {
+      "name": "Century Theater",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "40 Liangmaqiao Road (亮马桥路40号; Liàngmǎqiáolù)",
+      "id": "china-1a003344003aec241e8a"
+    },
+    {
+      "name": "Chaoyang Theater",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "lat": 39.921,
+      "lon": 116.456,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "36 North East Third Ring Road (东三环北路36号; Dōngsānhuán Běilù)",
+      "price": "¥180–680",
+      "id": "china-b3159129444bf48706c4"
+    },
+    {
+      "name": "China Puppet Theater",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "1 Anhua Xili, East Third Ring Road (东三环安华西里甲1号; Dōngsānhuán Ānhuáxīlǐ)",
+      "url": "http://www.puppetchina.com/",
+      "id": "china-bf8f8ba77d55f5180f18"
+    },
+    {
+      "name": "Tuanjiehu Swimming Pool",
+      "kind": "do",
+      "locality": "Beijing/Chaoyang",
+      "lat": 39.9248,
+      "lon": 116.4595,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "16 Tuanjiehu South Road (团结湖南路16号; Tuánjiéhú Nánlù)",
+      "price": "¥30",
+      "id": "china-dacc4c55e905d930342f"
+    },
+    {
+      "name": "Side Street Jianguomen",
+      "kind": "eat",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "price": "¥50-90",
+      "id": "china-61df8748e74d4fc2bb7b"
+    },
+    {
+      "name": "Khan Baba",
+      "kind": "eat",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "price": "¥40-80",
+      "id": "china-475f2490feec472dc4ba"
+    },
+    {
+      "name": "The Middle 8th",
+      "kind": "eat",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "price": "¥80-150",
+      "id": "china-02343d36bde0b059235d"
+    },
+    {
+      "name": "Mosto",
+      "kind": "eat",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "price": "¥150-250",
+      "id": "china-043af7cfe3ce2046e487"
+    },
+    {
+      "name": "Home Plate BBQ",
+      "kind": "eat",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "price": "¥120-250",
+      "id": "china-4475f1b05742e895733c"
+    },
+    {
+      "name": "Turkish Feast",
+      "kind": "eat",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "price": "¥100-180",
+      "id": "china-d9bdd058b2066a25a4df"
+    },
+    {
+      "name": "Migas Mercado",
+      "kind": "eat",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "China World Mall",
+      "price": "¥150-250",
+      "id": "china-8c8db0bc3d1229a4d636"
+    },
+    {
+      "name": "Hua's Restaurant",
+      "kind": "eat",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "Various branches",
+      "price": "¥120-300",
+      "id": "china-02e1ca93e1f3e90b97db"
+    },
+    {
+      "name": "Xi He Ya Yuan",
+      "kind": "eat",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "Ritan area",
+      "price": "¥150-350",
+      "id": "china-0a33d15cf6dadeb550e7"
+    },
+    {
+      "name": "Makye Ame",
+      "kind": "eat",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "Jianguomenwai area",
+      "price": "¥120-250",
+      "id": "china-61026877224b80425a22"
+    },
+    {
+      "name": "Opera Bombana",
+      "kind": "eat",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "Parkview Green Fangcaodi (芳草地)",
+      "price": "¥500-1000",
+      "id": "china-4e8d99426061e54cc864"
+    },
+    {
+      "name": "Da Dong",
+      "kind": "eat",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "Tuanjiehu and other branches",
+      "price": "¥300-600",
+      "id": "china-6c1507ee3668ceb7d35a"
+    },
+    {
+      "name": "TRB Hutong",
+      "kind": "eat",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "Shatan North Street",
+      "price": "¥800+",
+      "id": "china-aada4301980a66a4f118"
+    },
+    {
+      "name": "Bottega",
+      "kind": "eat",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "Taikoo Li Sanlitun",
+      "price": "¥250-500",
+      "id": "china-2f491c4df07226f7e9f5"
+    },
+    {
+      "name": "The Kunlun Beijing",
+      "kind": "stay",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "2 Xinyuan South Road",
+      "price": "850 RMB",
+      "id": "china-19b7142b2f8c63d3a1ef"
+    },
+    {
+      "name": "Grand Millennium Beijing",
+      "kind": "stay",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "Dongsanhuan Middle Road, CBD",
+      "id": "china-1a30ee9d054e3645f696"
+    },
+    {
+      "name": "Hotel Jen Beijing",
+      "kind": "stay",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "China World Trade Center Tower B, CBD",
+      "id": "china-f98ccdc21f9f402340c8"
+    },
+    {
+      "name": "China World Summit Wing, Beijing",
+      "kind": "stay",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "China World Tower, China World Trade Center, CBD",
+      "id": "china-0e62b1c683902f2043cf"
+    },
+    {
+      "name": "Rosewood Beijing",
+      "kind": "stay",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "id": "china-183ab0fea666b381315d"
+    },
+    {
+      "name": "Park Hyatt Beijing",
+      "kind": "stay",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "Beijing Yintai Centre",
+      "id": "china-71521d69d2dcb7a418b8"
+    },
+    {
+      "name": "Four Seasons Hotel Beijing",
+      "kind": "stay",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "48 Liangmaqiao Road",
+      "id": "china-f6004921adab530dbd41"
+    },
+    {
+      "name": "Bvlgari Hotel Beijing",
+      "kind": "stay",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "Building 2, Genesis Beijing, Xinyuan South Road",
+      "id": "china-84a70092f0ecd72f2db0"
+    },
+    {
+      "name": "Hotel Éclat Beijing",
+      "kind": "stay",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "Parkview Green FangCaoDi, Dongdaqiao Road",
+      "id": "china-f22c5b0761b0dc627949"
+    },
+    {
+      "name": "CHAO Sanlitun Beijing",
+      "kind": "stay",
+      "locality": "Beijing/Chaoyang",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "address": "No. 4 Gongti East Road, Chaoyang District",
+      "id": "china-ad93e793fde923dc064d"
+    },
+    {
+      "name": "Beijing/Chaoyang",
+      "kind": "area",
+      "locality": "Beijing/Chaoyang",
+      "lat": 39.92,
+      "lon": 116.437,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FChaoyang",
+      "id": "china-1368c3c092803ecc4adc"
+    },
+    {
+      "name": "Wanping Fortress",
+      "kind": "do",
+      "locality": "Beijing/Fengtai",
+      "lat": 39.85,
+      "lon": 116.22,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FFengtai",
+      "id": "china-1b776d9238d64bfc5ecb"
+    },
+    {
+      "name": "Museum of the War of Chinese People's Resistance Against Japanese Aggression",
+      "kind": "do",
+      "locality": "Beijing/Fengtai",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FFengtai",
+      "address": "101 Wanping Fortress Inner Street, Lugou Bridge (卢沟桥宛平城内街101号)",
+      "price": "Free",
+      "url": "http://www.chinavictory.com/kzslw/foreign/views/home/indexen.html",
+      "id": "china-47f66f803d1b6ebaae23"
+    },
+    {
+      "name": "Lugou Bridge",
+      "kind": "do",
+      "locality": "Beijing/Fengtai",
+      "lat": 39.849039,
+      "lon": 116.212886,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FFengtai",
+      "id": "china-cad4e3355f86f12917ae"
+    },
+    {
+      "name": "World Park",
+      "kind": "do",
+      "locality": "Beijing/Fengtai",
+      "lat": 39.8095,
+      "lon": 116.28179,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FFengtai",
+      "address": "158 Huāxiāng Dàbǎotái 丰台区花乡大葆台158号",
+      "price": "Adults ¥65, children and concessions ¥35",
+      "id": "china-ce6b2cf76691054e035c"
+    },
+    {
+      "name": "Dabaotai Western Han Tombs Museum",
+      "kind": "do",
+      "locality": "Beijing/Fengtai",
+      "lat": 39.805,
+      "lon": 116.290556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FFengtai",
+      "price": "¥10, concessions ¥5",
+      "id": "china-deb76d9ec43272bf3335"
+    },
+    {
+      "name": "Lianhuachi Park",
+      "kind": "do",
+      "locality": "Beijing/Fengtai",
+      "lat": 39.8911,
+      "lon": 116.3089,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FFengtai",
+      "address": "48 Guǎngwài Liánhuāchí Road 丰台区广外莲花池路48号",
+      "id": "china-7fcd4f68b04085f5e548"
+    },
+    {
+      "name": "Garden Expo Park",
+      "kind": "do",
+      "locality": "Beijing/Fengtai",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FFengtai",
+      "price": "Free",
+      "id": "china-dd94bd991005b5c009de"
+    },
+    {
+      "name": "Gardens Museum of China",
+      "kind": "do",
+      "locality": "Beijing/Fengtai",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FFengtai",
+      "price": "Free",
+      "url": "https://www.gardensmuseum.cn/",
+      "id": "china-47957d30b5499752c99f"
+    },
+    {
+      "name": "Beijing Auto Museum",
+      "kind": "do",
+      "locality": "Beijing/Fengtai",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FFengtai",
+      "address": "126 South 4th Ring Road West (南四环西路126号)",
+      "price": "¥30",
+      "url": "http://automuseum.bjft.gov.cn/automuseum/",
+      "id": "china-1e526fc764a1359cf517"
+    },
+    {
+      "name": "Garden of World's Flowers",
+      "kind": "do",
+      "locality": "Beijing/Fengtai",
+      "lat": 39.8337,
+      "lon": 116.347,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FFengtai",
+      "price": "¥50",
+      "id": "china-0102b7e093d7884d0c6b"
+    },
+    {
+      "name": "Zhongding Temple",
+      "kind": "do",
+      "locality": "Beijing/Fengtai",
+      "lat": 39.853594,
+      "lon": 116.347572,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FFengtai",
+      "id": "china-c97994d5605aca5a01b8"
+    },
+    {
+      "name": "Wangjin Ge",
+      "kind": "eat",
+      "locality": "Beijing/Fengtai",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FFengtai",
+      "address": "5 Dujiakan South Road (杜家坎南路5号; Dù​jiā​kǎn​nán​lù",
+      "id": "china-5e5d2dc40edd09151ea9"
+    },
+    {
+      "name": "Qiao Yuan Fandian",
+      "kind": "stay",
+      "locality": "Beijing/Fengtai",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FFengtai",
+      "id": "china-d4090a7126e80734fe11"
+    },
+    {
+      "name": "Home Inn (Beijing Tiantan Nanmen)",
+      "kind": "stay",
+      "locality": "Beijing/Fengtai",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FFengtai",
+      "address": "Building 18 Ding'an Dongli, Ding'an Road (定安路定安东里18号楼; Dìngānlù Dìngāndōnglǐ)",
+      "price": "Listed rates for doubles from ¥179, discounted from ¥164; breakfast ¥15",
+      "url": "http://www.homeinns.com/resvhomeinns/home/index.aspx",
+      "id": "china-dd8144f83558181b92fc"
+    },
+    {
+      "name": "Home Inn (Liuliqiao)",
+      "kind": "stay",
+      "locality": "Beijing/Fengtai",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FFengtai",
+      "address": "14 Southend of West Ring Road Four (西三环南路14号; Xīsānhuánnánlù)",
+      "price": "Listed rates for doubles from ¥179, discounted from ¥164; breakfast ¥15",
+      "url": "http://www.homeinns.com/resvhomeinns/home/index.aspx",
+      "id": "china-26880a31844ece0ad332"
+    },
+    {
+      "name": "Home Inn (Qingta)",
+      "kind": "stay",
+      "locality": "Beijing/Fengtai",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FFengtai",
+      "address": "2 Qingtaxili (青塔西里甲2号; Qīngtǎxīlǐjiǎ)",
+      "price": "Listed rates for doubles from ¥199, discounted from ¥164; breakfast ¥15",
+      "url": "http://www.homeinns.com/resvhomeinns/home/index.aspx",
+      "id": "china-c490264e0dd14d3c3be8"
+    },
+    {
+      "name": "Home Inn (Yuquanlu)",
+      "kind": "stay",
+      "locality": "Beijing/Fengtai",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FFengtai",
+      "address": "Xiaotun Road (小屯路4号; Xiǎotúnlù)",
+      "price": "Listed rates for doubles from ¥199, discounted from ¥164; breakfast ¥15",
+      "url": "http://www.homeinns.com/resvhomeinns/home/index.aspx",
+      "id": "china-084780271debcaca5ffa"
+    },
+    {
+      "name": "Maple Business Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Fengtai",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FFengtai",
+      "address": "30 Southend of West Fourth Ring Road (西四环南路30号; Xīsìhuánnánlù)",
+      "id": "china-05faf490d1e1b1a238bc"
+    },
+    {
+      "name": "Beijing Shanshui Trends (Liuli Bridge)",
+      "kind": "stay",
+      "locality": "Beijing/Fengtai",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FFengtai",
+      "address": "44 Taipingqiao Road (太平桥路44号; Tàipíngqiáolù)",
+      "price": "Listed rates for doubles from ¥268, discounted from ¥198; no breakfast available",
+      "url": "http://www.shanshuihotel.com/shanshui/website/index.jsp",
+      "id": "china-9d5f054bc591843f2789"
+    },
+    {
+      "name": "Beijing Wendu Shortcut Business Affairs Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Fengtai",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FFengtai",
+      "address": "2 South Xiju Street (西局南街2号; Xījúnánjiē)",
+      "price": "Listed rates for doubles from ¥380, discounted from ¥172 including breakfast",
+      "id": "china-3223d5d9bb337c252def"
+    },
+    {
+      "name": "Jianying Hotel",
+      "kind": "stay",
+      "locality": "Beijing/Fengtai",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FFengtai",
+      "url": "http://www.jianyinhotel.cn/star.asp?lan=en",
+      "id": "china-55e3037c221e5b943c3a"
+    },
+    {
+      "name": "Beijing/Fengtai",
+      "kind": "area",
+      "locality": "Beijing/Fengtai",
+      "lat": 39.835,
+      "lon": 116.3,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beijing%2FFengtai",
+      "id": "china-d9d68e1001321b134af4"
+    },
+    {
+      "name": "Hike the wild wall",
+      "kind": "do",
+      "locality": "Great Wall of China",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Great_Wall_of_China",
+      "id": "china-ed2f18dcd99e0ea583af"
+    },
+    {
+      "name": "Great Wall of China",
+      "kind": "area",
+      "locality": "Great Wall of China",
+      "lat": 40.67693,
+      "lon": 117.23193,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Great_Wall_of_China",
+      "id": "china-6802f0172c952e68ec19"
+    }
+  ],
+  "status": "partial",
+  "note": "Fetched 9 distinct public Wikivoyage source pages; attempted 9 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Coverage cap: Beijing: 17 additional linked subpages not fetched. Destination article routing (regional/landmark guides may use a nearby gateway): Great Wall → Great Wall of China."
+}

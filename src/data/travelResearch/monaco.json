@@ -1,0 +1,691 @@
+{
+  "sources": [
+    {
+      "title": "Monaco",
+      "url": "https://en.wikivoyage.org/wiki/Monaco",
+      "checkedAt": "2026-10-21T08:11:10.774Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Monte Carlo Casino",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.73917,
+      "lon": 7.42796,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "Place du Casino",
+      "url": "http://www.casinomontecarlo.com/",
+      "id": "monaco-e85b2a1ae83374a07a80"
+    },
+    {
+      "name": "Opéra de Monaco",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.73886,
+      "lon": 7.428481,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "url": "http://www.opera.mc/",
+      "id": "monaco-9c432f1c5d3bb507007b"
+    },
+    {
+      "name": "Monaco-Ville",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.731022,
+      "lon": 7.423502,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "id": "monaco-bd37a7946254e76c1ab5"
+    },
+    {
+      "name": "Palais Princier",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.73091,
+      "lon": 7.420125,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "price": "€10",
+      "url": "http://www.palais.mc/",
+      "id": "monaco-dd188a9684ffd3c74b56"
+    },
+    {
+      "name": "Cathédrale Notre-Dame-Immaculée",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.729988,
+      "lon": 7.422645,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "url": "http://www.cathedrale.mc/",
+      "id": "monaco-b63cc63d1230c08b52b3"
+    },
+    {
+      "name": "Jardins Saint-Martin",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.729622,
+      "lon": 7.4242034,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "Avenue Saint-Martin",
+      "id": "monaco-b1bcbb690839499253bb"
+    },
+    {
+      "name": "Musée océanographique",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.730808,
+      "lon": 7.425384,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "Avenue Saint-Martin",
+      "price": "€19; combined tickets with car collection €23",
+      "url": "http://www.oceano.mc/",
+      "id": "monaco-dd7490e861bf4e145db1"
+    },
+    {
+      "name": "Musée de l'automobile de Monaco",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.730894,
+      "lon": 7.417149,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "Les Terrasses de Fontvieille",
+      "price": "Adults €10, students €5",
+      "url": "https://www.mtcc.mc/",
+      "id": "monaco-e0490f3e090e6665d8ce"
+    },
+    {
+      "name": "Musée des Timbres et des Monnaies",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.73088,
+      "lon": 7.41759,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "11 terrasses de Fontvieille",
+      "price": "€3",
+      "url": "https://www.mtm-monaco.mc/",
+      "id": "monaco-8b51879eff5ef8a1055c"
+    },
+    {
+      "name": "Jardin Exotique",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.731511,
+      "lon": 7.413778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "62, Boulevard du Jardin Exotique",
+      "price": "The entry cost is a bit steep (€7.20) unless you're under 16 or a student (€3.80)",
+      "url": "https://www.jardin-exotique.mc/",
+      "id": "monaco-4cd28a90e068f5306569"
+    },
+    {
+      "name": "Yacht Club Monaco",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.73749,
+      "lon": 7.42792,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "Quai Louis II",
+      "url": "http://www.yacht-club-monaco.mc/en/",
+      "id": "monaco-542a42414ade319de3ed"
+    },
+    {
+      "name": "La Condamine",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.734608,
+      "lon": 7.421552,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "id": "monaco-42e6c68953b0a8a0e0b6"
+    },
+    {
+      "name": "Condamine Market",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.7326335,
+      "lon": 7.4195302,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "id": "monaco-a62a6092fd778b0b7aeb"
+    },
+    {
+      "name": "Rue Princesse Caroline pedestrian street",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.733267,
+      "lon": 7.420012,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "id": "monaco-61308305d10a272b8ed1"
+    },
+    {
+      "name": "Grimaldi Forum",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.744122,
+      "lon": 7.431456,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "10, Avenue Princesse Grace",
+      "url": "http://www.grimaldiforum.com/",
+      "id": "monaco-2f1577043942f54bd382"
+    },
+    {
+      "name": "Champions Promenade",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.738112,
+      "lon": 7.429856,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "url": "https://goldenfoot.com/",
+      "id": "monaco-fc74568c4127201cb329"
+    },
+    {
+      "name": "Jardin Japonais",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.742796,
+      "lon": 7.431126,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "id": "monaco-aaa1bac3aaaf6f1a326a"
+    },
+    {
+      "name": "Nouveau Musée National - Villa Sauber",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.7444,
+      "lon": 7.4305,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "Avenue Princesse Grace 17",
+      "price": "€6 (Villa Paloma + Villa Sauber)",
+      "url": "http://www.nmnm.mc/",
+      "id": "monaco-f495ff2fd2a2e5003860"
+    },
+    {
+      "name": "Nouveau Musée National - Villa Paloma",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.73287,
+      "lon": 7.4138,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "Boulevard du Jardin Exotique 56",
+      "price": "€6 (Villa Paloma + Villa Sauber)",
+      "url": "http://www.nmnm.mc/",
+      "id": "monaco-bf8d6c2875169c11e963"
+    },
+    {
+      "name": "One Monte-Carlo",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.73934,
+      "lon": 7.4262,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "url": "https://www.montecarlosbm.com/en/hotel-monaco/residences/one-monte-carlo",
+      "id": "monaco-473f9bbed0e5a4284fe7"
+    },
+    {
+      "name": "Église Sainte-Dévote",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.737506,
+      "lon": 7.420976,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "url": "http://www.saintedevotemonaco.com/",
+      "id": "monaco-75779586b0d7f268053d"
+    },
+    {
+      "name": "Monaco Grand Prix",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.734444,
+      "lon": 7.421389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "url": "https://monaco-grandprix.com/en/",
+      "id": "monaco-f357eb0d8bd914f05234"
+    },
+    {
+      "name": "Historic Grand Prix of Monaco",
+      "kind": "do",
+      "locality": "Monaco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "url": "http://www.formula1monaco.com/",
+      "id": "monaco-1f018ed2b804871265eb"
+    },
+    {
+      "name": "Monaco ePrix",
+      "kind": "do",
+      "locality": "Monaco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "url": "http://www.formula1monaco.com/",
+      "id": "monaco-eb4bd86b7b9d4413d5e2"
+    },
+    {
+      "name": "Festival International du Cirque",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.726319,
+      "lon": 7.418689,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "5 Avenue des Ligures",
+      "price": "€30-190",
+      "url": "http://www.montecarlofestival.mc/",
+      "id": "monaco-74632d437bfa99064bc1"
+    },
+    {
+      "name": "Monte Carlo Tennis Masters",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.751741,
+      "lon": 7.440729,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "price": "Single day tickets vary between €25-185",
+      "url": "http://montecarlotennismasters.com/",
+      "id": "monaco-96ff430d3f3550ecea1a"
+    },
+    {
+      "name": "Top Marques Monaco",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.7435,
+      "lon": 7.43152,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "10, Avenue Princesse Grace",
+      "price": "€36-50 for adults, €18-25 for children",
+      "url": "http://www.topmarquesmonaco.com/",
+      "id": "monaco-7ccf74bf759be84d2cf9"
+    },
+    {
+      "name": "Rallye Monte Carlo",
+      "kind": "do",
+      "locality": "Monaco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "url": "https://acm.mc/en/rallye-monte-carlo/",
+      "id": "monaco-a15e9501956113322fed"
+    },
+    {
+      "name": "Monaco Yacht Show",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.733468,
+      "lon": 7.421964,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "Route de la Piscine",
+      "price": "EUR 690 (day pass. Just make sure you have that extra few million on hand if you want to buy anything.)",
+      "url": "http://www.monacoyachtshow.com/",
+      "id": "monaco-3054a568e6cf90f012ba"
+    },
+    {
+      "name": "Monte-Carlo International Show Jumping",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.73301,
+      "lon": 7.42284,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "Route de la Piscine",
+      "url": "https://jumping-monaco.com/",
+      "id": "monaco-893fba91f11a0997cfe5"
+    },
+    {
+      "name": "Hike or drive up Tête de Chien (\"Dogs Head\")",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.730222,
+      "lon": 7.402778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "id": "monaco-cc333dd91817a9941602"
+    },
+    {
+      "name": "Another nice place nearby with an extraordinary panorama",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.7345973,
+      "lon": 7.4034171,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "id": "monaco-ff14329f1173808d284d"
+    },
+    {
+      "name": "Hike along the coastal path from Monaco to Carnoles",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.7503978,
+      "lon": 7.4785356,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "id": "monaco-dd22c839fd1d0bdfee1a"
+    },
+    {
+      "name": "Azur Express",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.7309036,
+      "lon": 7.4253051,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "price": "€10 adults, €5 children",
+      "url": "http://www.monacotours.mc/",
+      "id": "monaco-b0558b0d94dff44822ab"
+    },
+    {
+      "name": "Monte-Carlo Sporting",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.7472,
+      "lon": 7.4382,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "id": "monaco-5f2ffd0f86d50cd7f7d6"
+    },
+    {
+      "name": "AS Monaco",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.72758,
+      "lon": 7.41547,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "7 Avenue des Castelans",
+      "url": "http://www.asmonaco.com/en/",
+      "id": "monaco-34b9850a7618473d136f"
+    },
+    {
+      "name": "The Monaco Open Air Cinema",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.73134,
+      "lon": 7.4271,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "Parking du Chemin des pêcheurs",
+      "price": "EUR 11.50",
+      "url": "https://www.cinemas2monaco.com/",
+      "id": "monaco-49d9dee8f99b9d92cd58"
+    },
+    {
+      "name": "Scenic helicopter flight",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.72577,
+      "lon": 7.41927,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "Avenue des Ligures",
+      "price": "From €390 (10 min) to €900 (30 min) per helicopter (6 passengers)",
+      "url": "https://www.heliairmonaco.com/",
+      "id": "monaco-370c4b694cc8b9ff919d"
+    },
+    {
+      "name": "Walk along the Parcours Princesse Grace",
+      "kind": "do",
+      "locality": "Monaco",
+      "lat": 43.72824,
+      "lon": 7.41494,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "url": "https://www.monte-carlo.mc/static/img/guides/parcours-princesse-grace-en.pdf",
+      "id": "monaco-45d1b44c6055e364aa7f"
+    },
+    {
+      "name": "Chez Roger",
+      "kind": "eat",
+      "locality": "Monaco",
+      "lat": 43.7324334,
+      "lon": 7.4201694,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "id": "monaco-f79de3d8bfacda28a18b"
+    },
+    {
+      "name": "Mickey’s Pizza",
+      "kind": "eat",
+      "locality": "Monaco",
+      "lat": 43.7334802,
+      "lon": 7.4182891,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "10 Rue de la Turbie",
+      "url": "https://www.mickeyspizza-monaco.com/",
+      "id": "monaco-d11df2e2266e6d000c80"
+    },
+    {
+      "name": "Cooks Monaco",
+      "kind": "eat",
+      "locality": "Monaco",
+      "lat": 43.7388083,
+      "lon": 7.4206719,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "10 Bd Princesse Charlotte",
+      "id": "monaco-5dafabf852b1f6549577"
+    },
+    {
+      "name": "Lo Sfizio Street",
+      "kind": "eat",
+      "locality": "Monaco",
+      "lat": 43.7421777,
+      "lon": 7.4264822,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "14 Av. Saint-Charles",
+      "id": "monaco-88c04794587af1438e63"
+    },
+    {
+      "name": "Maison des pâtes Saint-Charles",
+      "kind": "eat",
+      "locality": "Monaco",
+      "lat": 43.7422661,
+      "lon": 7.4265801,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "14 Av. Saint-Charles",
+      "id": "monaco-b9f9e60bed0ddba15703"
+    },
+    {
+      "name": "Café de Paris",
+      "kind": "eat",
+      "locality": "Monaco",
+      "lat": 43.73972,
+      "lon": 7.42769,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "Place du Casino",
+      "id": "monaco-cf19e3bfb62f209cae49"
+    },
+    {
+      "name": "Beefbar",
+      "kind": "eat",
+      "locality": "Monaco",
+      "lat": 43.72781,
+      "lon": 7.42162,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "42 Quai Jean-Charles Rey",
+      "url": "http://beefbar.com/",
+      "id": "monaco-6e36c0b4f89e7ee0851a"
+    },
+    {
+      "name": "L'Express",
+      "kind": "eat",
+      "locality": "Monaco",
+      "lat": 43.730786,
+      "lon": 7.422509,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "22 Rue Comte Félix Gastaldi",
+      "url": "https://lexpress-restaurant-monaco.com/",
+      "id": "monaco-97c4737309e65c8dfda0"
+    },
+    {
+      "name": "Louis XV",
+      "kind": "eat",
+      "locality": "Monaco",
+      "lat": 43.73911,
+      "lon": 7.42734,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "Hôtel de Paris - Place du Casino",
+      "price": "Á la carte from €200 (not including drinks), set lunch for €180/person (Aug 2020)",
+      "url": "https://www.montecarlosbm.com/en/restaurant-monaco/le-louis-xv-alain-ducasse-hotel-de-paris",
+      "id": "monaco-8c19cfc5621a5371de3a"
+    },
+    {
+      "name": "Le Grill",
+      "kind": "eat",
+      "locality": "Monaco",
+      "lat": 43.73854,
+      "lon": 7.42758,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "In the Hôtel de Paris, place du Casino",
+      "price": "A la carte approximately €60-80 (neither drinks nor starter included). Set menu for lunch €65 (Aug 2020)",
+      "url": "https://www.montecarlosbm.com/en/restaurant-monaco/the-grill",
+      "id": "monaco-433e94fcac92722d57f6"
+    },
+    {
+      "name": "Jimmy’z Monte-Carlo",
+      "kind": "eat",
+      "locality": "Monaco",
+      "lat": 43.747262,
+      "lon": 7.438194,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "26 avenue Princesse Grace",
+      "url": "http://www.jimmyzmontecarlo.com/",
+      "id": "monaco-15451134dbf55b6d58cd"
+    },
+    {
+      "name": "Buddha-Bar Monte-Carlo",
+      "kind": "eat",
+      "locality": "Monaco",
+      "lat": 43.739911,
+      "lon": 7.429171,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "Place du Casino",
+      "url": "http://www.buddhabarmontecarlo.com/",
+      "id": "monaco-3d5999c64f0ec131ab33"
+    },
+    {
+      "name": "Gerhard's Café",
+      "kind": "eat",
+      "locality": "Monaco",
+      "lat": 43.7277639,
+      "lon": 7.4216863,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "42 Quai Jean-Charles Rey",
+      "url": "http://www.gerhardscafe-monaco.com/",
+      "id": "monaco-6b2ff74532444ea42cc3"
+    },
+    {
+      "name": "Twiga",
+      "kind": "eat",
+      "locality": "Monaco",
+      "lat": 43.74337,
+      "lon": 7.43172,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "Top Floor Grimaldi Forum Ave. Princesse Grace",
+      "url": "https://www.twigamontecarlo.com/",
+      "id": "monaco-b011d9c8c80dbd4e982f"
+    },
+    {
+      "name": "The Bar @ Columbus Hotel",
+      "kind": "eat",
+      "locality": "Monaco",
+      "lat": 43.7273,
+      "lon": 7.42006,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "23 Avenue des Papalins Monte Carlo",
+      "id": "monaco-7004e6ef7aa2853dfbf7"
+    },
+    {
+      "name": "La Rascasse",
+      "kind": "eat",
+      "locality": "Monaco",
+      "lat": 43.73259,
+      "lon": 7.42332,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "url": "https://www.montecarlosbm.com/de/bar-nachtclub-monaco/la-rascasse",
+      "id": "monaco-d0b6ab873ebe7c314052"
+    },
+    {
+      "name": "Hôtel de France",
+      "kind": "stay",
+      "locality": "Monaco",
+      "lat": 43.73334,
+      "lon": 7.41832,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "6 rue de la Turbie",
+      "price": "€150 double",
+      "url": "https://hotel-de-france-monaco.hotelescuatroestrellas.website/",
+      "id": "monaco-f255be3ed2ba7626e4c4"
+    },
+    {
+      "name": "Columbus Hotel",
+      "kind": "stay",
+      "locality": "Monaco",
+      "lat": 43.72722222,
+      "lon": 7.42,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "23 Avenue des Papalins",
+      "price": "From EUR 250",
+      "url": "http://www.columbushotels.com/",
+      "id": "monaco-17ff3cab0820a8f01b73"
+    },
+    {
+      "name": "Hotel Ambassador",
+      "kind": "stay",
+      "locality": "Monaco",
+      "lat": 43.73278,
+      "lon": 7.4182,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "corner of ave Prince Pierre",
+      "price": "From EUR 135",
+      "url": "http://www.ambassadormonaco.com/",
+      "id": "monaco-777caefa8ed96a1e78e2"
+    },
+    {
+      "name": "Hôtel de Paris",
+      "kind": "stay",
+      "locality": "Monaco",
+      "lat": 43.73911,
+      "lon": 7.42739,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "Place du Casino",
+      "price": "EUR 400-EUR 940 double; from EUR 1995 suite",
+      "url": "http://www.hoteldeparismontecarlo.com/",
+      "id": "monaco-c00fc948da6f1dfe07ed"
+    },
+    {
+      "name": "Hôtel Hermitage",
+      "kind": "stay",
+      "locality": "Monaco",
+      "lat": 43.738466,
+      "lon": 7.425974,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "Square Beaumarchais",
+      "price": "double EUR 320-EUR 528; junior suite EUR 568-EUR 792; suite from EUR 1596",
+      "url": "http://www.hotelhermitagemontecarlo.com/",
+      "id": "monaco-82dd4a558d9f489fc95a"
+    },
+    {
+      "name": "Hôtel Métropole",
+      "kind": "stay",
+      "locality": "Monaco",
+      "lat": 43.740935,
+      "lon": 7.427918,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "4, avenue de la Madone",
+      "url": "https://metropole.com/",
+      "id": "monaco-3819149da540ccf4c0ff"
+    },
+    {
+      "name": "Monte-Carlo Bay Hotel & Resort",
+      "kind": "stay",
+      "locality": "Monaco",
+      "lat": 43.748845,
+      "lon": 7.438845,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "address": "40, avenue Princesse Grace",
+      "price": "EUR 300-EUR 800 double; EUR 750-EUR 1400 suite",
+      "url": "http://www.montecarlobay.com/",
+      "id": "monaco-eeaa7a07ba8754b96feb"
+    },
+    {
+      "name": "Port Palace Hôtel",
+      "kind": "stay",
+      "locality": "Monaco",
+      "lat": 43.73715,
+      "lon": 7.42414,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "price": "From EUR 370",
+      "url": "https://www.portpalace.net/",
+      "id": "monaco-cfbd2b395239298c1daa"
+    },
+    {
+      "name": "Monaco",
+      "kind": "area",
+      "locality": "Monaco",
+      "lat": 43.732778,
+      "lon": 7.419722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Monaco",
+      "id": "monaco-5c0a86e9f3501bcdc4cc"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 1 distinct public Wikivoyage source pages; attempted 1 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

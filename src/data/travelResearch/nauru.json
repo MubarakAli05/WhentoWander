@@ -1,0 +1,211 @@
+{
+  "sources": [
+    {
+      "title": "Nauru",
+      "url": "https://en.wikivoyage.org/wiki/Nauru",
+      "checkedAt": "2026-10-21T08:11:23.828Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Anibare Bay",
+      "kind": "do",
+      "locality": "Nauru",
+      "lat": -0.5301,
+      "lon": 166.953,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nauru",
+      "address": "Anibare district",
+      "id": "nauru-2e5c3ec34a8a1ef91b3a"
+    },
+    {
+      "name": "Anibare Harbour",
+      "kind": "do",
+      "locality": "Nauru",
+      "lat": -0.536952,
+      "lon": 166.950605,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nauru",
+      "id": "nauru-f9e5ccb7e56b02de1e36"
+    },
+    {
+      "name": "Aiwo Harbour",
+      "kind": "do",
+      "locality": "Nauru",
+      "lat": -0.5345,
+      "lon": 166.9094,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nauru",
+      "address": "Aiwo district",
+      "id": "nauru-a3e72f59288bac221fc9"
+    },
+    {
+      "name": "Buada Lagoon",
+      "kind": "do",
+      "locality": "Nauru",
+      "lat": -0.535138,
+      "lon": 166.922278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nauru",
+      "address": "Buada district",
+      "id": "nauru-ec5d2714e2cc5c362ecc"
+    },
+    {
+      "name": "Command Ridge",
+      "kind": "do",
+      "locality": "Nauru",
+      "lat": -0.530552,
+      "lon": 166.916924,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nauru",
+      "id": "nauru-03002ab4f2f6c1fbb541"
+    },
+    {
+      "name": "Government buildings",
+      "kind": "do",
+      "locality": "Nauru",
+      "lat": -0.547393,
+      "lon": 166.917287,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nauru",
+      "address": "Yaren district",
+      "url": "http://www.naurugov.nr/",
+      "id": "nauru-4e04fc9b45fae0a77560"
+    },
+    {
+      "name": "The interior of the island",
+      "kind": "do",
+      "locality": "Nauru",
+      "lat": -0.5236,
+      "lon": 166.9376,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nauru",
+      "id": "nauru-6782ea9ce07e2590cc92"
+    },
+    {
+      "name": "Nauru Museum",
+      "kind": "do",
+      "locality": "Nauru",
+      "lat": -0.546944,
+      "lon": 166.916389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nauru",
+      "id": "nauru-e1db0d403e54a7f0314c"
+    },
+    {
+      "name": "Linkbelt Oval",
+      "kind": "do",
+      "locality": "Nauru",
+      "lat": -0.5343,
+      "lon": 166.912,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nauru",
+      "id": "nauru-d5d8c25be21d56e4e54a"
+    },
+    {
+      "name": "Equatorial Gamefishing Charters",
+      "kind": "do",
+      "locality": "Nauru",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nauru",
+      "url": "https://www.facebook.com/equatorialgamefishingcharters/",
+      "id": "nauru-df03bf549ce424c889ba"
+    },
+    {
+      "name": "Fast food kiosk",
+      "kind": "eat",
+      "locality": "Nauru",
+      "lat": -0.50346,
+      "lon": 166.93864,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nauru",
+      "id": "nauru-0d7041079a6b020a5b58"
+    },
+    {
+      "name": "Kasuo",
+      "kind": "eat",
+      "locality": "Nauru",
+      "lat": -0.53722,
+      "lon": 166.9109,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nauru",
+      "id": "nauru-786d010e7199341e07ec"
+    },
+    {
+      "name": "Anibare",
+      "kind": "eat",
+      "locality": "Nauru",
+      "lat": -0.5428,
+      "lon": 166.9505,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nauru",
+      "id": "nauru-649ea691c25d054371fd"
+    },
+    {
+      "name": "The Bay Restaurant",
+      "kind": "eat",
+      "locality": "Nauru",
+      "lat": -0.53503,
+      "lon": 166.95015,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nauru",
+      "url": "https://www.facebook.com/pages/The-Bay-Restaurant/629783860382004?fref=nf",
+      "id": "nauru-fbf6319787bbc5535b4f"
+    },
+    {
+      "name": "Oriental",
+      "kind": "eat",
+      "locality": "Nauru",
+      "lat": -0.5436,
+      "lon": 166.9504,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nauru",
+      "id": "nauru-7785b384cc3a364ea3ae"
+    },
+    {
+      "name": "Reynaldo's",
+      "kind": "eat",
+      "locality": "Nauru",
+      "lat": -0.54484,
+      "lon": 166.91828,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nauru",
+      "id": "nauru-8478f4aff4eda9d41e1c"
+    },
+    {
+      "name": "Antinas",
+      "kind": "eat",
+      "locality": "Nauru",
+      "lat": -0.5514,
+      "lon": 166.9261,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nauru",
+      "address": "Yaren district",
+      "id": "nauru-be3e2fecc707891b941d"
+    },
+    {
+      "name": "Reef Bar",
+      "kind": "eat",
+      "locality": "Nauru",
+      "lat": -0.5432,
+      "lon": 166.9505,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nauru",
+      "id": "nauru-1f8da6d3ad7d6aba8994"
+    },
+    {
+      "name": "Capelle & Partner Ewa Lodge",
+      "kind": "stay",
+      "locality": "Nauru",
+      "lat": -0.5037,
+      "lon": 166.9388,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nauru",
+      "price": "$95",
+      "id": "nauru-9e2f1b165eff52329851"
+    },
+    {
+      "name": "Menen Hotel",
+      "kind": "stay",
+      "locality": "Nauru",
+      "lat": -0.543056,
+      "lon": 166.950556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nauru",
+      "address": "Anibare District",
+      "price": "$95-160, suites $255-500",
+      "id": "nauru-ba1c9abe5ec795700133"
+    },
+    {
+      "name": "Nauru",
+      "kind": "area",
+      "locality": "Nauru",
+      "lat": -0.527288,
+      "lon": 166.936724,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nauru",
+      "id": "nauru-03d011fefb807c15864d"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 1 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

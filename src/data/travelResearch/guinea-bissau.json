@@ -1,0 +1,206 @@
+{
+  "sources": [
+    {
+      "title": "Guinea-Bissau",
+      "url": "https://en.wikivoyage.org/wiki/Guinea-Bissau",
+      "checkedAt": "2026-10-21T08:09:58.209Z"
+    },
+    {
+      "title": "Bissau",
+      "url": "https://en.wikivoyage.org/wiki/Bissau",
+      "checkedAt": "2026-10-21T08:10:01.200Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Bissau",
+      "kind": "area",
+      "locality": "Guinea-Bissau",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guinea-Bissau",
+      "id": "guinea-bissau-fabc60f35c87ce7954c0"
+    },
+    {
+      "name": "Bafatá",
+      "kind": "area",
+      "locality": "Guinea-Bissau",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guinea-Bissau",
+      "id": "guinea-bissau-df68b8ba2341312108b0"
+    },
+    {
+      "name": "Bolama",
+      "kind": "area",
+      "locality": "Guinea-Bissau",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guinea-Bissau",
+      "id": "guinea-bissau-995af1f27ab2ff550a8a"
+    },
+    {
+      "name": "Buba",
+      "kind": "area",
+      "locality": "Guinea-Bissau",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guinea-Bissau",
+      "id": "guinea-bissau-34d25f14e2b0404c6144"
+    },
+    {
+      "name": "Bubaque",
+      "kind": "area",
+      "locality": "Guinea-Bissau",
+      "lat": 11.3,
+      "lon": -15.84,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guinea-Bissau",
+      "id": "guinea-bissau-be04bebe627203052e69"
+    },
+    {
+      "name": "Cacheu",
+      "kind": "area",
+      "locality": "Guinea-Bissau",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guinea-Bissau",
+      "id": "guinea-bissau-43095c193a730212b8a7"
+    },
+    {
+      "name": "Gabú",
+      "kind": "area",
+      "locality": "Guinea-Bissau",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guinea-Bissau",
+      "id": "guinea-bissau-85b6ed736ac3a6f0321e"
+    },
+    {
+      "name": "Presidential Palace",
+      "kind": "do",
+      "locality": "Bissau",
+      "lat": 11.864007,
+      "lon": -15.584849,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bissau",
+      "id": "guinea-bissau-9d9ffd5180228f1e10c0"
+    },
+    {
+      "name": "São José de Amura fort",
+      "kind": "do",
+      "locality": "Bissau",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bissau",
+      "id": "guinea-bissau-cbffc9a014f682c15b6b"
+    },
+    {
+      "name": "National Ethnographic Museum",
+      "kind": "do",
+      "locality": "Bissau",
+      "lat": 11.856863,
+      "lon": -15.610774,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bissau",
+      "id": "guinea-bissau-6a95c85a32a4d975972f"
+    },
+    {
+      "name": "Hotel Malaika",
+      "kind": "eat",
+      "locality": "Bissau",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bissau",
+      "id": "guinea-bissau-d5b0b52c346775c19fe0"
+    },
+    {
+      "name": "Bijados",
+      "kind": "eat",
+      "locality": "Bissau",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bissau",
+      "url": "https://www.azalai.com/dunia-hotel-bissau",
+      "id": "guinea-bissau-184df31ff97b3c5a5e5d"
+    },
+    {
+      "name": "Pensão Creola",
+      "kind": "stay",
+      "locality": "Bissau",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bissau",
+      "address": "Av. Domingos Ramos 37",
+      "id": "guinea-bissau-85cb2cc5d1fc90d97797"
+    },
+    {
+      "name": "Hotel-Residência Proquil",
+      "kind": "stay",
+      "locality": "Bissau",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bissau",
+      "address": "Rua 2, Nr. 5-6",
+      "price": "CFA 12,500-20,000",
+      "url": "http://hotel-bissau.com/",
+      "id": "guinea-bissau-e84441192b3da7ce9183"
+    },
+    {
+      "name": "Hotel Kalliste",
+      "kind": "stay",
+      "locality": "Bissau",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bissau",
+      "address": "Praca Che Guevara",
+      "price": "CFA 40,000 to 60,000 per night",
+      "id": "guinea-bissau-b658f6c0d2b8670b3a8f"
+    },
+    {
+      "name": "Hala Hotel & Aqua Park",
+      "kind": "stay",
+      "locality": "Bissau",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bissau",
+      "address": "Avenida dos Combatentes da Liberdade da Pátria",
+      "price": "$111 (Ma 2023)",
+      "url": "https://halahotelaquapark.com/main",
+      "id": "guinea-bissau-f56b41b903ffe400bfee"
+    },
+    {
+      "name": "Hotel CEIBA",
+      "kind": "stay",
+      "locality": "Bissau",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bissau",
+      "address": "Avenida Francisco Mendes",
+      "price": "$147 (Ma 2022)",
+      "url": "https://www.ceibabissau.com/",
+      "id": "guinea-bissau-5f029c3c5ad2c0f7d6fe"
+    },
+    {
+      "name": "Hotel Ancar",
+      "kind": "stay",
+      "locality": "Bissau",
+      "lat": 11.85782,
+      "lon": -15.5831,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bissau",
+      "address": "Av. Osvaldo Vieira nº10",
+      "price": "Singels CFA 50,000, doubles CFA 60,000, suites CFA 10,000 more",
+      "id": "guinea-bissau-5f3ad19fffb951d3fbdb"
+    },
+    {
+      "name": "Appart Hotel Diarama",
+      "kind": "stay",
+      "locality": "Bissau",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bissau",
+      "address": "Av. Pansau na Isna",
+      "price": "Ask to see the room, bargain and expect CFA 40,000 for a double",
+      "id": "guinea-bissau-a43c54ce6579e9cc62e3"
+    },
+    {
+      "name": "Hotel Malaika",
+      "kind": "stay",
+      "locality": "Bissau",
+      "lat": 11.858112,
+      "lon": -15.583838,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bissau",
+      "address": "Rua Justino Lopes",
+      "id": "guinea-bissau-49a9a2febc01f3a668c8"
+    },
+    {
+      "name": "Azalaï Dunia Hotel Bissau",
+      "kind": "stay",
+      "locality": "Bissau",
+      "lat": 11.876465,
+      "lon": -15.590878,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bissau",
+      "address": "Estrada de Santa Luzia",
+      "url": "https://www.azalai.com/dunia-hotel-bissau",
+      "id": "guinea-bissau-36560f065185fb22e399"
+    },
+    {
+      "name": "Bissau",
+      "kind": "area",
+      "locality": "Bissau",
+      "lat": 11.859167,
+      "lon": -15.595556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bissau",
+      "id": "guinea-bissau-05677b7e98ead4692cf9"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

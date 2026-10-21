@@ -1,0 +1,386 @@
+{
+  "sources": [
+    {
+      "title": "Honduras",
+      "url": "https://en.wikivoyage.org/wiki/Honduras",
+      "checkedAt": "2026-10-21T08:10:04.242Z"
+    },
+    {
+      "title": "Tegucigalpa",
+      "url": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "checkedAt": "2026-10-21T08:10:07.177Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Tegucigalpa",
+      "kind": "area",
+      "locality": "Honduras",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Honduras",
+      "id": "honduras-6e736a8b24922188c6e0"
+    },
+    {
+      "name": "La Ceiba",
+      "kind": "area",
+      "locality": "Honduras",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Honduras",
+      "id": "honduras-c0a090880b61b6bf08ff"
+    },
+    {
+      "name": "El Progreso",
+      "kind": "area",
+      "locality": "Honduras",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Honduras",
+      "id": "honduras-1c6486453a7818151b7b"
+    },
+    {
+      "name": "Comayagua",
+      "kind": "area",
+      "locality": "Honduras",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Honduras",
+      "id": "honduras-aa22562dc9e04da22ce4"
+    },
+    {
+      "name": "Gracias",
+      "kind": "area",
+      "locality": "Honduras",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Honduras",
+      "id": "honduras-734f641c029ca8241ab1"
+    },
+    {
+      "name": "Puerto Cortes",
+      "kind": "area",
+      "locality": "Honduras",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Honduras",
+      "id": "honduras-72fd7db5501a87c93287"
+    },
+    {
+      "name": "San Pedro Sula",
+      "kind": "area",
+      "locality": "Honduras",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Honduras",
+      "id": "honduras-3d06441f0955c1d30522"
+    },
+    {
+      "name": "Santa Rosa de Copán",
+      "kind": "area",
+      "locality": "Honduras",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Honduras",
+      "id": "honduras-f4f58a33c274f577f771"
+    },
+    {
+      "name": "Tela",
+      "kind": "area",
+      "locality": "Honduras",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Honduras",
+      "id": "honduras-c60ca1c351d7e1457220"
+    },
+    {
+      "name": "Parque La Leona",
+      "kind": "do",
+      "locality": "Tegucigalpa",
+      "lat": 14.10862,
+      "lon": -87.20298,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "id": "honduras-b9fb2eeb0c48af06bca0"
+    },
+    {
+      "name": "Naciones Unidas El Picacho Park",
+      "kind": "do",
+      "locality": "Tegucigalpa",
+      "lat": 14.1206979,
+      "lon": -87.1962884,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "address": "Carretera a El Hatillo, 1455 Calle Morelos",
+      "price": "Adults: L30 or L35 (foreigners) daytime, L50 nights",
+      "url": "https://www.parqueelpicacho.com/",
+      "id": "honduras-d0068feac17dceb8db31"
+    },
+    {
+      "name": "Cristo el Picacho",
+      "kind": "do",
+      "locality": "Tegucigalpa",
+      "lat": 14.1191299,
+      "lon": -87.2000452,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "price": "L10",
+      "id": "honduras-3d8d479ab607d59fa896"
+    },
+    {
+      "name": "Metropolitan Zoo Rosy Walther",
+      "kind": "do",
+      "locality": "Tegucigalpa",
+      "lat": 14.122442,
+      "lon": -87.189877,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "id": "honduras-4a7775e89beeacd58ffa"
+    },
+    {
+      "name": "Museo para la Identidad Nacional",
+      "kind": "do",
+      "locality": "Tegucigalpa",
+      "lat": 14.106753,
+      "lon": -87.208082,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "address": "Calle El Telegrafo",
+      "url": "http://www.min.hn/",
+      "id": "honduras-e3b0ef726d8ed217c900"
+    },
+    {
+      "name": "Catedral de San Miguel Arcángel",
+      "kind": "do",
+      "locality": "Tegucigalpa",
+      "lat": 14.105466,
+      "lon": -87.204401,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "id": "honduras-5e0427387015d4317b26"
+    },
+    {
+      "name": "Parque Nacional La Tigra",
+      "kind": "do",
+      "locality": "Tegucigalpa",
+      "lat": 14.2456033,
+      "lon": -87.1245249,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "price": "L240 foreigners",
+      "id": "honduras-2631ce79f06c8dce9683"
+    },
+    {
+      "name": "Basilica de Nuestra Se Blora De Suyapa",
+      "kind": "do",
+      "locality": "Tegucigalpa",
+      "lat": 14.0803917,
+      "lon": -87.1574048,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "id": "honduras-b25bd0ab09b98494bf67"
+    },
+    {
+      "name": "Iglesia de Los Dolores",
+      "kind": "do",
+      "locality": "Tegucigalpa",
+      "lat": 14.1080765,
+      "lon": -87.2087448,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "id": "honduras-e645028cacaa6b502b95"
+    },
+    {
+      "name": "Galeria Nacional de Arte",
+      "kind": "do",
+      "locality": "Tegucigalpa",
+      "lat": 14.10643,
+      "lon": -87.20817,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "id": "honduras-4e42e935587c3cb78ff1"
+    },
+    {
+      "name": "Chiminike",
+      "kind": "do",
+      "locality": "Tegucigalpa",
+      "lat": 14.0718604,
+      "lon": -87.205066,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "id": "honduras-71919db212cf2c5b26a1"
+    },
+    {
+      "name": "Museo de Historia Natural",
+      "kind": "do",
+      "locality": "Tegucigalpa",
+      "lat": 14.0862866,
+      "lon": -87.1685878,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "id": "honduras-9d6c34805385f92b45e9"
+    },
+    {
+      "name": "Museo de Historia Republicana Villa Roy",
+      "kind": "do",
+      "locality": "Tegucigalpa",
+      "lat": 14.11229,
+      "lon": -87.20635,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "url": "https://www.ihah.hn/",
+      "id": "honduras-7769e9edfd28252e7c03"
+    },
+    {
+      "name": "Parque Cerro Juana A. Lainez",
+      "kind": "do",
+      "locality": "Tegucigalpa",
+      "lat": 14.0939,
+      "lon": -87.2011,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "id": "honduras-f01bd341df9eee4acd96"
+    },
+    {
+      "name": "Parque Central",
+      "kind": "do",
+      "locality": "Tegucigalpa",
+      "lat": 14.1057,
+      "lon": -87.20474,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "id": "honduras-34b6bc9e6c4d55504823"
+    },
+    {
+      "name": "Castillo Belluci",
+      "kind": "do",
+      "locality": "Tegucigalpa",
+      "lat": 14.1081,
+      "lon": -87.20226,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "id": "honduras-ccb83c690e06f1fab325"
+    },
+    {
+      "name": "Centro de Arte y Cultura",
+      "kind": "do",
+      "locality": "Tegucigalpa",
+      "lat": 14.0977,
+      "lon": -87.2071,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "address": "7 Calle",
+      "url": "http://www.cac.unah.edu.hn/",
+      "id": "honduras-0c23a203d63433ecfef8"
+    },
+    {
+      "name": "Presidential Palace of the Republic of Honduras",
+      "kind": "do",
+      "locality": "Tegucigalpa",
+      "lat": 14.08871,
+      "lon": -87.1878,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "id": "honduras-a3130d9bf9f84c4ace78"
+    },
+    {
+      "name": "Parque La Concordia",
+      "kind": "do",
+      "locality": "Tegucigalpa",
+      "lat": 14.11128,
+      "lon": -87.20847,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "id": "honduras-31246e58495edc09e988"
+    },
+    {
+      "name": "Museo de Historia Militar",
+      "kind": "do",
+      "locality": "Tegucigalpa",
+      "lat": 14.1057,
+      "lon": -87.20221,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "id": "honduras-b9eb3abbc6831ed5f080"
+    },
+    {
+      "name": "Karaoke",
+      "kind": "do",
+      "locality": "Tegucigalpa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "id": "honduras-75ad2a13a36030847022"
+    },
+    {
+      "name": "Parque de la Paz",
+      "kind": "do",
+      "locality": "Tegucigalpa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "address": "Just south of the Estadio Nacionál",
+      "id": "honduras-fbfad7ab817c29e7249e"
+    },
+    {
+      "name": "St. Michael's Cathedral, Los Dolores Church, and San Francisco Church",
+      "kind": "do",
+      "locality": "Tegucigalpa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "id": "honduras-37800b33b8742e6bdd42"
+    },
+    {
+      "name": "La Cumbre",
+      "kind": "eat",
+      "locality": "Tegucigalpa",
+      "lat": 14.128286,
+      "lon": -87.174539,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "url": "http://www.lacumbrehn.com/",
+      "id": "honduras-a97ecd861779a77e2917"
+    },
+    {
+      "name": "MER-K-TTO Eclectic Cuisine",
+      "kind": "eat",
+      "locality": "Tegucigalpa",
+      "lat": 14.098691,
+      "lon": -87.187827,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "address": "Col Castaño Sur Ave Ramon E Cruz #202",
+      "url": "https://www.merkttohn.com/",
+      "id": "honduras-858a838628bc414d77da"
+    },
+    {
+      "name": "Hotel Granada 1",
+      "kind": "stay",
+      "locality": "Tegucigalpa",
+      "lat": 14.10594,
+      "lon": -87.19942,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "price": "L 322",
+      "id": "honduras-8fed9f7aa3418a28a0e5"
+    },
+    {
+      "name": "Hotel y Restaurante Nan Kin",
+      "kind": "stay",
+      "locality": "Tegucigalpa",
+      "lat": 14.10559,
+      "lon": -87.19816,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "price": "L 372",
+      "id": "honduras-a4209b0395bd66e948a0"
+    },
+    {
+      "name": "Real InterContinental Tegucipalga",
+      "kind": "stay",
+      "locality": "Tegucigalpa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "address": "Av. Roble, frente a Mall Multiplaza",
+      "price": "L 3223",
+      "url": "http://www.ichotelsgroup.com/intercontinental/en/gb/locations/tegucigalpa",
+      "id": "honduras-6334f479c63c4e7728e3"
+    },
+    {
+      "name": "Holiday Inn Express Tegucigalpa",
+      "kind": "stay",
+      "locality": "Tegucigalpa",
+      "lat": 14.086774,
+      "lon": -87.187758,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "address": "entrance via Av Republica de Costa Rica",
+      "url": "https://www.ihg.com/holidayinnexpress/hotels/us/en/tegucigalpa/tguex/hoteldetail",
+      "id": "honduras-57883372b83945818487"
+    },
+    {
+      "name": "Clarion Hotel Real Tegucigalpa",
+      "kind": "stay",
+      "locality": "Tegucigalpa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "address": "Col. Alameda Calle Principal, Juan Pablo II",
+      "price": "L2430",
+      "url": "https://www.choicehotels.com/honduras/tegucigalpa/clarion-hotels/hn004",
+      "id": "honduras-1df08efafb2a52d37c8d"
+    },
+    {
+      "name": "Palmira Hostel",
+      "kind": "stay",
+      "locality": "Tegucigalpa",
+      "lat": 14.10149,
+      "lon": -87.1936,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "address": "Avenida Republica del Peru 4ta calle",
+      "price": "About US$10 per night for a dormitory and $30 for a private",
+      "url": "http://www.palmirahostel.com/",
+      "id": "honduras-67f78f346ccc3612c6fe"
+    },
+    {
+      "name": "Tegucigalpa",
+      "kind": "area",
+      "locality": "Tegucigalpa",
+      "lat": 14.0833,
+      "lon": -87.2167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tegucigalpa",
+      "id": "honduras-513c86808fa409d8a685"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

@@ -1,0 +1,2236 @@
+{
+  "sources": [
+    {
+      "title": "Croatia",
+      "url": "https://en.wikivoyage.org/wiki/Croatia",
+      "checkedAt": "2026-10-21T08:04:18.422Z"
+    },
+    {
+      "title": "Zagreb",
+      "url": "https://en.wikivoyage.org/wiki/Zagreb",
+      "checkedAt": "2026-10-21T08:04:21.641Z"
+    },
+    {
+      "title": "Dubrovnik",
+      "url": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "checkedAt": "2026-10-21T08:04:24.418Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Zagreb",
+      "kind": "area",
+      "locality": "Croatia",
+      "lat": 45.816667,
+      "lon": 15.983333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Croatia",
+      "id": "croatia-e1a0883613e9c773bee0"
+    },
+    {
+      "name": "Dubrovnik",
+      "kind": "area",
+      "locality": "Croatia",
+      "lat": 42.640278,
+      "lon": 18.108333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Croatia",
+      "id": "croatia-a524122c3daa90fb3009"
+    },
+    {
+      "name": "Osijek",
+      "kind": "area",
+      "locality": "Croatia",
+      "lat": 45.557531,
+      "lon": 18.679589,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Croatia",
+      "id": "croatia-cb1bb9727bea340a139b"
+    },
+    {
+      "name": "Pula",
+      "kind": "area",
+      "locality": "Croatia",
+      "lat": 44.866667,
+      "lon": 13.85,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Croatia",
+      "id": "croatia-598de56babc93b0f9b95"
+    },
+    {
+      "name": "Rijeka",
+      "kind": "area",
+      "locality": "Croatia",
+      "lat": 45.316667,
+      "lon": 14.416667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Croatia",
+      "id": "croatia-d7081ea5d1603b7d8346"
+    },
+    {
+      "name": "Split",
+      "kind": "area",
+      "locality": "Croatia",
+      "lat": 43.51,
+      "lon": 16.45,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Croatia",
+      "id": "croatia-19cf1833942df58e10e2"
+    },
+    {
+      "name": "Zadar",
+      "kind": "area",
+      "locality": "Croatia",
+      "lat": 44.114167,
+      "lon": 15.227778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Croatia",
+      "id": "croatia-6079928d451978d0acb4"
+    },
+    {
+      "name": "Zagreb Cathedral",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.81447,
+      "lon": 15.97985,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "price": "Free",
+      "id": "croatia-9e632f9ea4f0c34fd9df"
+    },
+    {
+      "name": "St. Mark's Square",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.8163,
+      "lon": 15.9736,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "price": "Free",
+      "id": "croatia-4c0ea62d8deca8dd9ba7"
+    },
+    {
+      "name": "St. Catherine's Church",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.8148,
+      "lon": 15.9744,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "St. Catherine's Square",
+      "id": "croatia-3aeefd0f67b4bd3f4cf2"
+    },
+    {
+      "name": "Old Town Gate",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.81575,
+      "lon": 15.97529,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "at the top of Radićeva street",
+      "id": "croatia-e081f7337dd2068c8195"
+    },
+    {
+      "name": "Ribnjak Park",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.8104,
+      "lon": 15.9782,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "id": "croatia-2a2160016d8840d11aa1"
+    },
+    {
+      "name": "Museum of Broken Relationships",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.81496,
+      "lon": 15.97354,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Sv. Ćirila i Metoda 2",
+      "price": "€7, 65+ & students €5.50, -12 free with adults",
+      "url": "http://www.brokenships.com/",
+      "id": "croatia-5d64e4a25258c267ca34"
+    },
+    {
+      "name": "Museum of Hangovers",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.813922,
+      "lon": 15.983995,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Vlaška 55",
+      "url": "https://www.museumofhangovers.com/",
+      "id": "croatia-e2ea7ecfe3a3cb9edf30"
+    },
+    {
+      "name": "Klovićevi Dvori Gallery",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.81502,
+      "lon": 15.97464,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Jezuitski trg 4",
+      "price": "Around €4, varies by exhibition",
+      "url": "https://gkd.hr/en/",
+      "id": "croatia-66ba603898d97eb28e2b"
+    },
+    {
+      "name": "Zagreb City Museum",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.81840873,
+      "lon": 15.974753182,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Opatička 20",
+      "price": "Adults €5; Concessions €3",
+      "url": "https://www.mgz.hr/en/",
+      "id": "croatia-917cbb6a0d2c2a3fd261"
+    },
+    {
+      "name": "Lotrščak Tower",
+      "kind": "do",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "price": "Adults €3; 7-18 €2",
+      "url": "https://gkd.hr/kula-lotrscak/",
+      "id": "croatia-ccc11e4435767ec2bf11"
+    },
+    {
+      "name": "Grič Tunnel",
+      "kind": "do",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "price": "free",
+      "id": "croatia-8d07176f8181de5558bc"
+    },
+    {
+      "name": "Sabor Palace",
+      "kind": "do",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "id": "croatia-5fd22fad0203d567936a"
+    },
+    {
+      "name": "Ban's Palace",
+      "kind": "do",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "id": "croatia-3b10f986a4a263d9a790"
+    },
+    {
+      "name": "Strossmayer Square",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.8086,
+      "lon": 15.9787,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "id": "croatia-17c324883833310b9e76"
+    },
+    {
+      "name": "Zrinjevac Square",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.8104,
+      "lon": 15.9782,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "id": "croatia-be960fd4396350e075c1"
+    },
+    {
+      "name": "King Tomislav Square",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.8064,
+      "lon": 15.9788,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "id": "croatia-10ae300fd9e3b19abf01"
+    },
+    {
+      "name": "Botanical Gardens",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.805,
+      "lon": 15.9716,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Trg Marka Marulića 9A",
+      "price": "Regular €2, students and pupils €1, children free",
+      "url": "https://botanickivrt.biol.pmf.hr/en/",
+      "id": "croatia-ec0876b40b150257363c"
+    },
+    {
+      "name": "Mažuranić Square",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.808,
+      "lon": 15.9701,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "id": "croatia-74bf07707865951b3c9a"
+    },
+    {
+      "name": "Marulić Square",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.8066,
+      "lon": 15.9701,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "id": "croatia-0009c5df048f3058b78b"
+    },
+    {
+      "name": "Republic of Croatia Square",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.8097,
+      "lon": 15.9701,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "id": "croatia-c88e37fc88363012f891"
+    },
+    {
+      "name": "Mimara Museum",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.8082,
+      "lon": 15.9672,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Trg Franklina Delanoa Roosevelta 5",
+      "url": "https://www.mimara.hr/",
+      "id": "croatia-2157565eb8d1806577b3"
+    },
+    {
+      "name": "Archaeological Museum",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.81094,
+      "lon": 15.97732,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Trg Nikole Šubića Zrinskog 19",
+      "url": "https://www.amz.hr/en/home/",
+      "id": "croatia-59e2d73d19c47e9f377a"
+    },
+    {
+      "name": "Art Pavilion in Zagreb",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.8072,
+      "lon": 15.9787,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Trg Kralja Tomislava 22",
+      "url": "https://umjetnicki-paviljon.hr/?lang=en",
+      "id": "croatia-ba60114ddcda9d3c2e57"
+    },
+    {
+      "name": "Croatian National Theatre",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.8094,
+      "lon": 15.9701,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Trg Kralja Tomislava 22",
+      "url": "http://www.hnk.hr/en/",
+      "id": "croatia-aeb519098a855335d9c8"
+    },
+    {
+      "name": "Modern Gallery",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.80914,
+      "lon": 15.97756,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Hebrangova 1",
+      "url": "http://www.moderna-galerija.hr/",
+      "id": "croatia-ab36c7e8a5de34bd00b6"
+    },
+    {
+      "name": "National Museum of Modern Art",
+      "kind": "do",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Ul. Andrije Hebranga 1",
+      "url": "https://nmmu.hr/en/home-english/",
+      "id": "croatia-9e898ecbb4e7e3ff257d"
+    },
+    {
+      "name": "Josip Račić Gallery",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.8126337,
+      "lon": 15.974571507,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "3, Margaretska Street",
+      "price": "free",
+      "url": "https://nmmu.hr/en/home-english/",
+      "id": "croatia-be2d655abedb68ae5420"
+    },
+    {
+      "name": "People and Art House Lauba",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.811812142,
+      "lon": 15.94016163,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Prilaz baruna Filipovića 23a",
+      "url": "http://www.lauba.hr/en/",
+      "id": "croatia-e021ea8fdb77f7489836"
+    },
+    {
+      "name": "Museum of Arts and Crafts",
+      "kind": "do",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Trg Republike Hrvatske 10",
+      "url": "https://www.muo.hr/",
+      "id": "croatia-3e55a0700fdb0397f035"
+    },
+    {
+      "name": "Technical Museum Nikola Tesla",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.804,
+      "lon": 15.9641,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Savska cesta 18",
+      "price": "Adult €4, under 7 free, senior and student €3",
+      "url": "https://tmnt.hr/hr-hr/",
+      "id": "croatia-a191efb06f75f8af43b4"
+    },
+    {
+      "name": "Museum of Illusions",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.813135,
+      "lon": 15.966383,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Ilica 72",
+      "price": "Adults €9, age 5-15 €7, students €8",
+      "url": "https://muzejiluzija.com/en/home/",
+      "id": "croatia-30f94ace31789cd75383"
+    },
+    {
+      "name": "Typhlological Museum",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.80621904,
+      "lon": 15.98385312,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "2nd floor, Draškovićeva ul. 80",
+      "price": "Adults €3; students & schoolchildren €2; disabled & pensioners free",
+      "url": "https://www.tifloloskimuzej.hr/en/",
+      "id": "croatia-f131b0598f071d28c191"
+    },
+    {
+      "name": "The Grounded Sun",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.81224,
+      "lon": 15.97545,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Bogovićeva Street 6",
+      "id": "croatia-184a97c386988d0ca3ea"
+    },
+    {
+      "name": "Maksimir Park & Zagreb Zoo",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.8292,
+      "lon": 16.0207,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "url": "https://zoo.hr/english/",
+      "id": "croatia-f4b9275e9c5dc1931918"
+    },
+    {
+      "name": "Mirogoj Cemetery",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.8353,
+      "lon": 15.9865,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "id": "croatia-b0396e7e7e5b079a85be"
+    },
+    {
+      "name": "Medvedgrad Castle and Medvednica",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.924,
+      "lon": 15.991,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Himper ul. 16,",
+      "price": "Visitor Centre Adults €7.95 (weekends), €6.6 (weekday) many other ticket options",
+      "id": "croatia-9b0f51f3e87969476fed"
+    },
+    {
+      "name": "Jarun",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.781,
+      "lon": 15.921,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "url": "http://www.jarun.hr/",
+      "id": "croatia-ba16680488ec0b263c01"
+    },
+    {
+      "name": "Bundek",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.7856,
+      "lon": 15.9855,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "id": "croatia-da103e445481eaeebe64"
+    },
+    {
+      "name": "Museum of Contemporary Art",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.7788,
+      "lon": 15.9818,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Avenija Dubrovnik 17",
+      "price": "From about €4, scroll down visitor information page on website to see all prices; first Wednesday free",
+      "url": "http://www.msu.hr/en/",
+      "id": "croatia-fa4e00e2a27a0a3295f9"
+    },
+    {
+      "name": "Croatian Museum of Naïve Art",
+      "kind": "do",
+      "locality": "Zagreb",
+      "lat": 45.815417,
+      "lon": 15.973333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Sv. Ćirila i Metoda 3",
+      "url": "https://hmnu.hr/",
+      "id": "croatia-64e3d85440fd0ef3dd02"
+    },
+    {
+      "name": "Strossmayerovo šetalište",
+      "kind": "do",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "id": "croatia-169fd1e3e367415c5961"
+    },
+    {
+      "name": "Vatroslav Lisinski Concert Hall",
+      "kind": "do",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Trg Stjepana Radića 4",
+      "url": "https://www.lisinski.hr/en/",
+      "id": "croatia-346c415d5d3fac76e2e1"
+    },
+    {
+      "name": "Snow Queen Trophy",
+      "kind": "do",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "url": "http://www.snowqueentrophy.com/",
+      "id": "croatia-21593aaf541dadd523e6"
+    },
+    {
+      "name": "CineStar Zagreb",
+      "kind": "do",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Branimirova 29",
+      "url": "http://zagreb.cinestarcinemas.hr/",
+      "id": "croatia-42161a412d46983d660f"
+    },
+    {
+      "name": "CineStar Novi Zagreb",
+      "kind": "do",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Avenija Dubrovnik 16",
+      "url": "http://novi-zagreb.cinestarcinemas.hr/",
+      "id": "croatia-14f15c57bd4b69325c08"
+    },
+    {
+      "name": "CineStar Arena IMAX",
+      "kind": "do",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Ulica Vice Vukova 6",
+      "url": "http://arena-zagreb.cinestarcinemas.hr/",
+      "id": "croatia-c69678c792fb122bc542"
+    },
+    {
+      "name": "Kaptol Boutique Cinema",
+      "kind": "do",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Nova Ves 17",
+      "url": "http://www.kaptolcinema.hr/",
+      "id": "croatia-2c1d6efd32dfa2bf6506"
+    },
+    {
+      "name": "CineStar Zagreb Zapad Z Centar",
+      "kind": "do",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Ljubljanska avenija 2b",
+      "url": "http://zapad-zagreb.cinestarcinemas.hr/",
+      "id": "croatia-27d9dbb3211037c8c97b"
+    },
+    {
+      "name": "Cineplexx Centar Kaptol",
+      "kind": "do",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Nova Ves 11",
+      "url": "https://www.cineplexx.hr/",
+      "id": "croatia-40dd2f860580c9b608be"
+    },
+    {
+      "name": "Cineplexx City Centre One East",
+      "kind": "do",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Slavonska Avenija 11D",
+      "url": "https://www.cineplexx.hr/",
+      "id": "croatia-0f86147231f3c39af5f4"
+    },
+    {
+      "name": "Kino Tuškanac",
+      "kind": "do",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Tuškanac 1",
+      "price": "Entrance for programs Kinoteka and Restauracije is free, regular ticket is €4",
+      "url": "http://kinotuskanac.hr/en",
+      "id": "croatia-13569f0ab9380eaf47fb"
+    },
+    {
+      "name": "Nocturno",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "lat": 45.8148227,
+      "lon": 15.976919,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Skalinska 4",
+      "id": "croatia-fbec65e1c70b9c109d02"
+    },
+    {
+      "name": "Sandwich Bar Pingvin",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "lat": 45.8112984,
+      "lon": 15.9758538,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Nikole Tesle 10",
+      "id": "croatia-f9d43b37a787a8972831"
+    },
+    {
+      "name": "La Štruk",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "lat": 45.814866,
+      "lon": 15.976803,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Skalinska ul. 5",
+      "id": "croatia-cb9319608d6d87f0e04b"
+    },
+    {
+      "name": "Taquitos Bandidos",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "lat": 45.8142598,
+      "lon": 15.975771,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Radićeva ul. 12",
+      "id": "croatia-e627663e3c23e940cc1c"
+    },
+    {
+      "name": "Plac Kitchen & Grill",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "lat": 45.8137714,
+      "lon": 15.9772264,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Dolac 2",
+      "id": "croatia-e87fbb87919166e68e5b"
+    },
+    {
+      "name": "Bistro Dolac",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "lat": 45.8140499,
+      "lon": 15.9768724,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Dolac 1",
+      "id": "croatia-aeb13c70ad3149dbd15a"
+    },
+    {
+      "name": "Amfora",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Dolec 2",
+      "id": "croatia-4e9407e9b15489250f9c"
+    },
+    {
+      "name": "MS Grill Restaurant",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "lat": 45.8058832,
+      "lon": 15.9840821,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Draškovićeva ul. 57",
+      "id": "croatia-839d86c5dcb27fdcad8b"
+    },
+    {
+      "name": "Restaurant Kvatric",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "lat": 45.8154852,
+      "lon": 15.9982891,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Maksimirska 9",
+      "url": "https://catering-kvatric.hr/en/lokacije/kvatric-restaurant/",
+      "id": "croatia-6b67dec033b3c1d5e7ac"
+    },
+    {
+      "name": "Mali Medo",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "lat": 45.815781,
+      "lon": 15.976551,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Tkalčićeva 36",
+      "price": "Mains: €4-10",
+      "url": "https://pivovara-medvedgrad.hr/en/home/",
+      "id": "croatia-bcedfbc6c7cd81fcdc7c"
+    },
+    {
+      "name": "Zrno bio bistro",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "lat": 45.80994,
+      "lon": 15.96685,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Medulićeva 20",
+      "price": "Main dishes are €10-14, drinks are €2-5",
+      "url": "http://zrnobiobistro.hr/",
+      "id": "croatia-4c298c29b23a64e7ccc3"
+    },
+    {
+      "name": "VegeHop",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "lat": 45.8143114,
+      "lon": 15.9882577,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Vlaška 79",
+      "url": "http://www.vegehop.hr/",
+      "id": "croatia-cbfc51c0241b8e8579b9"
+    },
+    {
+      "name": "Koykan Gajeva",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "lat": 45.8111052,
+      "lon": 15.9763376,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Gajeva 8",
+      "price": "Up to US$10",
+      "url": "http://www.facebook.com/koykanworldfood",
+      "id": "croatia-2f61fa80cfb77e44e402"
+    },
+    {
+      "name": "Oliva",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "lat": 45.7838075,
+      "lon": 15.9485935,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Jarunska 5",
+      "url": "http://www.restoran-pizzeria-oliva.com/",
+      "id": "croatia-a626d74886b6f880327c"
+    },
+    {
+      "name": "Stara Sava",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "lat": 45.7845615,
+      "lon": 15.9509535,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Savska cesta 208",
+      "url": "http://starasava.hr/",
+      "id": "croatia-25937228950e839dab4e"
+    },
+    {
+      "name": "Food Garden",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "lat": 45.8100465,
+      "lon": 15.97752382,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Zrinjevac 16",
+      "url": "https://foodgarden.hr/en/",
+      "id": "croatia-59ed127c5247fd5fef2a"
+    },
+    {
+      "name": "Boban",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Gajeva 9",
+      "id": "croatia-b176f455d947e2146f8e"
+    },
+    {
+      "name": "Le Bistro",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "lat": 45.80535,
+      "lon": 15.97574,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Mihanovićeva 1",
+      "id": "croatia-d0dddd25aeb807ac5574"
+    },
+    {
+      "name": "Restaurant Suhina",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Dr. F. Tuđmana 1, Orešje",
+      "id": "croatia-afe078aaf3987ae12a18"
+    },
+    {
+      "name": "Takenoko",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Nova Ves 11, in Kaptol Centar Shopping Centre",
+      "url": "http://www.takenoko.hr/",
+      "id": "croatia-67f14d8d13e2d7d8f19f"
+    },
+    {
+      "name": "Velika Klet Obitelji Bunčić",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "20 km from central Zagreb",
+      "url": "http://www.buncic.hr/hr/velika-klet.htm",
+      "id": "croatia-13c978cb1f2d84fa58c9"
+    },
+    {
+      "name": "100% juice bar",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Tkalčićeva 5",
+      "id": "croatia-32e7f7657008dcb111cd"
+    },
+    {
+      "name": "SladoMazo",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Zelinska 7",
+      "id": "croatia-c04bcc483e4e43ff4ef2"
+    },
+    {
+      "name": "The Cookie Factory",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Tkalčićeva 21",
+      "url": "http://www.facebook.com/cookiefactoryzgb",
+      "id": "croatia-771dffce160d8ed3f925"
+    },
+    {
+      "name": "Torte i To",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Nova Ves 11, second floor of the Kaptol Centar",
+      "id": "croatia-fed45baf6c581d4e8c49"
+    },
+    {
+      "name": "Vincek",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Ilica",
+      "id": "croatia-d350642fcd7da80945e0"
+    },
+    {
+      "name": "Konoba Didov San",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Mletačka 11, Upper Town",
+      "id": "croatia-7e0ee9fed39656dec415"
+    },
+    {
+      "name": "Booksa",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Martićeva 14d",
+      "url": "http://www.booksa.hr/",
+      "id": "croatia-3ed5c4720037609c39be"
+    },
+    {
+      "name": "Cica",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Tkalčićeva",
+      "id": "croatia-1c618ce4bbce205104a3"
+    },
+    {
+      "name": "Funk club",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Tkalčićeva 52",
+      "id": "croatia-4c91985cc59003057344"
+    },
+    {
+      "name": "Golf",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Preradovićeva",
+      "id": "croatia-98ccb4bd48da6d827c69"
+    },
+    {
+      "name": "KIC",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Preradovićeva",
+      "id": "croatia-843af6259f69f5c14874"
+    },
+    {
+      "name": "Kino Grič",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Jurišićeva",
+      "id": "croatia-f5da9dc3b3d223ee24db"
+    },
+    {
+      "name": "Krivi Put (Wrong Way)",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Savska 14",
+      "id": "croatia-c05ab01c2b712ccf8c67"
+    },
+    {
+      "name": "Mali Medo",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Tkalčićeva",
+      "id": "croatia-f1f868f0593e5ae39966"
+    },
+    {
+      "name": "Melin",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Tkalčićeva",
+      "id": "croatia-b85394caf7c98716d5f0"
+    },
+    {
+      "name": "Oliver Twist",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Tkalčićeva",
+      "id": "croatia-c2bc0cdf09c03e39b537"
+    },
+    {
+      "name": "Pivnica Medvedgrad",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "id": "croatia-3d705f83b637a9016748"
+    },
+    {
+      "name": "Portal",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Tkalčićeva",
+      "id": "croatia-515268ef4ef7d95bc32e"
+    },
+    {
+      "name": "Purgeraj",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Park Ribnjak",
+      "id": "croatia-0f26d333299b93cc405a"
+    },
+    {
+      "name": "Tolkien's House",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Opatovina",
+      "id": "croatia-55636b599bde183cdcc1"
+    },
+    {
+      "name": "ŽeraBar",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Malogorička 42",
+      "url": "https://zerabar.com/",
+      "id": "croatia-e8210b419ac9277bbddc"
+    },
+    {
+      "name": "Garden Brewery Taproom",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "lat": 45.79586023,
+      "lon": 16.035222497,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Slavonska avenija 26/1",
+      "url": "https://thegarden.hr/taproom/",
+      "id": "croatia-4c42d7d7c34a08e3b14f"
+    },
+    {
+      "name": "Aquarius",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Aleja Matije Ljubeka bb (Jarun Lake)",
+      "url": "http://www.aquarius.hr/",
+      "id": "croatia-47416a1586cdbc59584c"
+    },
+    {
+      "name": "BP Club",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Nikole Tesle 7",
+      "url": "http://www.bpclub.hr/",
+      "id": "croatia-3bbfc63b80b8039c95f4"
+    },
+    {
+      "name": "Jabuka",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Jabukovac 28",
+      "id": "croatia-7fb48e7a4b0dd95a0204"
+    },
+    {
+      "name": "KSET",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Unska 3",
+      "price": "Entrance prices from €1.5 (students) to €6-8 for concerts",
+      "url": "https://www.kset.org/",
+      "id": "croatia-fa4e3f4a7d195bb1afe0"
+    },
+    {
+      "name": "Medika",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Pierottijeva 11",
+      "url": "https://attack.hr/",
+      "id": "croatia-eaa4cb9894daadd106b0"
+    },
+    {
+      "name": "Močvara",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Prisavlje",
+      "url": "http://www.mochvara.hr/",
+      "id": "croatia-0e9228e26dee06a03686"
+    },
+    {
+      "name": "SAX! - Klub hrvatskih glazbenika",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Palmotićeva 22/2",
+      "url": "http://www.sax-zg.hr/",
+      "id": "croatia-3c26e2623ca085c12b23"
+    },
+    {
+      "name": "The Jazz Club",
+      "kind": "eat",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "id": "croatia-7f3a2f03dc584bd920ef"
+    },
+    {
+      "name": "Whole Wide World Hostel",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "lat": 45.81196,
+      "lon": 15.96424,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Kačićeva Ulica 3, 10000 Zagreb",
+      "price": "28€",
+      "url": "https://www-hostel.com/",
+      "id": "croatia-6fc7ba2253976e0b8979"
+    },
+    {
+      "name": "Chillout Hostel Zagreb",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "lat": 45.81386,
+      "lon": 15.9727,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Fra Andrije Kačića Miošića 3b",
+      "price": "From €25",
+      "url": "http://www.chillout-hostel-zagreb.com/",
+      "id": "croatia-d76f5f82135c10d146e1"
+    },
+    {
+      "name": "Fulir Hostel Zagreb",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "lat": 45.81373,
+      "lon": 15.97552,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "id": "croatia-6dc434f63dec92f62cd8"
+    },
+    {
+      "name": "Funk Lounge",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Ivana Rendića 28b",
+      "price": "dorm from: €13, private from: €20",
+      "id": "croatia-51d24140c7288ae38dc0"
+    },
+    {
+      "name": "Hobo Bear Hostel",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "lat": 45.81249,
+      "lon": 15.96664,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Meduliceva 4",
+      "price": "Dorm bed: €14",
+      "id": "croatia-340465cf4fdbfbf96327"
+    },
+    {
+      "name": "Hostel Lika",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Pašmanska 17",
+      "price": "Dorm bed: €13.5",
+      "id": "croatia-5d80d2d7210fc207d026"
+    },
+    {
+      "name": "Hostel Mali Mrak Zagreb",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Dubicka 8",
+      "price": "Dorm bed: €13.5",
+      "url": "http://www.hostel-zagreb.com/",
+      "id": "croatia-1fb3214543055f6ba85e"
+    },
+    {
+      "name": "Nokturno Hostel",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Skalinska 2a",
+      "price": "From €11",
+      "url": "http://www.hostel.nokturno.hr/",
+      "id": "croatia-1b51d653d1ff669288b3"
+    },
+    {
+      "name": "Logistics Youth Centre",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Jakuševečka 87",
+      "url": "http://www.hostel-zagreb.hostel.com/",
+      "id": "croatia-864c47b167449da4bed3"
+    },
+    {
+      "name": "Old Town Zagreb Hostel",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Dordiceva 24 (Ulica Ignjata Dordica)",
+      "price": "Dorm bed: €13.5",
+      "id": "croatia-50a7067eed915d7b79e0"
+    },
+    {
+      "name": "Palmers Lodge Zagreb",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Branimirova 25",
+      "price": "Dorm bed: €15.5",
+      "id": "croatia-6c8a05099d4ba4b93e36"
+    },
+    {
+      "name": "Ravnice Youth Hostel",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "I. Ravnice 38d",
+      "url": "http://www.ravnice-youth-hostel.hr/",
+      "id": "croatia-c54ce90faa7ad6d7294f"
+    },
+    {
+      "name": "HI Hostel Zagreb",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "lat": 45.80701739,
+      "lon": 15.98036991,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Petrinjska 77",
+      "url": "https://www.hicroatia.com/en/hostel/hi-hostel-zagreb/",
+      "id": "croatia-6ccc81cd98be078a8fc9"
+    },
+    {
+      "name": "Hotel Jägerhorn",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "lat": 45.81379,
+      "lon": 15.97379,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Ilica 14",
+      "url": "http://www.hotel-jagerhorn.hr/",
+      "id": "croatia-ad97809211e7e0f9e946"
+    },
+    {
+      "name": "Arcotel Allegra",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "lat": 45.80576,
+      "lon": 15.98513,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Branimirova 29",
+      "url": "http://www.arcotelhotels.com/en/allegra_hotel_zagreb/",
+      "id": "croatia-b9a6dd16af826d1a0fad"
+    },
+    {
+      "name": "Best Western Premier Hotel Astoria",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Petrinjska 71",
+      "url": "https://www.bestwestern.com/content/best-western/en_US/booking-path/hotel-details.89502.html",
+      "id": "croatia-7d41f6e95b0634828de1"
+    },
+    {
+      "name": "Panorama Hotel Zagreb",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "lat": 45.80572,
+      "lon": 15.95212,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Trg Kresimira Ćosića 9",
+      "url": "http://www.panorama-zagreb.com/",
+      "id": "croatia-746d6ff0a388f6b08f5e"
+    },
+    {
+      "name": "Hotel Aristos",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Cebini 33, Buzin",
+      "url": "http://www.hotel-aristos.hr/",
+      "id": "croatia-1a86e25467809546bcab"
+    },
+    {
+      "name": "Hotel As",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Zelengaj 2A",
+      "url": "http://www.hotel-as.hr/eng/index.php",
+      "id": "croatia-639625a334d56cf95cec"
+    },
+    {
+      "name": "Hotel Central",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "lat": 45.80546,
+      "lon": 15.98021,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Branimirova 3",
+      "price": "from €57",
+      "url": "http://www.hotel-central.hr/en/hotel/",
+      "id": "croatia-f7b158d9ceba896ec918"
+    },
+    {
+      "name": "Hotel Dubrovnik",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "lat": 45.81245,
+      "lon": 15.97672,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Gajeva 1",
+      "url": "http://www.hotel-dubrovnik.hr/",
+      "id": "croatia-a78b3d27a26105b43e04"
+    },
+    {
+      "name": "Hotel I",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "lat": 45.772,
+      "lon": 15.9474,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Remetinečka cesta 106",
+      "url": "http://www.hotel-i.hr/",
+      "id": "croatia-fc1f6637a4cca47fe21c"
+    },
+    {
+      "name": "Hotel International",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "lat": 45.79887,
+      "lon": 15.974,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Miramarska 24",
+      "url": "http://www.hotel-international.hr/",
+      "id": "croatia-8e5bdbdb8ee5524f5774"
+    },
+    {
+      "name": "Hotel Jadran",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "lat": 45.81357,
+      "lon": 15.98466,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Vlaška 50",
+      "url": "http://www.hoteljadran.com.hr/",
+      "id": "croatia-5d36023f146ce3c3c96b"
+    },
+    {
+      "name": "Hotel Laguna",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Kranjčevićeva 29",
+      "url": "http://www.hotel-laguna.hr/",
+      "id": "croatia-aaa8c5f555bfc8f9bbb3"
+    },
+    {
+      "name": "Hotel Phoenix",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Sesvetska cesta 29",
+      "url": "http://www.hotelphoenix.com.hr/",
+      "id": "croatia-bb25370b2476fd19c92c"
+    },
+    {
+      "name": "Palace Hotel",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "lat": 45.8085,
+      "lon": 15.9776,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "J.J. Strossmayer Square",
+      "url": "http://www.palace.hr/en",
+      "id": "croatia-5889991e1a6b35320dc3"
+    },
+    {
+      "name": "Esplanade Zagreb",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "lat": 45.8052,
+      "lon": 15.97599,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Mihanovićeva 1",
+      "url": "http://www.esplanade.hr/",
+      "id": "croatia-392d1ff866925ca094a5"
+    },
+    {
+      "name": "Sheraton Zagreb Hotel",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "lat": 45.80726,
+      "lon": 15.98457,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Kneza Borne 2",
+      "url": "https://www.marriott.com/hotels/travel/zagsi-sheraton-zagreb-hotel/",
+      "id": "croatia-3b4d495b54657b8e205e"
+    },
+    {
+      "name": "Westin Zagreb",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "lat": 45.8067,
+      "lon": 15.9661,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "Kršnjavoga 1",
+      "url": "https://www.marriott.com/hotels/travel/zagwi-the-westin-zagreb/",
+      "id": "croatia-8636825cfd5a2601ef82"
+    },
+    {
+      "name": "Boutique hotel Le Premier Zagreb",
+      "kind": "stay",
+      "locality": "Zagreb",
+      "lat": 45.8059,
+      "lon": 15.9856,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "address": "King Držislav Street 5",
+      "url": "https://www.visitzagreb.hr/zagreb/boutique-hotel-le-premier-zagreb/",
+      "id": "croatia-bb8f3319116fe462dfb1"
+    },
+    {
+      "name": "Zagreb",
+      "kind": "area",
+      "locality": "Zagreb",
+      "lat": 45.8167,
+      "lon": 15.9833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zagreb",
+      "id": "croatia-150303ba8f771237ab92"
+    },
+    {
+      "name": "Pile Gate",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "lat": 42.641761,
+      "lon": 18.106854,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "at the western end of the Placa Stradun",
+      "id": "croatia-2509d934f973a1b8143c"
+    },
+    {
+      "name": "Big Onofrio's Fountain",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "lat": 42.641528,
+      "lon": 18.107222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "id": "croatia-3e1368fd996d37d119d3"
+    },
+    {
+      "name": "Roland's Column",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "lat": 42.641,
+      "lon": 18.1103,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "id": "croatia-9ec4999edab4a2ea765c"
+    },
+    {
+      "name": "Bell Tower",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "lat": 42.640992,
+      "lon": 18.1107,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "id": "croatia-cff75447ccac5cb5e4c3"
+    },
+    {
+      "name": "Sponza Palace",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "lat": 42.6411,
+      "lon": 18.1106,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "price": "€5",
+      "id": "croatia-47f2b7d96f56e048549c"
+    },
+    {
+      "name": "Rector's Palace",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "lat": 42.640278,
+      "lon": 18.110833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Pred dvorom 1",
+      "price": "€15",
+      "id": "croatia-ed84ff3bba09a7b3db8d"
+    },
+    {
+      "name": "Fort Lovrijenac",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "lat": 42.640731,
+      "lon": 18.104412,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "price": "€15, or free with City Walls ticket",
+      "id": "croatia-28425fec85d139e8642a"
+    },
+    {
+      "name": "Dubrovnik West Harbour",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "id": "croatia-c1c8dafacfe7bd6151a0"
+    },
+    {
+      "name": "Old Port",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "id": "croatia-1a5fb7247f3fbee30446"
+    },
+    {
+      "name": "Franciscan Monastery",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "lat": 42.6418,
+      "lon": 18.1078,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Placa 2",
+      "id": "croatia-fea6427f2601b79be45a"
+    },
+    {
+      "name": "Cathedral of the Assumption of the Virgin Mary",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "lat": 42.64,
+      "lon": 18.110833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Kneza Damjana Jude 1",
+      "id": "croatia-52290d51795fa2ecae4e"
+    },
+    {
+      "name": "Church of Saint Blaise",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "lat": 42.640556,
+      "lon": 18.110278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "id": "croatia-1125a5e1957ea70dfbcf"
+    },
+    {
+      "name": "Church of St. Ignatius and the Jesuit College",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "lat": 42.639503,
+      "lon": 18.109356,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "id": "croatia-6920d692e39a6de0385a"
+    },
+    {
+      "name": "Dominican Monastery",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "lat": 42.641583,
+      "lon": 18.111439,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "id": "croatia-29d0dfe89cb623d15128"
+    },
+    {
+      "name": "Church of St. Sebastian",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "id": "croatia-665958308b968350c246"
+    },
+    {
+      "name": "Serbian Orthodox Church and Museum of Icons",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "price": "Church admission: free; Museum admission €0.70-1.40",
+      "id": "croatia-c7d8e086cb3ff00a1c7b"
+    },
+    {
+      "name": "City Walls",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "price": "EUR 40 for adults, EUR 15 for children (aged 7-18, under 7s are free) and students with a valid student card",
+      "id": "croatia-185e738bd9ed1371aa95"
+    },
+    {
+      "name": "Bukovac House",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Bukovčeva 5, Cavtat",
+      "url": "http://www.kuca-bukovac.hr/",
+      "id": "croatia-1665b40d0f3de91fd8c4"
+    },
+    {
+      "name": "Dubrovnik Natural History Museum",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Androvićeva 1",
+      "id": "croatia-dedd4cee1677679e379a"
+    },
+    {
+      "name": "Franciscan Monastery Museum",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Placa 2",
+      "price": "€4",
+      "id": "croatia-856cc7f0a7b231b7a06b"
+    },
+    {
+      "name": "Sigurata Convent Museum",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Od Sigurate 13",
+      "price": "€1.40",
+      "id": "croatia-73379e5ae5a9fe187a36"
+    },
+    {
+      "name": "Synagogue and Jewish Museum",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "lat": 42.650556,
+      "lon": 18.091389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Zudioska 5",
+      "id": "croatia-c50f14109ef035fcf373"
+    },
+    {
+      "name": "Dominican Monastery Museum",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Sv. Domina 4",
+      "price": "€2.70",
+      "id": "croatia-a9fff7f0e64aa2c4b6ec"
+    },
+    {
+      "name": "The Sponza Palace Museum",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "price": "€2.70",
+      "id": "croatia-2d3d407f343002751377"
+    },
+    {
+      "name": "The Rector's Palace Museum",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Pred dvorom 1",
+      "price": "€5.30",
+      "id": "croatia-45411ed8cb61ee1d9307"
+    },
+    {
+      "name": "The Treasury of Cathedral",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Kneza Damjana Jude 1",
+      "price": "€2",
+      "id": "croatia-faa79affe42d0802cba4"
+    },
+    {
+      "name": "Maritime Museum",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "lat": 42.6398,
+      "lon": 18.1122,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "In St. John Fortress",
+      "price": "€5.30",
+      "url": "http://dumus.hr/en/maritime-museum/",
+      "id": "croatia-2369f977e58ec1c6882c"
+    },
+    {
+      "name": "Home of Marin Držić",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Široka 7",
+      "id": "croatia-afc4c37471b37f9c0c04"
+    },
+    {
+      "name": "The Ethnographic Museum",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Od Rupa 3",
+      "price": "€5.30",
+      "id": "croatia-4ec4e6837b254df2661a"
+    },
+    {
+      "name": "War Photo Limited",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "lat": 42.6416,
+      "lon": 18.1087,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Antuninska 6",
+      "price": "Adult €10, student €6",
+      "url": "https://www.warphotoltd.com/",
+      "id": "croatia-53225658c37391ca605e"
+    },
+    {
+      "name": "Aquarium",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "price": "€4",
+      "id": "croatia-bdc6bb0ab0063e12d390"
+    },
+    {
+      "name": "Lapad Beach",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "id": "croatia-1e0c90b115e845ed600f"
+    },
+    {
+      "name": "Banje Beach",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "id": "croatia-748218a3ecb698d77ef6"
+    },
+    {
+      "name": "Cliff Jumping @ Cafe Buža",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "id": "croatia-c1964276dc7bf87e9bf7"
+    },
+    {
+      "name": "Lazareti",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Frana Supila 8",
+      "url": "http://www.arl.hr/",
+      "id": "croatia-ddb987e3be587d1494a7"
+    },
+    {
+      "name": "imad hotel",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "lat": 42.639691,
+      "lon": 18.112641,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Za Karmenom 1",
+      "id": "croatia-0ca473e635bc4729b294"
+    },
+    {
+      "name": "Dubrovnik Summer Festival",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "url": "http://www.dubrovnik-festival.hr/",
+      "id": "croatia-1979fa9cb342a25d3ebb"
+    },
+    {
+      "name": "Dubrovnik Cable Car",
+      "kind": "do",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Petra Krešimira 4. bb, 20000 Dubrovnik",
+      "price": "€30 round trip",
+      "url": "http://www.dubrovnikcablecar.com/",
+      "id": "croatia-16add3b9ef93e089fa80"
+    },
+    {
+      "name": "Buffet Škola",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "lat": 42.6414763,
+      "lon": 18.1086388,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Antuninska ul. 1",
+      "id": "croatia-c12710d2933ecd728fbc"
+    },
+    {
+      "name": "Barba",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "lat": 42.6414454,
+      "lon": 18.1099842,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Boškovićeva ul. 5",
+      "id": "croatia-b685f33f01e5a7c40e28"
+    },
+    {
+      "name": "Pizzeria Tabasco",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "lat": 42.6425163,
+      "lon": 18.1114206,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Hvarska ul. 48",
+      "id": "croatia-a83f3fc1d2681afe3c73"
+    },
+    {
+      "name": "Pizzeria La Luna",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "lat": 42.6541,
+      "lon": 18.0918,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Andrije Hebranga 60",
+      "price": "€6/medium pizza",
+      "url": "https://pizzeria-la-luna-dubrovnik.com/",
+      "id": "croatia-2b0f725b5c228e353e08"
+    },
+    {
+      "name": "Konoba Tabak",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "lat": 42.6522479,
+      "lon": 18.0923692,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Vukovarska ul. 34",
+      "id": "croatia-cf6781515e64fe2088dc"
+    },
+    {
+      "name": "Pizzeria Asterix & Obelix",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "lat": 42.6533909,
+      "lon": 18.075598,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Ul. Žrtava s Dakse 18",
+      "id": "croatia-12f02d902f24f1c8f2b0"
+    },
+    {
+      "name": "Mea Culpa",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Široka Street",
+      "price": "€9.30/pizza+bottle of water",
+      "id": "croatia-5737cb1969a27c24f27a"
+    },
+    {
+      "name": "Nishta",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Prijeko 30",
+      "url": "http://www.nishtarestaurant.com/",
+      "id": "croatia-36bdc830f4ed9ccc5e35"
+    },
+    {
+      "name": "Poklisar",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Od Ribarnica 1",
+      "id": "croatia-89cd395ebebe816fa02f"
+    },
+    {
+      "name": "Pizzeria Scala",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Mata Vodopića 3",
+      "price": "€6 for a normal 30 cm pizza; €7-11 for delicious Mexican food/specialities",
+      "url": "http://www.pizzeria-scala.com/",
+      "id": "croatia-71f35f070eb5b8595626"
+    },
+    {
+      "name": "Spaghetteria Toni",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Nikole Bozidarevica 14",
+      "id": "croatia-2090b78a05289482e666"
+    },
+    {
+      "name": "Lady Pi-Pi",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "id": "croatia-862752aaba705aa70193"
+    },
+    {
+      "name": "Arka",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Gundulićeva poljana",
+      "id": "croatia-7c5fca803cd5eb382d1d"
+    },
+    {
+      "name": "Domino Steak House",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Od Domina 6",
+      "id": "croatia-64c89b122fc020fbb646"
+    },
+    {
+      "name": "Dubravka 1836",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Brsalje 1",
+      "price": "Pizza €8, mains €10-22, dessert €4",
+      "url": "https://www.nautikarestaurants.com/dubravka-restaurant-cafe/",
+      "id": "croatia-fd1dc6af469f2856d46f"
+    },
+    {
+      "name": "Marco Polo",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Lucarica 6",
+      "url": "http://www.marcopolo-dubrovnik.com/",
+      "id": "croatia-4ada060f20952ad18e2f"
+    },
+    {
+      "name": "Proto",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Široka Ulica",
+      "id": "croatia-7e234198e49ec551cbc1"
+    },
+    {
+      "name": "Taj Mahal",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "id": "croatia-633d3e4c0e756824a502"
+    },
+    {
+      "name": "Gil's Little Bistro",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Petilovrijenci 4",
+      "id": "croatia-e559a4d6d8c585f5a61d"
+    },
+    {
+      "name": "Lokanda Peskarija",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Na ponti bb",
+      "id": "croatia-1af1d90c2965fa06a39a"
+    },
+    {
+      "name": "Nautika",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Brsalje 3",
+      "price": "Try the €17 \"Mediterranean Lunch\" special; otherwise start at €27",
+      "url": "http://www.esculap-teo.hr/restaurant_nautika.html",
+      "id": "croatia-ff6d6f3c2b5f5b2d0479"
+    },
+    {
+      "name": "Porat Restaurant & Terrace",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Marijana Blazica 2",
+      "url": "http://www.hilton.co.uk/dubrovnik",
+      "id": "croatia-a559104cb1a9477cbaa3"
+    },
+    {
+      "name": "Cafe Buža",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Iza Mura",
+      "id": "croatia-cb4cb1cbed4d55ef66b0"
+    },
+    {
+      "name": "Casablanca",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "id": "croatia-4f4ba5b39bc13730b068"
+    },
+    {
+      "name": "D'vino Wine Bar",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Palmoticeva 4a",
+      "url": "https://www.dvino.net/",
+      "id": "croatia-0967a54a79e7ec1209b6"
+    },
+    {
+      "name": "NoneNina",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Pred Dvorom 4",
+      "id": "croatia-06fe899bd1b40afe93ee"
+    },
+    {
+      "name": "Troubadour",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "lat": 42.64006,
+      "lon": 18.1102,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Bunićeva poljana 2",
+      "id": "croatia-1b0fbc17db1142b360df"
+    },
+    {
+      "name": "Beer Factory",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "lat": 42.6404,
+      "lon": 18.109,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Ul. Miha Pracata 6",
+      "id": "croatia-ef38f16066c7f49b45f0"
+    },
+    {
+      "name": "Culture Club Revelin",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Svetog Dominika 3",
+      "url": "https://www.clubrevelin.com/",
+      "id": "croatia-49a66771c0698d7e2ea7"
+    },
+    {
+      "name": "Banje Beach Club",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Frana Supila 10/B",
+      "url": "http://www.banjebeach.com/",
+      "id": "croatia-833134c09276cee310e9"
+    },
+    {
+      "name": "Klub Orlando",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Branitelja Dubrovnika 41",
+      "id": "croatia-0fdd2c88676e9af69a0e"
+    },
+    {
+      "name": "Lazareti",
+      "kind": "eat",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Frana Supila 8",
+      "url": "http://www.lazareti.com/",
+      "id": "croatia-0b75e9b5dce46bedb777"
+    },
+    {
+      "name": "Camping Solitudo",
+      "kind": "stay",
+      "locality": "Dubrovnik",
+      "lat": 42.66198,
+      "lon": 18.07064,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "price": "2 people in a tent: €47",
+      "url": "http://www.camping-adriatic.com/croatia/dubrovnik/camping/solitudo",
+      "id": "croatia-a96646a882d0a147c26c"
+    },
+    {
+      "name": "Guesthouse Villa Micika Dubrovnik",
+      "kind": "stay",
+      "locality": "Dubrovnik",
+      "lat": 42.655184,
+      "lon": 18.07473,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Mata Vodopica 10",
+      "price": "€18 low season, €48 high season",
+      "url": "http://www.vilamicika.hr/",
+      "id": "croatia-4b55d02c699c97e017ef"
+    },
+    {
+      "name": "Guest House Letizia",
+      "kind": "stay",
+      "locality": "Dubrovnik",
+      "lat": 42.65978,
+      "lon": 18.089944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Ul. pod Polje",
+      "price": "€35-40 per room",
+      "url": "https://guesthouseletizia.rentalscroacia.info/hr/",
+      "id": "croatia-5e2cb194cbc7bcf3e5db"
+    },
+    {
+      "name": "Dubrovnik Backpacker's Club",
+      "kind": "stay",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Mostarska 2d",
+      "url": "http://www.dubackpackers.com/",
+      "id": "croatia-ab0f1c52c6417ec4e90f"
+    },
+    {
+      "name": "Youth Hostel Dubrovnik",
+      "kind": "stay",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Vinka Sagrestana 3",
+      "price": "Dorm bed: €16.70",
+      "url": "http://www.hihostels.com/dba/hostels-Dubrovnik-021004.en.htm",
+      "id": "croatia-7b03e25400dec1277e68"
+    },
+    {
+      "name": "Hostel & Rooms Ana",
+      "kind": "stay",
+      "locality": "Dubrovnik",
+      "lat": 42.6414,
+      "lon": 18.1104,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Kovacka 4",
+      "id": "croatia-0c300107a31999d8e674"
+    },
+    {
+      "name": "Hotel Adriatic Dubrovnik",
+      "kind": "stay",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Masarykov put 5",
+      "url": "https://www.hotelsindubrovnik.com/en/hotel-adriatic-dubrovnik",
+      "id": "croatia-d19cd643dd184c4d7143"
+    },
+    {
+      "name": "Hotel Komodor",
+      "kind": "stay",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Masarykov put 3E, Lapad Bay",
+      "url": "https://www.hotelsindubrovnik.com/en/hotel-komodor-dubrovnik",
+      "id": "croatia-5d586e1440143c4eb47f"
+    },
+    {
+      "name": "Hotel Neptun Dubrovnik",
+      "kind": "stay",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Kardinala Stepinca 31",
+      "url": "http://www.importanneresort.com/",
+      "id": "croatia-99a7e9f739bc6ac78d97"
+    },
+    {
+      "name": "Hotel Lero",
+      "kind": "stay",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Iva Vojnovica 14",
+      "url": "http://www.hotel-lero.hr/",
+      "id": "croatia-dae165b321af039ca315"
+    },
+    {
+      "name": "Hotel Petka",
+      "kind": "stay",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Obala Stjepana Radica 38",
+      "url": "http://www.sol.hr/en/hotel-petka",
+      "id": "croatia-7e43f8aabbf20645e332"
+    },
+    {
+      "name": "Hotel Splendid",
+      "kind": "stay",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Masarykov put 6",
+      "url": "https://www.hotelsindubrovnik.com/en/hotel-splendid-dubrovnik",
+      "id": "croatia-2a7bc299a74279e5f983"
+    },
+    {
+      "name": "Hotel Vis",
+      "kind": "stay",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Masarykov put 2",
+      "url": "https://www.hotelsindubrovnik.com/en/hotel-vis-dubrovnik",
+      "id": "croatia-fc1297e6fac85f9d5abf"
+    },
+    {
+      "name": "Pension Stankovich",
+      "kind": "stay",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Matije Gubca 15",
+      "url": "http://www.pension-stankovich.com/",
+      "id": "croatia-1df8c5aa0917a75a9c9d"
+    },
+    {
+      "name": "Dubrovnik b&b",
+      "kind": "stay",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Frana Supila 1",
+      "price": "B&B double from €75",
+      "url": "http://www.dubrovnikbedandbreakfast.com/",
+      "id": "croatia-8f5b6b2542be07c990a2"
+    },
+    {
+      "name": "Ariston Hotel",
+      "kind": "stay",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Kardinala Stepinca 31",
+      "url": "https://www.hotelaristondubrovnik.com/",
+      "id": "croatia-ea731fad9377ecba80e5"
+    },
+    {
+      "name": "Grand Villa Argentina",
+      "kind": "stay",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Frana Supila 14",
+      "url": "https://www.adriaticluxuryhotels.com/grand-villa-argentina",
+      "id": "croatia-f8c65444a3ce3045cff7"
+    },
+    {
+      "name": "Hilton Imperial Dubrovnik",
+      "kind": "stay",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Marijana Blažića 2",
+      "url": "http://www.dubrovnik.hilton.com/",
+      "id": "croatia-3bef8e51bb0bf680abba"
+    },
+    {
+      "name": "Hotel Bellevue",
+      "kind": "stay",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Pera Čingrije 7",
+      "url": "https://www.adriaticluxuryhotels.com/hotel-bellevue-dubrovnik",
+      "id": "croatia-ab68381c325e3c30b451"
+    },
+    {
+      "name": "Hotel Dubrovnik Palace",
+      "kind": "stay",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Masarykov put 20",
+      "url": "https://www.adriaticluxuryhotels.com/hotel-dubrovnik-palace",
+      "id": "croatia-ec336b00d4b2a610e58a"
+    },
+    {
+      "name": "Hotel Excelsior",
+      "kind": "stay",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "F. Supila 12",
+      "price": "€265",
+      "url": "https://www.adriaticluxuryhotels.com/hotel-excelsior-dubrovnik",
+      "id": "croatia-4be734bff7e83f1ea315"
+    },
+    {
+      "name": "Pucic Palace",
+      "kind": "stay",
+      "locality": "Dubrovnik",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Ulica Od Puca 1",
+      "url": "http://www.thepucicpalace.com/",
+      "id": "croatia-c5b6df84fba3f6e65de6"
+    },
+    {
+      "name": "Sun Gardens",
+      "kind": "stay",
+      "locality": "Dubrovnik",
+      "lat": 42.695,
+      "lon": 18.015,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "address": "Na moru 1, Orašac",
+      "price": "B&B double from €200",
+      "url": "https://www.dubrovniksungardens.com/",
+      "id": "croatia-e2414406464f760088a6"
+    },
+    {
+      "name": "Dubrovnik",
+      "kind": "area",
+      "locality": "Dubrovnik",
+      "lat": 42.640278,
+      "lon": 18.108333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubrovnik",
+      "id": "croatia-36376fde0f7420a37c09"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 3 distinct public Wikivoyage source pages; attempted 3 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

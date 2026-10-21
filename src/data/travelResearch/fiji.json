@@ -1,0 +1,325 @@
+{
+  "sources": [
+    {
+      "title": "Fiji",
+      "url": "https://en.wikivoyage.org/wiki/Fiji",
+      "checkedAt": "2026-10-21T08:07:53.226Z"
+    },
+    {
+      "title": "Suva",
+      "url": "https://en.wikivoyage.org/wiki/Suva",
+      "checkedAt": "2026-10-21T08:07:56.418Z"
+    },
+    {
+      "title": "Viti Levu",
+      "url": "https://en.wikivoyage.org/wiki/Viti_Levu",
+      "checkedAt": "2026-10-21T08:07:59.186Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Suva",
+      "kind": "area",
+      "locality": "Fiji",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Fiji",
+      "id": "fiji-1a506e3d6c8363001430"
+    },
+    {
+      "name": "Lautoka",
+      "kind": "area",
+      "locality": "Fiji",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Fiji",
+      "id": "fiji-5726e30b8bc5e0485399"
+    },
+    {
+      "name": "Levuka",
+      "kind": "area",
+      "locality": "Fiji",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Fiji",
+      "id": "fiji-1584833eebfea335824d"
+    },
+    {
+      "name": "Nadi",
+      "kind": "area",
+      "locality": "Fiji",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Fiji",
+      "id": "fiji-703fdbfa8b7f625ff811"
+    },
+    {
+      "name": "Nausori",
+      "kind": "area",
+      "locality": "Fiji",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Fiji",
+      "id": "fiji-e82ae57190e272e5807b"
+    },
+    {
+      "name": "Taveuni",
+      "kind": "area",
+      "locality": "Fiji",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Fiji",
+      "id": "fiji-b257f57e3c269e2246dc"
+    },
+    {
+      "name": "Whitewater rafting",
+      "kind": "do",
+      "locality": "Fiji",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Fiji",
+      "address": "Rivers Fiji, P.O. Box 307 Pacific Harbour",
+      "url": "http://www.riversfiji.com/",
+      "id": "fiji-4ee2df6ede90cdfdacd4"
+    },
+    {
+      "name": "The Pearl",
+      "kind": "do",
+      "locality": "Fiji",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Fiji",
+      "address": "Queens Road, Pacific Harbour, Pacific Coast",
+      "url": "http://www.thepearlsouthpacific.com/",
+      "id": "fiji-47255dae8e0f6993dd2d"
+    },
+    {
+      "name": "Village Stays",
+      "kind": "stay",
+      "locality": "Fiji",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Fiji",
+      "address": "Throughout Fiji",
+      "url": "http://www.fijibure.com/",
+      "id": "fiji-9c3d2128d02acb5c2246"
+    },
+    {
+      "name": "Fiji Museum",
+      "kind": "do",
+      "locality": "Suva",
+      "lat": -18.1497,
+      "lon": 178.4257,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Suva",
+      "address": "Cakobau Rd",
+      "price": "$7",
+      "url": "http://fijimuseum.org.fj/",
+      "id": "fiji-a5121869bf2a39ad27d3"
+    },
+    {
+      "name": "Albert Park",
+      "kind": "do",
+      "locality": "Suva",
+      "lat": -18.147169178608014,
+      "lon": 178.42477494775162,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Suva",
+      "id": "fiji-aadfcb0145a0fb39111a"
+    },
+    {
+      "name": "Singh's Curry House",
+      "kind": "eat",
+      "locality": "Suva",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Suva",
+      "address": "Corner of Gordon Street & Victoria Parade",
+      "id": "fiji-e08cfa963476b4033562"
+    },
+    {
+      "name": "Ashiyana",
+      "kind": "eat",
+      "locality": "Suva",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Suva",
+      "address": "Old Town Hall, Victoria Parade",
+      "price": "$5-10",
+      "id": "fiji-e73c6094e857c2e50310"
+    },
+    {
+      "name": "Scott's",
+      "kind": "eat",
+      "locality": "Suva",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Suva",
+      "address": "Southern Cross Hotel",
+      "id": "fiji-2a2af3034d4c4651477e"
+    },
+    {
+      "name": "Palm Court Bistro",
+      "kind": "eat",
+      "locality": "Suva",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Suva",
+      "address": "QBE Centre, Victoria parade",
+      "price": "$7-15",
+      "url": "http://www.palmcourtfiji.com/",
+      "id": "fiji-f08dfdb119aadab1889d"
+    },
+    {
+      "name": "Zam Zam Resaturant",
+      "kind": "eat",
+      "locality": "Suva",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Suva",
+      "address": "Moala Street, Samabula",
+      "price": "10-40",
+      "id": "fiji-3b1c3c3867c8afa1964e"
+    },
+    {
+      "name": "BSP Central Food Court",
+      "kind": "eat",
+      "locality": "Suva",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Suva",
+      "id": "fiji-156bf4360c13a0425bb8"
+    },
+    {
+      "name": "Fr or Fringing Reef",
+      "kind": "eat",
+      "locality": "Suva",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Suva",
+      "address": "Queen Elizabeth Dr",
+      "id": "fiji-e3115a7e5379b813cf3b"
+    },
+    {
+      "name": "Holiday Inn Suva",
+      "kind": "stay",
+      "locality": "Suva",
+      "lat": -18.14554,
+      "lon": 178.42286,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Suva",
+      "address": "Victoria Parade",
+      "price": "Approx. $340",
+      "url": "http://www.ichotelsgroup.com/h/d/6c/1/en/hotel/suvvp",
+      "id": "fiji-09352c22580a8b12925c"
+    },
+    {
+      "name": "Rainforest Eco Lodge",
+      "kind": "stay",
+      "locality": "Suva",
+      "lat": -18.057563,
+      "lon": 178.457387,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Suva",
+      "address": "Princes Rd",
+      "url": "https://www.rainforestecolodge.com.fj/",
+      "id": "fiji-f17c14ac68817462fa0c"
+    },
+    {
+      "name": "Tanoa Plaza Suva Hotel",
+      "kind": "stay",
+      "locality": "Suva",
+      "lat": -18.14379,
+      "lon": 178.42632,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Suva",
+      "price": "Doubles $210",
+      "url": "https://www.tanoahotels.com/tanoa-plaza-hotel/",
+      "id": "fiji-b9346b39e9f4693d2d4d"
+    },
+    {
+      "name": "Colonial Lodge",
+      "kind": "stay",
+      "locality": "Suva",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Suva",
+      "id": "fiji-ad397224ad8767507d0d"
+    },
+    {
+      "name": "5 Princes Hotel",
+      "kind": "stay",
+      "locality": "Suva",
+      "lat": -18.12615,
+      "lon": 178.43909,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Suva",
+      "address": "5 Prince Rd",
+      "url": "http://www.fiveprinceshotel.com/",
+      "id": "fiji-773c09479d64ffcd753b"
+    },
+    {
+      "name": "Grand Pacific Hotel",
+      "kind": "stay",
+      "locality": "Suva",
+      "lat": -18.14711,
+      "lon": 178.422818,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Suva",
+      "address": "5 Prince Rd",
+      "url": "http://grandpacifichotel.com.fj/",
+      "id": "fiji-2ef30cde5c82097b29e2"
+    },
+    {
+      "name": "Suva",
+      "kind": "area",
+      "locality": "Suva",
+      "lat": -18.1416,
+      "lon": 178.4419,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Suva",
+      "id": "fiji-599ffe24b3416dac9100"
+    },
+    {
+      "name": "Suva",
+      "kind": "area",
+      "locality": "Viti Levu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Viti_Levu",
+      "id": "fiji-ab283bff2039bb00f74f"
+    },
+    {
+      "name": "Ba",
+      "kind": "area",
+      "locality": "Viti Levu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Viti_Levu",
+      "id": "fiji-c4ff350781391042c881"
+    },
+    {
+      "name": "Lautoka",
+      "kind": "area",
+      "locality": "Viti Levu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Viti_Levu",
+      "id": "fiji-133c6724d36cec344d8f"
+    },
+    {
+      "name": "Nadi",
+      "kind": "area",
+      "locality": "Viti Levu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Viti_Levu",
+      "id": "fiji-a49c1fa0f25c95f0a293"
+    },
+    {
+      "name": "Nausori",
+      "kind": "area",
+      "locality": "Viti Levu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Viti_Levu",
+      "id": "fiji-eac6190450d6cc278d1d"
+    },
+    {
+      "name": "Navoti",
+      "kind": "area",
+      "locality": "Viti Levu",
+      "lat": -18.20181,
+      "lon": 177.69504,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Viti_Levu",
+      "id": "fiji-9bcaa9764fc6f2d052dc"
+    },
+    {
+      "name": "Rakiraki",
+      "kind": "area",
+      "locality": "Viti Levu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Viti_Levu",
+      "id": "fiji-0c66fc9837fd40d651d6"
+    },
+    {
+      "name": "Sigatoka",
+      "kind": "area",
+      "locality": "Viti Levu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Viti_Levu",
+      "id": "fiji-01955bd305809c3758b9"
+    },
+    {
+      "name": "Bounty",
+      "kind": "eat",
+      "locality": "Viti Levu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Viti_Levu",
+      "id": "fiji-a7e011fac00bd913c5b0"
+    },
+    {
+      "name": "Ed's Bar",
+      "kind": "eat",
+      "locality": "Viti Levu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Viti_Levu",
+      "id": "fiji-97a91a395352add6b2d8"
+    },
+    {
+      "name": "Viti Levu",
+      "kind": "area",
+      "locality": "Viti Levu",
+      "lat": -17.8,
+      "lon": 178,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Viti_Levu",
+      "id": "fiji-673391382c4d27a5d2dc"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 3 distinct public Wikivoyage source pages; attempted 3 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

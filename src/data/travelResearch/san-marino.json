@@ -1,0 +1,309 @@
+{
+  "sources": [
+    {
+      "title": "San Marino",
+      "url": "https://en.wikivoyage.org/wiki/San_Marino",
+      "checkedAt": "2026-10-21T08:12:07.225Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Guaita Tower",
+      "kind": "do",
+      "locality": "San Marino",
+      "lat": 43.9354,
+      "lon": 12.4496,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "id": "san-marino-e8939422d3d8365d2158"
+    },
+    {
+      "name": "Cesta Tower",
+      "kind": "do",
+      "locality": "San Marino",
+      "lat": 43.9328,
+      "lon": 12.4515,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "id": "san-marino-1c519c58b1e544746259"
+    },
+    {
+      "name": "Montale Tower",
+      "kind": "do",
+      "locality": "San Marino",
+      "lat": 43.9301,
+      "lon": 12.4526,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "id": "san-marino-4987807ba6dd26664039"
+    },
+    {
+      "name": "Basilica di San Marino",
+      "kind": "do",
+      "locality": "San Marino",
+      "lat": 43.936944,
+      "lon": 12.446667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "address": "Piazzale Domus Plebis",
+      "id": "san-marino-5a86b8ce70af6187c1a1"
+    },
+    {
+      "name": "Piazza della Libertà",
+      "kind": "do",
+      "locality": "San Marino",
+      "lat": 43.9365,
+      "lon": 12.4467,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "id": "san-marino-85d36c19ca80802531ab"
+    },
+    {
+      "name": "State Museum",
+      "kind": "do",
+      "locality": "San Marino",
+      "lat": 43.935955,
+      "lon": 12.44663,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "address": "Piazzetta del Titano, 1",
+      "price": "€8",
+      "url": "http://www.museidistato.sm/",
+      "id": "san-marino-fa1023f827cda0e9defd"
+    },
+    {
+      "name": "St. Francis' Museum",
+      "kind": "do",
+      "locality": "San Marino",
+      "lat": 43.935293,
+      "lon": 12.447027,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "address": "Via Basilicius",
+      "price": "€4.50",
+      "url": "http://www.museidistato.sm/",
+      "id": "san-marino-3971c59064be8b8e9feb"
+    },
+    {
+      "name": "Torture Museum",
+      "kind": "do",
+      "locality": "San Marino",
+      "lat": 43.935183,
+      "lon": 12.446989,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "address": "Contrada San Francesco n° 2",
+      "url": "http://www.thetorturemuseum.it/",
+      "id": "san-marino-cf77a90e8835d9e41dad"
+    },
+    {
+      "name": "Wax Museum",
+      "kind": "do",
+      "locality": "San Marino",
+      "lat": 43.93519,
+      "lon": 12.448776,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "address": "via Lapicidi Marini, 17 - 47890",
+      "url": "http://www.museodellecerersm.com/en/",
+      "id": "san-marino-0cb6d395c4bf3fdc97ba"
+    },
+    {
+      "name": "San Marino Adventures",
+      "kind": "do",
+      "locality": "San Marino",
+      "lat": 43.941726,
+      "lon": 12.429743,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "address": "Parco di Montecerreto",
+      "url": "http://www.sanmarinoadventures.sm/en/",
+      "id": "san-marino-57a2964e15131e0e2b3c"
+    },
+    {
+      "name": "Conad",
+      "kind": "eat",
+      "locality": "San Marino",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "address": "Azzurro Shopping Center, V M Moretti 23, Serravalle",
+      "id": "san-marino-54d77a3b0012be87ed78"
+    },
+    {
+      "name": "Sma Supermercati",
+      "kind": "eat",
+      "locality": "San Marino",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "id": "san-marino-8542aaebe7a620bd2d97"
+    },
+    {
+      "name": "Pizzeria Smaller",
+      "kind": "eat",
+      "locality": "San Marino",
+      "lat": 43.9339372,
+      "lon": 12.4481964,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "address": "Via Paolo III, 7",
+      "id": "san-marino-a77252f786f003d124d5"
+    },
+    {
+      "name": "Ristorante Buca San Francesco Srl",
+      "kind": "eat",
+      "locality": "San Marino",
+      "lat": 12.4468345,
+      "lon": 12.4468345,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "address": "Piazzetta Del Placito Feretrano, 3",
+      "id": "san-marino-cef224947a102cda8d0a"
+    },
+    {
+      "name": "La Bettola",
+      "kind": "eat",
+      "locality": "San Marino",
+      "lat": 43.9388888,
+      "lon": 12.4466199,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "address": "Via Valdes De Carli, 7",
+      "id": "san-marino-194d4b63dbbce62b0d37"
+    },
+    {
+      "name": "La Spizzata",
+      "kind": "eat",
+      "locality": "San Marino",
+      "lat": 43.9456577,
+      "lon": 12.4515056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "address": "Via Ca' dei Lunghi, 10",
+      "id": "san-marino-f53daa10a46043d20b64"
+    },
+    {
+      "name": "L'Angela Veste Piada",
+      "kind": "eat",
+      "locality": "San Marino",
+      "lat": 43.9458484,
+      "lon": 12.4516876,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "address": "Via Ca' dei Lunghi, 16",
+      "id": "san-marino-260a8614c2dad8114c68"
+    },
+    {
+      "name": "Bar Trattoria Testaclà",
+      "kind": "eat",
+      "locality": "San Marino",
+      "lat": 43.9527708,
+      "lon": 12.4692796,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "address": "Via XXV Marzo, 76",
+      "id": "san-marino-fcf0e9e02cdca35ee833"
+    },
+    {
+      "name": "Ristorante Pizzeria Il Monte",
+      "kind": "eat",
+      "locality": "San Marino",
+      "lat": 43.9673854,
+      "lon": 12.4755509,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "address": "Via IV Giugno, 2",
+      "id": "san-marino-913ef0f5d0808b33e05d"
+    },
+    {
+      "name": "Bar Trattoria La Gara",
+      "kind": "eat",
+      "locality": "San Marino",
+      "lat": 43.9690509,
+      "lon": 12.4789885,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "address": "Via Ezio Balducci, 17",
+      "id": "san-marino-e36bfb7e3ecfe6a7d4ef"
+    },
+    {
+      "name": "Good Fellas",
+      "kind": "eat",
+      "locality": "San Marino",
+      "lat": 43.9772549,
+      "lon": 12.4865225,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "address": "Via Tre Settembre, 17, c/o Atlante",
+      "id": "san-marino-353d5df616203a02df9a"
+    },
+    {
+      "name": "Pizzeria Millennium",
+      "kind": "eat",
+      "locality": "San Marino",
+      "lat": 43.9825356,
+      "lon": 12.4898478,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "address": "Piazza Enriquez, 22",
+      "id": "san-marino-31ec8585f72663a15f41"
+    },
+    {
+      "name": "La Fratta",
+      "kind": "eat",
+      "locality": "San Marino",
+      "lat": 43.934967,
+      "lon": 12.448635,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "address": "Via Salita alla Rocca, 14",
+      "url": "http://www.ristorantelafratta.com/",
+      "id": "san-marino-3ed093a31fbdaab03269"
+    },
+    {
+      "name": "La Terrazza",
+      "kind": "eat",
+      "locality": "San Marino",
+      "lat": 43.93608,
+      "lon": 12.446839,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "address": "Contrada del Collegio, 31",
+      "price": "Pasta €13 (Feb 2020)",
+      "url": "https://www.ristorantelaterrazza.sm/en/",
+      "id": "san-marino-e3729460d59e01f4548e"
+    },
+    {
+      "name": "Hostel San Marino",
+      "kind": "stay",
+      "locality": "San Marino",
+      "lat": 43.946448,
+      "lon": 12.456461,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "address": "Via 28 Luglio, 224, Borgo Maggiore",
+      "price": "€20-25 for a bunk, €65-110 for a private room",
+      "url": "http://www.hostel-sanmarino.com/en/index.html",
+      "id": "san-marino-95abd0e5883a53414fe8"
+    },
+    {
+      "name": "Grand Hotel San Marino",
+      "kind": "stay",
+      "locality": "San Marino",
+      "lat": 43.933848,
+      "lon": 12.448974,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "address": "Viale Antonio Onofri, 31",
+      "url": "http://www.grandhotel.sm/en/",
+      "id": "san-marino-0722461a9920aa4311c9"
+    },
+    {
+      "name": "Hotel Titano",
+      "kind": "stay",
+      "locality": "San Marino",
+      "lat": 43.93602,
+      "lon": 12.447042,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "address": "Contrada del Collegio, 31",
+      "url": "http://www.hoteltitano.com/en/",
+      "id": "san-marino-4a1871355a9dbfefea9d"
+    },
+    {
+      "name": "Modà Antica Dimora",
+      "kind": "stay",
+      "locality": "San Marino",
+      "lat": 43.91022,
+      "lon": 12.486652,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "address": "Via del Dragone, 18",
+      "price": "EUR 50-60 per night",
+      "url": "https://sites.google.com/view/moda-antica-dimora-san-marino/",
+      "id": "san-marino-72458711a8a0239bd3f7"
+    },
+    {
+      "name": "San Marino",
+      "kind": "area",
+      "locality": "San Marino",
+      "lat": 43.933,
+      "lon": 12.467,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Marino",
+      "id": "san-marino-0ca8e99b4cb282e00b5b"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 1 distinct public Wikivoyage source pages; attempted 1 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

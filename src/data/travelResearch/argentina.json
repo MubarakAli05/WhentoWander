@@ -1,0 +1,2444 @@
+{
+  "sources": [
+    {
+      "title": "Argentina",
+      "url": "https://en.wikivoyage.org/wiki/Argentina",
+      "checkedAt": "2026-10-21T08:06:54.839Z"
+    },
+    {
+      "title": "Buenos Aires",
+      "url": "https://en.wikivoyage.org/wiki/Buenos_Aires",
+      "checkedAt": "2026-10-21T08:06:57.915Z"
+    },
+    {
+      "title": "Buenos Aires/Centro",
+      "url": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "checkedAt": "2026-10-21T08:07:00.467Z"
+    },
+    {
+      "title": "Buenos Aires/Palermo and Recoleta",
+      "url": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "checkedAt": "2026-10-21T08:07:27.266Z"
+    },
+    {
+      "title": "Buenos Aires/La Boca and Barracas",
+      "url": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FLa_Boca_and_Barracas",
+      "checkedAt": "2026-10-21T08:07:21.350Z"
+    },
+    {
+      "title": "Buenos Aires/Outskirts",
+      "url": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FOutskirts",
+      "checkedAt": "2026-10-21T08:07:15.214Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Buenos Aires",
+      "kind": "area",
+      "locality": "Argentina",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Argentina",
+      "id": "argentina-caab4af42c72c0addc4d"
+    },
+    {
+      "name": "Córdoba",
+      "kind": "area",
+      "locality": "Argentina",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Argentina",
+      "id": "argentina-4fcd086e0c884aa73f5c"
+    },
+    {
+      "name": "La Plata",
+      "kind": "area",
+      "locality": "Argentina",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Argentina",
+      "id": "argentina-c1ff7f4fa887940c1c55"
+    },
+    {
+      "name": "Mendoza",
+      "kind": "area",
+      "locality": "Argentina",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Argentina",
+      "id": "argentina-2644619deb1df80738a5"
+    },
+    {
+      "name": "Rosario",
+      "kind": "area",
+      "locality": "Argentina",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Argentina",
+      "id": "argentina-3aba8c7b2857d3014c97"
+    },
+    {
+      "name": "Salta",
+      "kind": "area",
+      "locality": "Argentina",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Argentina",
+      "id": "argentina-fe460a725baa59f8d944"
+    },
+    {
+      "name": "San Carlos de Bariloche",
+      "kind": "area",
+      "locality": "Argentina",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Argentina",
+      "id": "argentina-ae93ed1997d2ffcf5b5b"
+    },
+    {
+      "name": "San Juan",
+      "kind": "area",
+      "locality": "Argentina",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Argentina",
+      "id": "argentina-cb39c37a75327d3671ef"
+    },
+    {
+      "name": "San Miguel de Tucuman",
+      "kind": "area",
+      "locality": "Argentina",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Argentina",
+      "id": "argentina-2eb55fd855df29b00def"
+    },
+    {
+      "name": "Confiteria Ideal",
+      "kind": "eat",
+      "locality": "Buenos Aires",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires",
+      "address": "Suipacha 384",
+      "id": "argentina-15e3fb4e50fe41da3a1a"
+    },
+    {
+      "name": "Buenos Aires",
+      "kind": "area",
+      "locality": "Buenos Aires",
+      "lat": -34.603,
+      "lon": -58.382,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires",
+      "id": "argentina-d4c35995b8227271eee4"
+    },
+    {
+      "name": "Teatro Colón",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.601083,
+      "lon": -58.383083,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Tucuman 1171",
+      "price": "AR$30,000",
+      "url": "http://www.teatrocolon.org.ar/en/",
+      "id": "argentina-138d1fc2eff2b8a65df6"
+    },
+    {
+      "name": "Palacio de Justicia",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.602167,
+      "lon": -58.38575,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "id": "argentina-86626a64833a85998afc"
+    },
+    {
+      "name": "Pasaje Rivarola",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.6069,
+      "lon": -58.3854,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "id": "argentina-ad3e6c831bcaefce153f"
+    },
+    {
+      "name": "Palacio del Congreso",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.609864,
+      "lon": -58.392692,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Av. Rivadavia 1864",
+      "price": "Free",
+      "id": "argentina-cd8fb71d93693024567b"
+    },
+    {
+      "name": "Plaza de Congreso",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.609667,
+      "lon": -58.390167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "id": "argentina-99c9ee44e61295c2e411"
+    },
+    {
+      "name": "Casa Rosada",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.608056,
+      "lon": -58.370278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Balcarce 50",
+      "id": "argentina-5cf6f1c1b5fff6a5d6ea"
+    },
+    {
+      "name": "Obelisco",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.60376,
+      "lon": -58.38162,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "id": "argentina-c61b9f6ce527f9198c28"
+    },
+    {
+      "name": "Confitería del Molino",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.608889,
+      "lon": -58.392222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "id": "argentina-57c3119a1af5ae07d021"
+    },
+    {
+      "name": "Teatro Liceo",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.608556,
+      "lon": -58.3875,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "id": "argentina-02ea644bb7e6d3bd9be0"
+    },
+    {
+      "name": "Confiteria Ideal",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.603892,
+      "lon": -58.379511,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Suipacha 384",
+      "id": "argentina-31963be7f7a97c2cb336"
+    },
+    {
+      "name": "Palacio Barolo",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.609556,
+      "lon": -58.385861,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Av. de Mayo 1370",
+      "price": "AR$48,000 for day visit and more at night",
+      "url": "http://www.pbarolo.com.ar/",
+      "id": "argentina-7c11fb4aeb59d9f156b6"
+    },
+    {
+      "name": "Casa de la Cultura",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.608056,
+      "lon": -58.374444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Av. de Mayo 575",
+      "id": "argentina-2c17016506e14bf031b7"
+    },
+    {
+      "name": "Libreria La Calesita",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Av. de Mayo 769",
+      "id": "argentina-d13cf8e5e150946165bf"
+    },
+    {
+      "name": "La Botica del Angel",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.615,
+      "lon": -58.3876,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Luis Sáenz Peña 541",
+      "id": "argentina-d877f12e6fdbde888f90"
+    },
+    {
+      "name": "Catedral Metropolitana",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.607408,
+      "lon": -58.373278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "San Martin 42",
+      "url": "http://catedralprimadabue.wixsite.com/buenosaires",
+      "id": "argentina-219ed9098c1f6e540e9d"
+    },
+    {
+      "name": "Retiro railway station",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.591389,
+      "lon": -58.374722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "id": "argentina-484df1a7345a228ed8f0"
+    },
+    {
+      "name": "Plaza San Martín",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.594444,
+      "lon": -58.375,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "id": "argentina-ecd7fe17089ce9060d50"
+    },
+    {
+      "name": "Carlos Regazzoni art factory/atelier",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "id": "argentina-b9d4598af981fd221429"
+    },
+    {
+      "name": "Edificio Kavanagh",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.595417,
+      "lon": -58.374667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Florida 1065",
+      "id": "argentina-97b4aabd086c9bc621b8"
+    },
+    {
+      "name": "Palacio Paz",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.596111,
+      "lon": -58.3775,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "url": "http://www.palaciopaz.com.ar/",
+      "id": "argentina-9d3dd1161e78c18e607f"
+    },
+    {
+      "name": "Manzana de las Luces",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.610556,
+      "lon": -58.374444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "id": "argentina-cd083aed21a04f00a0f5"
+    },
+    {
+      "name": "Mercado San Telmo",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.619528,
+      "lon": -58.372832,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "id": "argentina-50ebe32109dc37fead06"
+    },
+    {
+      "name": "Plaza Dorrego",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.620556,
+      "lon": -58.371667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "id": "argentina-3a2ac8c3b4bb62d8ab73"
+    },
+    {
+      "name": "Museo Histórico Nacional",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.626944,
+      "lon": -58.370556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "1600 Defensa",
+      "url": "http://museohistoriconacional.cultura.gob.ar/",
+      "id": "argentina-774255f310f863041f68"
+    },
+    {
+      "name": "Pasaje San Lorenzo",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "id": "argentina-96d6749a86fbd96c228b"
+    },
+    {
+      "name": "El Zanjon de Granados",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.61669,
+      "lon": -58.3718,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Defensa 755 San Telmo",
+      "price": "AR$33,000",
+      "url": "http://www.elzanjon.com.ar/",
+      "id": "argentina-c2aaad8be9e17ae608c6"
+    },
+    {
+      "name": "Puente de la Mujer",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.607939,
+      "lon": -58.364911,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "id": "argentina-8aebd01153f1c95bf14b"
+    },
+    {
+      "name": "Hotel de Inmigrantes",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.5925,
+      "lon": -58.368056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "url": "http://www.migraciones.gov.ar/",
+      "id": "argentina-f77209cc1b91bf26cae2"
+    },
+    {
+      "name": "French Embassy Palace",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.59176,
+      "lon": -58.382517,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Cerrito 1399",
+      "url": "http://www.embafrancia-argentina.org/",
+      "id": "argentina-e81fce834bd2bdbaa196"
+    },
+    {
+      "name": "Casa de Esteban de Luca",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.619453,
+      "lon": -58.371422,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "383 Carlos Calvo St.",
+      "id": "argentina-68c094f191b020831ba2"
+    },
+    {
+      "name": "Cabildo of Buenos Aires",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.608858,
+      "lon": -58.373756,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Bolívar 65",
+      "price": "Free",
+      "url": "https://cabildonacional.cultura.gob.ar/",
+      "id": "argentina-44095f80a16567542ebb"
+    },
+    {
+      "name": "English Tower",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.592963,
+      "lon": -58.373192,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "id": "argentina-874dae9222022269c6a9"
+    },
+    {
+      "name": "Plaza de Mayo",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "id": "argentina-732f6e6088a0bf018ec2"
+    },
+    {
+      "name": "Teatro Cervantes",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.598889,
+      "lon": -58.383806,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Libertad 815",
+      "url": "http://www.teatrocervantes.gov.ar/nuevo_sitio/",
+      "id": "argentina-f23edc2ed051357bd712"
+    },
+    {
+      "name": "Learn the art of Fileteado",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "url": "http://milongalaindependencia.blogspot.com/",
+      "id": "argentina-a8aeaff5d685136a8df4"
+    },
+    {
+      "name": "Take Tango classes",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "url": "http://www.torquatotasso.com.ar/",
+      "id": "argentina-ca41e2b7196eb8f5646c"
+    },
+    {
+      "name": "Reserva Ecológica Castenera Sur",
+      "kind": "do",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "id": "argentina-263e61daccbfe7906533"
+    },
+    {
+      "name": "Abuela Pan",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.61614,
+      "lon": -58.373425,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Chile 518",
+      "url": "https://www.abuelapan.com/",
+      "id": "argentina-32f231413a99fad83e83"
+    },
+    {
+      "name": "Pirilo",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.6175413,
+      "lon": -58.3717008,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Defensa 821",
+      "id": "argentina-26c8f1ef470c27a6f9b8"
+    },
+    {
+      "name": "Churrasquería La Planchita",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.608165,
+      "lon": -58.377574,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Rivadavia 785",
+      "id": "argentina-18825ec4e58f43b59810"
+    },
+    {
+      "name": "Nuestra Parrilla",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.6191099,
+      "lon": -58.3729319,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Bolívar 950",
+      "id": "argentina-ed115c0dd0132983e993"
+    },
+    {
+      "name": "Parrilla Bar Polo",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.6193237,
+      "lon": -58.3698651,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Carlos Calvo 287",
+      "id": "argentina-c5b4d892024e235b61f1"
+    },
+    {
+      "name": "Lo de Nestor Bar cooperativa",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.6141985,
+      "lon": -58.3731917,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Bolívar 548",
+      "id": "argentina-7cde6472ed273304fd04"
+    },
+    {
+      "name": "Veggie Medio Oriente",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.602017,
+      "lon": -58.379619,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Suipacha 532",
+      "id": "argentina-ac39a2593979a053e220"
+    },
+    {
+      "name": "Bistro 1745",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "San Martin 705",
+      "id": "argentina-c324de84bd2cd22c06e1"
+    },
+    {
+      "name": "El Cuartito Pizza",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.597787,
+      "lon": -58.385368,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Talcahuano 937",
+      "id": "argentina-906e58974282c4f4be31"
+    },
+    {
+      "name": "Pizzería Güerrin",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.604198,
+      "lon": -58.385991,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Av. Corrientes 1368",
+      "id": "argentina-e9606563b57c40d48383"
+    },
+    {
+      "name": "Parrilla Peña",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.601053,
+      "lon": -58.391617,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Rodríguez Pena 682",
+      "id": "argentina-b1eec7611ce31489b267"
+    },
+    {
+      "name": "Dadá Bistro",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.596877,
+      "lon": -58.374145,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "San Martín 941",
+      "url": "http://dadabistrobar.com/",
+      "id": "argentina-2c73bd99686d5c234423"
+    },
+    {
+      "name": "Siga la Vaca",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.618808,
+      "lon": -58.365189,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Av. Alicia Moreau de Justo 1714",
+      "url": "http://www.sigalavaca.com/",
+      "id": "argentina-9eb50cb0954b2a10820f"
+    },
+    {
+      "name": "The Gibraltar",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Calle Perú 895 near Estados Unidos",
+      "url": "https://alexfullin.wixsite.com/thegibraltar",
+      "id": "argentina-f4611e474d7099df30d8"
+    },
+    {
+      "name": "Desnivel",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Defensa 855",
+      "id": "argentina-7987c6c7da35039d791d"
+    },
+    {
+      "name": "Cafe San Juan",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "450 San Juan",
+      "id": "argentina-808049b7f836f01afce3"
+    },
+    {
+      "name": "Gran Parrilla Del Plata",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.616126,
+      "lon": -58.374374,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "594 Chile",
+      "id": "argentina-095454107017c40172d7"
+    },
+    {
+      "name": "Sattva",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.603714,
+      "lon": -58.389497,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Montevideo 446",
+      "id": "argentina-a8834c90db0a0234839e"
+    },
+    {
+      "name": "Rifi",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Entre Rios1109",
+      "price": "AR$50,000 for two if you don't have dessert",
+      "id": "argentina-897dead3b855f12c647c"
+    },
+    {
+      "name": "El Gijon",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Cnr of Chile and San Jose, Montserrat",
+      "price": "AR$50,000 for two including wine",
+      "id": "argentina-098cd7656912ada8a9e9"
+    },
+    {
+      "name": "El Nuevo Castels",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Av Entre Rios 946 Montserrat",
+      "price": "$50,000 for two including wine and dessert",
+      "id": "argentina-c235bea417bc6207f6b1"
+    },
+    {
+      "name": "Rotiseria Miramar",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Av San Juan 1999 Montserrat",
+      "price": "AR$60,000 for two with wine",
+      "id": "argentina-3c82fe10fb29c1648174"
+    },
+    {
+      "name": "Cabaña Las Lilas",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.603803,
+      "lon": -58.366788,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Av. Alicia Moreau de Justo 516",
+      "url": "http://www.restaurantlaslilas.com.ar/",
+      "id": "argentina-cb0136ac8998dbdd27dd"
+    },
+    {
+      "name": "Happening Puerto Madero",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.602421,
+      "lon": -58.366953,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Av. Alicia Moreau de Justo 310",
+      "url": "http://happening.com.ar/",
+      "id": "argentina-7e711c4c671a67a2cf4e"
+    },
+    {
+      "name": "Cafe Tortoni",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.608667,
+      "lon": -58.37825,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "At Av De Mayo 825",
+      "url": "http://www.cafetortoni.com.ar/",
+      "id": "argentina-2c948a72a1dea56d6613"
+    },
+    {
+      "name": "Confiteria London City",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.608424,
+      "lon": -58.374782,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Av. de Mayo 599",
+      "id": "argentina-4432aa16d79e218d7acd"
+    },
+    {
+      "name": "Bar Iberia",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "at the corner of Av. de Mayo and Salta street",
+      "id": "argentina-f130a1c7a726ec3a3702"
+    },
+    {
+      "name": "La Puerto Rico",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.610207,
+      "lon": -58.372381,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Alsina 416",
+      "url": "http://www.lapuertoricocafe.com.ar/",
+      "id": "argentina-66474a50d26d16671317"
+    },
+    {
+      "name": "The Kilkenny",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.596014,
+      "lon": -58.372956,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Marcelo T. de Alvear 399",
+      "id": "argentina-c3368c33b66c438d7969"
+    },
+    {
+      "name": "Krakow Café Bar",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.613795,
+      "lon": -58.373033,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Venezuela 474, San Telmo/Monserrat",
+      "id": "argentina-a59fd1ce8f96cd5dcfa3"
+    },
+    {
+      "name": "Pride Cafe",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.617845,
+      "lon": -58.370304,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Balcarce and Pasaje Giuffra",
+      "id": "argentina-2cbd6d684a2d7f54f232"
+    },
+    {
+      "name": "Bar Britanico",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Brasil and Defensa",
+      "id": "argentina-6aa3ae8b77b2d02caac9"
+    },
+    {
+      "name": "Bar El Hipopótamo",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Brasil and Defensa",
+      "id": "argentina-bbc893bbef3088afd49e"
+    },
+    {
+      "name": "Bahrein",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.601988,
+      "lon": -58.371776,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Lavalle 345, Microcentro",
+      "url": "http://www.bahreinba.com/",
+      "id": "argentina-a9c5c253d2eecec8c919"
+    },
+    {
+      "name": "El Alamo",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.595065,
+      "lon": -58.387101,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Uruguay 1175, Recoleta",
+      "id": "argentina-9c9ace55174d99c0ff40"
+    },
+    {
+      "name": "Jack the Ripper",
+      "kind": "eat",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.593335,
+      "lon": -58.384414,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Libertad 1275",
+      "id": "argentina-c731c50363128dba1050"
+    },
+    {
+      "name": "Hostel Estacion Buenos Aires",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.614364,
+      "lon": -58.390307,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Solis 458",
+      "price": "Rates start at US$11 (Dorms for 4 and 6 people)",
+      "id": "argentina-ba29f87542250c309fbb"
+    },
+    {
+      "name": "Arahaus Hostel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "México 1482",
+      "id": "argentina-799ff97b5ebda416ea08"
+    },
+    {
+      "name": "Art Factory Hostel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.614483,
+      "lon": -58.377598,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Piedras 545",
+      "price": "From US$11",
+      "url": "http://artfactoryhostelblog.com/",
+      "id": "argentina-48dd376e0fb56eb1ba44"
+    },
+    {
+      "name": "Babel Boutique Hotel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.618821,
+      "lon": -58.370088,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Balcarce 946",
+      "url": "http://www.hotelbabel.com.ar/",
+      "id": "argentina-3dd827eee696c549dc85"
+    },
+    {
+      "name": "El Firulete (Downtown)",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Maipu 208",
+      "id": "argentina-7c1bcd777436af03d699"
+    },
+    {
+      "name": "Gran Hotel Espana",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Tacuari 80",
+      "id": "argentina-6e0ea1f39414756617cb"
+    },
+    {
+      "name": "Hostel Sol",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.621721,
+      "lon": -58.381649,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Lima 1169, at junction with San Juan",
+      "url": "http://www.hostelsol.com.ar/final/indexeng.htm",
+      "id": "argentina-9946639e997378d37545"
+    },
+    {
+      "name": "Milhouse Hostel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Hipólito Yrigoyen Street 959",
+      "url": "https://milhousehostel.com/en/buenos-aires-hipo-welcome.html",
+      "id": "argentina-e7f9ae8a9b3955df3446"
+    },
+    {
+      "name": "Pax Hostel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Salta 990",
+      "url": "http://www.paxhostel.com/",
+      "id": "argentina-92bbe32cb900e041376a"
+    },
+    {
+      "name": "Rayuela Hostel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.612834,
+      "lon": -58.37882,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Av. Belgrano 887 Rayuela",
+      "url": "http://www.rayuelahostel.com/",
+      "id": "argentina-0e8cc3465e761ac7de6e"
+    },
+    {
+      "name": "Ayres Porteños",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.616026,
+      "lon": -58.374581,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Perú 708, near Av. Independencia",
+      "id": "argentina-b4489992c16e035b0a54"
+    },
+    {
+      "name": "Hostel Suites Florida",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.60421,
+      "lon": -58.375283,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Florida 328",
+      "url": "http://florida.hostelsuites.com/",
+      "id": "argentina-91282db3ef828d2618f8"
+    },
+    {
+      "name": "Casarica Buenos Aires",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Corrientes 830",
+      "id": "argentina-1b52431aa3115a823fe7"
+    },
+    {
+      "name": "The Hostel-Inn Buenos Aires",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Humberto 1º 820",
+      "id": "argentina-c419b2e0adf381ed51b0"
+    },
+    {
+      "name": "Gardenhouse Hostel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "url": "http://www.gardenhouseba.com.ar/",
+      "id": "argentina-be4a7f913b86a4f38abc"
+    },
+    {
+      "name": "Hostel Carlos Gardel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "500 block of Carlos Calvo",
+      "id": "argentina-702381a7db8ee67edf3b"
+    },
+    {
+      "name": "Hostel San Telmo",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "id": "argentina-b9c52f12ea27b6542997"
+    },
+    {
+      "name": "V&S Hostel Boutique",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.599977,
+      "lon": -58.379494,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Viamonte 887",
+      "url": "http://www.hostelclub.com/",
+      "id": "argentina-bd2693a149c2c64b371c"
+    },
+    {
+      "name": "La Rocca Hostels",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.60505,
+      "lon": -58.392061,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Ave Callao 341",
+      "id": "argentina-d33e04a0b73d6f859712"
+    },
+    {
+      "name": "La Fresque Hotel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.60915,
+      "lon": -58.380532,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Avenida de Mayo 984, Buenos Aires",
+      "price": "Room rates start at US$50",
+      "url": "http://www.lafresquehotel.com/",
+      "id": "argentina-c9686e3b8d88d4baed67"
+    },
+    {
+      "name": "Hotel Diplomat",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.5971,
+      "lon": -58.374379,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "San Martin 918",
+      "price": "Rates start at US$85",
+      "url": "http://www.hoteldiplomat.com.ar/",
+      "id": "argentina-28ab21fd171dc6afba10"
+    },
+    {
+      "name": "Atlas Tower Hotel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.604498,
+      "lon": -58.391714,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Av. Corrientes 1778",
+      "url": "http://www.atlastower.com.ar/",
+      "id": "argentina-837c28d936667f30fb78"
+    },
+    {
+      "name": "The Cocker",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.624206,
+      "lon": -58.372035,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Av. Juan de Garay 458",
+      "id": "argentina-afe6ee48edf4ae6607af"
+    },
+    {
+      "name": "Hotel Goya",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.599588,
+      "lon": -58.379749,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Suipacha 748",
+      "id": "argentina-0c99d63bc9600933a209"
+    },
+    {
+      "name": "Ribera Sur",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.62096,
+      "lon": -58.368537,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Paseo Colón 1145 in San Telmo",
+      "url": "http://www.riberasurhotel.com.ar/",
+      "id": "argentina-a1329822f4a9094d0507"
+    },
+    {
+      "name": "La Querencia de Buenos Aires",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Carlos Calvo 1328 Montserrat",
+      "price": "AR$70,000 per double",
+      "id": "argentina-b4e807881303b741fbb5"
+    },
+    {
+      "name": "San Telmo Luxury Suites",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.615941,
+      "lon": -58.37233,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Chile 437, San Telmo",
+      "url": "http://www.santelmoluxury.com/",
+      "id": "argentina-9f03269a30e97062f1ec"
+    },
+    {
+      "name": "Savoy Hotel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.606936,
+      "lon": -58.391863,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Av. Callao 181",
+      "url": "http://www.savoyhotel.com.ar/",
+      "id": "argentina-fa7314d23f2929d4af45"
+    },
+    {
+      "name": "Faena Hotel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.613889,
+      "lon": -58.361667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "in the Puerto Madero district",
+      "url": "http://www.faenahotelanduniverse.com/",
+      "id": "argentina-8384d3326e9199688fa0"
+    },
+    {
+      "name": "Four Seasons Hotel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.590833,
+      "lon": -58.382778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "url": "http://www.fourseasons.com/buenosaires",
+      "id": "argentina-aa2c2a0acfd70016f82c"
+    },
+    {
+      "name": "Hilton Buenos Aires",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.605833,
+      "lon": -58.363611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Avenida Macacha Güemes 351",
+      "url": "https://www3.hilton.com/en/hotels/argentina/hilton-buenos-aires-BUEHIHH/index.html",
+      "id": "argentina-991d85ce444eba159d7b"
+    },
+    {
+      "name": "Hotel NH Collection Buenos Aires Jousten",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.6033,
+      "lon": -58.370877,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Avda. Corrientes, 280",
+      "price": "From US$166",
+      "url": "http://www.nh-hotels.com/nh/en/hotels/argentina/buenos-aires/nh-jousten.html",
+      "id": "argentina-e5a70da264d0f67b9db0"
+    },
+    {
+      "name": "Plaza Hotel Buenos Aires",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.596111,
+      "lon": -58.374722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Florida 1005",
+      "id": "argentina-1b961e8f03868cbf6dd7"
+    },
+    {
+      "name": "Sheraton Buenos Aires Hotel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.593233,
+      "lon": -58.372608,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "San Martín 1225",
+      "url": "http://www.sheratonbuenosaires.com/",
+      "id": "argentina-cafa208b56e64889fe47"
+    },
+    {
+      "name": "725 Continental Hotel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.606144,
+      "lon": -58.376621,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Av.Roque Saenz Peña 725, Ciudad de Buenos Aires",
+      "price": "Best rates on official website start at US$230",
+      "url": "http://www.725continental.com/",
+      "id": "argentina-67ea23d3b0d30859456d"
+    },
+    {
+      "name": "Broadway Hotel and Suites",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.603689,
+      "lon": -58.383294,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Av. Corrientes 1173",
+      "price": "Best rates on official website start at US$176",
+      "url": "http://www.broadway-suites.com.ar/",
+      "id": "argentina-930038e06985252cca53"
+    },
+    {
+      "name": "Hotel 562 Nogaro",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.60984,
+      "lon": -58.374122,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Avenida Julio A. Roca 562, Capital Federal Argentinia",
+      "price": "Best rates on official website start at US$110",
+      "url": "http://www.562nogarohotel.com/",
+      "id": "argentina-8a52eec77575ae7081b8"
+    },
+    {
+      "name": "Imperial Park Hotel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.609758,
+      "lon": -58.382065,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "101 Lima St. (C1073AAC)",
+      "url": "http://www.imperialparkhotel.com/",
+      "id": "argentina-e4bf6c4a77e16db2d9fa"
+    },
+    {
+      "name": "InterContinental",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Piedras and Moreno streets",
+      "id": "argentina-04abe2455c4cb8b0eb49"
+    },
+    {
+      "name": "Pestana Buenos Aires",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.598207,
+      "lon": -58.381115,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Carlos Pellegrini 877",
+      "url": "http://www.pestana.com/hotels/en/hotels/southamerica/BuenosAiresHotels/BuenosAires/Home/",
+      "id": "argentina-2eae576e3546bc8ccf1a"
+    },
+    {
+      "name": "Piedras Suites",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.618594,
+      "lon": -58.377244,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Piedras 906",
+      "url": "http://www.piedrassuites.com/",
+      "id": "argentina-5a70c2636d2f47cb29c3"
+    },
+    {
+      "name": "Regal Pacific Hotel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.598866,
+      "lon": -58.371485,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "25 de Mayo 764, Buenos Aires 1002 ABP",
+      "url": "http://www.regal-pacific.com/",
+      "id": "argentina-0d89c46cc81951b4b0f1"
+    },
+    {
+      "name": "Apartment 'Argentina to let'",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Lavelle & Callao",
+      "price": "US$380 per week",
+      "url": "http://www.argentinatolet.com/",
+      "id": "argentina-17528f745f133c0f071b"
+    },
+    {
+      "name": "ByT Argentina",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "url": "http://www.bytargentina.com/",
+      "id": "argentina-723dac14ec9c68e6276b"
+    },
+    {
+      "name": "San Telmo Colonial Hotel Boutique",
+      "kind": "stay",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.61967,
+      "lon": -58.376779,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "address": "Carlos Calvo 767 - Barrio de San Telmo (town) - Capital Federal",
+      "price": "Room rates start at US$210",
+      "url": "http://www.bairescolonial.com.ar/",
+      "id": "argentina-547eaf7fb4509234e66e"
+    },
+    {
+      "name": "Buenos Aires/Centro",
+      "kind": "area",
+      "locality": "Buenos Aires/Centro",
+      "lat": -34.608499,
+      "lon": -58.376372,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FCentro",
+      "id": "argentina-b9173692c94bf2681208"
+    },
+    {
+      "name": "Recoleta Cemetery",
+      "kind": "do",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.588056,
+      "lon": -58.393056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "price": "AR$22,600",
+      "id": "argentina-7dc1232d8b5a644c349c"
+    },
+    {
+      "name": "Museo Evita",
+      "kind": "do",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.58066,
+      "lon": -58.41474,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Lafinur 2988, Palermo",
+      "url": "http://web.museoevita.org.ar/",
+      "id": "argentina-dd46887ecb1b6d4407c7"
+    },
+    {
+      "name": "National Fine Arts Museum",
+      "kind": "do",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.584056,
+      "lon": -58.392806,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Avenida Libertador 1473",
+      "url": "https://www.bellasartes.gob.ar/en",
+      "id": "argentina-cd35077ef7e21b90806d"
+    },
+    {
+      "name": "El Ateneo Grand Splendid Bookstore",
+      "kind": "do",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.596111,
+      "lon": -58.394167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Av. Santa Fe 1860",
+      "id": "argentina-cd6d5539fe96cbe6af93"
+    },
+    {
+      "name": "Buenos Aires Botanical Garden",
+      "kind": "do",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.582469,
+      "lon": -58.418597,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "id": "argentina-b7c290035b129c97fba5"
+    },
+    {
+      "name": "Buenos Aires Japanese Gardens",
+      "kind": "do",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.575333,
+      "lon": -58.409389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "id": "argentina-e103f26cbd2c3a380f38"
+    },
+    {
+      "name": "Palermo Viejo",
+      "kind": "do",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.58875,
+      "lon": -58.43012,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "id": "argentina-2e30f530b3cfed87b87a"
+    },
+    {
+      "name": "Bosques de Palermo",
+      "kind": "do",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "id": "argentina-7067e97786f6c2f7a9dc"
+    },
+    {
+      "name": "Palermo chico",
+      "kind": "do",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "id": "argentina-6862d893db049356623e"
+    },
+    {
+      "name": "Palermo Las Cañitas",
+      "kind": "do",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.57,
+      "lon": -58.429722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "id": "argentina-33bf2b881ccf1a31868e"
+    },
+    {
+      "name": "Alvear Palace Hotel",
+      "kind": "do",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.587694,
+      "lon": -58.388806,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Av. Alvear 1891",
+      "id": "argentina-00aaa125307ba873b01a"
+    },
+    {
+      "name": "Palacio Duhau",
+      "kind": "do",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.589167,
+      "lon": -58.386111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Av. Alvear 1661",
+      "id": "argentina-4032222ca040e05e2b37"
+    },
+    {
+      "name": "Libertador",
+      "kind": "do",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "id": "argentina-da828f756b40e1243486"
+    },
+    {
+      "name": "Avenida Santa Fe/Alto Palermo",
+      "kind": "do",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "id": "argentina-0fa5c5c778df7d938e24"
+    },
+    {
+      "name": "Floralis Generica",
+      "kind": "do",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.583019,
+      "lon": -58.393263,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "id": "argentina-b94cb970aaecd4e5e47c"
+    },
+    {
+      "name": "Basilica of Our Lady of the Pillar",
+      "kind": "do",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.5868,
+      "lon": -58.392,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "id": "argentina-90e24f98d2c3ea6a7e8c"
+    },
+    {
+      "name": "Museo de Artes Plásticas Eduardo Sívori",
+      "kind": "do",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.569167,
+      "lon": -58.418056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "id": "argentina-1e9c88c1c0abe6234027"
+    },
+    {
+      "name": "Teatro Ciego",
+      "kind": "do",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Zelaya 3006",
+      "url": "http://teatrociego.org/",
+      "id": "argentina-fdde8874840cb586038d"
+    },
+    {
+      "name": "Ahin Spa",
+      "kind": "do",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Palacio Duhau - Park Hyatt Buenos Aires Hotel, Avenida Alvear 1661",
+      "url": "https://buenosaires.park.hyatt.com/",
+      "id": "argentina-8e37c3666a168ec6dbde"
+    },
+    {
+      "name": "La Biela Cafe",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.587851,
+      "lon": -58.390872,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Av. Presidente Manuel Quintana 600",
+      "id": "argentina-8f9100a8600e2d29c89a"
+    },
+    {
+      "name": "El Parillon de Recoleta",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "id": "argentina-b9e79b45ed9f3e7af067"
+    },
+    {
+      "name": "Los Inmortales",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.594452,
+      "lon": -58.388507,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Paraná 1209",
+      "url": "https://www.losinmortales.com/",
+      "id": "argentina-1a765f49bf7bc916c83f"
+    },
+    {
+      "name": "Rosetta Cucina Italiana",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.595971,
+      "lon": -58.392364,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Santa Fe 1726",
+      "id": "argentina-ffccfd5b7ddf52dfbe76"
+    },
+    {
+      "name": "Gran Bar Danzon",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Libertad 1161",
+      "url": "http://granbardanzon.com.ar/",
+      "id": "argentina-2a815ccc803ab6f290ab"
+    },
+    {
+      "name": "Circolo Italiano",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Libertad 1264",
+      "id": "argentina-f3b3808db5f0fb5b6974"
+    },
+    {
+      "name": "Palacio Balcarce",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "id": "argentina-d76acdc711100e3ab650"
+    },
+    {
+      "name": "Bio Solo Orgánico",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.581109,
+      "lon": -58.431158,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Humboldt 2192",
+      "url": "http://www.biorestaurant.com.ar/",
+      "id": "argentina-ca0f5b2b040b74c43485"
+    },
+    {
+      "name": "Lotos",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.599314,
+      "lon": -58.389412,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Av. Córdoba 1583",
+      "id": "argentina-d7cc26fd515222e88196"
+    },
+    {
+      "name": "La Dorita",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "1905 Costa Rica",
+      "url": "http://www.parrillaladorita.com.ar/",
+      "id": "argentina-03e0bd0f16c8a9b40412"
+    },
+    {
+      "name": "Horno Argentino, Cumaná",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.595381,
+      "lon": -58.391903,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Rodriguez Peña 1149 (w/ Santa Fe)",
+      "url": "https://www.cumanahorno.com.ar/",
+      "id": "argentina-5fef11f3cc8314e0ab73"
+    },
+    {
+      "name": "Cluny",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "id": "argentina-a628d7a325f0181d50e5"
+    },
+    {
+      "name": "Marini Buffet",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Santa Fe at Scarabrini Ortiz",
+      "id": "argentina-b04b0e137d612d8c5c0e"
+    },
+    {
+      "name": "Di Tommaso",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Avenida Del Libertador 4884",
+      "id": "argentina-fc7d9adb8d8836af2122"
+    },
+    {
+      "name": "Cadereyta",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Nicaragua 5802",
+      "id": "argentina-13d379c614a19f09e67d"
+    },
+    {
+      "name": "Las Cholas",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.571179,
+      "lon": -58.430587,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Arce 306",
+      "id": "argentina-aea6d7d59d562e89c0a4"
+    },
+    {
+      "name": "La Biela",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.587959,
+      "lon": -58.390781,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Av. Pres. Manuel Quintana 596",
+      "url": "http://www.labiela.com/",
+      "id": "argentina-6999b009aab039b73898"
+    },
+    {
+      "name": "Siga la Vaca",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "id": "argentina-02930b9fbffd0779c274"
+    },
+    {
+      "name": "The Night Market",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.584743,
+      "lon": -58.437538,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Gorriti 5612",
+      "url": "https://www.instagram.com/thenightmarket.ba/",
+      "id": "argentina-0ccd013ab43c6bfaedcb"
+    },
+    {
+      "name": "La Cabrera",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "price": "AR$50,000 per head with wine and dessert",
+      "id": "argentina-a1204e92906d29a8a839"
+    },
+    {
+      "name": "Le Restó",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Montevideo 938",
+      "id": "argentina-d5c62aa566ee57fc8ed1"
+    },
+    {
+      "name": "Sudestada",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.580338,
+      "lon": -58.432123,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Guatemala 5602",
+      "id": "argentina-c38f6416505dbf430077"
+    },
+    {
+      "name": "Miranda",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.58268,
+      "lon": -58.434833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Costa Rica 5602",
+      "id": "argentina-671b4dd65ec3ad732215"
+    },
+    {
+      "name": "The Shamrock Bar & Basement Club",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.59465,
+      "lon": -58.392244,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Rodriguez Peña 1200",
+      "id": "argentina-c111608c06e40bafa6f7"
+    },
+    {
+      "name": "La Biela",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Quintana 596 and RM Ortiz",
+      "id": "argentina-40293d32644d9cf997e4"
+    },
+    {
+      "name": "Casa Bar",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.595493,
+      "lon": -58.392126,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Rodríguez Peña 1150",
+      "id": "argentina-702e87cfe747ec2de494"
+    },
+    {
+      "name": "The Spot",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.593962,
+      "lon": -58.395652,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Ayacucho 1261",
+      "id": "argentina-b47c3fb5fa587cbbcbc5"
+    },
+    {
+      "name": "Milion",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Parana 1048",
+      "url": "http://milion.com.ar/",
+      "id": "argentina-798bf2ba597e3fb69135"
+    },
+    {
+      "name": "Catas Cafe y Vino",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Bonpland 2214",
+      "url": "https://catas.ar/",
+      "id": "argentina-c5e80127ad8982f0121c"
+    },
+    {
+      "name": "Finisterra",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "5190 Honduras",
+      "url": "http://www.finisterra-bar.com/",
+      "id": "argentina-e1e6e8ea8653efcb6e1a"
+    },
+    {
+      "name": "Sonoman Bar y Resto",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Fitz Roy 1655 @ Honduras",
+      "id": "argentina-c45dce525fd54d2b43fe"
+    },
+    {
+      "name": "Bar Antares",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Armenia 1447",
+      "url": "http://www.cervezaantares.com/",
+      "id": "argentina-3cce1c4441eefcd14c38"
+    },
+    {
+      "name": "Zizek Urban Beats Club",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "url": "http://www.whatsupbuenosaires.com/zizek/",
+      "id": "argentina-d9ec9701c992ae646d8b"
+    },
+    {
+      "name": "Magdalena's Party",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.586803,
+      "lon": -58.429145,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "1795 Thames y Costa Rica",
+      "url": "http://www.magdalenasparty.com/",
+      "id": "argentina-80630f9a4355b00df69e"
+    },
+    {
+      "name": "crobar",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.56939,
+      "lon": -58.420577,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Paseo de la infanta, Palermo",
+      "url": "http://www.crobar.com.ar/",
+      "id": "argentina-e57e8f67e1b076ae3aa1"
+    },
+    {
+      "name": "La Choppería de Palermo",
+      "kind": "eat",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.588677,
+      "lon": -58.428019,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "1711 Gurruchaga, corner El Salvador",
+      "url": "https://www.facebook.com/lachopperia/",
+      "id": "argentina-6f50b02d46896fbb3822"
+    },
+    {
+      "name": "Back in BA Hostel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "El Salvador 5115 (y Uriarte)",
+      "id": "argentina-db19a07d165f8a8b0dbb"
+    },
+    {
+      "name": "Charlie's Hostel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Darwin 825, Palermo Queens",
+      "url": "http://www.charlieshostel.com/",
+      "id": "argentina-7550fd2676fd0778196d"
+    },
+    {
+      "name": "El Sol Hostel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.597248,
+      "lon": -58.389577,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Marcelo T. de Alvear 1590",
+      "id": "argentina-219bac268efb4a71eadb"
+    },
+    {
+      "name": "Hostel Suites Palermo",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Charcas 4752",
+      "id": "argentina-0b2fa9c18f10815bff5f"
+    },
+    {
+      "name": "Luba Tango",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Gascón 1744",
+      "id": "argentina-c9947c46a4dec284ccf9"
+    },
+    {
+      "name": "Play Hostel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Guatemala 4636, Palermo",
+      "price": "Rates start at US$12 (dorm for 10 people)",
+      "url": "http://www.playhostel.com/index-en.html",
+      "id": "argentina-9d00bb47caa3ee2166ec"
+    },
+    {
+      "name": "The Clan House B&B",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "id": "argentina-b2668e538f1383d9bb49"
+    },
+    {
+      "name": "BA Soho Rooms",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "J.A. Cabrera 5004 2º B",
+      "price": "US$65/75 & US$35/45/55",
+      "id": "argentina-9dfb59477be4ddeb6ae4"
+    },
+    {
+      "name": "Caserón Porteño Tango Guest House",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.574182,
+      "lon": -58.441844,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Ciudad de la Paz 344",
+      "price": "US$50-95",
+      "url": "http://www.caseronporteno.com/",
+      "id": "argentina-c4bfe9af850ace452d33"
+    },
+    {
+      "name": "Duque Hotel Boutique & Spa",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Guatemala 4364",
+      "url": "http://www.duquehotel.com/",
+      "id": "argentina-a0f25c48b545571087ec"
+    },
+    {
+      "name": "Hotel Home Buenos Aires",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Honduras 5860 - Palermo Hollywood",
+      "price": "US$100-225",
+      "url": "http://www.homebuenosaires.com/",
+      "id": "argentina-00ad44f99aa114a4265c"
+    },
+    {
+      "name": "Alpino Hotel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.581669,
+      "lon": -58.408017,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Cabello 3318, Barrio de Palermo",
+      "price": "Room rates start at USD 98.00",
+      "url": "http://www.hotelalpino.com.ar/",
+      "id": "argentina-9b2f10e5a3eb92caca67"
+    },
+    {
+      "name": "Tesorito B&B",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.59562,
+      "lon": -58.404452,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Ecuador y Charcas 1250",
+      "url": "http://www.tesorito.com.ar/",
+      "id": "argentina-5c459f7cf7b29af829b1"
+    },
+    {
+      "name": "Ayacucho Palace Hotel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.592524,
+      "lon": -58.394853,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Ayacucho 1408",
+      "url": "http://www.ayacuchohotel.com.ar/",
+      "id": "argentina-d9967ef1d7dcdf33747e"
+    },
+    {
+      "name": "Howard Johnson Boutique Hotel Recoleta",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.592197,
+      "lon": -58.395309,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "url": "http://www.hjboutiquerecoleta.com.ar/",
+      "id": "argentina-db7ee8ded45285872999"
+    },
+    {
+      "name": "1054 Apartments",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "url": "http://www.1054apartments.com/",
+      "id": "argentina-5bb5c74982c5f2cc559e"
+    },
+    {
+      "name": "Didi Soho Hotel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.590285,
+      "lon": -58.427713,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Honduras 4762, Palermo Soho",
+      "id": "argentina-1db83acd2a90a52c120a"
+    },
+    {
+      "name": "Ilum Experience Home",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.582803,
+      "lon": -58.436809,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Bonpland 1762, Palermo Hollywood",
+      "url": "http://www.ilumhotel.com/",
+      "id": "argentina-a39d7f5823d2efb5fb0b"
+    },
+    {
+      "name": "Atempo Design Hotel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.582095,
+      "lon": -58.441732,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Arévalo 1564 - Palermo Hollywood",
+      "url": "http://www.atempohotel.com/",
+      "id": "argentina-18683f3e810114d00340"
+    },
+    {
+      "name": "Fierro Hotel Boutique",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.578792,
+      "lon": -58.435252,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Soler 5862, Palermo Hollywood",
+      "url": "http://www.fierrohotel.com/",
+      "id": "argentina-085023a2dbd0c781f67a"
+    },
+    {
+      "name": "Nuss Hotel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.587941,
+      "lon": -58.429504,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "El Salvador 4916 - Palermo Soho",
+      "url": "http://www.nusshotel.com/",
+      "id": "argentina-d52e327ce9a0b2b1417a"
+    },
+    {
+      "name": "Magnolia Boutique Hotel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.591071,
+      "lon": -58.421781,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Julian Alvarez 1746 - Palermo",
+      "url": "http://magnoliahotelboutique.com/palermo-buenosaires/",
+      "id": "argentina-1458fe94cc2d9d3fc3c9"
+    },
+    {
+      "name": "Synergie Hotel Boutique",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.59099,
+      "lon": -58.427446,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Malabia 1568",
+      "url": "http://synergie-boutique.buenosairestophotels.com/en/",
+      "id": "argentina-70e1b1229d3c266cca35"
+    },
+    {
+      "name": "Vain Boutique Hotel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.583677,
+      "lon": -58.424898,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Thames 2226/8",
+      "url": "http://www.vainhotel.com/",
+      "id": "argentina-93bf8135aee9694e1396"
+    },
+    {
+      "name": "Palo Santo Hotel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.588888888889,
+      "lon": -58.430555555556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Bonpland 2275, Palermo Hollywood",
+      "url": "http://www.palosantohotel.com/",
+      "id": "argentina-993e741c0a339a4a81f0"
+    },
+    {
+      "name": "Alvear Palace",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.587694,
+      "lon": -58.388806,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "in Recoleta",
+      "url": "http://www.alvearpalace.com/",
+      "id": "argentina-2c48735c8e9b200c24ab"
+    },
+    {
+      "name": "Design Suites Hotel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.597152,
+      "lon": -58.391366,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Marcelo T. de Alvear 1683",
+      "price": "Best rates on official website start at US $115",
+      "url": "http://www.designsuites.com/",
+      "id": "argentina-46aeb4fa963783af8107"
+    },
+    {
+      "name": "Hotel de Diseño",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.597122,
+      "lon": -58.391608,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Marcelo T. de Alvear 1695",
+      "price": "Best rates on official website start at US $110",
+      "url": "http://www.designce.com/ing/index.php",
+      "id": "argentina-ce6f240a7e1ae950e1e2"
+    },
+    {
+      "name": "Hotel Plaza Francia",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.585519,
+      "lon": -58.388776,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "E. Schiaffino 2189 esq. Av. del Libertador, (1129 ACC)",
+      "url": "https://www.esplendorhoteles.com/es/hoteles/argentina/hoteles-en-ciudad-de-buenos-aires/esplendor-plaza-francia/",
+      "id": "argentina-ef570430280dcc70f3eb"
+    },
+    {
+      "name": "Melia Recoleta Plaza",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.587086,
+      "lon": -58.387719,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Posadas 1557",
+      "url": "https://www.melia.com/es/hoteles/argentina/buenos-aires/melia-recoleta-plaza/index.html",
+      "id": "argentina-327f5366c72b362983ce"
+    },
+    {
+      "name": "Palacio Duhau - Park Hyatt",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.589167,
+      "lon": -58.386111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "address": "Avenida Alvear 1661, (C1014AAD)",
+      "url": "https://buenosaires.park.hyatt.com/",
+      "id": "argentina-3f3b91e7e6a03567f24c"
+    },
+    {
+      "name": "Oasis Collections",
+      "kind": "stay",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "url": "http://www.oasiscollections.com/",
+      "id": "argentina-3ed8abad10a06ffb0995"
+    },
+    {
+      "name": "Buenos Aires/Palermo and Recoleta",
+      "kind": "area",
+      "locality": "Buenos Aires/Palermo and Recoleta",
+      "lat": -34.576964,
+      "lon": -58.413564,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FPalermo_and_Recoleta",
+      "id": "argentina-2efabc6d48201902381a"
+    },
+    {
+      "name": "Caminito",
+      "kind": "do",
+      "locality": "Buenos Aires/La Boca and Barracas",
+      "lat": -34.63937,
+      "lon": -58.362572,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FLa_Boca_and_Barracas",
+      "id": "argentina-32c8f404aa90ca32e456"
+    },
+    {
+      "name": "La Bombonera",
+      "kind": "do",
+      "locality": "Buenos Aires/La Boca and Barracas",
+      "lat": -34.63565,
+      "lon": -58.36465,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FLa_Boca_and_Barracas",
+      "id": "argentina-d2f58bcc8713286ad290"
+    },
+    {
+      "name": "Puente Transbordador",
+      "kind": "do",
+      "locality": "Buenos Aires/La Boca and Barracas",
+      "lat": -34.638472,
+      "lon": -58.35625,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FLa_Boca_and_Barracas",
+      "id": "argentina-9b07675dc87569a9571d"
+    },
+    {
+      "name": "Calle Lanín",
+      "kind": "do",
+      "locality": "Buenos Aires/La Boca and Barracas",
+      "lat": -34.640111,
+      "lon": -58.379889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FLa_Boca_and_Barracas",
+      "id": "argentina-f673c5be8a2066796869"
+    },
+    {
+      "name": "River cruise",
+      "kind": "do",
+      "locality": "Buenos Aires/La Boca and Barracas",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FLa_Boca_and_Barracas",
+      "id": "argentina-fbf4d932e5ff85b84da9"
+    },
+    {
+      "name": "Row boats",
+      "kind": "do",
+      "locality": "Buenos Aires/La Boca and Barracas",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FLa_Boca_and_Barracas",
+      "id": "argentina-fb2c81e57a3d5732535c"
+    },
+    {
+      "name": "La Perla",
+      "kind": "eat",
+      "locality": "Buenos Aires/La Boca and Barracas",
+      "lat": -34.639227,
+      "lon": -58.361784,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FLa_Boca_and_Barracas",
+      "address": "Av. Don Pedro de Mendoza 1899",
+      "id": "argentina-7051dae7def4fccac13a"
+    },
+    {
+      "name": "Versalles Palace",
+      "kind": "stay",
+      "locality": "Buenos Aires/La Boca and Barracas",
+      "lat": -34.6305,
+      "lon": -58.37598,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FLa_Boca_and_Barracas",
+      "address": "Dr. E. Finochietto 864",
+      "id": "argentina-01d0d3949e1b9b6d1c76"
+    },
+    {
+      "name": "Buenos Aires/La Boca and Barracas",
+      "kind": "area",
+      "locality": "Buenos Aires/La Boca and Barracas",
+      "lat": -34.639333,
+      "lon": -58.371775,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FLa_Boca_and_Barracas",
+      "id": "argentina-9286c60d1e0821c28be1"
+    },
+    {
+      "name": "Association of Friends of the Tramway",
+      "kind": "do",
+      "locality": "Buenos Aires/Outskirts",
+      "lat": -34.628174,
+      "lon": -58.443038,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FOutskirts",
+      "address": "Taller Polvorin, Emilio Mitre 500",
+      "url": "http://www.tranvia.org.ar/THBA/",
+      "id": "argentina-71bd9a3d398c95d1c736"
+    },
+    {
+      "name": "Estadio Monumental Antonio Vespucio Liberti",
+      "kind": "do",
+      "locality": "Buenos Aires/Outskirts",
+      "lat": -34.545278,
+      "lon": -58.449444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FOutskirts",
+      "address": "Avenida Figueroa Alcorta 7597",
+      "url": "http://www.cariverplate.com.ar/museo-river",
+      "id": "argentina-43493d97984c76d3751e"
+    },
+    {
+      "name": "Barrio Chino",
+      "kind": "do",
+      "locality": "Buenos Aires/Outskirts",
+      "lat": -34.557778,
+      "lon": -58.45,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FOutskirts",
+      "id": "argentina-7abdbd57d0764ae0b94a"
+    },
+    {
+      "name": "Museo de Arte Español Enrique Larreta",
+      "kind": "do",
+      "locality": "Buenos Aires/Outskirts",
+      "lat": -34.561111,
+      "lon": -58.455694,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FOutskirts",
+      "address": "Vuelta de Obligado 2155",
+      "price": "10ARS",
+      "url": "http://www.buenosaires.gob.ar/museolarreta",
+      "id": "argentina-91965e8d159c27bc47f2"
+    },
+    {
+      "name": "Museo Histórico Sarmiento",
+      "kind": "do",
+      "locality": "Buenos Aires/Outskirts",
+      "lat": -34.561,
+      "lon": -58.454306,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FOutskirts",
+      "address": "Juramento 2180",
+      "url": "https://museosarmiento.cultura.gob.ar/",
+      "id": "argentina-6e2eb22b766e663e19f4"
+    },
+    {
+      "name": "Parque Chacabuco",
+      "kind": "do",
+      "locality": "Buenos Aires/Outskirts",
+      "lat": -34.634444,
+      "lon": -58.443333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FOutskirts",
+      "id": "argentina-9f373a287cd409c7390b"
+    },
+    {
+      "name": "Plaza Miserere",
+      "kind": "do",
+      "locality": "Buenos Aires/Outskirts",
+      "lat": -34.609722,
+      "lon": -58.407444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FOutskirts",
+      "id": "argentina-26f414d160c21094b977"
+    },
+    {
+      "name": "Basílica Santuario de Santa Rosa de Lima",
+      "kind": "do",
+      "locality": "Buenos Aires/Outskirts",
+      "lat": -34.6143732,
+      "lon": -58.3977401,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FOutskirts",
+      "address": "Av. Belgrano 2216",
+      "url": "http://www.basilicasantarosa.com.ar/",
+      "id": "argentina-9492edaf86daea4ae3ff"
+    },
+    {
+      "name": "Parroquia Nuestra Senora de Balvanera",
+      "kind": "do",
+      "locality": "Buenos Aires/Outskirts",
+      "lat": -34.60822,
+      "lon": -58.40087,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FOutskirts",
+      "address": "Bartolomé Mitre 2411",
+      "id": "argentina-ce1ed3f1d30b7c575705"
+    },
+    {
+      "name": "Casa de los Pavos Reales",
+      "kind": "do",
+      "locality": "Buenos Aires/Outskirts",
+      "lat": -34.610713,
+      "lon": -58.412101,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FOutskirts",
+      "id": "argentina-19da5d8b2c31d39cc5df"
+    },
+    {
+      "name": "Gran Templo de Paso",
+      "kind": "do",
+      "locality": "Buenos Aires/Outskirts",
+      "lat": -34.604617,
+      "lon": -58.4035,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FOutskirts",
+      "address": "Paso 423",
+      "url": "https://templodepaso.wixsite.com/templo-de-paso",
+      "id": "argentina-4ef7d651a178d8a41e54"
+    },
+    {
+      "name": "Estadio José Amalfitani",
+      "kind": "do",
+      "locality": "Buenos Aires/Outskirts",
+      "lat": -34.635375,
+      "lon": -58.520711,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FOutskirts",
+      "address": "Avenida Juan B. Justo 9200",
+      "url": "https://velez.com.ar/club/estadio",
+      "id": "argentina-4566b3d6d1b47a383f74"
+    },
+    {
+      "name": "ESMA Museum and Site of Memory",
+      "kind": "do",
+      "locality": "Buenos Aires/Outskirts",
+      "lat": -34.5383,
+      "lon": -58.4628,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FOutskirts",
+      "address": "Av. del Libertador 8151",
+      "url": "https://www.espaciomemoria.ar/",
+      "id": "argentina-f0d2967f9dc841466a39"
+    },
+    {
+      "name": "La Conga",
+      "kind": "eat",
+      "locality": "Buenos Aires/Outskirts",
+      "lat": -34.610944,
+      "lon": -58.409018,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FOutskirts",
+      "address": "La Rioja 39",
+      "url": "http://lacongaresto.wixsite.com/laconga",
+      "id": "argentina-f1d9502437e223197090"
+    },
+    {
+      "name": "Los Sabios",
+      "kind": "eat",
+      "locality": "Buenos Aires/Outskirts",
+      "lat": -34.603377,
+      "lon": -58.417073,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FOutskirts",
+      "address": "Corrientes 3733",
+      "id": "argentina-75a17b2d060cf6c46492"
+    },
+    {
+      "name": "Las Violetas",
+      "kind": "eat",
+      "locality": "Buenos Aires/Outskirts",
+      "lat": -34.611265,
+      "lon": -58.420922,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FOutskirts",
+      "address": "Av. Rivadavia 3899 (Esquina Medrano)",
+      "url": "http://www.lasvioletas.com/",
+      "id": "argentina-c015198e894f7d9fd4cb"
+    },
+    {
+      "name": "Giorgio's House Bed and Breakfast Guesthouse",
+      "kind": "stay",
+      "locality": "Buenos Aires/Outskirts",
+      "lat": -34.618439,
+      "lon": -58.436545,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FOutskirts",
+      "address": "Avenida Rivadavia 5012",
+      "id": "argentina-8a49ceeb48775d45d7ae"
+    },
+    {
+      "name": "Hotel Boutique Racó de Buenos Aires",
+      "kind": "stay",
+      "locality": "Buenos Aires/Outskirts",
+      "lat": -34.615385,
+      "lon": -58.421701,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FOutskirts",
+      "address": "Yapeyú 271, Cod",
+      "url": "http://www.racodebuenosaires.com.ar/",
+      "id": "argentina-21e3225a22106d8fd5bc"
+    },
+    {
+      "name": "Luey Hotel",
+      "kind": "stay",
+      "locality": "Buenos Aires/Outskirts",
+      "lat": -34.610363,
+      "lon": -58.407742,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FOutskirts",
+      "address": "Av. Rivadavia 2914",
+      "url": "http://www.luey.com.ar/",
+      "id": "argentina-f6cc7f6c430cb6b6ca3a"
+    },
+    {
+      "name": "Hotel La Perla",
+      "kind": "stay",
+      "locality": "Buenos Aires/Outskirts",
+      "lat": -34.610261,
+      "lon": -58.405765,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FOutskirts",
+      "address": "Ave Jujuy 36",
+      "url": "https://hotellaperla.com.ar/",
+      "id": "argentina-e0b266651161d258cee8"
+    },
+    {
+      "name": "El Edificio de los Pavos Reales",
+      "kind": "stay",
+      "locality": "Buenos Aires/Outskirts",
+      "lat": -34.610629,
+      "lon": -58.412116,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FOutskirts",
+      "address": "Av. Rivadavia 3230",
+      "id": "argentina-c70dc4eea71f97f84558"
+    },
+    {
+      "name": "Lo de Costa B&B",
+      "kind": "stay",
+      "locality": "Buenos Aires/Outskirts",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FOutskirts",
+      "address": "Gaspar Campos 1550, Vicente Lopez",
+      "url": "http://www.lodecosta.com.ar/",
+      "id": "argentina-a963e960957633605d51"
+    },
+    {
+      "name": "Buenos Aires/Outskirts",
+      "kind": "area",
+      "locality": "Buenos Aires/Outskirts",
+      "lat": -34.62,
+      "lon": -58.46,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Buenos_Aires%2FOutskirts",
+      "id": "argentina-a36d19f8f4b01c74577e"
+    }
+  ],
+  "status": "partial",
+  "note": "Fetched 6 distinct public Wikivoyage source pages; attempted 8 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Coverage cap: Buenos Aires: 2 additional linked subpages not fetched; Buenos Aires: 2 additional linked subpages not fetched."
+}

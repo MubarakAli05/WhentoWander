@@ -1,0 +1,2455 @@
+{
+  "sources": [
+    {
+      "title": "South Africa",
+      "url": "https://en.wikivoyage.org/wiki/South_Africa",
+      "checkedAt": "2026-10-21T08:04:01.560Z"
+    },
+    {
+      "title": "Pretoria",
+      "url": "https://en.wikivoyage.org/wiki/Pretoria",
+      "checkedAt": "2026-10-21T08:04:04.258Z"
+    },
+    {
+      "title": "Cape Town",
+      "url": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "checkedAt": "2026-10-21T08:04:07.944Z"
+    },
+    {
+      "title": "Bloemfontein",
+      "url": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "checkedAt": "2026-10-21T08:04:10.182Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Pretoria",
+      "kind": "area",
+      "locality": "South Africa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/South_Africa",
+      "id": "south-africa-5246643b09b40e8dce6d"
+    },
+    {
+      "name": "Cape Town",
+      "kind": "area",
+      "locality": "South Africa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/South_Africa",
+      "id": "south-africa-b50cd0c4accd24f07bd9"
+    },
+    {
+      "name": "Bloemfontein",
+      "kind": "area",
+      "locality": "South Africa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/South_Africa",
+      "id": "south-africa-48b92d77cd0fb9dc550b"
+    },
+    {
+      "name": "Durban",
+      "kind": "area",
+      "locality": "South Africa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/South_Africa",
+      "id": "south-africa-c471f2af58faecefee5e"
+    },
+    {
+      "name": "Johannesburg",
+      "kind": "area",
+      "locality": "South Africa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/South_Africa",
+      "id": "south-africa-8c86e9b1364a154732ec"
+    },
+    {
+      "name": "Kimberley",
+      "kind": "area",
+      "locality": "South Africa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/South_Africa",
+      "id": "south-africa-e291d80db81b31cc90dd"
+    },
+    {
+      "name": "Polokwane",
+      "kind": "area",
+      "locality": "South Africa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/South_Africa",
+      "id": "south-africa-7f09b570b677d570f592"
+    },
+    {
+      "name": "Gqeberha/Port Elizabeth",
+      "kind": "area",
+      "locality": "South Africa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/South_Africa",
+      "id": "south-africa-bcfa1913c255f3960a67"
+    },
+    {
+      "name": "Upington",
+      "kind": "area",
+      "locality": "South Africa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/South_Africa",
+      "id": "south-africa-253b19f058871df133c8"
+    },
+    {
+      "name": "Pretoria Botanical Gardens",
+      "kind": "do",
+      "locality": "Pretoria",
+      "lat": -25.73838,
+      "lon": 28.27218,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "2 Cussonia Ave, Brummeria, Pretoria, Gueteng, South Africa",
+      "url": "http://www.sanbi.org/gardens/pretoria",
+      "id": "south-africa-f3b48e510f528a5fc30f"
+    },
+    {
+      "name": "National Zoological Gardens (The Zoo)",
+      "kind": "do",
+      "locality": "Pretoria",
+      "lat": -25.7395,
+      "lon": 28.1825,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "232 Boom St, Pretoria",
+      "price": "R95 adults, R60 children, R20 per vehicle",
+      "url": "http://www.nzg.ac.za/",
+      "id": "south-africa-b29352fcad86e1f80828"
+    },
+    {
+      "name": "The Union Buildings",
+      "kind": "do",
+      "locality": "Pretoria",
+      "lat": -25.7407,
+      "lon": 28.21181,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "2 Church St",
+      "price": "Free",
+      "url": "http://www.thepresidency.gov.za/",
+      "id": "south-africa-0a948af47ffee8d2e9da"
+    },
+    {
+      "name": "The Wonderboom",
+      "kind": "do",
+      "locality": "Pretoria",
+      "lat": -25.68734,
+      "lon": 28.19182,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "Wonderboom Nature Reserve",
+      "price": "R41 adults, R25 children, seniors R26",
+      "url": "http://www.tshwane.gov.za/sites/tourism/NatureConservation/Pages/Wonderboom-Nature-Reserve.aspx",
+      "id": "south-africa-5e42127962b69adea3f2"
+    },
+    {
+      "name": "Streets with jacaranda trees",
+      "kind": "do",
+      "locality": "Pretoria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "South of Union Buildings",
+      "id": "south-africa-46dfaf64fbddce7923e4"
+    },
+    {
+      "name": "Church Square",
+      "kind": "do",
+      "locality": "Pretoria",
+      "lat": -25.74643,
+      "lon": 28.18805,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "Church Square",
+      "url": "http://www.gauteng.net/attractions/church_square/",
+      "id": "south-africa-e83098faf9827a28c90b"
+    },
+    {
+      "name": "Correctional Services Museum (Kgosi Mampuru II Correctional Centre)",
+      "kind": "do",
+      "locality": "Pretoria",
+      "lat": -25.76152,
+      "lon": 28.18175,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "url": "http://www.dcs.gov.za/",
+      "id": "south-africa-5c369fbbc993d6bf7fa0"
+    },
+    {
+      "name": "Melrose House Museum",
+      "kind": "do",
+      "locality": "Pretoria",
+      "lat": -25.7555,
+      "lon": 28.1925,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "275 Jacob Maré St",
+      "id": "south-africa-856238f459eba41b1d12"
+    },
+    {
+      "name": "National Museum of Cultural History",
+      "kind": "do",
+      "locality": "Pretoria",
+      "lat": -25.75345,
+      "lon": 28.18443,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "149 Visagie St",
+      "price": "Adults R35, children R20, seniors R20",
+      "url": "http://www.ditsong.org.za/",
+      "id": "south-africa-f00f82cec4e2e5b01287"
+    },
+    {
+      "name": "Pioneer Museum",
+      "kind": "do",
+      "locality": "Pretoria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "Keuning Dr, Silverton",
+      "price": "with guided tour R40, lower rates for SA nationals",
+      "url": "https://ditsong.org.za/",
+      "id": "south-africa-37f408e47fdd97a9192c"
+    },
+    {
+      "name": "Sammy Marks Museum",
+      "kind": "do",
+      "locality": "Pretoria",
+      "lat": -25.750152,
+      "lon": 28.380243,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "Zwartkoppies",
+      "id": "south-africa-4fbd6b5ea4eae53db885"
+    },
+    {
+      "name": "Ditsong National Museum of Natural History",
+      "kind": "do",
+      "locality": "Pretoria",
+      "lat": -25.75304,
+      "lon": 28.18939,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "GaMohle Building, 70 WF Nkomo (Church) Street",
+      "id": "south-africa-90ca8ec864398b4dfb27"
+    },
+    {
+      "name": "Voortrekker Monument and Fort Scanskop",
+      "kind": "do",
+      "locality": "Pretoria",
+      "lat": -25.776389,
+      "lon": 28.175833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "Eeufees Road, Groenkloof",
+      "price": "R270 per person, plus R22 per car",
+      "url": "http://www.vtm.org.za/",
+      "id": "south-africa-754dda4b3ae3cda01574"
+    },
+    {
+      "name": "//hapo Museum & Freedom Park",
+      "kind": "do",
+      "locality": "Pretoria",
+      "lat": -25.767,
+      "lon": 28.1888,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "Salvokop of Potgieter St",
+      "price": "80 Rands for South-Afrians. 160 Rands for Internationals.",
+      "url": "http://www.freedompark.co.za/",
+      "id": "south-africa-f38c89724a0fb6f0681f"
+    },
+    {
+      "name": "Willem Prinsloo Agricultural Museum",
+      "kind": "do",
+      "locality": "Pretoria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "R104 Old Bronkhorstspruit Road, Rayton",
+      "url": "https://ditsong.org.za/willem-prinsloo-agricultural-museum/",
+      "id": "south-africa-4d88dc3803b002adb5e4"
+    },
+    {
+      "name": "Kruger House Museum",
+      "kind": "do",
+      "locality": "Pretoria",
+      "lat": -25.746389,
+      "lon": 28.181389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "60 Church Str",
+      "url": "http://www.sa-venues.com/attractionsga/kruger-house.htm",
+      "id": "south-africa-2e3999df21f603239e7a"
+    },
+    {
+      "name": "Friends of the Rail",
+      "kind": "do",
+      "locality": "Pretoria",
+      "lat": -25.72,
+      "lon": 28.16344,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "alongside Miechaelson Street, Hermanstad",
+      "price": "R250",
+      "url": "http://www.friendsoftherail.com/",
+      "id": "south-africa-67859628e4f9c9f85cd4"
+    },
+    {
+      "name": "Klitsgras Drumming Circle",
+      "kind": "do",
+      "locality": "Pretoria",
+      "lat": -25.89002,
+      "lon": 28.38613,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "Tierpoort, Garsfontein Rd",
+      "price": "R40 for drum rental",
+      "url": "http://www.klitsgras.co.za/",
+      "id": "south-africa-6822ed1d9354d4ead08e"
+    },
+    {
+      "name": "Skydive Pretoria",
+      "kind": "do",
+      "locality": "Pretoria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "Wonderboom Airport",
+      "url": "https://skydivepretoria.com/",
+      "id": "south-africa-d57506f8b8b275c7c1b6"
+    },
+    {
+      "name": "State Theatre",
+      "kind": "do",
+      "locality": "Pretoria",
+      "lat": -25.74654,
+      "lon": 28.19489,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "corner Pretorius and Prinsloo Streets",
+      "url": "http://www.statetheatre.co.za/",
+      "id": "south-africa-ed262936be4112ed3340"
+    },
+    {
+      "name": "Groenkloof Nature Reserve",
+      "kind": "do",
+      "locality": "Pretoria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "Fountains Valley Resort",
+      "url": "http://www.tshwane.gov.za/sites/tourism/NatureConservation/Pages/Groenkloof-Nature-Reserve.aspx",
+      "id": "south-africa-515ceaf4f39f0d9dae05"
+    },
+    {
+      "name": "Austin Roberts Bird Sanctuary",
+      "kind": "do",
+      "locality": "Pretoria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "cnr Boshoff and Roper",
+      "price": "Free",
+      "url": "http://www.tshwane.gov.za/sites/tourism/NatureConservation/Pages/Austin-Roberts-Memorial-Bird.aspx",
+      "id": "south-africa-909ac04f670f1a387681"
+    },
+    {
+      "name": "Fountains",
+      "kind": "do",
+      "locality": "Pretoria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "id": "south-africa-c3556594c47cf70951b6"
+    },
+    {
+      "name": "Africa Aerospace and Defence Expo",
+      "kind": "do",
+      "locality": "Pretoria",
+      "lat": -25.8214,
+      "lon": 28.2213,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "Air Force Base Waterkloof",
+      "url": "http://www.aadexpo.co.za/",
+      "id": "south-africa-64256cf9834b874e58de"
+    },
+    {
+      "name": "Centurion Mall Express Sandwich Baron",
+      "kind": "eat",
+      "locality": "Pretoria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "Shop 30A, Cnr Hendrik Verwoerd and Embankment, Centurion Mall, Centurion",
+      "url": "http://www.sandwichbaron.com/",
+      "id": "south-africa-4d5b9c4002a49641abff"
+    },
+    {
+      "name": "Mimmos",
+      "kind": "eat",
+      "locality": "Pretoria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "id": "south-africa-4da11eb420fd50335c72"
+    },
+    {
+      "name": "Spur",
+      "kind": "eat",
+      "locality": "Pretoria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "url": "http://www.spur.co.za/",
+      "id": "south-africa-3514defe7e697ffd5ea7"
+    },
+    {
+      "name": "Kream Restaurant",
+      "kind": "eat",
+      "locality": "Pretoria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "283 Dey Street, Nieuw Muckleneuk",
+      "price": "Around R150 per person",
+      "url": "http://www.dining-out.co.za/member_details-MemberID-666.html",
+      "id": "south-africa-4e59c72d78745dfa88d8"
+    },
+    {
+      "name": "La Pentola",
+      "kind": "eat",
+      "locality": "Pretoria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "5 Riviera Galleries, Well Street, Riviera",
+      "price": "From around R150 per person",
+      "url": "http://www.lapentola.co.za/",
+      "id": "south-africa-fcf14add8128b9e5a135"
+    },
+    {
+      "name": "Exclusive Books",
+      "kind": "eat",
+      "locality": "Pretoria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "id": "south-africa-e00c389671c500f748c9"
+    },
+    {
+      "name": "1322 Backpackers",
+      "kind": "stay",
+      "locality": "Pretoria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "1322 Arcadia Street, Hatfield",
+      "price": "Dorm R180 per person. double room R380.",
+      "url": "http://www.1322backpackers.com/",
+      "id": "south-africa-6b2f60b5e8fa56807212"
+    },
+    {
+      "name": "Khayalethu Guest House",
+      "kind": "stay",
+      "locality": "Pretoria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "1291 Arcadia Street, Hatfield",
+      "price": "Dorm bed R240 per person.",
+      "url": "http://www.khayalethu.co.za/",
+      "id": "south-africa-24ebae47400c3ac2c20c"
+    },
+    {
+      "name": "Pretoria Backpackers",
+      "kind": "stay",
+      "locality": "Pretoria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "425 Farenden Street, Clydesdale",
+      "price": "From R250 per person",
+      "url": "http://www.pretoriabackpackers.net/",
+      "id": "south-africa-e169ca923ac166b0b810"
+    },
+    {
+      "name": "Pumbas Backpackers",
+      "kind": "stay",
+      "locality": "Pretoria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "1232 Arcadia Street",
+      "price": "dorm R170 per person. camping R90 per person",
+      "url": "http://www.pumbas.co.za/",
+      "id": "south-africa-5b5de95c7d13b55c1736"
+    },
+    {
+      "name": "Dark Chocolate Guest House Pretoria",
+      "kind": "stay",
+      "locality": "Pretoria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "25 Catherine Street, Shere",
+      "price": "From R1,040",
+      "id": "south-africa-3d9e3e6472b210f1bb54"
+    },
+    {
+      "name": "Khayalethu GuestHouse",
+      "kind": "stay",
+      "locality": "Pretoria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "1291 Arcadia Street, Hatfield",
+      "url": "http://www.ghk.co.za/",
+      "id": "south-africa-8c8f1114efa595e2d2de"
+    },
+    {
+      "name": "City Lodge",
+      "kind": "stay",
+      "locality": "Pretoria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "price": "From around R400 sharing",
+      "url": "https://www.citylodge.co.za/",
+      "id": "south-africa-c92cd19e2b86efcb525c"
+    },
+    {
+      "name": "The Farm Inn",
+      "kind": "stay",
+      "locality": "Pretoria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "Lynnwood Rd",
+      "price": "From R510pps",
+      "url": "http://www.farminn.co.za/",
+      "id": "south-africa-9a0beb7b810dbeaa9cb9"
+    },
+    {
+      "name": "Ithiliens Grace Guest House",
+      "kind": "stay",
+      "locality": "Pretoria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "47 Kamperfoelie Street, Amandasig",
+      "price": "R280-900",
+      "url": "http://www.ithiliensgrace.co.za/",
+      "id": "south-africa-e2bb954ebd3c0417169d"
+    },
+    {
+      "name": "The Village in Hatfield _",
+      "kind": "stay",
+      "locality": "Pretoria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "1252 Arcadia Street, Cnr. Glyn & Arcadia Streets, Hatfield",
+      "price": "From R500 single",
+      "id": "south-africa-1da86307b2ca4bc7c619"
+    },
+    {
+      "name": "The Waterhouse Guesthouse",
+      "kind": "stay",
+      "locality": "Pretoria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "439 Stonewall Street, Faerie Glen",
+      "price": "R670 single, R1400 double",
+      "url": "http://www.thewaterhouse.co.za/",
+      "id": "south-africa-183ad7d173f5bd219093"
+    },
+    {
+      "name": "Morning Star Express Hotel",
+      "kind": "stay",
+      "locality": "Pretoria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "327 Visagie St",
+      "price": "From R480",
+      "url": "http://www.morningstarhotel.co.za/",
+      "id": "south-africa-77a407ecabb221c65da9"
+    },
+    {
+      "name": "Victoria Hotel",
+      "kind": "stay",
+      "locality": "Pretoria",
+      "lat": -25.756494,
+      "lon": 28.188601,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "200 Scheiding St",
+      "id": "south-africa-2d05d69e4cc0cd1c5c35"
+    },
+    {
+      "name": "Ellensgate Guest House",
+      "kind": "stay",
+      "locality": "Pretoria",
+      "lat": -25.744413,
+      "lon": 28.221907,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "849 Church St",
+      "price": "From R860 per person with breakfast",
+      "url": "http://ellensgate.co.za/",
+      "id": "south-africa-90e06385d816404cd32a"
+    },
+    {
+      "name": "Protea Hotels",
+      "kind": "stay",
+      "locality": "Pretoria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "price": "From R500pps",
+      "url": "http://www.proteahotels.com/",
+      "id": "south-africa-0bc21ab8610d76daae3a"
+    },
+    {
+      "name": "Sheraton Pretoria Hotel",
+      "kind": "stay",
+      "locality": "Pretoria",
+      "lat": -25.745284,
+      "lon": 28.211647,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "643 Stanza Bopape St",
+      "price": "From R1750pp",
+      "url": "http://www.sheratonpretoria.com/",
+      "id": "south-africa-fc1b953a3d5dfc69b345"
+    },
+    {
+      "name": "Southern Sun",
+      "kind": "stay",
+      "locality": "Pretoria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "price": "From R750pps",
+      "url": "http://www.southernsun.com/",
+      "id": "south-africa-2df9ae382ffcc6e2e2c5"
+    },
+    {
+      "name": "Villa Sterne",
+      "kind": "stay",
+      "locality": "Pretoria",
+      "lat": -25.789672,
+      "lon": 28.232068,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "address": "212 Johann Rissik Drive, Waterkloof Ridge",
+      "price": "From R650pps",
+      "url": "http://www.villasterne.com/",
+      "id": "south-africa-891d6734609992f3b5d0"
+    },
+    {
+      "name": "Pretoria",
+      "kind": "area",
+      "locality": "Pretoria",
+      "lat": -25.75,
+      "lon": 28.2,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pretoria",
+      "id": "south-africa-5fffb36a33e4acfc535a"
+    },
+    {
+      "name": "Bo-Kaap",
+      "kind": "do",
+      "locality": "Cape Town",
+      "lat": -33.920833,
+      "lon": 18.4125,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "id": "south-africa-fe60792c1753be1a99c9"
+    },
+    {
+      "name": "Castle of Good Hope",
+      "kind": "do",
+      "locality": "Cape Town",
+      "lat": -33.925908,
+      "lon": 18.427725,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Cnr of Castle St and Darling St",
+      "url": "http://www.castleofgoodhope.co.za/",
+      "id": "south-africa-7e0bc511578cc36a450b"
+    },
+    {
+      "name": "City Hall",
+      "kind": "do",
+      "locality": "Cape Town",
+      "lat": -33.5531,
+      "lon": 18.2526,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "url": "https://www.southafrica.net/za/en/travel/article/cape-town-city-hall-a-grand-old-building",
+      "id": "south-africa-f7b0bd45fbedc15be5c0"
+    },
+    {
+      "name": "Kirstenbosch National Botanical Garden",
+      "kind": "do",
+      "locality": "Cape Town",
+      "lat": -33.989444,
+      "lon": 18.430278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Rhodes Dr, Newlands",
+      "url": "http://www.sanbi.org/gardens/kirstenbosch",
+      "id": "south-africa-000c8e31e07c6c320cb9"
+    },
+    {
+      "name": "Rhodes Memorial",
+      "kind": "do",
+      "locality": "Cape Town",
+      "lat": -33.95238,
+      "lon": 18.459005,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Rhodes Ave, Devil's Peak",
+      "id": "south-africa-34d95f3085d3c2a337ff"
+    },
+    {
+      "name": "South African Houses of Parliament",
+      "kind": "do",
+      "locality": "Cape Town",
+      "lat": -33.9277,
+      "lon": 18.4186,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Parliament St, Cape Town City Centre",
+      "url": "http://www.parliament.gov.za/",
+      "id": "south-africa-eacb0fbc13a11406c6e4"
+    },
+    {
+      "name": "Two Oceans Aquarium",
+      "kind": "do",
+      "locality": "Cape Town",
+      "lat": -33.907074,
+      "lon": 18.41845,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "V&A Waterfront",
+      "url": "http://www.aquarium.co.za/",
+      "id": "south-africa-a6c43f6259d92b708c42"
+    },
+    {
+      "name": "Victoria and Alfred Waterfront",
+      "kind": "do",
+      "locality": "Cape Town",
+      "lat": -33.903056,
+      "lon": 18.422778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "url": "http://www.waterfront.co.za/",
+      "id": "south-africa-cb2abea5d96976867092"
+    },
+    {
+      "name": "Cape Town Science Centre",
+      "kind": "do",
+      "locality": "Cape Town",
+      "lat": -33.938483,
+      "lon": 18.463858,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "370B Main Road, Observatory",
+      "url": "http://ctsc.org.za/",
+      "id": "south-africa-1c6cc63e8ce936dc5dbe"
+    },
+    {
+      "name": "Nobel Square",
+      "kind": "do",
+      "locality": "Cape Town",
+      "lat": -33.906583,
+      "lon": 18.419722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "17 Dock Rd",
+      "id": "south-africa-08c7a3c5d8da7ea194a5"
+    },
+    {
+      "name": "Bo-Kaap Museum",
+      "kind": "do",
+      "locality": "Cape Town",
+      "lat": -33.92158,
+      "lon": 18.414968,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "71 Wale Street, Bo-Kaap",
+      "url": "http://www.iziko.org.za/museums/bo-kaap-museum",
+      "id": "south-africa-ddf8089ff268a470a92c"
+    },
+    {
+      "name": "District Six Museum",
+      "kind": "do",
+      "locality": "Cape Town",
+      "lat": -33.9277,
+      "lon": 18.4237,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "25A Buitenkant St",
+      "url": "http://www.districtsix.co.za/",
+      "id": "south-africa-419b1149c4745c5c13a1"
+    },
+    {
+      "name": "Groot Constantia",
+      "kind": "do",
+      "locality": "Cape Town",
+      "lat": -34.031111,
+      "lon": 18.418889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Groot Constantia Estate, Constantia",
+      "url": "http://www.grootconstantia.co.za/",
+      "id": "south-africa-7b1cc665a40d58ec981d"
+    },
+    {
+      "name": "Slave Lodge",
+      "kind": "do",
+      "locality": "Cape Town",
+      "lat": -33.92506,
+      "lon": 18.420393,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "cnr Adderley and Wale Streets",
+      "url": "https://www.iziko.org.za/museums/slave-lodge",
+      "id": "south-africa-e8fcee81c30db1b6bc29"
+    },
+    {
+      "name": "South African Air Force Museum Ysterplaat",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "url": "https://www.fsaafm.com/",
+      "id": "south-africa-5d752ca9b5132a9deaae"
+    },
+    {
+      "name": "South African Jewish Museum",
+      "kind": "do",
+      "locality": "Cape Town",
+      "lat": -33.9299,
+      "lon": 18.417,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "88 Hatfield Street",
+      "url": "http://www.sajewishmuseum.co.za/",
+      "id": "south-africa-d6757b595a8aa23a38d9"
+    },
+    {
+      "name": "South African National Gallery",
+      "kind": "do",
+      "locality": "Cape Town",
+      "lat": -33.928984,
+      "lon": 18.417174,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Government Avenue, Gardens",
+      "url": "http://www.iziko.org.za/museums/south-african-national-gallery",
+      "id": "south-africa-67c043e1842e4001562a"
+    },
+    {
+      "name": "Galleria Gibello",
+      "kind": "do",
+      "locality": "Cape Town",
+      "lat": -33.935623,
+      "lon": 18.408918,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Rosevilla, 23 Welgemeend Street Gardens",
+      "url": "http://www.galleriagibello.com/",
+      "id": "south-africa-38c7e57bff5071492a68"
+    },
+    {
+      "name": "Zeitz Museum of Contemporary African Art",
+      "kind": "do",
+      "locality": "Cape Town",
+      "lat": -33.908333,
+      "lon": 18.422778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "V&A Waterfront",
+      "price": "Adults; R 190, Children under 18; free",
+      "url": "https://www.zeitzmocaa.museum/",
+      "id": "south-africa-f23db1f30af34a24ec27"
+    },
+    {
+      "name": "Artscape Theatre",
+      "kind": "do",
+      "locality": "Cape Town",
+      "lat": -33.92,
+      "lon": 18.4305,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "D F Malan Street, Foreshore",
+      "url": "http://www.artscape.co.za/",
+      "id": "south-africa-afca3374da5e3512375c"
+    },
+    {
+      "name": "Baxter Theatre",
+      "kind": "do",
+      "locality": "Cape Town",
+      "lat": -33.9572,
+      "lon": 18.4706,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Baxter Theatre Centre, Main Road, Rondebosch",
+      "url": "http://www.baxter.co.za/",
+      "id": "south-africa-52a3be0fad72951a920e"
+    },
+    {
+      "name": "Labia Theatre",
+      "kind": "do",
+      "locality": "Cape Town",
+      "lat": -33.93,
+      "lon": 18.412222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "65 Orange street Gardens",
+      "price": "R 90 pp",
+      "url": "http://www.labia.co.za/",
+      "id": "south-africa-3eaff0505afd166c499c"
+    },
+    {
+      "name": "Cable Car to the top of Table Mountain",
+      "kind": "do",
+      "locality": "Cape Town",
+      "lat": -33.94405,
+      "lon": 18.386648,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Lower Cable Station, Tafelberg Road",
+      "url": "https://www.tablemountain.net/",
+      "id": "south-africa-fa37a11669d7d521dbfd"
+    },
+    {
+      "name": "Climbing Table Mountain",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "id": "south-africa-aeed78371220a77e230f"
+    },
+    {
+      "name": "Cape Peninsula",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "id": "south-africa-72be5889c55a09840d88"
+    },
+    {
+      "name": "Winelands",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "id": "south-africa-26f3af6c1d8f33c2cd20"
+    },
+    {
+      "name": "Sunset cruise",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "id": "south-africa-1fbac8cc90978f231609"
+    },
+    {
+      "name": "Swimming",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "id": "south-africa-de80f6b6d087f7f5991a"
+    },
+    {
+      "name": "Surfing",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "id": "south-africa-f4cf623f753286b6a430"
+    },
+    {
+      "name": "Kite surfing",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "id": "south-africa-08cc7179f73dd4d724b0"
+    },
+    {
+      "name": "Newlands",
+      "kind": "do",
+      "locality": "Cape Town",
+      "lat": -33.9737,
+      "lon": 18.4689,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "146 Campground Rd",
+      "url": "https://newlandscricket.com/",
+      "id": "south-africa-7f385902b479cb05dc25"
+    },
+    {
+      "name": "Ama Feesh Charters",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "id": "south-africa-07c2423657d53a5b8d9c"
+    },
+    {
+      "name": "Cape Charters",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "31 Antigua, The Water Club, Granger Bay",
+      "url": "http://www.capecharters.co.za/",
+      "id": "south-africa-5d6201db2136228f2698"
+    },
+    {
+      "name": "Hooked on Africa",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Harbour Rd, Hout Bay Harbour",
+      "url": "http://www.hookedonafrica.co.za/",
+      "id": "south-africa-73b51e232a8c8a9f9ca1"
+    },
+    {
+      "name": "SABP Tours",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "id": "south-africa-272d36aad6c556e9837b"
+    },
+    {
+      "name": "Diving at Two Oceans Aquarium",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "url": "https://www.aquarium.co.za/content/page/diving",
+      "id": "south-africa-c6ff82035a339a04e5a3"
+    },
+    {
+      "name": "Cape Argus Cycle Tour",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "url": "http://www.cycletour.co.za/",
+      "id": "south-africa-f4ac157a24ea23afaf77"
+    },
+    {
+      "name": "Two Oceans Marathon",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "url": "http://www.twooceansmarathon.org.za/",
+      "id": "south-africa-89ba00a4a254453d42b6"
+    },
+    {
+      "name": "Cape Town Jazz Festival",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Cape Town International Convention Centre",
+      "url": "http://www.capetownjazzfest.com/",
+      "id": "south-africa-9b9fe299d87405ab3be1"
+    },
+    {
+      "name": "Cape Town Minstrel Carnival",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Marches throughout the city ending at Green Point Stadium",
+      "id": "south-africa-4a1a744866c0ac12cb2b"
+    },
+    {
+      "name": "Kirstenbosch Summer Sunset Concerts",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Kirstenbosch Botanical Gardens Concert Stage, Rhodes Dr, Newlands",
+      "url": "https://www.sanbi.org/gardens/kirstenbosch/",
+      "id": "south-africa-c803747df509b98b01f0"
+    },
+    {
+      "name": "Mother City Queer Project",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "url": "http://www.mcqp.co.za/",
+      "id": "south-africa-ecab22bc1a9172847af4"
+    },
+    {
+      "name": "First Thursdays",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "City of Cape Town",
+      "price": "free",
+      "url": "https://first-thursdays.co.za/",
+      "id": "south-africa-c62c6af4912ea2aab272"
+    },
+    {
+      "name": "The Cape of Good Hope Trail",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Cape Town",
+      "url": "http://www.sanparks.org/parks/table_mountain/tourism/overnight_hikes.php#goodhopetrail",
+      "id": "south-africa-d4aea898f4ad47a3ace0"
+    },
+    {
+      "name": "Hoerikwaggo Table Mountain Trail",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Cape Town",
+      "url": "http://www.sanparks.org/parks/table_mountain/ht/",
+      "id": "south-africa-8784175ab1c1a783cd18"
+    },
+    {
+      "name": "The Orangekloof Hiking Trail",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Cape Town",
+      "url": "http://www.sanparks.org/parks/table_mountain/ht/",
+      "id": "south-africa-c2e58938c0bfad7d2b87"
+    },
+    {
+      "name": "Table Mountain",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "id": "south-africa-791ae7356f4ae14c2369"
+    },
+    {
+      "name": "The Amphitheatre in the Kalk Bay mountains",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "id": "south-africa-c7dc499e2c0bc8d0596f"
+    },
+    {
+      "name": "Paradise Touring",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "id": "south-africa-f3a5c48ed463a4d51cf2"
+    },
+    {
+      "name": "Cape Eco-Tours",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "id": "south-africa-c56c3b2cf2d5fd498669"
+    },
+    {
+      "name": "Trax Tours",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "id": "south-africa-4742818dab6617851107"
+    },
+    {
+      "name": "Meridian Hiking Club",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "url": "http://www.meridian.org.za/",
+      "id": "south-africa-902ed57b2744dd8390b9"
+    },
+    {
+      "name": "Cape Town Helicopter Tours",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "V&A Waterfront",
+      "url": "http://www.cape-town-helicopter-tours.com/",
+      "id": "south-africa-665af2e9cb50c160cd44"
+    },
+    {
+      "name": "NAC Helicopters",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "East Pier Road, V&A Waterfront",
+      "url": "https://www.nachelicopterscapetown.com/",
+      "id": "south-africa-f46818628221d7f7f9a4"
+    },
+    {
+      "name": "Sport Helicopters",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "3 East Pier Road, V&A Waterfront",
+      "url": "http://sporthelicopters.co.za/",
+      "id": "south-africa-9f5e443c1fe40b16a331"
+    },
+    {
+      "name": "ThunderCity",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Cape Town international Airport",
+      "url": "http://www.thundercity.com/",
+      "id": "south-africa-29e1cd7bf1619fca9102"
+    },
+    {
+      "name": "Skydive Cape Town",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Cape Town",
+      "url": "http://www.skydivecapetown.za.net/",
+      "id": "south-africa-7e36fd1e49e1e1512ae7"
+    },
+    {
+      "name": "Para-Taxi",
+      "kind": "do",
+      "locality": "Cape Town",
+      "lat": -33.9172,
+      "lon": 18.4009,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Signal Hill Rd",
+      "url": "http://www.para-taxi.com/",
+      "id": "south-africa-5c7b292f2d7f271d7635"
+    },
+    {
+      "name": "Gravity Adventure Group",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "url": "http://www.gravity.co.za/",
+      "id": "south-africa-89bacada8ae325cb1ac4"
+    },
+    {
+      "name": "Kaskazi Kayaks",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "179 Beach Road, Three Anchor Bay",
+      "url": "https://www.kayak.co.za/",
+      "id": "south-africa-614d7b4046938f88bde9"
+    },
+    {
+      "name": "Waterfront Boat Company",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Shop 5 Quay, V&A Waterfront",
+      "url": "http://www.waterfrontboats.co.za/",
+      "id": "south-africa-3eaece6c405381326164"
+    },
+    {
+      "name": "Tigger 2 Charters",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "url": "http://www.tiggertoo.co.za/",
+      "id": "south-africa-ac61dd9fd155c2817473"
+    },
+    {
+      "name": "Jolly Roger Pirate Ship",
+      "kind": "do",
+      "locality": "Cape Town",
+      "lat": -33.904278,
+      "lon": 18.420861,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Jolly Roger Pirate Boat, Quay 5, V&A Waterfront",
+      "url": "http://www.yacoobyachts.co.za/",
+      "id": "south-africa-6b62b9cc50eb93217d4d"
+    },
+    {
+      "name": "African Experience",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "70 Loyolo Street, Kayamandi",
+      "url": "http://www.africanexperience.com/",
+      "id": "south-africa-d844191a75df8028008b"
+    },
+    {
+      "name": "Andulela Tours",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "url": "http://www.andulela.com/",
+      "id": "south-africa-6de404e72e12f7662fdd"
+    },
+    {
+      "name": "Cape Fusion Tours",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Oranjezicht",
+      "id": "south-africa-807d1900714b14c8657b"
+    },
+    {
+      "name": "Kwathabeng Tours",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "1 Mocke St Dieprivier",
+      "url": "http://www.kwathabeng.co.za/",
+      "id": "south-africa-94937850e5ffe5c785d8"
+    },
+    {
+      "name": "Langa Heritage Walk",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Lenotholi Avenue, Langa",
+      "id": "south-africa-5b272b57327f516829f9"
+    },
+    {
+      "name": "Luhambo Tours",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Milnerton",
+      "url": "http://www.luhambotours.com/",
+      "id": "south-africa-654e5b7c8c8e3f366c5b"
+    },
+    {
+      "name": "Sam's Cultural Tours",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "45 Mshumpela Way, Langa",
+      "id": "south-africa-4c21eb8107007b37471f"
+    },
+    {
+      "name": "Sipunzi's Black Cultural Township Tours",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "1818 Makhaza Khayelitsha",
+      "id": "south-africa-dd010f306433a6311ddc"
+    },
+    {
+      "name": "Daytrippers",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "id": "south-africa-30990ff31e20c44fb342"
+    },
+    {
+      "name": "Taste the Cape Travel and Tours cc",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Kirstenhof",
+      "url": "http://www.tastethecape.co.za/",
+      "id": "south-africa-dc84636a8593bed491ae"
+    },
+    {
+      "name": "Simon's Town Boat Company",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "url": "http://www.boatcompany.co.za/",
+      "id": "south-africa-d4bc6ec3e84c39f5c04d"
+    },
+    {
+      "name": "Dyer Island Cruises",
+      "kind": "do",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Gansbaai",
+      "url": "http://www.dyer-island-cruises.co.za/",
+      "id": "south-africa-48f4a3f940c81d2b3567"
+    },
+    {
+      "name": "Eastern Food Bazaar",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.924643,
+      "lon": 18.422302,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "96 Longmarket St",
+      "url": "http://www.easternfoodbazaar.co.za/",
+      "id": "south-africa-2bb137b122a55eef8ca1"
+    },
+    {
+      "name": "Best Of Asia Green Point",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.9078583,
+      "lon": 18.4095622,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "105 Main Rd, Green Point",
+      "id": "south-africa-144aa70ace52a7a6bac2"
+    },
+    {
+      "name": "Randy Warthog Bar & Grill",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.9077117,
+      "lon": 18.4091381,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "107 Main Rd, Green Point",
+      "id": "south-africa-84f85d16d5f5423cf269"
+    },
+    {
+      "name": "Vasco da Gama Taverna",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.9154561,
+      "lon": 18.4188832,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Schiebe St, De Waterkant",
+      "id": "south-africa-d860434e74dc1df7a67d"
+    },
+    {
+      "name": "Lusitania Fisheries",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.9191793,
+      "lon": 18.4207477,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Waterkant St",
+      "id": "south-africa-a9e999f7641470b62336"
+    },
+    {
+      "name": "Meeting Point-Tanzanian East African Cuisine",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.9199233,
+      "lon": 18.4201351,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "67 Strand St",
+      "id": "south-africa-3e9532e828b79e0103d0"
+    },
+    {
+      "name": "Chicken Licken",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.9224984,
+      "lon": 18.4225981,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "48, 48 Adderley St",
+      "id": "south-africa-137d2c60c6ad151d2f66"
+    },
+    {
+      "name": "Best of Asia Kloof Street",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.9274947,
+      "lon": 18.4133112,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "3 Kloof St",
+      "id": "south-africa-26f5e23c1ec839cd8569"
+    },
+    {
+      "name": "NY Slice Pizza Kloof Street",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.9289902,
+      "lon": 18.4118337,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "49 Kloof St",
+      "id": "south-africa-35822f156dc9bfc1ef58"
+    },
+    {
+      "name": "The Charles",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.916282,
+      "lon": 18.41685,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "137 Waterkant Street, De Waterkant",
+      "url": "http://www.thecharles.co.za/restaurant.html",
+      "id": "south-africa-b5dc1ed8cd238dbea8ae"
+    },
+    {
+      "name": "Africa Café",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.920539,
+      "lon": 18.417734,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "108 Shortmarket Street",
+      "url": "http://www.africacafe.co.za/",
+      "id": "south-africa-79b01c692891fe4a9abd"
+    },
+    {
+      "name": "Biesmiellah",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.920222,
+      "lon": 18.413896,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Corner Upper Wale/Pentz Street",
+      "url": "http://www.biesmiellah.co.za/",
+      "id": "south-africa-fbc853237d15835e5ba3"
+    },
+    {
+      "name": "Col'Cacchio Pizzeria",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.916498,
+      "lon": 18.423476,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "42 Hans Strijdom Avenue Foreshore (also at Eden on the Bay in Bloubergstrand)",
+      "url": "http://www.colcacchio.co.za/",
+      "id": "south-africa-556bcceecc1b72d802e7"
+    },
+    {
+      "name": "95 Keerom",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.926473,
+      "lon": 18.415856,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "95 Keerom Street",
+      "url": "http://95keerom.com/",
+      "id": "south-africa-f819a058080c53f1eef4"
+    },
+    {
+      "name": "Lolas",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.926049,
+      "lon": 18.415108,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "228 Long St",
+      "url": "http://www.lolas.co.za/",
+      "id": "south-africa-ac5964e7fd8128cedb4b"
+    },
+    {
+      "name": "Long Street Café",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.926211,
+      "lon": 18.415249,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "259 Long Street",
+      "id": "south-africa-9461f663225a9e217e18"
+    },
+    {
+      "name": "Mama Africa",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.925121,
+      "lon": 18.416037,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "178 Long Street",
+      "url": "http://www.mamaafricarestaurant.co.za/",
+      "id": "south-africa-57bee58ea1cc9ad8f8d0"
+    },
+    {
+      "name": "Willoughby's",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.90273,
+      "lon": 18.421549,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Victoria Wharf, V&A Waterfront",
+      "url": "http://www.willoughbyandco.co.za/",
+      "id": "south-africa-07ec33e41fcef6395905"
+    },
+    {
+      "name": "Table Mountain Restaurant",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.958122,
+      "lon": 18.40341,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "On top of Table Mountain, close to the Upper Cable Station",
+      "url": "http://www.tablemountain.net/content/page/food-beverage",
+      "id": "south-africa-a0aa467e92a561fc2a18"
+    },
+    {
+      "name": "Tide",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.952583,
+      "lon": 18.378286,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "69 Victoria Road, Camps Bay",
+      "url": "http://www.thebayhotel.co.za/",
+      "id": "south-africa-78ef0b7bc991c9aeba96"
+    },
+    {
+      "name": "Stardust Theatrical Dining",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.927653,
+      "lon": 18.434543,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "118 Sir Lowry Rd",
+      "url": "http://www.stardustcapetown.com/",
+      "id": "south-africa-b605b393f88a12b7912a"
+    },
+    {
+      "name": "Greek Fisherman",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.907022,
+      "lon": 18.422593,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "261, Breakwater Blvd",
+      "url": "http://www.greekfisherman.co.za/",
+      "id": "south-africa-5ecd786119319f73a6a0"
+    },
+    {
+      "name": "City Grill Steakhouse",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.903854,
+      "lon": 18.420263,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Shop 155, Victoria Wharf Shopping Centre",
+      "url": "http://www.citygrill.co.za/",
+      "id": "south-africa-ddf7c245ddf1e5f51f66"
+    },
+    {
+      "name": "Meloncino",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.904093,
+      "lon": 18.420845,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "259 Upper Level",
+      "url": "http://www.meloncino.co.za/",
+      "id": "south-africa-a141f6d3783399e0ca09"
+    },
+    {
+      "name": "La Colombe",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -34.043157,
+      "lon": 18.422365,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Spaanschemat Street",
+      "url": "https://www.lacolombe.co.za/",
+      "id": "south-africa-bd9e8faac2ec65bbec16"
+    },
+    {
+      "name": "The Test Kitchen",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.927625,
+      "lon": 18.457284,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "The Old Biscuit Mill 375 Albert Road Woodstock",
+      "url": "http://www.thetestkitchen.co.za/",
+      "id": "south-africa-ad4e0df082eb53bccc28"
+    },
+    {
+      "name": "Bobs Bar",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.924876,
+      "lon": 18.416702,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "187 Long street",
+      "url": "http://www.facebook.com/bobsbarcapetown",
+      "id": "south-africa-47685130347058de2bc8"
+    },
+    {
+      "name": "Club 169",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.925568,
+      "lon": 18.415948,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "227 Long Street",
+      "id": "south-africa-c687e092d58d018e798b"
+    },
+    {
+      "name": "Foresters Arms",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.971472,
+      "lon": 18.453776,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "52 Newlands Ave, Newlands",
+      "url": "http://forries.co.za/",
+      "id": "south-africa-fb33a263eca696cbcdf1"
+    },
+    {
+      "name": "Marco's African Place",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.918953,
+      "lon": 18.418125,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "15 Rose Street, Bo Kaap",
+      "url": "http://www.marcosafricanplace.com/",
+      "id": "south-africa-83e1fd895799aedbb13c"
+    },
+    {
+      "name": "Mitchells Ale House",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.905156,
+      "lon": 18.419385,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Cnr East Pier & Dock Road V&A Waterfront",
+      "url": "http://www.mitchells-ale-house.com/",
+      "id": "south-africa-5adc976e14c36af4e743"
+    },
+    {
+      "name": "Sandy B",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.952691,
+      "lon": 18.377642,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "69 Victoria Rd, Camps Bay",
+      "url": "http://www.thebayhotel.co.za/",
+      "id": "south-africa-1040facc5dd7f8c415ee"
+    },
+    {
+      "name": "Zanzi-Bar",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.926094,
+      "lon": 18.415259,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "255 Long Street",
+      "url": "https://www.carnivalcourt.co.za/zanzibar/",
+      "id": "south-africa-17586a2b2af81452affd"
+    },
+    {
+      "name": "Fiction Bar",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.925965,
+      "lon": 18.415089,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "226 Long Street",
+      "url": "https://www.facebook.com/Fictiondjbar/",
+      "id": "south-africa-65c6ec923288a5316cd7"
+    },
+    {
+      "name": "Mercury Live & Lounge",
+      "kind": "eat",
+      "locality": "Cape Town",
+      "lat": -33.932131,
+      "lon": 18.425738,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "43 De Villiers Street, Zonnebloem",
+      "url": "http://hg2.com/venue/mercury-live-lounge/",
+      "id": "south-africa-bad05ab9d9e697b934c9"
+    },
+    {
+      "name": "Liziwe's Bed and Breakfast",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.97608,
+      "lon": 18.574844,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "NY 111, No 121, Gugulethu",
+      "url": "https://www.sa-venues.com/visit/liziwesguesthouse/",
+      "id": "south-africa-420e490524b6da70e937"
+    },
+    {
+      "name": "Ma Neo's B&B",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.942577,
+      "lon": 18.532117,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Zone 7 St, Langa",
+      "id": "south-africa-1878ec54b2f944649f80"
+    },
+    {
+      "name": "33 South Backpackers",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.939003,
+      "lon": 18.470006,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "48 Trill Road, Observatory",
+      "url": "http://www.33southbackpackers.com/",
+      "id": "south-africa-88671617179dd83c6e7e"
+    },
+    {
+      "name": "African HeART BAckpackers",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.938835,
+      "lon": 18.466886,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "27 Station Road, Observatory",
+      "url": "http://www.backpackersincapetown.co.za/",
+      "id": "south-africa-90a8d5f955250dc000ba"
+    },
+    {
+      "name": "Anzac Backpackers",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.930036,
+      "lon": 18.41916,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "71 Hope street Gardens",
+      "url": "http://www.anzacbackpackers.co.za/",
+      "id": "south-africa-f93a8e2bef539f8f0214"
+    },
+    {
+      "name": "Ashanti Lodge",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.93347,
+      "lon": 18.412155,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "11 Hof Street, Gardens",
+      "price": "Dorm From R 240 per person,",
+      "url": "http://www.ashanti.co.za/",
+      "id": "south-africa-6f9dc430ecc81a9c54eb"
+    },
+    {
+      "name": "A Sunflower Stop Backpackers",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.907908,
+      "lon": 18.403974,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "179 Main Road, Green Point",
+      "url": "http://www.sunflowerstop.co.za/",
+      "id": "south-africa-4ec54d29ad27c1eb3df7"
+    },
+    {
+      "name": "Backpackers on Castle",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.9212,
+      "lon": 18.42082,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "57 Castle street",
+      "url": "https://m.facebook.com/pages/category/Hotel/Backpackers-on-Castle-759926924159890/",
+      "id": "south-africa-be92b84b1c3aec8097db"
+    },
+    {
+      "name": "Big Blue Backpackers",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.910483,
+      "lon": 18.41265,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "7 Vesperdene road Green point",
+      "url": "http://www.bigblue.za.net/",
+      "id": "south-africa-c9f82f1dd1184036594f"
+    },
+    {
+      "name": "Bohemian Lofts Backpackers",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.939158,
+      "lon": 18.468897,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "41 Trill Road, Observatory",
+      "url": "http://www.bohemianlofts.com/",
+      "id": "south-africa-3308d3abd742bbb73bfa"
+    },
+    {
+      "name": "Castle Inn Backpackers",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.926793,
+      "lon": 18.426053,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "76b Darling Street (corner of Harrington Road)",
+      "url": "http://castleinn.webs.com/",
+      "id": "south-africa-d2f6f4bbd278e8fdb428"
+    },
+    {
+      "name": "Green Elephant Residence",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.937937,
+      "lon": 18.46531,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "57 Milton Road, Observatory",
+      "url": "https://www.greenelephant.co.za/",
+      "id": "south-africa-b18d997cb22e8025da80"
+    },
+    {
+      "name": "Light House farm Lodge",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.9377,
+      "lon": 18.487989,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Oude Molen Eco Village Alexandra road",
+      "url": "http://www.lighthousefarm.co.za/",
+      "id": "south-africa-dcc40be0a2a0663130db"
+    },
+    {
+      "name": "Long Street Backpackers",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.925259,
+      "lon": 18.416496,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "209 Long Street",
+      "url": "http://www.longstreetbackpackers.co.za/",
+      "id": "south-africa-41aaa324ed03ebcaa557"
+    },
+    {
+      "name": "Never@Home Backpackers",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.907807,
+      "lon": 18.409164,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "107 Main Road, Green Point",
+      "url": "http://neverathomeworld.com/",
+      "id": "south-africa-e2d9ea8fbd338e61b17c"
+    },
+    {
+      "name": "Riverlodge Backpackers",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.939469,
+      "lon": 18.489571,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "oude molen eco village Alexandria road Pinelands",
+      "url": "http://www.riverlodge.co.za/",
+      "id": "south-africa-79cf505069c36fd85ada"
+    },
+    {
+      "name": "Two Oceans Backpackers",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.92124,
+      "lon": 18.420673,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "47 Long Street",
+      "id": "south-africa-f1a3e721ea17faafa000"
+    },
+    {
+      "name": "26 on Aandbloem",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.935799,
+      "lon": 18.426309,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "26 Aandbloem Street, Devil's Peak",
+      "id": "south-africa-4311ca11974b626b0416"
+    },
+    {
+      "name": "Abbey Manor Luxury Guesthouse",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.941511,
+      "lon": 18.413147,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "3 Montrose Avenue, Oranjezicht",
+      "url": "http://www.abbey.co.za/",
+      "id": "south-africa-1315ddc92d432d6b023c"
+    },
+    {
+      "name": "The Bay Atlantic Guest House",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.948163,
+      "lon": 18.380629,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "3 Berkley Road, Camps Bay",
+      "id": "south-africa-b9e87c234d36f0af6380"
+    },
+    {
+      "name": "Bayflowers Guest House",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.909533,
+      "lon": 18.401478,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "5 Scholtz Road, Green Point",
+      "url": "http://www.bayflowers.co.za/",
+      "id": "south-africa-6cb68d57c3d7693eeb56"
+    },
+    {
+      "name": "Cactusberry Lodge",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.937093,
+      "lon": 18.416258,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "30 Breda Street, Gardens",
+      "url": "http://www.cactusberrylodge.com/english/engl.htm",
+      "id": "south-africa-b1aa86b245f7feb5874f"
+    },
+    {
+      "name": "The Camps Bay Guesthouse",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.951519,
+      "lon": 18.384349,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "31 Geneva Drive, Camps Bay",
+      "url": "http://www.campsbayguesthouse.com/",
+      "id": "south-africa-33ae3a165ad0c4952261"
+    },
+    {
+      "name": "Cape Diamond Boutique Hotel",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.924535,
+      "lon": 18.421874,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Longmarket and Parliament Street",
+      "url": "http://www.capediamondhotel.co.za/",
+      "id": "south-africa-5eddde2f167f6d2745c7"
+    },
+    {
+      "name": "Cape Paradise Lodge",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.9398,
+      "lon": 18.402718,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "48 Leeuwenhof Rd, Higgovale",
+      "url": "http://www.capeparadise.co.za/",
+      "id": "south-africa-52ae39869ddad847d3b4"
+    },
+    {
+      "name": "The Charles Guesthouse",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.916276,
+      "lon": 18.41685,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "137 Waterkant Street, De Waterkant",
+      "url": "http://www.thecharles.co.za/",
+      "id": "south-africa-5a89055fea2b8b7f6588"
+    },
+    {
+      "name": "City Lodge V&A Waterfront",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.913707,
+      "lon": 18.422239,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Corner Dock and Alfred Roads",
+      "url": "http://www.citylodge.co.za/",
+      "id": "south-africa-da98306e0507cbe59f76"
+    },
+    {
+      "name": "Daddy Long Legs Boutique Hotel & Self-Catering Apartments",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.923693,
+      "lon": 18.417599,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "134 & 263 Long Street",
+      "url": "http://www.daddylonglegs.co.za/",
+      "id": "south-africa-66de62f8aa4727f8e9d4"
+    },
+    {
+      "name": "Dark Chocolate Guest House Durbanville",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.853468,
+      "lon": 18.64424,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "1 Mountain View Crescent Durbanville",
+      "price": "From ZAR 810.00",
+      "url": "http://www.darkchocolate.capetown/",
+      "id": "south-africa-581b97cc63a816f3e4e2"
+    },
+    {
+      "name": "De Waterkant Village",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.916272,
+      "lon": 18.416845,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "1 Loader street, De Waterkant",
+      "url": "http://www.dewaterkantvillage.co.za/",
+      "id": "south-africa-b7bd497282c5b2e0ad81"
+    },
+    {
+      "name": "Don Beach Road Hotel",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.914721,
+      "lon": 18.387392,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "249 Beach Road, Sea Point",
+      "url": "http://don-beach-road.capetown-hotels-za.com/en/",
+      "id": "south-africa-3eef04be557c4c129649"
+    },
+    {
+      "name": "Grande Kloof Boutique Hotel",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.924623,
+      "lon": 18.383584,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "69 Kloof Road, Fresnaye",
+      "url": "http://www.grandekloof.co.za/",
+      "id": "south-africa-090453dbdc389ce67323"
+    },
+    {
+      "name": "Kloof Nek Suites",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.935234,
+      "lon": 18.401495,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "72B Kloof Nek Road, Signal Hill",
+      "url": "http://www.kloofneksuites.com/",
+      "id": "south-africa-5d13b0b28711869cb082"
+    },
+    {
+      "name": "Lorraine’s on Lincoln",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.899883,
+      "lon": 18.618905,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "12 Lincoln Street, Boston",
+      "id": "south-africa-c6fc74a17312dc8f6d82"
+    },
+    {
+      "name": "Nine Flowers Guest House",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.932068,
+      "lon": 18.415401,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "133-135 Hatfield Street",
+      "url": "http://www.nineflowers.com/",
+      "id": "south-africa-0cbf37540f7803d9e0d1"
+    },
+    {
+      "name": "The One 8",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.909053,
+      "lon": 18.400423,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "18 Antrim Road, Three Anchor Bay",
+      "url": "http://www.theone8.com/",
+      "id": "south-africa-e79bf6692610680e8210"
+    },
+    {
+      "name": "Protea Hotel Sea Point",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.917357,
+      "lon": 18.388073,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Arthur's Road, Sea Point",
+      "url": "http://www.proteahotels.com/",
+      "id": "south-africa-4768de68a630b6e41010"
+    },
+    {
+      "name": "Rhonda's Manor",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.921492,
+      "lon": 18.388183,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "35 Clarens Street, Fresnaye",
+      "url": "http://www.rhondasmanor.co.za/",
+      "id": "south-africa-f3122eb59b7f99266e8a"
+    },
+    {
+      "name": "Southern Light Country House",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.99961,
+      "lon": 18.431315,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "24 Hohenort Avenue, Constantia",
+      "id": "south-africa-7f9a8750cebe0a40776e"
+    },
+    {
+      "name": "Tudor Hotel",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.922688,
+      "lon": 18.41938,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "153 Longmarket Street, Greenmarket Square",
+      "url": "http://www.tudorhotel.co.za/",
+      "id": "south-africa-05ab9f687095d9058a0a"
+    },
+    {
+      "name": "Villa Sunshine Guesthouse",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.923878,
+      "lon": 18.381956,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "1 Rochester Road, Bantry Bay",
+      "url": "http://www.villasunshine.co.za/",
+      "id": "south-africa-b5655e07e6bc96a076fa"
+    },
+    {
+      "name": "Villa Zest Boutique Hotel",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.910675,
+      "lon": 18.413915,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "2 Braemar Rd, Greenpoint",
+      "url": "http://www.villazest.co.za/",
+      "id": "south-africa-4fac4ca0ef3e9e087f54"
+    },
+    {
+      "name": "Cape Grace",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.908582,
+      "lon": 18.420426,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "West Quay Road, Victoria & Alfred Waterfront",
+      "url": "http://www.capegrace.com/",
+      "id": "south-africa-e8976e2cde5e32dd601d"
+    },
+    {
+      "name": "De Verdwaalde Boer",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -34.011877,
+      "lon": 18.422926,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "10 Monterey Drive, Constantia",
+      "url": "http://www.deverdwaaldeboer.com/",
+      "id": "south-africa-0686cf4ffaf6f00e189f"
+    },
+    {
+      "name": "Mandela Rhodes Place",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.923957,
+      "lon": 18.418879,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Wale St & Burg St",
+      "url": "http://www.mandelarhodesplace.co.za/",
+      "id": "south-africa-f6b15c985bff3ecabd0a"
+    },
+    {
+      "name": "Mount Nelson",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.9321,
+      "lon": 18.4117,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "url": "https://www.belmond.com/mount-nelson-hotel-cape-town/",
+      "id": "south-africa-db6ca387ccda2bc5054b"
+    },
+    {
+      "name": "Radisson Blu Hotel Waterfront, Cape Town",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "lat": -33.899384,
+      "lon": 18.412339,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "Beach Rd, Granger Bay",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-cape-town-waterfront",
+      "id": "south-africa-d8ad127b225be7a2af9d"
+    },
+    {
+      "name": "Southern Light Guest House",
+      "kind": "stay",
+      "locality": "Cape Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "address": "24 Hohenort Avenue 7806, Constantia",
+      "id": "south-africa-4856a1ef20e1e253925c"
+    },
+    {
+      "name": "Cape Town",
+      "kind": "area",
+      "locality": "Cape Town",
+      "lat": -33.933,
+      "lon": 18.467,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Town",
+      "id": "south-africa-1716827d6596f3c23522"
+    },
+    {
+      "name": "Boyden Observatory",
+      "kind": "do",
+      "locality": "Bloemfontein",
+      "lat": -29.038831,
+      "lon": 26.404722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "address": "Mazelspoort Road",
+      "url": "https://www.facebook.com/boyden123/",
+      "id": "south-africa-5060ac2d07033659fb94"
+    },
+    {
+      "name": "National Botanical Garden",
+      "kind": "do",
+      "locality": "Bloemfontein",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "address": "Rayton Road,off Dan Pienaar Drive",
+      "price": "R10 entrance fee",
+      "url": "http://sanbi.org/gardens/free-state",
+      "id": "south-africa-468ae1fcbc6bd14e46bd"
+    },
+    {
+      "name": "Naval Hill and Franklin Game Reserve",
+      "kind": "do",
+      "locality": "Bloemfontein",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "price": "free",
+      "url": "https://bloemfonteintourism.co.za/naval-hill/",
+      "id": "south-africa-bc0894c7a3f411ce6ff3"
+    },
+    {
+      "name": "National Women's Monument",
+      "kind": "do",
+      "locality": "Bloemfontein",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "id": "south-africa-fa8bfadc744f6d80d055"
+    },
+    {
+      "name": "Anglo-Boer War Museum",
+      "kind": "do",
+      "locality": "Bloemfontein",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "address": "Monument Rd",
+      "url": "https://www.wmbr.org.za/",
+      "id": "south-africa-a61f4ffb28d5b6e61da2"
+    },
+    {
+      "name": "Choet Visser Rugby Museum",
+      "kind": "do",
+      "locality": "Bloemfontein",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "id": "south-africa-2462451b7a502c1fc22d"
+    },
+    {
+      "name": "Fire Station Museum",
+      "kind": "do",
+      "locality": "Bloemfontein",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "address": "Erlich Park Fire Station, Church St",
+      "url": "http://www.mangaungfire.co.za/museum.htm",
+      "id": "south-africa-2964754df1d94d91d8bf"
+    },
+    {
+      "name": "National Museum",
+      "kind": "do",
+      "locality": "Bloemfontein",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "address": "36 Aliwal St",
+      "price": "R5 entrance fee",
+      "url": "http://www.nasmus.co.za/",
+      "id": "south-africa-5632d0ff8c17128e2208"
+    },
+    {
+      "name": "Oliewenhuis Art Museum",
+      "kind": "do",
+      "locality": "Bloemfontein",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "address": "16 Harry Smith St",
+      "url": "http://www.nasmus.co.za/OLIEWENH/OLWH.HTM",
+      "id": "south-africa-be161e7f28195653d29c"
+    },
+    {
+      "name": "Presidency Museum",
+      "kind": "do",
+      "locality": "Bloemfontein",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "address": "Pres. Brand St",
+      "id": "south-africa-60a5b628fe46b5e0a5fc"
+    },
+    {
+      "name": "SA Armour Museum",
+      "kind": "do",
+      "locality": "Bloemfontein",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "url": "http://www.saarmourmuseum.co.za/",
+      "id": "south-africa-e8c9a347967405c6a8be"
+    },
+    {
+      "name": "Queens Fort Military Museum",
+      "kind": "do",
+      "locality": "Bloemfontein",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "address": "116 Church St",
+      "id": "south-africa-830dab712232074b412d"
+    },
+    {
+      "name": "Manguang Oval",
+      "kind": "do",
+      "locality": "Bloemfontein",
+      "lat": -29.1167,
+      "lon": 26.2053,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "address": "Att Horak St, Willows",
+      "id": "south-africa-f0361ba6593aba23490c"
+    },
+    {
+      "name": "Soetdoring Nature Reserve",
+      "kind": "do",
+      "locality": "Bloemfontein",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "price": "R20 per car",
+      "id": "south-africa-d3f5fe7199fff4c40678"
+    },
+    {
+      "name": "Fishpaste restaurant and bar",
+      "kind": "eat",
+      "locality": "Bloemfontein",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "address": "31 President Steyn ave, Westdene",
+      "id": "south-africa-9f223559934cd34dbe51"
+    },
+    {
+      "name": "Mexican Restaurant",
+      "kind": "eat",
+      "locality": "Bloemfontein",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "address": "19A Second Avenue Westdene",
+      "id": "south-africa-73d446d5b7a01f428675"
+    },
+    {
+      "name": "Cape Town Fish Market",
+      "kind": "eat",
+      "locality": "Bloemfontein",
+      "lat": -29.08806,
+      "lon": 26.21279,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "address": "Eeufees Road",
+      "url": "http://www.ctfm.co.za/location/index1.php?province=55",
+      "id": "south-africa-258c9e182ddac34caad4"
+    },
+    {
+      "name": "Beethoven's Cafe Restaurant",
+      "kind": "eat",
+      "locality": "Bloemfontein",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "address": "Victorian Square, Second Avenue",
+      "id": "south-africa-6e7d7d22212744a02681"
+    },
+    {
+      "name": "New York's",
+      "kind": "eat",
+      "locality": "Bloemfontein",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "address": "60 Medene Centre, Second Ave",
+      "id": "south-africa-947549308ed9d46b85af"
+    },
+    {
+      "name": "Bains Caravan Park",
+      "kind": "stay",
+      "locality": "Bloemfontein",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "address": "31 Kimberley Rd",
+      "price": "R190",
+      "id": "south-africa-54e39e67f1aecfa439c2"
+    },
+    {
+      "name": "Naval Hill Backpackers",
+      "kind": "stay",
+      "locality": "Bloemfontein",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "address": "Belville Dr",
+      "price": "R130",
+      "id": "south-africa-4b5f5525ce2bfe3d5d45"
+    },
+    {
+      "name": "Tuscany Lodge",
+      "kind": "stay",
+      "locality": "Bloemfontein",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "address": "3rd Avenue",
+      "price": "under R350 a room",
+      "url": "http://tuscanylodge.co.za/",
+      "id": "south-africa-6474e6611a365bfb0ce6"
+    },
+    {
+      "name": "Bains Game Lodge",
+      "kind": "stay",
+      "locality": "Bloemfontein",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "url": "http://www.bainsgamelodge.co.za/",
+      "id": "south-africa-ffa344aa7b29d24fa2ab"
+    },
+    {
+      "name": "Bloemfontein Spa",
+      "kind": "stay",
+      "locality": "Bloemfontein",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "address": "Raytonweg, Lilyvale",
+      "url": "http://www.bloemspa.co.za/",
+      "id": "south-africa-5c8f2a5444d1c7961794"
+    },
+    {
+      "name": "City Lodge",
+      "kind": "stay",
+      "locality": "Bloemfontein",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "address": "Cnr Nelson Mandela Drive & Parfitt Avenue",
+      "url": "https://www.citylodge.co.za/",
+      "id": "south-africa-3b854c6d310d3008bd4c"
+    },
+    {
+      "name": "Florentia Guest House",
+      "kind": "stay",
+      "locality": "Bloemfontein",
+      "lat": -29.0988889,
+      "lon": 26.2233333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "address": "2c Louis Botha St, Waverley",
+      "price": "From R265pps",
+      "url": "http://www.florentia.co.za/",
+      "id": "south-africa-ad644c954ad52a97da1b"
+    },
+    {
+      "name": "Hobbit House",
+      "kind": "stay",
+      "locality": "Bloemfontein",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "url": "http://www.hobbit.co.za/",
+      "id": "south-africa-890e6aba38d016f9a06e"
+    },
+    {
+      "name": "Like A Rock",
+      "kind": "stay",
+      "locality": "Bloemfontein",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "address": "6 Blink-Vosperdstr. Pellissier",
+      "price": "550 up",
+      "url": "http://www.safarinow.com/go/LikeaRock",
+      "id": "south-africa-8ef2daf958d8a50f740d"
+    },
+    {
+      "name": "President Hotel",
+      "kind": "stay",
+      "locality": "Bloemfontein",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "address": "1 Union Avenue",
+      "price": "From R515",
+      "url": "http://www.hotelpresident.co.za/",
+      "id": "south-africa-0324bcf773de2ae04408"
+    },
+    {
+      "name": "Halevy Heritage Hotel",
+      "kind": "stay",
+      "locality": "Bloemfontein",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "address": "92 Charles St",
+      "price": "From R700",
+      "id": "south-africa-8f5ca5194c3157d66f57"
+    },
+    {
+      "name": "Southern Sun Bloemfontein",
+      "kind": "stay",
+      "locality": "Bloemfontein",
+      "lat": -29.108672,
+      "lon": 26.199976,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "address": "Cnr. Nelson Mandela and Melville Drive, Brandwag",
+      "price": "From R700",
+      "url": "https://www.tsogosun.com/southern-sun-bloemfontein",
+      "id": "south-africa-5f12934670c4e1464a30"
+    },
+    {
+      "name": "Bloemfontein",
+      "kind": "area",
+      "locality": "Bloemfontein",
+      "lat": -29.1167,
+      "lon": 26.2333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bloemfontein",
+      "id": "south-africa-230b953cd83d1fedbefc"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 4 distinct public Wikivoyage source pages; attempted 4 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

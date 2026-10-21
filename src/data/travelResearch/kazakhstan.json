@@ -1,0 +1,794 @@
+{
+  "sources": [
+    {
+      "title": "Kazakhstan",
+      "url": "https://en.wikivoyage.org/wiki/Kazakhstan",
+      "checkedAt": "2026-10-21T08:10:11.201Z"
+    },
+    {
+      "title": "Astana",
+      "url": "https://en.wikivoyage.org/wiki/Astana",
+      "checkedAt": "2026-10-21T08:10:13.468Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Astana",
+      "kind": "area",
+      "locality": "Kazakhstan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kazakhstan",
+      "id": "kazakhstan-77f3ea64a8efc63ec1ad"
+    },
+    {
+      "name": "Almaty",
+      "kind": "area",
+      "locality": "Kazakhstan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kazakhstan",
+      "id": "kazakhstan-1f5fdffaa4e3fd53cf40"
+    },
+    {
+      "name": "Aktobe",
+      "kind": "area",
+      "locality": "Kazakhstan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kazakhstan",
+      "id": "kazakhstan-57d14c6eb90ce3fe1edb"
+    },
+    {
+      "name": "Atyrau",
+      "kind": "area",
+      "locality": "Kazakhstan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kazakhstan",
+      "id": "kazakhstan-46514975228ad4cfdce6"
+    },
+    {
+      "name": "Pavlodar",
+      "kind": "area",
+      "locality": "Kazakhstan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kazakhstan",
+      "id": "kazakhstan-0c775b814ae7a3574ab4"
+    },
+    {
+      "name": "Semey",
+      "kind": "area",
+      "locality": "Kazakhstan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kazakhstan",
+      "id": "kazakhstan-b39aacd812e039c0d87b"
+    },
+    {
+      "name": "Shymkent",
+      "kind": "area",
+      "locality": "Kazakhstan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kazakhstan",
+      "id": "kazakhstan-be8a87144eb8dea627a4"
+    },
+    {
+      "name": "Turkestan",
+      "kind": "area",
+      "locality": "Kazakhstan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kazakhstan",
+      "id": "kazakhstan-6916ba56c89d8d61fe9a"
+    },
+    {
+      "name": "Ust-Kamenogorsk",
+      "kind": "area",
+      "locality": "Kazakhstan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kazakhstan",
+      "id": "kazakhstan-3b2d7f877e5ae785f9f7"
+    },
+    {
+      "name": "Palace of Peace and Reconciliation",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.123056,
+      "lon": 71.463611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Tauelsizdik Ave 57",
+      "url": "http://astana-piramida.kz/en/",
+      "id": "kazakhstan-e674997162ad66e820d3"
+    },
+    {
+      "name": "KazMunayGas Palace",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.131237,
+      "lon": 71.412166,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Qabanbay Batyr Ave 19",
+      "url": "http://www.kmg.kz/",
+      "id": "kazakhstan-ae14b17366a5844604d1"
+    },
+    {
+      "name": "The Triumph of Astana",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.140222,
+      "lon": 71.414952,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Qabanbay Batyr Ave 11",
+      "id": "kazakhstan-a83d56476252f528c571"
+    },
+    {
+      "name": "Shabyt palace",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.122697,
+      "lon": 71.472754,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Tauelsizdik Ave 50",
+      "id": "kazakhstan-1e678b40a364fa098603"
+    },
+    {
+      "name": "Palace of Independence",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.122222,
+      "lon": 71.470833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Tauelsizdik Ave 52",
+      "url": "http://indepalace.kz/",
+      "id": "kazakhstan-677596a04b29824746ba"
+    },
+    {
+      "name": "Ak Orda presidential palace",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.125833,
+      "lon": 71.446389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "url": "http://www.akorda.kz/",
+      "id": "kazakhstan-7c47ccbff1c882005d10"
+    },
+    {
+      "name": "Parliament building",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.127677,
+      "lon": 71.441497,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Mengilik El Ave 2",
+      "url": "http://www.parlam.kz/",
+      "id": "kazakhstan-db4264393e6dc003dd16"
+    },
+    {
+      "name": "National education academy",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.127509,
+      "lon": 71.439609,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Mengilik El Ave 4",
+      "url": "https://uba.edu.kz/qaz",
+      "id": "kazakhstan-21802e735b1de6a44cdf"
+    },
+    {
+      "name": "Emerald towers",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.130719,
+      "lon": 71.422394,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "id": "kazakhstan-d5874ec82270814f6b8e"
+    },
+    {
+      "name": "Expo 2017 buildings",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.0892333,
+      "lon": 71.4163604,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "url": "https://expo2017astana.com/en/",
+      "id": "kazakhstan-4f539b44d78b68f8757a"
+    },
+    {
+      "name": "National archives",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.128001,
+      "lon": 71.427101,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Nurzhol Blvd 12",
+      "id": "kazakhstan-40ddd722cc8afaf2fcad"
+    },
+    {
+      "name": "Building of ministers",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.1252,
+      "lon": 71.4391,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "id": "kazakhstan-fb659c0ee3d731f648af"
+    },
+    {
+      "name": "Bayterek Tower",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.12825,
+      "lon": 71.430472,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "price": "2500 tenge for adults, 2000 tenge for 5-15 (with documentation), under 5s are free",
+      "id": "kazakhstan-df39128ede6ba011eddd"
+    },
+    {
+      "name": "Kazakh Eli monument",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.122056,
+      "lon": 71.469922,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "id": "kazakhstan-0ac930372328b86ff53b"
+    },
+    {
+      "name": "Zher Ana",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.153384,
+      "lon": 71.431714,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "id": "kazakhstan-b66222daa28f3ca05b44"
+    },
+    {
+      "name": "Triumphal arch",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.104329,
+      "lon": 71.430102,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Yengbekshiler Street 2",
+      "id": "kazakhstan-a06d987004faec081e1a"
+    },
+    {
+      "name": "Circus fountain",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.14594,
+      "lon": 71.420112,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "id": "kazakhstan-ed5f9fb48bd3167428e3"
+    },
+    {
+      "name": "Giant lizards sculptures",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.138739,
+      "lon": 71.409658,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Turan ave",
+      "id": "kazakhstan-e75dfe9999c91241de55"
+    },
+    {
+      "name": "Khazret Sultan Mosque",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.125,
+      "lon": 71.472222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Tauelsizdik Ave 48",
+      "url": "http://www.muslim.kz/",
+      "id": "kazakhstan-38cf7625e40cf265e936"
+    },
+    {
+      "name": "Nur-Astana Mosque",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.2175,
+      "lon": 71.695833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Qabanbay Batyr Ave 36",
+      "id": "kazakhstan-cad6adb84843efacc599"
+    },
+    {
+      "name": "Assumption Cathedral",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.149603,
+      "lon": 71.481481,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Kuyshi Dina St 27",
+      "url": "http://sobor.kz/node/171",
+      "id": "kazakhstan-6e99e5f49dcb56153d21"
+    },
+    {
+      "name": "Grand Mosque of Astana",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.07287873961622,
+      "lon": 71.41048820625983,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Prospekt Mangilik Yel. 65",
+      "price": "free",
+      "id": "kazakhstan-e567e18b23671c965c86"
+    },
+    {
+      "name": "National Museum of the Republic of Kazakhstan",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.1178,
+      "lon": 71.4701,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Tauelsizdik Ave 54",
+      "price": "2000 tenge entrance",
+      "url": "http://www.nationalmuseum.kz/",
+      "id": "kazakhstan-87ea86c688cfd882cad8"
+    },
+    {
+      "name": "The Military Historical Museum of the Armed Forces of the Republic of Kazakhstan",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.155913,
+      "lon": 71.431365,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Barayev 3",
+      "price": "Free",
+      "id": "kazakhstan-84f26cbbb79b2f083f56"
+    },
+    {
+      "name": "Atameken Map of Kazakhstan",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.149341,
+      "lon": 71.418531,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Qorghalzhyn Hwy 2/1",
+      "price": "400 tenge, English-speaking guide 500 tenge (June 2019)",
+      "url": "http://atamekenmap.kz/en/",
+      "id": "kazakhstan-d7e9a8309874fe01359d"
+    },
+    {
+      "name": "Museum of the First President of the Republic of Kazakhstan",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.1663169,
+      "lon": 71.4187769,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Abay 11",
+      "price": "Free",
+      "url": "http://tour.presidentlibrary.kz/",
+      "id": "kazakhstan-b5000b989f335729cf85"
+    },
+    {
+      "name": "Ramstore Bridge",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.15185,
+      "lon": 71.428037,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "id": "kazakhstan-59e127789d5fab3d751f"
+    },
+    {
+      "name": "Pedestrian bridge",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.1566338,
+      "lon": 71.4259108,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "id": "kazakhstan-e3f981898fd0efed321c"
+    },
+    {
+      "name": "Lovers' park",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.131545,
+      "lon": 71.409501,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "id": "kazakhstan-226698c4ae5525581707"
+    },
+    {
+      "name": "Presidential Park",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.124203,
+      "lon": 71.456585,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "id": "kazakhstan-eb74bd97dbfcc23af515"
+    },
+    {
+      "name": "Ak Bulak sauna Complex",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.026941,
+      "lon": 71.461344,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "8th kilometre on the Astana-Airport highway",
+      "price": "from US$20-60/hour",
+      "id": "kazakhstan-ed1bd1080fcdbf7b8b6b"
+    },
+    {
+      "name": "Duman",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.148062,
+      "lon": 71.416223,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "url": "http://www.duman.kz/",
+      "id": "kazakhstan-24b43241f203b280d440"
+    },
+    {
+      "name": "Astana Arena",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.1084,
+      "lon": 71.4027,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "url": "http://www.astanaarena.kz/",
+      "id": "kazakhstan-d588e91f5ca4bd21fe0e"
+    },
+    {
+      "name": "Stadio Kazhymukan Munaitpasov",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.162739,
+      "lon": 71.413312,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "id": "kazakhstan-2c3cbd8cde5209fc90c0"
+    },
+    {
+      "name": "Barys Arena",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.1092,
+      "lon": 71.395,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "id": "kazakhstan-6d7589908e0f0cd96e48"
+    },
+    {
+      "name": "Saryarka Velodrome",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.11011,
+      "lon": 71.40743,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "url": "http://velotrek.kz/index.php/en/#",
+      "id": "kazakhstan-508243bbc7d5a47ab8c9"
+    },
+    {
+      "name": "Alau ice palace",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.105,
+      "lon": 71.405,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "id": "kazakhstan-63bf8e805dab570729c3"
+    },
+    {
+      "name": "Palasport \"Kazakhstan\"",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.15581,
+      "lon": 71.46526,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "9 Munaitpasov",
+      "id": "kazakhstan-a88f5ed0d2b9dba3ddb8"
+    },
+    {
+      "name": "Astana Opera",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.135556,
+      "lon": 71.410917,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "url": "http://astanaopera.kz/",
+      "id": "kazakhstan-0b4b77796be3064130b7"
+    },
+    {
+      "name": "Kazakstan Ortalyk concert hall",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.122778,
+      "lon": 71.441667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "url": "http://www.qazaqconcert.kz/",
+      "id": "kazakhstan-2823b4116b4e00f4ef14"
+    },
+    {
+      "name": "Kinopark 8",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.138568,
+      "lon": 71.410812,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Saryarqa, Turan Ave 24",
+      "url": "http://kinopark.kz/en/",
+      "id": "kazakhstan-1b1ffef45cc9dd933b90"
+    },
+    {
+      "name": "Astana Circus",
+      "kind": "do",
+      "locality": "Astana",
+      "lat": 51.145203,
+      "lon": 71.419097,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Qabanbay Batyr Ave 5",
+      "id": "kazakhstan-e870e37d1fb54a9d147b"
+    },
+    {
+      "name": "Cafe Shymkent",
+      "kind": "eat",
+      "locality": "Astana",
+      "lat": 51.1745,
+      "lon": 71.4384,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "General Sabyr Raqymov",
+      "id": "kazakhstan-711bbc8bf6b3ebf08f96"
+    },
+    {
+      "name": "Melnitsa",
+      "kind": "eat",
+      "locality": "Astana",
+      "lat": 51.1395,
+      "lon": 71.4085,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Turan 31",
+      "price": "Mains 500-3,000 tenge",
+      "id": "kazakhstan-98ef4869ef626a31acfa"
+    },
+    {
+      "name": "Rafe",
+      "kind": "eat",
+      "locality": "Astana",
+      "lat": 51.1612,
+      "lon": 71.4146,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "5 Zhengis Ave",
+      "price": "3000 tenge",
+      "url": "https://rafe.kz/",
+      "id": "kazakhstan-9fbd53acdfd7d649030e"
+    },
+    {
+      "name": "Line Brew",
+      "kind": "eat",
+      "locality": "Astana",
+      "lat": 51.163766,
+      "lon": 71.416024,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Kenesary 20",
+      "url": "https://theveil.kz/line-brew-reserve/",
+      "id": "kazakhstan-36495c387a93001987f2"
+    },
+    {
+      "name": "Ali Babas",
+      "kind": "eat",
+      "locality": "Astana",
+      "lat": 51.1626309,
+      "lon": 71.4220903,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "3 Bukeikhan St",
+      "price": "3000 tenge",
+      "id": "kazakhstan-376494a62dc4f2052e73"
+    },
+    {
+      "name": "Turfan",
+      "kind": "eat",
+      "locality": "Astana",
+      "lat": 51.1609669,
+      "lon": 71.4240453,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Azerbaijan Mambetov 10 (was Alikhan Bokeikhan St)",
+      "url": "https://astana.restoran.kz/cafe/2142-turfan",
+      "id": "kazakhstan-ea0c3b920cdf112bdf9f"
+    },
+    {
+      "name": "Sunduk",
+      "kind": "eat",
+      "locality": "Astana",
+      "lat": 51.114806,
+      "lon": 71.418195,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Sauran Street 14/2",
+      "url": "http://satgroup.kz/",
+      "id": "kazakhstan-2420d89b287495809366"
+    },
+    {
+      "name": "Saksaul",
+      "kind": "eat",
+      "locality": "Astana",
+      "lat": 51.128242,
+      "lon": 71.422894,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Northern Lights, Dostyq St 5",
+      "url": "https://www.facebook.com/pages/%D0%A1%D0%B0%D0%BA%D1%81%D0%B0%D1%83%D0%BB%20%D0%A0%D0%B5%D1%81%D1%82%D0%BE%D1%80%D0%B0%D0%BD/1011789428966259/",
+      "id": "kazakhstan-3d84ebdf6783559344fb"
+    },
+    {
+      "name": "Sattj",
+      "kind": "eat",
+      "locality": "Astana",
+      "lat": 51.130969,
+      "lon": 71.415479,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "32 Kabanbay Batyr",
+      "url": "https://www.facebook.com/satti.arka",
+      "id": "kazakhstan-2905f80559c8a1e800c5"
+    },
+    {
+      "name": "Dark Side",
+      "kind": "eat",
+      "locality": "Astana",
+      "lat": 51.09131073203993,
+      "lon": 71.42657617088673,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Prospekt Mangilik Yel. 52а",
+      "id": "kazakhstan-d6669b8098a15e17cc3b"
+    },
+    {
+      "name": "Line Brew",
+      "kind": "eat",
+      "locality": "Astana",
+      "lat": 51.163666502890955,
+      "lon": 71.41610156968173,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Kenesary Street 20",
+      "id": "kazakhstan-d56408f223276c7b2f41"
+    },
+    {
+      "name": "Winners Pub",
+      "kind": "eat",
+      "locality": "Astana",
+      "lat": 51.130059685337635,
+      "lon": 71.43730327503086,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Dinmukhamed Qonayev St 35",
+      "id": "kazakhstan-ae15f5c0a612e9af050e"
+    },
+    {
+      "name": "Harat's Irish Pub",
+      "kind": "eat",
+      "locality": "Astana",
+      "lat": 51.16259899941295,
+      "lon": 71.41950300106893,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Zheltoqsan St 2Т",
+      "id": "kazakhstan-038f4ca3a2cf7382ccd2"
+    },
+    {
+      "name": "Nirvana",
+      "kind": "eat",
+      "locality": "Astana",
+      "lat": 51.16250364895385,
+      "lon": 71.41874292963355,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "id": "kazakhstan-ce306e1c705dc643b6b6"
+    },
+    {
+      "name": "Bla Bla Bar",
+      "kind": "eat",
+      "locality": "Astana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Syganak St 60/5",
+      "id": "kazakhstan-3788c8c8426ecac6ffed"
+    },
+    {
+      "name": "Hostel Nomad 4x4",
+      "kind": "stay",
+      "locality": "Astana",
+      "lat": 51.13976,
+      "lon": 71.42568,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Nurtas Ongdasynov Street 52A",
+      "price": "dorm 2000 tenge, double/twin 6000 tenge",
+      "id": "kazakhstan-e7c3cca1de57560b6e5b"
+    },
+    {
+      "name": "Ibis Astana Hotel",
+      "kind": "stay",
+      "locality": "Astana",
+      "lat": 51.13657,
+      "lon": 71.4681,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Tauelsizdik Ave 38, corner with Bauryzhan Momyshuly",
+      "price": "US$35",
+      "url": "https://all.accor.com/hotel/8474/index.en.shtml",
+      "id": "kazakhstan-a398224d91fe6e8be054"
+    },
+    {
+      "name": "Absolute Hotel",
+      "kind": "stay",
+      "locality": "Astana",
+      "lat": 51.18,
+      "lon": 71.417,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Beibitshilik Street 1",
+      "price": "B&B double US$43",
+      "url": "https://absolutehotel.kz/",
+      "id": "kazakhstan-c86673ab2e9882bf5b71"
+    },
+    {
+      "name": "Hotel Altyn Dala",
+      "kind": "stay",
+      "locality": "Astana",
+      "lat": 51.16481,
+      "lon": 71.412317,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Bigeldinov str. 6",
+      "id": "kazakhstan-3bdd47b93cd0a4fdfeba"
+    },
+    {
+      "name": "Uyutnaya",
+      "kind": "stay",
+      "locality": "Astana",
+      "lat": 51.1736152,
+      "lon": 71.4477503,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Seifullin street, 52/2",
+      "id": "kazakhstan-45fd5a9791b6fcaf6078"
+    },
+    {
+      "name": "Akku",
+      "kind": "stay",
+      "locality": "Astana",
+      "lat": 51.161998,
+      "lon": 71.4159021,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Ryskulov St., 22",
+      "id": "kazakhstan-db3c1ac691b33faabf97"
+    },
+    {
+      "name": "Astana comfort hotel",
+      "kind": "stay",
+      "locality": "Astana",
+      "lat": 51.146598,
+      "lon": 71.425645,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Chubary village, Kosmonavtov street, 60",
+      "url": "http://comforthotel.kz/",
+      "id": "kazakhstan-914c299d2ba767f2fca1"
+    },
+    {
+      "name": "Business Hotel",
+      "kind": "stay",
+      "locality": "Astana",
+      "lat": 51.1631401,
+      "lon": 71.433482,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Imanov street, 18/9",
+      "url": "http://www.business-hotel.kz/",
+      "id": "kazakhstan-94fa0b85161ed70feb2a"
+    },
+    {
+      "name": "Hotel Duman",
+      "kind": "stay",
+      "locality": "Astana",
+      "lat": 51.149,
+      "lon": 71.516,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Korgaldzinsko 2A",
+      "price": "B&B double from US$44",
+      "url": "http://en.hoteldumanastana.com/",
+      "id": "kazakhstan-7eb0581ebe72da4978c7"
+    },
+    {
+      "name": "Rixos President Astana Hotel",
+      "kind": "stay",
+      "locality": "Astana",
+      "lat": 51.133504,
+      "lon": 71.421255,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Kunayeva 7",
+      "price": "B&B double from US$118",
+      "url": "https://allinclusive-collection.com/en/hotel/rixos-president-astana/",
+      "id": "kazakhstan-5039ba39a096e5ab1b9c"
+    },
+    {
+      "name": "Radisson Hotel Astana",
+      "kind": "stay",
+      "locality": "Astana",
+      "lat": 51.159536,
+      "lon": 71.411686,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "address": "Saryarka Avenue 4",
+      "price": "B&B double from US$78",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-astana",
+      "id": "kazakhstan-46a2f39de78c771e75f6"
+    },
+    {
+      "name": "Astana",
+      "kind": "area",
+      "locality": "Astana",
+      "lat": 51.166667,
+      "lon": 71.416667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Astana",
+      "id": "kazakhstan-01978b4fd347f3d52448"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

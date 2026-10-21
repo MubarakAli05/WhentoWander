@@ -1,0 +1,327 @@
+{
+  "sources": [
+    {
+      "title": "Liechtenstein",
+      "url": "https://en.wikivoyage.org/wiki/Liechtenstein",
+      "checkedAt": "2026-10-21T08:10:41.242Z"
+    },
+    {
+      "title": "Vaduz",
+      "url": "https://en.wikivoyage.org/wiki/Vaduz",
+      "checkedAt": "2026-10-21T08:10:44.453Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Vaduz",
+      "kind": "area",
+      "locality": "Liechtenstein",
+      "lat": 47.141,
+      "lon": 9.521,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Liechtenstein",
+      "id": "liechtenstein-6631343d14808df44efe"
+    },
+    {
+      "name": "Balzers",
+      "kind": "area",
+      "locality": "Liechtenstein",
+      "lat": 47.066667,
+      "lon": 9.5,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Liechtenstein",
+      "id": "liechtenstein-378972c1dce77ed7b303"
+    },
+    {
+      "name": "Malbun",
+      "kind": "area",
+      "locality": "Liechtenstein",
+      "lat": 47.102,
+      "lon": 9.608,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Liechtenstein",
+      "id": "liechtenstein-456ed7551507aa051090"
+    },
+    {
+      "name": "Schaan",
+      "kind": "area",
+      "locality": "Liechtenstein",
+      "lat": 47.166667,
+      "lon": 9.509722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Liechtenstein",
+      "id": "liechtenstein-bf12681db76a0099d531"
+    },
+    {
+      "name": "Triesen",
+      "kind": "area",
+      "locality": "Liechtenstein",
+      "lat": 47.1,
+      "lon": 9.533333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Liechtenstein",
+      "id": "liechtenstein-0a2a657c2bd487bd0c3e"
+    },
+    {
+      "name": "Triesenberg",
+      "kind": "area",
+      "locality": "Liechtenstein",
+      "lat": 47.118056,
+      "lon": 9.543333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Liechtenstein",
+      "id": "liechtenstein-13825898e69ba6fcb99f"
+    },
+    {
+      "name": "Bendern",
+      "kind": "area",
+      "locality": "Liechtenstein",
+      "lat": 47.216667,
+      "lon": 9.5,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Liechtenstein",
+      "id": "liechtenstein-a3a406f867ecd0d43953"
+    },
+    {
+      "name": "Nendeln",
+      "kind": "area",
+      "locality": "Liechtenstein",
+      "lat": 47.2,
+      "lon": 9.55,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Liechtenstein",
+      "id": "liechtenstein-64b1d4f809ff4b17e5d3"
+    },
+    {
+      "name": "Schellenberg",
+      "kind": "area",
+      "locality": "Liechtenstein",
+      "lat": 47.233606,
+      "lon": 9.548058,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Liechtenstein",
+      "id": "liechtenstein-fd48f1123790d62c229d"
+    },
+    {
+      "name": "Ruggell",
+      "kind": "area",
+      "locality": "Liechtenstein",
+      "lat": 47.243333,
+      "lon": 9.53,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Liechtenstein",
+      "id": "liechtenstein-f8d46605c78f16f0b95e"
+    },
+    {
+      "name": "Gasthaus Krone",
+      "kind": "stay",
+      "locality": "Liechtenstein",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Liechtenstein",
+      "address": "Dorf 36, 9488 Schellenberg",
+      "price": "Fr. 60 (dbl)",
+      "url": "http://www.hotelkrone.li/",
+      "id": "liechtenstein-02e01f6ad26510d3ebce"
+    },
+    {
+      "name": "Kunstmuseum Liechtenstein",
+      "kind": "do",
+      "locality": "Vaduz",
+      "lat": 47.1395,
+      "lon": 9.5223,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vaduz",
+      "id": "liechtenstein-11b8b7d48c72efc56604"
+    },
+    {
+      "name": "Liechtensteinisches Landesmuseum",
+      "kind": "do",
+      "locality": "Vaduz",
+      "lat": 47.13867,
+      "lon": 9.52269,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vaduz",
+      "url": "https://www.landesmuseum.li/en",
+      "id": "liechtenstein-92b30cde796825424a9c"
+    },
+    {
+      "name": "The Prince's Wine Collection",
+      "kind": "do",
+      "locality": "Vaduz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vaduz",
+      "id": "liechtenstein-06a1d5b872b4b9d8dec6"
+    },
+    {
+      "name": "Schloss Vaduz",
+      "kind": "do",
+      "locality": "Vaduz",
+      "lat": 47.139444,
+      "lon": 9.524444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vaduz",
+      "id": "liechtenstein-f61dbaa72aed42747b2f"
+    },
+    {
+      "name": "Postal Museum",
+      "kind": "do",
+      "locality": "Vaduz",
+      "lat": 47.138975,
+      "lon": 9.522743,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vaduz",
+      "id": "liechtenstein-a902ea6e71e68c0e5623"
+    },
+    {
+      "name": "Red House",
+      "kind": "do",
+      "locality": "Vaduz",
+      "lat": 47.144817,
+      "lon": 9.521713,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vaduz",
+      "id": "liechtenstein-65f32b6d346796cfec67"
+    },
+    {
+      "name": "Schalun Castle",
+      "kind": "do",
+      "locality": "Vaduz",
+      "lat": 47.1509,
+      "lon": 9.5336,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vaduz",
+      "price": "Free",
+      "id": "liechtenstein-dc14a0e7d5b71e0383ec"
+    },
+    {
+      "name": "Vaduz Cathedral",
+      "kind": "do",
+      "locality": "Vaduz",
+      "lat": 47.1362,
+      "lon": 9.5227,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vaduz",
+      "id": "liechtenstein-c023e107eaf49222ba78"
+    },
+    {
+      "name": "City Hall",
+      "kind": "do",
+      "locality": "Vaduz",
+      "lat": 47.140694,
+      "lon": 9.521861,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vaduz",
+      "id": "liechtenstein-737e05736231291d8da9"
+    },
+    {
+      "name": "Government House",
+      "kind": "do",
+      "locality": "Vaduz",
+      "lat": 47.137115,
+      "lon": 9.522758,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vaduz",
+      "id": "liechtenstein-9f60d5e59f7a0886f4a6"
+    },
+    {
+      "name": "Landtagsgebäude",
+      "kind": "do",
+      "locality": "Vaduz",
+      "lat": 47.13779,
+      "lon": 9.522749,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vaduz",
+      "id": "liechtenstein-dde90721ee985bb469f4"
+    },
+    {
+      "name": "FC Vaduz",
+      "kind": "do",
+      "locality": "Vaduz",
+      "lat": 47.1403,
+      "lon": 9.5103,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vaduz",
+      "address": "Rheinpark Stadion, Lettstrasse",
+      "url": "https://www.fcvaduz.li/",
+      "id": "liechtenstein-8b74fbb2c1a6400101ab"
+    },
+    {
+      "name": "made-in-italy.li",
+      "kind": "eat",
+      "locality": "Vaduz",
+      "lat": 47.1415893,
+      "lon": 9.5204486,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vaduz",
+      "address": "herrengasse 9",
+      "id": "liechtenstein-23a10940cfcd871c8b52"
+    },
+    {
+      "name": "Coa Asia Take Away",
+      "kind": "eat",
+      "locality": "Vaduz",
+      "lat": 47.1402444,
+      "lon": 9.5209559,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vaduz",
+      "address": "Aeulestrasse 6",
+      "id": "liechtenstein-4825753f3ab3499be20b"
+    },
+    {
+      "name": "Red Mango Thai Takeaway",
+      "kind": "eat",
+      "locality": "Vaduz",
+      "lat": 47.1496808,
+      "lon": 9.5118887,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vaduz",
+      "address": "Landstrasse 91",
+      "id": "liechtenstein-bf5beb785ed1a5bd2bc1"
+    },
+    {
+      "name": "Restaurant Forum",
+      "kind": "eat",
+      "locality": "Vaduz",
+      "lat": 47.1570824,
+      "lon": 9.5069842,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vaduz",
+      "address": "Gapetschstrasse 87",
+      "id": "liechtenstein-d4ba8258739087396bca"
+    },
+    {
+      "name": "Ha Long Restaurant",
+      "kind": "eat",
+      "locality": "Vaduz",
+      "lat": 47.1680268,
+      "lon": 9.5042501,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vaduz",
+      "address": "Zollstrasse 17",
+      "id": "liechtenstein-e4dc671a8893ed73d471"
+    },
+    {
+      "name": "New Castle",
+      "kind": "eat",
+      "locality": "Vaduz",
+      "lat": 47.1399755,
+      "lon": 9.5212331,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vaduz",
+      "address": "Aeulestrasse 22",
+      "id": "liechtenstein-1caf5e7a94ddbb77d0c0"
+    },
+    {
+      "name": "Restaurant Amarone",
+      "kind": "eat",
+      "locality": "Vaduz",
+      "lat": 47.1396179,
+      "lon": 9.5226668,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vaduz",
+      "address": "Städtle 29",
+      "id": "liechtenstein-b4bc8acd22b50dc872d5"
+    },
+    {
+      "name": "Adler",
+      "kind": "eat",
+      "locality": "Vaduz",
+      "lat": 47.1412513,
+      "lon": 9.5209515,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vaduz",
+      "address": "Herrengasse 2",
+      "id": "liechtenstein-0b5107deb994cf0c5396"
+    },
+    {
+      "name": "Marée",
+      "kind": "eat",
+      "locality": "Vaduz",
+      "lat": 47.1471675,
+      "lon": 9.5234543,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vaduz",
+      "address": "Mareestrasse 29",
+      "id": "liechtenstein-d6357142e5ae13f2a8ef"
+    },
+    {
+      "name": "Vaduz",
+      "kind": "area",
+      "locality": "Vaduz",
+      "lat": 47.141,
+      "lon": 9.521,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vaduz",
+      "id": "liechtenstein-44f7e1ec29c2133bd942"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

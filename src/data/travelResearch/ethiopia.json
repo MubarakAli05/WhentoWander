@@ -1,0 +1,1349 @@
+{
+  "sources": [
+    {
+      "title": "Ethiopia",
+      "url": "https://en.wikivoyage.org/wiki/Ethiopia",
+      "checkedAt": "2026-10-21T08:06:35.223Z"
+    },
+    {
+      "title": "Addis Ababa",
+      "url": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "checkedAt": "2026-10-21T08:06:38.630Z"
+    },
+    {
+      "title": "Lalibela",
+      "url": "https://en.wikivoyage.org/wiki/Lalibela",
+      "checkedAt": "2026-10-21T08:06:41.241Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Addis Ababa",
+      "kind": "area",
+      "locality": "Ethiopia",
+      "lat": 9.03,
+      "lon": 38.74,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ethiopia",
+      "id": "ethiopia-671d0396149d1d9db0bb"
+    },
+    {
+      "name": "Adama",
+      "kind": "area",
+      "locality": "Ethiopia",
+      "lat": 8.55,
+      "lon": 39.27,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ethiopia",
+      "id": "ethiopia-7a17e85f44262a8aacf8"
+    },
+    {
+      "name": "Axum",
+      "kind": "area",
+      "locality": "Ethiopia",
+      "lat": 14.13,
+      "lon": 38.72,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ethiopia",
+      "id": "ethiopia-7ea6427205b21a95a16e"
+    },
+    {
+      "name": "Bahir Dar",
+      "kind": "area",
+      "locality": "Ethiopia",
+      "lat": 11.59,
+      "lon": 37.39,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ethiopia",
+      "id": "ethiopia-7f095f659a1f1196fb7f"
+    },
+    {
+      "name": "Dire Dawa",
+      "kind": "area",
+      "locality": "Ethiopia",
+      "lat": 9.58,
+      "lon": 41.87,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ethiopia",
+      "id": "ethiopia-424fb3320cb095f9853d"
+    },
+    {
+      "name": "Gondar",
+      "kind": "area",
+      "locality": "Ethiopia",
+      "lat": 12.6,
+      "lon": 37.47,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ethiopia",
+      "id": "ethiopia-9c0d657c913a797daa2f"
+    },
+    {
+      "name": "Harar",
+      "kind": "area",
+      "locality": "Ethiopia",
+      "lat": 9.31,
+      "lon": 42.13,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ethiopia",
+      "id": "ethiopia-7bcdb38df81570c5c7aa"
+    },
+    {
+      "name": "Lalibela",
+      "kind": "area",
+      "locality": "Ethiopia",
+      "lat": 12.03,
+      "lon": 39.04,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ethiopia",
+      "id": "ethiopia-f7a5909f2507c2490dfc"
+    },
+    {
+      "name": "Mekele",
+      "kind": "area",
+      "locality": "Ethiopia",
+      "lat": 13.48,
+      "lon": 39.47,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ethiopia",
+      "id": "ethiopia-fbbff9b01ba557567719"
+    },
+    {
+      "name": "Wolaita Sodo",
+      "kind": "area",
+      "locality": "Ethiopia",
+      "lat": 6.855,
+      "lon": 37.780833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ethiopia",
+      "id": "ethiopia-bbeab313df018b38a753"
+    },
+    {
+      "name": "Sheraton Addis",
+      "kind": "do",
+      "locality": "Ethiopia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ethiopia",
+      "url": "http://www.sheratonaddis.com/",
+      "id": "ethiopia-9ca219c5fa0884a55daf"
+    },
+    {
+      "name": "Tej",
+      "kind": "eat",
+      "locality": "Ethiopia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ethiopia",
+      "id": "ethiopia-da316be8f7b44620742a"
+    },
+    {
+      "name": "Addis Ababa Museum",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "lat": 9.0094,
+      "lon": 38.763,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Bole Rd / Airport Rd / Africa Ave",
+      "id": "ethiopia-1b2a2d57dbe99da2635d"
+    },
+    {
+      "name": "Ethiopian Railway Museum",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "lat": 9.00944,
+      "lon": 38.75317,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Yima Dernisse Street",
+      "id": "ethiopia-e4b88d2578f4f5e54190"
+    },
+    {
+      "name": "Ethnological Museum",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "lat": 9.046619,
+      "lon": 38.757624,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Algeria St",
+      "price": "250 birr for adults, 150 birr for students (for foreigners)",
+      "id": "ethiopia-7bd1347e8b3dd73958e2"
+    },
+    {
+      "name": "National Museum of Ethiopia",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "lat": 9.03833,
+      "lon": 38.7619,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "King George VI St",
+      "id": "ethiopia-76689cc261a6d125da93"
+    },
+    {
+      "name": "The Zoological Natural History Museum",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "lat": 9.033,
+      "lon": 38.765,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Queen Elizabeth II St",
+      "id": "ethiopia-db223c9c6c3656e8894e"
+    },
+    {
+      "name": "\"Red Terror\" Martyrs Memorial Museum",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "lat": 9.0101,
+      "lon": 38.763,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Bole Rd, Meskel Sq",
+      "price": "Donation",
+      "id": "ethiopia-6b54548fd255c87c6dde"
+    },
+    {
+      "name": "Anwar Mosque",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "lat": 9.033,
+      "lon": 38.741,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Mercato district",
+      "id": "ethiopia-5e2b97c2d9b328944bd4"
+    },
+    {
+      "name": "Gola Saint Michael Church",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "lat": 9.0253,
+      "lon": 38.7492,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "city centre",
+      "id": "ethiopia-9b94665fe4126c1e4261"
+    },
+    {
+      "name": "Holy Trinity Cathedral",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "lat": 9.0308,
+      "lon": 38.766,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "off Niger St, Arat Kilo area, Arada subcity",
+      "id": "ethiopia-57f13ce402fd10ce5c2e"
+    },
+    {
+      "name": "Medhane Alem Cathedral",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "lat": 8.9959,
+      "lon": 38.7899,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Cameroon St, Bole subcity",
+      "id": "ethiopia-0abbbf8746d869c2aa59"
+    },
+    {
+      "name": "Roman Catholic Cathedral of Nativity",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "lat": 9.0305,
+      "lon": 38.7488,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Wawel St, Mercato district",
+      "url": "http://www.catholicaddis.org/Cathedral.html",
+      "id": "ethiopia-5da3f6e2d312d1b54430"
+    },
+    {
+      "name": "St George's Cathedral",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "lat": 9.0368,
+      "lon": 38.7513,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "north end of Churchill Rd, Piazza area, Arada subcity",
+      "price": "200 birr for museum, another 200 birr or more for a guide for museum and cathedral entry",
+      "id": "ethiopia-79accaa4a6f42aa60b6d"
+    },
+    {
+      "name": "Bata Maryam Church",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "lat": 9.0252,
+      "lon": 38.76496,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "id": "ethiopia-d4f530bc1eb06b52cc3e"
+    },
+    {
+      "name": "Africa Hall",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "lat": 9.014529,
+      "lon": 38.766267,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "id": "ethiopia-db1d5a3dea628b6b06a5"
+    },
+    {
+      "name": "Tiglachin (\"Our Struggle\") monument",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "lat": 9.02014,
+      "lon": 38.751317,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "id": "ethiopia-b160bbf1f9bbd71ceade"
+    },
+    {
+      "name": "Ethiopian National Library",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "lat": 9.01806,
+      "lon": 38.75,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "url": "https://www.nala.gov.et/en",
+      "id": "ethiopia-62e4552cb6349dd0c72b"
+    },
+    {
+      "name": "Lion of Judah of Menelik",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "lat": 9.010861,
+      "lon": 38.753111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "id": "ethiopia-0e3c7df4c486a224cf5a"
+    },
+    {
+      "name": "Lion of Judah of Haile Selassie",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "lat": 9.0166,
+      "lon": 38.7524,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Gambia St",
+      "id": "ethiopia-b510c552e85cf8a865ce"
+    },
+    {
+      "name": "Unity Park",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "lat": 9.024972,
+      "lon": 38.764,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "url": "https://www.unitypark.et/",
+      "id": "ethiopia-3be0508a5e27deff0953"
+    },
+    {
+      "name": "National Palace",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "lat": 9.0165,
+      "lon": 38.760472,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "url": "https://palacemuseum.gov.et/",
+      "id": "ethiopia-f92bd50fd1807f0e1a8d"
+    },
+    {
+      "name": "Parliament Building",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "id": "ethiopia-20d19c312011d31130c4"
+    },
+    {
+      "name": "Shengo Hall",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "lat": 9.0287,
+      "lon": 38.7647,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "id": "ethiopia-ed75ceaa07e7f0eadbc5"
+    },
+    {
+      "name": "Hager Fikir Theatre",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "lat": 9.03769,
+      "lon": 38.7545,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "John Melly St, Piazza district",
+      "id": "ethiopia-7b8bf79339828a4950ec"
+    },
+    {
+      "name": "Jan Meda Race Ground",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "lat": 9.0428,
+      "lon": 38.7694,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "id": "ethiopia-381fb164a057c0c94935"
+    },
+    {
+      "name": "Bihere Tsige Recreation Center",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "lat": 8.9551,
+      "lon": 38.7536,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "id": "ethiopia-7d935d52f872a9508411"
+    },
+    {
+      "name": "Addis Ababa Golf Club",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "lat": 9.0014,
+      "lon": 38.7235,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "url": "https://www.facebook.com/pages/Addis-Ababa-Golf-Club/292221047463745",
+      "id": "ethiopia-1c06ea8ea12e92d3c7e5"
+    },
+    {
+      "name": "Entoto Mountain",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "lat": 9.1121,
+      "lon": 38.7577,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "id": "ethiopia-1f84b14ff6c756c68958"
+    },
+    {
+      "name": "Yewedale",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "lat": 9.0204,
+      "lon": 38.767,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Zewditu St, Kazanches",
+      "id": "ethiopia-cee8b5d76e6b3f1d4d07"
+    },
+    {
+      "name": "BailAmor Dance Group",
+      "kind": "do",
+      "locality": "Addis Ababa",
+      "lat": 9.0086,
+      "lon": 38.7619,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Juventus Sports Club, Jomo Kenyatta St",
+      "url": "https://bailamor.net/",
+      "id": "ethiopia-a5004adc63833fd8ceb9"
+    },
+    {
+      "name": "Purple Cafe",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 9.00352,
+      "lon": 38.76826,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Africa Ave",
+      "id": "ethiopia-47198fd498634cd117c5"
+    },
+    {
+      "name": "National Cafe",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 9.01636,
+      "lon": 38.75217,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "at the end of Churchill Ave",
+      "id": "ethiopia-6c9a344e5187e589510f"
+    },
+    {
+      "name": "Finfine Restaurant",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 9.03114,
+      "lon": 38.73969,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "price": "10-20 birr",
+      "id": "ethiopia-faee047d9869f4e26d57"
+    },
+    {
+      "name": "Yohannes Kitfo Bet",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 9.01073,
+      "lon": 38.78418,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "price": "10-20 birr",
+      "id": "ethiopia-3137735e3e7c0746f3fe"
+    },
+    {
+      "name": "Antica",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 8.99638,
+      "lon": 38.77929,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "off Cape Verde St / EU Rd, Bole",
+      "url": "https://www.anticaddis.com/index.php",
+      "id": "ethiopia-434724227677618bf0d7"
+    },
+    {
+      "name": "Bruno's",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 8.99518,
+      "lon": 38.76647,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Gabon St, across from the Dreamliner hotel",
+      "id": "ethiopia-740989da998d52215d49"
+    },
+    {
+      "name": "2000 Habesha Cultural Restaurant",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 9.00139,
+      "lon": 38.78145,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "TeleBole Rd",
+      "id": "ethiopia-a089c559cf472a4c9c2e"
+    },
+    {
+      "name": "Lime Tree",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 8.9906,
+      "lon": 38.784,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Boston Partners Building, Bole Rd",
+      "id": "ethiopia-6e526fd48ee976730e33"
+    },
+    {
+      "name": "Hanoi Hanna",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 8.9894,
+      "lon": 38.7841,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Zimbabwe Street; Bole Japan neighborhood",
+      "id": "ethiopia-d99290aaa71c699d5585"
+    },
+    {
+      "name": "Sana'a Restaurant",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 8.9993,
+      "lon": 38.7681,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "KL_02_246 St, Gabon St, Olympia area, Kirkos Subcity",
+      "price": "250 birr",
+      "id": "ethiopia-aee3de302d4016c2d736"
+    },
+    {
+      "name": "Sishu",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 8.98732,
+      "lon": 38.74472,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Alexander Pushkin St",
+      "url": "https://www.facebook.com/pages/Sishu/166152870210094",
+      "id": "ethiopia-037dd9c327862e10889b"
+    },
+    {
+      "name": "Trianon Cafe and Restaurant",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 9.03235,
+      "lon": 38.75322,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Piazza Area, Cunnigham St",
+      "id": "ethiopia-b87605e49ab494fe356e"
+    },
+    {
+      "name": "Yod Abyssinia",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 8.99666,
+      "lon": 38.73191,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Seychelles St",
+      "id": "ethiopia-643944d5375ff6e58f37"
+    },
+    {
+      "name": "Cupcake Delight Bakery",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 8.9956,
+      "lon": 38.7853,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Djibouti St, Bole",
+      "price": "20–30 birr per baked product",
+      "id": "ethiopia-aa11886cdc1ca1075d72"
+    },
+    {
+      "name": "Rodeo Addis",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 8.996,
+      "lon": 38.7737,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Bole Rd, Wollo Sefer area, near crossing Ethio-China Friendship Rd",
+      "price": "200 birr",
+      "url": "https://rodeorestaurantaddis.wordpress.com/menu/",
+      "id": "ethiopia-29cac23a15d2d42d9031"
+    },
+    {
+      "name": "Istanbul International Restaurant",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 8.9928,
+      "lon": 38.7847,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "BL_03_646 St, off Bole Rd, Bole subcity",
+      "price": "200 birr",
+      "id": "ethiopia-a1a1743d1cd9d77c0dc4"
+    },
+    {
+      "name": "Asli Mendi Ethio-Arabic Restaurant",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 8.9908,
+      "lon": 38.7823,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Zimbabwe St, off Bole Rd, Rwanda area, Bole subcity",
+      "price": "190 birr",
+      "url": "https://www.facebook.com/aslimendi",
+      "id": "ethiopia-f5e323c6f412b8d9372c"
+    },
+    {
+      "name": "Five Loaves Bistro and Bakery",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 9.0232,
+      "lon": 38.7776,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Côte d'Ivoire St, Aware area, Yeka subcity",
+      "price": "250 birr",
+      "id": "ethiopia-3be13463bc825d11ccd1"
+    },
+    {
+      "name": "Dashen Terara Traditional Restaurant",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 9.0215,
+      "lon": 38.774,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "D.A.R Sahara St, Aware area, Yeka subcity",
+      "price": "210 birr",
+      "url": "http://dashenterara.com/",
+      "id": "ethiopia-e578fc6ce74b344ff819"
+    },
+    {
+      "name": "Yilma",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 9.0059,
+      "lon": 38.7826,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "BL_03_519 St, off Mike Leyland St, Chechenia area, Bole subcity",
+      "price": "200 birr",
+      "id": "ethiopia-97f17c658ace2ffff764"
+    },
+    {
+      "name": "Café du Louvre",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 9.025,
+      "lon": 38.787,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Louvre Grand Hotel, off Togo St, Aware area, Yeka subcity",
+      "price": "220 birr",
+      "url": "http://www.louvregrandhotel.com/",
+      "id": "ethiopia-330e100eaf5430e4d016"
+    },
+    {
+      "name": "Aladdin restaurant",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 8.9911,
+      "lon": 38.782,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Zimbabwe St, off Bole Rd, Rwanda area, Bole subcity",
+      "price": "290 birr",
+      "url": "https://www.facebook.com/people/Aladdin-Restaurant/100063655196943/",
+      "id": "ethiopia-39ff6dca395520f7e4b2"
+    },
+    {
+      "name": "Castellis in Piazza",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 9.03183,
+      "lon": 38.75279,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Churchill St/Piazza area",
+      "id": "ethiopia-39b0690ca036991f6de0"
+    },
+    {
+      "name": "Green-view Italian Restaurant / Pizzeria",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 9.00334,
+      "lon": 38.7798,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Bole Mickey Leland St",
+      "id": "ethiopia-fa2d5fd2b436483b5176"
+    },
+    {
+      "name": "Sangam Restaurant",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 8.999,
+      "lon": 38.7706,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Bole Rd",
+      "url": "https://www.facebook.com/Sangam.Restaurantplc/",
+      "id": "ethiopia-e4033392e714f72d6fc8"
+    },
+    {
+      "name": "Top View Restaurant",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 9.0225,
+      "lon": 38.8034,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Megenagna area, above the Diaspora Roundabout, crossing of Ring Rd with Fikre mariam Aba Techan St",
+      "id": "ethiopia-f4b6d2a5a7e5d6453106"
+    },
+    {
+      "name": "La Mandoline",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 9.01079,
+      "lon": 38.782,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Chechenia, next to Caravan Hotel",
+      "id": "ethiopia-38845eb26c1e0caf439a"
+    },
+    {
+      "name": "Gusto Ristorante",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 9.022,
+      "lon": 38.7519,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "ZTE Tower, 3F, Churchill Ave, Posta Bet area",
+      "price": "Tagliatelle Bolognese for 200 birr & Ossobuco for 350 birr",
+      "url": "http://gustoaddis.com/",
+      "id": "ethiopia-fa7e3e2b837c076810ad"
+    },
+    {
+      "name": "Jewel of India",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 8.9989,
+      "lon": 38.768,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "KL_02_246 St, Gabon St, Olympia area, Kirkos Subcity",
+      "price": "300 birr",
+      "url": "http://jeweladdis.com/",
+      "id": "ethiopia-38d08abb53d9c0a38fa6"
+    },
+    {
+      "name": "China Bar and Restaurant",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 9.0125,
+      "lon": 38.759,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Ras Desta Damtew St, Meskel Sq, POBox 3601",
+      "price": "260 birr",
+      "id": "ethiopia-70556322ee368222c33b"
+    },
+    {
+      "name": "Sky Steak House",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 8.9951,
+      "lon": 38.767,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Dreamliner Hotel, 8F, Gabon St, Meskel Flower area, Kirkos subcity",
+      "price": "600 birr",
+      "url": "http://www.dreamlinerhotel.com/restaurants/",
+      "id": "ethiopia-027f9124b0be685243e5"
+    },
+    {
+      "name": "Black Rose Lounge",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 8.9906,
+      "lon": 38.784,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Boston Bldg, Bole Rd",
+      "id": "ethiopia-4c646fae54bdcbfe6440"
+    },
+    {
+      "name": "Dome Club",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 8.98963,
+      "lon": 38.75903,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Debre Zeyit Rd",
+      "id": "ethiopia-e84b240191720e3ed17e"
+    },
+    {
+      "name": "Gaslight",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 9.0203,
+      "lon": 38.76029,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "id": "ethiopia-d127162162f795118422"
+    },
+    {
+      "name": "Illusion",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 9.018,
+      "lon": 38.754,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "cnr Ras Desta Damtew St & Itegue Taitu St",
+      "id": "ethiopia-3dedd8c93f002632637a"
+    },
+    {
+      "name": "Beemnet",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "lat": 9.01961,
+      "lon": 38.76693,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "id": "ethiopia-3737f878806e4e7b8741"
+    },
+    {
+      "name": "Kaldi's Coffee",
+      "kind": "eat",
+      "locality": "Addis Ababa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "id": "ethiopia-691d31bcfa63444f3c59"
+    },
+    {
+      "name": "Addis Guest House",
+      "kind": "stay",
+      "locality": "Addis Ababa",
+      "lat": 9.0038,
+      "lon": 38.7889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Djibuti St",
+      "id": "ethiopia-330349deda7f17778267"
+    },
+    {
+      "name": "Itegue Taitu Hotel",
+      "kind": "stay",
+      "locality": "Addis Ababa",
+      "lat": 9.0306,
+      "lon": 38.7543,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "St between Cunningham St and Dejazemach Jote St, Piazza area, Arada subcity",
+      "url": "http://www.taituhotel.com/",
+      "id": "ethiopia-a0c11beff95750a273a0"
+    },
+    {
+      "name": "Baro Hotel",
+      "kind": "stay",
+      "locality": "Addis Ababa",
+      "lat": 9.03071,
+      "lon": 38.7534,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Mundy St",
+      "id": "ethiopia-7fd12f433b70183a25e3"
+    },
+    {
+      "name": "Wutma Hotel",
+      "kind": "stay",
+      "locality": "Addis Ababa",
+      "lat": 9.03086,
+      "lon": 38.75316,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Mundy St",
+      "id": "ethiopia-fcb81971536dad35169b"
+    },
+    {
+      "name": "Mad Vervet Backpackers Hostel",
+      "kind": "stay",
+      "locality": "Addis Ababa",
+      "lat": 9.0089,
+      "lon": 38.7988,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "BL-03-552 Street Hayahulet",
+      "price": "$10 dorms, $17 privates. Rates negotiable",
+      "url": "https://madvervet.com/",
+      "id": "ethiopia-5f8993120374a72bfcda"
+    },
+    {
+      "name": "Beer Garden Inn",
+      "kind": "stay",
+      "locality": "Addis Ababa",
+      "lat": 8.99509,
+      "lon": 38.7864,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "url": "http://www.beergardeninn.com/",
+      "id": "ethiopia-b07a851200a0486e760a"
+    },
+    {
+      "name": "GT Guest House",
+      "kind": "stay",
+      "locality": "Addis Ababa",
+      "lat": 8.996,
+      "lon": 38.7584,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Sierra Leone St",
+      "url": "http://www.gtguesthouse.com/",
+      "id": "ethiopia-14c6f65b1bb315e4c40e"
+    },
+    {
+      "name": "Martin's Cozy Place-German Guesthouse",
+      "kind": "stay",
+      "locality": "Addis Ababa",
+      "lat": 9.00283,
+      "lon": 38.77952,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "url": "https://www.facebook.com/MrMartinsCozyPlace/",
+      "id": "ethiopia-1c3582c975a639a5d5c5"
+    },
+    {
+      "name": "Ras Hotel",
+      "kind": "stay",
+      "locality": "Addis Ababa",
+      "lat": 9.01497,
+      "lon": 38.75228,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Churchill Ave/Gambia St",
+      "url": "https://hotelrasamba.com/",
+      "id": "ethiopia-d0612aefb51f1a560668"
+    },
+    {
+      "name": "Yilma Hotel",
+      "kind": "stay",
+      "locality": "Addis Ababa",
+      "lat": 8.9827,
+      "lon": 38.7311,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "id": "ethiopia-76e5c4e41dedeb032dbf"
+    },
+    {
+      "name": "Z Guest House",
+      "kind": "stay",
+      "locality": "Addis Ababa",
+      "lat": 9.041,
+      "lon": 38.7581,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "price": "From US$29.95/night for a single suite",
+      "url": "http://www.zguesthouse.com/",
+      "id": "ethiopia-3293b1c868ccb743e18f"
+    },
+    {
+      "name": "Keba Guest House",
+      "kind": "stay",
+      "locality": "Addis Ababa",
+      "lat": 9.0322,
+      "lon": 38.7839,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Yeka Subcity, Wereda 8, Kebele 13/14, Houseno 556,Yeka 34155 Addis Ababa",
+      "price": "25 per double$",
+      "url": "https://kebaguesthouse.com/",
+      "id": "ethiopia-839467335656b3e06803"
+    },
+    {
+      "name": "Tirago Hotel",
+      "kind": "stay",
+      "locality": "Addis Ababa",
+      "lat": 9.0103,
+      "lon": 38.7801,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "off Mike Leyland Street",
+      "price": "1495ETB per double",
+      "url": "https://hoteltirago.com/",
+      "id": "ethiopia-db380c092e5bec1a0005"
+    },
+    {
+      "name": "Sheger Royal Hotel",
+      "kind": "stay",
+      "locality": "Addis Ababa",
+      "lat": 8.99881,
+      "lon": 38.78329,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "near Namibia St",
+      "price": "1792 birr",
+      "url": "https://shegerroyalhotel.com/",
+      "id": "ethiopia-67df3362cbbc350ddaa1"
+    },
+    {
+      "name": "Marcen Addis Hotel",
+      "kind": "stay",
+      "locality": "Addis Ababa",
+      "lat": 9.01041,
+      "lon": 38.78141,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Mickey Leland St",
+      "price": "1061 birr",
+      "url": "https://www.marcenaddishotel.com/",
+      "id": "ethiopia-deb65bb0ccac4a87e15b"
+    },
+    {
+      "name": "C-Fun Addis Hotel",
+      "kind": "stay",
+      "locality": "Addis Ababa",
+      "lat": 9.01356,
+      "lon": 38.78413,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "price": "1463 birr",
+      "url": "https://www.cfunaddishotel.com/",
+      "id": "ethiopia-846d3bf0ea8d4784c23d"
+    },
+    {
+      "name": "Cape Hotel",
+      "kind": "stay",
+      "locality": "Addis Ababa",
+      "lat": 8.9517,
+      "lon": 38.6897,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Sheger City",
+      "price": "$29 standard room. Breakfast included",
+      "url": "https://capehotelsheger.com/",
+      "id": "ethiopia-139812950f7415f635a9"
+    },
+    {
+      "name": "Addis Ababa Hilton",
+      "kind": "stay",
+      "locality": "Addis Ababa",
+      "lat": 9.018785,
+      "lon": 38.765019,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Central Menelik Ave",
+      "url": "https://www3.hilton.com/en/hotels/ethiopia/hilton-addis-ababa-ADDHITW/index.html",
+      "id": "ethiopia-91cb3efe3a15d3b9aefe"
+    },
+    {
+      "name": "Dimitri Hotel",
+      "kind": "stay",
+      "locality": "Addis Ababa",
+      "lat": 9.0242,
+      "lon": 38.8254,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Kebele 16-18 CMC Road",
+      "url": "http://dimitrihotel.com/",
+      "id": "ethiopia-986e0e8051ede3f06011"
+    },
+    {
+      "name": "Harmony Hotel",
+      "kind": "stay",
+      "locality": "Addis Ababa",
+      "lat": 8.99621,
+      "lon": 38.78619,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Bole Sub city Kebele 03 House # New",
+      "price": "US$70",
+      "url": "http://harmonyhotelethiopia.com/",
+      "id": "ethiopia-e4943ff9e2b667d52965"
+    },
+    {
+      "name": "Bole International Hotel",
+      "kind": "stay",
+      "locality": "Addis Ababa",
+      "lat": 8.99244,
+      "lon": 38.791512,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "2221 Cameroon St",
+      "price": "From US$65 for a single, US$85 for a small double, payment in cash only, no Visa.",
+      "id": "ethiopia-2461420638da1f459b56"
+    },
+    {
+      "name": "Jupiter International Hotel",
+      "kind": "stay",
+      "locality": "Addis Ababa",
+      "lat": 8.9891,
+      "lon": 38.7855,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Africa Ave, Airport Rd",
+      "price": "USD90–200",
+      "url": "http://www.jupiterinternationalhotel.com/",
+      "id": "ethiopia-816f97bdbb7a2894715e"
+    },
+    {
+      "name": "Panorama Hotel",
+      "kind": "stay",
+      "locality": "Addis Ababa",
+      "lat": 8.9889,
+      "lon": 38.8056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "price": "From US$59/night",
+      "id": "ethiopia-8960fa859d052645fc26"
+    },
+    {
+      "name": "Sheraton Addis",
+      "kind": "stay",
+      "locality": "Addis Ababa",
+      "lat": 9.02031,
+      "lon": 38.759957,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Central Yohanis St",
+      "url": "http://www.sheratonaddis.com/",
+      "id": "ethiopia-cca11f90b9bcc716a895"
+    },
+    {
+      "name": "Wassamar Hotel",
+      "kind": "stay",
+      "locality": "Addis Ababa",
+      "lat": 8.99208,
+      "lon": 38.78181,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "address": "Bole Rd",
+      "price": "USD95",
+      "url": "http://wassamarhotel.com/",
+      "id": "ethiopia-706514f720d22aafd855"
+    },
+    {
+      "name": "Addis Ababa",
+      "kind": "area",
+      "locality": "Addis Ababa",
+      "lat": 9.01039,
+      "lon": 38.7614,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Addis_Ababa",
+      "id": "ethiopia-9f823674f4e1ae782a61"
+    },
+    {
+      "name": "Bet Medhane Alem",
+      "kind": "do",
+      "locality": "Lalibela",
+      "lat": 12.0337,
+      "lon": 39.0437,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lalibela",
+      "id": "ethiopia-4ad2b5705238e42daeec"
+    },
+    {
+      "name": "Bet Amanuel",
+      "kind": "do",
+      "locality": "Lalibela",
+      "lat": 12.0318,
+      "lon": 39.0455,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lalibela",
+      "id": "ethiopia-f54d72e6cade8845f3c8"
+    },
+    {
+      "name": "Bet Giyorgis",
+      "kind": "do",
+      "locality": "Lalibela",
+      "lat": 12.0318,
+      "lon": 39.0411,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lalibela",
+      "id": "ethiopia-1eeb9fd08578d3c70b8b"
+    },
+    {
+      "name": "Ashetan Maryam",
+      "kind": "do",
+      "locality": "Lalibela",
+      "lat": 12.0168,
+      "lon": 39.0718,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lalibela",
+      "id": "ethiopia-0e389aa2ddd70955848c"
+    },
+    {
+      "name": "Holidays",
+      "kind": "do",
+      "locality": "Lalibela",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lalibela",
+      "id": "ethiopia-79216c57f324d11dd38b"
+    },
+    {
+      "name": "Hike to Mount Abuna Yosef",
+      "kind": "do",
+      "locality": "Lalibela",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lalibela",
+      "address": "Main Street, Lower Town",
+      "price": "Approx US$100 per day for two people all inclusive",
+      "id": "ethiopia-76445ebc3c586e6368b5"
+    },
+    {
+      "name": "Walk to Ashetan Maryam and Hudad Lodge and back to Lalibela",
+      "kind": "do",
+      "locality": "Lalibela",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lalibela",
+      "id": "ethiopia-f01ac4439a4c350fc3de"
+    },
+    {
+      "name": "Public Library",
+      "kind": "do",
+      "locality": "Lalibela",
+      "lat": 12.03529,
+      "lon": 39.04499,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lalibela",
+      "address": "Kedemt Rd",
+      "id": "ethiopia-069c6c6412195ed4a56f"
+    },
+    {
+      "name": "Ethiopia Cookery School",
+      "kind": "do",
+      "locality": "Lalibela",
+      "lat": 12.03557,
+      "lon": 39.0478,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lalibela",
+      "address": "at Blu Lal Hotel",
+      "price": "USD50 for one, USD30 each for two or three",
+      "id": "ethiopia-9ac4aef0a2c4f2a1e56b"
+    },
+    {
+      "name": "Ben Abeba",
+      "kind": "eat",
+      "locality": "Lalibela",
+      "lat": 12.0432,
+      "lon": 39.0372,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lalibela",
+      "price": "45-95 birr (June 2013)",
+      "url": "http://www.benabeba.com/",
+      "id": "ethiopia-45504fd4c38bb322e02f"
+    },
+    {
+      "name": "John Cafe",
+      "kind": "eat",
+      "locality": "Lalibela",
+      "lat": 12.0357,
+      "lon": 39.0467,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lalibela",
+      "id": "ethiopia-d49bd17c8a86da2728fb"
+    },
+    {
+      "name": "Torpido Tejbet",
+      "kind": "eat",
+      "locality": "Lalibela",
+      "lat": 12.03795,
+      "lon": 39.04615,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lalibela",
+      "id": "ethiopia-8181e94b54a1650365d1"
+    },
+    {
+      "name": "Mar Telo Bar",
+      "kind": "eat",
+      "locality": "Lalibela",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lalibela",
+      "price": "Tej is 10 birr per bottle, beer is 15 birr",
+      "id": "ethiopia-bee3694760043e72757d"
+    },
+    {
+      "name": "Sora Lodge",
+      "kind": "eat",
+      "locality": "Lalibela",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lalibela",
+      "id": "ethiopia-0dde7299a069d896ac4f"
+    },
+    {
+      "name": "Tena Adam Hotel",
+      "kind": "stay",
+      "locality": "Lalibela",
+      "lat": 12.0275,
+      "lon": 39.0484,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lalibela",
+      "address": "Werk Dingay or \"America\" district",
+      "price": "50 birr",
+      "url": "http://tenaadam.wordpress.com/",
+      "id": "ethiopia-03e753eada9115d3ac8a"
+    },
+    {
+      "name": "Top Twelve Hotel",
+      "kind": "stay",
+      "locality": "Lalibela",
+      "lat": 12.04046,
+      "lon": 39.03748,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lalibela",
+      "url": "http://www.toptwelvehotel.com/",
+      "id": "ethiopia-6ae41fe5a33e805ba188"
+    },
+    {
+      "name": "Cliff Edge Hotel",
+      "kind": "stay",
+      "locality": "Lalibela",
+      "lat": 12.04,
+      "lon": 39.0375,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lalibela",
+      "price": "Single 800 birr, double/twin 1000 birr, triple 1200 birr (June 2013), Visa accepted with 5% surcharge",
+      "url": "http://www.cliffedgehotel-lalibela.com/",
+      "id": "ethiopia-ba79a9ba8b421b238d34"
+    },
+    {
+      "name": "Mountain View Hotel",
+      "kind": "stay",
+      "locality": "Lalibela",
+      "lat": 12.0388,
+      "lon": 39.0363,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lalibela",
+      "price": "Single 1,200 birr, double/twin 1,400 birr (June 2013), MasterCard & Visa accepted with 5% surcharge",
+      "url": "http://mountainview-hotel.com/",
+      "id": "ethiopia-2a158d3ca14b018b21e6"
+    },
+    {
+      "name": "Panoramic View Hotel",
+      "kind": "stay",
+      "locality": "Lalibela",
+      "lat": 12.0413,
+      "lon": 39.0373,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lalibela",
+      "url": "http://www.panoramicviewhotel.com/",
+      "id": "ethiopia-c5b5b2302eafa5c2afc8"
+    },
+    {
+      "name": "Asheten Hotel",
+      "kind": "stay",
+      "locality": "Lalibela",
+      "lat": 12.0345,
+      "lon": 39.049,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lalibela",
+      "price": "From 250 birr (June 2013)",
+      "id": "ethiopia-3bcd1a430ec844d51bfe"
+    },
+    {
+      "name": "Seven Olives Hotel",
+      "kind": "stay",
+      "locality": "Lalibela",
+      "lat": 12.0348,
+      "lon": 39.0468,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lalibela",
+      "url": "http://www.sevenoliveshotel.com/",
+      "id": "ethiopia-4888c009dff98df0a42d"
+    },
+    {
+      "name": "Helen Hotel",
+      "kind": "stay",
+      "locality": "Lalibela",
+      "lat": 12.0291,
+      "lon": 39.04246,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lalibela",
+      "price": "Single 250 birr, double/twin 300 birr, triple 400 birr",
+      "id": "ethiopia-a8aa32a1a156ef44032d"
+    },
+    {
+      "name": "Lalibela Hotel",
+      "kind": "stay",
+      "locality": "Lalibela",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lalibela",
+      "price": "400-500 birr, more if you book online",
+      "id": "ethiopia-a4d2af0adac9441bdda6"
+    },
+    {
+      "name": "Roha Hotel",
+      "kind": "stay",
+      "locality": "Lalibela",
+      "lat": 12.027,
+      "lon": 39.037,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lalibela",
+      "price": "Single 565 birr, double/twin 850 birr, triple 1248 birr, MasterCard & Visa accepted with 5% surcharge (June 2013)",
+      "id": "ethiopia-30b2b6e594d8ec893cf1"
+    },
+    {
+      "name": "Tukul Village Lodge",
+      "kind": "stay",
+      "locality": "Lalibela",
+      "lat": 12.028,
+      "lon": 39.041,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lalibela",
+      "price": "Single 900 birr, double/twin 1,250 birr, triple 1,700 birr (June 2013)",
+      "id": "ethiopia-5ea5cb5af2a9930e53d5"
+    },
+    {
+      "name": "Selam Guest House",
+      "kind": "stay",
+      "locality": "Lalibela",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lalibela",
+      "id": "ethiopia-03cf736c1b11ed34956d"
+    },
+    {
+      "name": "Hudad Lalibela Eco-Lodge & Retreat",
+      "kind": "stay",
+      "locality": "Lalibela",
+      "lat": 12.0417,
+      "lon": 39.09,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lalibela",
+      "url": "http://hudadlalibela.com/",
+      "id": "ethiopia-829bb77c3c3563a43725"
+    },
+    {
+      "name": "Lalibela",
+      "kind": "area",
+      "locality": "Lalibela",
+      "lat": 12.0333,
+      "lon": 39.0333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lalibela",
+      "id": "ethiopia-ce7ad8c3416b0eb79814"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 3 distinct public Wikivoyage source pages; attempted 3 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

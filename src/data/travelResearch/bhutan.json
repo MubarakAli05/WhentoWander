@@ -1,0 +1,1187 @@
+{
+  "sources": [
+    {
+      "title": "Bhutan",
+      "url": "https://en.wikivoyage.org/wiki/Bhutan",
+      "checkedAt": "2026-10-21T08:06:26.705Z"
+    },
+    {
+      "title": "Thimphu",
+      "url": "https://en.wikivoyage.org/wiki/Thimphu",
+      "checkedAt": "2026-10-21T08:06:30.170Z"
+    },
+    {
+      "title": "Paro",
+      "url": "https://en.wikivoyage.org/wiki/Paro",
+      "checkedAt": "2026-10-21T08:06:32.197Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Thimphu",
+      "kind": "area",
+      "locality": "Bhutan",
+      "lat": 27.466667,
+      "lon": 89.641667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-94e4ea362cf6ca709867"
+    },
+    {
+      "name": "Jakar",
+      "kind": "area",
+      "locality": "Bhutan",
+      "lat": 27.55,
+      "lon": 90.733333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-dba6d3fc0436e268aed2"
+    },
+    {
+      "name": "Mongar",
+      "kind": "area",
+      "locality": "Bhutan",
+      "lat": 27.275,
+      "lon": 91.24,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-0812a4c76f208620566b"
+    },
+    {
+      "name": "Paro",
+      "kind": "area",
+      "locality": "Bhutan",
+      "lat": 27.433333,
+      "lon": 89.416667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-dfebdf343312596d40b1"
+    },
+    {
+      "name": "Punakha",
+      "kind": "area",
+      "locality": "Bhutan",
+      "lat": 27.616667,
+      "lon": 89.866667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-35f26edbef9ef3305465"
+    },
+    {
+      "name": "Phuentsholing",
+      "kind": "area",
+      "locality": "Bhutan",
+      "lat": 26.85,
+      "lon": 89.383333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-8a18674b6c89e037b154"
+    },
+    {
+      "name": "Samdrup Jongkhar",
+      "kind": "area",
+      "locality": "Bhutan",
+      "lat": 26.916667,
+      "lon": 91.616667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-bc486497475885e31714"
+    },
+    {
+      "name": "Trashigang",
+      "kind": "area",
+      "locality": "Bhutan",
+      "lat": 27.333333,
+      "lon": 91.566667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-f65fb3ec5bec41d7cd8e"
+    },
+    {
+      "name": "Trashiyangtse",
+      "kind": "area",
+      "locality": "Bhutan",
+      "lat": 27.63,
+      "lon": 91.56,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-4b160df6b01f07eeb2ab"
+    },
+    {
+      "name": "Bumthang Cultural Trek",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-97ffbc3fe981ce8bab3b"
+    },
+    {
+      "name": "Bumthang Owl Trek",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-4bb6d0b351374d6fbe3f"
+    },
+    {
+      "name": "Dongla Trek",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-238db58341f9ff685b98"
+    },
+    {
+      "name": "Chelela Trek",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-fa6c99c387cda0d433b8"
+    },
+    {
+      "name": "Dagala Thousand Lakes Trek",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-b7ad615a11d3ccfb4f94"
+    },
+    {
+      "name": "Druk Path Trek",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-1150b29949b8cf73d9a2"
+    },
+    {
+      "name": "Dur Hot Spring Trek",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-a09732cabba0dc23a27e"
+    },
+    {
+      "name": "Gangjula Trek",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-b58f3ff08a582364fb95"
+    },
+    {
+      "name": "Gangkar Puensum",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-f695740f6e7f9d7f5929"
+    },
+    {
+      "name": "Gantey Trek",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-17067d158e749b4b7231"
+    },
+    {
+      "name": "Jomolhari Trek",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-ac9dd7cca80b5ec96349"
+    },
+    {
+      "name": "Laya Gasa Trek",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-a5400921ebb1cfc83ce7"
+    },
+    {
+      "name": "Lingmithang–Zhemgang Trek",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-97dd25fffe1c683fef33"
+    },
+    {
+      "name": "Merak–Sakteng",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-7d31cf91a6617fd1c0cf"
+    },
+    {
+      "name": "Nabji Korphu Community Based Trek",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-45675190cc05d393cb1f"
+    },
+    {
+      "name": "Nubtsona Pata Trek",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-9e195ebda4bb9c5212b6"
+    },
+    {
+      "name": "Punakha Winter Trek",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-a514cffb9b10bdba700a"
+    },
+    {
+      "name": "Rigsum Goenpa Trek",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-e2da6237528dd4b15c58"
+    },
+    {
+      "name": "Royal Heritage Trek",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-286b773b7967a45ff8c0"
+    },
+    {
+      "name": "Sagala Trek",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-791164f7b16dabfb8002"
+    },
+    {
+      "name": "Samtengang Trek",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-f269a6a489152a647dec"
+    },
+    {
+      "name": "Sinchula Trek",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-8d70c67659db5a78b657"
+    },
+    {
+      "name": "Snowman Trek",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-19903f10502d769790da"
+    },
+    {
+      "name": "Wild East Rodungla Trek",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-9850244dec46695a77a4"
+    },
+    {
+      "name": "Black Necked Crane Festival",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-360586644af1048cc9fb"
+    },
+    {
+      "name": "Bhutan Birds Festival",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-0fe5d35834502300ff96"
+    },
+    {
+      "name": "Chorten Kora Festival",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-82e061fe1244847f77ae"
+    },
+    {
+      "name": "Gomphu Kora Festival",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-c1946caa34dab38942b4"
+    },
+    {
+      "name": "Haa Summer Festival",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-9c43ad643f72b4c81993"
+    },
+    {
+      "name": "Jampa Lhakhang festival",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-971727104badb5ef222b"
+    },
+    {
+      "name": "Kurjey Festival",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-e1c08e06166223735741"
+    },
+    {
+      "name": "Lhuentse Festival",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-cb90249724b03399ec39"
+    },
+    {
+      "name": "Merak Tshechu",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-b5f0389db26432c5edad"
+    },
+    {
+      "name": "Mongar Festival",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-08ad45cc3b2e3fd79efb"
+    },
+    {
+      "name": "Nimalung Festival",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-7887497589ab853da22d"
+    },
+    {
+      "name": "Nomad Festival",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-b9d45b65fef02da4b828"
+    },
+    {
+      "name": "Paro Tsechu",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-c537e4e65d2abfdcf155"
+    },
+    {
+      "name": "Pema Gatshel Festival",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-05e391b1dfc207dd7d85"
+    },
+    {
+      "name": "Punakha Festival",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-300a4a193f87c14d87e7"
+    },
+    {
+      "name": "Sakten Tshechu",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-7d2f30accf3845c341e9"
+    },
+    {
+      "name": "Takin Festival",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-008d8486a12ab23dfd9f"
+    },
+    {
+      "name": "Thimphu Festival",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-cd1f812fd322436821c3"
+    },
+    {
+      "name": "Trashigang Festival",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-75957e09611037fef4c0"
+    },
+    {
+      "name": "Trongsa Festival",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-61e425ef1d4332116a5b"
+    },
+    {
+      "name": "Ura yakchoe",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-c2d4945020ac1752c7d2"
+    },
+    {
+      "name": "Wangdue Phodrang Festival",
+      "kind": "do",
+      "locality": "Bhutan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bhutan",
+      "id": "bhutan-527296a41a64b6dd338b"
+    },
+    {
+      "name": "Changangkha Lhakhang",
+      "kind": "do",
+      "locality": "Thimphu",
+      "lat": 27.473514,
+      "lon": 89.628334,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "price": "Nu 500 for all non-Bhutanese",
+      "id": "bhutan-081c869091a9381375bb"
+    },
+    {
+      "name": "Statue of Dordenna Buddha",
+      "kind": "do",
+      "locality": "Thimphu",
+      "lat": 27.443786,
+      "lon": 89.645627,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "price": "Nu500 for all non-Bhutanese",
+      "id": "bhutan-7dfa0d1575b9da1fd301"
+    },
+    {
+      "name": "Thangtong Dewachen Nunnery",
+      "kind": "do",
+      "locality": "Thimphu",
+      "lat": 27.486035,
+      "lon": 89.629759,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "id": "bhutan-5e64545b08d07767d690"
+    },
+    {
+      "name": "The National Memorial Chorten",
+      "kind": "do",
+      "locality": "Thimphu",
+      "lat": 27.466368,
+      "lon": 89.637618,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "price": "Nu 500 for all non-Bhutanese. Free after 5PM",
+      "id": "bhutan-b27ec504cadbcb24f93b"
+    },
+    {
+      "name": "National Folk Heritage Museum",
+      "kind": "do",
+      "locality": "Thimphu",
+      "lat": 27.482569,
+      "lon": 89.63198,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "price": "Nu 150",
+      "id": "bhutan-bd9eb3ba7205454d99c7"
+    },
+    {
+      "name": "The Royal Textile Museum",
+      "kind": "do",
+      "locality": "Thimphu",
+      "lat": 27.478913,
+      "lon": 89.635687,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "price": "Nu 150",
+      "url": "http://www.rtabhutan.org/",
+      "id": "bhutan-7310b16efa381e02dc3b"
+    },
+    {
+      "name": "Simtokha Dzong",
+      "kind": "do",
+      "locality": "Thimphu",
+      "lat": 27.438093,
+      "lon": 89.669706,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "id": "bhutan-ec193e0c09a6560752e7"
+    },
+    {
+      "name": "Tashichho Dzong",
+      "kind": "do",
+      "locality": "Thimphu",
+      "lat": 27.489939,
+      "lon": 89.634884,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "id": "bhutan-aaddaef32eed0d19e98c"
+    },
+    {
+      "name": "Botanical Gardens",
+      "kind": "do",
+      "locality": "Thimphu",
+      "lat": 27.424969,
+      "lon": 89.650032,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Serbithang",
+      "id": "bhutan-58414ef80051e7676a47"
+    },
+    {
+      "name": "Centenary Park",
+      "kind": "do",
+      "locality": "Thimphu",
+      "lat": 27.470964,
+      "lon": 89.642575,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "id": "bhutan-805415006fafea16a50b"
+    },
+    {
+      "name": "Changyul Park",
+      "kind": "do",
+      "locality": "Thimphu",
+      "lat": 27.458061,
+      "lon": 89.648234,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Babesa-Thimphu Expressway",
+      "price": "Nu 20",
+      "id": "bhutan-37d5aaf4db45e75f1f8c"
+    },
+    {
+      "name": "Ludrong Memorial Garden",
+      "kind": "do",
+      "locality": "Thimphu",
+      "lat": 27.491942,
+      "lon": 89.636514,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Langjopakha",
+      "id": "bhutan-42efbce6b353d1b75b16"
+    },
+    {
+      "name": "Takin Preserve",
+      "kind": "do",
+      "locality": "Thimphu",
+      "lat": 27.481628,
+      "lon": 89.611392,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "id": "bhutan-38bd77b611905828b5b3"
+    },
+    {
+      "name": "Choki Traditional Art School",
+      "kind": "do",
+      "locality": "Thimphu",
+      "lat": 27.548693,
+      "lon": 89.655708,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Kabesa",
+      "url": "https://chokischool.org/",
+      "id": "bhutan-03206166fdb7b72af127"
+    },
+    {
+      "name": "Zorig Chusum School of Traditional Arts",
+      "kind": "do",
+      "locality": "Thimphu",
+      "lat": 27.482821,
+      "lon": 89.631594,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "id": "bhutan-9af99fbe20a91f9cec11"
+    },
+    {
+      "name": "Dhyana Thimphu Meditation Centre",
+      "kind": "do",
+      "locality": "Thimphu",
+      "lat": 27.472884,
+      "lon": 89.639213,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "2F, Thimphu Plaza, Chang Lam",
+      "url": "https://dhyanazhitshok.org/dhyana-thimphu/",
+      "id": "bhutan-d83fb8b5eb8b0abc352b"
+    },
+    {
+      "name": "Jigme Dorji Wangchuck Public Library",
+      "kind": "do",
+      "locality": "Thimphu",
+      "lat": 27.47721,
+      "lon": 89.635891,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "National Library and Archives of Bhutan, Kawajangsa",
+      "id": "bhutan-8980cbe3d827248ae738"
+    },
+    {
+      "name": "Snow Leopard Theatre Repertory",
+      "kind": "do",
+      "locality": "Thimphu",
+      "lat": 27.472006,
+      "lon": 89.637094,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Hong Market",
+      "url": "https://www.facebook.com/p/Snow-Leopard-Theatre-Repertory-61566966012295/",
+      "id": "bhutan-d0afd4d5acf7c96133d2"
+    },
+    {
+      "name": "The National Institute of Traditional Medicine",
+      "kind": "do",
+      "locality": "Thimphu",
+      "lat": 27.480273,
+      "lon": 89.629367,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "id": "bhutan-78ef26744d4b73b4ad02"
+    },
+    {
+      "name": "The National Library",
+      "kind": "do",
+      "locality": "Thimphu",
+      "lat": 27.483215,
+      "lon": 89.632605,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "id": "bhutan-2e4babc73263f3850625"
+    },
+    {
+      "name": "Bhutan Echoes Literary Festival",
+      "kind": "do",
+      "locality": "Thimphu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Royal University of Bhutan (RUB) Hall",
+      "url": "https://www.drukyul.org/festival/",
+      "id": "bhutan-947e9e936942048e2391"
+    },
+    {
+      "name": "Thimphu Drupchen",
+      "kind": "do",
+      "locality": "Thimphu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "id": "bhutan-226c11ca4c0f328851fc"
+    },
+    {
+      "name": "Thimphu Tshechu",
+      "kind": "do",
+      "locality": "Thimphu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "id": "bhutan-7aa487ce2ea8cf1479de"
+    },
+    {
+      "name": "Zombala restaurant",
+      "kind": "eat",
+      "locality": "Thimphu",
+      "lat": 27.471473,
+      "lon": 89.638631,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "id": "bhutan-b8afa685b165b14a4d6a"
+    },
+    {
+      "name": "Birbi",
+      "kind": "eat",
+      "locality": "Thimphu",
+      "lat": 27.4693,
+      "lon": 89.6361,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Doebum Lam",
+      "url": "https://www.facebook.com/61562441847683/about/?_rdr",
+      "id": "bhutan-fa7f4951b7286b6c16ca"
+    },
+    {
+      "name": "B.Taco",
+      "kind": "eat",
+      "locality": "Thimphu",
+      "lat": 27.5024,
+      "lon": 89.6358,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Hejo",
+      "url": "https://www.facebook.com/people/BTacos-Mexican-Fastfood/100092177513332/",
+      "id": "bhutan-250f39945e61357ce4de"
+    },
+    {
+      "name": "Dim Sum Basket",
+      "kind": "eat",
+      "locality": "Thimphu",
+      "lat": 27.4708,
+      "lon": 89.6382,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "2F, Gaa-phel Shopping Center, Chorten Lam",
+      "id": "bhutan-b1e91b09438aad66baeb"
+    },
+    {
+      "name": "Hayate Ramen",
+      "kind": "eat",
+      "locality": "Thimphu",
+      "lat": 27.47459,
+      "lon": 89.63938,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "2F Peljor Lhendrubling Building, Changlam",
+      "id": "bhutan-9d2131f7203f3542bca0"
+    },
+    {
+      "name": "Phang-Guu",
+      "kind": "eat",
+      "locality": "Thimphu",
+      "lat": 27.5121,
+      "lon": 89.6411,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Taba Gom Lam 7, house G1, Taba",
+      "url": "https://www.facebook.com/PhangGuu/",
+      "id": "bhutan-541ecd517ed087181146"
+    },
+    {
+      "name": "Sa-Toh",
+      "kind": "eat",
+      "locality": "Thimphu",
+      "lat": 27.4747,
+      "lon": 89.6395,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "3F. Jattu Commercial Complex, Chang Lam",
+      "id": "bhutan-b7135a0108d2aff9df58"
+    },
+    {
+      "name": "The Seasons Restaurant Pizzeria",
+      "kind": "eat",
+      "locality": "Thimphu",
+      "lat": 27.473071,
+      "lon": 89.637358,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Namsay Shopping Complex, Phenday Lam",
+      "id": "bhutan-81307ced2bd96aac6e49"
+    },
+    {
+      "name": "Vietnamese Cuisine by Yen",
+      "kind": "eat",
+      "locality": "Thimphu",
+      "lat": 27.469272,
+      "lon": 89.64065,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Chang Lam",
+      "url": "https://www.instagram.com/mr_bhutan68/reel/DYY6-GjtXZI/",
+      "id": "bhutan-524716f51ded0e649d70"
+    },
+    {
+      "name": "Yolo Eateries",
+      "kind": "eat",
+      "locality": "Thimphu",
+      "lat": 27.4697,
+      "lon": 89.6392,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Norzin Lam",
+      "url": "https://www.instagram.com/yolo_eateries_bhutan/p/C_vDXZvv_6y/",
+      "id": "bhutan-b10cfff2e03c9cf13c4e"
+    },
+    {
+      "name": "Ambient Cafe",
+      "kind": "eat",
+      "locality": "Thimphu",
+      "lat": 27.4714,
+      "lon": 89.6387,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "1F R. Penjor Building, Norzin Lam",
+      "price": "Nu 100–125 (coffee), Nu 80–100 (cakes)",
+      "url": "https://www.facebook.com/ambientcafe",
+      "id": "bhutan-5011b925fc3923b73cdd"
+    },
+    {
+      "name": "Bingsu",
+      "kind": "eat",
+      "locality": "Thimphu",
+      "lat": 27.452854,
+      "lon": 89.659552,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Kuenphen Rabten Resort, Changjalu",
+      "url": "https://www.instagram.com/bingsupk/?hl=en",
+      "id": "bhutan-8b5c75c195e559ffdd81"
+    },
+    {
+      "name": "Brusnika Russian Cafe",
+      "kind": "eat",
+      "locality": "Thimphu",
+      "lat": 27.491595,
+      "lon": 89.637298,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Lanjopakha",
+      "url": "https://www.facebook.com/brusnikarussianbakery/",
+      "id": "bhutan-9e61b665278a49b58415"
+    },
+    {
+      "name": "Cafe Luna",
+      "kind": "eat",
+      "locality": "Thimphu",
+      "lat": 27.4816,
+      "lon": 89.6316,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Kawajangsa",
+      "url": "https://www.facebook.com/Caf%C3%A9-Luna-720959691625211/",
+      "id": "bhutan-704cb096f2a60420f75c"
+    },
+    {
+      "name": "Daily Delight",
+      "kind": "eat",
+      "locality": "Thimphu",
+      "lat": 27.470791,
+      "lon": 89.638207,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "2F, Gaa-phel Shopping Center, Chorten Lam",
+      "url": "https://www.facebook.com/dailydelightbhutan",
+      "id": "bhutan-660dcfec658d8d1c1c25"
+    },
+    {
+      "name": "Gazom Desserts",
+      "kind": "eat",
+      "locality": "Thimphu",
+      "lat": 27.513411,
+      "lon": 89.638812,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Taba",
+      "url": "https://www.instagram.com/gazom_desserts/",
+      "id": "bhutan-dae287db649652f3ba0a"
+    },
+    {
+      "name": "Little Himalaya Cafe",
+      "kind": "eat",
+      "locality": "Thimphu",
+      "lat": 27.471057,
+      "lon": 89.638114,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Dondrup Lam",
+      "id": "bhutan-9ff4a5c643f8e48623ea"
+    },
+    {
+      "name": "Tower Cafe",
+      "kind": "eat",
+      "locality": "Thimphu",
+      "lat": 27.470733,
+      "lon": 89.639758,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Clock Tower",
+      "url": "https://www.facebook.com/towercafe2016/",
+      "id": "bhutan-ca70fe9ecdd0038e2053"
+    },
+    {
+      "name": "Druken Yeti",
+      "kind": "eat",
+      "locality": "Thimphu",
+      "lat": 27.477724,
+      "lon": 89.63841,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Chubachu",
+      "url": "https://www.facebook.com/drunkenyetibar",
+      "id": "bhutan-31d28dcd4ccb3b8c88f5"
+    },
+    {
+      "name": "Smilers Cafe-Bar",
+      "kind": "eat",
+      "locality": "Thimphu",
+      "lat": 27.471348,
+      "lon": 89.639398,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Wogzin Lam",
+      "url": "https://www.facebook.com/smilerscafebar/",
+      "id": "bhutan-1a499f5baed4eb9593ff"
+    },
+    {
+      "name": "The Grey Area Coffee Lounge Bar",
+      "kind": "eat",
+      "locality": "Thimphu",
+      "lat": 27.471592,
+      "lon": 89.639273,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "1st floor, building 8, Wogzin Lam",
+      "url": "https://www.facebook.com/tertonbhutan/",
+      "id": "bhutan-861bdc7f61199deb777d"
+    },
+    {
+      "name": "Hotel Ghasel",
+      "kind": "stay",
+      "locality": "Thimphu",
+      "lat": 27.470551,
+      "lon": 89.639013,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Norzin Lam",
+      "id": "bhutan-5d148ec46d74ba3bfca8"
+    },
+    {
+      "name": "Hotel Tandin",
+      "kind": "stay",
+      "locality": "Thimphu",
+      "lat": 27.472194,
+      "lon": 89.638516,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "id": "bhutan-d12b60707d12250a0e1c"
+    },
+    {
+      "name": "City Hotel",
+      "kind": "stay",
+      "locality": "Thimphu",
+      "lat": 27.474456,
+      "lon": 89.63991,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Jattu Commercial Complex, Changlam",
+      "url": "http://www.cityhotelthimphu.com/",
+      "id": "bhutan-620edb6677662e3e1b6f"
+    },
+    {
+      "name": "Hotel Ananda",
+      "kind": "stay",
+      "locality": "Thimphu",
+      "lat": 27.473989,
+      "lon": 89.634198,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Doebum Lam",
+      "url": "https://anandabhutan.com/",
+      "id": "bhutan-b97dfa922969c49c12dd"
+    },
+    {
+      "name": "Hotel Druk",
+      "kind": "stay",
+      "locality": "Thimphu",
+      "lat": 27.469996,
+      "lon": 89.640076,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "price": "Standard single Nu 2,000, standard double Nu 2,500",
+      "id": "bhutan-de15dc01c51ed5d257a3"
+    },
+    {
+      "name": "Hotel Motithang",
+      "kind": "stay",
+      "locality": "Thimphu",
+      "lat": 27.474979,
+      "lon": 89.619711,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "id": "bhutan-5f29467a9ab78b4a5ddd"
+    },
+    {
+      "name": "Tara Phendeyling Hotel",
+      "kind": "stay",
+      "locality": "Thimphu",
+      "lat": 27.449916,
+      "lon": 89.657345,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Babesa Highway, Olakha",
+      "url": "http://www.taraphendeyling.com/",
+      "id": "bhutan-7f82372065d3f0dd730c"
+    },
+    {
+      "name": "The Seva Hotel",
+      "kind": "stay",
+      "locality": "Thimphu",
+      "lat": 27.473228,
+      "lon": 89.639517,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Chang Lam",
+      "url": "https://thesevahotelbhutan.com/",
+      "id": "bhutan-180e6c17f7961b3da170"
+    },
+    {
+      "name": "Zhiwa Ling Ascent",
+      "kind": "stay",
+      "locality": "Thimphu",
+      "lat": 27.479335,
+      "lon": 89.616168,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Kawang Dajo, Upper Mothitang,",
+      "url": "http://www.zhiwalingascent.com/",
+      "id": "bhutan-962c04ca46b8eba4dd6c"
+    },
+    {
+      "name": "Amankora Thimphu",
+      "kind": "stay",
+      "locality": "Thimphu",
+      "lat": 27.478697,
+      "lon": 89.611885,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "price": "From US$1,500 per night",
+      "id": "bhutan-89fb4b8b7c865c64989f"
+    },
+    {
+      "name": "Le Meridien",
+      "kind": "stay",
+      "locality": "Thimphu",
+      "lat": 27.47025,
+      "lon": 89.637987,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Chorten Lam",
+      "url": "http://www.lemeridienthimphu.com/",
+      "id": "bhutan-8e2ee52b092b4e481b9e"
+    },
+    {
+      "name": "Pemako",
+      "kind": "stay",
+      "locality": "Thimphu",
+      "lat": 27.476058,
+      "lon": 89.637425,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Samten Lam",
+      "price": "From US$275 off season, or US$350 in peak season",
+      "url": "https://www.pemakohotels.com/thimphu/",
+      "id": "bhutan-a2129ce873743fe8e8b9"
+    },
+    {
+      "name": "Six Senses",
+      "kind": "stay",
+      "locality": "Thimphu",
+      "lat": 27.418181,
+      "lon": 89.66283,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Serbithang",
+      "price": "From US$2,000",
+      "url": "https://www.sixsenses.com/en/resorts/bhutan",
+      "id": "bhutan-a9362db97891cdc623d3"
+    },
+    {
+      "name": "Yarkay",
+      "kind": "stay",
+      "locality": "Thimphu",
+      "lat": 27.46993,
+      "lon": 89.638662,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "address": "Choten Lam",
+      "url": "https://www.facebook.com/yarkayhotelsthimphu/",
+      "id": "bhutan-460868ce0f3de635b9dc"
+    },
+    {
+      "name": "Thimphu",
+      "kind": "area",
+      "locality": "Thimphu",
+      "lat": 27.466667,
+      "lon": 89.641667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Thimphu",
+      "id": "bhutan-9abbba11a7f4a4207d29"
+    },
+    {
+      "name": "Chumbu Monastery",
+      "kind": "do",
+      "locality": "Paro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paro",
+      "url": "http://www.paro.gov.bt/tourism/chumphu-ney",
+      "id": "bhutan-dc12df2f204415f24a97"
+    },
+    {
+      "name": "Drakhapo",
+      "kind": "do",
+      "locality": "Paro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paro",
+      "address": "Above Shaba",
+      "id": "bhutan-8419c112b7deb5e8fc20"
+    },
+    {
+      "name": "Drukgyel Dzong",
+      "kind": "do",
+      "locality": "Paro",
+      "lat": 27.503056,
+      "lon": 89.3225,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paro",
+      "id": "bhutan-88f467d9a3525f8a3c72"
+    },
+    {
+      "name": "Jangsarbu Lhakhang",
+      "kind": "do",
+      "locality": "Paro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paro",
+      "id": "bhutan-1aad090ac055356e7661"
+    },
+    {
+      "name": "Kichu Lhakang",
+      "kind": "do",
+      "locality": "Paro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paro",
+      "id": "bhutan-22bbf92870defa4eeb06"
+    },
+    {
+      "name": "National Museum of Bhutan",
+      "kind": "do",
+      "locality": "Paro",
+      "lat": 27.42873,
+      "lon": 89.42556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paro",
+      "url": "http://www.nationalmuseum.gov.bt/",
+      "id": "bhutan-51873add5e5fde1606c8"
+    },
+    {
+      "name": "Rinpung Dzong",
+      "kind": "do",
+      "locality": "Paro",
+      "lat": 27.426667,
+      "lon": 89.423303,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paro",
+      "id": "bhutan-e3c63676b83f71cb8e16"
+    },
+    {
+      "name": "Taktsang Monastery",
+      "kind": "do",
+      "locality": "Paro",
+      "lat": 27.491911,
+      "lon": 89.363489,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paro",
+      "id": "bhutan-ceb6765c560d216c7378"
+    },
+    {
+      "name": "Watch a game of darts",
+      "kind": "do",
+      "locality": "Paro",
+      "lat": 27.430569,
+      "lon": 89.414702,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paro",
+      "id": "bhutan-7da9092081f5a5e2b69e"
+    },
+    {
+      "name": "Hotel Tandin",
+      "kind": "eat",
+      "locality": "Paro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paro",
+      "id": "bhutan-a4691a86f9113f3c6e5c"
+    },
+    {
+      "name": "Indian Masala",
+      "kind": "eat",
+      "locality": "Paro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paro",
+      "address": "3F. Norbulingka Building, Main Street, Paro Town",
+      "url": "http://www.tenzinlinghotels.com/indian-masala-paro/",
+      "id": "bhutan-9290eac6dbd7413bf975"
+    },
+    {
+      "name": "Sonam Trophel Restaurant",
+      "kind": "eat",
+      "locality": "Paro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paro",
+      "address": "Main Street, above Choden Handicrafts.",
+      "id": "bhutan-54ca4cbdc8966c4cdcba"
+    },
+    {
+      "name": "Brioche Café",
+      "kind": "eat",
+      "locality": "Paro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paro",
+      "address": "Main Street",
+      "url": "https://www.facebook.com/BriocheCafe/",
+      "id": "bhutan-e3c171865c969b005d93"
+    },
+    {
+      "name": "Hotel Holiday Inn",
+      "kind": "stay",
+      "locality": "Paro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paro",
+      "id": "bhutan-9c3f1779653d0fefc978"
+    },
+    {
+      "name": "Aman Resort",
+      "kind": "stay",
+      "locality": "Paro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paro",
+      "url": "http://www.amanusa.com/kora/print.htm",
+      "id": "bhutan-bee4e3f12b62f4aaba87"
+    },
+    {
+      "name": "Como Paro Hotel",
+      "kind": "stay",
+      "locality": "Paro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paro",
+      "url": "http://www.comohotels.com/umaparo",
+      "id": "bhutan-3e44082845ff80d5b2dd"
+    },
+    {
+      "name": "Nak Sel Hotel and Spa",
+      "kind": "stay",
+      "locality": "Paro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paro",
+      "url": "http://www.naksel.com/",
+      "id": "bhutan-bfefff8d180e3362f529"
+    },
+    {
+      "name": "Zhiwa Ling Hotel",
+      "kind": "stay",
+      "locality": "Paro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paro",
+      "address": "Satsam Chorten",
+      "url": "https://www.zhiwaling.com/",
+      "id": "bhutan-b9ee536896fe5a20d83f"
+    },
+    {
+      "name": "Paro",
+      "kind": "area",
+      "locality": "Paro",
+      "lat": 27.4333,
+      "lon": 89.4167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paro",
+      "id": "bhutan-b79dac331cea57164163"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 3 distinct public Wikivoyage source pages; attempted 3 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Destination article routing (regional/landmark guides may use a nearby gateway): Tiger’s Nest → Paro."
+}

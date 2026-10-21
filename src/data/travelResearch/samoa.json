@@ -1,0 +1,402 @@
+{
+  "sources": [
+    {
+      "title": "Samoa",
+      "url": "https://en.wikivoyage.org/wiki/Samoa",
+      "checkedAt": "2026-10-21T08:12:02.218Z"
+    },
+    {
+      "title": "Apia",
+      "url": "https://en.wikivoyage.org/wiki/Apia",
+      "checkedAt": "2026-10-21T08:12:05.200Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Apia",
+      "kind": "area",
+      "locality": "Samoa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Samoa",
+      "id": "samoa-3eb2d34b3cb3147f1310"
+    },
+    {
+      "name": "Robert Louis Stevenson Museum",
+      "kind": "do",
+      "locality": "Apia",
+      "lat": -13.865,
+      "lon": -171.7618,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "address": "Cross Island Rd, Valima",
+      "price": "$15",
+      "url": "https://stevensonmuseum.org/",
+      "id": "samoa-c791b378d502f72d29b5"
+    },
+    {
+      "name": "Robert Louis Stevenson's grave",
+      "kind": "do",
+      "locality": "Apia",
+      "lat": -13.861,
+      "lon": -171.782,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "id": "samoa-456b1aa508234bec7040"
+    },
+    {
+      "name": "Falemata'aga - Museum of Samoa",
+      "kind": "do",
+      "locality": "Apia",
+      "lat": -13.8397,
+      "lon": -171.7629,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "url": "https://www.facebook.com/The-Museum-of-Samoa-460537094030463/",
+      "id": "samoa-fc409aedc0b157cd3438"
+    },
+    {
+      "name": "The fish market",
+      "kind": "do",
+      "locality": "Apia",
+      "lat": -13.82948,
+      "lon": -171.76994,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "id": "samoa-62568328e27d8bd828c9"
+    },
+    {
+      "name": "Mulinu'u peninsula",
+      "kind": "do",
+      "locality": "Apia",
+      "lat": -13.816667,
+      "lon": -171.783333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "id": "samoa-caeeecbc8f134188f249"
+    },
+    {
+      "name": "Clock tower",
+      "kind": "do",
+      "locality": "Apia",
+      "lat": -13.83045,
+      "lon": -171.76854,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "id": "samoa-7287b555b6efba6550c3"
+    },
+    {
+      "name": "Immaculate Conception Cathedral",
+      "kind": "do",
+      "locality": "Apia",
+      "lat": -13.8321,
+      "lon": -171.7664,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "id": "samoa-83acb099be64fb2adb49"
+    },
+    {
+      "name": "Apia Samoa Temple",
+      "kind": "do",
+      "locality": "Apia",
+      "lat": -13.8381,
+      "lon": -171.783,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "url": "https://www.churchofjesuschrist.org/temples/details/apia-samoa-temple?lang=eng",
+      "id": "samoa-a01bf9beb714ee74f5b5"
+    },
+    {
+      "name": "Palolo Deep Marine Reserve",
+      "kind": "do",
+      "locality": "Apia",
+      "lat": -13.8252,
+      "lon": -171.7575,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "address": "Vaiala Beach, Apia",
+      "price": "WST5",
+      "id": "samoa-6dd6c9561305301a95ca"
+    },
+    {
+      "name": "Apia Park",
+      "kind": "do",
+      "locality": "Apia",
+      "lat": -13.836205,
+      "lon": -171.752014,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "id": "samoa-f487191ac7a32dc8cb05"
+    },
+    {
+      "name": "Amanis Restaurant",
+      "kind": "eat",
+      "locality": "Apia",
+      "lat": -13.83539,
+      "lon": -171.77369,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "address": "Fugalei St",
+      "price": "$4-20",
+      "id": "samoa-eacbb5d65deed9fe0491"
+    },
+    {
+      "name": "Burger Bills",
+      "kind": "eat",
+      "locality": "Apia",
+      "lat": -13.83473,
+      "lon": -171.77282,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "address": "Vaitele St, Vaitele",
+      "url": "https://www.facebook.com/pages/Burger-Bills/356501147720243",
+      "id": "samoa-28f678dcb788453be934"
+    },
+    {
+      "name": "The Curry House Restaurant",
+      "kind": "eat",
+      "locality": "Apia",
+      "lat": -13.86045,
+      "lon": -171.76166,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "address": "Cross Island Rd, Papaloloa",
+      "id": "samoa-25cb7befb8e39f9d5a7d"
+    },
+    {
+      "name": "Kokobanana Bar & Grill",
+      "kind": "eat",
+      "locality": "Apia",
+      "lat": -13.84453,
+      "lon": -171.76082,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "address": "Cross Island Road",
+      "url": "https://www.facebook.com/kokobanana.bar.grill/",
+      "id": "samoa-8b594dcc772f51e7d653"
+    },
+    {
+      "name": "Italiano Cafe",
+      "kind": "eat",
+      "locality": "Apia",
+      "lat": -13.8327,
+      "lon": -171.76497,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "id": "samoa-899e14c5982adc10cf56"
+    },
+    {
+      "name": "Marketi Fou",
+      "kind": "eat",
+      "locality": "Apia",
+      "lat": -13.83415,
+      "lon": -171.77199,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "address": "Saleufi Street",
+      "id": "samoa-c721054fae4eca906ff7"
+    },
+    {
+      "name": "Sails Restaurant",
+      "kind": "eat",
+      "locality": "Apia",
+      "lat": -13.81548,
+      "lon": -171.77903,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "address": "Beach Road, Mulinu'u Apia",
+      "price": "$8-45",
+      "url": "https://www.facebook.com/sailssamoa/",
+      "id": "samoa-cf12ac07782324490a3e"
+    },
+    {
+      "name": "Seafood Gourmet",
+      "kind": "eat",
+      "locality": "Apia",
+      "lat": -13.828189,
+      "lon": -171.758596,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "address": "Beach Rd",
+      "url": "https://www.facebook.com/SeafoodGourmetSamoa/",
+      "id": "samoa-4095ccebc11a41253c54"
+    },
+    {
+      "name": "Hotel Amanaki",
+      "kind": "eat",
+      "locality": "Apia",
+      "lat": -13.82547,
+      "lon": -171.77372,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "id": "samoa-adfbf25f343bbc8d625e"
+    },
+    {
+      "name": "Paddles",
+      "kind": "eat",
+      "locality": "Apia",
+      "lat": -13.829811,
+      "lon": -171.759382,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "address": "Beach Rd",
+      "id": "samoa-d6cb4ce23dbaa71b27e0"
+    },
+    {
+      "name": "Bistro Tatau",
+      "kind": "eat",
+      "locality": "Apia",
+      "lat": -13.82965,
+      "lon": -171.77163,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "address": "Beach Road, corner of Fugalei St",
+      "url": "https://www.tataubistro.ws/",
+      "id": "samoa-7dbacf25f69404507b6c"
+    },
+    {
+      "name": "Apaula Heights Lounge",
+      "kind": "eat",
+      "locality": "Apia",
+      "lat": -13.8645,
+      "lon": -171.7705,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "address": "Mt Vaea",
+      "url": "https://www.facebook.com/apaulaheightslounge/",
+      "id": "samoa-16c48876d7db8016c591"
+    },
+    {
+      "name": "Giordano's",
+      "kind": "eat",
+      "locality": "Apia",
+      "lat": -13.84759,
+      "lon": -171.76006,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "address": "Falealili St",
+      "url": "https://www.facebook.com/Giordanos-Pizzeria-Garden-Restaurant-Samoa-119950004793523/",
+      "id": "samoa-2042754d5fcbc4ac23ac"
+    },
+    {
+      "name": "Le Well",
+      "kind": "eat",
+      "locality": "Apia",
+      "lat": -13.83072,
+      "lon": -171.77249,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "address": "Fugalei St",
+      "id": "samoa-22e5b10274f4cb858173"
+    },
+    {
+      "name": "Cocktails On the Rocks",
+      "kind": "eat",
+      "locality": "Apia",
+      "lat": -13.83279,
+      "lon": -171.76474,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "address": "Beach Road",
+      "id": "samoa-39188c2243bd9ad89e11"
+    },
+    {
+      "name": "RSA Club",
+      "kind": "eat",
+      "locality": "Apia",
+      "lat": -13.83013,
+      "lon": -171.76957,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "address": "Mulinu'u Road",
+      "id": "samoa-5da539d7067cb51861d6"
+    },
+    {
+      "name": "The Edge Marina View",
+      "kind": "eat",
+      "locality": "Apia",
+      "lat": -13.82722,
+      "lon": -171.75897,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "address": "Beach Rd",
+      "url": "https://www.theedgemarina.com/",
+      "id": "samoa-b247e179cbbd7a5ed7eb"
+    },
+    {
+      "name": "Samoan Outrigger Hotel",
+      "kind": "stay",
+      "locality": "Apia",
+      "lat": -13.84454,
+      "lon": -171.75994,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "address": "Savalalo Rd",
+      "price": "$80 for a fale, $150 for single rooms, $200 for an ensuite single with air conditioning",
+      "url": "https://m.facebook.com/pages/category/Hotel/The-Samoan-Outrigger-Hotel-Samoa-129676130398486/",
+      "id": "samoa-69be12c6deabed5b93b9"
+    },
+    {
+      "name": "Eden's Edge",
+      "kind": "stay",
+      "locality": "Apia",
+      "lat": -13.83667,
+      "lon": -171.76775,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "address": "Togafuafua",
+      "url": "https://www.facebook.com/edensedgesamoa/",
+      "id": "samoa-e18aa930d0489800627a"
+    },
+    {
+      "name": "Leric Housing Motel",
+      "kind": "stay",
+      "locality": "Apia",
+      "lat": -13.8299,
+      "lon": -171.8102,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "address": "Ifilele St",
+      "url": "https://www.facebook.com/LeRicHousing/",
+      "id": "samoa-8667da694fcc9baaed52"
+    },
+    {
+      "name": "Lynn's Getaway",
+      "kind": "stay",
+      "locality": "Apia",
+      "lat": -13.84703,
+      "lon": -171.76219,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "address": "Salenesa Rd, Motootua",
+      "price": "rates from $130 (room with shared facilities, one person)",
+      "url": "https://lynnsgetawaysamoa.com/",
+      "id": "samoa-babe249d8564f555d250"
+    },
+    {
+      "name": "Hotel Elisa",
+      "kind": "stay",
+      "locality": "Apia",
+      "lat": -13.82597,
+      "lon": -171.77339,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "address": "Beach Road",
+      "price": "From $250 but there are also 14 budget rooms",
+      "url": "http://www.hotelelisa.ws/",
+      "id": "samoa-a39a90a3caf1b1a699ee"
+    },
+    {
+      "name": "Hotel Millenia Samoa",
+      "kind": "stay",
+      "locality": "Apia",
+      "lat": -13.82439,
+      "lon": -171.77385,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "address": "on Mulinu'u Peninsula NW of town centre",
+      "price": "Room rate is single / double and extra person WS$50. Children under 2 years are free",
+      "url": "http://www.hotelmilleniasamoa.com/",
+      "id": "samoa-36f447c5379b40bda93b"
+    },
+    {
+      "name": "Hotel Tanoa Tusitala",
+      "kind": "stay",
+      "locality": "Apia",
+      "lat": -13.82792,
+      "lon": -171.77335,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "address": "Beach Road",
+      "url": "https://www.tanoahotels.com/tanoa-tusitala-hotel/",
+      "id": "samoa-3f028e4167c29d05a68f"
+    },
+    {
+      "name": "Le Alaimoana Hotel",
+      "kind": "stay",
+      "locality": "Apia",
+      "lat": -13.8337,
+      "lon": -171.7532,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "address": "Main East Coast Rd",
+      "price": "standard rooms from $195",
+      "url": "http://www.alaimoana.ws/",
+      "id": "samoa-f57560607f96056f5eeb"
+    },
+    {
+      "name": "Apia",
+      "kind": "area",
+      "locality": "Apia",
+      "lat": -13.833333,
+      "lon": -171.75,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Apia",
+      "id": "samoa-de85e1ccee0a714198be"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

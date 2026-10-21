@@ -1,0 +1,3351 @@
+{
+  "sources": [
+    {
+      "title": "Brazil",
+      "url": "https://en.wikivoyage.org/wiki/Brazil",
+      "checkedAt": "2026-10-21T08:06:54.136Z"
+    },
+    {
+      "title": "Brasilia",
+      "url": "https://en.wikivoyage.org/wiki/Brasilia",
+      "checkedAt": "2026-10-21T08:06:59.539Z"
+    },
+    {
+      "title": "Rio de Janeiro",
+      "url": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro",
+      "checkedAt": "2026-10-21T08:07:02.354Z"
+    },
+    {
+      "title": "Rio de Janeiro/Zona Sul",
+      "url": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "checkedAt": "2026-10-21T08:07:05.531Z"
+    },
+    {
+      "title": "Rio de Janeiro/Centro",
+      "url": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "checkedAt": "2026-10-21T08:07:08.253Z"
+    },
+    {
+      "title": "Rio de Janeiro/Zona Norte",
+      "url": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "checkedAt": "2026-10-21T08:07:11.252Z"
+    },
+    {
+      "title": "Rio de Janeiro/Zona Oeste",
+      "url": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Oeste",
+      "checkedAt": "2026-10-21T08:07:14.406Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Brasília",
+      "kind": "area",
+      "locality": "Brazil",
+      "lat": -15.793889,
+      "lon": -47.882778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazil",
+      "id": "brazil-31d2a8638c6d0819425f"
+    },
+    {
+      "name": "Florianópolis",
+      "kind": "area",
+      "locality": "Brazil",
+      "lat": -27.5717,
+      "lon": -48.6256,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazil",
+      "id": "brazil-8a869cead88ffac73a31"
+    },
+    {
+      "name": "Fortaleza",
+      "kind": "area",
+      "locality": "Brazil",
+      "lat": -3.718333,
+      "lon": -38.542778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazil",
+      "id": "brazil-d445d4353832cfb47e3e"
+    },
+    {
+      "name": "Manaus",
+      "kind": "area",
+      "locality": "Brazil",
+      "lat": -3.1,
+      "lon": -60.016667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazil",
+      "id": "brazil-83b1a45d8dbfca942150"
+    },
+    {
+      "name": "Porto Alegre",
+      "kind": "area",
+      "locality": "Brazil",
+      "lat": -30.033056,
+      "lon": -51.23,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazil",
+      "id": "brazil-04284f200936a58ac97c"
+    },
+    {
+      "name": "Recife",
+      "kind": "area",
+      "locality": "Brazil",
+      "lat": -8.05,
+      "lon": -34.9,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazil",
+      "id": "brazil-2172191e3c6dbdf3a59d"
+    },
+    {
+      "name": "Rio de Janeiro",
+      "kind": "area",
+      "locality": "Brazil",
+      "lat": -22.908333,
+      "lon": -43.196389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazil",
+      "id": "brazil-53cce3b7f588bad28e7b"
+    },
+    {
+      "name": "Salvador",
+      "kind": "area",
+      "locality": "Brazil",
+      "lat": -12.974722,
+      "lon": -38.476667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazil",
+      "id": "brazil-4c36cdf3f7e82e3f7b7e"
+    },
+    {
+      "name": "São Paulo",
+      "kind": "area",
+      "locality": "Brazil",
+      "lat": -23.55,
+      "lon": -46.633333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazil",
+      "id": "brazil-efe8d0cbbc3b048230ca"
+    },
+    {
+      "name": "Farofa",
+      "kind": "eat",
+      "locality": "Brazil",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazil",
+      "id": "brazil-fee45eab5505a1a1dbe2"
+    },
+    {
+      "name": "Feijão verde",
+      "kind": "eat",
+      "locality": "Brazil",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazil",
+      "id": "brazil-13ef458330b573016887"
+    },
+    {
+      "name": "Paçoca",
+      "kind": "eat",
+      "locality": "Brazil",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazil",
+      "id": "brazil-cd82242dd989d1087097"
+    },
+    {
+      "name": "Pastel",
+      "kind": "eat",
+      "locality": "Brazil",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazil",
+      "id": "brazil-6b0849c5300c78ca8cfb"
+    },
+    {
+      "name": "Tapioca",
+      "kind": "eat",
+      "locality": "Brazil",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazil",
+      "id": "brazil-a933f20ad677a69d437c"
+    },
+    {
+      "name": "Brigadeiro",
+      "kind": "eat",
+      "locality": "Brazil",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazil",
+      "id": "brazil-b0e6f2acd83ccb9cb525"
+    },
+    {
+      "name": "Three Powers Square",
+      "kind": "do",
+      "locality": "Brasilia",
+      "lat": -15.80075,
+      "lon": -47.861316,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "id": "brazil-657c4fca9f50a7e21e6a"
+    },
+    {
+      "name": "Congresso Nacional",
+      "kind": "do",
+      "locality": "Brasilia",
+      "lat": -15.79942,
+      "lon": -47.86438,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "Palácio do Congresso Nacional - Praça dos Três Poderes",
+      "url": "http://www2.camara.leg.br/",
+      "id": "brazil-b368e10a6609b3a8d51d"
+    },
+    {
+      "name": "Itamaraty Palace",
+      "kind": "do",
+      "locality": "Brasilia",
+      "lat": -15.801,
+      "lon": -47.867,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "url": "http://www.mre.gov.br/",
+      "id": "brazil-791fe864951eba081801"
+    },
+    {
+      "name": "Brasilia Cathedral",
+      "kind": "do",
+      "locality": "Brasilia",
+      "lat": -15.798333,
+      "lon": -47.875556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "url": "http://catedral.org.br/",
+      "id": "brazil-ec2ca77e3c855b2be7e3"
+    },
+    {
+      "name": "Brasilia National Museum",
+      "kind": "do",
+      "locality": "Brasilia",
+      "lat": -15.797076,
+      "lon": -47.87815,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "id": "brazil-75a96950a5e490295bc5"
+    },
+    {
+      "name": "Television Tower",
+      "kind": "do",
+      "locality": "Brasilia",
+      "lat": -15.790536,
+      "lon": -47.892975,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "price": "Free",
+      "id": "brazil-252985a5aad49587404a"
+    },
+    {
+      "name": "Juscelino Kubitschek Memorial",
+      "kind": "do",
+      "locality": "Brasilia",
+      "lat": -15.784358,
+      "lon": -47.913081,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "id": "brazil-44e88222bd510767a7ac"
+    },
+    {
+      "name": "Palácio da Alvorada",
+      "kind": "do",
+      "locality": "Brasilia",
+      "lat": -15.792772,
+      "lon": -47.822175,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "url": "http://www2.planalto.gov.br/conheca-a-presidencia/palacios-e-residencias/palacio-da-alvorada",
+      "id": "brazil-913a75c3fe0f3192eecb"
+    },
+    {
+      "name": "Espaço Cultural Contemporâneo (ECCO)",
+      "kind": "do",
+      "locality": "Brasilia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "url": "https://www.facebook.com/eccobrasilia/",
+      "id": "brazil-353c6398e6f47da27eb3"
+    },
+    {
+      "name": "CAIXA Cultural",
+      "kind": "do",
+      "locality": "Brasilia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "url": "http://www.caixacultural.com.br/",
+      "id": "brazil-e10cb8bab94b39991b7b"
+    },
+    {
+      "name": "Monetary Museum",
+      "kind": "do",
+      "locality": "Brasilia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "SBS Quadra 3 Bloco B.",
+      "price": "Free",
+      "id": "brazil-61175c257301b4ceb79b"
+    },
+    {
+      "name": "National Theater Claudio Santoro",
+      "kind": "do",
+      "locality": "Brasilia",
+      "lat": -15.7922,
+      "lon": -47.8802,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "id": "brazil-447fd385fb67fa2211f2"
+    },
+    {
+      "name": "Palácio do Planalto",
+      "kind": "do",
+      "locality": "Brasilia",
+      "lat": -15.798999,
+      "lon": -47.860834,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "url": "http://www.planalto.gov.br/",
+      "id": "brazil-fca102422af33ad49fad"
+    },
+    {
+      "name": "Supreme Federal Court Palace",
+      "kind": "do",
+      "locality": "Brasilia",
+      "lat": -15.802222,
+      "lon": -47.861944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "id": "brazil-38c852b2a949a44b77df"
+    },
+    {
+      "name": "Dom Bosco Church",
+      "kind": "do",
+      "locality": "Brasilia",
+      "lat": -15.800556,
+      "lon": -47.894722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "Av. W3 sul, quadra 702",
+      "id": "brazil-f3ca8f8522ce49faf302"
+    },
+    {
+      "name": "Little Church",
+      "kind": "do",
+      "locality": "Brasilia",
+      "lat": -15.813978,
+      "lon": -47.903742,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "EQS 307/308",
+      "id": "brazil-0e48503d93974a88e3e5"
+    },
+    {
+      "name": "Universidade de Brasília",
+      "kind": "do",
+      "locality": "Brasilia",
+      "lat": -15.761264,
+      "lon": -47.866471,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "big campus in North Wing",
+      "url": "http://www.unb.br/",
+      "id": "brazil-6f27bba11e9006b233d8"
+    },
+    {
+      "name": "Espaço Cultural Renato Russo",
+      "kind": "do",
+      "locality": "Brasilia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "id": "brazil-dfda3bd5ff1f7db3b61a"
+    },
+    {
+      "name": "Parque Olhos D'Água",
+      "kind": "do",
+      "locality": "Brasilia",
+      "lat": -15.743813,
+      "lon": -47.884526,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "id": "brazil-cb5039df672fe188186a"
+    },
+    {
+      "name": "Paranoá Lake",
+      "kind": "do",
+      "locality": "Brasilia",
+      "lat": -15.780556,
+      "lon": -47.8225,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "id": "brazil-db4741c08feb7465b4c7"
+    },
+    {
+      "name": "City Park",
+      "kind": "do",
+      "locality": "Brasilia",
+      "lat": -15.800343,
+      "lon": -47.9078,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "South Wing",
+      "id": "brazil-2ebfb3574a0e5f041090"
+    },
+    {
+      "name": "TV Digital Tower",
+      "kind": "do",
+      "locality": "Brasilia",
+      "lat": -15.699269,
+      "lon": -47.829569,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "Colorado neighborhood",
+      "id": "brazil-0fd84f7a3d67ef356c7e"
+    },
+    {
+      "name": "Ermida Dom Bosco",
+      "kind": "do",
+      "locality": "Brasilia",
+      "lat": -15.798345,
+      "lon": -47.80952,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "price": "Free entry",
+      "id": "brazil-e8521eb67ebff94af2c0"
+    },
+    {
+      "name": "Japanese Festival",
+      "kind": "do",
+      "locality": "Brasilia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "Honpa Hongwanji Temple, EQS 315/316",
+      "price": "Free",
+      "id": "brazil-3a40e05eff1eaa0d25ce"
+    },
+    {
+      "name": "Porão do Rock",
+      "kind": "do",
+      "locality": "Brasilia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "id": "brazil-fc55fbc3f977a3a2af25"
+    },
+    {
+      "name": "Chapada Imperial",
+      "kind": "do",
+      "locality": "Brasilia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "url": "http://www.chapadaimperial.com.br/",
+      "id": "brazil-ed7696b2bdb5ee722607"
+    },
+    {
+      "name": "Golf",
+      "kind": "do",
+      "locality": "Brasilia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "url": "http://www.golfebrasilia.com.br/",
+      "id": "brazil-5ad8e83b807a85325fca"
+    },
+    {
+      "name": "Giraffas",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "id": "brazil-6b75b42f71015e0d35e8"
+    },
+    {
+      "name": "Pizzaria Dom Bosco",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "id": "brazil-9194f61185051a06f274"
+    },
+    {
+      "name": "Pizzaria Dom Bosco South Wing",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "lat": -15.8150442,
+      "lon": -47.9028472,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "CLS 107 Bloco D Loja 20",
+      "id": "brazil-0acba023f258e8adf9b3"
+    },
+    {
+      "name": "Pizzaria Dom Bosco North Wing",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "lat": -15.7687199,
+      "lon": -47.8872297,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "CLN 306 Bloco C Loja 46",
+      "id": "brazil-d2bfda5fb3563cbc1608"
+    },
+    {
+      "name": "Pizzaria Dom Bosco St. Sudoeste",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "lat": -15.8005999,
+      "lon": -47.9252379,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "CLSW 303 Bloco A Loja 18",
+      "id": "brazil-39cecd51322a0be856f1"
+    },
+    {
+      "name": "Fourt Court of Conjunto Nacional Mall",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "lat": -15.7914741,
+      "lon": -47.8827259,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "id": "brazil-bd8b511834a467b4db45"
+    },
+    {
+      "name": "Churrasquinho do Galego",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "lat": -15.7892841,
+      "lon": -47.8883294,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "Quadra 3 Atrás Hotel Monumental Bitar",
+      "id": "brazil-93c57467e5f4ceb288b1"
+    },
+    {
+      "name": "Mini Kalzone",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "lat": -15.7923104,
+      "lon": -47.8834733,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "Setor de Diversões Norte Loja 2028",
+      "id": "brazil-f0cd8125ac80672ca971"
+    },
+    {
+      "name": "Brasileirinho Restaurante",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "lat": -15.7975393,
+      "lon": -47.8874151,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "SCS Q. 3 Bloco A Loja 77",
+      "id": "brazil-76a8aa518a18918f17b9"
+    },
+    {
+      "name": "Lanches Embaixador",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "lat": -15.7981449,
+      "lon": -47.888427,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "Bloco A Loja 61 Quadra 04 - Ed. Embaixador, SCS Q. 4",
+      "id": "brazil-a1177005889db99e669a"
+    },
+    {
+      "name": "Churrasquinho Express",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "lat": -15.7977984,
+      "lon": -47.8901898,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "18/19 - Asa Sul",
+      "id": "brazil-3b04e5eaa4caf2bdb475"
+    },
+    {
+      "name": "Palmier Lanchonete",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "lat": -15.7973303,
+      "lon": -47.8904279,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "Quadra 06 - Bloco A - Lojas 43/45 - Ed. José Severo, SHCS",
+      "id": "brazil-f133b5bd70bd784405b1"
+    },
+    {
+      "name": "Qui Lanche",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "lat": -15.804506,
+      "lon": -47.885265,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "id": "brazil-6457a62b5ca9d008f169"
+    },
+    {
+      "name": "Cangaia Restaurante",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "lat": -15.7982655,
+      "lon": -47.8933746,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "Conjunto E - Bloco 2 - Loja 04, SHCS",
+      "id": "brazil-e8058413b5509e7efe8b"
+    },
+    {
+      "name": "Restaurante Made in Brasil",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "lat": -15.7983584,
+      "lon": -47.8931396,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "Condomínio Edifício Palácio do Rádio II - SRTVS Qd 701 Ed",
+      "id": "brazil-5c9f8347c6db9fb7560a"
+    },
+    {
+      "name": "Restaurante Tempero De Casa",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "lat": -15.8069529,
+      "lon": -47.8987726,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "24-42, SHCS CRS 505",
+      "id": "brazil-d8b3dfb608633c541c2d"
+    },
+    {
+      "name": "Valdo's Bar e Restaurante",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "lat": -15.8208258,
+      "lon": -47.9176242,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "Asa Sul CRS 512 LOJA 61",
+      "id": "brazil-7730352515721eaeb732"
+    },
+    {
+      "name": "Bar e Restaurante Velha Guarda",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "lat": -15.7809883,
+      "lon": -47.8851647,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "Bloco B - Loja 53, CLN 302 - Asa Norte",
+      "id": "brazil-2f5ac289db18652fedc8"
+    },
+    {
+      "name": "Restaurante Di Minas",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "lat": -15.7711082,
+      "lon": -47.883362,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "SHCN 105 28 - Asa Norte",
+      "id": "brazil-f0f44615e8b8eb23512e"
+    },
+    {
+      "name": "A Casa do Louro",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "lat": -15.7634912,
+      "lon": -47.8923269,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "St. de Habitações Coletivas e Geminadas Norte Comércio Residencial Norte 708/709 Condomínio da Scrn 708/709 Bl e Porjecao 08 Entrad loja 45",
+      "id": "brazil-aeff5d8af773eecd3c3e"
+    },
+    {
+      "name": "Salada Lanches",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "lat": -15.7576663,
+      "lon": -47.8930699,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "Condomínio do Bl B da Sclrn Qd 716 - 710 blco H",
+      "id": "brazil-ba95dad91f99cb9fdfd9"
+    },
+    {
+      "name": "Restaurante Manjericão",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "lat": -15.7567312,
+      "lon": -47.891709,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "Asa Norte Comércio Local Norte 310 Bloco E",
+      "id": "brazil-e9b1a486d3cebe3ed802"
+    },
+    {
+      "name": "Restaurante Manjericão",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "lat": -15.7565727,
+      "lon": -47.8912336,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "Asa Norte Comércio Local Norte 310 Bloco E",
+      "id": "brazil-d637969a569f51dee6e2"
+    },
+    {
+      "name": "Wok By China Station",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "lat": -15.7972206,
+      "lon": -47.9186518,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "Lojas 10/11 - Cruzeiro / Sudoeste / Octogonal",
+      "id": "brazil-28fbcb60cfb6b823ca9d"
+    },
+    {
+      "name": "Oficina Restaurante e Lanchonete",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "lat": -15.7879656,
+      "lon": -47.9182927,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "Qmsw 2 Conjunto C Lote 21, Loja1 E 2",
+      "id": "brazil-1d28786691cd03559c5f"
+    },
+    {
+      "name": "Restaurante Sabor do Nordeste",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "lat": -15.7870345,
+      "lon": -47.91685,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "Quadra 2 Bloco D Lote 32",
+      "id": "brazil-e3f3f4f0bb920d1487e1"
+    },
+    {
+      "name": "Green's Restaurante Natural",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "lat": -15.7808905,
+      "lon": -47.8850253,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "Asa Norte Comércio Local Norte 302 Quadra 302, BL B",
+      "id": "brazil-e1b810269a911093c8bc"
+    },
+    {
+      "name": "Don'Durica 201 Norte",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "lat": -15.7837727,
+      "lon": -47.8786775,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "Asa Norte CLN 201",
+      "url": "http://www.dondurica.com.br/restaurante201.php",
+      "id": "brazil-a45b04869a076190af11"
+    },
+    {
+      "name": "Bardana",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "lat": -15.813674,
+      "lon": -47.890637,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "SCLS 405 bloco A",
+      "url": "https://www.bardanarestaurante.com.br/",
+      "id": "brazil-11d9e9e24820950b1605"
+    },
+    {
+      "name": "El Paso Cocina Mexicana",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "lat": -15.8141645,
+      "lon": -47.8899666,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "SCLS 404 - Bloco C , lj 19",
+      "url": "https://elpaso.com.br/",
+      "id": "brazil-cefb998f052ac53177bb"
+    },
+    {
+      "name": "Fogo de Chão",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "url": "http://www.fogodechao.com.br/",
+      "id": "brazil-090dda4219fb757263cd"
+    },
+    {
+      "name": "Patu Anu",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "Setor de Mansões do Lago Norte - ML trecho 12, Conjunto 1, casa 07.",
+      "url": "http://www.patuanu.com.br/",
+      "id": "brazil-d1a5f68cf3c54a2b0ef2"
+    },
+    {
+      "name": "Villa Tevere",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "CLS 115 Bl. A",
+      "url": "http://www.villatevere.com.br/",
+      "id": "brazil-fd25211f00d8dbdd2397"
+    },
+    {
+      "name": "Outro Calaf",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "SBS Quadra 02 Edifício Empire Center - Asa Sul",
+      "url": "https://www.outrocalaf.com/",
+      "id": "brazil-e2b825353962e2918eff"
+    },
+    {
+      "name": "Clube do Choro",
+      "kind": "eat",
+      "locality": "Brasilia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "url": "http://www.clubedochoro.com.br/",
+      "id": "brazil-4d89e1d579d7320f1ca6"
+    },
+    {
+      "name": "Like U Hotel",
+      "kind": "stay",
+      "locality": "Brasilia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "SHS Qd. 04 Bloco F.",
+      "url": "https://www.likeuhotel.com.br/",
+      "id": "brazil-95551cb35444ba00f33d"
+    },
+    {
+      "name": "Hotel Royal Tulip Brasília Alvorada",
+      "kind": "stay",
+      "locality": "Brasilia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "SHTN Trecho 1 Conjunto 1B Bloco C - Asa Norte",
+      "url": "https://royal-tulip-brasilia-alvorada.goldentulip.com/en-us/",
+      "id": "brazil-47f712af2e6e28b2ea2f"
+    },
+    {
+      "name": "Meliá Brasil 21",
+      "kind": "stay",
+      "locality": "Brasilia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "SHS, Quadra 6 - Conjunto A - Lote 1 - Bloco D",
+      "price": "R$437",
+      "url": "https://www.melia.com/pt/hoteis/brasil/brasilia/melia-brasil-21/index.htm",
+      "id": "brazil-3542144683ad4c746e68"
+    },
+    {
+      "name": "Lets Idea Brasília Hotel",
+      "kind": "stay",
+      "locality": "Brasilia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "SHN Quadra 5 – Bloco B",
+      "url": "https://www.letshotels.com.br/",
+      "id": "brazil-fefba777ebae9b224945"
+    },
+    {
+      "name": "Brasilia Palace Hotel",
+      "kind": "stay",
+      "locality": "Brasilia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "address": "SHTN Trecho 01 Conjunto 01,- Asa Norte",
+      "url": "https://www.plazabrasilia.com.br/brasiliapalace",
+      "id": "brazil-2236a35718019c36eb04"
+    },
+    {
+      "name": "Brasilia",
+      "kind": "area",
+      "locality": "Brasilia",
+      "lat": -15.844,
+      "lon": -47.8353,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brasilia",
+      "id": "brazil-389f4322380b3ce86f5f"
+    },
+    {
+      "name": "Mangueira",
+      "kind": "do",
+      "locality": "Rio de Janeiro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro",
+      "address": "Rua Visconde de Niterói, 1072, Mangueira",
+      "url": "http://www.mangueira.com.br/",
+      "id": "brazil-05e7b786f01cd35428f0"
+    },
+    {
+      "name": "Salgueiro",
+      "kind": "do",
+      "locality": "Rio de Janeiro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro",
+      "address": "Rua Silva Teles, 104, Andaraí",
+      "url": "http://www.salgueiro.com.br/",
+      "id": "brazil-e6338095d95cd7a5c703"
+    },
+    {
+      "name": "Acadêmicos da Rocinha",
+      "kind": "do",
+      "locality": "Rio de Janeiro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro",
+      "url": "https://www.facebook.com/gresrocinha/",
+      "id": "brazil-03ed2698fb50ef3cb194"
+    },
+    {
+      "name": "Rio de Janeiro",
+      "kind": "area",
+      "locality": "Rio de Janeiro",
+      "lat": -22.9094,
+      "lon": -43.455,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro",
+      "id": "brazil-7895962b096e9b361561"
+    },
+    {
+      "name": "Sugar Loaf Mountain",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.9496,
+      "lon": -43.1566,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Av. Pasteur 520, Urca",
+      "price": "R$99 (online), R$110 (box office)",
+      "url": "http://www.bondinho.com.br/",
+      "id": "brazil-7cb4774f2d40322ed9ae"
+    },
+    {
+      "name": "Christ the Redeemer Statue (Corcovado peak)",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.952272,
+      "lon": -43.210583,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "price": "R$58 adults, R$32 children/students/seniors (included in price of some transportation)",
+      "url": "https://parquenacionaldatijuca.rio/como-visitar-o-corcovado/",
+      "id": "brazil-c86873af770a4d868f9f"
+    },
+    {
+      "name": "Arpoador",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.990556,
+      "lon": -43.191667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "id": "brazil-7eaf2370b0f14bfec8ba"
+    },
+    {
+      "name": "Guanabara Palace",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.9376,
+      "lon": -43.184,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Pinheiro Machado - Laranjeiras",
+      "id": "brazil-03f89601dab3f50ec541"
+    },
+    {
+      "name": "Largo do Boticário",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.93954,
+      "lon": -43.20132,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Cosme Velho",
+      "id": "brazil-cd7811336688dfe6867a"
+    },
+    {
+      "name": "Laranjeiras Palace",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.9316,
+      "lon": -43.1834,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Parque Eduardo Guinle",
+      "id": "brazil-f2822345af3f53b29757"
+    },
+    {
+      "name": "Monumento a Estácio de Sá",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.93989,
+      "lon": -43.16973,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Av. Infante Dom Henrique - Gloria",
+      "id": "brazil-0d81cac333476dd16e50"
+    },
+    {
+      "name": "Basilica of the Immaculate Conception on the Botafogo Beach",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.94319,
+      "lon": -43.18184,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Praia de Botafogo, 266",
+      "id": "brazil-c1539d2b1acc853cb8ac"
+    },
+    {
+      "name": "Our Lady of the Rosary Parish Church",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.9619,
+      "lon": -43.1698,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "164, R. Gen. Ribeiro da Costa, Leme",
+      "id": "brazil-e40e7c076b8581a1cdb6"
+    },
+    {
+      "name": "Church of Our Lady",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.9312,
+      "lon": -43.1798,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "~19, Rua Gago Coutinho, Rua das Laranjeiras, s/n°, Largo do Machado",
+      "url": "https://www.nsdagloria.com.br/",
+      "id": "brazil-768d9c097691a6c9a791"
+    },
+    {
+      "name": "Casa das Canoas",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.993581,
+      "lon": -43.2753,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Estrada das Canoas 1246 - São Conrado",
+      "price": "Adults R$10",
+      "url": "http://www.casadascanoas.com.br/",
+      "id": "brazil-41306fd8008d0c556c72"
+    },
+    {
+      "name": "Museum of Folklore Edison Carrero",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.92662,
+      "lon": -43.17501,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua do Catete 179",
+      "url": "http://www.cnfcp.gov.br/",
+      "id": "brazil-bd77b050d9406a875712"
+    },
+    {
+      "name": "Indian Museum",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.951944,
+      "lon": -43.191111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua das Palmeiras 55 - Botafogo",
+      "url": "http://www.museudoindio.org.br/",
+      "id": "brazil-b583d04a48cea6b9e374"
+    },
+    {
+      "name": "Carmen Miranda Museum",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.9416,
+      "lon": -43.1722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Av. Rui Barbosa",
+      "url": "http://www.cultura.rj.gov.br/espaco/museu-carmen-miranda",
+      "id": "brazil-fb079b3fccb0cee09896"
+    },
+    {
+      "name": "Army History Museum of Copacabana Fort",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.986763,
+      "lon": -43.187674,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Praça Coronel Eugênio Franco, 1 - Posto 6 - Copacabana",
+      "price": "Adults R$6, over 60 years old R$3, students with student ID R$3",
+      "url": "http://www.mhexfc.eb.mil.br/pt-br/",
+      "id": "brazil-cf398877d1f97ec0d251"
+    },
+    {
+      "name": "Museum of the Republic",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.925875,
+      "lon": -43.176197,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua do Catete, 153 - Catete",
+      "url": "http://museudarepublica.museus.gov.br/",
+      "id": "brazil-e3bc5d6e85faf383c915"
+    },
+    {
+      "name": "Museu Villa-Lobos",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.952,
+      "lon": -43.1905,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Sorocaba, 200 - Botafogo",
+      "price": "Free",
+      "url": "https://www.facebook.com/villalobosmuseum/",
+      "id": "brazil-815cb8bd25ac7f4e0171"
+    },
+    {
+      "name": "Oi Futuro",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.930043,
+      "lon": -43.176518,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Dois de Dezembro, 63 - Flamengo",
+      "url": "http://www.oifuturo.org.br/",
+      "id": "brazil-f02ffb822c83da7eb764"
+    },
+    {
+      "name": "Instituto Moreira Salles (IMS)",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.981862,
+      "lon": -43.239039,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Marques de São Vicente 476, Gavea",
+      "price": "Free",
+      "url": "http://www.ims.com.br/",
+      "id": "brazil-241013bbbda5f57db925"
+    },
+    {
+      "name": "Botanical Garden",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.97026,
+      "lon": -43.22433,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Jardim Botânico",
+      "price": "R$4",
+      "url": "http://www.jbrj.gov.br/",
+      "id": "brazil-dbfad8f9649bc31e58f1"
+    },
+    {
+      "name": "Parque Enrique Lage",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.9606,
+      "lon": -43.212,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Jardim Botânico, 414",
+      "id": "brazil-3d5cf72a87baa9c2ffc5"
+    },
+    {
+      "name": "Flamengo Park",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.9328,
+      "lon": -43.1726,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "along the bay between Flamengo and Glória",
+      "url": "http://www.parquedoflamengo.com.br/",
+      "id": "brazil-542a01d175de6be7ef91"
+    },
+    {
+      "name": "Parque Guinle",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "id": "brazil-0bb33adff1343fd0c7e7"
+    },
+    {
+      "name": "Hike/Climb Sugarloaf Mountain",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.95116,
+      "lon": -43.15257,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "url": "https://www.openstreetmap.org/way/456132512",
+      "id": "brazil-fd0979a85c106117f6d5"
+    },
+    {
+      "name": "Cláudio Coutinho Trail",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.95302,
+      "lon": -43.1584,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Urca",
+      "price": "Free",
+      "id": "brazil-506181423ad218734ced"
+    },
+    {
+      "name": "Planetarium Espaço Museu do Universo",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.9779,
+      "lon": -43.2304,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Vice-Governador Rubens Berardo, 100 – Gávea",
+      "url": "http://www.rio.rj.gov.br/planetario/",
+      "id": "brazil-658e7795a5b4e33b2077"
+    },
+    {
+      "name": "Rodrigo de Freitas Lagoon",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.971117,
+      "lon": -43.211718,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "id": "brazil-65a06655ec6fa78262d6"
+    },
+    {
+      "name": "Pedalboats",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "on Lake Rodrigo de Freitas - Ipanema",
+      "price": "R$10/half hour",
+      "id": "brazil-f4cceb6c18e0132a6b9c"
+    },
+    {
+      "name": "Quadracycle",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "price": "R$10/hour",
+      "id": "brazil-fc57d4ec3bc0f38257e1"
+    },
+    {
+      "name": "Hanggliding and Paragliding",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.9881,
+      "lon": -43.279,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "São Conrado",
+      "price": "R$250",
+      "id": "brazil-85852bd751bbd2dc93e0"
+    },
+    {
+      "name": "Panoramic helicopter rides",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.9512,
+      "lon": -43.1655,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "url": "https://www.helisight.com.br/en/",
+      "id": "brazil-86ee6674c4e582b666a0"
+    },
+    {
+      "name": "Helicopter Rider",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Av. Gen. Moisés Castelo Branco Filho, 700 - Golf Olímpico - Barra da Tijuca",
+      "url": "https://riocopter.com.br/",
+      "id": "brazil-381088d7a6acfa42276c"
+    },
+    {
+      "name": "Pedra da Gávea",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.99714,
+      "lon": -43.284318,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "id": "brazil-c5dbf309a3148f30c101"
+    },
+    {
+      "name": "Hike up the Morro Dois Irmãos",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.99071,
+      "lon": -43.23984,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "id": "brazil-4022b63bc344663b36ef"
+    },
+    {
+      "name": "Flamengo Beach",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.9322,
+      "lon": -43.1717,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Av. Infante Dom Henrique",
+      "id": "brazil-6a214b9f0100cc354927"
+    },
+    {
+      "name": "Botafogo Beach",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.9454,
+      "lon": -43.1807,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "id": "brazil-d1e4c1555f3b929810a7"
+    },
+    {
+      "name": "Urca Beach",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.94799,
+      "lon": -43.16332,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "id": "brazil-dbed16fccfeb4bfed736"
+    },
+    {
+      "name": "Vermelha Beach",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.95585,
+      "lon": -43.16457,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "id": "brazil-bf1617c0d84910fc3a52"
+    },
+    {
+      "name": "Leme Beach",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.9659,
+      "lon": -43.1725,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "id": "brazil-afc3fa417c36a7967a83"
+    },
+    {
+      "name": "Copacabana Beach",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.9722,
+      "lon": -43.1834,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "id": "brazil-9e77382a2d3947ce42f6"
+    },
+    {
+      "name": "Arpoador Beach",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.9872,
+      "lon": -43.2031,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "id": "brazil-47a454766a8f2ed8f864"
+    },
+    {
+      "name": "Ipanema Beach",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.9871,
+      "lon": -43.2029,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "id": "brazil-13488f4c9f5a32529834"
+    },
+    {
+      "name": "Leblon Beach",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.98778,
+      "lon": -43.22321,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "id": "brazil-d9e87452ed6dbc6dff42"
+    },
+    {
+      "name": "São Conrado Beach",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -23.0003,
+      "lon": -43.2675,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "id": "brazil-456b7df3c541fae45aa2"
+    },
+    {
+      "name": "Acadêmicos da Rocinha",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Bertha Lutz, 80 - São Conrado",
+      "url": "https://www.facebook.com/passistasdarocinhaoficial/about",
+      "id": "brazil-3fc7ba12d176f684c5d7"
+    },
+    {
+      "name": "Cervantes",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.96244,
+      "lon": -43.17582,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Av Prado Junior 335B - Copacabana",
+      "url": "http://restaurantecervantes.com.br/",
+      "id": "brazil-7ad23540ea178f2733e6"
+    },
+    {
+      "name": "Galeria Condor",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.9303,
+      "lon": -43.1781,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Largo do Machado, 29 - Catete",
+      "url": "https://www.facebook.com/galeriacondorrio/",
+      "id": "brazil-934d693dfe25c8863962"
+    },
+    {
+      "name": "Le Bistrôt Du Cuisinier",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Avenida Henrique Dumont 71 - Ipanema",
+      "url": "http://www.lebistrotducuisinier.com.br/",
+      "id": "brazil-39a135aa3bad995892a9"
+    },
+    {
+      "name": "Berbig&atilde;o",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Catete, 150 - Catete",
+      "id": "brazil-b5e5b8cec9d1918cb8c5"
+    },
+    {
+      "name": "Cantina Donanna",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Domingos Ferreira 63-B - Copacabana",
+      "price": "R$10-20",
+      "id": "brazil-125a048ad2ac3bcb81be"
+    },
+    {
+      "name": "Casa da Feijoada",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Prudente Morais 10 - Ipanema",
+      "url": "http://www.cozinhatipica.com.br/",
+      "id": "brazil-5874a00979a4c8b7e3cc"
+    },
+    {
+      "name": "Filé de Ouro",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Jardim Botânico 731 - Jardim Botânico",
+      "id": "brazil-266b189abf1abd33321d"
+    },
+    {
+      "name": "Gula Gula",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Anibal de Mendonça 132 - Ipanema",
+      "price": "R$20-35",
+      "id": "brazil-9760e6eaaafcc765aff9"
+    },
+    {
+      "name": "Carretão",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Siqueiro Campos 23 - Copacabana",
+      "price": "R$53",
+      "url": "http://www.clubecarretao.com.br/produto/56/carretao+siqueira+campos+churrascaria:+rodizio+de+carnesguarnicoes+buffet+de+saladas+comida+japonesa+queijos+finos.html",
+      "id": "brazil-fd8d77376aa0a4a6701f"
+    },
+    {
+      "name": "Nam Thai",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Rainha Guilhermina 95 B - Leblon",
+      "price": "R$50-100",
+      "id": "brazil-82a530dbd66044c56e9a"
+    },
+    {
+      "name": "New Natural",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Barão do Torre 173 - Ipanema",
+      "id": "brazil-a18332995f93f540dea0"
+    },
+    {
+      "name": "Via Sete",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Garcia D'Ávila",
+      "url": "http://www.viasete.com.br/",
+      "id": "brazil-c980ea5c18dd071cf975"
+    },
+    {
+      "name": "Manekineko Leblon",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.983283,
+      "lon": -43.22619,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Dias Ferreira, 410 - Leblon",
+      "id": "brazil-9c073996d1368d139911"
+    },
+    {
+      "name": "Marius Carnes",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Avenida Atlântica 290 - Leme",
+      "url": "http://www.marius.com.br/",
+      "id": "brazil-81d16e537652735869e9"
+    },
+    {
+      "name": "Viva Gastronomia",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.972804,
+      "lon": -43.188527,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Av. Nossa Senhora de Copacabana, 796 - Copacabana",
+      "url": "https://vivagastronomia.com.br/",
+      "id": "brazil-bf3e593134e75d658f58"
+    },
+    {
+      "name": "Sushi Leblon",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.984247,
+      "lon": -43.227213,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Dias Ferreira, 256 - Leblon",
+      "url": "http://www.sushileblon.com/",
+      "id": "brazil-b32aa408e4dda9dc50ca"
+    },
+    {
+      "name": "Zazá Bistrô Tropical",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.985571,
+      "lon": -43.204883,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Joana Angélica, 40 - Ipanema",
+      "url": "http://www.zazabistro.com.br/",
+      "id": "brazil-d640a70143ac4e1ebd01"
+    },
+    {
+      "name": "Academia da Cachaça",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Conde de Bernadotte 26 - Leblon",
+      "url": "http://www.academiadacachaca.com.br/english/menu/index.htm",
+      "id": "brazil-3e25182d8f836ff38ce8"
+    },
+    {
+      "name": "Bip Bip",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Almirante Gonçalves 50D - Copacabana",
+      "id": "brazil-8aefbd6ffac29d9db3b5"
+    },
+    {
+      "name": "Empório",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Maria Quitéria 37 - Ipanema",
+      "id": "brazil-dc72acb583425b6eeb7e"
+    },
+    {
+      "name": "Garota de Ipanema",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Vinicius de Moraes and Rua Prudente de Morais - Ipanema",
+      "id": "brazil-c7b83072d7647c2d78de"
+    },
+    {
+      "name": "Mamma Jamma Pizzeria Rústica",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Saturno de Brito, 50",
+      "url": "https://mammajamma.com.br/",
+      "id": "brazil-d23b1bfa66abe9ff1471"
+    },
+    {
+      "name": "Casa da Matriz",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.9549,
+      "lon": -43.1915,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Henrique Novaes 107 - Botafogo",
+      "url": "https://www.facebook.com/casadamatriz/",
+      "id": "brazil-6d41aa8bd3ea34f3a3a0"
+    },
+    {
+      "name": "Fosfobox",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.964102,
+      "lon": -43.190726,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Siqueira Campos 143 - Copacabana",
+      "id": "brazil-93670d25f15baf3ade4f"
+    },
+    {
+      "name": "Cariocando",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Silveira Martins, 139 - Catete",
+      "price": "R$12-15 cover",
+      "url": "https://www.barcariocando.com.br/",
+      "id": "brazil-21d1043dadd9d53524d1"
+    },
+    {
+      "name": "Bar do Tom",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Adalberto Ferreira 32 - Leblon",
+      "id": "brazil-770fd594b1a184ef40e3"
+    },
+    {
+      "name": "Sala Cecilia Meireles",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Largo da Lapa 47 - Lapa",
+      "url": "http://salaceciliameireles.rj.gov.br/",
+      "id": "brazil-4e14347cf78cc8d8bf1a"
+    },
+    {
+      "name": "Ace Hostel",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.9494,
+      "lon": -43.1829,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua São Clemente 23 - Botafogo",
+      "price": "From R$25",
+      "url": "http://ace-suites.negocio.site/",
+      "id": "brazil-f96d750516fe91a788f2"
+    },
+    {
+      "name": "Arpoador Inn",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.9879,
+      "lon": -43.19404,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Francisco Otaviano 177 - Ipanema",
+      "price": "Singles/doubles from R$190/212",
+      "url": "http://hotelarpoador.com/en/",
+      "id": "brazil-a3989fe28802287b0350"
+    },
+    {
+      "name": "Beija Flor",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.92751,
+      "lon": -43.17418,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Ferreira Viana, 20 - Flamengo",
+      "id": "brazil-52dbc29597e2f0a10a6a"
+    },
+    {
+      "name": "CabanaCopa Hostel",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.96281,
+      "lon": -43.18093,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Travessa Guimarães Natal 12 - Copacabana",
+      "url": "http://www.cabanacopa.com.br/",
+      "id": "brazil-f4719804acf1edc0850f"
+    },
+    {
+      "name": "Che Lagarto Hostel Copacabana",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.96409,
+      "lon": -43.17843,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Barata Ribeiro, 111",
+      "price": "From US$16",
+      "url": "http://www.chelagarto.com/index.php/en/component/chelagarto/hostels/24-hostel-copacabana.html",
+      "id": "brazil-e93fe49a50842d36d833"
+    },
+    {
+      "name": "Che Lagarto Hostel Ipanema",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.9846,
+      "lon": -43.2141,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Paul Redfern, 48",
+      "price": "From US$19",
+      "url": "http://www.chelagarto.com/index.php/en/component/chelagarto/hostels/4-hostel-ipanema.html",
+      "id": "brazil-7092df6d897cdf124544"
+    },
+    {
+      "name": "Rio Copa Hostel",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Frederico Pamplona 20 - Copacabana",
+      "price": "Dorms from US$13",
+      "url": "http://www.riocopahostel.com/",
+      "id": "brazil-c27e1d5b22911cc64110"
+    },
+    {
+      "name": "Ferreira Viana",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.92687,
+      "lon": -43.17587,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Ferreira Viana, 58 - Flamengo",
+      "id": "brazil-5eb55fc33b912f3a0d25"
+    },
+    {
+      "name": "Jucati",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.9663,
+      "lon": -43.1905,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Tenente Marones de Gusmão 85",
+      "price": "R$120",
+      "url": "http://www.edificiojucati.com.br/",
+      "id": "brazil-97a01f6c6ee833e56b32"
+    },
+    {
+      "name": "Riazor",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.92623,
+      "lon": -43.17683,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua do Catete 160 - Catete",
+      "url": "http://hotelriazor.com.br/?lang=en",
+      "id": "brazil-270731b2b34636b10c14"
+    },
+    {
+      "name": "Copa Roots Hostel",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.9742,
+      "lon": -43.1933,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Travessa Santa Leocádia 38 - Copacabana",
+      "url": "https://m.facebook.com/coparootshostel/",
+      "id": "brazil-b88b653903b704223f1b"
+    },
+    {
+      "name": "Terasse Hostel",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.98546,
+      "lon": -43.20098,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Farme de Amoedo 35 - Ipanema",
+      "price": "R$40 in dormitory, R$140 for a couple.",
+      "id": "brazil-d9df6bc5dab51c87ed69"
+    },
+    {
+      "name": "Walk On The Beach Hostel",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.97172,
+      "lon": -43.19067,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Dias da Rocha 85 - Copacabana",
+      "url": "https://m.facebook.com/walkonthebeachhostel/",
+      "id": "brazil-5308a01302ac291cebbc"
+    },
+    {
+      "name": "Astoria Copacabana Hotel",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.9664,
+      "lon": -43.1833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Republica do Peru, 345 - Copacabana",
+      "price": "Single US$100/110",
+      "id": "brazil-9a01e35cbeeea2b1b150"
+    },
+    {
+      "name": "Rio Design Hotel",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.98311,
+      "lon": -43.19071,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Francisco Sá 17 - Copacabana",
+      "price": "From US$160 (2014)",
+      "url": "http://www.riodesignhotel.com/",
+      "id": "brazil-168f6b6d07b2fda03e05"
+    },
+    {
+      "name": "Rio Guesthouse",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.98294,
+      "lon": -43.19024,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Francisco Sá 5 - Copacabana",
+      "url": "http://www.rioguesthouse.com/",
+      "id": "brazil-cbe25b01c4f4608fb1c8"
+    },
+    {
+      "name": "Hotel Vermont",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.9842,
+      "lon": -43.2023,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Visconde de Piraja 254 - Ipanema",
+      "price": "Single from US$160 (2014)",
+      "url": "http://www.hotelvermont.com.br/en/",
+      "id": "brazil-7fa2c46b34a6ffc1cb3c"
+    },
+    {
+      "name": "Rio INN Art",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.96788,
+      "lon": -43.18915,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Anita Garibaldi, 87",
+      "price": "From US$38",
+      "url": "http://www.rioinnart.com.br/",
+      "id": "brazil-a37f3d94e88be4ad6b30"
+    },
+    {
+      "name": "Che Lagarto Suites Copacabana Santa Clara",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.9664,
+      "lon": -43.19199,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Santa Clara, 304",
+      "price": "From US$95",
+      "url": "http://www.chelagarto.com/index.php/en/component/chelagarto/hostels/3-suites-copacabana-santa-clara.html",
+      "id": "brazil-790a074ef94de84cb2ca"
+    },
+    {
+      "name": "Astoria Palace Hotel",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.96835,
+      "lon": -43.18022,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Atlantica Avenue, 1866 - Copacabana",
+      "price": "From US$180 (2014)",
+      "url": "http://www.astoriapalace.com.br/",
+      "id": "brazil-222061fa46600045cbd4"
+    },
+    {
+      "name": "Belmond Copacabana Palace",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.966979,
+      "lon": -43.178998,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Avenida Atlântica, 1702 - Copacabana",
+      "url": "http://www.copacabanapalace.com.br/",
+      "id": "brazil-3696e386ed7b125b831a"
+    },
+    {
+      "name": "Copacabana Praia Hotel",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Rua Francisco Otaviano nº 30 - Copacabana",
+      "price": "Single/double from US$140/150 (2014)",
+      "url": "http://www.copacabanapraiahotel.com.br/",
+      "id": "brazil-679d10f4a426852c27dd"
+    },
+    {
+      "name": "Hotel Fasano Rio de Janeiro",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.98706,
+      "lon": -43.196213,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Avenida Vieira Souto, 80 - Ipanema",
+      "url": "http://www.fasano.com.br/",
+      "id": "brazil-2d3ce266f995445b97bb"
+    },
+    {
+      "name": "JW Marriott Hotel Rio de Janeiro",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.972339,
+      "lon": -43.18572,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Avenida Atlântica 2600, Copacabana",
+      "price": "Over US$350",
+      "url": "https://www.marriott.com/RIOMC",
+      "id": "brazil-9023e3999856f045e0e8"
+    },
+    {
+      "name": "Othon Palace Rio",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.977444,
+      "lon": -43.189235,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Avenida Atlântica, 3264 - Copacabana",
+      "price": "Over USD250",
+      "url": "http://www.othon.com.br/hotel-copacabana/rio-othon-palace/",
+      "id": "brazil-983bb963c29451a984ee"
+    },
+    {
+      "name": "Sheraton Rio Hotel & Resort",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.992331,
+      "lon": -43.233236,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Avenida Niemeyer, 121 - Leblon",
+      "price": "US$330-530 (2014)",
+      "url": "http://www.sheraton-rio.com/",
+      "id": "brazil-1df3437cf3d627c8185e"
+    },
+    {
+      "name": "Hotel Sofitel",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.986241,
+      "lon": -43.189397,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "address": "Avenida Atlântica, 4240 - Copacabana",
+      "price": "Over US$330",
+      "url": "https://all.accor.com/hotel/1988/index.en.shtml",
+      "id": "brazil-391c82e2eea8011d552e"
+    },
+    {
+      "name": "Rio de Janeiro/Zona Sul",
+      "kind": "area",
+      "locality": "Rio de Janeiro/Zona Sul",
+      "lat": -22.97,
+      "lon": -43.223,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Sul",
+      "id": "brazil-ee938b0935ade3c9a9cf"
+    },
+    {
+      "name": "Banco do Brasil Cultural Centre",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.9011,
+      "lon": -43.1763,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua 1º Março 66 - Centro",
+      "url": "http://culturabancodobrasil.com.br/",
+      "id": "brazil-334b53b2339d45ddc945"
+    },
+    {
+      "name": "Casa França Brasil",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.9005,
+      "lon": -43.1759,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua Visconde de Itaboraí - Centro",
+      "url": "http://www.casafrancabrasil.rj.gov.br/",
+      "id": "brazil-dfb1ac1976da43fbef30"
+    },
+    {
+      "name": "City Hall",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.91015,
+      "lon": -43.17658,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Praça Floriano - Centro",
+      "url": "http://www.camara.rj.gov.br/",
+      "id": "brazil-f19e8a181eae33ea887b"
+    },
+    {
+      "name": "Lapa Viaduct",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.91344,
+      "lon": -43.18007,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Lapa",
+      "id": "brazil-e6967ee33064304338e8"
+    },
+    {
+      "name": "Municipal Theatre",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.90906,
+      "lon": -43.17657,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Av. Rio Branco - Centro",
+      "url": "http://www.theatromunicipal.rj.gov.br/",
+      "id": "brazil-81e06ca8653c3de49c88"
+    },
+    {
+      "name": "National Library",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.9099,
+      "lon": -43.1754,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Av Rio Branco 219",
+      "price": "R$2 for tour",
+      "url": "https://www.bn.gov.br/",
+      "id": "brazil-9ccfd04332373bfaa313"
+    },
+    {
+      "name": "Passeio Público",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.9132,
+      "lon": -43.1765,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua Texeira de Freitas at Rua Mestre Valentim",
+      "id": "brazil-2425223f376b4f1ef609"
+    },
+    {
+      "name": "Petrobras Headquarters",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.9097,
+      "lon": -43.1793,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Avenida República do Chile 1202",
+      "id": "brazil-2b0e246f7e478f5f75c1"
+    },
+    {
+      "name": "Praça da República",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.9075,
+      "lon": -43.1891,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Av. Pres. Vargas",
+      "id": "brazil-ac15f961d9b3ea4f4c6e"
+    },
+    {
+      "name": "Sambódromo",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.91085,
+      "lon": -43.19704,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua Marquês de Sapucaí - Praça Onze",
+      "id": "brazil-e69946df44ff3e38e38d"
+    },
+    {
+      "name": "Selarón Steps",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.91552,
+      "lon": -43.17952,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Santa Teresa",
+      "id": "brazil-4a564b4a8577291200e5"
+    },
+    {
+      "name": "Teatro João Caetano",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.9061,
+      "lon": -43.18225,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "R. Alexandre Herculano, (Praça Tiradentes)",
+      "price": "Cashdesk 14:00-18:00",
+      "url": "http://www.cultura.rj.gov.br/espaco/teatro-joao-caetano",
+      "id": "brazil-5583d845224a7cdc2bf1"
+    },
+    {
+      "name": "Estátua equestre de D. Pedro I",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.90691,
+      "lon": -43.18285,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "praça Tiradentes",
+      "id": "brazil-9c4aba34a3bc85dc8a49"
+    },
+    {
+      "name": "Stock Exchange",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.9023,
+      "lon": -43.17412,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Praça Quinze de Novembro, 20",
+      "url": "http://bmfbovespa.com.br/",
+      "id": "brazil-5a1c0fe7c17dfaa46c31"
+    },
+    {
+      "name": "José Bonifácio Monument",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "id": "brazil-5fc7e50034691d963c4d"
+    },
+    {
+      "name": "Floriano Peixoto Monument",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -25.4294,
+      "lon": -49.272,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Cinelândia",
+      "id": "brazil-0dbef30df4e965278296"
+    },
+    {
+      "name": "Fountain of Praça Monroe",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Cinelândia",
+      "id": "brazil-6569e28180a888724490"
+    },
+    {
+      "name": "Glória Inlet",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.9197,
+      "lon": -43.1694,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "id": "brazil-cfe74d4fca28b7383b65"
+    },
+    {
+      "name": "Memorial Monument of Opening Ports - Trade",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.922,
+      "lon": -43.1735,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua do Russel/Praça Luiz de Camões, Glória",
+      "id": "brazil-e38e758d8398961bcaeb"
+    },
+    {
+      "name": "Saint Joachim Palace",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.9209,
+      "lon": -43.1772,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "id": "brazil-f06d8530ecc17c9280d7"
+    },
+    {
+      "name": "Valongo Wharf Archaeological Site",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.897111,
+      "lon": -43.187394,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "id": "brazil-f156741aa907185856b0"
+    },
+    {
+      "name": "Campo de Santana",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.906667,
+      "lon": -43.188611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "id": "brazil-5eddaba4bebd0d8945ea"
+    },
+    {
+      "name": "Gloria Church",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.92151,
+      "lon": -43.175425,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Glória",
+      "url": "http://www.outeirodagloria.org.br/",
+      "id": "brazil-bd165b3da2edb3e7598d"
+    },
+    {
+      "name": "Benedictine Monastery of Rio de Janeiro",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.897,
+      "lon": -43.17799,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua Dom Gerardo 68 - Centro",
+      "url": "https://www.mosteirodesaobentorio.org.br/",
+      "id": "brazil-a8f0bc350a504bf1eb6a"
+    },
+    {
+      "name": "Candelária Church",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.901,
+      "lon": -43.1779,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Praça Pio X - Centro",
+      "id": "brazil-b183b55473bcc29ed88b"
+    },
+    {
+      "name": "Metropolitan Cathedral of Saint Sebastian",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.91078,
+      "lon": -43.18064,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Av. Chile 245 - Lapa",
+      "url": "http://www.catedral.com.br/",
+      "id": "brazil-af629d51b3d6a13653b6"
+    },
+    {
+      "name": "Our Lady of Mount Carmel Church",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.914592,
+      "lon": -43.177707,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua do Ouvidor",
+      "id": "brazil-f877b3397c9173cdd67c"
+    },
+    {
+      "name": "Saint Paul Church",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.92106,
+      "lon": -43.18697,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "R. Fonseca Guimarães, 8-12 - Santa Teresa",
+      "id": "brazil-690cc261c2786d228782"
+    },
+    {
+      "name": "Church of São Francisco de Paula",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.905493,
+      "lon": -43.180594,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Largo de São Francisco de Paula, 9-11, Centro",
+      "url": "http://www.saofranciscopaula.com.br/",
+      "id": "brazil-ef9e409ab50d1ddf29cb"
+    },
+    {
+      "name": "Church of Our Lady of Lapa",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.90224,
+      "lon": -43.17521,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua do Ouvidor, Centro",
+      "id": "brazil-c9ffee785b652250d897"
+    },
+    {
+      "name": "Church of Our Lady of Lampadosa",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.90592,
+      "lon": -43.18243,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Av. Passos, 2-20 - Centro",
+      "id": "brazil-c3bf4807dc755e2a82c5"
+    },
+    {
+      "name": "Chapel of the Divine Child",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.9143,
+      "lon": -43.1827,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua Riachuelo, 75 - Centro",
+      "id": "brazil-b97e362244fe43988482"
+    },
+    {
+      "name": "Church of St. Goncalo and St. George",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.90507,
+      "lon": -43.187556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua Alfandega and Praça da República corner, Centro",
+      "id": "brazil-bf67a08aaddebcd01cb0"
+    },
+    {
+      "name": "St. Francis Church",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.8978,
+      "lon": -43.18365,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Largo São Francisco da Prainha, Saúde",
+      "id": "brazil-57612b94729ee65415fd"
+    },
+    {
+      "name": "Church of St. Francis of Penance",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.90634,
+      "lon": -43.17851,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Largo da Carioca",
+      "id": "brazil-6626b10b5ad57a1e7181"
+    },
+    {
+      "name": "Church of Saint Lucia",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.90955,
+      "lon": -43.17261,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Centro, R. Santa Luzia, 490",
+      "id": "brazil-3408dcfaf52157463bcd"
+    },
+    {
+      "name": "Churches of Convent Carmo",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.903333,
+      "lon": -43.175556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Largo do Paco",
+      "id": "brazil-e371518f0bb6d5848f20"
+    },
+    {
+      "name": "São Francisco da Penitência Church",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.907,
+      "lon": -43.1793,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua da Carioca, 5 - Centro",
+      "id": "brazil-25ffce4f8c0a21ffb224"
+    },
+    {
+      "name": "Monastery of Saint Theresa",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.915529,
+      "lon": -43.180453,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Ladeira de Santa Teresa",
+      "id": "brazil-f87ef638425b3d8a4728"
+    },
+    {
+      "name": "Church Our Lady of La Salette",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.9167,
+      "lon": -43.1954,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua do Catumbi",
+      "id": "brazil-071e642c5bd0301cafd2"
+    },
+    {
+      "name": "Museum of the Estate of Ceu",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.91781,
+      "lon": -43.18295,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua Murtinho Nobre 96 - Santa Teresa",
+      "url": "http://www.museuscastromaya.com.br/chacara.htm",
+      "id": "brazil-44234c47ceec74140590"
+    },
+    {
+      "name": "Image and Sound Museum",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.9137,
+      "lon": -43.1722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Av. Europa 158",
+      "url": "http://www.mis-sp.org.br/",
+      "id": "brazil-a5cc1485cb9adc69a580"
+    },
+    {
+      "name": "Museum of Modern Art",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.9137,
+      "lon": -43.1722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Avenida Infante Dom Henrique 85 - Glória",
+      "url": "http://www.mamrio.org.br/",
+      "id": "brazil-a1a2477551f01c9ba5df"
+    },
+    {
+      "name": "National History Museum",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.906,
+      "lon": -43.1693,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Praça Marechal Âncora - Centro",
+      "url": "http://mhn.museus.gov.br/",
+      "id": "brazil-c4b36f63aad6d5a8f25e"
+    },
+    {
+      "name": "Naval and Oceanographic Museum",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.9038,
+      "lon": -43.173,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua Dom Manuel 15 - Centro",
+      "url": "https://www.marinha.mil.br/dphdm/",
+      "id": "brazil-54fad50920e2bdaf40d7"
+    },
+    {
+      "name": "National Museum of Fine Arts",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.9086,
+      "lon": -43.1758,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Praça Floriano, Avenida Rio Branco",
+      "price": "R$5, free on Sundays",
+      "url": "http://www.mnba.gov.br/",
+      "id": "brazil-fa010f637f7da545f3bf"
+    },
+    {
+      "name": "Rio Art Museum",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.8966,
+      "lon": -43.1819,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Praça Mauá, 5, Centro",
+      "price": "R$8 (free on Tuesday)",
+      "url": "http://www.museudeartedorio.org.br/en",
+      "id": "brazil-2a3a684395bad6a10f1e"
+    },
+    {
+      "name": "Tram Museum",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.9195,
+      "lon": -43.1864,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua Carlos Brandt 14 - Santa Teresa",
+      "id": "brazil-afafdcd46e80490bfb59"
+    },
+    {
+      "name": "Museum of Tomorrow",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.8953,
+      "lon": -43.1799,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Praça Mauá, 1",
+      "price": "R$30 adults, R$15 youth under 21, free for seniors 60+ or children under 6",
+      "url": "https://museudoamanha.org.br/en",
+      "id": "brazil-bd84a5f6f9a1ff648807"
+    },
+    {
+      "name": "Military Museum Conde de Linhares",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.904691,
+      "lon": -43.219188,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Av. Pedro II, 383 - São Cristóvão",
+      "price": "Free",
+      "url": "https://www.mhexfc.eb.mil.br/pt-br/mmcondedelinhares.html",
+      "id": "brazil-1b31f4cf8434ac0904ba"
+    },
+    {
+      "name": "Gustavo Capanema Palace",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.9089,
+      "lon": -43.1736,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua da Imprensa 16",
+      "id": "brazil-cc2397c03e66752c2315"
+    },
+    {
+      "name": "Ilha Fiscal Palace",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.897,
+      "lon": -43.1663,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Av. Alfredo Agache - Centro",
+      "id": "brazil-e8b7814c0c70212e02fe"
+    },
+    {
+      "name": "Itamaraty Palace",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.90275,
+      "lon": -43.18749,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Av. Marechal Floriano, 196",
+      "url": "http://www.funag.gov.br/chdd/",
+      "id": "brazil-06d2d87819a143ffd8a5"
+    },
+    {
+      "name": "Paço Imperial",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.903508,
+      "lon": -43.174233,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Praça XV de Novembro 48 - Centro",
+      "url": "http://www.pacoimperial.com.br/",
+      "id": "brazil-3ed334fe46e34487d221"
+    },
+    {
+      "name": "Tiradentes Palace",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.90393,
+      "lon": -43.17398,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua Primeiro de Março",
+      "price": "Free",
+      "id": "brazil-bd0810f2639d67e78568"
+    },
+    {
+      "name": "Artists' Open House",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.918951,
+      "lon": -43.190395,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "url": "http://www.arteportasabertas.com/en/info.html",
+      "id": "brazil-29732e93cf8d55ee44a3"
+    },
+    {
+      "name": "Mocidade Independente Samba School",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua Júlio do Carmo, 251 - Cidade Nova",
+      "url": "http://www.mocidadeindependente.com.br/",
+      "id": "brazil-84a0aab2e26814066bc3"
+    },
+    {
+      "name": "Samba City",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.8963,
+      "lon": -43.19764,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua Rivadávia Correia 60 - Gamboa",
+      "price": "R$5",
+      "url": "http://cidadedosambarj.globo.com/",
+      "id": "brazil-db800ad7c5483d12c586"
+    },
+    {
+      "name": "Santa Teresa Historic Tramway",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.9215,
+      "lon": -43.1852,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Bonde de Santa Teresa",
+      "price": "R$20",
+      "id": "brazil-3e93aabad5da21f8a210"
+    },
+    {
+      "name": "UFRJ School of Music",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.91361,
+      "lon": -43.17797,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua de Passeio 98 - Lapa",
+      "price": "Free",
+      "id": "brazil-e333d55bda1bac82dc73"
+    },
+    {
+      "name": "Bistrô do Paço",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.903,
+      "lon": -43.1729,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Praça XV 48 - Centro",
+      "price": "R$12-18",
+      "url": "http://www.bistro.com.br/",
+      "id": "brazil-89ad547b7d940d39309e"
+    },
+    {
+      "name": "Al-Kuwait",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Av. Treze de Maio, 23 - Centro",
+      "url": "http://alkuwait.com.br/",
+      "id": "brazil-f7b3e370d5008a7da131"
+    },
+    {
+      "name": "Cafe Colombo",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.90519,
+      "lon": -43.17869,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua Gonçalves Dias 32 - Centro",
+      "url": "http://www.confeitariacolombo.com.br/",
+      "id": "brazil-ecef62b842cf187ab495"
+    },
+    {
+      "name": "Casa Cavé",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua Uruguaiana 11 - Centro",
+      "url": "http://www.confeitariacave.com.br/",
+      "id": "brazil-d947ea6fc91dbc5df089"
+    },
+    {
+      "name": "Pizzaria Guanabara",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.91358,
+      "lon": -43.17987,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "17, Avenida Mem de Sá",
+      "id": "brazil-1cd42ce7677f4fac5a05"
+    },
+    {
+      "name": "Olla Gourmet",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.91069,
+      "lon": -43.17699,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua Alcindo Guanabara",
+      "url": "http://ollagastronomia.com.br/contato.htm",
+      "id": "brazil-1f279993ae55fbc749c8"
+    },
+    {
+      "name": "Restaurante Nova Capela",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Av. Men de Sá, 96 - Lapa",
+      "url": "https://www.facebook.com/novacapelalapa/",
+      "id": "brazil-5f86fadb464a6af12515"
+    },
+    {
+      "name": "Pilão de Pedra Restaurant",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.90408,
+      "lon": -43.1807,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Av. Mal. Floriano, 104",
+      "url": "https://www.instagram.com/pilaodepedramalfloriano/",
+      "id": "brazil-8cc0191c9767e4c194d3"
+    },
+    {
+      "name": "Restaurant Sobrenatural",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.9215,
+      "lon": -43.1855,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "432, Rua Almirante Alexandrino, Santa Teresa",
+      "url": "https://www.facebook.com/RestauranteSobrenaturalSantaTeresa/",
+      "id": "brazil-f5f3ea0d099a3c631533"
+    },
+    {
+      "name": "Ponto de Encontro Ximeninho",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Praça João Pessoa, 7",
+      "url": "https://osximenes.com.br/",
+      "id": "brazil-775123ef887c6e7c8e42"
+    },
+    {
+      "name": "Aprazível",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua Aprazível 62 - Santa Teresa",
+      "price": "R$35-50",
+      "url": "http://www.aprazivel.com.br/",
+      "id": "brazil-8b3c0eb5e060b0a3314d"
+    },
+    {
+      "name": "Espirito Santa",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua Almirante Alexandrino 264 - Santa Teresa",
+      "price": "R$25-35",
+      "url": "http://www.espiritosanta.com.br/",
+      "id": "brazil-9c8c8d11e45178d19cb4"
+    },
+    {
+      "name": "Armazém São Thiago (Bar do Gomez)",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.92137,
+      "lon": -43.18953,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua Áurea, 26 - Santa Teresa",
+      "id": "brazil-32ebecccff4e660f79d2"
+    },
+    {
+      "name": "Bar Simplesmente",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua Pascoal Carlos Magno, 115 - Santa Teresa",
+      "id": "brazil-1b1407cd8eba08a9ece9"
+    },
+    {
+      "name": "Beco do Rato",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua Joaquim Silva, 11 - Lapa",
+      "url": "http://www.becodorato.com.br/",
+      "id": "brazil-62194a2b37fc0b8069d9"
+    },
+    {
+      "name": "Goya Beira",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Largo das Neves 13 - Santa Teresa",
+      "id": "brazil-bc87b08da73ea8d0dfe5"
+    },
+    {
+      "name": "Carioca da Gema",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Av. Mem de Sá 79 - Lapa",
+      "url": "https://www.barcariocadagema.com.br/",
+      "id": "brazil-7e081fc6bd7c9cb42ddb"
+    },
+    {
+      "name": "Circo Voador",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Arcos da Lapa - Lapa",
+      "id": "brazil-bddbad90430b6b5b9023"
+    },
+    {
+      "name": "Clube Dos Democraticos",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua do Riachelo 91/93 - Lapa",
+      "url": "http://www.clubedosdemocraticos.com.br/",
+      "id": "brazil-33aafa65ca0bc54884c2"
+    },
+    {
+      "name": "Rio Scenarium",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua do Lavradio 20 - Lapa",
+      "url": "http://www.rioscenarium.com.br/",
+      "id": "brazil-547f1b3f1de05a7961e6"
+    },
+    {
+      "name": "Teatro Rival",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua Álvaro Alvim 33 - Lapa",
+      "id": "brazil-da4b35d78d34cd17e53a"
+    },
+    {
+      "name": "Sacadura 154",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua Sacadura Cabral 154 - Saúde",
+      "url": "http://sacadura154.com.br/",
+      "id": "brazil-05b1e2932c685c51be73"
+    },
+    {
+      "name": "Hotel Aymore",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.91165,
+      "lon": -43.18797,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua Carlos Sampaio, 106",
+      "price": "Double/triple USD50/70",
+      "id": "brazil-84b43bc65dfda2508f47"
+    },
+    {
+      "name": "Pousada Favelinha",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.937,
+      "lon": -43.2039,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua Almirante Alexandrino 2023 - between Laranjeiras and Santa Teresa",
+      "url": "http://www.favelinha.com/",
+      "id": "brazil-7d14cb3abc5e0037139d"
+    },
+    {
+      "name": "Casa MangoMango",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.91588,
+      "lon": -43.18391,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua Joaquim Murtinho 587",
+      "price": "From US$80, R$330-750 (US$130-280) per night in Carneval season",
+      "url": "https://www.facebook.com/pages/Casa-Mango-Mango/206371212787244",
+      "id": "brazil-62e8fedbc8e65d25dd94"
+    },
+    {
+      "name": "ibis Rio de Janeiro Centro",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.90774,
+      "lon": -43.18184,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua Silva Jardim 32 - Centro",
+      "price": "Double from R$189",
+      "url": "https://all.accor.com/hotel/5534/index.en.shtml",
+      "id": "brazil-209127605b3ed46435fa"
+    },
+    {
+      "name": "Hotel Inglês",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.92543,
+      "lon": -43.17371,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Rua Silveira Martins, 20 - Flamengo",
+      "url": "https://www.facebook.com/pages/Hotel-Ingl%C3%AAs/197548000287599",
+      "id": "brazil-26ab82e5adf1247c72dd"
+    },
+    {
+      "name": "Casa Beleza",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "R. Laurinda Santos Lobo, 311",
+      "price": "Doubles from US$90, loft suite R$330, orange room R$280, blue room R$240 (2014)",
+      "url": "https://www.casabeleza.com/",
+      "id": "brazil-0163f4f3501166634424"
+    },
+    {
+      "name": "Ibis Santos Dumont",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "address": "Avenida Marechal Câmara 280 - Centro",
+      "price": "Dbl from R$230",
+      "id": "brazil-3b98d316589ddd8653a3"
+    },
+    {
+      "name": "Rio de Janeiro/Centro",
+      "kind": "area",
+      "locality": "Rio de Janeiro/Centro",
+      "lat": -22.92,
+      "lon": -43.22,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FCentro",
+      "id": "brazil-1b52c5cc9fc0367f7564"
+    },
+    {
+      "name": "Maracanã Stadium",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "lat": -22.912167,
+      "lon": -43.230164,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Av. Presidente Castelo Branco at Av. Maracanã",
+      "url": "http://www.suderj.rj.gov.br/maracana.asp",
+      "id": "brazil-bdced4b2959963ccf471"
+    },
+    {
+      "name": "Tijuca National Park",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "lat": -22.9732,
+      "lon": -43.2497,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Estrada da Cascatinha, 850 - Alto da Boa Vista",
+      "id": "brazil-c97ed9d0a5bdfbc8ae45"
+    },
+    {
+      "name": "Engenhão Stadium",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "lat": -22.893172,
+      "lon": -43.292269,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Rua Arquias Cordeiro - Engenho de Dentro",
+      "id": "brazil-bbd2535c8857227cf0a4"
+    },
+    {
+      "name": "Grajaú State Park",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "lat": -22.9249,
+      "lon": -43.2679,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Rua Comendador Martinelli 742 - Grajaú",
+      "id": "brazil-f04de741083e7d5074b4"
+    },
+    {
+      "name": "Museum of Astronomy and Related Sciences",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "lat": -22.895727,
+      "lon": -43.22318,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Rua General Bruce 586 - São Cristovão",
+      "price": "Free",
+      "url": "https://www.facebook.com/museuastronomia/",
+      "id": "brazil-c382cc769a0de88d55a3"
+    },
+    {
+      "name": "Museum of the First Reign",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Avenida Pedro II 293 - São Cristóvão",
+      "id": "brazil-95eb91835fdc84ae6fcb"
+    },
+    {
+      "name": "Musical sidewalks of Vila Isabel",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Vila Isabel",
+      "id": "brazil-da13a40b8cfffc9c9330"
+    },
+    {
+      "name": "Rio de Janeiro Zoo",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "lat": -22.904444,
+      "lon": -43.229444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Parque Quinta da Boa Vista - São Cristóvão",
+      "url": "http://www.riozoo.com.br/",
+      "id": "brazil-8e6255f006261607d301"
+    },
+    {
+      "name": "Train Museum",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "lat": -22.895111,
+      "lon": -43.291722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Rua Arquias Cordeiro 1046 - Engenho de Dentro",
+      "url": "http://www.rffsa.gov.br/principal/museu.htm",
+      "id": "brazil-e932cfccdfeab001228a"
+    },
+    {
+      "name": "Museu do Açude",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "lat": -22.965086,
+      "lon": -43.281512,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Estrada do Açude, 764 - Alto da Boa Vista",
+      "id": "brazil-a211b4b24aa5f624b7d1"
+    },
+    {
+      "name": "Quinta da Boa Vista",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "lat": -22.9058,
+      "lon": -43.2244,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "id": "brazil-27ca10d0fcdebb9c94a2"
+    },
+    {
+      "name": "Church of Our Lady of Lourdes",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "lat": -22.91487,
+      "lon": -43.2427,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Boulevard 28 de Setembro, Vila Isabel",
+      "id": "brazil-5857f0a44f1c2124e932"
+    },
+    {
+      "name": "Church of the Holy Family",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "lat": -22.82508,
+      "lon": -43.1701,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Ribeira, Ilha do governador",
+      "id": "brazil-19e517d7f0bffeac4470"
+    },
+    {
+      "name": "Chapel of St. Roque",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "lat": -22.75349,
+      "lon": -43.110495,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Rua Padre Juvenal, s/n - Praça de São Roque - Ilha de Paquetá",
+      "id": "brazil-ead34f5ccaeab2d0f7d6"
+    },
+    {
+      "name": "Church of the Good Lord Jesus of the Hill",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "lat": -22.76202,
+      "lon": -43.10744,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Praia dos Tamoios, 45 - Ilha de Paquetá",
+      "id": "brazil-6cb1fd42006c5008c89c"
+    },
+    {
+      "name": "Convent of Our Lady of Help",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "lat": -22.9169,
+      "lon": -43.2518,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Praça Barão de Drumond, Vila Isabel",
+      "id": "brazil-09835468af7663d3fd1b"
+    },
+    {
+      "name": "Rock climbing",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "id": "brazil-523148903b603f428d29"
+    },
+    {
+      "name": "Ramos",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "lat": -22.8381,
+      "lon": -43.2521,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Ave.Brasil, Maré, Zona Norte",
+      "id": "brazil-20d8997338c264d78b7d"
+    },
+    {
+      "name": "Mangueira",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Rua Visconde de Niterói, 1072 - Mangueira",
+      "url": "http://www.mangueira.com.br/",
+      "id": "brazil-0c05d4dc147fcc50958f"
+    },
+    {
+      "name": "Salgueiro",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Rua Silva Teles, 104 - Andaraí",
+      "url": "http://www.salgueiro.com.br/",
+      "id": "brazil-3dbe33632241c43e22ad"
+    },
+    {
+      "name": "Unidos de Vila Isabel",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Boulevard 28 de Setembro 382 - Vila Isabel",
+      "url": "http://www.unidosdevilaisabel.com.br/",
+      "id": "brazil-912d5a623de96b7c0404"
+    },
+    {
+      "name": "Unidos da Tijuca",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Avenida Francisco Bicalho, 47, Santo Cristo",
+      "url": "http://unidosdatijuca.com.br/",
+      "id": "brazil-46f65d5a8783e93f3342"
+    },
+    {
+      "name": "Adega Carne-de-Sol do Peixto",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Rua Barão de Mesquita 616 - Tijuca",
+      "id": "brazil-085f0ae95d288454ce00"
+    },
+    {
+      "name": "Adegão Português",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Campo Do São Cristovão 212",
+      "id": "brazil-b21e17ed13dc2a6ad285"
+    },
+    {
+      "name": "Fiorino Bar e Restaurante",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Avenida Heitor Beltrão 126 - Tijuca",
+      "id": "brazil-223852b60afd8e0f8abc"
+    },
+    {
+      "name": "Petisco da Vila",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Av. 28 de Setembro 238 - Vila Isabel",
+      "url": "http://www.petiscodavila.com.br/",
+      "id": "brazil-c878d210fd643f093324"
+    },
+    {
+      "name": "Restaurante Quinta da Boa Vista",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Av. Pedro II - São Cristóvão",
+      "url": "http://www.restaurantequintaboavista.com.br/",
+      "id": "brazil-66f148917731c98bb5e2"
+    },
+    {
+      "name": "Restaurante Salete",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Rua Afonso Pena 189 - Tijuca",
+      "id": "brazil-fb47f24e2f57451741fa"
+    },
+    {
+      "name": "Pa Pa G",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Travessa Almerinda Freitas 42 - Madureira",
+      "url": "https://www.facebook.com/boatepapag/",
+      "id": "brazil-62e9fb95eb484c2244f0"
+    },
+    {
+      "name": "Barraco #55",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "lat": -22.86107,
+      "lon": -43.27331,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Rua da Assembleia #19, Nova Brasilia, Complexo do Alemão",
+      "price": "dorm R$25",
+      "url": "http://www.hostelbookers.com/hostels/brazil/rio-de-janeiro/83578/",
+      "id": "brazil-064868190d1b2777a309"
+    },
+    {
+      "name": "Rio Aeroporto Hotel",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "inside Galeão International Airport, 3rd floor, Sector B",
+      "price": "R$339 single",
+      "url": "https://www.facebook.com/rioaeroportohoteloficial/",
+      "id": "brazil-f3051ab6d5ec078c6b67"
+    },
+    {
+      "name": "Linx Hotel International Airport Galeão",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "address": "Located in: RIOgaleão - Tom Jobim International Airport",
+      "price": "R$260",
+      "url": "https://www.linxgaleao.com.br/",
+      "id": "brazil-b1a4b5bb67e5c3242b71"
+    },
+    {
+      "name": "Rio de Janeiro/Zona Norte",
+      "kind": "area",
+      "locality": "Rio de Janeiro/Zona Norte",
+      "lat": -22.86,
+      "lon": -43.3,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Norte",
+      "id": "brazil-a088016ca42159bbfadb"
+    },
+    {
+      "name": "Aerospace Museum",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Oeste",
+      "lat": -22.884542,
+      "lon": -43.390025,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Oeste",
+      "address": "Av. Marechal Fontenelle - Sulacap",
+      "url": "http://www.musal.aer.mil.br/",
+      "id": "brazil-400672cd28ebd0aa478c"
+    },
+    {
+      "name": "Barra Woods",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Oeste",
+      "lat": -22.9968,
+      "lon": -43.4145,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Oeste",
+      "address": "Av. das Americas, km.6 - Barra da Tijuca",
+      "id": "brazil-f963a1b4cb1204de7b70"
+    },
+    {
+      "name": "Casa do Pontal Popular Art Museum",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Oeste",
+      "lat": -23.02395,
+      "lon": -43.51019,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Oeste",
+      "address": "Estrada do Pontal 3295 - Recreio dos Bandeirantes",
+      "price": "R$12",
+      "url": "http://www.museucasadopontal.com.br/",
+      "id": "brazil-62dd36cf7bb53af93ab4"
+    },
+    {
+      "name": "Chico Mendes Ecological Park",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Oeste",
+      "lat": -23.02139,
+      "lon": -43.47009,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Oeste",
+      "address": "Avenida Jarbas de Carvalho 679 - Recreio dos Bandeirantes",
+      "price": "Free",
+      "id": "brazil-ac2e425f086fe2344c2d"
+    },
+    {
+      "name": "Pedra Branca State Park",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Oeste",
+      "lat": -22.95072,
+      "lon": -43.48579,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Oeste",
+      "id": "brazil-a7be873daf59a2af4ae4"
+    },
+    {
+      "name": "Church of Our Lady of Loreto",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Oeste",
+      "lat": -22.9399,
+      "lon": -43.3451,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Oeste",
+      "address": "Ladeira da Freguesia, 375, Freguesia, Jacarepaguá",
+      "id": "brazil-aa52e7fdc21ffd8d1681"
+    },
+    {
+      "name": "Church of Our Lady of the Conception",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Oeste",
+      "lat": -22.8786,
+      "lon": -43.4345,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Oeste",
+      "address": "1125, Av. de Santa Cruz, Realengo",
+      "url": "http://pnsc.org.br/",
+      "id": "brazil-1f6756de3bf44df9d92c"
+    },
+    {
+      "name": "Church of Saint Cecilia",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Oeste",
+      "lat": -22.8806,
+      "lon": -43.4684,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Oeste",
+      "address": "185, Rua da Feira, Bangu",
+      "id": "brazil-efcbcf8cb9fa5b61c596"
+    },
+    {
+      "name": "Cidade das Artes",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Oeste",
+      "lat": -22.999,
+      "lon": -43.366,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Oeste",
+      "url": "http://www.cidadedasartes.org/",
+      "id": "brazil-ff77d2e6d1ec22445ab8"
+    },
+    {
+      "name": "Sítio Roberto Burle Marx",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Oeste",
+      "lat": -23.0241,
+      "lon": -43.5447,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Oeste",
+      "id": "brazil-05de27248961e7c7014d"
+    },
+    {
+      "name": "Barra da Tijuca beach",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Oeste",
+      "lat": -23.0111,
+      "lon": -43.3603,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Oeste",
+      "id": "brazil-af7e34405c9bee4886e1"
+    },
+    {
+      "name": "Recreio dos Bandeirantes beach",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Oeste",
+      "lat": -23.0265,
+      "lon": -43.46,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Oeste",
+      "id": "brazil-5909a742fc83e19a14c5"
+    },
+    {
+      "name": "Macumba beach",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Oeste",
+      "lat": -23.0352,
+      "lon": -43.493,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Oeste",
+      "id": "brazil-019278242af36b692324"
+    },
+    {
+      "name": "Prainha beach",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Oeste",
+      "lat": -23.0409,
+      "lon": -43.5055,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Oeste",
+      "id": "brazil-e43237aa61fb2946b368"
+    },
+    {
+      "name": "Grumari beach",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Oeste",
+      "lat": -23.0481,
+      "lon": -43.5203,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Oeste",
+      "id": "brazil-1d699a5c357aedddd8b4"
+    },
+    {
+      "name": "Abricó beach",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Oeste",
+      "lat": -23.0481,
+      "lon": -43.51286,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Oeste",
+      "id": "brazil-2a02c28ca293b60ae3b5"
+    },
+    {
+      "name": "Pedra do Telégrafo",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Oeste",
+      "lat": -23.06879,
+      "lon": -43.55859,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Oeste",
+      "id": "brazil-9aff5add52fc71def492"
+    },
+    {
+      "name": "Rio Water Planet",
+      "kind": "do",
+      "locality": "Rio de Janeiro/Zona Oeste",
+      "lat": -22.98012,
+      "lon": -43.48753,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Oeste",
+      "address": "Estrada dos Bandeirantes, 24.000",
+      "url": "https://www.facebook.com/Rio-Water-Planet-484489744928186/",
+      "id": "brazil-e5843e9f1b9f1b2d8af8"
+    },
+    {
+      "name": "Cabana do Pepe",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Oeste",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Oeste",
+      "id": "brazil-d7f95feab26c1a366d50"
+    },
+    {
+      "name": "Alpendre",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Oeste",
+      "lat": -22.975712,
+      "lon": -43.488084,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Oeste",
+      "address": "Estrada do Sacarrão 897 - Vargem Grande",
+      "url": "https://www.facebook.com/RestauranteAlpendreRio/",
+      "id": "brazil-407f9bdd4677d65ebcb8"
+    },
+    {
+      "name": "Beco do Alemão",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Oeste",
+      "lat": -23.001775,
+      "lon": -43.326487,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Oeste",
+      "address": "Avenida das Americas 1600 - Barra da Tijuca",
+      "url": "http://becodoalemao.com.br/",
+      "id": "brazil-345727481626d748016f"
+    },
+    {
+      "name": "Caminho do Mar",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Oeste",
+      "lat": -23.02926,
+      "lon": -43.49823,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Oeste",
+      "address": "Estrada do Pontal, 3091",
+      "url": "https://www.facebook.com/caminhodomarvegan",
+      "id": "brazil-ff44dd6fab7169e97b1f"
+    },
+    {
+      "name": "Rio/Brasa",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Oeste",
+      "lat": -22.98745,
+      "lon": -43.366486,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Oeste",
+      "address": "Avenida Ayrton Senna 2541 - Barra da Tijuca",
+      "url": "https://www.facebook.com/pages/Rio-Brasa-Churrascaria/201362133238691",
+      "id": "brazil-6799e2cf5cdc452ff641"
+    },
+    {
+      "name": "Bar do Baiano",
+      "kind": "eat",
+      "locality": "Rio de Janeiro/Zona Oeste",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Oeste",
+      "address": "Rua do Imperador - Realengo",
+      "url": "https://business.google.com/website/bar-do-baiano",
+      "id": "brazil-fd4156cdf3b222610b5a"
+    },
+    {
+      "name": "Windsor Marapendi",
+      "kind": "stay",
+      "locality": "Rio de Janeiro/Zona Oeste",
+      "lat": -23.009752,
+      "lon": -43.351692,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Oeste",
+      "address": "Avenida Lucio Costa, 5400",
+      "price": "R$347",
+      "url": "https://windsorhoteis.com/hotel/windsor-marapendi/",
+      "id": "brazil-20086a5f6a483b4e6cf9"
+    },
+    {
+      "name": "Rio de Janeiro/Zona Oeste",
+      "kind": "area",
+      "locality": "Rio de Janeiro/Zona Oeste",
+      "lat": -22.96,
+      "lon": -43.51,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rio_de_Janeiro%2FZona_Oeste",
+      "id": "brazil-33abddaf4ff43e9e38b5"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 7 distinct public Wikivoyage source pages; attempted 7 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

@@ -1,0 +1,3713 @@
+{
+  "sources": [
+    {
+      "title": "India",
+      "url": "https://en.wikivoyage.org/wiki/India",
+      "checkedAt": "2026-10-21T08:01:37.770Z"
+    },
+    {
+      "title": "New Delhi",
+      "url": "https://en.wikivoyage.org/wiki/New_Delhi",
+      "checkedAt": "2026-10-21T08:01:40.440Z"
+    },
+    {
+      "title": "New Delhi/Central",
+      "url": "https://en.wikivoyage.org/wiki/New_Delhi%2FCentral",
+      "checkedAt": "2026-10-21T08:01:43.841Z"
+    },
+    {
+      "title": "New Delhi/North",
+      "url": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "checkedAt": "2026-10-21T08:01:46.184Z"
+    },
+    {
+      "title": "New Delhi/South",
+      "url": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "checkedAt": "2026-10-21T08:01:49.174Z"
+    },
+    {
+      "title": "Agra",
+      "url": "https://en.wikivoyage.org/wiki/Agra",
+      "checkedAt": "2026-10-21T08:01:52.482Z"
+    },
+    {
+      "title": "Agra/Taj Mahal",
+      "url": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "checkedAt": "2026-10-21T08:01:55.564Z"
+    },
+    {
+      "title": "Agra/City and Fort",
+      "url": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "checkedAt": "2026-10-21T08:01:58.332Z"
+    },
+    {
+      "title": "Agra/North",
+      "url": "https://en.wikivoyage.org/wiki/Agra%2FNorth",
+      "checkedAt": "2026-10-21T08:02:01.462Z"
+    },
+    {
+      "title": "Kerala",
+      "url": "https://en.wikivoyage.org/wiki/Kerala",
+      "checkedAt": "2026-10-21T08:02:04.611Z"
+    },
+    {
+      "title": "Jaipur",
+      "url": "https://en.wikivoyage.org/wiki/Jaipur",
+      "checkedAt": "2026-10-21T08:02:08.474Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Delhi",
+      "kind": "area",
+      "locality": "India",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/India",
+      "id": "india-b0e4a26d16999f6b50a6"
+    },
+    {
+      "name": "Bengaluru",
+      "kind": "area",
+      "locality": "India",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/India",
+      "id": "india-6b4e4448f7ee4224a25e"
+    },
+    {
+      "name": "Chennai",
+      "kind": "area",
+      "locality": "India",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/India",
+      "id": "india-4c4d2490b131e72f6bd2"
+    },
+    {
+      "name": "Hyderabad",
+      "kind": "area",
+      "locality": "India",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/India",
+      "id": "india-0c6285a91e4127fb0ba8"
+    },
+    {
+      "name": "Jaipur",
+      "kind": "area",
+      "locality": "India",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/India",
+      "id": "india-54df0ed499a46a7a14fd"
+    },
+    {
+      "name": "Kolkata",
+      "kind": "area",
+      "locality": "India",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/India",
+      "id": "india-4689338df94c4fdc8a2d"
+    },
+    {
+      "name": "Mumbai",
+      "kind": "area",
+      "locality": "India",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/India",
+      "id": "india-fa5339a59a8433e74cd0"
+    },
+    {
+      "name": "Shimla",
+      "kind": "area",
+      "locality": "India",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/India",
+      "id": "india-4cfc1c84953664ae4406"
+    },
+    {
+      "name": "Varanasi",
+      "kind": "area",
+      "locality": "India",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/India",
+      "id": "india-b695f30b38aa94ec70fe"
+    },
+    {
+      "name": "New Delhi",
+      "kind": "area",
+      "locality": "New Delhi",
+      "lat": 28.61383,
+      "lon": 77.21599,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi",
+      "id": "india-5a05db4e064a46424c4c"
+    },
+    {
+      "name": "Rashtrapati Bhavan",
+      "kind": "do",
+      "locality": "New Delhi/Central",
+      "lat": 28.614342,
+      "lon": 77.199804,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FCentral",
+      "id": "india-8d362043e77fb73687f4"
+    },
+    {
+      "name": "Jaipur Column",
+      "kind": "do",
+      "locality": "New Delhi/Central",
+      "lat": 28.6143,
+      "lon": 77.2019,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FCentral",
+      "id": "india-5da7915159758ff66954"
+    },
+    {
+      "name": "Amrit Udyan",
+      "kind": "do",
+      "locality": "New Delhi/Central",
+      "lat": 28.614443,
+      "lon": 77.197797,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FCentral",
+      "id": "india-d488382cab5ad3a55cdd"
+    },
+    {
+      "name": "Central Secretariat",
+      "kind": "do",
+      "locality": "New Delhi/Central",
+      "lat": 28.615,
+      "lon": 77.205833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FCentral",
+      "id": "india-848b9867fbcf401ed70e"
+    },
+    {
+      "name": "Rashtrapati Bhavan Museum",
+      "kind": "do",
+      "locality": "New Delhi/Central",
+      "lat": 28.618813,
+      "lon": 77.196734,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FCentral",
+      "price": "₹50",
+      "url": "https://museum.rashtrapatibhavan.gov.in/",
+      "id": "india-7c99dbbc1a2958e63702"
+    },
+    {
+      "name": "11 Murti",
+      "kind": "do",
+      "locality": "New Delhi/Central",
+      "lat": 28.61006,
+      "lon": 77.1918,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FCentral",
+      "id": "india-6c5b83734b923756976a"
+    },
+    {
+      "name": "Cathedral Church of the Redemption",
+      "kind": "do",
+      "locality": "New Delhi/Central",
+      "lat": 28.618038,
+      "lon": 77.201978,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FCentral",
+      "address": "Church Lane",
+      "url": "http://www.theredemptionchurch.org/home.php",
+      "id": "india-4aa84d8e5024a8460521"
+    },
+    {
+      "name": "Gurudwara Rakab Ganj Sahib",
+      "kind": "do",
+      "locality": "New Delhi/Central",
+      "lat": 28.618187,
+      "lon": 77.204813,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FCentral",
+      "address": "Pandit Pant Marg",
+      "url": "http://www.dsgmc.in/",
+      "id": "india-67a512cf7d149489cae3"
+    },
+    {
+      "name": "Wall of Truth",
+      "kind": "do",
+      "locality": "New Delhi/Central",
+      "lat": 28.619846,
+      "lon": 77.205215,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FCentral",
+      "id": "india-21ed695dc966bd4628e9"
+    },
+    {
+      "name": "Parliament House",
+      "kind": "do",
+      "locality": "New Delhi/Central",
+      "lat": 28.617222,
+      "lon": 77.21,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FCentral",
+      "id": "india-f842ab7f52af70062906"
+    },
+    {
+      "name": "Samvidhan Sadan",
+      "kind": "do",
+      "locality": "New Delhi/Central",
+      "lat": 28.617189,
+      "lon": 77.208084,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FCentral",
+      "address": "Sansad Marg",
+      "id": "india-0b1001c09373d86a1271"
+    },
+    {
+      "name": "Parliament Museum",
+      "kind": "do",
+      "locality": "New Delhi/Central",
+      "lat": 28.618658,
+      "lon": 77.207172,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FCentral",
+      "address": "Gokul Nagar",
+      "url": "http://www.parliamentmuseum.org/",
+      "id": "india-fdad40ad90320e4298fd"
+    },
+    {
+      "name": "Kartavya Path",
+      "kind": "do",
+      "locality": "New Delhi/Central",
+      "lat": 28.613388,
+      "lon": 77.218397,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FCentral",
+      "id": "india-af5adc13c1dbd10c4709"
+    },
+    {
+      "name": "Kartavya Bhavan",
+      "kind": "do",
+      "locality": "New Delhi/Central",
+      "lat": 28.615664,
+      "lon": 77.221804,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FCentral",
+      "id": "india-0b7f7c480e7bba58cb5b"
+    },
+    {
+      "name": "National Museum",
+      "kind": "do",
+      "locality": "New Delhi/Central",
+      "lat": 28.611811,
+      "lon": 77.219262,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FCentral",
+      "url": "http://www.nationalmuseumindia.gov.in/",
+      "id": "india-118dd07739b198c46f89"
+    },
+    {
+      "name": "Seva Teerth",
+      "kind": "do",
+      "locality": "New Delhi/Central",
+      "lat": 28.610758,
+      "lon": 77.207972,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FCentral",
+      "id": "india-4317fec90d7e21284621"
+    },
+    {
+      "name": "Sunehri Bagh Masjid",
+      "kind": "do",
+      "locality": "New Delhi/Central",
+      "lat": 28.610278,
+      "lon": 77.211944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FCentral",
+      "id": "india-7651316f1d56e71b93ad"
+    },
+    {
+      "name": "Vice President's Enclave",
+      "kind": "do",
+      "locality": "New Delhi/Central",
+      "lat": 28.6109,
+      "lon": 77.2237,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FCentral",
+      "address": "108, Church Rd",
+      "id": "india-8b815efdf390b9783939"
+    },
+    {
+      "name": "India Gate",
+      "kind": "do",
+      "locality": "New Delhi/Central",
+      "lat": 28.612864,
+      "lon": 77.229306,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FCentral",
+      "id": "india-03c109862bba8d598257"
+    },
+    {
+      "name": "National War Memorial",
+      "kind": "do",
+      "locality": "New Delhi/Central",
+      "lat": 28.612772,
+      "lon": 77.233053,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FCentral",
+      "url": "https://www.nationalwarmemorial.gov.in/Default.php",
+      "id": "india-d92350fe41aac6b4f172"
+    },
+    {
+      "name": "Netaji's Statue",
+      "kind": "do",
+      "locality": "New Delhi/Central",
+      "lat": 28.612879,
+      "lon": 77.23113,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FCentral",
+      "id": "india-9f697f235d107b4436ba"
+    },
+    {
+      "name": "Param Yodha Sthal",
+      "kind": "do",
+      "locality": "New Delhi/Central",
+      "lat": 28.615004,
+      "lon": 77.23126,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FCentral",
+      "id": "india-f3c41785c039a621ee62"
+    },
+    {
+      "name": "Hyderabad House",
+      "kind": "do",
+      "locality": "New Delhi/Central",
+      "lat": 28.616025,
+      "lon": 77.227801,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FCentral",
+      "id": "india-c218af8b22d39efda70a"
+    },
+    {
+      "name": "National Gallery of Modern Art",
+      "kind": "do",
+      "locality": "New Delhi/Central",
+      "lat": 28.610182,
+      "lon": 77.234401,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FCentral",
+      "address": "Jaipur House, Justice SB Marg",
+      "url": "http://ngmaindia.gov.in/",
+      "id": "india-c48fb99a1c356ab20645"
+    },
+    {
+      "name": "Vigyan Bhawan",
+      "kind": "do",
+      "locality": "New Delhi/Central",
+      "lat": 28.610414,
+      "lon": 77.220814,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FCentral",
+      "id": "india-21d204c1271b01ca6175"
+    },
+    {
+      "name": "Major Dhyan Chand National Stadium",
+      "kind": "do",
+      "locality": "New Delhi/Central",
+      "lat": 28.6125,
+      "lon": 77.237222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FCentral",
+      "address": "Patiala House Sports Complex, India Gate Circle",
+      "id": "india-dc60508681efd1486cdd"
+    },
+    {
+      "name": "India Gate",
+      "kind": "eat",
+      "locality": "New Delhi/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FCentral",
+      "id": "india-2f818633a63ea7dc334e"
+    },
+    {
+      "name": "Jantar Mantar",
+      "kind": "do",
+      "locality": "New Delhi/North",
+      "lat": 28.627108,
+      "lon": 77.216478,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "Sansad Marg",
+      "url": "https://www.jantarmantar.org/learn/observatories/sites/observatoryDelhi/index.html",
+      "id": "india-a85acb71339cfe259ca4"
+    },
+    {
+      "name": "Palika Kendra",
+      "kind": "do",
+      "locality": "New Delhi/North",
+      "lat": 28.628389,
+      "lon": 77.215361,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "Sansad Marg",
+      "id": "india-ac147ba6037020a17728"
+    },
+    {
+      "name": "Supreme Court",
+      "kind": "do",
+      "locality": "New Delhi/North",
+      "lat": 28.6225,
+      "lon": 77.239444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "url": "http://sci.gov.in/",
+      "id": "india-1fd9bafe082aacb71698"
+    },
+    {
+      "name": "Ugrasen ki Baoli",
+      "kind": "do",
+      "locality": "New Delhi/North",
+      "lat": 28.626167,
+      "lon": 77.225083,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "Vakil Ln, Hailey Rd",
+      "price": "Free Entry",
+      "id": "india-4bc23cbdf4ba68d2c713"
+    },
+    {
+      "name": "Delhi Ridge",
+      "kind": "do",
+      "locality": "New Delhi/North",
+      "lat": 28.619,
+      "lon": 77.185,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "id": "india-c11cb4704724329e21c1"
+    },
+    {
+      "name": "Bhuli Bhatiyari Ka Mahal",
+      "kind": "do",
+      "locality": "New Delhi/North",
+      "lat": 28.641831,
+      "lon": 77.198173,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "id": "india-942d96efa6942865b860"
+    },
+    {
+      "name": "National Archives",
+      "kind": "do",
+      "locality": "New Delhi/North",
+      "lat": 28.627844,
+      "lon": 77.218969,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "url": "http://nationalarchives.nic.in/",
+      "id": "india-746a3b3eab189816a46c"
+    },
+    {
+      "name": "National Charkha Museum",
+      "kind": "do",
+      "locality": "New Delhi/North",
+      "lat": 28.631426,
+      "lon": 77.217402,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "url": "http://charkha.ndmc.gov.in/",
+      "id": "india-4e9273f68a1fe0f6f3c1"
+    },
+    {
+      "name": "National Philatelic Museum",
+      "kind": "do",
+      "locality": "New Delhi/North",
+      "lat": 28.622626,
+      "lon": 77.213415,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "Sansad Marg Rd",
+      "id": "india-21325d7260e3f74b1371"
+    },
+    {
+      "name": "Supreme Court Museum",
+      "kind": "do",
+      "locality": "New Delhi/North",
+      "lat": 28.62423,
+      "lon": 77.240103,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "id": "india-6c9b510ceac725ac1b9f"
+    },
+    {
+      "name": "Gurudwara Bangla Sahib",
+      "kind": "do",
+      "locality": "New Delhi/North",
+      "lat": 28.6267,
+      "lon": 77.2089,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "Ashoka Rd",
+      "price": "Free",
+      "url": "https://dsgmc.in/DharmParchar/GurdwaraBanglaSahib",
+      "id": "india-2b39609b8415e8042189"
+    },
+    {
+      "name": "Sacred Heart Cathedral",
+      "kind": "do",
+      "locality": "New Delhi/North",
+      "lat": 28.62866,
+      "lon": 77.20676,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "1 Ashok Place",
+      "url": "http://sacredheartcathedraldelhi.org/",
+      "id": "india-04194c414d0d59577d6d"
+    },
+    {
+      "name": "St Peter's Cathedral",
+      "kind": "do",
+      "locality": "New Delhi/North",
+      "lat": 28.62841,
+      "lon": 77.20466,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "Bhai Veer Singh Marg",
+      "id": "india-fe943bff2a609f8a6ca3"
+    },
+    {
+      "name": "Hanuman Temple",
+      "kind": "do",
+      "locality": "New Delhi/North",
+      "lat": 28.63,
+      "lon": 77.215,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "id": "india-2dd05b871188223315e6"
+    },
+    {
+      "name": "Laxminarayan Temple",
+      "kind": "do",
+      "locality": "New Delhi/North",
+      "lat": 28.632778,
+      "lon": 77.198889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "Mandir Marg",
+      "id": "india-7e23ae711393b580bc82"
+    },
+    {
+      "name": "New Delhi Kali Bari",
+      "kind": "do",
+      "locality": "New Delhi/North",
+      "lat": 28.630331,
+      "lon": 77.197245,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "Mandir Marg",
+      "id": "india-8844747a861fa151ad62"
+    },
+    {
+      "name": "Sri Venkateswara Swamy Temple",
+      "kind": "do",
+      "locality": "New Delhi/North",
+      "lat": 28.628679,
+      "lon": 77.197955,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "id": "india-06a77064770e0b202e7e"
+    },
+    {
+      "name": "Regal Theatre",
+      "kind": "do",
+      "locality": "New Delhi/North",
+      "lat": 28.630556,
+      "lon": 77.216944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "id": "india-d85874859d845f936c80"
+    },
+    {
+      "name": "Buddha Jayanti Park",
+      "kind": "do",
+      "locality": "New Delhi/North",
+      "lat": 28.61481,
+      "lon": 77.18173,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "Vande Mataram Marg",
+      "id": "india-234fbaa761dd6902b9a9"
+    },
+    {
+      "name": "Central Park",
+      "kind": "do",
+      "locality": "New Delhi/North",
+      "lat": 28.633214,
+      "lon": 77.219183,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "id": "india-71e36be785c8ee07ee18"
+    },
+    {
+      "name": "Karnail Singh Stadium",
+      "kind": "do",
+      "locality": "New Delhi/North",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "Basant Road, Railway Colony, Paharganj",
+      "id": "india-d9c419838da70485d6bb"
+    },
+    {
+      "name": "Talkatora Stadium",
+      "kind": "do",
+      "locality": "New Delhi/North",
+      "lat": 28.622456,
+      "lon": 77.192925,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "Mother Teresa Crescent",
+      "id": "india-3e4208fd7afd921fdfdc"
+    },
+    {
+      "name": "Khan Chacha",
+      "kind": "eat",
+      "locality": "New Delhi/North",
+      "lat": 28.634056,
+      "lon": 77.220939,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "D-3, Radial Rd 5, Block D, Connaught Pl",
+      "price": "Mains: ₹180-320",
+      "id": "india-a9f932fde8a257937b87"
+    },
+    {
+      "name": "Saravana Bhavan",
+      "kind": "eat",
+      "locality": "New Delhi/North",
+      "lat": 28.631803,
+      "lon": 77.216399,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "P-13/90, Connaught Circus, Block P, Connaught Place",
+      "url": "http://saravanabhavan.com/",
+      "id": "india-1613b08e9df523987e30"
+    },
+    {
+      "name": "Moti Mahal",
+      "kind": "eat",
+      "locality": "New Delhi/North",
+      "lat": 28.63524,
+      "lon": 77.22084,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "K9, Connaught Cir, Block K, Connaught Place",
+      "id": "india-d7327fba990ce7e6d6b0"
+    },
+    {
+      "name": "San Gimignano",
+      "kind": "eat",
+      "locality": "New Delhi/North",
+      "lat": 28.62549,
+      "lon": 77.21851,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "Janpath, Connaught Pl",
+      "id": "india-bdf8e5c69b3749cd74f0"
+    },
+    {
+      "name": "Fire",
+      "kind": "eat",
+      "locality": "New Delhi/North",
+      "lat": 28.6289,
+      "lon": 77.2161,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "Lobby Level, The Park, 15 Parliment Street, Connaught Place",
+      "price": "Mains: ₹350-700",
+      "url": "http://www.theparkhotels.com/new-delhi/the-park-new-delhi/fire.html",
+      "id": "india-1062a74b23c9f8c0e6bc"
+    },
+    {
+      "name": "Sakura",
+      "kind": "eat",
+      "locality": "New Delhi/North",
+      "lat": 28.63164,
+      "lon": 77.20806,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "Level 1, Hotel Metropolitan, Bangla Sahib Marg",
+      "url": "https://www.facebook.com/sakuraresaurant/",
+      "id": "india-ecbfe2cb460a8aae47ec"
+    },
+    {
+      "name": "Master Of Malts",
+      "kind": "eat",
+      "locality": "New Delhi/North",
+      "lat": 28.6298,
+      "lon": 77.2212,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "14 Scindia House, KG Marg, Connaught Place",
+      "price": "₹900 on average per person",
+      "url": "https://www.facebook.com/MasterOfMalts/",
+      "id": "india-f2726ded1cd520e4e842"
+    },
+    {
+      "name": "Ginger Delhi",
+      "kind": "stay",
+      "locality": "New Delhi/North",
+      "lat": 28.644502,
+      "lon": 77.223243,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "New Delhi station, Bhavbhuti Marg",
+      "price": "₹1,500-1,800",
+      "url": "http://www.gingerhotels.com/Delhi-RailYatriNiwas/Hotel_profile.aspx",
+      "id": "india-0d13e96c79bbfe5a1889"
+    },
+    {
+      "name": "Rail Yatri Niwas",
+      "kind": "stay",
+      "locality": "New Delhi/North",
+      "lat": 28.64448,
+      "lon": 77.22259,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "New Delhi station",
+      "price": "₹450",
+      "id": "india-4a846d41eeb8837e6ece"
+    },
+    {
+      "name": "YMCA Tourist Hostel",
+      "kind": "stay",
+      "locality": "New Delhi/North",
+      "lat": 28.62647,
+      "lon": 77.213078,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "id": "india-dbd9bfaa9f54c78dd397"
+    },
+    {
+      "name": "Banga Bhawan",
+      "kind": "stay",
+      "locality": "New Delhi/North",
+      "lat": 28.625974,
+      "lon": 77.225859,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "3, Hailey Rd",
+      "url": "https://rcwb.in/banga-bhawan/",
+      "id": "india-2098311d4472e5a96280"
+    },
+    {
+      "name": "Narula Inn",
+      "kind": "stay",
+      "locality": "New Delhi/North",
+      "lat": 28.6316,
+      "lon": 77.2162,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "1/90, (P-Block) Daulat Ram House",
+      "price": "Double: ₹4,990",
+      "id": "india-d8ff7fcd5ff98ce59264"
+    },
+    {
+      "name": "Prem Sagar Guest House",
+      "kind": "stay",
+      "locality": "New Delhi/North",
+      "lat": 28.63265,
+      "lon": 77.21619,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "P block, 1F, Connaught Pl, Outer Circle",
+      "price": "₹3,000-5,000",
+      "id": "india-f6c60d3e983d75cc4542"
+    },
+    {
+      "name": "The Connaught, New Delhi - IHCL SeleQtions",
+      "kind": "stay",
+      "locality": "New Delhi/North",
+      "lat": 28.632808,
+      "lon": 77.213148,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "id": "india-fd09c9d2dc14aad81c81"
+    },
+    {
+      "name": "Hotel The Royal Plaza",
+      "kind": "stay",
+      "locality": "New Delhi/North",
+      "lat": 28.62264,
+      "lon": 77.21399,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "id": "india-273cd53a989b8f76f5f9"
+    },
+    {
+      "name": "The Imperial",
+      "kind": "stay",
+      "locality": "New Delhi/North",
+      "lat": 28.6255,
+      "lon": 77.2158,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "Janpath",
+      "price": "From ₹8,750 during low season and ₹14,000 during high season",
+      "url": "http://theimperialindia.com/",
+      "id": "india-56f13a0b180d6bb3b1e8"
+    },
+    {
+      "name": "The LaLiT New Delhi",
+      "kind": "stay",
+      "locality": "New Delhi/North",
+      "lat": 28.631275,
+      "lon": 77.226103,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "Barakhamba Ave, Connaught Place",
+      "price": "₹11,000-18,000",
+      "url": "http://www.thelalit.com/the-lalit-new-delhi/",
+      "id": "india-adaa38ccd55f76d0b09e"
+    },
+    {
+      "name": "Le Méridien New Delhi",
+      "kind": "stay",
+      "locality": "New Delhi/North",
+      "lat": 28.61876,
+      "lon": 77.218376,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "Windsor Place",
+      "price": "₹15,600",
+      "url": "https://www.marriott.com/hotels/travel/delmd-le-meridien-new-delhi/",
+      "id": "india-7bc4b70eb3f91103fc14"
+    },
+    {
+      "name": "The Metropolitan Hotel & Spa",
+      "kind": "stay",
+      "locality": "New Delhi/North",
+      "lat": 28.63147,
+      "lon": 77.20812,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "id": "india-5fa4b15c0d26e7d067f3"
+    },
+    {
+      "name": "Radisson Blu Marina Hotel Connaught Place",
+      "kind": "stay",
+      "locality": "New Delhi/North",
+      "lat": 28.634024,
+      "lon": 77.21687,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "G-59, Connaught Circus",
+      "price": "₹18,200",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-marina-new-delhi-connaught-place",
+      "id": "india-b0f644e14333da3f4fdd"
+    },
+    {
+      "name": "Shangri-La Eros",
+      "kind": "stay",
+      "locality": "New Delhi/North",
+      "lat": 28.62098,
+      "lon": 77.21823,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FNorth",
+      "address": "19, Ashoka Rd",
+      "price": "From ₹6,375 during low season and ₹9,500 during high season",
+      "url": "http://www.shangri-la.com/en/newdelhi/erosshangrila/",
+      "id": "india-f03dd58891331981a3c8"
+    },
+    {
+      "name": "Indo-Africa Friendship Rose Garden",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.587965,
+      "lon": 77.184947,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "id": "india-3c357c9d10cde8f27fe1"
+    },
+    {
+      "name": "BRICS Friendship Rose Garden",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.587376,
+      "lon": 77.186421,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "id": "india-661fdeb82fc3da13a912"
+    },
+    {
+      "name": "National Police Memorial",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.60447,
+      "lon": 77.193626,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "id": "india-b1b1fc4bf7658e5ed5c0"
+    },
+    {
+      "name": "National Rail Museum",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.584833,
+      "lon": 77.181428,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "id": "india-84520d2deb951292e222"
+    },
+    {
+      "name": "Panchvati",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.598049,
+      "lon": 77.201519,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "address": "7, Lok Kalyan Marg",
+      "id": "india-174631e5f9c80097e1af"
+    },
+    {
+      "name": "Muhammad Shah's Tomb",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.5909,
+      "lon": 77.2183,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "address": "South eastern corner of Lodi Gardens",
+      "id": "india-08aeff874a27625e041c"
+    },
+    {
+      "name": "Lodi Period Mosque",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.59145,
+      "lon": 77.21948,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "id": "india-0ea9380b26a4d1db1fee"
+    },
+    {
+      "name": "Bara Gumbad",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.59309,
+      "lon": 77.220341,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "id": "india-a622e69c26149ddabcd0"
+    },
+    {
+      "name": "Sheesh Gumbad",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.593754,
+      "lon": 77.22017,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "id": "india-7cbccb30037bc2014b67"
+    },
+    {
+      "name": "Lodi Period Turret",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.5927,
+      "lon": 77.2211,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "address": "South east of Bada Gumbad and next to eastern wall of Lodi Gardens",
+      "id": "india-6524725397e08470536d"
+    },
+    {
+      "name": "Mughal Period Mosque and Gateway",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.59454,
+      "lon": 77.2224,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "id": "india-a99821fa4a475c786bd7"
+    },
+    {
+      "name": "Sikandar Lodi's Tomb",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.596259,
+      "lon": 77.221565,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "id": "india-27787cb3a56ccfc3b65b"
+    },
+    {
+      "name": "Athpula",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.596469,
+      "lon": 77.222959,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "id": "india-17ab7108e1756e877172"
+    },
+    {
+      "name": "Lodhi Art District",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.586466,
+      "lon": 77.225179,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "id": "india-7b5235b629ed6008ecb1"
+    },
+    {
+      "name": "Teen Murti Bhavan",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.602608,
+      "lon": 77.198774,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "address": "Chanakyapuri, Teen Murti Marg",
+      "price": "Free",
+      "id": "india-b9147a821168e81864a2"
+    },
+    {
+      "name": "Pradhanmantri Sangrahalaya",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.601474,
+      "lon": 77.198754,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "price": "₹100 per head",
+      "id": "india-553b615898692e9f18a1"
+    },
+    {
+      "name": "Nehru Planetarium",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.60389,
+      "lon": 77.198108,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "price": "₹50 for adults, ₹25 for children",
+      "id": "india-e2df133b11d0b2f1a9ea"
+    },
+    {
+      "name": "Khairul Manzil",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.6075,
+      "lon": 77.239444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "id": "india-2204dcce25bab49135a0"
+    },
+    {
+      "name": "Sher Shah Suri Gate",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.608611,
+      "lon": 77.239167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "address": "Mathura Rd",
+      "id": "india-02f36809b30a89cb02d9"
+    },
+    {
+      "name": "Lal Bangla",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.600278,
+      "lon": 77.238056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "address": "Delhi Golf Club, Dr, Zakir Husain Marg",
+      "id": "india-2ffd74a0df82bc5ba027"
+    },
+    {
+      "name": "Tomb of Mirza Najaf Khan",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.580833,
+      "lon": 77.213611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "address": "Main Aurobindo Marg, Safdarjung",
+      "id": "india-890c0aa39e9b899d3929"
+    },
+    {
+      "name": "Tomb of Safadar Jang",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.58929,
+      "lon": 77.21061,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "address": "Lodi Rd, Safdarjung",
+      "price": "₹5 for Indians, ₹100 for foreigners",
+      "url": "http://delhitourism.gov.in/delhitourism/tourist_place/safdarjang_tomb.jsp",
+      "id": "india-87101d11da22800589e6"
+    },
+    {
+      "name": "Dholpur House",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.6082,
+      "lon": 77.2267,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "address": "Shahjahan Rd",
+      "id": "india-b55e2e22be6a81327f95"
+    },
+    {
+      "name": "Gandhi Smriti",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.601861,
+      "lon": 77.214333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "url": "http://gandhismriti.gov.in/",
+      "id": "india-a423e7f853677e3fe6e1"
+    },
+    {
+      "name": "Indira Gandhi Memorial",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.600278,
+      "lon": 77.206111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "id": "india-8fbaece089aea758c69e"
+    },
+    {
+      "name": "Lal Bahadur Shastri Memorial",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.608211,
+      "lon": 77.219124,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "address": "1, Motilal Nehru Place",
+      "id": "india-f45bce57d1efe56f8297"
+    },
+    {
+      "name": "Delhi Golf Club",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.598445,
+      "lon": 77.235646,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "url": "https://delhigolfclub.org/",
+      "id": "india-6baa9e5f66ea2afea3be"
+    },
+    {
+      "name": "Delhi Gymkhana",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.598931,
+      "lon": 77.204886,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "address": "2, Safdarjung Rd",
+      "url": "http://www.delhigymkhana.org.in/",
+      "id": "india-79362b1dc6e23bbe95dc"
+    },
+    {
+      "name": "Nehru Park",
+      "kind": "do",
+      "locality": "New Delhi/South",
+      "lat": 28.590885,
+      "lon": 77.193138,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "address": "Vinay Marg, Chanakyapuri",
+      "id": "india-f80a545e0b9590244f0d"
+    },
+    {
+      "name": "Slice of Italy",
+      "kind": "eat",
+      "locality": "New Delhi/South",
+      "lat": 28.59122,
+      "lon": 77.2278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "address": "Shop No. 90, Lodhi Road, Mehar Chand Market",
+      "url": "http://www.sliceofitaly.com/",
+      "id": "india-f8f57f0897d1243b6065"
+    },
+    {
+      "name": "Ottimo At West View",
+      "kind": "eat",
+      "locality": "New Delhi/South",
+      "lat": 28.5972,
+      "lon": 77.1738,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "address": "Sardar Patel Marg, Akhaura Block, Diplomatic Enclave, Chanakyapuri",
+      "id": "india-1ae1696f6493ce3c59e6"
+    },
+    {
+      "name": "Mamagoto",
+      "kind": "eat",
+      "locality": "New Delhi/South",
+      "lat": 28.59979,
+      "lon": 77.22612,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "url": "https://mamagoto.in/",
+      "id": "india-c011a89993f87834ea84"
+    },
+    {
+      "name": "The Coffee Bean & Tea Leaf",
+      "kind": "eat",
+      "locality": "New Delhi/South",
+      "lat": 28.60188,
+      "lon": 77.1869,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "address": "19/48, Malcha Marg, Block C, Diplomatic Enclave, Chanakyapuri",
+      "url": "https://coffeebean.in/",
+      "id": "india-8c38fe01ce07a4d51022"
+    },
+    {
+      "name": "International Youth Hostel Delhi",
+      "kind": "stay",
+      "locality": "New Delhi/South",
+      "lat": 28.60239,
+      "lon": 77.18982,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "address": "5 Nyaya Marg, Chanakyapuri",
+      "price": "Dorm bed: ₹300 (Non air-con) to 600 (air-con). Double: ₹900 to ₹1,600",
+      "url": "http://www.yhaindia.org/",
+      "id": "india-64072940a7d492b6d681"
+    },
+    {
+      "name": "Maulsari Bed & Breakfast",
+      "kind": "stay",
+      "locality": "New Delhi/South",
+      "lat": 28.59881,
+      "lon": 77.24186,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "address": "142 Sunder Nagar",
+      "price": "From ₹4,500",
+      "id": "india-adb968cca36abbbcbdee"
+    },
+    {
+      "name": "The Ashok Hotel",
+      "kind": "stay",
+      "locality": "New Delhi/South",
+      "lat": 28.5971,
+      "lon": 77.19598,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "address": "50-B, Niti Marg, Chanakayapuri",
+      "price": "From ₹10,000. Discounts of 25%+ given for stays of 3+ nights",
+      "url": "https://www.theashokhotel.com/",
+      "id": "india-e401948bf4b12858f633"
+    },
+    {
+      "name": "The Claridges New Delhi",
+      "kind": "stay",
+      "locality": "New Delhi/South",
+      "lat": 28.60064,
+      "lon": 77.21634,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "address": "12 Dr APJ Abdul Kalam Rd",
+      "price": "From ₹13,000",
+      "url": "http://www.claridges.com/the-claridges-new-delhi",
+      "id": "india-0e53c7e3edaebd5e2f7f"
+    },
+    {
+      "name": "ITC Maurya",
+      "kind": "stay",
+      "locality": "New Delhi/South",
+      "lat": 28.59701,
+      "lon": 77.17374,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "address": "Sardar Patel Marg",
+      "price": "From ₹8,100 during low season and ₹12,000 during high season",
+      "url": "https://www.itchotels.com/in/en/itcmaurya-new-delhi",
+      "id": "india-f77abd72f5299a8d0310"
+    },
+    {
+      "name": "The Leela Palace New Delhi",
+      "kind": "stay",
+      "locality": "New Delhi/South",
+      "lat": 28.57946,
+      "lon": 77.18912,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "address": "Diplomatic Enclave, Chanakyapuri",
+      "url": "https://www.theleela.com/en_us/hotels-in-delhi/the-leela-palace-hotel-new-delhi/",
+      "id": "india-0103f85363bfd7e876ec"
+    },
+    {
+      "name": "Oberoi Delhi",
+      "kind": "stay",
+      "locality": "New Delhi/South",
+      "lat": 28.59622,
+      "lon": 77.23987,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "address": "Dr. Zakir Hussain Marg",
+      "price": "From ₹9,500 during low season and ₹12,000 during high season",
+      "url": "http://www.oberoihotels.com/hotels-in-delhi/",
+      "id": "india-0acd408847c6e3fa478d"
+    },
+    {
+      "name": "Taj Mahal Hotel",
+      "kind": "stay",
+      "locality": "New Delhi/South",
+      "lat": 28.604728,
+      "lon": 77.224228,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "address": "1, Man Singh Rd",
+      "price": "From ₹13,200",
+      "url": "https://taj.tajhotels.com/en-in/the-taj-mahal-hotel-new-delhi/",
+      "id": "india-1d1af379507b5d8e6d43"
+    },
+    {
+      "name": "Taj Palace",
+      "kind": "stay",
+      "locality": "New Delhi/South",
+      "lat": 28.5957,
+      "lon": 77.17112,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Delhi%2FSouth",
+      "address": "Sardar Patel Marg, Chanakyapuri",
+      "price": "Discounted rates from ₹19,200",
+      "url": "https://www.tajhotels.com/en-in/hotels/taj-palace-new-delhi",
+      "id": "india-6a3135b2af31768bdd66"
+    },
+    {
+      "name": "Agra",
+      "kind": "area",
+      "locality": "Agra",
+      "lat": 27.18,
+      "lon": 78.02,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra",
+      "id": "india-9bd74641a77bc2ba7746"
+    },
+    {
+      "name": "Darwaza-i-Rauza",
+      "kind": "do",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.1715,
+      "lon": 78.0422,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "id": "india-9faaa731c4cd5d64d712"
+    },
+    {
+      "name": "Tomb of Fatehpuri Begum",
+      "kind": "do",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.17069,
+      "lon": 78.04086,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "id": "india-67e795be594d4e8643fd"
+    },
+    {
+      "name": "Tomb of Sirhindi Begum",
+      "kind": "do",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.17071,
+      "lon": 78.04345,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "id": "india-964a47e1ec6cfbec5afa"
+    },
+    {
+      "name": "Hawd al-Kawthar",
+      "kind": "do",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.173174,
+      "lon": 78.042194,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "id": "india-9815185e219573a0ba37"
+    },
+    {
+      "name": "Naubat Khana",
+      "kind": "do",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.173163,
+      "lon": 78.043597,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "id": "india-67fb8d2acaf0756951c9"
+    },
+    {
+      "name": "Taj Museum",
+      "kind": "do",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.173153,
+      "lon": 78.040631,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "id": "india-a15e10897b9fc76ac948"
+    },
+    {
+      "name": "Well",
+      "kind": "do",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.17339,
+      "lon": 78.04151,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "id": "india-bd4d6bc309dad2034864"
+    },
+    {
+      "name": "Mausoleum",
+      "kind": "do",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.175,
+      "lon": 78.041944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "id": "india-ed9f07fb5843edf102cc"
+    },
+    {
+      "name": "Mosque and Jawab",
+      "kind": "do",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.175017,
+      "lon": 78.040689,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "id": "india-905c61f90e1aff536bf3"
+    },
+    {
+      "name": "Yamuna River",
+      "kind": "do",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.1764,
+      "lon": 78.04204,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "id": "india-b2e39fcd0139d74152eb"
+    },
+    {
+      "name": "Dussehra Ghat",
+      "kind": "do",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.175963,
+      "lon": 78.043951,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "id": "india-a020c802ba01d02ae6b8"
+    },
+    {
+      "name": "Hazrat Ahmad Shah Bukhari Rahmatullah Aleh Dargah",
+      "kind": "do",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.176893,
+      "lon": 78.048385,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "id": "india-952aa2338be490e275be"
+    },
+    {
+      "name": "Kalakriti Cultural and Convention Centre",
+      "kind": "do",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.162044,
+      "lon": 78.059781,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "41/142, A/1 Taj East Gate Rd",
+      "url": "http://www.kalakrititheater.com/",
+      "id": "india-c04e69892dc3e7503916"
+    },
+    {
+      "name": "Tomb of Kandhari Begum",
+      "kind": "do",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.17206,
+      "lon": 78.04403,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "id": "india-9cef4bb0f67d673a9bfe"
+    },
+    {
+      "name": "Khan-i-Alam Bagh",
+      "kind": "do",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.17335,
+      "lon": 78.04047,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "id": "india-5383758c303e693c9138"
+    },
+    {
+      "name": "Shahjahan Garden",
+      "kind": "do",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.17074,
+      "lon": 78.03526,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "id": "india-0ed358fdae69403d1cfb"
+    },
+    {
+      "name": "Fatehpuri Masjid",
+      "kind": "do",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.170823,
+      "lon": 78.040371,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "id": "india-0d3f4d583c56279dee25"
+    },
+    {
+      "name": "Agra Golf Course",
+      "kind": "do",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.1676,
+      "lon": 78.0346,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "id": "india-6ee04fd48da59a766903"
+    },
+    {
+      "name": "Taj Nature Walk",
+      "kind": "do",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.1703,
+      "lon": 78.04857,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "price": "Indian nationals ₹40 (up to 5 years free, 5 to 10 years ₹20), foreigners ₹100",
+      "id": "india-3c3c6bbe02c0577df368"
+    },
+    {
+      "name": "Joney's Place",
+      "kind": "eat",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.1692569,
+      "lon": 78.0419233,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "Taj Ganj",
+      "id": "india-56c5b537045c9f032313"
+    },
+    {
+      "name": "Treat Restaurant",
+      "kind": "eat",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.1691033,
+      "lon": 78.0419485,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "South Gate Taj Mahal",
+      "id": "india-87d2f6076cb46ec05877"
+    },
+    {
+      "name": "Yash Cafe",
+      "kind": "eat",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.1688966,
+      "lon": 78.0434532,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "3/137 Chawk Kaghzian, near Hotel Shanti Lodge",
+      "id": "india-29c090b1e43ba7e9f18d"
+    },
+    {
+      "name": "Tea’se Me",
+      "kind": "eat",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.1662111,
+      "lon": 78.036916,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "18/159D Hotel M House, Fatehabad Rd",
+      "id": "india-3396e09f1981c78cfd13"
+    },
+    {
+      "name": "Berco's Tajganj Agra",
+      "kind": "eat",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.1625552,
+      "lon": 78.0369126,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "Ground Floor, Howard Plaza",
+      "id": "india-60016a9d5fafc3cd4e09"
+    },
+    {
+      "name": "Taj Restaurant",
+      "kind": "eat",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.170642,
+      "lon": 78.03982,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "West Gate",
+      "id": "india-01427bb228c7cd8c4553"
+    },
+    {
+      "name": "Amar Vilas Bar",
+      "kind": "eat",
+      "locality": "Agra/Taj Mahal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "Taj East Gate Rd",
+      "id": "india-ffa1afea8141576e6524"
+    },
+    {
+      "name": "Downing Street Bar",
+      "kind": "eat",
+      "locality": "Agra/Taj Mahal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "Howard Sarovar Portico, Fatehabad Road",
+      "id": "india-702d251180545dd282d7"
+    },
+    {
+      "name": "Mughal Bar",
+      "kind": "eat",
+      "locality": "Agra/Taj Mahal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "54, Taj Road",
+      "id": "india-47030054788a45feeaf6"
+    },
+    {
+      "name": "Col Lamba Indian Home Stay",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "58 Gulmohar Enclave, Shamsabad Rd",
+      "price": "Around ₹700 per person",
+      "url": "http://www.agra-indianhomestay.com/",
+      "id": "india-470a2b0810063e9b1771"
+    },
+    {
+      "name": "Shahjahan",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "South Gate, near police station Tajganj",
+      "price": "₹300 for a couple",
+      "id": "india-7956e3dd923aeb0e1b7d"
+    },
+    {
+      "name": "Friends Paying Guest House",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.163552,
+      "lon": 78.053602,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "p-6 , Taj Nagri Phase 1, near Shilpgram Rd",
+      "price": "Double ₹400",
+      "url": "http://www.friendspayingguesthouse.com/",
+      "id": "india-a1c79c91eb41f70f77a3"
+    },
+    {
+      "name": "Hotel Kamal",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.16914,
+      "lon": 78.04247,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "price": "₹300-850",
+      "id": "india-ff0bcbc0f1a3b2e7d822"
+    },
+    {
+      "name": "Hotel Neel Kanth",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "Fatehabad Rd",
+      "price": "₹100+",
+      "id": "india-810824d5ce6f074445e1"
+    },
+    {
+      "name": "Hotel Raj",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "price": "About ₹800",
+      "id": "india-536d711c197b8459f9d4"
+    },
+    {
+      "name": "Hotel Sheela",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "Tajganj",
+      "price": "₹500-800",
+      "id": "india-22592216c891846d781c"
+    },
+    {
+      "name": "India Inn",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "Taj Mahal South Gate",
+      "price": "₹300 for a double in off season",
+      "id": "india-1404a0e4a4dab40f11ba"
+    },
+    {
+      "name": "Rhine Hostel",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "HIG - 2/10, Near Shilpgram Parking, Taj Nagri Phase 1, Taj East Gate Rd, Telipara",
+      "price": "single ₹199",
+      "url": "http://www.rhinehostel.com/",
+      "id": "india-4f678076904a433e9543"
+    },
+    {
+      "name": "Saniya Palace",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "Chowk Kajziyan, South Gate, Taj Ganj",
+      "id": "india-69cb11e9a1ecbf71fd6b"
+    },
+    {
+      "name": "Shanti lodge",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "id": "india-9265d8d5f72bbbd6ec53"
+    },
+    {
+      "name": "Harshit paying guest house",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "P-50A Taj nagari phase-1, Tajganj",
+      "price": "₹5,000",
+      "id": "india-958d36fbae733ed5bb20"
+    },
+    {
+      "name": "Hotel Mandakini Villas",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "Fatehabad Road, Purani Mandi, Taj Ganj",
+      "price": "Rates start at ₹2,690",
+      "url": "http://mandakini-villas-agra.hotels-agra.com/en/",
+      "id": "india-e061084ab1fbada42151"
+    },
+    {
+      "name": "Hotel Priya",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "Near Priya Restaurant, Near TDI Mall, Fatehabad Road",
+      "price": "Double ₹1,355-2,850. Breakfast ₹150 (taxes not included.)",
+      "url": "https://www.facebook.com/hotelpriyaagra/",
+      "id": "india-8169b4dc06aee68392ea"
+    },
+    {
+      "name": "Hotel Taj Khema",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.171289,
+      "lon": 78.046209,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "Taj East Gate Rd",
+      "url": "https://upstdc.co.in/Booking/HotelBooking",
+      "id": "india-7d4141abd1e75472c99b"
+    },
+    {
+      "name": "Hotel Taj Resorts",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.168339,
+      "lon": 78.051151,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "538, Taj East Gate Rd",
+      "price": "US$60-70/night, ₹4,000-6,000 (June 2012, tax not included)",
+      "url": "http://www.hoteltajresorts.com/",
+      "id": "india-d269449e226467e5f6f6"
+    },
+    {
+      "name": "N.Homestay",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.1575,
+      "lon": 78.03508,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "15 Ajanta Colony, Vaibhav Nagar",
+      "price": "Single air-con room [June 2012]: ₹1199 & Double air-con room [June 2012]: ₹1499",
+      "url": "https://www.nhomestay.com/",
+      "id": "india-afd810d6193d86ad33d7"
+    },
+    {
+      "name": "Rajmahal hotel",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "Shilpgram, VIP Rd (eastern gate)",
+      "price": "from ₹3,500 to ₹5,500 for couple",
+      "id": "india-05de32fb0106e4e98406"
+    },
+    {
+      "name": "Tajview",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.16091,
+      "lon": 78.03998,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "price": "₹5,300",
+      "url": "https://www.seleqtionshotels.com/en-in/hotels/taj-view-agra",
+      "id": "india-66dfce3974145d55694e"
+    },
+    {
+      "name": "Courtyard by Marriott Agra",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.1565,
+      "lon": 78.05975,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "Taj Nagri, Phase II, Fatehabad Rd",
+      "price": "₹5,699 per night",
+      "url": "https://www.marriott.com/hotels/travel/agrcy-courtyard-agra",
+      "id": "india-29fd86d9b8b840280fe7"
+    },
+    {
+      "name": "DoubleTree by Hilton Agra",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.15191,
+      "lon": 78.05082,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "id": "india-680838f9a81bf8dfd6b0"
+    },
+    {
+      "name": "Howard Plaza the Fern, Agra",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.16271,
+      "lon": 78.03668,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "id": "india-61cb8ddd21df0977253f"
+    },
+    {
+      "name": "ITC Mughal",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.1612,
+      "lon": 78.044,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "Taj Ganj",
+      "price": "Double room [June 2012]: from ₹4,845 to ₹100,000. Taxes not included",
+      "url": "https://www.itchotels.com/in/en/itcmughal-agra",
+      "id": "india-efd31f0c5515740fc04f"
+    },
+    {
+      "name": "The Oberoi Amarvilas Agra",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.16801,
+      "lon": 78.04944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "Taj East Gate Rd",
+      "price": "from ₹31,860",
+      "url": "https://www.oberoihotels.com/hotels-in-agra-amarvilas-resort/",
+      "id": "india-4275fc6ea7b7ddb442b6"
+    },
+    {
+      "name": "Radisson Hotel Agra",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.158603,
+      "lon": 78.053366,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "1, Fatehabad Rd, Taj Nagri Phase 2",
+      "price": "₹6,150",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-agra",
+      "id": "india-5de94cdd8e59492014c4"
+    },
+    {
+      "name": "Ramada Plaza by Wyndham Agra",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.13777,
+      "lon": 78.09194,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "id": "india-514767f635d620f80f59"
+    },
+    {
+      "name": "The Retreat",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.16236,
+      "lon": 78.054016,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "id": "india-6e9f4ff16b752ec5fb2e"
+    },
+    {
+      "name": "Taj Agra",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.16263,
+      "lon": 78.05631,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "Taj East Gate Rd, Phase 1, Taj Nagari",
+      "url": "https://www.tajhotels.com/en-in/hotels/taj-agra",
+      "id": "india-98f24f6e25e5250f13d6"
+    },
+    {
+      "name": "The Trident Agra",
+      "kind": "stay",
+      "locality": "Agra/Taj Mahal",
+      "lat": 27.15933,
+      "lon": 78.06043,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FTaj_Mahal",
+      "address": "Fathebad Road",
+      "price": "Rooms from US$89",
+      "url": "http://www.tridenthotels.com/hotels-in-agra/",
+      "id": "india-dc2a86e7c1caf6489be4"
+    },
+    {
+      "name": "Agra Fort",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.179583,
+      "lon": 78.021297,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "url": "https://www.tajmahal.gov.in/agrafort.aspx",
+      "id": "india-c1f9149f4511ee90a0ba"
+    },
+    {
+      "name": "Diwan-i-Am",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.17889,
+      "lon": 78.02337,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "id": "india-a5109252c5e722aa1533"
+    },
+    {
+      "name": "Diwan-i-Khas",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.17985,
+      "lon": 78.020914,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "id": "india-b697e9bab533351fe24a"
+    },
+    {
+      "name": "Jahangiri Mahal",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.177889,
+      "lon": 78.023,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "id": "india-f0203862e51d4d066bfb"
+    },
+    {
+      "name": "Mina Masjid",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.178722,
+      "lon": 78.023139,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "id": "india-89563e91720997a384a1"
+    },
+    {
+      "name": "Moti Masjid",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.18034,
+      "lon": 78.02169,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "id": "india-75bc150c75bdc3ad249f"
+    },
+    {
+      "name": "Musamman Burj",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.1789,
+      "lon": 78.0236,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "id": "india-71414b3a14ed2628baae"
+    },
+    {
+      "name": "Nagina Masjid",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.17938,
+      "lon": 78.02258,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "id": "india-a5f46f911db1e283312d"
+    },
+    {
+      "name": "Shah Jahani Mahal",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.17876,
+      "lon": 78.02314,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "id": "india-ec2501d587c3d9b5e771"
+    },
+    {
+      "name": "Sheesh Mahal",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.17985,
+      "lon": 78.020914,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "id": "india-26b787689ae3bcd73f63"
+    },
+    {
+      "name": "Tomb of John Russel Colvin",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.178822,
+      "lon": 78.022258,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "id": "india-4b9b7793a3787c756e84"
+    },
+    {
+      "name": "Jaswant Singh ki Chatri",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.214144,
+      "lon": 78.033942,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "id": "india-86dc7b24fb2ae676c018"
+    },
+    {
+      "name": "Mariam's Tomb",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.21529,
+      "lon": 77.94203,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "id": "india-def127da168f78ca2e5e"
+    },
+    {
+      "name": "Roman Catholic Cemetery",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.210317,
+      "lon": 78.004925,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "id": "india-5896b74d8dbfb49bc2b7"
+    },
+    {
+      "name": "Sikandra",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.220556,
+      "lon": 77.950556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "id": "india-54e6ebd6ed35f61dc026"
+    },
+    {
+      "name": "Tomb of Firoz Khan Khwajasara",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.1379,
+      "lon": 78.002,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "id": "india-e5523faa798f533faae4"
+    },
+    {
+      "name": "Soami Bagh",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.2228,
+      "lon": 78.00925,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "id": "india-58624580b372cfbaf5e1"
+    },
+    {
+      "name": "Guru ka Tal",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.211669,
+      "lon": 77.967496,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "url": "http://www.gurdwaragurukataal.com/",
+      "id": "india-afac805b4391d8896d8d"
+    },
+    {
+      "name": "Akbar's Church",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.197342,
+      "lon": 78.010397,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "url": "http://www.agraarchdiocese.com/",
+      "id": "india-6003ef186846679819f4"
+    },
+    {
+      "name": "Cathedral of the Immaculate Conception",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.1978,
+      "lon": 78.0097,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "id": "india-5aa06f5d0b3dc5cdbc7b"
+    },
+    {
+      "name": "St John's Church",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.21528,
+      "lon": 77.94412,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "id": "india-a3483b43095f14c6d798"
+    },
+    {
+      "name": "Great Idgah",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.169557,
+      "lon": 78.003396,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "id": "india-72e3fef81313f0c35939"
+    },
+    {
+      "name": "Jama Masjid",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.181944,
+      "lon": 78.016111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "id": "india-b794cc56765406703d5b"
+    },
+    {
+      "name": "Dayal Bagh Temple",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.224167,
+      "lon": 78.013333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "url": "https://www.dayalbagh.org.in/",
+      "id": "india-545596485c17123498ee"
+    },
+    {
+      "name": "Mankameshwar Temple",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.18368,
+      "lon": 78.0175,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "address": "Rawatpara",
+      "id": "india-ec447ae2bfb9fd99f6c8"
+    },
+    {
+      "name": "Adlabs Multiplex",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "price": "₹150 for a Hindi Show & ₹450 for a show in English",
+      "id": "india-2a9beba77864bc534af7"
+    },
+    {
+      "name": "Eklavya Sports Stadium",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.1608,
+      "lon": 78.0087,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "id": "india-8e44ede1ef63b26b7572"
+    },
+    {
+      "name": "Meher Theatre",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.165213,
+      "lon": 78.014763,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "id": "india-2b35902f127c1860e6da"
+    },
+    {
+      "name": "Keetham Lake",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.253294,
+      "lon": 77.843875,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "id": "india-af7ccce10b9f9b20dbd8"
+    },
+    {
+      "name": "Paliwal Park",
+      "kind": "do",
+      "locality": "Agra/City and Fort",
+      "lat": 27.200556,
+      "lon": 78.014167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "id": "india-816817ce928e5d6b835e"
+    },
+    {
+      "name": "Manoj Restaurant",
+      "kind": "eat",
+      "locality": "Agra/City and Fort",
+      "lat": 27.1833701,
+      "lon": 78.0160041,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "address": "Johari Bazar Rd",
+      "id": "india-0089f51e4178476bc89c"
+    },
+    {
+      "name": "Dayal Lodge",
+      "kind": "stay",
+      "locality": "Agra/City and Fort",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "address": "25 New Agra, Dayalbagh Road",
+      "price": "Double room with air-con ₹700-800",
+      "url": "http://www.dayal.co.in/",
+      "id": "india-cb44d072d73fa8598a47"
+    },
+    {
+      "name": "Hotel Jaiwal",
+      "kind": "stay",
+      "locality": "Agra/City and Fort",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "address": "3 Taj Road, Sadar Bazar",
+      "price": "₹75-325",
+      "id": "india-97982a0a93dc81a8b1ad"
+    },
+    {
+      "name": "Youth Hostel",
+      "kind": "stay",
+      "locality": "Agra/City and Fort",
+      "lat": 27.198109,
+      "lon": 78.003119,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "address": "Sanjay Place, MG Rd",
+      "price": "₹50-₹125",
+      "id": "india-6f9e081f25c4b54fca5e"
+    },
+    {
+      "name": "Hotel Clarks Shiraz",
+      "kind": "stay",
+      "locality": "Agra/City and Fort",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "address": "54, Taj Rd",
+      "price": "₹3,950-5,670",
+      "url": "http://www.hotelclarksshiraz.com/",
+      "id": "india-a4d7b7813b013fad280a"
+    },
+    {
+      "name": "Laurie's Hotel",
+      "kind": "stay",
+      "locality": "Agra/City and Fort",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "address": "Mahatma Gandhi Rd",
+      "id": "india-be604be95a9bb2c10ce4"
+    },
+    {
+      "name": "Fairfield by Marriott Agra",
+      "kind": "stay",
+      "locality": "Agra/City and Fort",
+      "lat": 27.20102,
+      "lon": 78.00885,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "address": "119/8 & 120/8, Ashok Cosmos Mall, Wazirpura Road, Civil Lines, Sanjay Place",
+      "price": "₹3,601 per night",
+      "url": "https://www.marriott.com/hotels/travel/agrfi-fairfield-agra",
+      "id": "india-f948cafaf4556836b80c"
+    },
+    {
+      "name": "Holiday Inn Agra MG Road",
+      "kind": "stay",
+      "locality": "Agra/City and Fort",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FCity_and_Fort",
+      "address": "16/2/8, MG Rd, Sanjay Place, Civil Lines",
+      "price": "₹6,100-6,300",
+      "url": "https://www.ihg.com/holidayinn/hotels/us/en/agra/agrmg/hoteldetail",
+      "id": "india-b6fd9cdd987f7c867e28"
+    },
+    {
+      "name": "Battis Khamba",
+      "kind": "do",
+      "locality": "Agra/North",
+      "lat": 27.2095,
+      "lon": 78.038,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FNorth",
+      "id": "india-7ce0acd99e7e38a27990"
+    },
+    {
+      "name": "Gyarah Sidhi",
+      "kind": "do",
+      "locality": "Agra/North",
+      "lat": 27.179706,
+      "lon": 78.033877,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FNorth",
+      "id": "india-a6bce05986a0cdcb0b34"
+    },
+    {
+      "name": "Humayun Masjid",
+      "kind": "do",
+      "locality": "Agra/North",
+      "lat": 27.182497,
+      "lon": 78.039401,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FNorth",
+      "id": "india-ec2620fbbfe0da39bf83"
+    },
+    {
+      "name": "Aram Bagh",
+      "kind": "do",
+      "locality": "Agra/North",
+      "lat": 27.2054,
+      "lon": 78.0386,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FNorth",
+      "id": "india-296a09e74d761f29b856"
+    },
+    {
+      "name": "Mehtab Bagh",
+      "kind": "do",
+      "locality": "Agra/North",
+      "lat": 27.179722,
+      "lon": 78.041944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FNorth",
+      "price": "₹50 for Indians, ₹300 for foreigners. The ADA Taj Mahal View Point costs ₹200",
+      "url": "http://www.adaagra.org.in/",
+      "id": "india-241f3f68254fd8f91783"
+    },
+    {
+      "name": "Tomb of Itimad-ud-Daulah",
+      "kind": "do",
+      "locality": "Agra/North",
+      "lat": 27.1925,
+      "lon": 78.031389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FNorth",
+      "price": "₹300 for foreigners",
+      "id": "india-7fda5ba9073ea27e49a0"
+    },
+    {
+      "name": "Chauburji",
+      "kind": "do",
+      "locality": "Agra/North",
+      "lat": 27.19255,
+      "lon": 78.034878,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FNorth",
+      "id": "india-d3075d03845ddf273183"
+    },
+    {
+      "name": "Chini Ka Rauza",
+      "kind": "do",
+      "locality": "Agra/North",
+      "lat": 27.200833,
+      "lon": 78.034167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Agra%2FNorth",
+      "id": "india-438ae535f722f8ad08c9"
+    },
+    {
+      "name": "Thiruvananthapuram",
+      "kind": "area",
+      "locality": "Kerala",
+      "lat": 8.49156,
+      "lon": 76.95047,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kerala",
+      "id": "india-0616a4a933688ec79897"
+    },
+    {
+      "name": "Alappuzha",
+      "kind": "area",
+      "locality": "Kerala",
+      "lat": 9.49512,
+      "lon": 76.33163,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kerala",
+      "id": "india-69079c8751d1adec12f1"
+    },
+    {
+      "name": "Kalpetta",
+      "kind": "area",
+      "locality": "Kerala",
+      "lat": 10.52,
+      "lon": 76.21,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kerala",
+      "id": "india-87169bc075adc30bcf4c"
+    },
+    {
+      "name": "Kannur",
+      "kind": "area",
+      "locality": "Kerala",
+      "lat": 11.8689,
+      "lon": 75.3555,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kerala",
+      "id": "india-d434766a17e0407ced81"
+    },
+    {
+      "name": "Kochi",
+      "kind": "area",
+      "locality": "Kerala",
+      "lat": 9.94501,
+      "lon": 76.25134,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kerala",
+      "id": "india-b270b8ed6597917e1e95"
+    },
+    {
+      "name": "Kozhikode",
+      "kind": "area",
+      "locality": "Kerala",
+      "lat": 11.25,
+      "lon": 75.77,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kerala",
+      "id": "india-1f98d420e0d8c6c72226"
+    },
+    {
+      "name": "Munnar",
+      "kind": "area",
+      "locality": "Kerala",
+      "lat": 10.08893,
+      "lon": 77.05952,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kerala",
+      "id": "india-acb1ed216568420be385"
+    },
+    {
+      "name": "Sabarimala",
+      "kind": "area",
+      "locality": "Kerala",
+      "lat": 10.19031,
+      "lon": 77.17727,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kerala",
+      "id": "india-76081d1d3db26720a63a"
+    },
+    {
+      "name": "Thekkady",
+      "kind": "area",
+      "locality": "Kerala",
+      "lat": 9.60311,
+      "lon": 77.16146,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kerala",
+      "id": "india-9999f6513ffcb0cce717"
+    },
+    {
+      "name": "Kerala",
+      "kind": "area",
+      "locality": "Kerala",
+      "lat": 10.82,
+      "lon": 77.29,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kerala",
+      "id": "india-10b4ebd266c016015a03"
+    },
+    {
+      "name": "Amber Fort",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.985486,
+      "lon": 75.851345,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "url": "http://www.tourism.rajasthan.gov.in/amber-palace.html",
+      "id": "india-1a81837d1adb6a54f721"
+    },
+    {
+      "name": "Dalaram Bagh",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.98625,
+      "lon": 75.853333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "id": "india-a301bfbff9fc25e173e9"
+    },
+    {
+      "name": "Diwan-i-Am",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.986251,
+      "lon": 75.850962,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "id": "india-78e19a04c5659fd5a836"
+    },
+    {
+      "name": "Sheesh Mahal",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.985766,
+      "lon": 75.850642,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "id": "india-56824d5a1b611a0ff1d3"
+    },
+    {
+      "name": "Jaigarh Fort",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.986654,
+      "lon": 75.845654,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "url": "http://tourism.rajasthan.gov.in/jaipur#jaigarh-fort",
+      "id": "india-74f3aed2596af27e1b2e"
+    },
+    {
+      "name": "Nahargarh Fort",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.939946,
+      "lon": 75.816768,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Krishna Nagar, Brahampuri",
+      "url": "http://tourismtravelindia.com/rajasthanportal/touristattractions/NAHARGARH.html",
+      "id": "india-54da0fae20d01583a417"
+    },
+    {
+      "name": "City Palace",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.9255,
+      "lon": 75.8236,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Jaleb Chowk",
+      "url": "https://royaljaipur.in/",
+      "id": "india-6d6d288a23238a331ef3"
+    },
+    {
+      "name": "Hawa Mahal",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.924,
+      "lon": 75.82672,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "price": "₹10 for Indians, ₹200 for foreigners. Included in the Composite Ticket, free on 18 May. Camera free",
+      "url": "http://museumsrajasthan.gov.in/monument/hawa-mahal",
+      "id": "india-be0dfb2d10809dc7d7ac"
+    },
+    {
+      "name": "Jal Mahal",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.953333,
+      "lon": 75.846111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Jal Mahal Amer Road",
+      "price": "Free to view and photograph, but as of 2015, it is private property, so you probably won't be allowed to enter",
+      "id": "india-05891425ec93023eee2a"
+    },
+    {
+      "name": "Mundota Fort and Palace",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.96,
+      "lon": 75.62,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "id": "india-f9755c863ca36ffd785b"
+    },
+    {
+      "name": "Akshardham Temple",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.90222,
+      "lon": 75.74062,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Vaishali Nagar",
+      "id": "india-95390f919566c61f21cd"
+    },
+    {
+      "name": "Birla Mandir (aka The Marble Temple)",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.892161,
+      "lon": 75.81553,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "price": "Free",
+      "url": "http://www.jaipur.org.uk/temples/birla-temple.html",
+      "id": "india-db3b63b777836be0f99a"
+    },
+    {
+      "name": "Galtaji",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.91692,
+      "lon": 75.85812,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "10 km from Jaipur on Jaipur-Agra highway near Sisodia Rani Garden",
+      "price": "₹100 for foreigners, ₹150 camera charge",
+      "url": "http://www.galtaji.org/",
+      "id": "india-f61ceb74bb2bd2f95cea"
+    },
+    {
+      "name": "Galwar Bagh",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.91679,
+      "lon": 75.858903,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Eastern edge of the city",
+      "id": "india-cede1f9a4dcb23e81b2c"
+    },
+    {
+      "name": "Govind Devji Temple",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.92883,
+      "lon": 75.82403,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "price": "Free",
+      "url": "http://www.govinddevji.net/",
+      "id": "india-9becfb6eaba3b8e36dbd"
+    },
+    {
+      "name": "Jagat Shiromani Temple",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.988856,
+      "lon": 75.851183,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "url": "https://www.jagatshiromaniji.com/",
+      "id": "india-fb17ab083a43e5e19854"
+    },
+    {
+      "name": "Jain Mandir",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.923767,
+      "lon": 75.819993,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "id": "india-1339d4d54766ac4505d2"
+    },
+    {
+      "name": "Moti Dungri Mandir",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.894621,
+      "lon": 75.81674,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "JLN Road",
+      "url": "https://www.facebook.com/pages/Motie-Dungri-Ganesh-Temple-Jaipur/377718742253504?rf=438916602813648",
+      "id": "india-050b772530ebf5dd2ce3"
+    },
+    {
+      "name": "Shri Digamber Jain Atishya Kshetra Mandir, Sanghiji",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.815,
+      "lon": 75.786111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Sanganer",
+      "id": "india-08201ebd983f770cdd1c"
+    },
+    {
+      "name": "Gaitore",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.942865,
+      "lon": 75.824643,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "id": "india-15f895433b5edfc53058"
+    },
+    {
+      "name": "Iswari Minar Swarga Sal",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.923983,
+      "lon": 75.822642,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Chandpol Bazaar near City Palace",
+      "price": "Indian/foreigner: ₹5/10, camera/video: ₹10/20",
+      "id": "india-f2f6f42652d5fa09da75"
+    },
+    {
+      "name": "Jantar Mantar",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.924722,
+      "lon": 75.825,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "price": "₹40 for Indians, ₹200 for foreigners",
+      "url": "http://museumsrajasthan.gov.in/monument/jantar-mantar",
+      "id": "india-bb0ace18435256c0acc3"
+    },
+    {
+      "name": "Panna Meena Ka Kund Stepwell",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.991105,
+      "lon": 75.851229,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "id": "india-68e630b34125b5a14ac8"
+    },
+    {
+      "name": "Ram Niwas Garden",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.9153,
+      "lon": 75.8187,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "exact city centre",
+      "id": "india-57355c33c0462bed664f"
+    },
+    {
+      "name": "Sisodia Rani Palace and Garden",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.899269,
+      "lon": 75.858629,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "price": "₹50/200 for Indians/foreigners",
+      "id": "india-e86b4117bb3c65d4da0d"
+    },
+    {
+      "name": "Vidyadhar Garden",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.899791,
+      "lon": 75.853619,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "price": "₹50/200 for Indians/foreigners",
+      "id": "india-7e4858d0a4fc64b0ea68"
+    },
+    {
+      "name": "Zoological Garden",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.912236,
+      "lon": 75.821436,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "price": "₹10/100 for Indians/foreigners",
+      "id": "india-6aa1fabe68b3a10b0984"
+    },
+    {
+      "name": "Nahargarh Wildlife Sanctuary",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.9993,
+      "lon": 75.8374,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "id": "india-c7193c39c5f73c9276a6"
+    },
+    {
+      "name": "Jhalana–Amagarh Leopard Conservation Reserve",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.885,
+      "lon": 75.85,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "id": "india-64cc0e3d591d8469cd04"
+    },
+    {
+      "name": "Jawahar Circle",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.8404,
+      "lon": 75.8003,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "id": "india-22dc997bfeccf0c10356"
+    },
+    {
+      "name": "Anokhi Museum of Hand Printing",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.993934,
+      "lon": 75.850776,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Kheri Gate, Amber",
+      "url": "https://www.anokhimuseum.com/",
+      "id": "india-bc26d7e81737f4bed1da"
+    },
+    {
+      "name": "Albert Hall Museum",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.9118,
+      "lon": 75.8195,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Ramniwas Bag, Adarsh Nagar",
+      "url": "http://alberthalljaipur.gov.in/",
+      "id": "india-17e694187dc088f43cf8"
+    },
+    {
+      "name": "Amrapali Museum",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.915243,
+      "lon": 75.801425,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Ashok Marg",
+      "url": "https://amrapalimuseum.com/",
+      "id": "india-7b6a5d8c6552cbd6db7f"
+    },
+    {
+      "name": "Statue Circle",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.9075,
+      "lon": 75.8056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "C-Scheme, Ashok Nagar",
+      "id": "india-a0571eb22c694e30da1a"
+    },
+    {
+      "name": "Vidhan Bhavan",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.892171,
+      "lon": 75.79769,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Jyoti Nagar",
+      "id": "india-e5182400d86c1ce64bf0"
+    },
+    {
+      "name": "Amber Fort Sound and Light Show",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.987,
+      "lon": 75.8512,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Lower Amber Fort",
+      "price": "₹200",
+      "id": "india-8499ff8f4a2e628536b3"
+    },
+    {
+      "name": "Sawai Mansingh Stadium",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.894031,
+      "lon": 75.803225,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Lalkothi",
+      "id": "india-0a2287c8a97969a2b4b3"
+    },
+    {
+      "name": "B.M. Birla Auditorium and Conference Hall",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.906,
+      "lon": 75.8061,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Birla Institute of Scientific Research, Statue Circle",
+      "url": "http://www.bisr.res.in/audi/auditorium.php",
+      "id": "india-945ae087321cf4745942"
+    },
+    {
+      "name": "Rajmandir Cinema",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.9146,
+      "lon": 75.8098,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "C-16, Panch Batti, Bhagwan Das Rd, C-Scheme",
+      "url": "http://rajmandircinema.com/",
+      "id": "india-937cda645271fbf085da"
+    },
+    {
+      "name": "Heiwa Heaven The Resort",
+      "kind": "do",
+      "locality": "Jaipur",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Jaisinghpura Khor, Jamdoli Chauraha, Agra Rd",
+      "url": "https://www.heiwaheaven.com/",
+      "id": "india-f2d49002d6d639da6bb6"
+    },
+    {
+      "name": "Central Park",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.904008,
+      "lon": 75.808915,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "id": "india-e2d4a913ad5ec036d091"
+    },
+    {
+      "name": "Nevta Dam",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.804083,
+      "lon": 75.68225,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "id": "india-ceb2fd1601f6ea72b28d"
+    },
+    {
+      "name": "Chokhi Dhani",
+      "kind": "do",
+      "locality": "Jaipur",
+      "lat": 26.758,
+      "lon": 75.839,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "12 Miles Tonk Road, Via Vatika",
+      "url": "https://chokhidhaniethnicvillage.hotvel.com/",
+      "id": "india-5e68f44daa8c81aecd15"
+    },
+    {
+      "name": "Gangaur Sweets",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.9077,
+      "lon": 75.799,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "J-32, Subash Marg, C-Scheme",
+      "price": "₹180-580 per order",
+      "id": "india-fc47e0ce7c375e90e4df"
+    },
+    {
+      "name": "Jal Mahal",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.916,
+      "lon": 75.8102,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "85, MI Road",
+      "url": "https://www.facebook.com/jalmahal.icecreamcreations/",
+      "id": "india-9f6b3903503b66e6adcb"
+    },
+    {
+      "name": "Zolocrust",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Hotel Clarks Amer, Jawaharlal Nehru Marg, Near Malviya Nagar",
+      "id": "india-eabdd86706be0d569cc2"
+    },
+    {
+      "name": "Anokhi Cafe",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.911,
+      "lon": 75.798,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "2nd Floor, KK Square, C-11 Prithviraj Road",
+      "price": "Salads: ₹120-200; sandwiches and savoury dishes: ₹150-300; desserts: ₹80-230; beverages: ₹25-250",
+      "url": "https://www.facebook.com/AnokhiCafe",
+      "id": "india-59c113ab0f3075068176"
+    },
+    {
+      "name": "Ambrosia",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.9231,
+      "lon": 75.7986,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "In the Hotel Ramsingh Palace, B 2, Hathi Babau Ka Bagh, Kanti Nagar, Banipark",
+      "url": "https://www.facebook.com/pages/Ambrosia/212615442121032",
+      "id": "india-6ff7ead6cb47301be381"
+    },
+    {
+      "name": "Old Take Away",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.9162,
+      "lon": 75.8081,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "146, Subhash Corner, MI Roa",
+      "price": "₹130-400 for main dishes",
+      "id": "india-cc9ddd8a09f8e1804b76"
+    },
+    {
+      "name": "Peacock Rooftop Restaurant",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.916,
+      "lon": 75.7956,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "51, Hari Kishan Somani Marg",
+      "url": "https://hotelpearlpalace.com/wordpress/peacock-rooftop-restaurant",
+      "id": "india-c4221d1a70804dcdcc0a"
+    },
+    {
+      "name": "Shrinat Lassiwala",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.916487,
+      "lon": 75.811199,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Irza Ismail Road",
+      "price": "₹ 50-100 for snacks, ₹ 80-150 for lassis",
+      "id": "india-20d56e52e60089413033"
+    },
+    {
+      "name": "Rawat Mishthan Bhandar",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.9213,
+      "lon": 75.7952,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Opposite Polo Victory Cinema, Station Road, Sindhi Camp",
+      "price": "Nothing on the menu costs more than ₹250, including thalis, except for a special ₹450 tasting menu",
+      "id": "india-4de4c03860184e1b9520"
+    },
+    {
+      "name": "Apno Gaon",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 27.0092,
+      "lon": 75.7633,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "14, New Loha Mandi, Sikar Road, Vishwakarma Industrial Area",
+      "price": "₹330 for lunch or dinner thali",
+      "id": "india-ae2109935c14eebfa1d4"
+    },
+    {
+      "name": "Four Seasons Restaurant",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.9116,
+      "lon": 75.8016,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "D-43A, Subhash Marg, C Scheme",
+      "price": "Most main dishes cost ₹100-200; Thalis: ₹250-300",
+      "url": "https://www.facebook.com/fourseasonsjaipur?rf=171669992900753#_=_",
+      "id": "india-30145353bd87352649bd"
+    },
+    {
+      "name": "Handi Restaurant",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.917,
+      "lon": 75.8134,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Maya Mansion, Opp GPO, MI Rd",
+      "price": "₹171-562 for mains dishes.",
+      "url": "http://handirestaurant.com/",
+      "id": "india-cc5921dfe0945cf9be9a"
+    },
+    {
+      "name": "Little Italy",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.9107,
+      "lon": 75.7986,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "C/11, K.K. Square, Prithviraj Marg, C-Scheme",
+      "price": "pizzas and pastas are mostly in the ₹300-500 range",
+      "url": "http://littleitaly.in/restaurant/jaipur_main.html",
+      "id": "india-316ab6367e30c957c17b"
+    },
+    {
+      "name": "LMB",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.9196,
+      "lon": 75.8256,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "LMB Hotel & Restaurant, 100 Johari Bazaar",
+      "price": "Snacks, sandwiches, pizza: ₹50-310; breakfasts are mostly ₹130-280; lunch and dinner mains: ₹190-430; sweets: ₹60-200",
+      "url": "http://www.hotellmb.com/restaurant.aspx",
+      "id": "india-f45ab0c3d68c439701cb"
+    },
+    {
+      "name": "Loharu House",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.907,
+      "lon": 75.7831,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "id": "india-1740f8027ea05474f643"
+    },
+    {
+      "name": "Mamu's Infusion",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.9098,
+      "lon": 75.7957,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "101, 1st Floor, Mangalam Ambition Tower, Subhash Marg, C Scheme",
+      "id": "india-b498d473b66be45acec3"
+    },
+    {
+      "name": "Natraj",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.91625,
+      "lon": 75.81126,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Panch Batti, M.I. Road",
+      "price": "Thalis are ₹200-450",
+      "url": "https://www.facebook.com/Natraj-Restaurant-Jaipur-943481692408153/",
+      "id": "india-f00480d61095443f3959"
+    },
+    {
+      "name": "Okra",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.8496,
+      "lon": 75.7951,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Ashram Marg, Jawahar Circle",
+      "id": "india-998b694cf033e7b5ddb6"
+    },
+    {
+      "name": "Zodiac",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.90237,
+      "lon": 75.79386,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Fortune Park Bella Casa, Cityplex, 1, Ashram Marg, Tonk Road",
+      "price": "Mains: ₹225-450",
+      "id": "india-db6e3d1f1a5ce10b6af3"
+    },
+    {
+      "name": "1135 AD Amber",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.9857,
+      "lon": 75.8506,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Amer Road",
+      "price": "Mains: ₹425-1,500",
+      "url": "https://www.facebook.com/1135adamber/",
+      "id": "india-fc18b002ae88f812e66b"
+    },
+    {
+      "name": "Cinnamon",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.9117,
+      "lon": 75.7851,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Jacob Road, Civil Lines,",
+      "price": "Approximately ₹3,000 for 2 people",
+      "url": "http://www.tajhotels.com/food-and-wine/jai-mahal-palace-jaipur/cinnamon/default.html",
+      "id": "india-1f9d3032c7c1981ae6d2"
+    },
+    {
+      "name": "Niros",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.9165,
+      "lon": 75.8112,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "319, MI Rd, Ashok Nagar",
+      "price": "Mains: ₹260-770",
+      "url": "http://www.nirosindia.com/",
+      "id": "india-c18b5a38cf562a0c45a5"
+    },
+    {
+      "name": "Steam",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.896,
+      "lon": 75.8077,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "price": "₹1,400 per person",
+      "id": "india-4b85430416e263ac13a9"
+    },
+    {
+      "name": "Virasat Heritage Restaurant",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 27.051171,
+      "lon": 75.90917,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Delhi Road, Near Sai Baba Temple, Kukas",
+      "price": "₹3000 per person",
+      "url": "https://virasatjaipur.com/",
+      "id": "india-74cd824b2f503a844028"
+    },
+    {
+      "name": "Step Out Cafe",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "P 14, Sahdev Marg, Near Secretariat, C Scheme, Ashok Nagar",
+      "url": "https://www.stepoutcafe.in/",
+      "id": "india-a804f46010196a936e05"
+    },
+    {
+      "name": "Amigos Bar & Discoteque",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.9179,
+      "lon": 75.8,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Church Road, MI Road",
+      "id": "india-71b41f86f94fb14dc24d"
+    },
+    {
+      "name": "Colorbar",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.8518,
+      "lon": 75.7956,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Radisson Blu, Plot 5 & 6, Airport Plaza,Tonk Road, Durgapura",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-jaipur/restaurant-bar",
+      "id": "india-65387b1fea6598f169b4"
+    },
+    {
+      "name": "District 9 Lounge",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.8493,
+      "lon": 75.8078,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "E-20, Prem Plaza, Girdhar Marg, Opposite Reliance Fresh",
+      "price": "₹100-200 for a pint, food ₹150-250",
+      "url": "https://www.facebook.com/District9lounge/",
+      "id": "india-4a8c8a136b8f5c503e0c"
+    },
+    {
+      "name": "Drop Zone Lounge Bar",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.8496,
+      "lon": 75.8093,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "14/82 & 83, Niti Nagar, Opposite Capt Amit Bhardwaj Petrol Pump, Malviya Nagar",
+      "price": "Approx ₹600 for two (without alcohol), VAT extra",
+      "id": "india-03f6a0044ba89cc349d4"
+    },
+    {
+      "name": "Henry’s – The Pub",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.9052,
+      "lon": 75.8124,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Park Prime Hotel, Prithviraj road, Near Statue Circle",
+      "url": "https://www.facebook.com/pages/Henrys-Park-Prime-Jaipur/147076938737915",
+      "id": "india-c6588e38ecc2a3a9be46"
+    },
+    {
+      "name": "Skyfall By Replay",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.89262,
+      "lon": 75.80701,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "SB-57, Riddhi Tower, 5th Floor",
+      "url": "https://www.facebook.com/skyfalljaipur/",
+      "id": "india-d62ca703abbe2742d341"
+    },
+    {
+      "name": "3D's Restro Lounge",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.8432,
+      "lon": 75.8025,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "A2 Corporate Tower, Near Jawahar Circle",
+      "url": "https://www.facebook.com/3DSRestroLounge/",
+      "id": "india-b364134b9cb5400d25b1"
+    },
+    {
+      "name": "Blackout",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.9139,
+      "lon": 75.8056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "9th floor, Golden Oak Hotel, Landmark Building, Ahinsa Circle, C Scheme",
+      "url": "https://www.facebook.com/blackoutjaipur",
+      "id": "india-067530c52b5a9451a30a"
+    },
+    {
+      "name": "Club Seven",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "lat": 26.8918,
+      "lon": 75.7576,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "The Byke Grassfield Resort, Kishan Nagar",
+      "url": "https://www.facebook.com/pages/CLUB-SEVEN/395634490599614",
+      "id": "india-b31016e5afee9d9820e3"
+    },
+    {
+      "name": "House of People",
+      "kind": "eat",
+      "locality": "Jaipur",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Hotel Las Vegas, A1, Sehkar Marg, Bais Godam",
+      "url": "https://www.zomato.com/jaipur/house-of-people-bais-godam",
+      "id": "india-94dd9eb20b913107c926"
+    },
+    {
+      "name": "Atithi Guest House",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.9202,
+      "lon": 75.7976,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "1 Park House Scheme",
+      "url": "http://www.atithijaipur.com/",
+      "id": "india-2c4674dfce8b37f5c248"
+    },
+    {
+      "name": "Chit Chat Palace",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.9255,
+      "lon": 75.7908,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "D-160 Kabir Marg, Bani Park",
+      "price": "Standard double with fan and hot/cold shower: ₹1,500; Family room: ₹2,000",
+      "url": "http://www.chitchatrestaurantandguesthouse.com/",
+      "id": "india-f16bcb4e83aaa427c916"
+    },
+    {
+      "name": "Hotel Kalyan",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.912416,
+      "lon": 75.787288,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Hathroi Fort, Ajmer Rd",
+      "url": "https://www.hotelkalyan.com/",
+      "id": "india-6753a261fd56473350b4"
+    },
+    {
+      "name": "Hotel Malak Mahal",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.98095,
+      "lon": 75.85066,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "54, Near Jal Mahal, Amer Rd",
+      "id": "india-3ead37369feda7740841"
+    },
+    {
+      "name": "Hotel Pearl Palace",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.9162,
+      "lon": 75.7956,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "51 Hathroi Fort, Hari Kishan Somani Marg, Ajmer Road",
+      "price": "air-con rooms from ₹1,200",
+      "url": "http://www.hotelpearlpalace.com/",
+      "id": "india-82a8aff19751f8bcec08"
+    },
+    {
+      "name": "Hotel Ramsingh Palace",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.9236,
+      "lon": 75.7988,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "B-2, Hathi Babu Ka Bagh, Kanti Nagar",
+      "price": "Deluxe room: ₹1,700-2,200; Super Deluxe room: ₹2,000-2,500; Family Suite: ₹2800-3800; Extra bed: ₹250-500",
+      "url": "http://hotelramsinghpalace.com/",
+      "id": "india-a7bbe0f3f48d9258f36a"
+    },
+    {
+      "name": "Hotel Sangam",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.921,
+      "lon": 75.7979,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "17 Motilal Atal Rd",
+      "price": "₹1,000 for non-air-con room; air-con rooms starting at ₹1,500",
+      "url": "http://www.hotelsangamjaipur.com/",
+      "id": "india-459e0814d078b1589359"
+    },
+    {
+      "name": "Hotel Shikha",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.9061,
+      "lon": 75.7971,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "R-14, Yudhishthir Marg, C-Scheme",
+      "price": "₹1899",
+      "url": "https://www.hotelshikha.com/",
+      "id": "india-82a1a145cf1bb9dba70e"
+    },
+    {
+      "name": "Jaipur Inn",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.928307,
+      "lon": 75.798092,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "B-17, Shiv Marg, Bani Park",
+      "url": "http://www.jaipurinn.com/",
+      "id": "india-d0b51da5f887079065e7"
+    },
+    {
+      "name": "Karni Niwas",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.9203,
+      "lon": 75.7973,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "C-5 Motilal Atal Road",
+      "price": "₹650-1,000",
+      "url": "http://www.hotelkarniniwas.com/",
+      "id": "india-df81340d9c6dc5c767ef"
+    },
+    {
+      "name": "Moustache Jaipur",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.91958611458579,
+      "lon": 75.79778428274552,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Park House 7, Mirza Ismail Rd",
+      "price": "400 INR for a 12-bed dorm (no AC), private rooms and 4-bed AC rooms cost more",
+      "url": "https://moustachescapes.com/accommodation/Hostel/jaipur",
+      "id": "india-47f8e95ceb469703cdde"
+    },
+    {
+      "name": "Krishna Palace",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.928,
+      "lon": 75.7861,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "E-26, Durga Marg, Bani Park",
+      "url": "http://www.krishnapalace.com/",
+      "id": "india-115502e94ca91b4e30f0"
+    },
+    {
+      "name": "Moon Light Palace",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.9127,
+      "lon": 75.7781,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "S-34, Shanti Nagar, Near Labour Court",
+      "price": "From ₹2,100/day",
+      "url": "http://www.hotelmoonlightpalace.com/",
+      "id": "india-59544447c7d7f91f4a6e"
+    },
+    {
+      "name": "Pink City Guest House",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.9209,
+      "lon": 75.7973,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "18 Motilal Atal Rd",
+      "id": "india-e6a65b5dfa981ba81560"
+    },
+    {
+      "name": "Satkar Hotel",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.9238,
+      "lon": 75.7905,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "187, Barodia Scheme, Banipark",
+      "price": "A/C Single: ₹900; A/C Double: ₹1,250",
+      "url": "http://satkarhotel.com/",
+      "id": "india-5ecfb9dbf61fad519d10"
+    },
+    {
+      "name": "Sunder Palace Guest House",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.9174,
+      "lon": 75.7952,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "No. 46, Sanjay Marg",
+      "price": "Starting at ₹1,450 for air-con double room",
+      "url": "http://www.sunderpalace.com/",
+      "id": "india-1153494c89a5d61a3f4f"
+    },
+    {
+      "name": "Siyash Luxury Girls PG",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "103/87, Sector-10, Pratap Nagar, Jaipur, 302033",
+      "url": "https://www.siyashgroup.in/",
+      "id": "india-689469bc383b12767c1e"
+    },
+    {
+      "name": "Anuraag Villa",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.9274,
+      "lon": 75.7892,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "D-249, Near Collectorate Circle",
+      "price": "Starting at ₹1,650 for air-con doubles; ₹2,050 for double with garden view",
+      "url": "http://www.anuraagvilla.com/index.htm",
+      "id": "india-5644e7704ade142dbfa2"
+    },
+    {
+      "name": "Arya Niwas",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.9217,
+      "lon": 75.8046,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Sansar Chandra Rd",
+      "url": "http://www.hotelaryaniwas.com/",
+      "id": "india-c8c68a4391528eb75018"
+    },
+    {
+      "name": "Colonel's Homestead Jaipur",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.84444,
+      "lon": 75.74722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "10 & 11 Cosmo Colony, Ram Marg, Amrapali Rd, Vaishali Nagar",
+      "price": "₹1,500/night for a double room; all rooms are air conditioned",
+      "url": "http://www.colonelsbnb.com/",
+      "id": "india-9733f25317eed774a201"
+    },
+    {
+      "name": "Hotel Classic Holidays",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.8912,
+      "lon": 75.7663,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "A-79, Shyam Nagar, Sodala, Ajmer Rd",
+      "price": "Starting at ₹1200/night for double rooms",
+      "url": "http://www.hotelclassicholidays.com/",
+      "id": "india-789cb027038f35121484"
+    },
+    {
+      "name": "Hotel Mandakini Castle",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.9225,
+      "lon": 75.8047,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Sansar Chandra Rd",
+      "price": "Double room prices as of June 2012 were ₹1,990-3,390 plus taxes. Breakfast included.",
+      "id": "india-f64d707cd52ee8a9d564"
+    },
+    {
+      "name": "Hotel Meghniwas",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.9299,
+      "lon": 75.7881,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "C-9, Sawai Jai Singh Highway, Bani Park",
+      "price": "Doubles starting at ₹3,800",
+      "url": "http://www.meghniwas.com/",
+      "id": "india-897a347b7e968454b294"
+    },
+    {
+      "name": "Hotel Sarang Palace",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.9373,
+      "lon": 75.7965,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "A- 40, Subhash Nagar Rd, Near Peetal Factory",
+      "price": "Starting at ₹1,650 for doubles without breakfast and ₹1,950 including breakfast",
+      "url": "http://www.hotelsarangpalace.com/",
+      "id": "india-77b313c0d07cc1c9ac7a"
+    },
+    {
+      "name": "Loharu House",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.9063,
+      "lon": 75.7833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Civil Lines",
+      "price": "Doubles ₹4,580-5,150/night including tax and \"sumptuous meals\"",
+      "id": "india-96816ebf8273891c179b"
+    },
+    {
+      "name": "Milestone 251",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.9268,
+      "lon": 75.7898,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Near Collectorate Circle, D-251, Devi Marg, Bani Park",
+      "price": "Double rooms start at ₹2,100",
+      "url": "http://www.milestone251.com/",
+      "id": "india-4b015930a868fbe4c533"
+    },
+    {
+      "name": "Sumati Villa",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.9065,
+      "lon": 75.7962,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "7, Shubham Enclave, Jamnalal Bajaj Marg",
+      "price": "₹1,500-3,500",
+      "id": "india-a60803c743399167c570"
+    },
+    {
+      "name": "Umaid Bhawan",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.928,
+      "lon": 75.7925,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "D1-2A, Behari Marg, Bani Park",
+      "price": "Doubles start at ₹2,199",
+      "url": "http://www.umaidbhawan.com/",
+      "id": "india-47a1a706cf8c8197e810"
+    },
+    {
+      "name": "Umaid Mahal",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.9279,
+      "lon": 75.7891,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "C-20 / B-2, Bihari Marg, Sawai Jai Singh Highway,",
+      "price": "Doubles start at ₹2,199",
+      "url": "http://www.umaidmahal.com/",
+      "id": "india-4011150bab1ee96e92d2"
+    },
+    {
+      "name": "Pride Amber Vilas",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "price": "₹4,000",
+      "url": "http://www.pridehotel.com/jaipur/pride-amber-vilas-jaipur/overview/",
+      "id": "india-7d800facf21400daf698"
+    },
+    {
+      "name": "White Mushroom V Inn Jaipur",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "I - 7 C2, Banipark",
+      "price": "Standard Executive Room start at ₹2,000",
+      "url": "http://www.whitemushroomholidays.com/jaipur/",
+      "id": "india-f980944848e59b942984"
+    },
+    {
+      "name": "Mosaics Guest House",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.9883,
+      "lon": 75.8703,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Siyaram ki Doongri, Amber",
+      "price": "₹3800 double, ₹3300 single",
+      "url": "http://www.mosaicsguesthouse.com/",
+      "id": "india-4afa833d4dce167eb9bb"
+    },
+    {
+      "name": "Fairfield by Marriott Jaipur",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.9226,
+      "lon": 75.7941,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Jai Singh Hwy, Bani Park",
+      "price": "₹4,560 per night",
+      "url": "https://www.marriott.com/hotels/travel/jaibp-fairfield-jaipur",
+      "id": "india-10a97828ee9f8301e0a0"
+    },
+    {
+      "name": "Fairfield by Marriott Jaipur Tonk Road",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.80336,
+      "lon": 75.80949,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Haldighati Gate, Sector 8/B, Tonk Rd",
+      "price": "₹4,227 per night",
+      "url": "https://www.marriott.com/hotels/travel/jaifi-fairfield-jaipur-tonk-road",
+      "id": "india-76ab3e081b4a3739f853"
+    },
+    {
+      "name": "Four Points by Sheraton Jaipur, City Square",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.864813,
+      "lon": 75.795884,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "City Square, Vasundhara Colony, Tonk Rd",
+      "price": "₹4,038 per night",
+      "url": "https://www.marriott.com/hotels/travel/jaifp-four-points-jaipur-city-square",
+      "id": "india-e56b800306b811d429d7"
+    },
+    {
+      "name": "Hilton Jaipur",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.901014,
+      "lon": 75.783789,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "url": "https://www.hilton.com/en/hotels/jaighhi-hilton-jaipur/",
+      "id": "india-503f4a85709b3ada0fee"
+    },
+    {
+      "name": "Holiday Inn Jaipur City Centre",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.90284,
+      "lon": 75.79224,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "id": "india-106ed0a8d648e42c7f8e"
+    },
+    {
+      "name": "ITC Rajputana, A Luxury Collection Hotel",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.91923,
+      "lon": 75.79173,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Palace Rd",
+      "price": "₹13,775 per night",
+      "url": "https://www.marriott.com/hotels/travel/jailc-itc-rajputana-a-luxury-collection-hotel-jaipur",
+      "id": "india-e44773c82654e5c6b169"
+    },
+    {
+      "name": "Jaipur Marriott Hotel",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.84227,
+      "lon": 75.79672,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Ashram Marg, Jawahar Circle",
+      "price": "₹7,599 per night",
+      "url": "https://www.marriott.com/hotels/travel/jaimc-jaipur-marriott-hotel",
+      "id": "india-31f03b9b365faa3f9384"
+    },
+    {
+      "name": "Le Méridien Jaipur Resort & Spa",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 27.03213,
+      "lon": 75.88856,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Number 1, RIICO, Kukas",
+      "price": "₹11,399 per night",
+      "url": "https://www.marriott.com/hotels/travel/jaimd-le-meridien-jaipur-resort-and-spa",
+      "id": "india-6b9f768c54f0ea043d2e"
+    },
+    {
+      "name": "Lohagarh Fort Resort Jaipur",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 27.07988,
+      "lon": 75.89072,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Kachera Wala, Kukas (NH-8)",
+      "price": "From ₹5,787; Airport shuttle fee: ₹2,500 per vehicle (round trip)",
+      "url": "http://lohagarhfortresort.in/",
+      "id": "india-4634e555458c4e714b3c"
+    },
+    {
+      "name": "Naila Bagh Palace",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.9066,
+      "lon": 75.8229,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Moti Doongari Road",
+      "price": "From ₹4,200 including breakfast, taxes excluded",
+      "url": "http://www.nailabaghpalace.com/",
+      "id": "india-4a0872630868cc416d50"
+    },
+    {
+      "name": "Oberoi Rajvilas Palace Hotel",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.877,
+      "lon": 75.884,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Goner Rd",
+      "url": "http://www.oberoirajvilas.com/",
+      "id": "india-32b483171dc58ba18be5"
+    },
+    {
+      "name": "Radisson Blu Jaipur",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.842499,
+      "lon": 75.79374,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "id": "india-81d1a1fba9235a6f5cd6"
+    },
+    {
+      "name": "Royal Quest Resorts",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "NH-8, Kukas, Village Kacherawala",
+      "url": "https://www.royalquestresorts.com/",
+      "id": "india-adc6c07de8b474fe9f30"
+    },
+    {
+      "name": "Taj Rambagh Palace Hotel",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.896111,
+      "lon": 75.808333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "price": "₹19,000-128,000. Breakfast ₹2,000 additional. Rate includes Wi-Fi",
+      "url": "http://www.tajhotels.com/Luxury/Grand-Palaces-And-Iconic-Hotels/Rambagh-Palace-Jaipur/Overview.html",
+      "id": "india-ec2d638f3766dcf86e03"
+    },
+    {
+      "name": "The Trident Jaipur",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.9569,
+      "lon": 75.84313,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "Amber Fort Rd",
+      "price": "Advance purchase rates starting at ₹5,000; otherwise, starting at ₹25,500; ₹21,000 for breakfast",
+      "url": "http://www.tridenthotels.com/jaipur/index.asp",
+      "id": "india-92ae54fa93fa57c548ae"
+    },
+    {
+      "name": "The Fern Jaipur, Series by Marriott",
+      "kind": "stay",
+      "locality": "Jaipur",
+      "lat": 26.843527,
+      "lon": 75.794099,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "address": "3, Airport Plaza, Tonk Rd",
+      "price": "₹3,325 per night",
+      "url": "https://www.marriott.com/hotels/travel/jaife-the-fern-jaipur-series",
+      "id": "india-51483f4f7fe690afe668"
+    },
+    {
+      "name": "Jaipur",
+      "kind": "area",
+      "locality": "Jaipur",
+      "lat": 26.91595,
+      "lon": 75.82038,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jaipur",
+      "id": "india-451860fce2363aa3dde6"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 11 distinct public Wikivoyage source pages; attempted 11 article titles covering the country, capital(s), and 3 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Destination article routing (regional/landmark guides may use a nearby gateway): Taj Mahal → Agra."
+}

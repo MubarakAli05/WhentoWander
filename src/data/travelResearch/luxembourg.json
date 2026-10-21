@@ -1,0 +1,906 @@
+{
+  "sources": [
+    {
+      "title": "Luxembourg",
+      "url": "https://en.wikivoyage.org/wiki/Luxembourg",
+      "checkedAt": "2026-10-21T08:10:47.294Z"
+    },
+    {
+      "title": "Luxembourg (city)",
+      "url": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "checkedAt": "2026-10-21T08:10:53.478Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Luxembourg City",
+      "kind": "area",
+      "locality": "Luxembourg",
+      "lat": 49.610556,
+      "lon": 6.132778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg",
+      "id": "luxembourg-52784fdcca73ef8f1e44"
+    },
+    {
+      "name": "Clervaux",
+      "kind": "area",
+      "locality": "Luxembourg",
+      "lat": 50.05,
+      "lon": 6.033333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg",
+      "id": "luxembourg-2f26a6c7f5f74cea8f78"
+    },
+    {
+      "name": "Diekirch",
+      "kind": "area",
+      "locality": "Luxembourg",
+      "lat": 49.868056,
+      "lon": 6.156667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg",
+      "id": "luxembourg-ac3ed0a13d3fc999aed0"
+    },
+    {
+      "name": "Echternach",
+      "kind": "area",
+      "locality": "Luxembourg",
+      "lat": 49.811667,
+      "lon": 6.421667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg",
+      "id": "luxembourg-a6692433d50751a8e586"
+    },
+    {
+      "name": "Ettelbruck",
+      "kind": "area",
+      "locality": "Luxembourg",
+      "lat": 49.846389,
+      "lon": 6.099167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg",
+      "id": "luxembourg-9a8e949c7817d993ba45"
+    },
+    {
+      "name": "Esch-sur-Alzette",
+      "kind": "area",
+      "locality": "Luxembourg",
+      "lat": 49.496944,
+      "lon": 5.980556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg",
+      "id": "luxembourg-31bbcb3892c70deeef86"
+    },
+    {
+      "name": "Mondorf-les-Bains",
+      "kind": "area",
+      "locality": "Luxembourg",
+      "lat": 49.506944,
+      "lon": 6.280556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg",
+      "id": "luxembourg-d9f37f3d6e23ae3c6872"
+    },
+    {
+      "name": "Vianden",
+      "kind": "area",
+      "locality": "Luxembourg",
+      "lat": 49.933611,
+      "lon": 6.2075,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg",
+      "id": "luxembourg-906d4e8e832def3f70fa"
+    },
+    {
+      "name": "The Bock",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.611839,
+      "lon": 6.136972,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "id": "luxembourg-a3d97748a0fce32dc143"
+    },
+    {
+      "name": "Bock Casemates",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.61184,
+      "lon": 6.1368,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "url": "http://www.visitluxembourg.com/en/place/castle/bock-casemates-luxembourg",
+      "id": "luxembourg-9420250ba2753886dc97"
+    },
+    {
+      "name": "Eglise St. Michel",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.611389,
+      "lon": 6.134722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "id": "luxembourg-c97170e02c4d1a883c5c"
+    },
+    {
+      "name": "National Museum of History and Art",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.611944,
+      "lon": 6.133056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "url": "http://www.mnha.public.lu/",
+      "id": "luxembourg-eae364c9f4d92aff905e"
+    },
+    {
+      "name": "Grand Ducal Palace",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.611111,
+      "lon": 6.1325,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "id": "luxembourg-9ca200567642e19ba932"
+    },
+    {
+      "name": "Le Chemin de la Corniche",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.610151,
+      "lon": 6.134388,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "id": "luxembourg-fe8cd78be8598d57bccc"
+    },
+    {
+      "name": "Luxembourg City Museum",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.6099,
+      "lon": 6.1335,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "url": "https://citymuseum.lu/",
+      "id": "luxembourg-3a9efa45ec97fd87f102"
+    },
+    {
+      "name": "Notre Dame Cathedral",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.609667,
+      "lon": 6.131556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "id": "luxembourg-15a8fe1442d2b566ce03"
+    },
+    {
+      "name": "Pétrusse Casemates",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.60929,
+      "lon": 6.12913,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "url": "http://www.visitluxembourg.com/en/place/castle/petrusse-casemates",
+      "id": "luxembourg-22db3d72214ec2fbb1fc"
+    },
+    {
+      "name": "Hotel de Ville",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.610206,
+      "lon": 6.130456,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "id": "luxembourg-2341c3959d1bc6bdf6e5"
+    },
+    {
+      "name": "Place Guillaume II",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.610833,
+      "lon": 6.130278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "id": "luxembourg-a2f5ca1186ad4ff8859e"
+    },
+    {
+      "name": "Place d'Armes",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.611372,
+      "lon": 6.128958,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "id": "luxembourg-539f2b58cd0065d39d52"
+    },
+    {
+      "name": "Casino Luxemburg",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.6098,
+      "lon": 6.1271,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "url": "http://www.casino-luxembourg.lu/",
+      "id": "luxembourg-257eef79d2a6d02c5d68"
+    },
+    {
+      "name": "Pfaffenthal Lift",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.615528,
+      "lon": 6.130583,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "url": "https://www.luxembourg-city.com/en/place/monuments/panoramic-elevator-of-the-pfaffenthal",
+      "id": "luxembourg-584a397cb27ff37a93c6"
+    },
+    {
+      "name": "Grund",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.611,
+      "lon": 6.136,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "id": "luxembourg-15e6137d99bbc5cf9425"
+    },
+    {
+      "name": "Neumünster Abbey",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.610278,
+      "lon": 6.136389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "url": "http://www.ccrn.lu/Culture",
+      "id": "luxembourg-eacde967fae3b2ec46af"
+    },
+    {
+      "name": "National Museum of Natural History",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.60985,
+      "lon": 6.13575,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "price": "Adults €5",
+      "url": "http://www.mnhn.lu/",
+      "id": "luxembourg-523515a5566ec8db0e10"
+    },
+    {
+      "name": "The Kirchberg area",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.6275,
+      "lon": 6.145556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "url": "http://www.artkirchberg.lu/",
+      "id": "luxembourg-398fec81f10637b37f1f"
+    },
+    {
+      "name": "MUDAM",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.617086,
+      "lon": 6.139897,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "3, Park Dräi Eechelen",
+      "price": "€5",
+      "url": "http://www.mudam.lu/P%C3%A0gina",
+      "id": "luxembourg-7cb902984d56f0c644dc"
+    },
+    {
+      "name": "Musée Dräi Eechelen",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.61652,
+      "lon": 6.139165,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "url": "http://www.mnha.lu/en/Musee-Drai-Eechelen",
+      "id": "luxembourg-84b617fcf12c3b26d058"
+    },
+    {
+      "name": "Pfaffenthal–Kirchberg funicular",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.618964,
+      "lon": 6.133495,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "url": "http://www.cfl.lu/espaces/voyageurs/en/gares-et-services/nos-gares/pfaffenthal-kirchberg",
+      "id": "luxembourg-71088e9b75e0dc35b2e1"
+    },
+    {
+      "name": "Bank Museum",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.6069868,
+      "lon": 6.1276088,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "1, Place de Metz",
+      "price": "Free",
+      "url": "https://www.bcee.lu/en/about-us/the-bank-museum/",
+      "id": "luxembourg-2ffb8c46e508b3794164"
+    },
+    {
+      "name": "Am Tunnel",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.606389,
+      "lon": 6.128333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "16, rue Ste Zithe",
+      "price": "Free",
+      "url": "https://www.spuerkeess.lu/en/about-us/contemporary-art-gallery-am-tunnel/",
+      "id": "luxembourg-52e3c4a323ec76252b54"
+    },
+    {
+      "name": "World War II Luxembourg American Cemetery and Memorial",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.611667,
+      "lon": 6.185556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "price": "Free",
+      "url": "https://www.abmc.gov/cemeteries-memorials/europe/luxembourg-american-cemetery#.Wj_v_98jSUk",
+      "id": "luxembourg-cf8d8c8b98dbcd7d0a62"
+    },
+    {
+      "name": "Cemetery for German soldiers at Sandweiler",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.6097,
+      "lon": 6.205,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "L-5280 Sandweiler",
+      "id": "luxembourg-6f9b9094a1e6d3c66e90"
+    },
+    {
+      "name": "Tramways and Bus Museum",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.5991,
+      "lon": 6.1028,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "price": "Free",
+      "url": "https://www.vdl.lu/visiter/art-et-culture/musees-et-lieux-dexposition/musee-de-tramways-et-de-bus-de-la-ville-de-luxembourg",
+      "id": "luxembourg-766da7ec2b4d2b5b7c16"
+    },
+    {
+      "name": "Schueberfouer",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.6169,
+      "lon": 6.1237,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "Glacis",
+      "id": "luxembourg-b1cac6cc10921fae4d57"
+    },
+    {
+      "name": "National Holiday",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "id": "luxembourg-150aa73e02c6d16e79b6"
+    },
+    {
+      "name": "Kinepolis Kirchberg",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.63388,
+      "lon": 6.17268,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "url": "https://kinepolis.lu/en/bioscopen/kinepolis-kirchberg/info",
+      "id": "luxembourg-d746de8bbfece8b73e0e"
+    },
+    {
+      "name": "Philharmonie Luxembourg",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.61843,
+      "lon": 6.14247,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "url": "https://www.philharmonie.lu/",
+      "id": "luxembourg-546d8fe710dcdc3bc5e9"
+    },
+    {
+      "name": "LUXEXPO",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.6352,
+      "lon": 6.1713,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "id": "luxembourg-fdc3563a569dc21f8af2"
+    },
+    {
+      "name": "Grand Théâtre de Luxembourg",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "lat": 49.61781,
+      "lon": 6.12784,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "url": "http://www.theatres.lu/",
+      "id": "luxembourg-61f39c64e5357baddbf0"
+    },
+    {
+      "name": "Swing Dance Luxembourg",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "url": "https://www.swingdance.lu/social-dancing/",
+      "id": "luxembourg-ff89496f1719b00aadd7"
+    },
+    {
+      "name": "Chamber of Deputies",
+      "kind": "do",
+      "locality": "Luxembourg (city)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "18 Rue de l'Eau",
+      "url": "https://www.chd.lu/en/watching-public-session",
+      "id": "luxembourg-b6b250ffc670373df669"
+    },
+    {
+      "name": "KUMPIR The Happy Potato",
+      "kind": "eat",
+      "locality": "Luxembourg (city)",
+      "lat": 49.612819,
+      "lon": 6.131027,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "Entrée Parking, Pl. du Théâtre",
+      "id": "luxembourg-4b627ff8d7b4fe53b0b0"
+    },
+    {
+      "name": "Nirvana Café",
+      "kind": "eat",
+      "locality": "Luxembourg (city)",
+      "lat": 49.6045051,
+      "lon": 6.1335341,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "1 Av. de la Gare",
+      "id": "luxembourg-4d1c538367ecae64a9a8"
+    },
+    {
+      "name": "Brasserie Place \"Russian Cafe\"",
+      "kind": "eat",
+      "locality": "Luxembourg (city)",
+      "lat": 49.6031036,
+      "lon": 6.1344246,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "11 Rue de Bonnevoie",
+      "id": "luxembourg-69c6b4ca5a40029bc1fc"
+    },
+    {
+      "name": "Café Santos Ribeiro",
+      "kind": "eat",
+      "locality": "Luxembourg (city)",
+      "lat": 49.6023077,
+      "lon": 6.1270676,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "70 Rue d'Anvers",
+      "id": "luxembourg-6567068c78945204dd24"
+    },
+    {
+      "name": "Snack Hakan",
+      "kind": "eat",
+      "locality": "Luxembourg (city)",
+      "lat": 49.6191297,
+      "lon": 6.124322,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "16 Av. Victor Hugo",
+      "id": "luxembourg-b483f8cff800f3879f37"
+    },
+    {
+      "name": "Breaktime Kebab Grill - Gare",
+      "kind": "eat",
+      "locality": "Luxembourg (city)",
+      "lat": 49.6024443,
+      "lon": 6.1321615,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "51 Av. de la Liberté",
+      "id": "luxembourg-0f448f7febfe764dcc45"
+    },
+    {
+      "name": "La Fontaine",
+      "kind": "eat",
+      "locality": "Luxembourg (city)",
+      "lat": 49.60372,
+      "lon": 6.1318,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "25, place de Paris",
+      "id": "luxembourg-54d26f1fe0537515713a"
+    },
+    {
+      "name": "Mousel's Cantine",
+      "kind": "eat",
+      "locality": "Luxembourg (city)",
+      "lat": 49.61346,
+      "lon": 6.14311,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "46, Montée de Clausen",
+      "url": "https://www.facebook.com/MouselsCantine",
+      "id": "luxembourg-526dd1f4f978aa290655"
+    },
+    {
+      "name": "Glow - meal by meal",
+      "kind": "eat",
+      "locality": "Luxembourg (city)",
+      "lat": 49.5959274,
+      "lon": 6.1287007,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "2 Rue Xavier de Feller",
+      "id": "luxembourg-872ab4c69041a029d3df"
+    },
+    {
+      "name": "Taj Mahal",
+      "kind": "eat",
+      "locality": "Luxembourg (city)",
+      "lat": 49.6015659,
+      "lon": 6.1322192,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "2, rue de Strasbourg",
+      "id": "luxembourg-3248aeb4a7e4b88eea57"
+    },
+    {
+      "name": "Restaurant Clairefontaine",
+      "kind": "eat",
+      "locality": "Luxembourg (city)",
+      "lat": 49.6098027,
+      "lon": 6.1332551,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "9 Pl. de Clairefontaine",
+      "id": "luxembourg-7c26e0950b70a156e746"
+    },
+    {
+      "name": "Les Jardins d'Anaïs",
+      "kind": "eat",
+      "locality": "Luxembourg (city)",
+      "lat": 49.6147678,
+      "lon": 6.1427196,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "2 Pl. Sainte-Cunégonde",
+      "id": "luxembourg-427b50cf6d128f08413f"
+    },
+    {
+      "name": "Britannia Pub",
+      "kind": "eat",
+      "locality": "Luxembourg (city)",
+      "lat": 49.6138296,
+      "lon": 6.1445493,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "Rue de Clausen 1342",
+      "id": "luxembourg-443ccd085c3402661d7f"
+    },
+    {
+      "name": "Decibel",
+      "kind": "eat",
+      "locality": "Luxembourg (city)",
+      "lat": 49.5988059,
+      "lon": 6.1268661,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "42-44 Rue de Hollerich",
+      "id": "luxembourg-9be86cb4897ff7071051"
+    },
+    {
+      "name": "The Black Stuff",
+      "kind": "eat",
+      "locality": "Luxembourg (city)",
+      "lat": 49.6100652,
+      "lon": 6.151403,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "15 Val de Hamm",
+      "url": "http://www.blackstuff.lu/",
+      "id": "luxembourg-f0430d94c34f426dc92c"
+    },
+    {
+      "name": "Pygmalion",
+      "kind": "eat",
+      "locality": "Luxembourg (city)",
+      "lat": 49.61275,
+      "lon": 6.14419,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "Rue de la Tour Jacob 19",
+      "id": "luxembourg-ed55a670352479b79230"
+    },
+    {
+      "name": "Crossfire",
+      "kind": "eat",
+      "locality": "Luxembourg (city)",
+      "lat": 49.6040365,
+      "lon": 6.1297028,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "url": "http://www.crossfire.lu/",
+      "id": "luxembourg-f82fc439945d9ee4d36c"
+    },
+    {
+      "name": "Scott's",
+      "kind": "eat",
+      "locality": "Luxembourg (city)",
+      "lat": 49.60862,
+      "lon": 6.13613,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "url": "http://www.scotts.lu/",
+      "id": "luxembourg-2bbaa31873f369aaca20"
+    },
+    {
+      "name": "Urban",
+      "kind": "eat",
+      "locality": "Luxembourg (city)",
+      "lat": 49.61143,
+      "lon": 6.13248,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "Rue de la Boucherie 2",
+      "url": "http://www.urban.lu/",
+      "id": "luxembourg-cfacb098fd4818760895"
+    },
+    {
+      "name": "The Tube",
+      "kind": "eat",
+      "locality": "Luxembourg (city)",
+      "lat": 49.61127,
+      "lon": 6.13356,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "id": "luxembourg-d77205b465f6a6ca9684"
+    },
+    {
+      "name": "Vis-a-vis",
+      "kind": "eat",
+      "locality": "Luxembourg (city)",
+      "lat": 49.61312,
+      "lon": 6.12956,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "Rue Beaumont 2",
+      "id": "luxembourg-7c49ddfdd7a245f27f94"
+    },
+    {
+      "name": "Café des Artistes",
+      "kind": "eat",
+      "locality": "Luxembourg (city)",
+      "lat": 49.6085748,
+      "lon": 6.1347733,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "id": "luxembourg-67098b611c322778f214"
+    },
+    {
+      "name": "Melusina",
+      "kind": "eat",
+      "locality": "Luxembourg (city)",
+      "lat": 49.6112497,
+      "lon": 6.1414282,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "Rue de la Tour Jacob 145",
+      "id": "luxembourg-7a5c0fec17119ad0c28d"
+    },
+    {
+      "name": "Magnum",
+      "kind": "eat",
+      "locality": "Luxembourg (city)",
+      "lat": 49.61718,
+      "lon": 6.12158,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "id": "luxembourg-1c5037965c7063fd4b0a"
+    },
+    {
+      "name": "Coco Mango",
+      "kind": "eat",
+      "locality": "Luxembourg (city)",
+      "lat": 49.60595,
+      "lon": 6.13799,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "Boulevard d'Avranches 40",
+      "id": "luxembourg-729c8f4cf63beb26544c"
+    },
+    {
+      "name": "Café Interview",
+      "kind": "eat",
+      "locality": "Luxembourg (city)",
+      "lat": 49.61166,
+      "lon": 6.12694,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "21 Rue Aldringen",
+      "id": "luxembourg-0426b7c319b40e89b532"
+    },
+    {
+      "name": "Camping Bon Accueil",
+      "kind": "stay",
+      "locality": "Luxembourg (city)",
+      "lat": 49.5691456,
+      "lon": 6.1602299,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "url": "http://www.camping-alzingen.lu/en/",
+      "id": "luxembourg-37278a38f0db6c92a5f8"
+    },
+    {
+      "name": "Luxembourg Youth Hostel",
+      "kind": "stay",
+      "locality": "Luxembourg (city)",
+      "lat": 49.61302,
+      "lon": 6.13794,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "2, rue du Fort Olisy",
+      "url": "http://youthhostels.lu/luxemburgish-youth-hostels/luxembourg/10_50_EN.html",
+      "id": "luxembourg-56e134b1fd3fb41264d6"
+    },
+    {
+      "name": "Hotel Empire",
+      "kind": "stay",
+      "locality": "Luxembourg (city)",
+      "lat": 49.5996378,
+      "lon": 6.1328293,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "34, place de la Gare",
+      "url": "http://www.empire.lu/",
+      "id": "luxembourg-f0795ab087eea2ca0eda"
+    },
+    {
+      "name": "ibis Budget Luxembourg Airport",
+      "kind": "stay",
+      "locality": "Luxembourg (city)",
+      "lat": 49.63325,
+      "lon": 6.20991,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "Route de Trèves",
+      "id": "luxembourg-3b143e0130bc0e29df95"
+    },
+    {
+      "name": "Campanile Hotel Luxembourg Aéroport",
+      "kind": "stay",
+      "locality": "Luxembourg (city)",
+      "lat": 49.6406,
+      "lon": 6.2173,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "Route de Trèves 22",
+      "id": "luxembourg-2fe1d3533c9687b9e81b"
+    },
+    {
+      "name": "ibis Hotel Luxembourg Aeroport",
+      "kind": "stay",
+      "locality": "Luxembourg (city)",
+      "lat": 49.6335,
+      "lon": 6.2096,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "Route de Trèves",
+      "id": "luxembourg-ed9b971d94a8d9858c06"
+    },
+    {
+      "name": "ibis Styles Luxembourg Centre Gare",
+      "kind": "stay",
+      "locality": "Luxembourg (city)",
+      "lat": 49.60075,
+      "lon": 6.13117,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "id": "luxembourg-2f465bd4dcab3cfeb086"
+    },
+    {
+      "name": "Grand Hotel Cravat",
+      "kind": "stay",
+      "locality": "Luxembourg (city)",
+      "lat": 49.60977,
+      "lon": 6.12978,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "Boulevard Roosevelt 29",
+      "id": "luxembourg-d0a268ae0b0674e4b17f"
+    },
+    {
+      "name": "Christophe Colomb",
+      "kind": "stay",
+      "locality": "Luxembourg (city)",
+      "lat": 49.6034,
+      "lon": 6.13,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "10, Rue d'Anvers, Gare",
+      "price": "€100",
+      "url": "http://www.christophe-colomb.lu/",
+      "id": "luxembourg-3e876db01661deb42d2a"
+    },
+    {
+      "name": "NH Luxembourg",
+      "kind": "stay",
+      "locality": "Luxembourg (city)",
+      "lat": 49.6374,
+      "lon": 6.2186,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "Route de Trèves 1",
+      "id": "luxembourg-de3fb7b282a5c3ed872a"
+    },
+    {
+      "name": "Mercure Grand Hotel Alfa",
+      "kind": "stay",
+      "locality": "Luxembourg (city)",
+      "lat": 49.60072,
+      "lon": 6.13291,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "Place de la Gare 16",
+      "id": "luxembourg-8acb02ba59601e02b1e3"
+    },
+    {
+      "name": "Novotel Luxembourg Centre",
+      "kind": "stay",
+      "locality": "Luxembourg (city)",
+      "lat": 49.6053,
+      "lon": 6.1375,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "Rue Du Laboratoire 35",
+      "id": "luxembourg-2fbff3c82e4d26fbaeb7"
+    },
+    {
+      "name": "Suite Novotel Luxembourg",
+      "kind": "stay",
+      "locality": "Luxembourg (city)",
+      "lat": 49.62018,
+      "lon": 6.145,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "Av. J.F. Kennedy 13",
+      "id": "luxembourg-32117bd8e89d2ee0134c"
+    },
+    {
+      "name": "DoubleTree by Hilton Luxembourg",
+      "kind": "stay",
+      "locality": "Luxembourg (city)",
+      "lat": 49.6402,
+      "lon": 6.1478,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "Rue Jean Engling 12",
+      "id": "luxembourg-c814511f3e385ddb9e33"
+    },
+    {
+      "name": "Novotel Luxembourg Kirchberg",
+      "kind": "stay",
+      "locality": "Luxembourg (city)",
+      "lat": 49.62102,
+      "lon": 6.14524,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "Rue du Fort Niedergruenewald 6",
+      "id": "luxembourg-8107058b2f0a58b5f40b"
+    },
+    {
+      "name": "Park Inn by Radisson Luxembourg City",
+      "kind": "stay",
+      "locality": "Luxembourg (city)",
+      "lat": 49.60237,
+      "lon": 6.13359,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "Avenue de la Gare 45-47",
+      "id": "luxembourg-51140dda9eeaa971d828"
+    },
+    {
+      "name": "Best Western Plus Grand Hotel Victor Hugo",
+      "kind": "stay",
+      "locality": "Luxembourg (city)",
+      "lat": 49.61865,
+      "lon": 6.12469,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "Avenue Victor Hugo 3-5",
+      "id": "luxembourg-949e5991e7255095cec6"
+    },
+    {
+      "name": "Sofitel Luxembourg Europe",
+      "kind": "stay",
+      "locality": "Luxembourg (city)",
+      "lat": 49.62053,
+      "lon": 6.14424,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "id": "luxembourg-217e91ffc440ef9939b3"
+    },
+    {
+      "name": "H&ocirc;tel Albert Premier",
+      "kind": "stay",
+      "locality": "Luxembourg (city)",
+      "lat": 49.60908,
+      "lon": 6.11824,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "2a, Rue Albert Premier 1er",
+      "price": "€150-480",
+      "url": "http://www.ila-chateau.com/albert/",
+      "id": "luxembourg-978d4abcdfc34a71ba80"
+    },
+    {
+      "name": "Sofitel Luxembourg Le Grand Ducal",
+      "kind": "stay",
+      "locality": "Luxembourg (city)",
+      "lat": 49.60574,
+      "lon": 6.13771,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "Boulevard D'avranches 40",
+      "id": "luxembourg-3cbcfb248ab9d5b5fe3a"
+    },
+    {
+      "name": "Melia Luxembourg",
+      "kind": "stay",
+      "locality": "Luxembourg (city)",
+      "lat": 49.6173,
+      "lon": 6.1418,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "address": "Park Dräi Eechelen 1",
+      "id": "luxembourg-57ec1c84a4bcd3193d34"
+    },
+    {
+      "name": "Luxembourg (city)",
+      "kind": "area",
+      "locality": "Luxembourg (city)",
+      "lat": 49.611667,
+      "lon": 6.13,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxembourg_(city)",
+      "id": "luxembourg-cda0041089207877dd6a"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

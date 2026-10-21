@@ -1,0 +1,460 @@
+{
+  "sources": [
+    {
+      "title": "Mozambique",
+      "url": "https://en.wikivoyage.org/wiki/Mozambique",
+      "checkedAt": "2026-10-21T08:11:15.350Z"
+    },
+    {
+      "title": "Maputo",
+      "url": "https://en.wikivoyage.org/wiki/Maputo",
+      "checkedAt": "2026-10-21T08:11:18.487Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Maputo",
+      "kind": "area",
+      "locality": "Mozambique",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mozambique",
+      "id": "mozambique-4ba3f21ef4224cf5c53a"
+    },
+    {
+      "name": "Beira",
+      "kind": "area",
+      "locality": "Mozambique",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mozambique",
+      "id": "mozambique-360039957cb8a5790a04"
+    },
+    {
+      "name": "Ilha de Mozambique",
+      "kind": "area",
+      "locality": "Mozambique",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mozambique",
+      "id": "mozambique-1d6d01a1ca336407766b"
+    },
+    {
+      "name": "Inhambane",
+      "kind": "area",
+      "locality": "Mozambique",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mozambique",
+      "id": "mozambique-f9971fac83093992ef85"
+    },
+    {
+      "name": "Nampula",
+      "kind": "area",
+      "locality": "Mozambique",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mozambique",
+      "id": "mozambique-c23de98529fa8cb736a5"
+    },
+    {
+      "name": "Pemba",
+      "kind": "area",
+      "locality": "Mozambique",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mozambique",
+      "id": "mozambique-45b93114c52543dec99b"
+    },
+    {
+      "name": "Chimoio",
+      "kind": "area",
+      "locality": "Mozambique",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mozambique",
+      "id": "mozambique-07c57a995ad2760636f5"
+    },
+    {
+      "name": "Maputo Fortress",
+      "kind": "do",
+      "locality": "Maputo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "id": "mozambique-376d05aeda6c946cde9c"
+    },
+    {
+      "name": "Tunduru Botanical Gardens",
+      "kind": "do",
+      "locality": "Maputo",
+      "lat": -25.97108,
+      "lon": 32.57385,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "id": "mozambique-6dbacd25d5920404da77"
+    },
+    {
+      "name": "Maputo City Hall",
+      "kind": "do",
+      "locality": "Maputo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "Independence Square",
+      "id": "mozambique-738a305a4cd528f48a67"
+    },
+    {
+      "name": "Mercado Central",
+      "kind": "do",
+      "locality": "Maputo",
+      "lat": -25.9713,
+      "lon": 32.5687,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "Av. 25 de Setembro",
+      "id": "mozambique-c6b7f4531859226aea04"
+    },
+    {
+      "name": "Praça dos Trabalhadores",
+      "kind": "do",
+      "locality": "Maputo",
+      "lat": -25.9716,
+      "lon": 32.5653,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "id": "mozambique-a59ed2521a0166591b4c"
+    },
+    {
+      "name": "Cathedral of Our Lady of the Immaculate Conception",
+      "kind": "do",
+      "locality": "Maputo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "id": "mozambique-6f9ad75781435f10ada7"
+    },
+    {
+      "name": "Saint Anthony Catholic Church",
+      "kind": "do",
+      "locality": "Maputo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "id": "mozambique-af50bdb34f1ac65e9268"
+    },
+    {
+      "name": "National Art Museum",
+      "kind": "do",
+      "locality": "Maputo",
+      "lat": -25.966668,
+      "lon": 32.571845,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "Av Ho Chi Min",
+      "id": "mozambique-2b81fd60f0cffe9ac2ef"
+    },
+    {
+      "name": "Museum of Natural History",
+      "kind": "do",
+      "locality": "Maputo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "Praca Travessia de Zambezi",
+      "price": "Entrance MT 50",
+      "id": "mozambique-d3ee03b48dceb85264fe"
+    },
+    {
+      "name": "National Currency Museum",
+      "kind": "do",
+      "locality": "Maputo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "300 Praça 25 de Junho",
+      "id": "mozambique-ce155e5cfea1c4e67ba6"
+    },
+    {
+      "name": "Museum of Geology",
+      "kind": "do",
+      "locality": "Maputo",
+      "lat": -25.9755,
+      "lon": 32.5897,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "Av. dos Mártires da Machava",
+      "id": "mozambique-fe3b166e937f0241155c"
+    },
+    {
+      "name": "Cantinho do Brasil",
+      "kind": "eat",
+      "locality": "Maputo",
+      "lat": -25.965028,
+      "lon": 32.579891,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "Av. Vladimir Lenine 1057",
+      "id": "mozambique-e627592f0a5d855ad5e3"
+    },
+    {
+      "name": "Mercado Janeta",
+      "kind": "eat",
+      "locality": "Maputo",
+      "lat": -25.9612,
+      "lon": 32.5833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "id": "mozambique-0e1c9d68573bfb9af315"
+    },
+    {
+      "name": "Mamma Mia",
+      "kind": "eat",
+      "locality": "Maputo",
+      "lat": -25.969,
+      "lon": 32.594,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "Avenida dos Mártires da Machava",
+      "id": "mozambique-a12400f45992ddd9953c"
+    },
+    {
+      "name": "Mimmos",
+      "kind": "eat",
+      "locality": "Maputo",
+      "lat": -25.9717,
+      "lon": 32.5842,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "Av. Salvador Allende",
+      "price": "MT 376–1,204",
+      "url": "https://www.facebook.com/mimmosmozambique",
+      "id": "mozambique-9e517129c1ffb4187786"
+    },
+    {
+      "name": "Piri Piri",
+      "kind": "eat",
+      "locality": "Maputo",
+      "lat": -25.9767,
+      "lon": 32.5928,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "Av. 24 de Julho",
+      "url": "https://www.facebook.com/pages/Piri%20Piri/140496502671998/",
+      "id": "mozambique-d83a8096f35ae9fc82bd"
+    },
+    {
+      "name": "Mercado do Peixe",
+      "kind": "eat",
+      "locality": "Maputo",
+      "lat": -25.9352,
+      "lon": 32.6286,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "Av. Marginal",
+      "url": "https://www.facebook.com/MPmaputo/",
+      "id": "mozambique-034a0ff65a3cefe255f3"
+    },
+    {
+      "name": "Mundos",
+      "kind": "eat",
+      "locality": "Maputo",
+      "lat": -25.9744,
+      "lon": 32.5939,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "Av. Julius Nyerere",
+      "id": "mozambique-91591a917edecbb35943"
+    },
+    {
+      "name": "Maputo Waterfront",
+      "kind": "eat",
+      "locality": "Maputo",
+      "lat": -25.9821,
+      "lon": 32.5843,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "Av. 10 de Novembre",
+      "price": "MT 150–1,655",
+      "url": "https://www.maputowaterfront.com/",
+      "id": "mozambique-910a6f42e695d62a49ec"
+    },
+    {
+      "name": "Restaurante 1908",
+      "kind": "eat",
+      "locality": "Maputo",
+      "lat": -25.969359,
+      "lon": 32.586253,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "Av. Eduardo Mondlane/Av. Salvador Allende",
+      "id": "mozambique-894d18e99d4012b759bf"
+    },
+    {
+      "name": "Cristal",
+      "kind": "eat",
+      "locality": "Maputo",
+      "lat": -25.973975,
+      "lon": 32.588386,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "Av. 24 de Julho/Av. Tomas Nduda",
+      "id": "mozambique-fe53fee5a4e78eec1538"
+    },
+    {
+      "name": "Monte Alentejano",
+      "kind": "eat",
+      "locality": "Maputo",
+      "lat": -25.977592,
+      "lon": 32.592701,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "Av. Julius Nyerere",
+      "id": "mozambique-923541bb101fd6fba0ae"
+    },
+    {
+      "name": "Costa do Sol restaurant",
+      "kind": "eat",
+      "locality": "Maputo",
+      "lat": -25.91717,
+      "lon": 32.645678,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "Av. Marginal in Costa do Sol",
+      "id": "mozambique-b19c80bb5905d95960fc"
+    },
+    {
+      "name": "Restaurant Sheik",
+      "kind": "eat",
+      "locality": "Maputo",
+      "lat": -25.967394,
+      "lon": 32.597057,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "Av. Mao Tse Tung",
+      "id": "mozambique-e32c2d55e8c021ce8f95"
+    },
+    {
+      "name": "Zambi",
+      "kind": "eat",
+      "locality": "Maputo",
+      "lat": -25.9799,
+      "lon": 32.57952,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "Av. 10 de Novembro",
+      "id": "mozambique-fde86582284e05e07eea"
+    },
+    {
+      "name": "Filini",
+      "kind": "eat",
+      "locality": "Maputo",
+      "lat": -25.956426,
+      "lon": 32.607049,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "id": "mozambique-963ed5c00ac054f0562d"
+    },
+    {
+      "name": "La Dolce Vita",
+      "kind": "eat",
+      "locality": "Maputo",
+      "lat": -25.97314,
+      "lon": 32.594761,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "Av. Julius Nyerere 800",
+      "id": "mozambique-5d5fa2c0ef355b3c6ab9"
+    },
+    {
+      "name": "Havana Bar",
+      "kind": "eat",
+      "locality": "Maputo",
+      "lat": -25.967073,
+      "lon": 32.596599,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "id": "mozambique-bf75e6bc305ff2cfeb68"
+    },
+    {
+      "name": "Fatima's Place",
+      "kind": "stay",
+      "locality": "Maputo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "1317 Mao Tse Tung Avenida, Maputo",
+      "id": "mozambique-50dc8835bf2623886350"
+    },
+    {
+      "name": "Maputo B&B, Backpackers",
+      "kind": "stay",
+      "locality": "Maputo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "id": "mozambique-c85713551f8eaaa1e1af"
+    },
+    {
+      "name": "Pestana Rovuma",
+      "kind": "stay",
+      "locality": "Maputo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "Rua da Sé, 114 Caixa Postal 4376",
+      "url": "http://www.pestana.com/hotels/en/hotels/africa/MaputoHotels/Rovuma/Home/PestanaRovuma.htm",
+      "id": "mozambique-724675051540cdbdfa1a"
+    },
+    {
+      "name": "Massala Beach Resort",
+      "kind": "stay",
+      "locality": "Maputo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "Bilene, approximately 175 km from Maputo",
+      "price": "From 920 South African rand",
+      "url": "http://www.massalabeachresort.com/",
+      "id": "mozambique-bf160b81384b86368eb6"
+    },
+    {
+      "name": "Pestana Inhaca Lodge",
+      "kind": "stay",
+      "locality": "Maputo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "Pestana Inhaca Lodge, Ilha de Inhaca (40 km out of Maputo)",
+      "url": "http://www.pestana.com/hotels/en/hotels/africa/InhacaHotels/Inhaca/Home/PestanaInhaca.htm",
+      "id": "mozambique-078169cd5bf1bc777a28"
+    },
+    {
+      "name": "Malagueta Inn",
+      "kind": "stay",
+      "locality": "Maputo",
+      "lat": -25.97669,
+      "lon": 32.59294,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "14, Av. 24 de Julho",
+      "price": "~$46",
+      "id": "mozambique-f63a9bfec4318c5e8c06"
+    },
+    {
+      "name": "Macaneta Holiday Resort",
+      "kind": "stay",
+      "locality": "Maputo",
+      "lat": -25.7681,
+      "lon": 32.7375,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "Praia de Macaneta, Marracuene",
+      "price": "$42",
+      "url": "http://www.macanetaresort.com/",
+      "id": "mozambique-b1b5aa33ded1ac446181"
+    },
+    {
+      "name": "Polana Serena Hotel",
+      "kind": "stay",
+      "locality": "Maputo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "1380 Avenida Julius Nyerere",
+      "price": "Doubles from US$217",
+      "url": "https://www.serenahotels.com/serenapolana",
+      "id": "mozambique-0e6a29f3a07645c8d03b"
+    },
+    {
+      "name": "Catembe Gallery Hotel",
+      "kind": "stay",
+      "locality": "Maputo",
+      "lat": -26.01047,
+      "lon": 32.5671,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "Rua B 77, Catembe",
+      "url": "http://www.catembe.net/",
+      "id": "mozambique-aa4085ed9296878e82af"
+    },
+    {
+      "name": "Hotel Cardoso",
+      "kind": "stay",
+      "locality": "Maputo",
+      "lat": -25.9782005,
+      "lon": 32.5859889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "url": "http://www.hotelcardoso.co.mz/",
+      "id": "mozambique-eb1e33786ee92e63499e"
+    },
+    {
+      "name": "Hotel Avenida",
+      "kind": "stay",
+      "locality": "Maputo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "url": "http://www.tdhotels.com/en/Menu/Our-Hotels/Mozambique/Maputo/Hotel-Avenida/Hotel.aspx",
+      "id": "mozambique-73756e1f1f780671dd8d"
+    },
+    {
+      "name": "Radisson Blu Hotel & Residence, Maputo",
+      "kind": "stay",
+      "locality": "Maputo",
+      "lat": -25.9566771,
+      "lon": 32.606693,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "address": "Avenida Marginal 141",
+      "price": "From US$200",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-maputo",
+      "id": "mozambique-84aad127cedfb87c338c"
+    },
+    {
+      "name": "Maputo",
+      "kind": "area",
+      "locality": "Maputo",
+      "lat": -25.965556,
+      "lon": 32.588611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maputo",
+      "id": "mozambique-f832d9a2189719b3288e"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

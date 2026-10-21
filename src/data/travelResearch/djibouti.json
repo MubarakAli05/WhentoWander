@@ -1,0 +1,153 @@
+{
+  "sources": [
+    {
+      "title": "Djibouti",
+      "url": "https://en.wikivoyage.org/wiki/Djibouti",
+      "checkedAt": "2026-10-21T08:09:22.210Z"
+    },
+    {
+      "title": "Djibouti (city)",
+      "url": "https://en.wikivoyage.org/wiki/Djibouti_(city)",
+      "checkedAt": "2026-10-21T08:09:28.211Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Djibouti",
+      "kind": "area",
+      "locality": "Djibouti",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Djibouti",
+      "id": "djibouti-de2a835c845c5c30a207"
+    },
+    {
+      "name": "Galafi",
+      "kind": "area",
+      "locality": "Djibouti",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Djibouti",
+      "id": "djibouti-09745097a4ea85e005a6"
+    },
+    {
+      "name": "Obock",
+      "kind": "area",
+      "locality": "Djibouti",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Djibouti",
+      "id": "djibouti-cb2f50a4889434a973d9"
+    },
+    {
+      "name": "Tadjoura",
+      "kind": "area",
+      "locality": "Djibouti",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Djibouti",
+      "id": "djibouti-cf2c38b731d03d095475"
+    },
+    {
+      "name": "Aden Bay Casino",
+      "kind": "do",
+      "locality": "Djibouti (city)",
+      "lat": 11.60276614753218,
+      "lon": 43.1579096395944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Djibouti_(city)",
+      "address": "Sheraton Djibouti",
+      "id": "djibouti-dd282b13b9f16a7e0566"
+    },
+    {
+      "name": "Bawadi Mall",
+      "kind": "do",
+      "locality": "Djibouti (city)",
+      "lat": 11.59094,
+      "lon": 43.133424,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Djibouti_(city)",
+      "address": "Rue De Venice",
+      "url": "https://www.bawadimall.com/",
+      "id": "djibouti-b7fc24d5bd44947d88af"
+    },
+    {
+      "name": "Melting Pot",
+      "kind": "eat",
+      "locality": "Djibouti (city)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Djibouti_(city)",
+      "address": "Heron",
+      "price": "US$4-30",
+      "url": "https://meltingpotdj.com/",
+      "id": "djibouti-3c6d250d02b24d18a310"
+    },
+    {
+      "name": "La Mer Rouge Restaurant",
+      "kind": "eat",
+      "locality": "Djibouti (city)",
+      "lat": 11.5579,
+      "lon": 43.1411,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Djibouti_(city)",
+      "address": "Ambouli Street Nelson Mandela, 534",
+      "id": "djibouti-04015b378392c67ff1d6"
+    },
+    {
+      "name": "Club Hermes",
+      "kind": "eat",
+      "locality": "Djibouti (city)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Djibouti_(city)",
+      "id": "djibouti-d43f535743a17f02d70c"
+    },
+    {
+      "name": "Club Menelik",
+      "kind": "eat",
+      "locality": "Djibouti (city)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Djibouti_(city)",
+      "id": "djibouti-981d84b32c3ccb6ddd08"
+    },
+    {
+      "name": "La Galette",
+      "kind": "eat",
+      "locality": "Djibouti (city)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Djibouti_(city)",
+      "id": "djibouti-26e1e8afff0004c5f29c"
+    },
+    {
+      "name": "La Oasis",
+      "kind": "eat",
+      "locality": "Djibouti (city)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Djibouti_(city)",
+      "id": "djibouti-c766a566955cce2c7501"
+    },
+    {
+      "name": "Le Maries",
+      "kind": "eat",
+      "locality": "Djibouti (city)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Djibouti_(city)",
+      "id": "djibouti-b01e67e9f628e4f2e3d6"
+    },
+    {
+      "name": "Golden Airport Hotel",
+      "kind": "stay",
+      "locality": "Djibouti (city)",
+      "lat": 11.558,
+      "lon": 43.14,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Djibouti_(city)",
+      "address": "Nelson Mandela, 534",
+      "price": "Double €105",
+      "url": "https://www.goldenairporthotel.com/",
+      "id": "djibouti-e19b60c4b463f109d751"
+    },
+    {
+      "name": "Djibouti Palace Kempinski",
+      "kind": "stay",
+      "locality": "Djibouti (city)",
+      "lat": 11.61864,
+      "lon": 43.14655,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Djibouti_(city)",
+      "url": "https://www.kempinski.com/en/djibouti/djibouti-palace/",
+      "id": "djibouti-a493936346a9f507c9ea"
+    },
+    {
+      "name": "Djibouti (city)",
+      "kind": "area",
+      "locality": "Djibouti (city)",
+      "lat": 11.595,
+      "lon": 43.148056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Djibouti_(city)",
+      "id": "djibouti-aa4e52dd24120fc3838f"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

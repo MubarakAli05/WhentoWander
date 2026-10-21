@@ -1,0 +1,139 @@
+{
+  "sources": [
+    {
+      "title": "Grenada",
+      "url": "https://en.wikivoyage.org/wiki/Grenada",
+      "checkedAt": "2026-10-21T08:09:52.282Z"
+    },
+    {
+      "title": "St. George's",
+      "url": "https://en.wikivoyage.org/wiki/St._George's",
+      "checkedAt": "2026-10-21T08:09:55.397Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Grenada National Museum",
+      "kind": "do",
+      "locality": "St. George's",
+      "lat": 12.0506,
+      "lon": -61.7527,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/St._George's",
+      "address": "Young St",
+      "url": "https://museum.gd/",
+      "id": "grenada-6b56e0df2f6c5fd501e4"
+    },
+    {
+      "name": "Eric Gairy Botanical Gardens",
+      "kind": "do",
+      "locality": "St. George's",
+      "lat": 12.0469,
+      "lon": -61.7449,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/St._George's",
+      "id": "grenada-13f065bf0ca1148c3c99"
+    },
+    {
+      "name": "Fort Frederick",
+      "kind": "do",
+      "locality": "St. George's",
+      "lat": 12.0482,
+      "lon": -61.7375,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/St._George's",
+      "id": "grenada-2165fe2b1f71ea3e3ea4"
+    },
+    {
+      "name": "Moliniere Point",
+      "kind": "do",
+      "locality": "St. George's",
+      "lat": 12.0843,
+      "lon": -61.7633,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/St._George's",
+      "id": "grenada-6d032b08b999628c07d8"
+    },
+    {
+      "name": "Annandale Waterfall",
+      "kind": "do",
+      "locality": "St. George's",
+      "lat": 12.0875,
+      "lon": -61.7171,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/St._George's",
+      "address": "Constantine Rd, Willis",
+      "price": "Adult EC$ 5",
+      "id": "grenada-7a8f71a646cdf91be604"
+    },
+    {
+      "name": "Grand Etang",
+      "kind": "do",
+      "locality": "St. George's",
+      "lat": 12.0965,
+      "lon": -61.6955,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/St._George's",
+      "id": "grenada-cd82161e7f50a0cdbf01"
+    },
+    {
+      "name": "Seven Sisters",
+      "kind": "do",
+      "locality": "St. George's",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/St._George's",
+      "id": "grenada-72bcce6f96a2a53698ec"
+    },
+    {
+      "name": "Concord Falls",
+      "kind": "do",
+      "locality": "St. George's",
+      "lat": 12.1178,
+      "lon": -61.7188,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/St._George's",
+      "id": "grenada-fe125b686a8be02568cf"
+    },
+    {
+      "name": "National Stadium",
+      "kind": "do",
+      "locality": "St. George's",
+      "lat": 12.0589,
+      "lon": -61.7521,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/St._George's",
+      "id": "grenada-934164b3b5a68174e706"
+    },
+    {
+      "name": "Sails",
+      "kind": "eat",
+      "locality": "St. George's",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/St._George's",
+      "address": "The Carenage",
+      "url": "https://sails-restaurant-bar.business.site/",
+      "id": "grenada-a48e4dda07c07abacbee"
+    },
+    {
+      "name": "Patrick's Restaurant",
+      "kind": "eat",
+      "locality": "St. George's",
+      "lat": 12.0422,
+      "lon": -61.75,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/St._George's",
+      "address": "Lagoon Rd",
+      "id": "grenada-9c3560e1ce18b0b898a8"
+    },
+    {
+      "name": "360 Degrees",
+      "kind": "eat",
+      "locality": "St. George's",
+      "lat": 12.0544,
+      "lon": -61.7502,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/St._George's",
+      "address": "Old Fort Rd",
+      "id": "grenada-b9cf87d3835deebabead"
+    },
+    {
+      "name": "St. George's",
+      "kind": "area",
+      "locality": "St. George's",
+      "lat": 12.05,
+      "lon": -61.75,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/St._George's",
+      "id": "grenada-e5ec7cc1ab5ab129284c"
+    }
+  ],
+  "status": "partial",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. No extractable structured facts: Grenada. Missing categories: stay."
+}

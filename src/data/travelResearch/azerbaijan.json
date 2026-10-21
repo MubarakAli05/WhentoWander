@@ -1,0 +1,1523 @@
+{
+  "sources": [
+    {
+      "title": "Azerbaijan",
+      "url": "https://en.wikivoyage.org/wiki/Azerbaijan",
+      "checkedAt": "2026-10-21T08:08:20.462Z"
+    },
+    {
+      "title": "Baku",
+      "url": "https://en.wikivoyage.org/wiki/Baku",
+      "checkedAt": "2026-10-21T08:08:23.402Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Baku",
+      "kind": "area",
+      "locality": "Azerbaijan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Azerbaijan",
+      "id": "azerbaijan-4632c88cc08af1716336"
+    },
+    {
+      "name": "Ganja",
+      "kind": "area",
+      "locality": "Azerbaijan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Azerbaijan",
+      "id": "azerbaijan-c21ab642ecbc141aabe1"
+    },
+    {
+      "name": "Lankaran",
+      "kind": "area",
+      "locality": "Azerbaijan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Azerbaijan",
+      "id": "azerbaijan-7b7d14a7ecfee1db520e"
+    },
+    {
+      "name": "Nakhchivan",
+      "kind": "area",
+      "locality": "Azerbaijan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Azerbaijan",
+      "id": "azerbaijan-2d90b2cb81f2e9f5ab8c"
+    },
+    {
+      "name": "Qabala",
+      "kind": "area",
+      "locality": "Azerbaijan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Azerbaijan",
+      "id": "azerbaijan-8efb2d7e056e0c16f653"
+    },
+    {
+      "name": "Sheki",
+      "kind": "area",
+      "locality": "Azerbaijan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Azerbaijan",
+      "id": "azerbaijan-a1188663a7126a174a9f"
+    },
+    {
+      "name": "Shemakha",
+      "kind": "area",
+      "locality": "Azerbaijan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Azerbaijan",
+      "id": "azerbaijan-17a7029a502518f2bd8b"
+    },
+    {
+      "name": "Sumqayit",
+      "kind": "area",
+      "locality": "Azerbaijan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Azerbaijan",
+      "id": "azerbaijan-89d67c0e3f9cde464efc"
+    },
+    {
+      "name": "The Palace of the Shirvan Shahs",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.36666,
+      "lon": 49.83299,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Sabayil",
+      "price": "Foreigners 10 manat, locals 2 manat, 2 manat to take photos",
+      "url": "http://azerbaijan.travel/en/place/5-shirvanshah-s-palace",
+      "id": "azerbaijan-2170c49a4c884b7675d3"
+    },
+    {
+      "name": "Saray Mosque",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.366069,
+      "lon": 49.833042,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-2fc8576eb18b76bec51e"
+    },
+    {
+      "name": "Maiden's Tower",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.36625,
+      "lon": 49.83735,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Qüllə",
+      "price": "Foreigners 15 manat, locals 2 manat",
+      "id": "azerbaijan-c21e0618e55a475d8b3f"
+    },
+    {
+      "name": "Fortress walls and towers",
+      "kind": "do",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-14743cc2bae381522412"
+    },
+    {
+      "name": "Bukhara Caravanserai",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.36654,
+      "lon": 49.83691,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-5bac7a775e6f7907ac42"
+    },
+    {
+      "name": "Multani Caravanserai",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.36651,
+      "lon": 49.83717,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-4211c9d5ae72a1bafe71"
+    },
+    {
+      "name": "Hajji Gayyib bathhouse",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.366366,
+      "lon": 49.83667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-18d7b12a060283de8ab1"
+    },
+    {
+      "name": "Agha Mikayil bathhouse",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.36456,
+      "lon": 49.83271,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Kichik Gala street 16?",
+      "id": "azerbaijan-f4e3c5aaf571b3285feb"
+    },
+    {
+      "name": "Small Caravansaray",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.3652,
+      "lon": 49.836,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Asef Zeynally St",
+      "id": "azerbaijan-7a989e79a2698687a37a"
+    },
+    {
+      "name": "Molla Ahmad’s mosque",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.3677,
+      "lon": 49.8357,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-198a89bba8940b73fa39"
+    },
+    {
+      "name": "Myrzhy Ahmad’s mosque",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.3674,
+      "lon": 49.8358,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-331c5170d630a5424d13"
+    },
+    {
+      "name": "Two-Storeyed Caravansaray",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.36565,
+      "lon": 49.836805,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-181205f7a18ea819375a"
+    },
+    {
+      "name": "Hadji Bani (Hajji) mosque",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.3669,
+      "lon": 49.8328,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-099c22f745ea8dd37894"
+    },
+    {
+      "name": "“Chin” mosque",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.366944,
+      "lon": 49.833611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-40354552614a7158a57b"
+    },
+    {
+      "name": "Gasim-bek bath",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.364,
+      "lon": 49.8338,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Kichik Gala street",
+      "id": "azerbaijan-c10a4f404050586d78fc"
+    },
+    {
+      "name": "Gasim-bek Caravanserai",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.36581,
+      "lon": 49.83667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Asef Zeynali",
+      "id": "azerbaijan-290e81db7582adb5b843"
+    },
+    {
+      "name": "Madrasah-mosque",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.3661,
+      "lon": 49.83662,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "A.Zeynalli street",
+      "id": "azerbaijan-af4979974736f3695732"
+    },
+    {
+      "name": "Seyed Yahya mosque",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.36462,
+      "lon": 49.83463,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Asef Zeynally Street ~16",
+      "id": "azerbaijan-24ec1183b96ae657f5ed"
+    },
+    {
+      "name": "Jame mosque and minaret remains",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.3653,
+      "lon": 49.8356,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Kiçik Qala",
+      "id": "azerbaijan-eec64c94f1e113aa362b"
+    },
+    {
+      "name": "Bazaar Square",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.3665,
+      "lon": 49.83716,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-cd53156829a05050ef1e"
+    },
+    {
+      "name": "Baba Kukhy Baku mosque",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.3662,
+      "lon": 49.8371,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-89a1298b326b27f41782"
+    },
+    {
+      "name": "Cell-madrasa",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.36643,
+      "lon": 49.83663,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-c61c66f1eb14d410b6df"
+    },
+    {
+      "name": "Gileyli mosque",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.36474,
+      "lon": 49.83272,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-1b653cf866ff06ae2788"
+    },
+    {
+      "name": "Lezgi mosque / Ashur Mosque",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.365394,
+      "lon": 49.835719,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Asef Zeynally Street",
+      "id": "azerbaijan-dac50e0ac01d4c2658fc"
+    },
+    {
+      "name": "Portal of a residential building",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.36621,
+      "lon": 49.83594,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Böyük Qala",
+      "id": "azerbaijan-5cdbbdaac4cede3ef263"
+    },
+    {
+      "name": "Sultan oglu Sultan Sheikh Ibrahim mosque",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.36465,
+      "lon": 49.8345,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-8c81f8484257ed417999"
+    },
+    {
+      "name": "Salyan Gates and Shemakha Gates",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.36853,
+      "lon": 49.83632,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-61c8b2d7d88eda602a08"
+    },
+    {
+      "name": "Muhammad Mosque",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.36525,
+      "lon": 49.83498,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-c9fd12a5e6abdaa314c9"
+    },
+    {
+      "name": "Beyler Mosque",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.36661,
+      "lon": 49.83346,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-f6f54f64570d9f629dc4"
+    },
+    {
+      "name": "Haji Eybata Mosque",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.36725,
+      "lon": 49.83344,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Kichik Qala, dönge 8",
+      "id": "azerbaijan-16212c754b50efeb7148"
+    },
+    {
+      "name": "Khan's house",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.368,
+      "lon": 49.8368,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-60701f6157519bd9009f"
+    },
+    {
+      "name": "Khidir mosque",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.365,
+      "lon": 49.833889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-d1fca6420683ae5b22c3"
+    },
+    {
+      "name": "Khanlarov mosque",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.366111,
+      "lon": 49.837222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-68d57877c5222d76d0ba"
+    },
+    {
+      "name": "Tetragonal tower",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.36816,
+      "lon": 49.83444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-0659a34f4c843d3e7f5a"
+    },
+    {
+      "name": "Underground constructions, water reservoir",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.366,
+      "lon": 49.8321,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-a4650891a69ed713dc71"
+    },
+    {
+      "name": "Takiya",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.366872,
+      "lon": 49.836581,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-90aac3ebd8b1d0cf6ed3"
+    },
+    {
+      "name": "Mosque of the Martyrs",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.358333,
+      "lon": 49.827778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Izzat Nabiyev",
+      "id": "azerbaijan-ca84ab68769f4b40a87a"
+    },
+    {
+      "name": "Taza Pir Mosque",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.371944,
+      "lon": 49.831389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "7 Mirzə Fətəli Axundzadə",
+      "id": "azerbaijan-372c2ca210220f786924"
+    },
+    {
+      "name": "Saint Gregory the Illuminator's Church",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.371623,
+      "lon": 49.836466,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Street Nizami (ул. Низами)",
+      "id": "azerbaijan-141466777b5a40e021b5"
+    },
+    {
+      "name": "Holy Myrrhbearers Cathedral / Russian Orthodox Church",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.3895715,
+      "lon": 49.8206505,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "url": "https://baku.eparhia.ru/",
+      "id": "azerbaijan-7ba98cc46a66f57599dc"
+    },
+    {
+      "name": "Former Church of the Saviour",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.377004,
+      "lon": 49.847784,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Dilara Aliyeva and 28 May Street (ул. 28 Мая) cnr",
+      "id": "azerbaijan-f3b8a960a8eb1cbc25bb"
+    },
+    {
+      "name": "Church of Michael the Archangel",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.3735,
+      "lon": 49.8318,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Zargarpalan street (Zərgərpalan, Заргярпалан), 38",
+      "url": "https://baku.eparhia.ru/church/arh_mihail/",
+      "id": "azerbaijan-c5936016564695eda3da"
+    },
+    {
+      "name": "Church of the Virgin Mary’s Immaculate Conception",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.37965,
+      "lon": 49.87681,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "İzzət Oruczadə küç. ?",
+      "url": "https://www.baku.ru/enc-show.php?id=73922&cmm_id=276",
+      "id": "azerbaijan-09e3653b618526e46acb"
+    },
+    {
+      "name": "National Art Museum of Azerbaijan",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.363056,
+      "lon": 49.831667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "31, Istiglaliyat st",
+      "url": "http://www.bakupages.com/pages/museums/museum-of-art_en.php",
+      "id": "azerbaijan-a9f56931654d1c6e3a17"
+    },
+    {
+      "name": "National Museum of History of Azerbaijan",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.36938,
+      "lon": 49.8402,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "4 Hadji Zeynal Abdin Taghiyev str.",
+      "price": "10 manat",
+      "url": "http://www.azhistorymuseum.az/",
+      "id": "azerbaijan-94d8f9d1eeb009f98469"
+    },
+    {
+      "name": "Azerbaijan Carpet Museum",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.35981,
+      "lon": 49.83554,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Bakı ş., Mikayıl Useynov pr-ti, 28",
+      "price": "10 manat",
+      "url": "http://www.azcarpetmuseum.az/",
+      "id": "azerbaijan-97d672f189bf40cb7986"
+    },
+    {
+      "name": "Heydar Aliyev Center",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.395278,
+      "lon": 49.866944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Heydər Əliyev prospekti",
+      "url": "http://heydaraliyevcenter.az/#main",
+      "id": "azerbaijan-7758f99909b3f7015d72"
+    },
+    {
+      "name": "Stone Museum",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.3402,
+      "lon": 49.8412,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "price": "Free",
+      "id": "azerbaijan-3ea547e3c1adf88bcece"
+    },
+    {
+      "name": "Art exhibition",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.3578,
+      "lon": 49.8363,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "price": "Free",
+      "id": "azerbaijan-72fd77173f4d9d0fc650"
+    },
+    {
+      "name": "Baku Boulevard",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.36,
+      "lon": 49.8371,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-594c05132a286605d6d8"
+    },
+    {
+      "name": "Fountain Square",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.370833,
+      "lon": 49.836667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-43bad5feab2b1666e8a5"
+    },
+    {
+      "name": "Nizami (Torgovaya) St",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.372944,
+      "lon": 49.840395,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-abbe9fc6b8c5e52b75ef"
+    },
+    {
+      "name": "Oil Rocks",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.236111,
+      "lon": 50.858333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-16fd49082b3645d9509b"
+    },
+    {
+      "name": "National Flag Square",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.344167,
+      "lon": 49.844722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-49bcf054d6c24d7d9738"
+    },
+    {
+      "name": "Alley of Honor",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.361667,
+      "lon": 49.820833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Parlament Prospekti",
+      "url": "http://www.azerbaijan.az/_Sosiety/_HonoraryCemetery/_cemetery_e.html",
+      "id": "azerbaijan-0c545dd2eac60f0c25c2"
+    },
+    {
+      "name": "Martyrs' Lane",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.357917,
+      "lon": 49.827083,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "İzzət Nəbiyev street",
+      "id": "azerbaijan-488cf30bf27a8b1b1b87"
+    },
+    {
+      "name": "International Mugham Center of Azerbaijan",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.360833,
+      "lon": 49.835,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Baku Boulevard (Neftçilər Prospekti, просп. Нефтяников)",
+      "url": "https://m.facebook.com/mughamcentre/",
+      "id": "azerbaijan-9c783bcff8aec23ecbd7"
+    },
+    {
+      "name": "Magomayev Azerbaijan State Philharmonic Hall",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.366389,
+      "lon": 49.835,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "2, Istiglaliyyat St",
+      "url": "https://m.facebook.com/azerbaijanstatephilarmonia/",
+      "id": "azerbaijan-37caa3ed623e63970936"
+    },
+    {
+      "name": "Palace of Happiness",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.395278,
+      "lon": 49.882222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Sabail Raion, Istiglaliyyat St. 4",
+      "id": "azerbaijan-274811065f120eeb6206"
+    },
+    {
+      "name": "Gulustan Palace",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.3692,
+      "lon": 49.8343,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "1 Istiglaliyyat Street,",
+      "id": "azerbaijan-a7c86d5543dca2a59f35"
+    },
+    {
+      "name": "Ismailiyya building",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.368525,
+      "lon": 49.833606,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Istiglaliyyat Street,",
+      "id": "azerbaijan-72c71f523863e588bf5b"
+    },
+    {
+      "name": "Baku TV Tower",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.351389,
+      "lon": 49.823333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Sabail district",
+      "price": "20 manat",
+      "id": "azerbaijan-61f118f6797c7b480434"
+    },
+    {
+      "name": "Flame Towers",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.35936,
+      "lon": 49.82687,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Mehdi Huseyn Street",
+      "id": "azerbaijan-4a41682d56d81105a782"
+    },
+    {
+      "name": "Oil Pump Fields",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.3187127,
+      "lon": 49.8300946,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-ecd5179330d45a0a5b12"
+    },
+    {
+      "name": "Bibi-Heybat Mosque",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.308611,
+      "lon": 49.820278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Salyan Highway (Salyan şossesi)",
+      "price": "Free",
+      "id": "azerbaijan-a6ee98132fc8ee86b7cf"
+    },
+    {
+      "name": "Philharmonic Fountain Park",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.363735,
+      "lon": 49.832946,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-456c6f01fe28588d949e"
+    },
+    {
+      "name": "Mud Volcano which is supposed to be 15 km north of Baku city centre",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.432184,
+      "lon": 49.699572,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-b87de6d75544e2ebddee"
+    },
+    {
+      "name": "Boat tours of Baku",
+      "kind": "do",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "price": "6 manat",
+      "id": "azerbaijan-90c88860e94799950914"
+    },
+    {
+      "name": "Pantomima theatre",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.382201,
+      "lon": 49.845966,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "49 Azadliq Ave",
+      "price": "6 manat",
+      "url": "http://pantomima.az/",
+      "id": "azerbaijan-7b245ea31b2bf93056ee"
+    },
+    {
+      "name": "National Opera and Ballet",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.374716,
+      "lon": 49.845346,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "95 Nizami St",
+      "url": "http://tob.az/",
+      "id": "azerbaijan-563ed7da2cc36863aee2"
+    },
+    {
+      "name": "Baku Funicular Railroad",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.360336,
+      "lon": 49.833068,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "price": "1 manat",
+      "id": "azerbaijan-aa3dc5cc0b016daca5f0"
+    },
+    {
+      "name": "Aqua Park Baku",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.383389,
+      "lon": 49.841486,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Rashid Behbudov, 59",
+      "price": "US$19 for ages 7 and up",
+      "id": "azerbaijan-e615310c6643b774ac58"
+    },
+    {
+      "name": "Baku Entertainment Center",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.384923,
+      "lon": 49.869257,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Khatai District, F. Bayramov St, 1130/33",
+      "id": "azerbaijan-21e8b3079853f506b616"
+    },
+    {
+      "name": "Mini-Venice",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.361784,
+      "lon": 49.836003,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-f3d19dec8d55474e84b0"
+    },
+    {
+      "name": "Football",
+      "kind": "do",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-1f2cf78b6b4c0cbc8ffa"
+    },
+    {
+      "name": "Azersun stadium",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.4212,
+      "lon": 49.9968,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "url": "https://www.qarabagh.com/",
+      "id": "azerbaijan-d74df979dd7a2997f988"
+    },
+    {
+      "name": "ASK Arena",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.410986,
+      "lon": 49.897711,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "url": "http://www.keshlafc.az/",
+      "id": "azerbaijan-be743582c3872aede22b"
+    },
+    {
+      "name": "Bakcell Arena",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.400163,
+      "lon": 49.944019,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "url": "https://neftchi.az/",
+      "id": "azerbaijan-03282fdc583d7e2d5368"
+    },
+    {
+      "name": "Zira Olympic sports complex",
+      "kind": "do",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "url": "http://www.fczire.az/",
+      "id": "azerbaijan-45e481f9abc8ab124a1d"
+    },
+    {
+      "name": "Asco Arena",
+      "kind": "do",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-131ed42cf99faad5d7cf"
+    },
+    {
+      "name": "Tofiq Bahramov Republican Stadium",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.397333,
+      "lon": 49.852417,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-1679b1aa234b02bfd26a"
+    },
+    {
+      "name": "Baku Olympic Stadium",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.429766,
+      "lon": 49.91979,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "url": "http://bos.az/en/",
+      "id": "azerbaijan-18fbc26f3f5085bbd690"
+    },
+    {
+      "name": "Baku City Circuit",
+      "kind": "do",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "url": "https://www.bakucitycircuit.com/",
+      "id": "azerbaijan-503e6e3f936bbebf93ad"
+    },
+    {
+      "name": "Hamam Mehellesi",
+      "kind": "do",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "price": "10 manat and they offer two types of service, hise (skin peel) for 15 manat, and massage for 20 manat",
+      "id": "azerbaijan-5a5a80805b881fbdd56d"
+    },
+    {
+      "name": "Aga Mikayil Bath House (XVIII century hamami)",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.3643166,
+      "lon": 49.8327957,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Icheri sheher, Kichik Gala 3/16",
+      "price": "10 manat, plus massage 10 manat",
+      "id": "azerbaijan-3ee02c2dc0928f4abe63"
+    },
+    {
+      "name": "Naftalan Bath",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.353531,
+      "lon": 49.798228,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "price": "20 manat for medical checkup, 20 manat for one oil bath",
+      "id": "azerbaijan-9ec6864aefb0c8f9cd22"
+    },
+    {
+      "name": "The Spa at Park Hyatt Baku",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.386828,
+      "lon": 49.82488,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Park Hyatt Baku Hotel, 1033 Izmir St",
+      "url": "https://baku.park.hyatt.com/hyatt/pure/spas/",
+      "id": "azerbaijan-c828a8e1e978fabc3cb5"
+    },
+    {
+      "name": "Teze Bey Hamami",
+      "kind": "do",
+      "locality": "Baku",
+      "lat": 40.367111,
+      "lon": 49.827256,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "url": "https://m.facebook.com/Tazebey.hamam/",
+      "id": "azerbaijan-db74c522854032f4d061"
+    },
+    {
+      "name": "AF Beach Club",
+      "kind": "stay",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Novkhani",
+      "price": "80-600 manat",
+      "url": "http://www.afhotel.az/",
+      "id": "azerbaijan-2548f549b1a328264d9f"
+    },
+    {
+      "name": "Amburan Beach Club",
+      "kind": "stay",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Bilgah",
+      "url": "http://www.amburan.com/",
+      "id": "azerbaijan-2249573c481954a364e1"
+    },
+    {
+      "name": "Baku Jazz Festival",
+      "kind": "do",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "price": "Tickets can be purchased from Baku Jazz Center, 19 Rashid Behbudov St or by phone.",
+      "url": "https://m.facebook.com/bakujazzfest/",
+      "id": "azerbaijan-51379d27cd0f21bf013c"
+    },
+    {
+      "name": "Half Way Inn",
+      "kind": "eat",
+      "locality": "Baku",
+      "lat": 40.3753,
+      "lon": 49.8446,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "6, 28 May St",
+      "price": "5-10 manat",
+      "id": "azerbaijan-ce121e9df6b0bbf6a061"
+    },
+    {
+      "name": "Nergiz Restaurant",
+      "kind": "eat",
+      "locality": "Baku",
+      "lat": 40.3704711,
+      "lon": 49.8375554,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Fountain Square, 9 Tərlan",
+      "id": "azerbaijan-dec41d3521c25ee88a6a"
+    },
+    {
+      "name": "Bizim Ev Restaurant & Cafe",
+      "kind": "eat",
+      "locality": "Baku",
+      "lat": 40.3722809,
+      "lon": 49.8411291,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "7 Khagani Street",
+      "id": "azerbaijan-8965aa9f75808071950c"
+    },
+    {
+      "name": "Doner House",
+      "kind": "eat",
+      "locality": "Baku",
+      "lat": 40.3742362,
+      "lon": 49.8504163,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "16/21 Azadliq Ave",
+      "id": "azerbaijan-fe3ecec09e8b42eacaf6"
+    },
+    {
+      "name": "Lavas Bistro / Fasali Cafe",
+      "kind": "eat",
+      "locality": "Baku",
+      "lat": 40.3655676,
+      "lon": 49.8314564,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "price": "3 manat for a kebab/pancake which will completely fill you up",
+      "id": "azerbaijan-57b1850349096a0d0580"
+    },
+    {
+      "name": "Lezzet Taste Shop",
+      "kind": "eat",
+      "locality": "Baku",
+      "lat": 40.3683272,
+      "lon": 49.8296271,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Ahmad Javad St",
+      "id": "azerbaijan-8bd04bbc7bfd316a5685"
+    },
+    {
+      "name": "Anadolu",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Pushkin St 5 & Rasul Rza St 3/5",
+      "price": "8-15 manat",
+      "id": "azerbaijan-edc3bfb88691f242af8c"
+    },
+    {
+      "name": "Firuze Restaurant",
+      "kind": "eat",
+      "locality": "Baku",
+      "lat": 40.370472,
+      "lon": 49.837693,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "14 Tarlan Aliyarbeyov",
+      "url": "https://firuzerestoran.az/",
+      "id": "azerbaijan-2ead86c2b8eb29bb5b7b"
+    },
+    {
+      "name": "Tonqal Restoranı",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "82, Acad, Hasan Aliyeve St",
+      "url": "http://www.tonqal.az/ru/",
+      "id": "azerbaijan-fbb3df44547bb159bece"
+    },
+    {
+      "name": "Lido",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Cnr of Nkhchivani St",
+      "id": "azerbaijan-50d8e29ee992e1ffecbe"
+    },
+    {
+      "name": "Masal",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "29/44 Mahammad Hadi Rd",
+      "url": "https://m.facebook.com/MasalRestoran/",
+      "id": "azerbaijan-998d7ce72912dc6fea04"
+    },
+    {
+      "name": "Mugam Club",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "9 A. Rzayeva St",
+      "price": "10-15 manat",
+      "id": "azerbaijan-e91e6b05301836de7cbb"
+    },
+    {
+      "name": "Namli Kebab",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Mardanov Brothers st., 3",
+      "price": "10-15 manat",
+      "url": "http://www.namlikebapbaku.az/",
+      "id": "azerbaijan-72e342e4c62d61304c54"
+    },
+    {
+      "name": "U Dali",
+      "kind": "eat",
+      "locality": "Baku",
+      "lat": 40.37251,
+      "lon": 49.83575,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "5, Mirza Ibrahimov Street",
+      "price": "3-6 manat",
+      "id": "azerbaijan-eeac113e4215301b0f44"
+    },
+    {
+      "name": "Gazelli Cafe",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "93 Nizami St",
+      "price": "5-16 manat",
+      "url": "https://m.facebook.com/Gazellicafe/",
+      "id": "azerbaijan-8efbe765f134686970b3"
+    },
+    {
+      "name": "Dolce Vita",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "19 Aziz Aliyev St",
+      "url": "https://www.instagram.com/dolcevita.baku/",
+      "id": "azerbaijan-576e26ca5398b71cd204"
+    },
+    {
+      "name": "Grand Hotel Europe",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "20 Tbilisi avenue",
+      "url": "http://www.grand-europe.com/",
+      "id": "azerbaijan-f485d1e05635aa22223b"
+    },
+    {
+      "name": "Cafe City Sahil",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "8 Rashid Behbudov St",
+      "url": "https://cafecity.az/",
+      "id": "azerbaijan-85c80a2ac248a2558442"
+    },
+    {
+      "name": "Mexicana Baku",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Terlan Eliyarbeyov 12",
+      "price": "6-14 manat",
+      "url": "https://www.facebook.com/Mexicana-Baku-101237408398119/",
+      "id": "azerbaijan-fdc2b7c33988de3bb599"
+    },
+    {
+      "name": "Park Inn's Glory Restaurant",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "1 Azadlig Ave",
+      "price": "8-18 manat",
+      "url": "https://www.radissonhotels.com/en-us/hotels/park-inn-baku/restaurant-bar",
+      "id": "azerbaijan-8a5ecef201edaf32cb69"
+    },
+    {
+      "name": "Pizza Holiday",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "119 Lermontov Kuchasi",
+      "price": "5-15 manat",
+      "url": "http://pizzaholiday.biz/",
+      "id": "azerbaijan-dded9ee462b75ae9dbd0"
+    },
+    {
+      "name": "Paris Bistro",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "1/4 Zarifa Aliyeva street",
+      "price": "6-19 manat",
+      "url": "http://www.parisbistro.az/",
+      "id": "azerbaijan-f31a813146b67a130c6b"
+    },
+    {
+      "name": "Buddha Bar Baku",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Azadliq Square, JW Marriott Absheron 3rd floor",
+      "url": "https://www.facebook.com/pg/BuddhaBarBaku/menu/",
+      "id": "azerbaijan-8cabd63244d1bd93ce82"
+    },
+    {
+      "name": "Maharaja",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "6 Abdulkarim Ali-Zadeh St",
+      "url": "https://maharaja-baku.business.site/",
+      "id": "azerbaijan-3f5d76465d185ca8781b"
+    },
+    {
+      "name": "Taj Mahal Indian Restaurant",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "4 Haji Zeynalabdin Taghiyev St",
+      "url": "https://www.instagram.com/tajmahalrestaurant_baku/",
+      "id": "azerbaijan-0c9bf399c808143bc533"
+    },
+    {
+      "name": "Chinar",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "1 Shovket Alekperova St",
+      "url": "https://www.chinar-dining.az/",
+      "id": "azerbaijan-07dd9b8c1fd1dfb8ec68"
+    },
+    {
+      "name": "Mezzo",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "6 Izmir St",
+      "url": "https://www.hyatt.com/en-US/hotel/azerbaijan/hyatt-regency-baku/bakph/dining",
+      "id": "azerbaijan-2a16c4a015bfc41d45fb"
+    },
+    {
+      "name": "Terrace Garden",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "20 Boyuk Gala",
+      "id": "azerbaijan-9892dcf7fc6d4086b77c"
+    },
+    {
+      "name": "Aroma Cafe",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "18, U. Hajibayov St",
+      "id": "azerbaijan-cfac6af0f6e81d4680fe"
+    },
+    {
+      "name": "Azza Cafe",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "1, I. Safarli St/Fountains Sq",
+      "url": "http://www.azza.az/",
+      "id": "azerbaijan-bdf2fa8cca6cd7bb65df"
+    },
+    {
+      "name": "Baku Roasting Company",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Alasgar Alakbarov Street, 12",
+      "price": "2.5-7 manat",
+      "url": "https://www.facebook.com/bakuroasting/",
+      "id": "azerbaijan-3285aba1b29d4eee6d4d"
+    },
+    {
+      "name": "Chocolates Cafe Baku",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Yusif Mammadaliyev str. 4",
+      "url": "https://www.facebook.com/chocolatescafebaku/",
+      "id": "azerbaijan-6d5cb157f11f7311cbca"
+    },
+    {
+      "name": "The Lounge & Bar",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "6 Izmir St",
+      "url": "https://www.hyatt.com/en-US/hotel/azerbaijan/hyatt-regency-baku/bakph/dining",
+      "id": "azerbaijan-539cec4e8134eee97c51"
+    },
+    {
+      "name": "Caspian Bar",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "20 Tbilisi Avenue",
+      "url": "http://www.grand-europe.com/",
+      "id": "azerbaijan-6f54810a93a27bbd562e"
+    },
+    {
+      "name": "Finnegan’s",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "8 Abdulkarim Ali-Zadeh St",
+      "url": "https://www.facebook.com/finnegansbaku/",
+      "id": "azerbaijan-79d436df0239a2ffb7e4"
+    },
+    {
+      "name": "360 Bar",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "1B Azadlig Avenue",
+      "url": "https://www.hilton.com/en/hotels/gydhbhi-hilton-baku/dining/",
+      "id": "azerbaijan-334099242382aa41f5e5"
+    },
+    {
+      "name": "Victor's Bar",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "1, Azadlig St",
+      "url": "https://www.radissonhotels.com/en-us/hotels/park-inn-baku/restaurant-bar",
+      "id": "azerbaijan-f3b5fcf9f1169865a73c"
+    },
+    {
+      "name": "The Phoenix Bar",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "10, Mammadaliyev St",
+      "id": "azerbaijan-828a1d3f625f8cd95435"
+    },
+    {
+      "name": "Hops Pub Baku",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "24 Tarlan Aliyarbeyov St",
+      "url": "http://www.facebook.com/hopsbaku",
+      "id": "azerbaijan-465eb0db985bee5dff3c"
+    },
+    {
+      "name": "Caledonia Bar",
+      "kind": "eat",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "20 Qachaq Nabi",
+      "url": "http://www.caledoniabar.com/",
+      "id": "azerbaijan-910553e0e85af52b9efc"
+    },
+    {
+      "name": "Otto Club",
+      "kind": "eat",
+      "locality": "Baku",
+      "lat": 40.3691249,
+      "lon": 49.8366505,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Tarlan Aliyarbekov st., 3B",
+      "url": "https://www.facebook.com/ottobaku.club/",
+      "id": "azerbaijan-d644c1df35d1cbfaad15"
+    },
+    {
+      "name": "Caspian Hostel",
+      "kind": "stay",
+      "locality": "Baku",
+      "lat": 40.36516,
+      "lon": 49.83573,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Asef Zeynalli 29",
+      "price": "Dorm bed 16 manat",
+      "id": "azerbaijan-9c1c85f040e861de7937"
+    },
+    {
+      "name": "Guest House Inn",
+      "kind": "stay",
+      "locality": "Baku",
+      "lat": 40.36711,
+      "lon": 49.83547,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Harbci St? 17, Icheri Sheher",
+      "price": "Room with TV, fridge, private bathroom, hot water 60 manat per person",
+      "id": "azerbaijan-d27d46325f8de9833a86"
+    },
+    {
+      "name": "Atropat Old City Hotel Baku",
+      "kind": "stay",
+      "locality": "Baku",
+      "lat": 40.3729498,
+      "lon": 49.8396349,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "11-13-79 Magomayev Str.",
+      "id": "azerbaijan-3cb14ed08addf4fd9497"
+    },
+    {
+      "name": "Cheeky Carabao Backpackers Hostel",
+      "kind": "stay",
+      "locality": "Baku",
+      "lat": 40.3732,
+      "lon": 49.8382,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "171 Tolstoy Street 1st floor.",
+      "price": "Dorms sleep 8",
+      "id": "azerbaijan-91754b9d96cbcb8e3c6e"
+    },
+    {
+      "name": "Altstadt Hotel",
+      "kind": "stay",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Mammedyarov str. 3/2A (Ilyas Efendiyev str.3/2A), Icheri Sheher",
+      "price": "50 manat for double/twin",
+      "url": "https://www.facebook.com/pg/Altstadt-Hotel-336211156392732/",
+      "id": "azerbaijan-7ed79f98e7fe7d90d00b"
+    },
+    {
+      "name": "Consul Hotel",
+      "kind": "stay",
+      "locality": "Baku",
+      "lat": 40.40086,
+      "lon": 49.83985,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "92c Hasan Aliyev St",
+      "price": "Twin 50 manat",
+      "id": "azerbaijan-6ac18583430b9f3d56d5"
+    },
+    {
+      "name": "Days Hotel Baku",
+      "kind": "stay",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Babek Prospect, 21/99",
+      "price": "75-105 manat",
+      "url": "https://m.facebook.com/dayshotelbaku/",
+      "id": "azerbaijan-ead06a8d3111c0e7c54c"
+    },
+    {
+      "name": "Diplomat Hotel",
+      "kind": "stay",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Suleyman Rahimov St, 185",
+      "price": "Double 90 manat",
+      "url": "https://m.facebook.com/diplomathotelbaku2006/",
+      "id": "azerbaijan-0b92d0f04000f3ce331e"
+    },
+    {
+      "name": "Empire Hotel",
+      "kind": "stay",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Xaqani St 49",
+      "url": "https://www.facebook.com/pg/empirehotelbaku.org/",
+      "id": "azerbaijan-b485a0b2493eb7850575"
+    },
+    {
+      "name": "Holiday Inn Baku Airport",
+      "kind": "stay",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Heydar Aliyev International Airport",
+      "url": "https://www.ihg.com/holidayinn/hotels/us/en/baku/bakhi/hoteldetail",
+      "id": "azerbaijan-53804f62808db717a115"
+    },
+    {
+      "name": "Park Inn by Radisson Baku Hotel",
+      "kind": "stay",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Azadlig Ave 1",
+      "price": "169 manat",
+      "url": "https://www.radissonhotels.com/en-us/hotels/park-inn-baku",
+      "id": "azerbaijan-4b0bce95ab98ed87b54e"
+    },
+    {
+      "name": "Rigs Hotel",
+      "kind": "stay",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "63 d Uzeyir Hajibeyov",
+      "url": "https://m.facebook.com/pages/category/Hotel/Rigs-hotel-baku-261822877210319/",
+      "id": "azerbaijan-6f99f08f0f3fb5f82dd6"
+    },
+    {
+      "name": "AF Hotel Aqua Park",
+      "kind": "stay",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Novkhana, 1130/33",
+      "price": "From 80 manat for a standard double room up to 500 manat for a presidential",
+      "url": "http://www.afhotel.az/",
+      "id": "azerbaijan-daef4e9ba919128bdbb5"
+    },
+    {
+      "name": "12 Bulvar Inn Baku",
+      "kind": "stay",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-644e2c2307bbcc5c55c8"
+    },
+    {
+      "name": "Crescent Beach Hotel",
+      "kind": "stay",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "Salyan Hwy, Shikhov",
+      "id": "azerbaijan-a035a1ce4c923770f22a"
+    },
+    {
+      "name": "Excelsior Hotel Baku",
+      "kind": "stay",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "2 Heydar Aliyev Ave",
+      "price": "The rate per night range from US$250-2,450, but will be converted to manat at the hotel's rate",
+      "url": "https://m.facebook.com/pages/category/Inn/Excelsior-hotel-674214875997391/",
+      "id": "azerbaijan-e101a57c0de41b6e29d9"
+    },
+    {
+      "name": "Hyatt Regency Baku",
+      "kind": "stay",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "1 Bakikhanov",
+      "price": "270-405 manat",
+      "url": "https://baku.regency.hyatt.com/",
+      "id": "azerbaijan-e45ca3548b055f4af529"
+    },
+    {
+      "name": "Park Hyatt Baku",
+      "kind": "stay",
+      "locality": "Baku",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "address": "1033 Izmir St",
+      "url": "https://baku.park.hyatt.com/",
+      "id": "azerbaijan-3687b700dadcd2e1bed0"
+    },
+    {
+      "name": "Baku",
+      "kind": "area",
+      "locality": "Baku",
+      "lat": 40.3952778,
+      "lon": 49.8822222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baku",
+      "id": "azerbaijan-d5afdb8bd952886fa31e"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

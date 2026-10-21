@@ -1,0 +1,2987 @@
+{
+  "sources": [
+    {
+      "title": "United Arab Emirates",
+      "url": "https://en.wikivoyage.org/wiki/United_Arab_Emirates",
+      "checkedAt": "2026-10-21T08:02:16.665Z"
+    },
+    {
+      "title": "Abu Dhabi",
+      "url": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "checkedAt": "2026-10-21T08:02:19.295Z"
+    },
+    {
+      "title": "Dubai",
+      "url": "https://en.wikivoyage.org/wiki/Dubai",
+      "checkedAt": "2026-10-21T08:02:22.655Z"
+    },
+    {
+      "title": "Dubai/Deira",
+      "url": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "checkedAt": "2026-10-21T08:02:25.438Z"
+    },
+    {
+      "title": "Dubai/Bur Dubai",
+      "url": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "checkedAt": "2026-10-21T08:02:28.207Z"
+    },
+    {
+      "title": "Dubai/Jumeirah",
+      "url": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "checkedAt": "2026-10-21T08:02:31.252Z"
+    },
+    {
+      "title": "Dubai/Jebel Ali",
+      "url": "https://en.wikivoyage.org/wiki/Dubai%2FJebel_Ali",
+      "checkedAt": "2026-10-21T08:02:34.190Z"
+    },
+    {
+      "title": "Dubai/Suburbs and Hatta",
+      "url": "https://en.wikivoyage.org/wiki/Dubai%2FSuburbs_and_Hatta",
+      "checkedAt": "2026-10-21T08:02:37.202Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Abu Dhabi",
+      "kind": "area",
+      "locality": "United Arab Emirates",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/United_Arab_Emirates",
+      "id": "uae-432f8290fd0d24a83d5f"
+    },
+    {
+      "name": "Dubai",
+      "kind": "area",
+      "locality": "United Arab Emirates",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/United_Arab_Emirates",
+      "id": "uae-29f4f1ac12412ee05357"
+    },
+    {
+      "name": "Sharjah",
+      "kind": "area",
+      "locality": "United Arab Emirates",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/United_Arab_Emirates",
+      "id": "uae-e393320a177f74c7f3db"
+    },
+    {
+      "name": "Ajman",
+      "kind": "area",
+      "locality": "United Arab Emirates",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/United_Arab_Emirates",
+      "id": "uae-71ef2e30e44922b6467b"
+    },
+    {
+      "name": "Umm al Quwain",
+      "kind": "area",
+      "locality": "United Arab Emirates",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/United_Arab_Emirates",
+      "id": "uae-dceefb7153420f3af62d"
+    },
+    {
+      "name": "Ras al Khaimah",
+      "kind": "area",
+      "locality": "United Arab Emirates",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/United_Arab_Emirates",
+      "id": "uae-783a2a57ec5c16ed836d"
+    },
+    {
+      "name": "Fujairah",
+      "kind": "area",
+      "locality": "United Arab Emirates",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/United_Arab_Emirates",
+      "id": "uae-000cec19bbd78a56cbef"
+    },
+    {
+      "name": "Sheikh Zayed Grand Mosque",
+      "kind": "do",
+      "locality": "Abu Dhabi",
+      "lat": 24.412,
+      "lon": 54.474,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Second Shaikh Rashid Bin Saeed",
+      "price": "free",
+      "url": "https://www.szgmc.gov.ae/",
+      "id": "uae-5800c3c646d30e385c0b"
+    },
+    {
+      "name": "Qasr Al Watan",
+      "kind": "do",
+      "locality": "Abu Dhabi",
+      "lat": 24.462251,
+      "lon": 54.305509,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Al Ras Al Akhdar",
+      "price": "AED 60 (US$ 16.30)",
+      "url": "https://www.qasralwatan.ae/",
+      "id": "uae-94db465a1aa0f7cb7684"
+    },
+    {
+      "name": "Qasr al-Hosn",
+      "kind": "do",
+      "locality": "Abu Dhabi",
+      "lat": 24.482389,
+      "lon": 54.354819,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "price": "30 dirham",
+      "url": "https://qasralhosn.ae/",
+      "id": "uae-d1e31dc01a497732415c"
+    },
+    {
+      "name": "Corniche Road",
+      "kind": "do",
+      "locality": "Abu Dhabi",
+      "lat": 24.47324,
+      "lon": 54.34087,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "id": "uae-e4abaecc62b1f8c51d92"
+    },
+    {
+      "name": "Yas Island",
+      "kind": "do",
+      "locality": "Abu Dhabi",
+      "lat": 24.5,
+      "lon": 54.6,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "url": "https://www.yasisland.com/",
+      "id": "uae-bac38c3be8e84890b32a"
+    },
+    {
+      "name": "UAE flag pole",
+      "kind": "do",
+      "locality": "Abu Dhabi",
+      "lat": 24.477693,
+      "lon": 54.332135,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "id": "uae-450c1cd1b9cf5fc420ff"
+    },
+    {
+      "name": "Louvre Abu Dhabi",
+      "kind": "do",
+      "locality": "Abu Dhabi",
+      "lat": 24.533,
+      "lon": 54.40001,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Saadiyat Cultural District, Saadiyat Island",
+      "price": "60 dirham/person",
+      "url": "https://www.louvreabudhabi.ae/",
+      "id": "uae-8940790342c55b4b1126"
+    },
+    {
+      "name": "Masdar City",
+      "kind": "do",
+      "locality": "Abu Dhabi",
+      "lat": 24.429167,
+      "lon": 54.618333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "url": "https://masdar.ae/en/masdar-city/the-city",
+      "id": "uae-f70d8a9fa790f892b8f5"
+    },
+    {
+      "name": "Emirates Palace",
+      "kind": "do",
+      "locality": "Abu Dhabi",
+      "lat": 24.461944,
+      "lon": 54.316667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "url": "https://www.kempinski.com/en/abudhabi/emirates-palace",
+      "id": "uae-aad42c025831338e0851"
+    },
+    {
+      "name": "The National Aquarium Abu Dhabi",
+      "kind": "do",
+      "locality": "Abu Dhabi",
+      "lat": 24.402053,
+      "lon": 54.495837,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "price": "105 dirham",
+      "url": "https://thenationalaquarium.ae/",
+      "id": "uae-ad87be59ab8ce10fbc6d"
+    },
+    {
+      "name": "Abu Dhabi Falcon Hospital",
+      "kind": "do",
+      "locality": "Abu Dhabi",
+      "lat": 24.4075,
+      "lon": 54.698611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Sweihan Rd St",
+      "url": "https://www.falconhospital.com/",
+      "id": "uae-a7c841409940e3697987"
+    },
+    {
+      "name": "Etihad Arena",
+      "kind": "do",
+      "locality": "Abu Dhabi",
+      "lat": 24.4603,
+      "lon": 54.604,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Yas Dr, Yas Island",
+      "url": "https://www.etihadarena.ae/",
+      "id": "uae-02427a002073a7b2e07b"
+    },
+    {
+      "name": "Abrahamic Family House",
+      "kind": "do",
+      "locality": "Abu Dhabi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Jacques Chirac St - Al Saadiyat Island - Cultural District",
+      "price": "Free",
+      "url": "https://www.abrahamicfamilyhouse.ae/",
+      "id": "uae-00d54b6fd435b557ec83"
+    },
+    {
+      "name": "Khalifa Park",
+      "kind": "do",
+      "locality": "Abu Dhabi",
+      "lat": 24.42545,
+      "lon": 54.46816,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "id": "uae-878684f3a05301290eea"
+    },
+    {
+      "name": "Umm Al Emarat Park",
+      "kind": "do",
+      "locality": "Abu Dhabi",
+      "lat": 24.4522686,
+      "lon": 54.3817053,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "15th Street",
+      "id": "uae-611db11e310bfa234649"
+    },
+    {
+      "name": "Abu Dhabi Cultural Foundation",
+      "kind": "do",
+      "locality": "Abu Dhabi",
+      "lat": 24.48285,
+      "lon": 54.35741,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "id": "uae-b7d396e4f50a9cef4c6d"
+    },
+    {
+      "name": "Manarat al Saadiyat",
+      "kind": "do",
+      "locality": "Abu Dhabi",
+      "lat": 24.53453,
+      "lon": 54.41903,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "url": "https://manaratalsaadiyat.ae/",
+      "id": "uae-120538d93c859fb0150d"
+    },
+    {
+      "name": "UAE Pavilion",
+      "kind": "do",
+      "locality": "Abu Dhabi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "id": "uae-66de1d5d5a838c43ca79"
+    },
+    {
+      "name": "Lulu Islands",
+      "kind": "do",
+      "locality": "Abu Dhabi",
+      "lat": 24.499231,
+      "lon": 54.343831,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "id": "uae-754f3ce68a2ea70f59e2"
+    },
+    {
+      "name": "Reem Island",
+      "kind": "do",
+      "locality": "Abu Dhabi",
+      "lat": 24.49447,
+      "lon": 54.406872,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "id": "uae-205eed7cd40c7aa369a1"
+    },
+    {
+      "name": "Abu Dhabi Beach",
+      "kind": "do",
+      "locality": "Abu Dhabi",
+      "lat": 24.4854979,
+      "lon": 54.3477609,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "id": "uae-d9853fa12170613a3fbf"
+    },
+    {
+      "name": "Corniche beach",
+      "kind": "do",
+      "locality": "Abu Dhabi",
+      "lat": 24.4765245,
+      "lon": 54.3432595,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "id": "uae-3f847de0a2941603d8cc"
+    },
+    {
+      "name": "Lessons",
+      "kind": "do",
+      "locality": "Abu Dhabi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "id": "uae-9a0febe2effc07668670"
+    },
+    {
+      "name": "Desert safari",
+      "kind": "do",
+      "locality": "Abu Dhabi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "id": "uae-f88d36dc035e0b28902e"
+    },
+    {
+      "name": "Shopping",
+      "kind": "do",
+      "locality": "Abu Dhabi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "id": "uae-2848e63198be94c6ad50"
+    },
+    {
+      "name": "Helicopter Tour",
+      "kind": "do",
+      "locality": "Abu Dhabi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "url": "http://abudhabihelicoptertour.com/",
+      "id": "uae-b47636c421787389169f"
+    },
+    {
+      "name": "Fish Market",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.5143546,
+      "lon": 54.375904,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "id": "uae-595826d80bcc67529e72"
+    },
+    {
+      "name": "Liwan Mansour Restaurant & Grill - AlKhalidiya",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.47157,
+      "lon": 54.3452762,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Zayed the First St",
+      "id": "uae-e2376bfc4e081d646602"
+    },
+    {
+      "name": "The Resto Pinoy, Al Khalidiyah Branch",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.4733201,
+      "lon": 54.3485877,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Al Khalidiya - Zayed The First St",
+      "id": "uae-ff307c249c461183eb2a"
+    },
+    {
+      "name": "Ghalib Restaurant",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.472401,
+      "lon": 54.3488127,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Khalidiya D - Building No.3960, Sheikh Zayed 1st Street - W Corniche Rd",
+      "id": "uae-b01133eaf3ec53e7c5c6"
+    },
+    {
+      "name": "Smart Cafteria",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.472435,
+      "lon": 54.349686,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Khalidiyah St - Al Khalidiyah - W9",
+      "id": "uae-124e2f4f2d2a530f4343"
+    },
+    {
+      "name": "Nalas Aappakadai Restaurant",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.4955739,
+      "lon": 54.3801255,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "id": "uae-16ff0c47e33a1c41f12f"
+    },
+    {
+      "name": "Seashell Cafeteria",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.4953822,
+      "lon": 54.3815719,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "id": "uae-b168b156f8196b7b6b8e"
+    },
+    {
+      "name": "Al Akkawi Cafeteria",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.4530539,
+      "lon": 54.3859331,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Sheikh Rashid Bin Saeed St",
+      "id": "uae-89d91667ee4ce79ed6a2"
+    },
+    {
+      "name": "Lgymat & Rgag",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.4569897,
+      "lon": 54.3837897,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Zone 1 - E22",
+      "id": "uae-e6c8c90da5a5b19cbd5e"
+    },
+    {
+      "name": "NOOG Burger",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.4534271,
+      "lon": 54.3872109,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Sheikh Rashid Bin Saeed St - Zone 1 - E22",
+      "id": "uae-cfba766ba4cc33c8247c"
+    },
+    {
+      "name": "Manzo Sushi & Sliders Restaurant",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.4528076,
+      "lon": 54.3875894,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Sheikh Rashid Bin Saeed St - Zone 1 - E22",
+      "id": "uae-b52b6e20d31bde7e4de1"
+    },
+    {
+      "name": "Philippine House Restaurant",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.4919443,
+      "lon": 54.3688739,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Abu Dhabi Muay Thai - Fatima Bint Mubarak St - Zone 1",
+      "id": "uae-b3dfd51e578669f64739"
+    },
+    {
+      "name": "Punjab Flower Restaurant",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.4938381,
+      "lon": 54.3716815,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Al Bundyqiyah St",
+      "id": "uae-cd867d3fd8e0874051e3"
+    },
+    {
+      "name": "Aroma Spicy Restaurant",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.4922937,
+      "lon": 54.3702325,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "id": "uae-27b98a701f61146afe16"
+    },
+    {
+      "name": "Evergreen Restaurant Veg.",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.4919605,
+      "lon": 54.3704575,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Safran St.",
+      "id": "uae-21c93f13ea67e229cc38"
+    },
+    {
+      "name": "Anand Vegetarian Restaurant",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.4944184,
+      "lon": 54.3687613,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Hamdan Street",
+      "id": "uae-28fea37f4d118eb9f011"
+    },
+    {
+      "name": "The Olive Branch",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.33041,
+      "lon": 54.6236,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Mafraq - Abu Dhabi",
+      "url": "http://www.mafraq-hotel.com/",
+      "id": "uae-6cb1dd53c2b628ddcbfd"
+    },
+    {
+      "name": "Hunter’s B&R",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.33039,
+      "lon": 54.62351,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Mafraq - Abu Dhabi",
+      "url": "http://www.mafraq-hotel.com/",
+      "id": "uae-52177eeb1738385d062f"
+    },
+    {
+      "name": "Rimal",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.3304946,
+      "lon": 54.6230688,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Mafraq - Abu Dhabi",
+      "url": "http://www.mafraq-hotel.com/",
+      "id": "uae-928494d5411d6c24d5f9"
+    },
+    {
+      "name": "Oasis Courtyard",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.3310537,
+      "lon": 54.623522,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Mafraq - Abu Dhabi",
+      "url": "http://www.mafraq-hotel.com/",
+      "id": "uae-1a48e2aa750e6c4ed89a"
+    },
+    {
+      "name": "The Burlington Grill",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.33048,
+      "lon": 54.62373,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Mafraq Abu Dhabi",
+      "url": "http://www.mafraq-hotel.com/",
+      "id": "uae-54738c043ded699929bb"
+    },
+    {
+      "name": "Hemingway's",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.462524,
+      "lon": 54.3255185,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "id": "uae-f636bedecf1e79293d98"
+    },
+    {
+      "name": "The Captain's Arms",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.499168,
+      "lon": 54.3811838,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "url": "http://www.captainsarms-abudhabi.com/",
+      "id": "uae-23d759644ff11d6092af"
+    },
+    {
+      "name": "Wakataua Terrace",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.49883,
+      "lon": 54.381113,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "url": "http://www.lemeridienabudhabi.com/en/wakataua-terrace",
+      "id": "uae-e97dca20621f59df5a53"
+    },
+    {
+      "name": "Rock Bottom",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.502694,
+      "lon": 54.3739691,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "id": "uae-77f7790e8f0f1839d19a"
+    },
+    {
+      "name": "Havana Club",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.4619186,
+      "lon": 54.3167157,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "url": "http://www.kempinski.com/en/abudhabi/emirates-palace/dining/lounges-and-bars/Havana-Club/",
+      "id": "uae-a3a761041510da5e4c36"
+    },
+    {
+      "name": "Sax",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.4960467,
+      "lon": 54.3657552,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "url": "http://www.leroyalmeridienabudhabi.com/en/sax-club-lounge",
+      "id": "uae-37e69392ebbf0aa3dad8"
+    },
+    {
+      "name": "PJ's",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.4967853,
+      "lon": 54.3658114,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "url": "http://www.pjspubabudhabi.com/",
+      "id": "uae-95962deb46f0512209f6"
+    },
+    {
+      "name": "Trader Vic's",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.4945046,
+      "lon": 54.3839147,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Beach Rotana 10th Street",
+      "url": "http://tradervics.com/locations/abu-dhabi/",
+      "id": "uae-325c2421f507eae2399a"
+    },
+    {
+      "name": "49ers",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.4966854,
+      "lon": 54.3796802,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "id": "uae-d7566016102feeaf2a04"
+    },
+    {
+      "name": "Mardi Gras",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.5028332,
+      "lon": 54.374005,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "url": "http://www.aldiarhotels.com/aldiarcapitalhotel/dining/",
+      "id": "uae-6ecb92a0615f5c1df41a"
+    },
+    {
+      "name": "The Yacht Club",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.4566331,
+      "lon": 54.3287982,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "King Abdullah Bin Abdulaziz Al Saud Street",
+      "url": "https://www.opentable.com/r/the-yacht-club-intercontinental-abu-dhabi",
+      "id": "uae-10271f0fc1cb8be01ae9"
+    },
+    {
+      "name": "Rabbit Hutch",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.4831923,
+      "lon": 54.3506502,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "id": "uae-bc5b8dc1393e60ab3f50"
+    },
+    {
+      "name": "Lebinese Flower",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.4338808,
+      "lon": 54.4359934,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "id": "uae-996c1599acef7561fff9"
+    },
+    {
+      "name": "Arkadia",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.497277,
+      "lon": 54.381593,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Marina Club, tourist club area",
+      "url": "http://www.arkadia.com/",
+      "id": "uae-9e5bc29a960b8f46e51f"
+    },
+    {
+      "name": "Harvesters Pub",
+      "kind": "eat",
+      "locality": "Abu Dhabi",
+      "lat": 24.4890012,
+      "lon": 54.3681767,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Electra Street",
+      "id": "uae-4119418638c3394f155a"
+    },
+    {
+      "name": "Grand Continental Flamingo",
+      "kind": "stay",
+      "locality": "Abu Dhabi",
+      "lat": 24.4939063,
+      "lon": 54.3651358,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "url": "http://www.topgrandcontinentalflamingo.com/",
+      "id": "uae-f5f760b4c44e506cdf21"
+    },
+    {
+      "name": "Park Inn Abu Dhabi Yas Island",
+      "kind": "stay",
+      "locality": "Abu Dhabi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "url": "http://www.parkinn.com/hotel-abudhabi",
+      "id": "uae-6aa5d0d9ebe38cfcd3c7"
+    },
+    {
+      "name": "Aloft Abu Dhabi",
+      "kind": "stay",
+      "locality": "Abu Dhabi",
+      "lat": 24.4201319,
+      "lon": 54.4391508,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Atop the National Exhibition Centre",
+      "url": "https://www.marriott.com/hotels/travel/auhnl-aloft-abu-dhabi/",
+      "id": "uae-e77deaa89f03be4e7a48"
+    },
+    {
+      "name": "Crowne Plaza",
+      "kind": "stay",
+      "locality": "Abu Dhabi",
+      "lat": 24.49077,
+      "lon": 54.36596,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Hamdan Street",
+      "url": "https://www.ihg.com/crowneplaza/hotels/us/en/abu-dhabi/auhua/hoteldetail",
+      "id": "uae-0a9a24425eeeada05746"
+    },
+    {
+      "name": "Beach Rotana Hotel and Towers",
+      "kind": "stay",
+      "locality": "Abu Dhabi",
+      "lat": 24.494862,
+      "lon": 54.38469,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Tourist Club Area",
+      "url": "http://www.rotana.com/property-4.htm",
+      "id": "uae-51cc2ba9b51561cf9ff8"
+    },
+    {
+      "name": "Eastern Mangroves Hotel & Spa",
+      "kind": "stay",
+      "locality": "Abu Dhabi",
+      "lat": 24.446757,
+      "lon": 54.437109,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "price": "Prices from US$136",
+      "url": "http://abu-dhabi.anantara.com/",
+      "id": "uae-a18d8b6eefd730e034d5"
+    },
+    {
+      "name": "Emirates Palace",
+      "kind": "stay",
+      "locality": "Abu Dhabi",
+      "lat": 24.461944,
+      "lon": 54.316667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Corniche East",
+      "url": "https://www.mandarinoriental.com/abu-dhabi/emirates-palace",
+      "id": "uae-782fc8c4d8e5f8b5b654"
+    },
+    {
+      "name": "Hilton Abu Dhabi",
+      "kind": "stay",
+      "locality": "Abu Dhabi",
+      "lat": 24.46295,
+      "lon": 54.32574,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Corniche East",
+      "url": "http://abudhabi.hilton.com/",
+      "id": "uae-814263a2eed0cca1966b"
+    },
+    {
+      "name": "InterContinental Abu Dhabi",
+      "kind": "stay",
+      "locality": "Abu Dhabi",
+      "lat": 24.45734,
+      "lon": 54.32867,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "url": "http://abu-dhabi.intercontinental.com/",
+      "id": "uae-e8961e03c7bed4a3b9d4"
+    },
+    {
+      "name": "Le Méridien Abu Dhabi",
+      "kind": "stay",
+      "locality": "Abu Dhabi",
+      "lat": 24.4987,
+      "lon": 54.38098,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Tourist Club Area",
+      "url": "https://www.marriott.com/hotels/travel/auhmd-le-meridien-abu-dhabi/",
+      "id": "uae-4e9274041f13f3fef31c"
+    },
+    {
+      "name": "Le Royal Méridien Abu Dhabi",
+      "kind": "stay",
+      "locality": "Abu Dhabi",
+      "lat": 24.49602,
+      "lon": 54.36595,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Sheikh Khalifa Street",
+      "url": "https://www.marriott.com/hotels/travel/auhdm-le-royal-meridien-abu-dhabi/",
+      "id": "uae-33ed1ccbbadf87120234"
+    },
+    {
+      "name": "Park Inn by Radisson Abu Dhabi, Yas Island",
+      "kind": "stay",
+      "locality": "Abu Dhabi",
+      "lat": 24.46732,
+      "lon": 54.5981,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "address": "Yas Island",
+      "url": "https://www.radissonhotels.com/en-us/hotels/park-inn-abu-dhabi-yas-island",
+      "id": "uae-2c524b900331caefd49f"
+    },
+    {
+      "name": "Abu Dhabi",
+      "kind": "area",
+      "locality": "Abu Dhabi",
+      "lat": 24.4667,
+      "lon": 54.3667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abu_Dhabi",
+      "id": "uae-2dc1ef54454cf5237ec6"
+    },
+    {
+      "name": "Dubai",
+      "kind": "area",
+      "locality": "Dubai",
+      "lat": 25.27,
+      "lon": 55.29651,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai",
+      "id": "uae-e7bdb8dfad982ed13b3b"
+    },
+    {
+      "name": "Al Ahmadiya School and Heritage House",
+      "kind": "do",
+      "locality": "Dubai/Deira",
+      "lat": 25.2684326,
+      "lon": 55.2949194,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Al Ahmadiya St, Al Ras",
+      "price": "Free",
+      "id": "uae-e26113a70d0fb760c5b7"
+    },
+    {
+      "name": "Deira Clocktower",
+      "kind": "do",
+      "locality": "Dubai/Deira",
+      "lat": 25.2586592,
+      "lon": 55.3264429,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Abu Baker Al Siddiqe Rd 110 crossing Al Maktoum Rd 105",
+      "id": "uae-268cc200d301fa288645"
+    },
+    {
+      "name": "Dhow Wharfage",
+      "kind": "do",
+      "locality": "Dubai/Deira",
+      "lat": 25.2566,
+      "lon": 55.3182,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Baniyas Rd, Rigga Al Buteen community 125",
+      "id": "uae-ecb1cf094bcfef9470ff"
+    },
+    {
+      "name": "Mamzar Park",
+      "kind": "do",
+      "locality": "Dubai/Deira",
+      "lat": 25.32,
+      "lon": 55.35,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "104 Al Khaleej Rd, Al Mamzar community",
+      "price": "5 dirhams/person",
+      "id": "uae-5a62d134caf035646626"
+    },
+    {
+      "name": "Dubai Municipality Museum",
+      "kind": "do",
+      "locality": "Dubai/Deira",
+      "lat": 25.2679,
+      "lon": 55.2978,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Old Baladiya St crossing Al Souk Al Kabeer St, Al Buteen community",
+      "id": "uae-dd7f3ff0f5bd2807947a"
+    },
+    {
+      "name": "Women's Museum",
+      "kind": "do",
+      "locality": "Dubai/Deira",
+      "lat": 25.2718,
+      "lon": 55.2987,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "28 St, Al Dhagaya community, P.O. Box 1086",
+      "price": "20 dirhams/person",
+      "url": "http://womenmuseumuae.com/eng/",
+      "id": "uae-70f943eac6741a6ad714"
+    },
+    {
+      "name": "Naif Police Museum",
+      "kind": "do",
+      "locality": "Dubai/Deira",
+      "lat": 25.2724,
+      "lon": 55.3054,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "106 Naif Rd crossing 9A St, Naif community",
+      "id": "uae-d97e45abd0910afbf8b9"
+    },
+    {
+      "name": "Gold Price Checking - Dubai Souq",
+      "kind": "do",
+      "locality": "Dubai/Deira",
+      "lat": 25.2673,
+      "lon": 55.3043,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Gold Souk, Deira, Dubai",
+      "url": "https://goldrateuae.ae/",
+      "id": "uae-72a0b4cb585ae09fb148"
+    },
+    {
+      "name": "Cinecity - Al Ghurair Centre",
+      "kind": "do",
+      "locality": "Dubai/Deira",
+      "lat": 25.267954,
+      "lon": 55.317396,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Al Ghurair City, Al Riqqah St",
+      "id": "uae-5ab75e2ff8ecfea05c59"
+    },
+    {
+      "name": "VOX Deira City Centre",
+      "kind": "do",
+      "locality": "Dubai/Deira",
+      "lat": 25.274335,
+      "lon": 55.347405,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Deira City Centre",
+      "id": "uae-cb4a603afdc4bc5af437"
+    },
+    {
+      "name": "Dubai Creek Golf & Yacht Club",
+      "kind": "do",
+      "locality": "Dubai/Deira",
+      "lat": 25.253669,
+      "lon": 55.326908,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Radisson Blu Hotel, Dubai Deira Creek, Bani Yas Rd, 476",
+      "id": "uae-a3460db7df21fef19eba"
+    },
+    {
+      "name": "Dinner Dhow Cruises",
+      "kind": "do",
+      "locality": "Dubai/Deira",
+      "lat": 25.25844,
+      "lon": 55.31773,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Pier 1 in Dhow Wharfage, Baniyas Rd, Rigga Al Buteen community",
+      "price": "200 dirhams/person",
+      "url": "https://tour-dubai.com/cruise-experience/marina-royal-dhow-dinner-cruise",
+      "id": "uae-681a3414e4c60a5434b5"
+    },
+    {
+      "name": "Jungle Bay Waterpark",
+      "kind": "do",
+      "locality": "Dubai/Deira",
+      "lat": 25.09295,
+      "lon": 55.14701,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Le Meridien Mina Seyahi Beach Resort & Marina",
+      "url": "https://www.junglebaywaterpark.com/",
+      "id": "uae-7db71dec01a32f121008"
+    },
+    {
+      "name": "Bhatkal Restaurant",
+      "kind": "eat",
+      "locality": "Dubai/Deira",
+      "lat": 25.266375,
+      "lon": 55.2955285,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Baniyas Rd",
+      "id": "uae-ba2788c252151c4378ab"
+    },
+    {
+      "name": "Al Bait ALqadeem Restaurant and Cafe",
+      "kind": "eat",
+      "locality": "Dubai/Deira",
+      "lat": 25.2687763,
+      "lon": 55.2948898,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "1 Al Suq Al Kabeer St",
+      "id": "uae-bf00b0c4611cf75d6ec3"
+    },
+    {
+      "name": "Al-Karmel Somali Restaurant",
+      "kind": "eat",
+      "locality": "Dubai/Deira",
+      "lat": 25.269222,
+      "lon": 55.2963386,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "id": "uae-2890cf5b0d520a527c14"
+    },
+    {
+      "name": "Avon Restaurant",
+      "kind": "eat",
+      "locality": "Dubai/Deira",
+      "lat": 25.2701058,
+      "lon": 55.2977709,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Old Baladiya St",
+      "id": "uae-2b439ada8799a5d6e320"
+    },
+    {
+      "name": "Kojranwala Restaurant",
+      "kind": "eat",
+      "locality": "Dubai/Deira",
+      "lat": 25.269426,
+      "lon": 55.2967,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "10 16 A St",
+      "id": "uae-1245899c668e8da8be54"
+    },
+    {
+      "name": "Avon Restaurant",
+      "kind": "eat",
+      "locality": "Dubai/Deira",
+      "lat": 25.2700994,
+      "lon": 55.2977863,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Old Baladiya St",
+      "id": "uae-33ec4c10c97aeaaa047b"
+    },
+    {
+      "name": "Virpur Restaurant",
+      "kind": "eat",
+      "locality": "Dubai/Deira",
+      "lat": 25.2702165,
+      "lon": 55.2976793,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "id": "uae-96a6f4cd5a7ae9e0f592"
+    },
+    {
+      "name": "Africana Home Restaurant Nakheel Deira Park",
+      "kind": "eat",
+      "locality": "Dubai/Deira",
+      "lat": 25.2722797,
+      "lon": 55.3089124,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "1820, Lootah Building Behind Golden Square Hotel Street 118",
+      "id": "uae-477b2b0726962db2af9f"
+    },
+    {
+      "name": "Amba Restaurant",
+      "kind": "eat",
+      "locality": "Dubai/Deira",
+      "lat": 25.2758466,
+      "lon": 55.3106213,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Street # 24, Naif Road",
+      "id": "uae-83f437e085cc99d71d70"
+    },
+    {
+      "name": "Kalthappam Restaurant",
+      "kind": "eat",
+      "locality": "Dubai/Deira",
+      "lat": 25.2745311,
+      "lon": 55.3075526,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "12 24 St",
+      "id": "uae-4409f8715eea3563d5e5"
+    },
+    {
+      "name": "Tayeb Kitchen & Restaurant",
+      "kind": "eat",
+      "locality": "Dubai/Deira",
+      "lat": 25.2586279,
+      "lon": 55.3280171,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Al Makthoum Street",
+      "id": "uae-ebb5f8f57057fee7e40c"
+    },
+    {
+      "name": "White Falcon Restaurant",
+      "kind": "eat",
+      "locality": "Dubai/Deira",
+      "lat": 25.2582064,
+      "lon": 55.3292268,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "77 - 77 Al Ittihad Rd",
+      "id": "uae-cc010597cf0b9ee702e2"
+    },
+    {
+      "name": "Molouk Al Shawarma",
+      "kind": "eat",
+      "locality": "Dubai/Deira",
+      "lat": 25.2601261,
+      "lon": 55.3254573,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "40c Street 60",
+      "id": "uae-1b50e71c6b48b5051f62"
+    },
+    {
+      "name": "Al Dawaar Revolving Restaurant",
+      "kind": "eat",
+      "locality": "Dubai/Deira",
+      "lat": 25.2794068,
+      "lon": 55.3045155,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Hyatt Regency",
+      "price": "Lunch: 185 dirhams per person, dinner: 235 dirhams per person",
+      "url": "https://www.hyattrestaurants.com/en/dining/uae/dubai/international-restaurant-in-deira-corniche-al-dawaar-revolving-restaurant",
+      "id": "uae-e861ea2298800c30eeaf"
+    },
+    {
+      "name": "Al Fanar Restaurant & Cafe",
+      "kind": "eat",
+      "locality": "Dubai/Deira",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Canal Walk, Dubai Festival City Mall",
+      "price": "30-200 dirhams",
+      "url": "http://alfanarrestaurant.com/en/",
+      "id": "uae-3d40e49149e799b96ff3"
+    },
+    {
+      "name": "Kiku",
+      "kind": "eat",
+      "locality": "Dubai/Deira",
+      "lat": 25.2491912,
+      "lon": 55.3471276,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Le Meridien Dubai",
+      "price": "150 dirhams",
+      "url": "http://www.kiku-dubai.com/",
+      "id": "uae-771ca937a0ad6aadce62"
+    },
+    {
+      "name": "Legends Steakhouse",
+      "kind": "eat",
+      "locality": "Dubai/Deira",
+      "lat": 25.2415829,
+      "lon": 55.333505,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Dubai Creek Golf Club",
+      "price": "Around 200 dirhams per head",
+      "url": "http://www.dubaigolf.com/dubai-creek-golf-yacht-club/indulge/legends.aspx",
+      "id": "uae-1e5f04ffa4c770fd8f82"
+    },
+    {
+      "name": "Al Bait Alqadeem Restaurant & Cafe",
+      "kind": "eat",
+      "locality": "Dubai/Deira",
+      "lat": 25.2688,
+      "lon": 55.295,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Al Ahmadiya St crossing 15a St, Al Ras",
+      "url": "http://www.albaitalqadeem.com/",
+      "id": "uae-b6a4b4c23ee8ee87f23e"
+    },
+    {
+      "name": "Floating Restaurants",
+      "kind": "eat",
+      "locality": "Dubai/Deira",
+      "lat": 25.2664,
+      "lon": 55.3065,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Baniyas Rd, Al Sabkha & Al Rigga & Rigga Al Buteen communities",
+      "id": "uae-483737693ab4d0e4f9ed"
+    },
+    {
+      "name": "JW's Steakhouse",
+      "kind": "eat",
+      "locality": "Dubai/Deira",
+      "lat": 25.2682684,
+      "lon": 55.3295273,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "JW Marriott Hotel",
+      "price": "350 dirhams per head",
+      "url": "http://www.marriottdiningatjw.ae/restaurant/hotels/hotel-information/travel/dxbae/restaurant.asp?id=001",
+      "id": "uae-a1b173262870d835dc7f"
+    },
+    {
+      "name": "Filli Cafeteria",
+      "kind": "eat",
+      "locality": "Dubai/Deira",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Al Mamzar",
+      "id": "uae-96802a8d4d9d2fa150ca"
+    },
+    {
+      "name": "The Edge Pool & Bar",
+      "kind": "eat",
+      "locality": "Dubai/Deira",
+      "lat": 25.2599252,
+      "lon": 55.3181605,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "id": "uae-2af7e8eab1f4a762b822"
+    },
+    {
+      "name": "X Club",
+      "kind": "eat",
+      "locality": "Dubai/Deira",
+      "lat": 25.2604703,
+      "lon": 55.3264567,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "id": "uae-9c4ef434c192e1a65d61"
+    },
+    {
+      "name": "Dubai Youth Hostel",
+      "kind": "stay",
+      "locality": "Dubai/Deira",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "39 Al Nahda Rd",
+      "price": "Dorm from 100 dirhams or US$27, breakfast included",
+      "url": "https://uaeyha.gov.ae/dubai-youth-hostel-branch/",
+      "id": "uae-79f8b295e72608fd8177"
+    },
+    {
+      "name": "Gulf Pearl Hotel",
+      "kind": "stay",
+      "locality": "Dubai/Deira",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Al Baraha St, Omar al Khattab Rd",
+      "id": "uae-d54db8c5c3aabbc6a215"
+    },
+    {
+      "name": "Pacific Hotel",
+      "kind": "stay",
+      "locality": "Dubai/Deira",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Sabakha St 115, Deira",
+      "id": "uae-8dc3e50f5ad065375e64"
+    },
+    {
+      "name": "Niawara Guest House",
+      "kind": "stay",
+      "locality": "Dubai/Deira",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Al Ras Street",
+      "price": "150 dirhams, double room shared bathroom",
+      "id": "uae-2adcc9fcb9195e8db2cf"
+    },
+    {
+      "name": "Alkhayam Hotel",
+      "kind": "stay",
+      "locality": "Dubai/Deira",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Sikkat Al Khali Street, PO box 88249",
+      "price": "about 250 dirhams",
+      "id": "uae-a44da29e03a8edeccea6"
+    },
+    {
+      "name": "Qasr Al Seyaha Hotel",
+      "kind": "stay",
+      "locality": "Dubai/Deira",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "price": "180 dirhams double room",
+      "id": "uae-ac2678fea0792e1f4469"
+    },
+    {
+      "name": "Al Jazeera Hotel",
+      "kind": "stay",
+      "locality": "Dubai/Deira",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "PO box 8814, Al Ahmadea Rd, Al Ras Area",
+      "price": "220 dirhams dbl rm (200 dirhams if booked for 1 week)",
+      "id": "uae-04952ea657037540defb"
+    },
+    {
+      "name": "Galaxy Plaza",
+      "kind": "stay",
+      "locality": "Dubai/Deira",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "PO box 32236, Al Ras Street",
+      "price": "260 dirhams dbl rm",
+      "id": "uae-5e4353f3cd9690e72890"
+    },
+    {
+      "name": "Avari Dubai Hotel",
+      "kind": "stay",
+      "locality": "Dubai/Deira",
+      "lat": 25.2605,
+      "lon": 55.32652,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "near Clock Tower roundabout",
+      "url": "http://www.avari.com/property/avari-dubai",
+      "id": "uae-d7e930fc647c49818fcb"
+    },
+    {
+      "name": "Avenue Hotel",
+      "kind": "stay",
+      "locality": "Dubai/Deira",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Al Riqqa St",
+      "url": "http://www.avenuehoteldubai.com/",
+      "id": "uae-f091f00e70a4a221a947"
+    },
+    {
+      "name": "Highland Hotel",
+      "kind": "stay",
+      "locality": "Dubai/Deira",
+      "lat": 25.2694,
+      "lon": 55.3085,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Khalid bin Al Waleed Rd",
+      "price": "US$108",
+      "id": "uae-231a8daaad36a87847ae"
+    },
+    {
+      "name": "Hyatt Regency Dubai",
+      "kind": "stay",
+      "locality": "Dubai/Deira",
+      "lat": 25.2788983,
+      "lon": 55.3046501,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Deira Corniche",
+      "url": "https://dubai.regency.hyatt.com/",
+      "id": "uae-9d4f7213b37dd39810b9"
+    },
+    {
+      "name": "InterContinental Residence Suites Dubai Festival City",
+      "kind": "stay",
+      "locality": "Dubai/Deira",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "url": "http://www.ichotelsgroup.com/intercontinental/en/gb/locations/dubai-festivalcityresidencesuites",
+      "id": "uae-9c600ce37520329db494"
+    },
+    {
+      "name": "Moevenpick Hotel Ibn Battuta Gate",
+      "kind": "stay",
+      "locality": "Dubai/Deira",
+      "lat": 25.27088,
+      "lon": 55.32964,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Off Sheikh Zayed Road Adjacent to Ibn Battuta Mall Dubai United Arab Emirates",
+      "id": "uae-dca918762359c114f55a"
+    },
+    {
+      "name": "Park Hyatt Dubai",
+      "kind": "stay",
+      "locality": "Dubai/Deira",
+      "lat": 25.2435938,
+      "lon": 55.3328381,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "url": "https://dubai.park.hyatt.com/",
+      "id": "uae-f0183290adce407cadc2"
+    },
+    {
+      "name": "Radisson Blu Hotel, Dubai Deira Creek",
+      "kind": "stay",
+      "locality": "Dubai/Deira",
+      "lat": 25.26495,
+      "lon": 55.31141,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "address": "Bani Yas Road - 476",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-dubai-deira-creek",
+      "id": "uae-42a7c78e51ef6e5c3d55"
+    },
+    {
+      "name": "Taj Palace Hotel Dubai",
+      "kind": "stay",
+      "locality": "Dubai/Deira",
+      "lat": 25.262702,
+      "lon": 55.3216374,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "url": "http://www.tajhotels.com/",
+      "id": "uae-dba3d7d554cc312a6245"
+    },
+    {
+      "name": "Dubai/Deira",
+      "kind": "area",
+      "locality": "Dubai/Deira",
+      "lat": 25.28,
+      "lon": 55.331,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FDeira",
+      "id": "uae-4892baba6c483d752c93"
+    },
+    {
+      "name": "Al Fahidi Historical Neighbourhood",
+      "kind": "do",
+      "locality": "Dubai/Bur Dubai",
+      "lat": 25.264,
+      "lon": 55.3,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "Al Fahidi (19th) St crossing ManKhool Rd, north-east of Al Souk Al Kabeer community",
+      "url": "http://dubaiculture.gov.ae/en/Live-Our-Heritage/Pages/Al-Fahidi-Historical-Neighbourhood.aspx",
+      "id": "uae-4ef4d2a388dfa7fbf0c1"
+    },
+    {
+      "name": "Sheikh Mohammed Centre for Cultural Understanding",
+      "kind": "do",
+      "locality": "Dubai/Bur Dubai",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "Al Musalla Rd",
+      "url": "http://www.cultures.ae/",
+      "id": "uae-6a79df0eac33569d79b4"
+    },
+    {
+      "name": "Creek Park",
+      "kind": "do",
+      "locality": "Dubai/Bur Dubai",
+      "lat": 25.2408,
+      "lon": 55.3259,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "Al Riyadh St, Umm Hurair 2",
+      "price": "5 dirham",
+      "id": "uae-bf664c766911ae6d2a77"
+    },
+    {
+      "name": "Dubai Dolphinarium",
+      "kind": "do",
+      "locality": "Dubai/Bur Dubai",
+      "lat": 25.2346535,
+      "lon": 55.3267637,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "Creek Park gate 1",
+      "price": "Dolphin show 120–140 dirham/adult, 50–100 dirham/child",
+      "url": "http://www.dubaidolphinarium.ae/",
+      "id": "uae-c3467a629e7aa102b9c1"
+    },
+    {
+      "name": "Dubai Museum",
+      "kind": "do",
+      "locality": "Dubai/Bur Dubai",
+      "lat": 25.2633,
+      "lon": 55.2974,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "11c Al Ibn Abi Talib St and 19 Al Fahidi St, Al Souk Al Kabeer community",
+      "price": "Admission 3 dirham",
+      "id": "uae-4991c11b4e42ec626361"
+    },
+    {
+      "name": "Grand Mosque",
+      "kind": "do",
+      "locality": "Dubai/Bur Dubai",
+      "lat": 25.26439,
+      "lon": 55.29694,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "Ali bin Ali Taleb (11C) St, Al Souk Al Kabeer community",
+      "id": "uae-97d545a3695582ad6f06"
+    },
+    {
+      "name": "Heritage Village",
+      "kind": "do",
+      "locality": "Dubai/Bur Dubai",
+      "lat": 25.268,
+      "lon": 55.29,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "Shindagha District,",
+      "id": "uae-ebaaa985f3fa8d281b6e"
+    },
+    {
+      "name": "Iranian mosque",
+      "kind": "do",
+      "locality": "Dubai/Bur Dubai",
+      "lat": 25.264,
+      "lon": 55.2946,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "Ali bin Abi Taleb (11C) St, Al Souk Al Kabeer community",
+      "id": "uae-eb9db886e839fe41291e"
+    },
+    {
+      "name": "Sheikh Obaid bin Thani House",
+      "kind": "do",
+      "locality": "Dubai/Bur Dubai",
+      "lat": 25.2686,
+      "lon": 55.29076,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "url": "http://www.al-siraaj.com/",
+      "id": "uae-18336608d3eea30c9ace"
+    },
+    {
+      "name": "Saeed Al Maktoum House",
+      "kind": "do",
+      "locality": "Dubai/Bur Dubai",
+      "lat": 25.26818,
+      "lon": 55.29036,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "along the Dubai Creek in Al Shindagha",
+      "id": "uae-2d737a864749d1ad743a"
+    },
+    {
+      "name": "Crossroad of Civilization Museum",
+      "kind": "do",
+      "locality": "Dubai/Bur Dubai",
+      "lat": 25.2675,
+      "lon": 55.2889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "Sheikh Hasher bin Maktoum Al Maktoum Home, Al Mina Rd, Shindagha Heritage area, POBox 46298",
+      "price": "30 dirham for 3 museums",
+      "url": "https://www.themuseum.ae/",
+      "id": "uae-67bf608ebce0a84b89eb"
+    },
+    {
+      "name": "Old Weapons Museum",
+      "kind": "do",
+      "locality": "Dubai/Bur Dubai",
+      "lat": 25.2672,
+      "lon": 55.2893,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "price": "30 dirahm for 3 museums",
+      "id": "uae-0c01ace0c3df00bd95cd"
+    },
+    {
+      "name": "Manuscript, Old Book and Print Museum",
+      "kind": "do",
+      "locality": "Dubai/Bur Dubai",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "price": "30 dirham for 3 museums",
+      "id": "uae-c43e4b823cca48450d2d"
+    },
+    {
+      "name": "Zabeel Park",
+      "kind": "do",
+      "locality": "Dubai/Bur Dubai",
+      "lat": 25.2355,
+      "lon": 55.2977,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "Sheik Khalifa Bin Zayed St and Sheik Rashid Rd, Al Kefaf community",
+      "price": "5 dirham",
+      "id": "uae-d079225bf6004589aaf8"
+    },
+    {
+      "name": "Dubai Frame",
+      "kind": "do",
+      "locality": "Dubai/Bur Dubai",
+      "lat": 25.23553,
+      "lon": 55.30032,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "Zabeel Park Jogging Track",
+      "price": "Adult 49 AED, child (3-12) 39 AED",
+      "url": "https://www.thedubaiframe.com/",
+      "id": "uae-c2ac6b246b0fae2072ec"
+    },
+    {
+      "name": "Dinausaur Park & Glow Garden Park",
+      "kind": "do",
+      "locality": "Dubai/Bur Dubai",
+      "lat": 25.2286,
+      "lon": 55.297,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "Zabeel Park Gate 6 & 7",
+      "price": "60 dirham per person",
+      "url": "http://www.dubaigardenglow.com/",
+      "id": "uae-ef0e36f1dff65297ebbe"
+    },
+    {
+      "name": "Dubai Ferry trip",
+      "kind": "do",
+      "locality": "Dubai/Bur Dubai",
+      "lat": 25.2653,
+      "lon": 55.291,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "Al Ghubaiba Marine Transport Station, Al Ghubaiba Rd, Al Shindagha community",
+      "price": "50 dirhams/person in regular, 75 dirhams/person in gold class",
+      "url": "http://www.dubai-ferry.com/",
+      "id": "uae-208113550f4c7de07118"
+    },
+    {
+      "name": "Gharana",
+      "kind": "eat",
+      "locality": "Dubai/Bur Dubai",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "Sheikh Zayed Road",
+      "url": "http://www.gharanarestaurant.com/",
+      "id": "uae-c9956a826e2d5b58f4cc"
+    },
+    {
+      "name": "Basta Art Cafe",
+      "kind": "eat",
+      "locality": "Dubai/Bur Dubai",
+      "lat": 25.263173,
+      "lon": 55.299774,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "Bastakiya",
+      "id": "uae-327703483914c75bf1ab"
+    },
+    {
+      "name": "Gazebo",
+      "kind": "eat",
+      "locality": "Dubai/Bur Dubai",
+      "lat": 25.25234,
+      "lon": 55.28837,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "Kuwait St",
+      "url": "http://www.gazebo.ae/the-chain/the-splendour-of-mankhool/",
+      "id": "uae-dfb7329151a745b58b19"
+    },
+    {
+      "name": "Ravi Restaurant",
+      "kind": "eat",
+      "locality": "Dubai/Bur Dubai",
+      "lat": 25.2616969,
+      "lon": 55.292061,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "near Mussala Tower",
+      "id": "uae-45d37e9f0776f912ff82"
+    },
+    {
+      "name": "Student Biryani",
+      "kind": "eat",
+      "locality": "Dubai/Bur Dubai",
+      "lat": 25.244762,
+      "lon": 55.3056601,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "Kuwait St, Al Karama",
+      "id": "uae-4fdc22c0065b3f163051"
+    },
+    {
+      "name": "Local House",
+      "kind": "eat",
+      "locality": "Dubai/Bur Dubai",
+      "lat": 25.263241,
+      "lon": 25.26322,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "House 51, Al Fahidi Historical Neighbourhood, 19 Al Fahidi St, Al Souk Al Kabeer community",
+      "url": "http://www.localhousedubai.com/",
+      "id": "uae-3bd0e418ae56655c2a63"
+    },
+    {
+      "name": "Al Haj Bundu Khan",
+      "kind": "eat",
+      "locality": "Dubai/Bur Dubai",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "Lamcy Plaza, Oud Metha",
+      "price": "About 100 AED",
+      "id": "uae-0f5e3cbe60315e012963"
+    },
+    {
+      "name": "Pars Iranian Kitchen",
+      "kind": "eat",
+      "locality": "Dubai/Bur Dubai",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "Shk Zayed Rd",
+      "price": "Around 150 dhs per person",
+      "id": "uae-f8f93c1ff3f56847ec7b"
+    },
+    {
+      "name": "Wafi Gourmet",
+      "kind": "eat",
+      "locality": "Dubai/Bur Dubai",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "Wafi Mall, Oud Metha",
+      "price": "About 100 AED",
+      "id": "uae-f35b8bfd623bc862b20f"
+    },
+    {
+      "name": "Yakitori House",
+      "kind": "eat",
+      "locality": "Dubai/Bur Dubai",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "Century Hotel, Khalid Bin Walid St, Bur Dubai",
+      "id": "uae-234a7325a1af4f357b96"
+    },
+    {
+      "name": "Asha's",
+      "kind": "eat",
+      "locality": "Dubai/Bur Dubai",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "Wafi Centre",
+      "id": "uae-9f1be016c7072a65d6d2"
+    },
+    {
+      "name": "Manhattan Grill",
+      "kind": "eat",
+      "locality": "Dubai/Bur Dubai",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "Grand Hyatt Dubai",
+      "price": "30-300 AED",
+      "url": "https://dubai.grand.hyatt.com/en/hotel/dining/ManhattanGrill.html",
+      "id": "uae-6359f930451c78ebcee8"
+    },
+    {
+      "name": "Barrels Pub",
+      "kind": "eat",
+      "locality": "Dubai/Bur Dubai",
+      "lat": 25.253454,
+      "lon": 55.29357,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "Majestic Hotel Tower",
+      "id": "uae-25913cf4aff8a79f9a08"
+    },
+    {
+      "name": "Bollywood Café",
+      "kind": "eat",
+      "locality": "Dubai/Bur Dubai",
+      "lat": 25.25333,
+      "lon": 55.303984,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "D 79, Regent Palace Hotel",
+      "id": "uae-b78aa40078a8f49068f8"
+    },
+    {
+      "name": "Chill Rooftop Lounge",
+      "kind": "eat",
+      "locality": "Dubai/Bur Dubai",
+      "lat": 25.259079,
+      "lon": 55.291339,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "Royal Ascot Hotel",
+      "id": "uae-d2e183370546b8474246"
+    },
+    {
+      "name": "Marine's Club",
+      "kind": "eat",
+      "locality": "Dubai/Bur Dubai",
+      "lat": 25.255313,
+      "lon": 55.284902,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "Seaview Hotel",
+      "id": "uae-a83f13f85b493f7cf95d"
+    },
+    {
+      "name": "Ascot Hotel",
+      "kind": "stay",
+      "locality": "Dubai/Bur Dubai",
+      "lat": 25.259146,
+      "lon": 55.291515,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "Khalid bin Al Waleed Rd",
+      "url": "http://www.ascothoteldubai.com/",
+      "id": "uae-ec166ede1685906e8c6e"
+    },
+    {
+      "name": "Grand Hyatt Dubai",
+      "kind": "stay",
+      "locality": "Dubai/Bur Dubai",
+      "lat": 25.22808,
+      "lon": 55.32846,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "url": "https://dubai.grand.hyatt.com/",
+      "id": "uae-9444912e716a9cf34dd4"
+    },
+    {
+      "name": "Raffles Dubai",
+      "kind": "stay",
+      "locality": "Dubai/Bur Dubai",
+      "lat": 25.2278,
+      "lon": 55.32073,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "address": "Sheikh Rashid Rd",
+      "url": "http://www.raffles.com/dubai",
+      "id": "uae-2b9d7de30f6d6fc992b9"
+    },
+    {
+      "name": "Dubai/Bur Dubai",
+      "kind": "area",
+      "locality": "Dubai/Bur Dubai",
+      "lat": 25.2598,
+      "lon": 55.295,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FBur_Dubai",
+      "id": "uae-dbdbde05ac7862b37426"
+    },
+    {
+      "name": "Burj al-Arab",
+      "kind": "do",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.14145,
+      "lon": 55.18547,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "price": "Overnight stays over US$1800 per night after taxes/fees",
+      "url": "https://www.jumeirah.com/en/Stay/Dubai/Burj-Al-Arab-Jumeirah",
+      "id": "uae-693488dc0376e7a145f1"
+    },
+    {
+      "name": "Burj Khalifa",
+      "kind": "do",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.197222,
+      "lon": 55.274167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "url": "http://www.burjkhalifa.ae/",
+      "id": "uae-e24f15c5d5ef887def5d"
+    },
+    {
+      "name": "Dubai Fountain",
+      "kind": "do",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.195186,
+      "lon": 55.275061,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Dubai Mall",
+      "url": "http://www.thedubaimall.com/en/entertainment/entertainment-section/the-dubai-fountain.html",
+      "id": "uae-adba57c3887bf9083971"
+    },
+    {
+      "name": "Dubai Marina",
+      "kind": "do",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.08135,
+      "lon": 55.144075,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "url": "http://www.dubai-marina.com/",
+      "id": "uae-75eb6dc53a88a9e6e17b"
+    },
+    {
+      "name": "Jumeirah Beach",
+      "kind": "do",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.1647,
+      "lon": 55.2072,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "id": "uae-b4c5e827a35d1ca751cd"
+    },
+    {
+      "name": "Jumeirah Mosque",
+      "kind": "do",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.233972,
+      "lon": 55.265503,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Jumeirah Rd, Jumeirah 1",
+      "url": "https://www.jumeirahmosque.ae/",
+      "id": "uae-b08708197c4516b0c61c"
+    },
+    {
+      "name": "Majlis Ghorfat Umm Al Sheif",
+      "kind": "do",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.18668,
+      "lon": 55.23077,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "17th St (Al Mehemal St), Jumeirah 2",
+      "price": "1 dirham for adults and children over 6 years",
+      "url": "http://www.dubaicity.com/majlis-ghorfat-umm-al-sheif/",
+      "id": "uae-a02be1a314a1a71d237d"
+    },
+    {
+      "name": "Palm Islands",
+      "kind": "do",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.116944,
+      "lon": 55.131944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "id": "uae-0ec7a73e13fab9748fdf"
+    },
+    {
+      "name": "Al Safa Park",
+      "kind": "do",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.1839,
+      "lon": 55.2453,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Al Hadiqa Rd, Al Safa community",
+      "price": "3 dirham",
+      "id": "uae-981c6d578c64affdb377"
+    },
+    {
+      "name": "Etihad Museum",
+      "kind": "do",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.241433,
+      "lon": 55.269331,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "2nd December Rd crossing Jumeirah Rd, Jumeirah 1 community",
+      "price": "25 dirham per adult",
+      "url": "https://etihadmuseum.dubaiculture.gov.ae/en/pages/default.aspx",
+      "id": "uae-1ab2910dc2fe95bfa33e"
+    },
+    {
+      "name": "Dubai Aquarium and Underwater Zoo",
+      "kind": "do",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.1977,
+      "lon": 55.2788,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Dubai Mall, Doha St, Sheikh Zayed Rd",
+      "price": "Researcher Experience for 100 dirham/person, Explorer Experience for 120 dirham/person, VIP for 300 dirham/person",
+      "url": "http://www.thedubaiaquarium.com/",
+      "id": "uae-ab7e652bb4c6b2570f9f"
+    },
+    {
+      "name": "Museum of the Future",
+      "kind": "do",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.21912,
+      "lon": 55.2821,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Emirates Towers, Sheikh Zayed Rd, Trade Center 2 community",
+      "price": "145 dirham",
+      "url": "https://museumofthefuture.ae/",
+      "id": "uae-a69bb6791867ceb8bbcd"
+    },
+    {
+      "name": "Jumeirah Archaeological Site",
+      "kind": "do",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.19679,
+      "lon": 55.2418,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "16th St, Jumeirah 2 community",
+      "url": "https://www.visitdubai.com/en/pois/jumeirah-archaeological-site",
+      "id": "uae-1f5ea68a4a5c3d9aae42"
+    },
+    {
+      "name": "Jumeirah Fishing Harbor",
+      "kind": "do",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.211,
+      "lon": 55.244,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Jumeirah Rd crossing 311 Al Urouba Rd, Jumeirah 1 community",
+      "id": "uae-c7fb843ff2289f8bd253"
+    },
+    {
+      "name": "The Lost Chambers Aquarium and Ambassador Lagoon",
+      "kind": "do",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.1318,
+      "lon": 55.11855,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Atlantis, Cresent Rd East, Palm Jumeirah",
+      "price": "110 dirhams/adult, 80 dirham/child below 11, discounts for UAE residents, 30 dirham for Ambassador Lagoon only",
+      "url": "https://www.atlantis.com/dubai/atlantis-aquaventure/lost-chambers-aquarium",
+      "id": "uae-9dc60e4aea887f7dc6f7"
+    },
+    {
+      "name": "Dubai Miracle Garden",
+      "kind": "do",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.05981,
+      "lon": 55.24454,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "price": "55 dirham",
+      "url": "https://www.dubaimiraclegarden.com/",
+      "id": "uae-0aadbf17380d705fe729"
+    },
+    {
+      "name": "Emirates Towers",
+      "kind": "do",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.2175748,
+      "lon": 55.2830568,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "id": "uae-9d1ced7855f88e2b83dd"
+    },
+    {
+      "name": "The View at The Palm",
+      "kind": "do",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.11397,
+      "lon": 55.13982,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "price": "from 100 dirham",
+      "url": "https://www.palmtowerdubai.com/",
+      "id": "uae-5ece7329e16833b1218e"
+    },
+    {
+      "name": "Sky Views Dubai",
+      "kind": "do",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.20148,
+      "lon": 55.27065,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Sky Views, Sheikh Mohammed bin Rashid Blvd",
+      "price": "85 dirham",
+      "url": "https://www.skyviewsdubai.com/",
+      "id": "uae-61f57ec2e3b2976d98f3"
+    },
+    {
+      "name": "Cycling or walking along Jumeirah Beach",
+      "kind": "do",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.192873,
+      "lon": 55.23057,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "id": "uae-13456a25e2de48dd15c0"
+    },
+    {
+      "name": "Ski Dubai",
+      "kind": "do",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.117222,
+      "lon": 55.198333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Mall of Emirates, Sheikh Zayed Rd crossing Umm Suqueim Rd, Al Barsha 1",
+      "url": "http://www.theplaymania.com/skidubai",
+      "id": "uae-9a8ac65070dc83cab402"
+    },
+    {
+      "name": "Wild Wadi Waterpark",
+      "kind": "do",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.13965,
+      "lon": 55.18878,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Jumeirah Rd, Umm Suqeim 3 community",
+      "url": "http://www.jumeirah.com/en/hotels-resorts/dubai/wild-wadi/",
+      "id": "uae-7b81357de19b106a8cc6"
+    },
+    {
+      "name": "Atlantis",
+      "kind": "do",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.130443,
+      "lon": 55.11715,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "The Palm",
+      "url": "https://www.atlantis.com/dubai",
+      "id": "uae-1fd38e205829e08e0323"
+    },
+    {
+      "name": "Aquaventure Waterpark",
+      "kind": "do",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.135,
+      "lon": 55.122,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Atlantis, Cresent Rd East, Palm Jumeirah",
+      "url": "https://www.atlantisthepalm.com/marine-water-park/aquaventure-waterpark",
+      "id": "uae-2093e7196bc7685e2833"
+    },
+    {
+      "name": "Skydive Dubai",
+      "kind": "do",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.09079,
+      "lon": 55.138,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Al Seyahi St - Dubai Marina",
+      "price": "2299 dirham for tandem jump",
+      "url": "https://www.skydivedubai.ae/",
+      "id": "uae-66fec1c7d65afd9d2da8"
+    },
+    {
+      "name": "Megaplex",
+      "kind": "do",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.0472779,
+      "lon": 55.1235532,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "id": "uae-f04e1076c154c05d3393"
+    },
+    {
+      "name": "Dubai Marina Yacht Club",
+      "kind": "do",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.0724535,
+      "lon": 55.1361668,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "url": "http://www.dubaimarinayachtclub.com/",
+      "id": "uae-b736eadaec81b4aacc5b"
+    },
+    {
+      "name": "XLine",
+      "kind": "do",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.07715,
+      "lon": 55.13987,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "price": "599 dirham",
+      "url": "https://www.xdubai.com/en/xline/experience",
+      "id": "uae-23a4d27cc8b2fc412dae"
+    },
+    {
+      "name": "800 Pizza",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Sheykh Zayed Rd, Barsha",
+      "url": "http://www.800pizza.ae/",
+      "id": "uae-13257876dd54660d1a4c"
+    },
+    {
+      "name": "More Cafe",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Dubai Mall",
+      "id": "uae-53458c294ebeca0aae07"
+    },
+    {
+      "name": "Noodle House",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Emirates Towers Shopping Blvd, Madinat Jumeirah",
+      "price": "One meal about 80 dirham",
+      "id": "uae-5a48f88b1d584b6298e1"
+    },
+    {
+      "name": "Chill Out",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.1396331,
+      "lon": 55.2187854,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Times Square Centre, Ground F, Sheihk Zayed Rd, Al Marabea St, Al Quoz community",
+      "price": "entrance fee: 80 dirhams/person",
+      "url": "http://www.chilloutindubai.com/",
+      "id": "uae-dc7aaa2f690b14478aae"
+    },
+    {
+      "name": "Chimes",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.1144877,
+      "lon": 55.1930391,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Al Barsha",
+      "url": "http://www.chimesdubai.com/",
+      "id": "uae-dd0cd2b1676b6da0d511"
+    },
+    {
+      "name": "Jedoudna Restaurant",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.077928,
+      "lon": 55.134069,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Rimal Sector, The Walk at Jumeirah Beach Residence",
+      "price": "About 100 dirham",
+      "url": "http://www.jedoudna.com/",
+      "id": "uae-60e02bac7d20d134f382"
+    },
+    {
+      "name": "Karam Beirut",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "1st floor, Mall of Emirates, Sheykh Zayed Rd, Al Barsha",
+      "id": "uae-9328ecc322c68e0134f7"
+    },
+    {
+      "name": "Lal Qila Dubai",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Diyafa St, Jumairah-1",
+      "url": "http://lalqilauae.com/",
+      "id": "uae-a86539fff1c38b2f188b"
+    },
+    {
+      "name": "London Fish & Chips",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.0417761,
+      "lon": 55.1151362,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Tunisia Food Court, Ibn Batutta Mall, Jebel Ali Village",
+      "id": "uae-31d64cea9cbcf63ee733"
+    },
+    {
+      "name": "Toscana",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.133665,
+      "lon": 55.184653,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Souk Madinat Jumeirah",
+      "price": "About 100 dirham",
+      "id": "uae-1852ba62e227b53430dd"
+    },
+    {
+      "name": "Al Fresco",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.2205324,
+      "lon": 55.2804413,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Crowne Plaza, Dubai, Sheikh Zayed Road",
+      "url": "http://www.ihg.com/crowneplaza/hotels/us/en/dubai/dubtc/hoteldetail",
+      "id": "uae-0c86a846e0e754c84f52"
+    },
+    {
+      "name": "Al Mahara",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.1411259,
+      "lon": 55.1853921,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Burj Al Arab",
+      "price": "700 dirham",
+      "id": "uae-a201ccea64ee26b89f10"
+    },
+    {
+      "name": "At.mosphere",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.1971746,
+      "lon": 55.2741479,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Burj Khalifa",
+      "url": "http://www.atmosphereburjkhalifa.com/",
+      "id": "uae-b7d74afdc52ba9dd6f20"
+    },
+    {
+      "name": "The Gem Garden",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.116243,
+      "lon": 55.193763,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Holiday Inn Dubai - Al Barsha, Sheikh Zayed Road",
+      "url": "http://www.thegemgardenrestaurant.com/",
+      "id": "uae-e6ca9985bd2b0255562e"
+    },
+    {
+      "name": "Gharana",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.116306,
+      "lon": 55.19382,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Holiday Inn Dubai - Al Barsha, Sheikh Zayed Road",
+      "url": "http://www.gharanarestaurant.com/",
+      "id": "uae-df9a9e72c89c09d19a56"
+    },
+    {
+      "name": "Margaux",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.194741,
+      "lon": 55.2760063,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Souk al Bahar, opp dubai mall fountains",
+      "id": "uae-b71b46808ac531c025c9"
+    },
+    {
+      "name": "Options, by Sanjeev Kapoor",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Sheikh Zayed Rd",
+      "id": "uae-7bc77f8ac1e13aa803f7"
+    },
+    {
+      "name": "The Royal Budha",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.116306,
+      "lon": 55.19382,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Holiday Inn Dubai - Al Barsha, Sheikh Zayed Road",
+      "url": "http://www.theroyalbudha.com/",
+      "id": "uae-fd6eafe8bf2d4f88ba0a"
+    },
+    {
+      "name": "Shang Palace",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.2079345,
+      "lon": 55.2719596,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Level 1, Shangri-La Hotel, Shk Zayed Rd",
+      "price": "200 dirham",
+      "url": "http://www.shangri-la.com/dubai/shangrila/dining/restaurants/shang-palace/",
+      "id": "uae-d47dbb969f9c1a6bcf26"
+    },
+    {
+      "name": "Al Nafoorah",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.2167769,
+      "lon": 55.2827607,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Jumeirah, Emirates Towers Boulevard, Sheikh Zayed Road",
+      "url": "https://www.jumeirah.com/en/hotels-resorts/dubai/jumeirah-emirates-towers/restaurants_bars/al-nafoorah/",
+      "id": "uae-4cf831f0e8a1d006ff0e"
+    },
+    {
+      "name": "360°",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.1456828,
+      "lon": 55.1886496,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "url": "http://www.jumeirahbeachhotel.com/dining/360_degrees/",
+      "id": "uae-719fc97e5243ed93d968"
+    },
+    {
+      "name": "Buddha Bar",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.0859473,
+      "lon": 55.1442399,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Grosvenor House Dubai, Al Sufouh Rd",
+      "url": "http://www.buddhabar-dubai.com/",
+      "id": "uae-5c0de0dc40502d0a47a5"
+    },
+    {
+      "name": "Barasti",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.091774,
+      "lon": 55.1458121,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "id": "uae-4abcbe476f51ebaf571c"
+    },
+    {
+      "name": "Nasimi Beach",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.12831,
+      "lon": 55.11627,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "The Atlantis",
+      "id": "uae-dd728caa1b711e77763a"
+    },
+    {
+      "name": "Long's Bar",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.213047,
+      "lon": 55.275006,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Sheikh Zayed Rd",
+      "id": "uae-08768bdf99734180e8a1"
+    },
+    {
+      "name": "Left Bank",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "id": "uae-e12b7330f0abfd20286e"
+    },
+    {
+      "name": "Observatory",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.0877294,
+      "lon": 55.1461982,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "url": "http://www.observatory.dubaimarriottharbourhotel.com/restaurant/hotels/hotel-information/travel/dxbhr-the-observatory-dubai-marriott-harbour-hotel/",
+      "id": "uae-f2d80c22c9d2c71e547f"
+    },
+    {
+      "name": "Skyview Bar",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.1357038,
+      "lon": 55.1866875,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "url": "https://www.jumeirah.com/en/hotels-resorts/dubai/burj-al-arab/restaurant-at-burj-al-arab/skyview-bar/",
+      "id": "uae-445c3232d3205b07078a"
+    },
+    {
+      "name": "Vu's Bar",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "id": "uae-784b2052fba61f524307"
+    },
+    {
+      "name": "Zero Gravity",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.0894,
+      "lon": 55.1373,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Dubai Marina, Al Seyahi St",
+      "price": "free entrance, 50 dirham a beer",
+      "url": "http://0-gravity.ae/",
+      "id": "uae-ecaab26d5876e93e0916"
+    },
+    {
+      "name": "VIP Room",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.18594,
+      "lon": 55.2581984,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "JW Marriott, Marquis Hotel Dubai, Sheikh Zayed Road",
+      "id": "uae-3fdfd567f6e9c3085f00"
+    },
+    {
+      "name": "The Act",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.2080658,
+      "lon": 55.2720521,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Shangri-La, Sheikh Zayed Road",
+      "url": "http://www.shangri-la.com/dubai/shangrila/dining/restaurants/the-act-dubai/",
+      "id": "uae-1e4f685c339eb5dd1cd1"
+    },
+    {
+      "name": "The Cigar Bar",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.2263553,
+      "lon": 55.2842183,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Fairmont Dubai, Sheikh Zayed Road",
+      "url": "http://www.fairmont.com/palm-dubai/dining/cigar-room/",
+      "id": "uae-0d36771f3707236eb89e"
+    },
+    {
+      "name": "Zinc",
+      "kind": "eat",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.2206462,
+      "lon": 55.28046,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Crowne Plaza Dubai, Sheikh Zayed Road",
+      "id": "uae-93581e0d595c64a2af9e"
+    },
+    {
+      "name": "The Address Downtown Dubai",
+      "kind": "stay",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.19432,
+      "lon": 55.27924,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Mohammed Bin Rashid Boulevard, Downtown Dubai",
+      "price": "2000 dirham/night",
+      "url": "https://www.addresshotels.com/en/hotels/address-downtown",
+      "id": "uae-06e87fdfb91fc6721ac7"
+    },
+    {
+      "name": "Anantara The Palm Dubai Resort",
+      "kind": "stay",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.129496,
+      "lon": 55.153156,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "East Crescent",
+      "price": "Starting from US$291",
+      "url": "http://dubai-palm.anantara.com/",
+      "id": "uae-816edf91d5d5ab9d5fad"
+    },
+    {
+      "name": "Atlantis, the Palm",
+      "kind": "stay",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.130443,
+      "lon": 55.11715,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Crescent Rd, The Palm",
+      "url": "https://www.atlantis.com/dubai",
+      "id": "uae-10ff83288360c110458e"
+    },
+    {
+      "name": "Fairmont Dubai",
+      "kind": "stay",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.22642,
+      "lon": 55.28423,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Sheikh Zayed Rd",
+      "url": "http://www.fairmont.com/Dubai",
+      "id": "uae-287fd60e769aa39e84a9"
+    },
+    {
+      "name": "Fraser Suites Dubai",
+      "kind": "stay",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.108104,
+      "lon": 55.178123,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Sidra Tower, Sheikh Zayed Road, Media City",
+      "url": "http://dubai.frasershospitality.com/",
+      "id": "uae-53d3a6892a2d4e5e0bf7"
+    },
+    {
+      "name": "Grand Millennium Dubai",
+      "kind": "stay",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.10145,
+      "lon": 55.177664,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Sheikh Zayed Rd",
+      "url": "http://www.millenniumhotels.ae/grandmillenniumdubai/",
+      "id": "uae-f90f53ee0ee05130e5da"
+    },
+    {
+      "name": "Hilton Dubai Jumeirah",
+      "kind": "stay",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.07868,
+      "lon": 55.13433,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Tower A, The Walk, Jumeirah Beach Residence",
+      "url": "https://www.hilton.com/en/hotels/dxbjbhi-hilton-dubai-jumeirah/?SEO_id=OTHR-EMEA-HI-DXBJBHI",
+      "id": "uae-77feadacaf488862af1a"
+    },
+    {
+      "name": "Holiday Inn Dubai - Al Barsha",
+      "kind": "stay",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.116306,
+      "lon": 55.19382,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Sheikh Zayed Road, Al Barsha 1",
+      "url": "http://www.hialbarshadubai.com/",
+      "id": "uae-1352b48a3b0628477977"
+    },
+    {
+      "name": "Jumeirah Beach Hotel",
+      "kind": "stay",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.14162,
+      "lon": 55.19065,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "price": "Rooms from US$700",
+      "url": "http://www.jumeirahbeachhotel.com/",
+      "id": "uae-43b7c681d204264da053"
+    },
+    {
+      "name": "The Radisson Blu Residence, Dubai Marina",
+      "kind": "stay",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.07845,
+      "lon": 55.14336,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Plot No. 392-260 Street K Dubai Marina",
+      "id": "uae-b2c522ca3c012c7552b8"
+    },
+    {
+      "name": "Chelsea Gardens Hotel Apartments",
+      "kind": "stay",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.04823,
+      "lon": 55.130645,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Discovery Gardens Zen 3, Building Number 7",
+      "id": "uae-e2c873d40242aadf236b"
+    },
+    {
+      "name": "Emirates Grand Hotel",
+      "kind": "stay",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.2095209,
+      "lon": 55.2757807,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Near Finance Centre, Metro Stop, Sheikh Zayed Road",
+      "url": "http://www.emiratesgrandhotel.com/",
+      "id": "uae-088cf80e6dc9bca42e24"
+    },
+    {
+      "name": "Dusit Thani Dubai",
+      "kind": "stay",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.20618,
+      "lon": 55.27315,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "133 Sheikh Zayed Road",
+      "id": "uae-04c05463dfdf7866734d"
+    },
+    {
+      "name": "Holiday Inn Dubai - Al Barsha",
+      "kind": "stay",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.116348,
+      "lon": 55.193831,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Near Mall of The Emirates, E11 Sheikh Zayed Rd",
+      "url": "http://www.hialbarshadubai.com/",
+      "id": "uae-101c6be4b3857e27c376"
+    },
+    {
+      "name": "Hilton Dubai Al Habtoor City",
+      "kind": "stay",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.184699,
+      "lon": 55.255018,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "Al Habtoor City, Sheikh Zayed Road",
+      "price": "546 dirham",
+      "url": "https://www.hilton.com/en/hotels/dxbahhi-hilton-dubai-al-habtoor-city/",
+      "id": "uae-f3d126dc32e6ee584017"
+    },
+    {
+      "name": "Th8 Palm Dubai Beach Resort",
+      "kind": "stay",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.117883,
+      "lon": 55.110159,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "West Crescent Road",
+      "price": "AED500",
+      "url": "https://th8palmdubai.com/",
+      "id": "uae-1a41cc8dd6f2919c2d6c"
+    },
+    {
+      "name": "Anantara World Islands Dubai Resort",
+      "kind": "stay",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.194259,
+      "lon": 55.17656,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "55VG+QWX South America - World Islands",
+      "price": "$417/night",
+      "url": "https://www.anantara.com/en/world-islands-dubai?utm_source=GoogleMyBusiness&utm_medium=GMB&utm_term=WorldIslandsDubai&utm_content=Home&utm_campaign=Google_GMB",
+      "id": "uae-c8b8857ccd5690a4950c"
+    },
+    {
+      "name": "The Heart of Europe",
+      "kind": "stay",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.231037,
+      "lon": 55.160238,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "address": "P.O. Box 126732",
+      "url": "https://thoe.com/",
+      "id": "uae-2fef08524dab53dbbf4d"
+    },
+    {
+      "name": "Dubai/Jumeirah",
+      "kind": "area",
+      "locality": "Dubai/Jumeirah",
+      "lat": 25.1287,
+      "lon": 55.1969,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJumeirah",
+      "id": "uae-9295d1d2ff44fb5d52b2"
+    },
+    {
+      "name": "Port of Jebel Ali",
+      "kind": "do",
+      "locality": "Dubai/Jebel Ali",
+      "lat": 24.9762,
+      "lon": 55.0732,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJebel_Ali",
+      "url": "https://www.dpworld.ae/our-portfolio/jebel-ali-port/",
+      "id": "uae-26b83d458b8b0cf48655"
+    },
+    {
+      "name": "Jebel Ali Shooting Club",
+      "kind": "do",
+      "locality": "Dubai/Jebel Ali",
+      "lat": 24.9611107,
+      "lon": 55.0342371,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJebel_Ali",
+      "url": "https://www.jaresortshotels.com/leisure",
+      "id": "uae-783df6d941d025bd2836"
+    },
+    {
+      "name": "Switch Bowling",
+      "kind": "do",
+      "locality": "Dubai/Jebel Ali",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJebel_Ali",
+      "id": "uae-d9260c9c14d4cb192cf6"
+    },
+    {
+      "name": "Peekaboo!",
+      "kind": "do",
+      "locality": "Dubai/Jebel Ali",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJebel_Ali",
+      "id": "uae-74f7a060c646fb32826c"
+    },
+    {
+      "name": "Seawings",
+      "kind": "do",
+      "locality": "Dubai/Jebel Ali",
+      "lat": 24.9889891,
+      "lon": 55.023543,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJebel_Ali",
+      "price": "1700 UAE",
+      "id": "uae-2b275583bc28f9cd3f4a"
+    },
+    {
+      "name": "Jetty Lounge",
+      "kind": "do",
+      "locality": "Dubai/Jebel Ali",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJebel_Ali",
+      "id": "uae-fef4674a2dbfab363c2f"
+    },
+    {
+      "name": "Oasis Town of Dahid",
+      "kind": "do",
+      "locality": "Dubai/Jebel Ali",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJebel_Ali",
+      "id": "uae-7204d77e593327180d3f"
+    },
+    {
+      "name": "Dubai Parks & Resorts",
+      "kind": "do",
+      "locality": "Dubai/Jebel Ali",
+      "lat": 24.920758,
+      "lon": 55.010391,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJebel_Ali",
+      "url": "https://www.dubaiparksandresorts.com/en",
+      "id": "uae-8c15bcf144890dd70f86"
+    },
+    {
+      "name": "Jebel Ali Club",
+      "kind": "eat",
+      "locality": "Dubai/Jebel Ali",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJebel_Ali",
+      "address": "Old Jabel Ali Village, Near Ibn Battuta Mall (Sheikh Zayed Rd), Dubai",
+      "id": "uae-548997bc1d091d12314e"
+    },
+    {
+      "name": "The Kebab Shop",
+      "kind": "eat",
+      "locality": "Dubai/Jebel Ali",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJebel_Ali",
+      "address": "Food Court Area 1, Jafza, Dubai",
+      "id": "uae-06d4a29b9fae86c91718"
+    },
+    {
+      "name": "Kcal Healthy Fast Food",
+      "kind": "eat",
+      "locality": "Dubai/Jebel Ali",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJebel_Ali",
+      "address": "JLT, Block D",
+      "id": "uae-520a5d216fb3463981e2"
+    },
+    {
+      "name": "Chicken Tikka Inn",
+      "kind": "eat",
+      "locality": "Dubai/Jebel Ali",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJebel_Ali",
+      "address": "behind Mall of the Emirates",
+      "id": "uae-a0abc76eb4a923d22c63"
+    },
+    {
+      "name": "La Fontana",
+      "kind": "eat",
+      "locality": "Dubai/Jebel Ali",
+      "lat": 24.9875521,
+      "lon": 55.0219254,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJebel_Ali",
+      "address": "JA Palm Tree Court, Ground Floor, next to the La Fontana Swimming Pool",
+      "id": "uae-9f504ceeb6d346434c40"
+    },
+    {
+      "name": "Mushref Bar",
+      "kind": "eat",
+      "locality": "Dubai/Jebel Ali",
+      "lat": 24.9875484,
+      "lon": 55.0227778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJebel_Ali",
+      "address": "JA Jebel Ali, Beach Hotel, Jebel Ali",
+      "url": "https://www.jaresortshotels.com/dubai/ja-the-resort/ja-beach-hotel/restaurants",
+      "id": "uae-c51c600049df0c971512"
+    },
+    {
+      "name": "Palmito Pool Bar",
+      "kind": "eat",
+      "locality": "Dubai/Jebel Ali",
+      "lat": 24.9880722,
+      "lon": 55.0225312,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJebel_Ali",
+      "address": "JA Palm Tree Court, Jebel Ali, Dubai",
+      "id": "uae-09a1a5f6aacd25e7d1b8"
+    },
+    {
+      "name": "Sunset Lounge",
+      "kind": "eat",
+      "locality": "Dubai/Jebel Ali",
+      "lat": 24.987766,
+      "lon": 55.0229841,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJebel_Ali",
+      "address": "JA Jebel Ali Beach Hotel, Jebel Ali",
+      "id": "uae-94368a6ab42425aedb3d"
+    },
+    {
+      "name": "Diablo Nightclub Dubai",
+      "kind": "eat",
+      "locality": "Dubai/Jebel Ali",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJebel_Ali",
+      "address": "Ibn Battuta Gate Hotel in Jebel Ali",
+      "id": "uae-5e58df91118518a934c0"
+    },
+    {
+      "name": "The Bar",
+      "kind": "eat",
+      "locality": "Dubai/Jebel Ali",
+      "lat": 25.0030211,
+      "lon": 55.1643165,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJebel_Ali",
+      "address": "Courtyard by Marriott Dubai Green Community",
+      "id": "uae-3b0a30b683d3fa8cdc67"
+    },
+    {
+      "name": "Jebel Ali Beach Hotel",
+      "kind": "stay",
+      "locality": "Dubai/Jebel Ali",
+      "lat": 24.98758,
+      "lon": 55.02318,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJebel_Ali",
+      "address": "Exit 13, Sheikh Zayed Road, Jebel Ali, Dubai",
+      "url": "https://www.jaresortshotels.com/dubai/ja-the-resort/ja-beach-hotel",
+      "id": "uae-97a7fc94d7b4a522d737"
+    },
+    {
+      "name": "Premier Inn Dubai Investments Park Hotel",
+      "kind": "stay",
+      "locality": "Dubai/Jebel Ali",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJebel_Ali",
+      "address": "E311, Dubai 35118",
+      "url": "https://global.premierinn.com/dubai/hotel/dubai-investments-park",
+      "id": "uae-e6f2954737bc18ea56eb"
+    },
+    {
+      "name": "Dubai/Jebel Ali",
+      "kind": "area",
+      "locality": "Dubai/Jebel Ali",
+      "lat": 24.89,
+      "lon": 55.027,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FJebel_Ali",
+      "id": "uae-ffd0def5d7093f20d52f"
+    },
+    {
+      "name": "Mushrif Park",
+      "kind": "do",
+      "locality": "Dubai/Suburbs and Hatta",
+      "lat": 25.21713,
+      "lon": 55.45109,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FSuburbs_and_Hatta",
+      "price": "entrance fee 10 dirhams per car; to use the swimming pool, adults pay 10 dirhams and children pay 5 dirhams",
+      "id": "uae-b767e976e5f30c2db2b9"
+    },
+    {
+      "name": "Imagine",
+      "kind": "do",
+      "locality": "Dubai/Suburbs and Hatta",
+      "lat": 25.221,
+      "lon": 55.35,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FSuburbs_and_Hatta",
+      "address": "Festival Bay, Dubai Festival City, Festival Blvd",
+      "url": "http://www.laservision.com.au/portfolio/dubai-festival-city/",
+      "id": "uae-08599e588e01ef12191c"
+    },
+    {
+      "name": "Global Village",
+      "kind": "do",
+      "locality": "Dubai/Suburbs and Hatta",
+      "lat": 25.06632,
+      "lon": 55.30342,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FSuburbs_and_Hatta",
+      "address": "Exit #37 on Sh Mohammed Bin Zayed Rd",
+      "url": "http://www.globalvillage.ae/",
+      "id": "uae-20d10b5d0678c26e2516"
+    },
+    {
+      "name": "Dubai Autodrome",
+      "kind": "do",
+      "locality": "Dubai/Suburbs and Hatta",
+      "lat": 25.05008,
+      "lon": 55.24001,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FSuburbs_and_Hatta",
+      "address": "On E-311, Dubailand",
+      "url": "http://www.dubaiautodrome.com/",
+      "id": "uae-05fbb1d3a9b09e8302d7"
+    },
+    {
+      "name": "IMG Worlds of Adventure",
+      "kind": "do",
+      "locality": "Dubai/Suburbs and Hatta",
+      "lat": 25.0824,
+      "lon": 55.3194,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FSuburbs_and_Hatta",
+      "address": "City of Arabia, Sheikh Mohammed bin Zayed Rd E311",
+      "id": "uae-dbfd65aebd6ccd521ebf"
+    },
+    {
+      "name": "Dubai Sports City (DSC)",
+      "kind": "do",
+      "locality": "Dubai/Suburbs and Hatta",
+      "lat": 25.0418893,
+      "lon": 55.2195854,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FSuburbs_and_Hatta",
+      "id": "uae-8282f28f894ea487f00f"
+    },
+    {
+      "name": "DSC Multi-Purpose Stadium",
+      "kind": "do",
+      "locality": "Dubai/Suburbs and Hatta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FSuburbs_and_Hatta",
+      "id": "uae-6f57964cd6f313d89fa7"
+    },
+    {
+      "name": "Dubai International Stadium",
+      "kind": "do",
+      "locality": "Dubai/Suburbs and Hatta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FSuburbs_and_Hatta",
+      "id": "uae-c8e60c8df8c1d351691b"
+    },
+    {
+      "name": "DSC Indoor Arena",
+      "kind": "do",
+      "locality": "Dubai/Suburbs and Hatta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FSuburbs_and_Hatta",
+      "id": "uae-23a81d48ac680439b4bc"
+    },
+    {
+      "name": "Rugby Park",
+      "kind": "do",
+      "locality": "Dubai/Suburbs and Hatta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FSuburbs_and_Hatta",
+      "id": "uae-aab49e4ac59844a02f7d"
+    },
+    {
+      "name": "Dubai Safari Park",
+      "kind": "do",
+      "locality": "Dubai/Suburbs and Hatta",
+      "lat": 25.177509,
+      "lon": 55.450114,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FSuburbs_and_Hatta",
+      "address": "Al Warqa 5",
+      "price": "50 dirham",
+      "url": "https://www.dubai-safari-park.com/",
+      "id": "uae-6a9b45834c5e6dec1bab"
+    },
+    {
+      "name": "Al Mallah",
+      "kind": "eat",
+      "locality": "Dubai/Suburbs and Hatta",
+      "lat": 25.236777187786068,
+      "lon": 55.27697527295096,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FSuburbs_and_Hatta",
+      "address": "Al Diyafah Street, Satwa",
+      "id": "uae-9c180425854f9281c6dd"
+    },
+    {
+      "name": "Sidra",
+      "kind": "eat",
+      "locality": "Dubai/Suburbs and Hatta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FSuburbs_and_Hatta",
+      "address": "Dune Centre, Satwa",
+      "id": "uae-3624472fb6a27de8356a"
+    },
+    {
+      "name": "InterContinental Dubai Festival City",
+      "kind": "stay",
+      "locality": "Dubai/Suburbs and Hatta",
+      "lat": 25.2232,
+      "lon": 55.35011,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FSuburbs_and_Hatta",
+      "url": "http://www.ichotelsgroup.com/intercontinental/en/gb/locations/overview/dubai-festivalcity",
+      "id": "uae-2801f266010a120e4977"
+    },
+    {
+      "name": "The Meydan Hotel",
+      "kind": "stay",
+      "locality": "Dubai/Suburbs and Hatta",
+      "lat": 25.15724,
+      "lon": 55.3031,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FSuburbs_and_Hatta",
+      "address": "Meydan Racecourse, Al Meydan Road, Nad Al Sheba",
+      "id": "uae-d95157dc0ad4bef082e1"
+    },
+    {
+      "name": "Hotel ibis",
+      "kind": "stay",
+      "locality": "Dubai/Suburbs and Hatta",
+      "lat": 25.117066150354173,
+      "lon": 55.19595654833966,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FSuburbs_and_Hatta",
+      "address": "2 A Street",
+      "price": "129 dirham for a room with a double bed",
+      "id": "uae-76635da2e678781b4554"
+    },
+    {
+      "name": "Studio One",
+      "kind": "stay",
+      "locality": "Dubai/Suburbs and Hatta",
+      "lat": 25.043779280056263,
+      "lon": 55.250677345025146,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FSuburbs_and_Hatta",
+      "price": "151 dirham per night for a single room, however can be up to 900 depending on time of year",
+      "url": "https://studioonehotel.com/",
+      "id": "uae-ad7a17a72003d3c50c33"
+    },
+    {
+      "name": "Dubai Youth Hostel",
+      "kind": "stay",
+      "locality": "Dubai/Suburbs and Hatta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FSuburbs_and_Hatta",
+      "address": "39 Al-Nahda Rd. lat=",
+      "id": "uae-a161bb7714fc1604fdf8"
+    },
+    {
+      "name": "Dubai/Suburbs and Hatta",
+      "kind": "area",
+      "locality": "Dubai/Suburbs and Hatta",
+      "lat": 25.06601,
+      "lon": 55.368,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dubai%2FSuburbs_and_Hatta",
+      "id": "uae-342b0e0939a3bd715425"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 8 distinct public Wikivoyage source pages; attempted 8 article titles covering the country, capital(s), and 2 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

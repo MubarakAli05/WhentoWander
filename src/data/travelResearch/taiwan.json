@@ -1,0 +1,2565 @@
+{
+  "sources": [
+    {
+      "title": "Taiwan",
+      "url": "https://en.wikivoyage.org/wiki/Taiwan",
+      "checkedAt": "2026-10-21T08:12:36.971Z"
+    },
+    {
+      "title": "Taipei",
+      "url": "https://en.wikivoyage.org/wiki/Taipei",
+      "checkedAt": "2026-10-21T08:12:39.486Z"
+    },
+    {
+      "title": "Taipei/Old Taipei",
+      "url": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "checkedAt": "2026-10-21T08:12:42.197Z"
+    },
+    {
+      "title": "Taipei/Zhongzheng",
+      "url": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "checkedAt": "2026-10-21T08:12:45.208Z"
+    },
+    {
+      "title": "Taipei/East District",
+      "url": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "checkedAt": "2026-10-21T08:12:48.207Z"
+    },
+    {
+      "title": "Taipei/Zhongshan",
+      "url": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "checkedAt": "2026-10-21T08:12:51.384Z"
+    },
+    {
+      "title": "Taipei/Beitou",
+      "url": "https://en.wikivoyage.org/wiki/Taipei%2FBeitou",
+      "checkedAt": "2026-10-21T08:12:54.298Z"
+    },
+    {
+      "title": "Taipei/Shilin",
+      "url": "https://en.wikivoyage.org/wiki/Taipei%2FShilin",
+      "checkedAt": "2026-10-21T08:12:57.625Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Taipei",
+      "kind": "area",
+      "locality": "Taiwan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taiwan",
+      "id": "taiwan-b31cc30d53e14d812c6a"
+    },
+    {
+      "name": "Miaoli",
+      "kind": "area",
+      "locality": "Taiwan",
+      "lat": 24.57,
+      "lon": 120.82,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taiwan",
+      "id": "taiwan-50ef771687a38f346078"
+    },
+    {
+      "name": "Taichung",
+      "kind": "area",
+      "locality": "Taiwan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taiwan",
+      "id": "taiwan-07438da34e1c5cc806b5"
+    },
+    {
+      "name": "Puli",
+      "kind": "area",
+      "locality": "Taiwan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taiwan",
+      "id": "taiwan-f52d4daa4002ae342aa3"
+    },
+    {
+      "name": "Tainan",
+      "kind": "area",
+      "locality": "Taiwan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taiwan",
+      "id": "taiwan-d72b0f33dde9ae23544b"
+    },
+    {
+      "name": "Kaohsiung",
+      "kind": "area",
+      "locality": "Taiwan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taiwan",
+      "id": "taiwan-aea1a3dd40ac4e3ac505"
+    },
+    {
+      "name": "Taitung",
+      "kind": "area",
+      "locality": "Taiwan",
+      "lat": 22.758333,
+      "lon": 121.144444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taiwan",
+      "id": "taiwan-e2b0f74514067855e454"
+    },
+    {
+      "name": "Hualien",
+      "kind": "area",
+      "locality": "Taiwan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taiwan",
+      "id": "taiwan-501904410d5c7f95da9e"
+    },
+    {
+      "name": "Jiufen",
+      "kind": "area",
+      "locality": "Taiwan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taiwan",
+      "id": "taiwan-d723a1f1eb7057301442"
+    },
+    {
+      "name": "Awaken Music Festival",
+      "kind": "do",
+      "locality": "Taiwan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taiwan",
+      "address": "Taipei",
+      "url": "https://awaken-music-festival.com/en/",
+      "id": "taiwan-d1de34757afe515e5901"
+    },
+    {
+      "name": "Yangmingshan National Park",
+      "kind": "do",
+      "locality": "Taipei",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei",
+      "id": "taiwan-3eed8de4260980bc51ad"
+    },
+    {
+      "name": "Golden Horse Chinese Language Film Festival",
+      "kind": "do",
+      "locality": "Taipei",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei",
+      "url": "http://www.goldenhorse.org.tw/",
+      "id": "taiwan-86974bdfb14af985dc53"
+    },
+    {
+      "name": "Taipei Film Festival",
+      "kind": "do",
+      "locality": "Taipei",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei",
+      "url": "http://www.taipeiff.tw/",
+      "id": "taiwan-89f42ab3437e45e64418"
+    },
+    {
+      "name": "Taipei Pride Parade",
+      "kind": "do",
+      "locality": "Taipei",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei",
+      "id": "taiwan-66d3e611bad647c4e97a"
+    },
+    {
+      "name": "Taipei",
+      "kind": "area",
+      "locality": "Taipei",
+      "lat": 25.05201,
+      "lon": 121.54175,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei",
+      "id": "taiwan-164215e086e878e8ff9f"
+    },
+    {
+      "name": "Longshan Temple",
+      "kind": "do",
+      "locality": "Taipei/Old Taipei",
+      "lat": 25.0372,
+      "lon": 121.4994,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "address": "No.211, Guangzhou Rd, Wanhua Dist. (near junction with Guilin Road)",
+      "price": "Free",
+      "url": "https://www.lungshan.org.tw/",
+      "id": "taiwan-5d27a911e095b7aeb06a"
+    },
+    {
+      "name": "Red House",
+      "kind": "do",
+      "locality": "Taipei/Old Taipei",
+      "lat": 25.041987,
+      "lon": 121.506739,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "url": "http://www.redhouse.org.tw/index_en.aspx",
+      "id": "taiwan-c999ca82e9c05908db6d"
+    },
+    {
+      "name": "North Gate",
+      "kind": "do",
+      "locality": "Taipei/Old Taipei",
+      "lat": 25.047737,
+      "lon": 121.511094,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "address": "Sec 1, Zhongxiao West Road",
+      "id": "taiwan-21d58eb49326040a3674"
+    },
+    {
+      "name": "Bopiliao Old Street",
+      "kind": "do",
+      "locality": "Taipei/Old Taipei",
+      "lat": 25.036841,
+      "lon": 121.502162,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "address": "Lane 173, Kangding Road",
+      "url": "https://www.bopiliao.taipei/EN",
+      "id": "taiwan-d1b895ca9267ae71ff97"
+    },
+    {
+      "name": "Beimen Metro Station",
+      "kind": "do",
+      "locality": "Taipei/Old Taipei",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "id": "taiwan-8e9df814e45c96df169b"
+    },
+    {
+      "name": "Huaxi Street Night Market",
+      "kind": "do",
+      "locality": "Taipei/Old Taipei",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "id": "taiwan-970139c82627e27d20b3"
+    },
+    {
+      "name": "Dadaocheng Presbyterian Church",
+      "kind": "do",
+      "locality": "Taipei/Old Taipei",
+      "lat": 25.059614,
+      "lon": 121.512673,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "url": "http://www.tttchurch.org.tw/aboutus.html",
+      "id": "taiwan-a51fa719aa74fc4616d4"
+    },
+    {
+      "name": "Gui-de Street",
+      "kind": "do",
+      "locality": "Taipei/Old Taipei",
+      "lat": 25.05527,
+      "lon": 121.50833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "address": "West of Dihua Street and Xining North Road",
+      "id": "taiwan-2b277385338e9776ec44"
+    },
+    {
+      "name": "Museum of Contemporary Art",
+      "kind": "do",
+      "locality": "Taipei/Old Taipei",
+      "lat": 25.050776,
+      "lon": 121.519022,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "address": "39 Changan West Rd",
+      "price": "NT$100",
+      "url": "http://www.mocataipei.org.tw/",
+      "id": "taiwan-cc996d749dc679ba5f5f"
+    },
+    {
+      "name": "Sin Hong Choon",
+      "kind": "do",
+      "locality": "Taipei/Old Taipei",
+      "lat": 25.05728,
+      "lon": 121.51251,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "address": "No. 309號, Minsheng W Rd, Datong District",
+      "id": "taiwan-5f3502b558fea25a460a"
+    },
+    {
+      "name": "Ama Museum",
+      "kind": "do",
+      "locality": "Taipei/Old Taipei",
+      "lat": 25.0602,
+      "lon": 121.5092,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "address": "No.32, Sec. 3, Chengde Rd, Datong Dist",
+      "url": "https://www.amamuseum.org.tw/en",
+      "id": "taiwan-7143f746a37f23707243"
+    },
+    {
+      "name": "Dalongdong Baoan Temple",
+      "kind": "do",
+      "locality": "Taipei/Old Taipei",
+      "lat": 25.073173,
+      "lon": 121.515562,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "address": "No.61, Hami St, Datong Dist",
+      "url": "http://www.baoan.org.tw/ENGLISH/index.html",
+      "id": "taiwan-e47bd58b2432611808e6"
+    },
+    {
+      "name": "Taipei Confucius Temple",
+      "kind": "do",
+      "locality": "Taipei/Old Taipei",
+      "lat": 25.0729,
+      "lon": 121.5166,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "address": "No.275, Dalong St, Datong Dist",
+      "url": "https://www.tctcc.taipei/en-us/index.htm",
+      "id": "taiwan-4bbbf218ff7614e6a9fb"
+    },
+    {
+      "name": "Chen Dexing Ancestral Hall",
+      "kind": "do",
+      "locality": "Taipei/Old Taipei",
+      "lat": 25.055505,
+      "lon": 121.515859,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "id": "taiwan-01d38b2aa98a88fb651b"
+    },
+    {
+      "name": "Fa-Chu-Kung Temple",
+      "kind": "do",
+      "locality": "Taipei/Old Taipei",
+      "lat": 25.053825,
+      "lon": 121.512122,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "address": "No. 2, Lane 344, Nanjing West Road",
+      "id": "taiwan-127d09f27fd35c0228fd"
+    },
+    {
+      "name": "Xiahai City God Temple",
+      "kind": "do",
+      "locality": "Taipei/Old Taipei",
+      "lat": 25.055649,
+      "lon": 121.510144,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "address": "No. 103, Section 1, Dihua St",
+      "url": "http://tpecitygod.org/",
+      "id": "taiwan-836e4893ac064aa926d0"
+    },
+    {
+      "name": "Machangding Memorial Park",
+      "kind": "do",
+      "locality": "Taipei/Old Taipei",
+      "lat": 25.01937,
+      "lon": 121.50405,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "id": "taiwan-0d9ef8bc634341215ec7"
+    },
+    {
+      "name": "Ah Chung Mee Soa",
+      "kind": "eat",
+      "locality": "Taipei/Old Taipei",
+      "lat": 25.0433,
+      "lon": 121.50781,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "address": "8-1 Emei St",
+      "price": "NT$45-60",
+      "id": "taiwan-134e8d21c218e9abe73d"
+    },
+    {
+      "name": "Calcutta Indian Curry House",
+      "kind": "eat",
+      "locality": "Taipei/Old Taipei",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "address": "70 Xining South Rd",
+      "id": "taiwan-985b20844c5f3772e37c"
+    },
+    {
+      "name": "Qiaotou Sushi",
+      "kind": "eat",
+      "locality": "Taipei/Old Taipei",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "address": "59 Yanping N Rd, Section 3",
+      "url": "https://weitravelblog.wordpress.com/2019/03/20/%E9%A3%9F%E8%A8%98-%E5%8F%B0%E5%8C%97%E6%A9%8B%E9%A0%AD%E5%A3%BD%E5%8F%B8%E5%B1%8B%EF%BC%8C%E5%BB%B6%E4%B8%89%E5%A4%9C%E5%B8%82%E5%B9%B3%E5%83%B9%E7%BE%8E%E5%91%B3%E7%94%9F%E9%AD%9A%E7%89%87/",
+      "id": "taiwan-bd41c7ada93df725b006"
+    },
+    {
+      "name": "The Clover",
+      "kind": "eat",
+      "locality": "Taipei/Old Taipei",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "address": "99 Kunming Street, Ximending",
+      "id": "taiwan-d3f1088d69e5d9d689c9"
+    },
+    {
+      "name": "Mei Guan Yuan",
+      "kind": "eat",
+      "locality": "Taipei/Old Taipei",
+      "lat": 25.04352,
+      "lon": 121.50611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "address": "36 Emei St",
+      "id": "taiwan-712ee92f1993e3d3004b"
+    },
+    {
+      "name": "Fong Da Coffee",
+      "kind": "eat",
+      "locality": "Taipei/Old Taipei",
+      "lat": 25.042566,
+      "lon": 121.506361,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "address": "42號, Chengdu Rd",
+      "id": "taiwan-694a511d838bf53a6379"
+    },
+    {
+      "name": "Liu Yu Teahouse",
+      "kind": "eat",
+      "locality": "Taipei/Old Taipei",
+      "lat": 25.0364,
+      "lon": 121.4996,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "address": "B1-10, Longshan Temple Underpass, No145 Xiyuan Road. Sec. 1, Wanhua",
+      "price": "NT$160, Tea Tasting Session NT$600",
+      "url": "https://www.liuyutea.com.tw/",
+      "id": "taiwan-e4e5cd129a97728d5b54"
+    },
+    {
+      "name": "Somebody Cafe",
+      "kind": "eat",
+      "locality": "Taipei/Old Taipei",
+      "lat": 25.042896,
+      "lon": 121.505718,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "address": "2F, 65 Chengdu",
+      "id": "taiwan-c37412cc66a460357e0f"
+    },
+    {
+      "name": "Backpacker Hostel",
+      "kind": "stay",
+      "locality": "Taipei/Old Taipei",
+      "lat": 25.0439,
+      "lon": 121.5032,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "address": "No. 13, Lane 25, Kangding Road, Wanhua",
+      "url": "https://www.bph.com.tw/%e8%a5%bf%e9%96%80%e5%ba%97",
+      "id": "taiwan-3a89739a0640f74f2352"
+    },
+    {
+      "name": "Dan Hostel",
+      "kind": "stay",
+      "locality": "Taipei/Old Taipei",
+      "lat": 25.0413,
+      "lon": 121.5066,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "address": "154 Hanzhong Street",
+      "url": "https://www.hostelworld.com/hostels/p/301177/dan-hostel/?source=ppc_gooads_nonbrand_dsk_search_pn_en_th&network=g&campaign_id=20140378245&adgroup_id=153490622147&criteria_id=kwd-823058860728&creative_id=663904383341&location_physical_id=9207211&location_interest_id=null&adposition=null&uniqueclickID=45506494712602253&sub_keyword=dan+hostel+taipei&sub_ad=e&sub_publisher=ADW&gclsrc=aw.ds&gad_source=1&gclid=Cj0KCQiA1Km7BhC9ARIsAFZfEIvrxt4kRclFkadBGdGVYhUyD3Sd4tVl75uZw-WMtH4uvvmvpeqyPvIaAiGMEALw_wcB",
+      "id": "taiwan-3b7602e80f814ff2befb"
+    },
+    {
+      "name": "Wow Hostel",
+      "kind": "stay",
+      "locality": "Taipei/Old Taipei",
+      "lat": 25.0442,
+      "lon": 121.5073,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "address": "8F, 42 Hangzhou South Road",
+      "url": "https://www.hostelworld.com/hostels/p/99087/fun-inn-taipei/?source=ppc_gooads_nonbrand_dsk_dsa_pn_en_ascatchall&network=g&campaign_id=20792433326&adgroup_id=154477418303&criteria_id=dsa-443313842330&creative_id=681643529245&location_physical_id=9198974&location_interest_id=9197983&adposition=&uniqueclickID=15826124366112228140&sub_keyword=&sub_ad=&sub_publisher=ADW&gclsrc=aw.ds&gad_source=1&gclid=CjwKCAiA65m7BhAwEiwAAgu4JDZm7kz_ZHp0wVNNk0vwK3Aa6v93GqgD3KhM6JhVNGSrRV3VbDuQJhoC2mMQAvD_BwE",
+      "id": "taiwan-05d45fa7279ee7d7fe9e"
+    },
+    {
+      "name": "CU Hotel Taipei",
+      "kind": "stay",
+      "locality": "Taipei/Old Taipei",
+      "lat": 25.0569,
+      "lon": 121.5162,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "address": "198 Minsheng W Rd",
+      "url": "https://www.cuhotel.com.tw/TAIPEI",
+      "id": "taiwan-9b2d667cdc4bb8b0136c"
+    },
+    {
+      "name": "Fortune Hiya Hotel",
+      "kind": "stay",
+      "locality": "Taipei/Old Taipei",
+      "lat": 25.052,
+      "lon": 121.5138,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "address": "No.62 Section 1, Chongqing North Road",
+      "url": "https://fortunehaiya.hotel.com.tw/",
+      "id": "taiwan-bf68d6a9d13ea746a33d"
+    },
+    {
+      "name": "Yi Su Hotel",
+      "kind": "stay",
+      "locality": "Taipei/Old Taipei",
+      "lat": 25.0532,
+      "lon": 121.514,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "address": "116 Chongqing N Rd, Section 1",
+      "url": "http://taipei.yisuhotel.com/",
+      "id": "taiwan-040817d27d8bbb6779e5"
+    },
+    {
+      "name": "Palais de Chine Hotel",
+      "kind": "stay",
+      "locality": "Taipei/Old Taipei",
+      "lat": 25.0492,
+      "lon": 121.5169,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "address": "3 Chengde Rd, Section 1",
+      "url": "https://www.palaisdechinehotel.com/tw/index.php?utm_source=google&utm_medium=button&utm_campaign=gmb",
+      "id": "taiwan-4ee1cd72f43a113bb411"
+    },
+    {
+      "name": "Taipei/Old Taipei",
+      "kind": "area",
+      "locality": "Taipei/Old Taipei",
+      "lat": 25.0597,
+      "lon": 121.5142,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FOld_Taipei",
+      "id": "taiwan-90a3d266f26a78785103"
+    },
+    {
+      "name": "National Chiang Kai-shek Memorial Hall",
+      "kind": "do",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.0346,
+      "lon": 121.5217,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "price": "Free",
+      "url": "http://www.cksmh.gov.tw/",
+      "id": "taiwan-ad4f71b55c7a0cc3c46a"
+    },
+    {
+      "name": "National Museum Of History",
+      "kind": "do",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.03157,
+      "lon": 121.51119,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "49 Nanhai Rd",
+      "price": "NT$20",
+      "url": "http://www.nmh.gov.tw/",
+      "id": "taiwan-4a2b4059898c35444783"
+    },
+    {
+      "name": "National Taiwan Museum",
+      "kind": "do",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.0427,
+      "lon": 121.5151,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "2 Xiangyang Rd",
+      "id": "taiwan-c2e4fd891565815a43fe"
+    },
+    {
+      "name": "228 Memorial Museum",
+      "kind": "do",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.04038,
+      "lon": 121.51555,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "id": "taiwan-6d6db969ff225a8f0938"
+    },
+    {
+      "name": "National Taiwan University",
+      "kind": "do",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.018,
+      "lon": 121.5385,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "url": "http://www.ntu.edu.tw/",
+      "id": "taiwan-c6d74f18545f47cce3da"
+    },
+    {
+      "name": "Presidential Office Building",
+      "kind": "do",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.039971,
+      "lon": 121.511933,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "122 Chongqing South Road, Zhongzheng District",
+      "url": "http://english.president.gov.tw/",
+      "id": "taiwan-9327d35e2b1d0f5dc470"
+    },
+    {
+      "name": "Qidong Street Japanese Houses",
+      "kind": "do",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.041667,
+      "lon": 121.528889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "No. 25、27, Section 2, Jinan Road",
+      "id": "taiwan-91ea2c2e3a437b787085"
+    },
+    {
+      "name": "Sun Yun-suan Memorial Museum",
+      "kind": "do",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.060333,
+      "lon": 121.509222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "No. 10, Lane 6, Section 2, Chongqing South Road",
+      "id": "taiwan-46b4e8a5fad9931a99bb"
+    },
+    {
+      "name": "Taipei East Gate",
+      "kind": "do",
+      "locality": "Taipei/Zhongzheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "id": "taiwan-937301d1ce8b9f613ee6"
+    },
+    {
+      "name": "Taipei North Gate",
+      "kind": "do",
+      "locality": "Taipei/Zhongzheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "id": "taiwan-f269b2214ef9606ca666"
+    },
+    {
+      "name": "Taipei South Gate",
+      "kind": "do",
+      "locality": "Taipei/Zhongzheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "id": "taiwan-2f65ffaf883ec7fa7189"
+    },
+    {
+      "name": "Taipei Small South Gate",
+      "kind": "do",
+      "locality": "Taipei/Zhongzheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "id": "taiwan-2686ba2b45f5f485f470"
+    },
+    {
+      "name": "Taipei West Gate",
+      "kind": "do",
+      "locality": "Taipei/Zhongzheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "id": "taiwan-92e75872d5f7214c367c"
+    },
+    {
+      "name": "Museum of Drinking Water",
+      "kind": "do",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.0126878,
+      "lon": 121.5299576,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "49 Nanhai Rd",
+      "url": "http://engwaterpark.water.taipei/ct.asp?xItem=99268439&ctNode=77645&mp=114022",
+      "id": "taiwan-cefbe86a211a32340504"
+    },
+    {
+      "name": "National Taiwan Arts Education Center",
+      "kind": "do",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.031667,
+      "lon": 121.511667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "Nanhai Rd",
+      "url": "https://nchdb.boch.gov.tw/assets/overview/historicalBuilding/20130611000001",
+      "id": "taiwan-0f5aa0b2c883151ca96f"
+    },
+    {
+      "name": "228 Peace Memorial Park",
+      "kind": "do",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.0416,
+      "lon": 121.515,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "id": "taiwan-80a7f612f8405be77f6d"
+    },
+    {
+      "name": "Taipei Botanical Garden",
+      "kind": "do",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.03214,
+      "lon": 121.50949,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "id": "taiwan-c2ff228d1f1506eabe24"
+    },
+    {
+      "name": "Huashan 1914 Creative Park",
+      "kind": "do",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.044444,
+      "lon": 121.529444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "No. 1, Section 1, Bade Road",
+      "url": "https://www.huashan1914.com/w/huashan1914_en/index",
+      "id": "taiwan-19882c96efe8ca05d4fa"
+    },
+    {
+      "name": "Yixian Park",
+      "kind": "do",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.0477,
+      "lon": 121.520058,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "No. 46, Section 1, Zhongshan N Rd",
+      "id": "taiwan-b9bad4af733b0fb58676"
+    },
+    {
+      "name": "Hua Shan Cultural and Creative Industry Center",
+      "kind": "do",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.0446,
+      "lon": 121.529,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "1 Bade Rd, Sec 1",
+      "id": "taiwan-b6488393a0f3c2afb9c5"
+    },
+    {
+      "name": "Taipei Artist Village",
+      "kind": "do",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.0469,
+      "lon": 121.5226,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "No. 7 Beiping E. Rd.",
+      "url": "http://www.artistvillage.org/?lang=en",
+      "id": "taiwan-fd902cada43e9f9a9d80"
+    },
+    {
+      "name": "Treasure Hill Artist Village",
+      "kind": "do",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.01052,
+      "lon": 121.53244,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "No. 2, Alley 14, Ln. 230 Dingzhou Rd. Sec. 3",
+      "price": "Free",
+      "url": "http://www.artistvillage.org/?lang=en",
+      "id": "taiwan-f20377f236310f4e073d"
+    },
+    {
+      "name": "Zhongshan Hall",
+      "kind": "do",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.0432,
+      "lon": 121.5095,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "url": "http://www.csh.taipei.gov.tw/",
+      "id": "taiwan-d3897f537f7c0abf3d2d"
+    },
+    {
+      "name": "National Theater Hall and National Concert Hall",
+      "kind": "do",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.037017,
+      "lon": 121.519239,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "url": "http://www.cksmh.gov.tw/",
+      "id": "taiwan-19b180a7235fe9c11ee9"
+    },
+    {
+      "name": "Taipei Water Park",
+      "kind": "do",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.0141177,
+      "lon": 121.5317319,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "No. 1, Siyuan St",
+      "url": "http://engwaterpark.water.taipei/",
+      "id": "taiwan-2d3d89dce9c0de7d17f6"
+    },
+    {
+      "name": "Nanjichang Night Market",
+      "kind": "eat",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.02914,
+      "lon": 121.50596,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "url": "http://www.nanjichang.com.tw/",
+      "id": "taiwan-36fc7aa9bcd931718c36"
+    },
+    {
+      "name": "Happy Farm Vegetarian Restaurant",
+      "kind": "eat",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.018588,
+      "lon": 121.531771,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "2F, No 16, Lane 683, Roosevelt Road, Sec 3, Gongguang",
+      "url": "https://www.facebook.com/HappyFarmVegetarian/",
+      "id": "taiwan-57f991cdb8f7c0fc9eaa"
+    },
+    {
+      "name": "Su De Su Shi",
+      "kind": "eat",
+      "locality": "Taipei/Zhongzheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "No 21, Lane 283, Roosevelt Road, Sec 3, Gongguan",
+      "url": "https://www.facebook.com/sudeveg",
+      "id": "taiwan-faa5f0cbbffc5aad5c4a"
+    },
+    {
+      "name": "Thai Guo Xiao Guan",
+      "kind": "eat",
+      "locality": "Taipei/Zhongzheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "219 Tingzhou Rd Sec. 3",
+      "id": "taiwan-3046aea3e75234f47fad"
+    },
+    {
+      "name": "Three Idiots Toast and Curry",
+      "kind": "eat",
+      "locality": "Taipei/Zhongzheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "No 28, Lane 263, Roosevelt Road, Sec 3, Gongguan",
+      "url": "https://www.facebook.com/pg/Currytoast/about/?ref=page_internal",
+      "id": "taiwan-be5866290d87f82b9fe3"
+    },
+    {
+      "name": "Mary Jane's Pizza",
+      "kind": "eat",
+      "locality": "Taipei/Zhongzheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "89 Wenzhou St",
+      "price": "NT$180-300 for a pizza",
+      "url": "http://maryjanepizza.com/",
+      "id": "taiwan-d609ad7f14e2d477bc05"
+    },
+    {
+      "name": "Among Cafe",
+      "kind": "eat",
+      "locality": "Taipei/Zhongzheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "155 Nyingpo West Road",
+      "url": "https://www.facebook.com/people/%E9%98%BF%E5%A4%A2-among/61566885491914/",
+      "id": "taiwan-56bc281a87e769505d83"
+    },
+    {
+      "name": "Aura Cafe",
+      "kind": "eat",
+      "locality": "Taipei/Zhongzheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "No9, Lane 269, Roosevelt Road, Sec 3, Gongguan.",
+      "url": "https://www.facebook.com/CoffeeAura/",
+      "id": "taiwan-9cd7abc92e546ddade69"
+    },
+    {
+      "name": "Coffee Lab",
+      "kind": "eat",
+      "locality": "Taipei/Zhongzheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "No. 6, Lane 64, Section 2, Zhōngxiào East Road",
+      "id": "taiwan-9345b4918ffc4f8ec301"
+    },
+    {
+      "name": "Notch Cafe",
+      "kind": "eat",
+      "locality": "Taipei/Zhongzheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "35號, Section 1, Chongqing South Rd",
+      "url": "https://taiwaneater.com/notch-cafe/",
+      "id": "taiwan-e5c80bb6b16dc5b3137c"
+    },
+    {
+      "name": "Trilobite Cafe",
+      "kind": "eat",
+      "locality": "Taipei/Zhongzheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "No. 64-2, Section 2, Jìnán Road,",
+      "id": "taiwan-f0ce2eba75e82daeb568"
+    },
+    {
+      "name": "Taipei Brewery",
+      "kind": "eat",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.045906,
+      "lon": 121.535684,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "85 Bade Rd Sec. 2",
+      "url": "http://event.ttl-eshop.com.tw/tp/",
+      "id": "taiwan-c281a8cab00ce0502591"
+    },
+    {
+      "name": "The Wall Live House",
+      "kind": "eat",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.010832,
+      "lon": 121.536716,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "200 Roosevelt Road B1, Sec 4",
+      "url": "http://www.thewall.tw/",
+      "id": "taiwan-7eed9b93cfc318adc687"
+    },
+    {
+      "name": "Revolver",
+      "kind": "eat",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.034273,
+      "lon": 121.51741,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "No. 1-2, Section 1, Roosevelt Rd",
+      "url": "https://www.revolver.tw/",
+      "id": "taiwan-6c9794c247e7e4f22915"
+    },
+    {
+      "name": "Eight Elephants & Dreaming Dragon",
+      "kind": "stay",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.023933,
+      "lon": 121.522728,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "JinJiang Street, Lane 48, Alley 4, No. 6, 1F",
+      "price": "From NT$550 per night",
+      "url": "http://www.eehostel.com/",
+      "id": "taiwan-ec5c8f5a23b6b8bae865"
+    },
+    {
+      "name": "Camels' Oasis Hostel",
+      "kind": "stay",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.0261,
+      "lon": 121.522343,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "2F.-1, No.78, Ningbo W. St., Taipei city",
+      "price": "NT$300/night",
+      "id": "taiwan-2acae80dc9bffff28a6a"
+    },
+    {
+      "name": "Taipei Hostel",
+      "kind": "stay",
+      "locality": "Taipei/Zhongzheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "6F, No. 11, Lane 5, Linsen N. Rd",
+      "price": "Dorm: NT$300 (NT$1500/week). Single bed room: NT$500 (NT$2500/week)",
+      "url": "http://www.taipeihostel.com/",
+      "id": "taiwan-3af59986d8d9ef41553d"
+    },
+    {
+      "name": "World Scholar House",
+      "kind": "stay",
+      "locality": "Taipei/Zhongzheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "10-4, Guangzhou Street",
+      "url": "http://www.worldscholarhouse.com/",
+      "id": "taiwan-6fe17c4bd530e38b8df7"
+    },
+    {
+      "name": "Taipei Key Mall Traveler Hostel",
+      "kind": "stay",
+      "locality": "Taipei/Zhongzheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "15F-2, 50 Zhongxiao W. Rd. Sec. 1",
+      "price": "NT$490 per night per person and includes breakfast, NT$250 for children under 12",
+      "id": "taiwan-b4734a8733961bc5e547"
+    },
+    {
+      "name": "See You Hotel",
+      "kind": "stay",
+      "locality": "Taipei/Zhongzheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "18 Chongqing South Road, sec 1",
+      "price": "From NT$1,980",
+      "id": "taiwan-32a768774a793ab18637"
+    },
+    {
+      "name": "New Mayflower Hotel",
+      "kind": "stay",
+      "locality": "Taipei/Zhongzheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "1 Chongqing South Rd, Sec. 1",
+      "id": "taiwan-99ad90d41a800f3433a7"
+    },
+    {
+      "name": "Guest House Taiwanmex",
+      "kind": "stay",
+      "locality": "Taipei/Zhongzheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "No 18-1 Lane 18 Nanjing West Road.",
+      "price": "from NT$350",
+      "url": "http://www.taiwanmex.com/",
+      "id": "taiwan-d196aa3801374fd1cf9f"
+    },
+    {
+      "name": "Cosmos Hotel",
+      "kind": "stay",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.046348,
+      "lon": 121.518348,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "43 Zhongxiao West Rd, sec. 1",
+      "url": "http://www.cosmos-hotel.com.tw/",
+      "id": "taiwan-b81e567d3092d3dcd39e"
+    },
+    {
+      "name": "Hotel Flowers",
+      "kind": "stay",
+      "locality": "Taipei/Zhongzheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "19 Hankou St",
+      "id": "taiwan-2745af097868ab1dc055"
+    },
+    {
+      "name": "YMCA",
+      "kind": "stay",
+      "locality": "Taipei/Zhongzheng",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "19 Xuchang St",
+      "url": "http://www.ymcataipei.org.tw/",
+      "id": "taiwan-a6b230fd56ce44ba8548"
+    },
+    {
+      "name": "Caesar Park Taipei",
+      "kind": "stay",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.046234,
+      "lon": 121.516419,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "38 Zhongxiao West Rd, Sec. 1",
+      "url": "http://taipei.caesarpark.com.tw/",
+      "id": "taiwan-aedb8a8e3b9acc74ed0e"
+    },
+    {
+      "name": "Sheraton Grand Taipei Hotel",
+      "kind": "stay",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.044582,
+      "lon": 121.522227,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "address": "12 Zhongxiao East Rd, Sec. 1",
+      "url": "https://www.marriott.com/hotels/travel/tpest-sheraton-grand-taipei-hotel/",
+      "id": "taiwan-e587b1d351f1509cdf45"
+    },
+    {
+      "name": "Taipei/Zhongzheng",
+      "kind": "area",
+      "locality": "Taipei/Zhongzheng",
+      "lat": 25.0323,
+      "lon": 121.5181,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongzheng",
+      "id": "taiwan-1f26cf6302465fda004d"
+    },
+    {
+      "name": "Daan Forest Park",
+      "kind": "do",
+      "locality": "Taipei/East District",
+      "lat": 25.030178,
+      "lon": 121.535692,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "price": "Free",
+      "id": "taiwan-23a5479ca628f47c95d4"
+    },
+    {
+      "name": "Discover Center Of Taipei",
+      "kind": "do",
+      "locality": "Taipei/East District",
+      "lat": 25.03753,
+      "lon": 121.56381,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "1 Shifu Rd",
+      "price": "Free",
+      "url": "http://discovery.gov.taipei/en",
+      "id": "taiwan-ad5cb239a3b06485f7d7"
+    },
+    {
+      "name": "Songshan Cultural and Creative Park",
+      "kind": "do",
+      "locality": "Taipei/East District",
+      "lat": 25.043611,
+      "lon": 121.5625,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "No. 133, Guangfu South Road, Xinyi District",
+      "url": "https://www.songshanculturalpark.org/english",
+      "id": "taiwan-424150cb602560c6513f"
+    },
+    {
+      "name": "Sun Yat-sen Memorial Hall",
+      "kind": "do",
+      "locality": "Taipei/East District",
+      "lat": 25.04,
+      "lon": 121.56,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "url": "https://www.yatsen.gov.tw/en/",
+      "id": "taiwan-fd6f668b4ce7ee037163"
+    },
+    {
+      "name": "Taipei 101",
+      "kind": "do",
+      "locality": "Taipei/East District",
+      "lat": 25.033611,
+      "lon": 121.565,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "url": "http://www.taipei-101.com.tw/",
+      "id": "taiwan-3cd57ea8edcb0232aae0"
+    },
+    {
+      "name": "Taipei 101 Indoor Observatory",
+      "kind": "do",
+      "locality": "Taipei/East District",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "price": "NT$600 for adults, NT$370 for kids under 12",
+      "url": "http://www.taipei-101.com.tw/index_en.htm",
+      "id": "taiwan-ddec5e973a4a77cdb883"
+    },
+    {
+      "name": "Taipei 101 Outdoor Observatory",
+      "kind": "do",
+      "locality": "Taipei/East District",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "price": "Included in Taipei 101 Observatory price",
+      "url": "http://www.taipei-101.com.tw/index_en.htm",
+      "id": "taiwan-97c25607a73b14023c76"
+    },
+    {
+      "name": "Yongkang Street",
+      "kind": "do",
+      "locality": "Taipei/East District",
+      "lat": 25.031689,
+      "lon": 121.529598,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "url": "http://www.ladyironchef.com/2017/01/yong-kang-street-restaurants/",
+      "id": "taiwan-97f52e42d59fa8cc0995"
+    },
+    {
+      "name": "Taipei Grand Mosque",
+      "kind": "do",
+      "locality": "Taipei/East District",
+      "lat": 25.027933,
+      "lon": 121.534219,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "No. 62, Sec. 2, Xing Sheng South Road, Da'an District",
+      "id": "taiwan-58ea5d8ad8a87e13254a"
+    },
+    {
+      "name": "Elephant Mountain Hiking Trail",
+      "kind": "do",
+      "locality": "Taipei/East District",
+      "lat": 25.02738,
+      "lon": 121.57074,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "id": "taiwan-372d315768feaedfe3b0"
+    },
+    {
+      "name": "Tong Hua Night Market",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "lat": 25.03027,
+      "lon": 121.554223,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "Alley 1, Lane 40, Linjiang Street, Da’an District",
+      "price": "Free",
+      "url": "http://theshutterwhale.com/blog/2015/5/10/taipei-tonghua-yeshi-night-market",
+      "id": "taiwan-a6738d015241b82cf105"
+    },
+    {
+      "name": "AiYu's Dream Journey Grass Jelly",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "Tonghua Street No. 56 (臺北大安區通化街56號)",
+      "id": "taiwan-f55751cb8ce380aa971c"
+    },
+    {
+      "name": "Kiki Restaurant",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "28, Fuxing South Road Sec. 1",
+      "url": "http://www.kiki1991.com/",
+      "id": "taiwan-55e38285d9b54eed9639"
+    },
+    {
+      "name": "Mani Mani",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "19, Lane 233, Dunhua South Road, Sec 1",
+      "url": "https://www.facebook.com/manimanivegan/",
+      "id": "taiwan-03660dcf851033506484"
+    },
+    {
+      "name": "Thanh Ky",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "1, Lane 6, Yongkang Street",
+      "id": "taiwan-d1da1f72a8b9edd514e1"
+    },
+    {
+      "name": "The Pengs' Traditional Hong Kong Cuisine",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "Guangfu South Road, Lane 240, No. 49",
+      "url": "http://thepengs.weebly.com/",
+      "id": "taiwan-82a3d40876fa7d4fcd59"
+    },
+    {
+      "name": "Yin-Yih Restaurant",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "2F 18 Jinshan South Rd Sec. 2",
+      "id": "taiwan-cd0f0f822fdf24634134"
+    },
+    {
+      "name": "Yongkang Beef Noodle",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "lat": 25.032911,
+      "lon": 121.528092,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "17, Lane 31, Jinshan South Road Sec. 2",
+      "url": "http://www.beefnoodle-master.com/",
+      "id": "taiwan-cdf814a168d24a4a3d62"
+    },
+    {
+      "name": "KingSpicy J",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "lat": 25.029278,
+      "lon": 121.560617,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "No. 12, Aly. 25, Ln. 118, Wuxing St",
+      "price": "TWD 60~180",
+      "url": "https://www.facebook.com/kingspicy888",
+      "id": "taiwan-4f88770adea48378fff9"
+    },
+    {
+      "name": "Alleycat's Pizza",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "6-1 Lishui St B1",
+      "url": "http://www.alleycatspizza.com/",
+      "id": "taiwan-51749751fe24d5cdf341"
+    },
+    {
+      "name": "Din Tai Fung",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "lat": 25.03348,
+      "lon": 121.530102,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "194 Xinyi Rd Sec. 2",
+      "url": "http://www.dintaifung.com.tw/",
+      "id": "taiwan-9ad772fa2659c54907e8"
+    },
+    {
+      "name": "Niu Ba Ba (688 Beef Bowl)",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "lat": 25.068907,
+      "lon": 121.59454,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "No. 149, Section 6, Minquan East Road, Neihu District",
+      "id": "taiwan-662a1756d619e03df865"
+    },
+    {
+      "name": "Shinyeh's Table",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "lat": 25.041377,
+      "lon": 121.546926,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "2F 201 Zhongxiao East Road Sec.4",
+      "id": "taiwan-c1170be7a6511bc9c92d"
+    },
+    {
+      "name": "Flavors restaurant",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "Ren Ai Rd. Sec.4 No.13 Alley 26 Lane 300",
+      "id": "taiwan-c0190920827c5fbeced8"
+    },
+    {
+      "name": "Jimmy's Kitchen",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "lat": 25.038169,
+      "lon": 121.547469,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "77 Ren Ai Rd, Sec. 4 B1",
+      "id": "taiwan-3f9ecc457043305c2a59"
+    },
+    {
+      "name": "Pearl Liang",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "2 Songshou Rd 2F",
+      "url": "https://www.taipei.hyatt.com/",
+      "id": "taiwan-3d8615a63ea650194f31"
+    },
+    {
+      "name": "Peking Do It True",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "506 Renai Rd Sec. 4",
+      "id": "taiwan-359c4a8cb5c2e800295d"
+    },
+    {
+      "name": "Shang Palace",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "6F, 201 Dunhua South Rd Sec. 2",
+      "url": "http://www.shangri-la.com/",
+      "id": "taiwan-37fe78ae82d5e146327c"
+    },
+    {
+      "name": "San Niu",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "Da An Rd, Sec. 1, Alley 169 #3",
+      "id": "taiwan-d84f681b93b57481218a"
+    },
+    {
+      "name": "Whalen's",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "No. 145, Section 2, Ānhé Rd, Daan District",
+      "id": "taiwan-dabcb5ab90d01a4c7be7"
+    },
+    {
+      "name": "a.se Cafe",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "1F, 95 Yunhe Street, Daan District",
+      "url": "https://www.facebook.com/asecafetw/",
+      "id": "taiwan-396c59c1e86068717ebc"
+    },
+    {
+      "name": "Cafe Moda Taipei",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "lat": 25.06663,
+      "lon": 121.555824,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "1F, No 11, Lane 49, Sec 1, Anhe Road, Daan District",
+      "price": "Coffee beverages between NT$120 and NT$200",
+      "id": "taiwan-0d07fd942c73e8437bee"
+    },
+    {
+      "name": "Minimal Cafe",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "lat": 25.025606,
+      "lon": 121.529545,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "106台北市Taipei泰順街2巷 Tai4Shun4 Jie1 Lane 2, #42, Daan District",
+      "url": "http://www.wretch.cc/blog/kurama622/13629771",
+      "id": "taiwan-4c653b3caa1f5ff4254c"
+    },
+    {
+      "name": "Martinez Coffee",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "26-28, Lane 243, Jinhua Street",
+      "id": "taiwan-683f390e245db6b9d8c5"
+    },
+    {
+      "name": "Out of Office Coffee Roastery",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "207 Jinhua Street, Da-An District",
+      "id": "taiwan-9cb712f558e131dd2622"
+    },
+    {
+      "name": "Saturn Landing Turkish Coffee",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "14-2, Lane 75, Yongkang Street, Da'an.",
+      "price": "NT$200 cappuccino",
+      "url": "https://www.facebook.com/saturnlandingturkishcoffee/",
+      "id": "taiwan-b9a28bd59d98c61a2d2a"
+    },
+    {
+      "name": "Carnegies",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "100 Anhe Rd Sec 2",
+      "id": "taiwan-865314627010f2c06494"
+    },
+    {
+      "name": "Club Myst",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "No. 12, 9F, ATT4FUN Building, Song Shou Rd, Xinyi Dist",
+      "price": "NT$700",
+      "id": "taiwan-2fd2b86c97e03d62b72a"
+    },
+    {
+      "name": "Elektro",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "6F, ATT4FUN Building, Song Shou Rd, Xinyi Dist",
+      "id": "taiwan-5d4b35d52c441557d407"
+    },
+    {
+      "name": "Fourplay Cuisine",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "67 Dongfeng St",
+      "id": "taiwan-672818b84d3192821d43"
+    },
+    {
+      "name": "Luxy",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "5F, 201 Zhongxiao E. Rd Section 4, Daan District",
+      "url": "http://www.luxy-taipei.com/",
+      "id": "taiwan-91c44ffd7d50eb5709e1"
+    },
+    {
+      "name": "Ziga Zaga",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "No.2, Song Shou Road Grand Hyatt Taipei",
+      "url": "https://taipei.grand.hyatt.com/",
+      "id": "taiwan-f4f23594bc42bceed151"
+    },
+    {
+      "name": "Stop By Teahouse",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "lat": 25.03047,
+      "lon": 121.52925,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "Lane 13, Lishui St",
+      "url": "https://www.facebook.com/stopbyteahouse",
+      "id": "taiwan-e8450a137cc5a4fe8899"
+    },
+    {
+      "name": "Teng",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "29, Lane 61, Linyi Street",
+      "id": "taiwan-b46d20a69a7ccdba8a92"
+    },
+    {
+      "name": "Wistaria House",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "lat": 25.02477,
+      "lon": 121.53446,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "16 Xinsheng South Road, Sec 3",
+      "url": "http://www.wistariahouse.com/",
+      "id": "taiwan-a19deaac8b40546688e0"
+    },
+    {
+      "name": "Happy Fruit Juice Bar",
+      "kind": "eat",
+      "locality": "Taipei/East District",
+      "lat": 25.033536,
+      "lon": 121.565064,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "53 Yongkang Street",
+      "id": "taiwan-2847436b98fd93569f46"
+    },
+    {
+      "name": "Fu-Hau Hotel",
+      "kind": "stay",
+      "locality": "Taipei/East District",
+      "lat": 25.032748,
+      "lon": 121.543815,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "No.9, Sec. 2, Fuxing South Rd",
+      "url": "http://www.fuhauhotel.com.tw/",
+      "id": "taiwan-5f55ea4e967bc65b5ba7"
+    },
+    {
+      "name": "KDM Hotel",
+      "kind": "stay",
+      "locality": "Taipei/East District",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "No.8, Sec. 3, Jhongsiao E. Rd., Da-an District",
+      "url": "http://www.kdmhotel.com.tw/en/",
+      "id": "taiwan-398ff9a3de7bcdc71636"
+    },
+    {
+      "name": "Les Suites Daan Taipei",
+      "kind": "stay",
+      "locality": "Taipei/East District",
+      "lat": 25.038626,
+      "lon": 121.546294,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "135 Daan Road Sec. 1",
+      "url": "http://www.hotelsuitesda-an.com/",
+      "id": "taiwan-ca0aeb79ed7c8147c94b"
+    },
+    {
+      "name": "Royal Best Suites",
+      "kind": "stay",
+      "locality": "Taipei/East District",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "385 Xinyi Rd, Sec. 4",
+      "id": "taiwan-19c7f1cdad42ac8e77e7"
+    },
+    {
+      "name": "Taipei Fullerton Fu-Xing South",
+      "kind": "stay",
+      "locality": "Taipei/East District",
+      "lat": 25.031403,
+      "lon": 121.543857,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "41 Fuxing South Road, sec. 2",
+      "url": "http://www.taipeifullerton.com.tw/html/eng_south/about_us.htm",
+      "id": "taiwan-e2fe8462698030048699"
+    },
+    {
+      "name": "Le Méridien Taipei",
+      "kind": "stay",
+      "locality": "Taipei/East District",
+      "lat": 25.03799,
+      "lon": 121.56793,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "38 Songren Rd",
+      "url": "https://www.marriott.com/hotels/travel/tpedm-le-meridien-taipei/",
+      "id": "taiwan-4d6e15d6fac80b52503c"
+    },
+    {
+      "name": "Grand Hyatt Taipei",
+      "kind": "stay",
+      "locality": "Taipei/East District",
+      "lat": 25.035278,
+      "lon": 121.5625,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "2 Songshou Rd",
+      "price": "From NT$9000",
+      "url": "https://www.hyatt.com/en-US/hotel/taiwan/grand-hyatt-taipei/taigh",
+      "id": "taiwan-c246173111188bb004bc"
+    },
+    {
+      "name": "Howard Plaza Hotel",
+      "kind": "stay",
+      "locality": "Taipei/East District",
+      "lat": 25.0375,
+      "lon": 121.5431,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "160 Renai Rd, Sec. 3",
+      "url": "http://taipei.howard-hotels.com/",
+      "id": "taiwan-7055726ad22b8c43ee89"
+    },
+    {
+      "name": "Shangri-La Far Eastern Plaza Hotel",
+      "kind": "stay",
+      "locality": "Taipei/East District",
+      "lat": 25.0264,
+      "lon": 121.54926,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "201 Dunhua South Rd, Sec. 2.",
+      "url": "http://www.shangri-la.com/taipei/fareasternplaza/en",
+      "id": "taiwan-cf3b4c32fa1bf0cf084f"
+    },
+    {
+      "name": "W Taipei",
+      "kind": "stay",
+      "locality": "Taipei/East District",
+      "lat": 25.040667,
+      "lon": 121.565472,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "address": "10 Zhongxioa East Road, Sec. 5",
+      "url": "https://www.marriott.com/hotels/travel/tpewh-w-taipei/",
+      "id": "taiwan-36443e45d95634b20e5f"
+    },
+    {
+      "name": "Taipei/East District",
+      "kind": "area",
+      "locality": "Taipei/East District",
+      "lat": 25.0358,
+      "lon": 121.5683,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FEast_District",
+      "id": "taiwan-c3b1ff4613e75aa11d5c"
+    },
+    {
+      "name": "Grand Hotel",
+      "kind": "do",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.078306,
+      "lon": 121.526269,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "url": "http://www.grand-hotel.org/",
+      "id": "taiwan-f1175f6581a1a1bf7e1e"
+    },
+    {
+      "name": "Martyr's Shrine",
+      "kind": "do",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.078406,
+      "lon": 121.533043,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "139 Beian Road",
+      "url": "https://afrc.mnd.gov.tw/faith_martyr_en/Content.aspx?ID=&MenuID=453&MP=2",
+      "id": "taiwan-e9267cf43dac0decf12e"
+    },
+    {
+      "name": "Xingtian Temple",
+      "kind": "do",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.0633232,
+      "lon": 121.5341639,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "Corner of Minquan East Road and Songjiang Road",
+      "url": "http://www.ht.org.tw/",
+      "id": "taiwan-2dd028a164a831317af0"
+    },
+    {
+      "name": "Taipei Cultural Mosque",
+      "kind": "do",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.019389,
+      "lon": 121.52795,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "No. 3, Lane 25, Sec. 1, Xinhai Road, Zhongzheng District",
+      "id": "taiwan-f880fd3f055a51d14ee4"
+    },
+    {
+      "name": "Miniatures Museum of Taiwan",
+      "kind": "do",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.050286,
+      "lon": 121.536167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "B1, 96 Jianguo North Rd, Sec. 1",
+      "price": "Adults NT$250, concessions NT$200, children NT$150, Concessions-Elderly NT$125",
+      "url": "https://www.mmot.com.tw/",
+      "id": "taiwan-27a40a29e4a0731c60cc"
+    },
+    {
+      "name": "Su Ho Memorial Paper Museum",
+      "kind": "do",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.048258,
+      "lon": 121.533594,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "68 Changan East Rd Sec. 2",
+      "price": "NT$100, NT$180 with paper making",
+      "url": "http://www.suhopaper.org.tw/en/en_index.html",
+      "id": "taiwan-5a41b250df7bf0511f54"
+    },
+    {
+      "name": "Taipei Fine Arts Museum",
+      "kind": "do",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.0721,
+      "lon": 121.5248,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "181 Zhongshan North Rd Sec. 3",
+      "url": "https://www.tfam.museum/",
+      "id": "taiwan-2ef297288e980062ad47"
+    },
+    {
+      "name": "Taipei Story House",
+      "kind": "do",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.0731672,
+      "lon": 121.5246254,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "url": "http://www.storyhouse.com.tw/",
+      "id": "taiwan-2d57ce17e24649f52e83"
+    },
+    {
+      "name": "Dajia Riverside Park",
+      "kind": "do",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.074894,
+      "lon": 121.539652,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "price": "NT$30",
+      "id": "taiwan-87c30ac431dbbac7c521"
+    },
+    {
+      "name": "Zhongshan Fine Arts Park",
+      "kind": "do",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.07048,
+      "lon": 121.524289,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "price": "NT$30",
+      "id": "taiwan-84191645054be9f853ac"
+    },
+    {
+      "name": "Songshan Cultural and Creative Park",
+      "kind": "do",
+      "locality": "Taipei/Zhongshan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "url": "http://www.songshanculturalpark.org/",
+      "id": "taiwan-180a93d39d87679da87f"
+    },
+    {
+      "name": "Children's Recreation Center",
+      "kind": "do",
+      "locality": "Taipei/Zhongshan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "url": "http://english.tcap.taipei/",
+      "id": "taiwan-7e53f1c71f44bff4ab1c"
+    },
+    {
+      "name": "Miramar Entertainment Park",
+      "kind": "do",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.082957,
+      "lon": 121.557462,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "22 Jinye 3rd Road (敬業三路22號)",
+      "price": "NT$150 on weekdays and NT$200 on weekends",
+      "url": "https://eng.taiwan.net.tw/m1.aspx?sno=0002090&id=4676",
+      "id": "taiwan-12287b7ca21423ea5b59"
+    },
+    {
+      "name": "Spot - Taipei Film House",
+      "kind": "do",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.053274,
+      "lon": 121.522198,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "Zhongshan North Rd, Sec. 2",
+      "url": "http://www.spot.org.tw/",
+      "id": "taiwan-5b428d5e729a3879d114"
+    },
+    {
+      "name": "TaipeiEYE",
+      "kind": "do",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.060635,
+      "lon": 121.523399,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "No 113, Sec 2, Zhongshan North Rd",
+      "url": "http://www.taipeieye.com/eng/",
+      "id": "taiwan-5474d1b8ff25b3d6434b"
+    },
+    {
+      "name": "Shijie Vegetarian Restaurant",
+      "kind": "eat",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.049658,
+      "lon": 121.519991,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "No 9, Alley 6, Lane 40, Changan West Road",
+      "url": "https://zh-tw.facebook.com/pages/%E4%B8%96%E7%95%8C%E7%B4%A0%E9%A3%9F%E9%A4%A8/197304127008721",
+      "id": "taiwan-e6bb215cbd8700a913bb"
+    },
+    {
+      "name": "Tandoor Indian Restaurant",
+      "kind": "eat",
+      "locality": "Taipei/Zhongshan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "10, Lane 73, Hejiang Street",
+      "url": "https://www.facebook.com/tandoor.taipei/",
+      "id": "taiwan-1ce2950828bb35e5a62f"
+    },
+    {
+      "name": "Xian Ding Wei Restaurant",
+      "kind": "eat",
+      "locality": "Taipei/Zhongshan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "67 Changan East Rd Sec 1 (總店)",
+      "id": "taiwan-bc132db626041874b8f0"
+    },
+    {
+      "name": "Addiction Aquatic Development",
+      "kind": "eat",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.066655,
+      "lon": 121.537015,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "No. 18, Alley 2, Lane 410, Minzu East Road",
+      "url": "http://www.addiction.com.tw/",
+      "id": "taiwan-59d2400bb424fb40ef72"
+    },
+    {
+      "name": "Blossom Rena Vegan Cafe",
+      "kind": "eat",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.065207,
+      "lon": 121.521659,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "No. 26-1, Section 3, Zhongshan N Rd, Zhongshan District",
+      "url": "https://www.facebook.com/BlossomRenaVeganCafe/",
+      "id": "taiwan-b76f5df96a5c450439d2"
+    },
+    {
+      "name": "Thai Star",
+      "kind": "eat",
+      "locality": "Taipei/Zhongshan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "Fu Xing N. Rd. Alley 231 #2",
+      "id": "taiwan-82f9924f970f829e1e8a"
+    },
+    {
+      "name": "Tien Hsiang Lo",
+      "kind": "eat",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.062796,
+      "lon": 121.530041,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "B1, 41 Minquan East Rd, Sec. 2",
+      "url": "http://taipei.landishotelsresorts.com/restaurant_page.aspx",
+      "id": "taiwan-d7d7d6845e0006dca381"
+    },
+    {
+      "name": "Ching-Yeh Aoba",
+      "kind": "eat",
+      "locality": "Taipei/Zhongshan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "10, Lane 105, Zhongshan North Road Sec. 1",
+      "id": "taiwan-be6df98607f1c794e3cf"
+    },
+    {
+      "name": "Mitsui Japanese Cuisine",
+      "kind": "eat",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.064832,
+      "lon": 121.526737,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "30 Nong-an St",
+      "url": "http://www.mitsuitaipei.com.tw/en/home.html",
+      "id": "taiwan-d0577d6759883d7bccfe"
+    },
+    {
+      "name": "Shabu Sen",
+      "kind": "eat",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.062917,
+      "lon": 121.525235,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "63, Minquan East Road, Sec. 1",
+      "id": "taiwan-f6f874cfeb285834f423"
+    },
+    {
+      "name": "Ruth's Chris Steak House",
+      "kind": "eat",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.058057,
+      "lon": 121.548473,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "2F, 135 Minsheng East Road, Sec 3",
+      "url": "http://www.ruthschris.com/",
+      "id": "taiwan-a6c30bc6d2db2b75ffdf"
+    },
+    {
+      "name": "Wang Steak House",
+      "kind": "eat",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.0324,
+      "lon": 121.557273,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "169 Nanjing East Rd Sec 4",
+      "url": "http://www.wangsteak.com.tw/",
+      "id": "taiwan-353d49c75ef030927187"
+    },
+    {
+      "name": "GaBee",
+      "kind": "eat",
+      "locality": "Taipei/Zhongshan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "No 21, Minsheng East Road, Section 3, Alley 113",
+      "url": "http://gabee-cafe.blogspot.com/",
+      "id": "taiwan-2bade0d47aa7d9662dc2"
+    },
+    {
+      "name": "Libo Cafe",
+      "kind": "eat",
+      "locality": "Taipei/Zhongshan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "12, Lane 42, Section 2, Zhongshan North Road",
+      "url": "https://www.kao-gourmet.com/taipei-x-zhongshan/libo-cafe-x-kao",
+      "id": "taiwan-b675c5a1fc87448c5216"
+    },
+    {
+      "name": "Recall Cafe",
+      "kind": "eat",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.054634,
+      "lon": 121.520959,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "No 34, Lane 42 Zhongshan North Road, Sec 2",
+      "id": "taiwan-1734dafe4993654b13a5"
+    },
+    {
+      "name": "Wooden Sounds and Garnet Cru",
+      "kind": "eat",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.053979,
+      "lon": 121.521111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "23, Lane 26, Section 2, Zhongshan North Road",
+      "url": "https://www.facebook.com/%E9%9F%BF%E6%9D%BF-Woodensounds-Garnet-Cru-568338536528830/",
+      "id": "taiwan-5c9ba74621e08466b328"
+    },
+    {
+      "name": "Standing Room",
+      "kind": "eat",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.054381,
+      "lon": 121.547681,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "508 Changchun Rd",
+      "id": "taiwan-b229c7f0689104bc2202"
+    },
+    {
+      "name": "My Place Bar & Restaurant",
+      "kind": "eat",
+      "locality": "Taipei/Zhongshan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "No.3-1 Lane 32 Shuang Cheng St",
+      "id": "taiwan-ac2cdc6ba5a074376589"
+    },
+    {
+      "name": "The Brass Monkey",
+      "kind": "eat",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.053681,
+      "lon": 121.543836,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "166 Fuxing N. Rd",
+      "id": "taiwan-36f5f78ca2961d315283"
+    },
+    {
+      "name": "Donghwa Hotel",
+      "kind": "stay",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.051407,
+      "lon": 121.55627,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "No.156, Sec 4, Nanjing East Rd",
+      "id": "taiwan-c263f9c335243ecb864e"
+    },
+    {
+      "name": "Happy Family Hostel 1 & 2",
+      "kind": "stay",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.048567,
+      "lon": 121.52049,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "2, Lane 56, Zhongshan North Road Sec. 1",
+      "price": "Dorm: NT$400, Single: NT$700, Cheaper rates are available for long term stays",
+      "id": "taiwan-2354f7731f089807615f"
+    },
+    {
+      "name": "Homey Hostel",
+      "kind": "stay",
+      "locality": "Taipei/Zhongshan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "7F, No. 180, Changan West Road, Zhongshan District",
+      "url": "https://www.homeyhostel.com/",
+      "id": "taiwan-4d46f9738ed2ffe81edb"
+    },
+    {
+      "name": "Jiantan Overseas Youth Activity Center",
+      "kind": "stay",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.077578,
+      "lon": 121.524377,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "16 Zhongshan North Road, Sec.4, Zhongshan District",
+      "price": "Twin room: NT$2,200-2,500, Double room: NT$3,200, Six single beds: NT$4,500",
+      "url": "http://chientan.cyh.org.tw/?lang=en",
+      "id": "taiwan-57af9ad2f407c5479df4"
+    },
+    {
+      "name": "Travel Talk Taipei Backpackers",
+      "kind": "stay",
+      "locality": "Taipei/Zhongshan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "2F, No.96, Sec.2, Minquan E. Rd., Taipei city",
+      "price": "From NT$400/night",
+      "url": "https://www.dorms.com/youth-Hostel/Travel-Talk-Taipei-Backpackers-Hostel/81295",
+      "id": "taiwan-7418416f68d2dd847f50"
+    },
+    {
+      "name": "Check Inn",
+      "kind": "stay",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.059473,
+      "lon": 121.533386,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "253 Songjiang Road, Zhongshan District",
+      "price": "NT$5,000 +",
+      "id": "taiwan-dc08d98ea5874066e09b"
+    },
+    {
+      "name": "First Hotel",
+      "kind": "stay",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.052302,
+      "lon": 121.530297,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "63 Nanjing East Road, sec. 2",
+      "url": "http://www.firsthoteltaipei.com/",
+      "id": "taiwan-7dc330a1e58663d81f69"
+    },
+    {
+      "name": "Hotel B",
+      "kind": "stay",
+      "locality": "Taipei/Zhongshan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "367 Bade Road, sec. 2",
+      "url": "http://www.hotelb.com.tw/",
+      "id": "taiwan-cdebd053a46fb583aaf3"
+    },
+    {
+      "name": "Les Suites Ching-Cheng Hotel",
+      "kind": "stay",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.0528,
+      "lon": 121.545,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "12 Chingcheng St",
+      "url": "http://www.hotelsuitesching-cheng.com/",
+      "id": "taiwan-33fb5fb95fea4b5b0035"
+    },
+    {
+      "name": "The Leofoo Hotel",
+      "kind": "stay",
+      "locality": "Taipei/Zhongshan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "168 Changchun Rd",
+      "url": "http://www.leofoo.com.tw/hotel/index_en.php",
+      "id": "taiwan-f445233af2b4363a33cd"
+    },
+    {
+      "name": "The Riviera Hotel",
+      "kind": "stay",
+      "locality": "Taipei/Zhongshan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "646 Linsen North Rd., TaipeiI, 104",
+      "url": "http://www.rivierataipei.com/index.asp",
+      "id": "taiwan-e73d4ad6f4b9f7a90c9a"
+    },
+    {
+      "name": "Grand Victoria Hotel",
+      "kind": "stay",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.0845182,
+      "lon": 121.5587857,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "168 Jingye 4th Rd",
+      "url": "http://www.grandvictoria.com.tw/en/main.php",
+      "id": "taiwan-80d4f712ae33f8cb845e"
+    },
+    {
+      "name": "Regent Taipei",
+      "kind": "stay",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.0540345,
+      "lon": 121.5248317,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "No 3, Lane 39, Section 2, Zhongshan North Road",
+      "url": "http://www.regenttaipei.com/en/",
+      "id": "taiwan-a5ab9721cdefb9d3c0f2"
+    },
+    {
+      "name": "The Grand Hotel",
+      "kind": "stay",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.078306,
+      "lon": 121.526269,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "1 Zhongshan North Road, sec. 4",
+      "price": "US$100 up",
+      "url": "http://www.grand-hotel.org/",
+      "id": "taiwan-4b0c7c74acbea2d92ebd"
+    },
+    {
+      "name": "The Landis",
+      "kind": "stay",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.062831,
+      "lon": 121.53007,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "41 Minquan East Rd, Sec. 2",
+      "url": "http://taipei.landishotelsresorts.com/",
+      "id": "taiwan-dc5989c80af0a32896e5"
+    },
+    {
+      "name": "Hotel Metropolitan Premier Taipei",
+      "kind": "stay",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.052443,
+      "lon": 121.541318,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "133 Nanjing East Road, Sec. 3",
+      "url": "https://taipei.hotel-metropolitan.com/",
+      "id": "taiwan-d2cdf76d0d9db678726e"
+    },
+    {
+      "name": "The Okura Prestige Taipei",
+      "kind": "stay",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.052516,
+      "lon": 121.523363,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "address": "9 Nanjing East Rd, Sec. 1",
+      "url": "https://www.okurataipei.com.tw/",
+      "id": "taiwan-d7b12000e80abbbd3bc9"
+    },
+    {
+      "name": "Taipei/Zhongshan",
+      "kind": "area",
+      "locality": "Taipei/Zhongshan",
+      "lat": 25.0689,
+      "lon": 121.53306,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FZhongshan",
+      "id": "taiwan-c2b1f4622352090a5237"
+    },
+    {
+      "name": "Beitou Hot Springs Museum",
+      "kind": "do",
+      "locality": "Taipei/Beitou",
+      "lat": 25.13658,
+      "lon": 121.50715,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FBeitou",
+      "address": "No.2, Jhongshan Rd",
+      "price": "Free",
+      "url": "https://hotspringmuseum.taipei/en/index.aspx",
+      "id": "taiwan-b769d2b18db25f3eff74"
+    },
+    {
+      "name": "Ketagalan Cultural Center",
+      "kind": "do",
+      "locality": "Taipei/Beitou",
+      "lat": 25.137096,
+      "lon": 121.505809,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FBeitou",
+      "address": "3-1 Zhongshan Road",
+      "url": "https://www.english.katagalan.gov.taipei/",
+      "id": "taiwan-627419da1dc9e97ef249"
+    },
+    {
+      "name": "Kuandu Museum of Fine Arts",
+      "kind": "do",
+      "locality": "Taipei/Beitou",
+      "lat": 25.1333,
+      "lon": 121.4715,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FBeitou",
+      "address": "No.1, Syueyuan Rd",
+      "url": "https://kdmofa.tnua.edu.tw/en/",
+      "id": "taiwan-c90c5d7a28141c1cbe1f"
+    },
+    {
+      "name": "Beitou Park",
+      "kind": "do",
+      "locality": "Taipei/Beitou",
+      "lat": 25.136,
+      "lon": 121.506,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FBeitou",
+      "address": "Xinshi Street",
+      "id": "taiwan-5986de5d130b8fe5e265"
+    },
+    {
+      "name": "Geothermal Valley",
+      "kind": "do",
+      "locality": "Taipei/Beitou",
+      "lat": 25.137745,
+      "lon": 121.511581,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FBeitou",
+      "address": "No. 30, Xinshi Street",
+      "id": "taiwan-6e846f5dc2dec97494b3"
+    },
+    {
+      "name": "Millennium Hot Spring",
+      "kind": "do",
+      "locality": "Taipei/Beitou",
+      "lat": 25.136922,
+      "lon": 121.508381,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FBeitou",
+      "price": "NT$40 (plus NT$20 for a locker)",
+      "id": "taiwan-4fef6d9478baa0ce45fa"
+    },
+    {
+      "name": "Emperor Spa",
+      "kind": "do",
+      "locality": "Taipei/Beitou",
+      "lat": 25.14017,
+      "lon": 121.53044,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FBeitou",
+      "price": "$250",
+      "url": "http://www.emperorspa.com.tw/",
+      "id": "taiwan-25726d8d57e9b122938b"
+    },
+    {
+      "name": "Amalfi",
+      "kind": "eat",
+      "locality": "Taipei/Beitou",
+      "lat": 25.1326,
+      "lon": 121.4973,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FBeitou",
+      "address": "No.2, Lane 516, Daye Road",
+      "id": "taiwan-3abd7d58e81e0cebb85d"
+    },
+    {
+      "name": "Shanxi Beef Noodles",
+      "kind": "eat",
+      "locality": "Taipei/Beitou",
+      "lat": 25.13424,
+      "lon": 121.50239,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FBeitou",
+      "address": "No. 142-1, Guangming Rd",
+      "price": "NT$40-200",
+      "id": "taiwan-d309baafee66e0f287e7"
+    },
+    {
+      "name": "Shipai Night Market",
+      "kind": "eat",
+      "locality": "Taipei/Beitou",
+      "lat": 25.116,
+      "lon": 121.516,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FBeitou",
+      "address": "Yumin 1st Rd",
+      "id": "taiwan-e14862d36585bedd4de4"
+    },
+    {
+      "name": "Yummy Vegan Home",
+      "kind": "eat",
+      "locality": "Taipei/Beitou",
+      "lat": 25.1373,
+      "lon": 121.5025,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FBeitou",
+      "address": "No. 735, Daye Rd",
+      "url": "https://www.facebook.com/yummyveganhome/?locale=zh_TW",
+      "id": "taiwan-aa87b84b3ce16d8dbc0a"
+    },
+    {
+      "name": "N Cafe",
+      "kind": "eat",
+      "locality": "Taipei/Beitou",
+      "lat": 25.133,
+      "lon": 121.4983,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FBeitou",
+      "address": "No.18 Yuren Rd",
+      "url": "https://www.facebook.com/Ncafe18/",
+      "id": "taiwan-7653b92446ba199fe6fe"
+    },
+    {
+      "name": "On My Way．Taipei Hostel",
+      "kind": "stay",
+      "locality": "Taipei/Beitou",
+      "lat": 25.132963,
+      "lon": 121.500564,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FBeitou",
+      "address": "No. 82, Guangming Road",
+      "url": "https://www.facebook.com/onmyway.taipei/",
+      "id": "taiwan-2d7b9ea12d44d043497c"
+    },
+    {
+      "name": "Beauty Age Hotel",
+      "kind": "stay",
+      "locality": "Taipei/Beitou",
+      "lat": 25.137163,
+      "lon": 121.5108,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FBeitou",
+      "address": "281 Guangming Road",
+      "price": "Double rooms from NT$1,920 (NT$2,560 at weekends) to NT$3,150 (NT$4,200 at weekends)",
+      "url": "https://www.beautyagespringhotel.com.tw/",
+      "id": "taiwan-3bcd544da844f6ff0245"
+    },
+    {
+      "name": "Radium Kagaya",
+      "kind": "stay",
+      "locality": "Taipei/Beitou",
+      "lat": 25.135961,
+      "lon": 121.506942,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FBeitou",
+      "address": "236 Guangming Rd",
+      "price": "From $14,000 (room only)",
+      "url": "https://www.kagaya.com.tw/en/",
+      "id": "taiwan-2f334f5d4bc594261956"
+    },
+    {
+      "name": "Spring City Resort",
+      "kind": "stay",
+      "locality": "Taipei/Beitou",
+      "lat": 25.137596,
+      "lon": 121.513592,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FBeitou",
+      "address": "18 You Ya Road",
+      "url": "http://www.springresort.com.tw/",
+      "id": "taiwan-b30e37d3fbdf8e4bd990"
+    },
+    {
+      "name": "Sweetme Hot Spring Resort",
+      "kind": "stay",
+      "locality": "Taipei/Beitou",
+      "lat": 25.13612,
+      "lon": 121.50502,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FBeitou",
+      "address": "224 Guangming Road",
+      "id": "taiwan-7e300528a8710233ae4d"
+    },
+    {
+      "name": "Taipei/Beitou",
+      "kind": "area",
+      "locality": "Taipei/Beitou",
+      "lat": 25.1167,
+      "lon": 121.5,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FBeitou",
+      "id": "taiwan-0753cb4d42045cadaad0"
+    },
+    {
+      "name": "National Palace Museum",
+      "kind": "do",
+      "locality": "Taipei/Shilin",
+      "lat": 25.101063,
+      "lon": 121.548918,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FShilin",
+      "address": "221 Zhishan Rd, Sec. 2",
+      "url": "http://www.npm.gov.tw/",
+      "id": "taiwan-4ad9efe51fe21dbe4f95"
+    },
+    {
+      "name": "Taipei Astronomical Museum",
+      "kind": "do",
+      "locality": "Taipei/Shilin",
+      "lat": 25.095998,
+      "lon": 121.519025,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FShilin",
+      "address": "363 Jihe Road",
+      "url": "http://en.tam.gov.taipei/",
+      "id": "taiwan-424f085a9a53af72103d"
+    },
+    {
+      "name": "Shung Ye Museum of Formosan Aborigines",
+      "kind": "do",
+      "locality": "Taipei/Shilin",
+      "lat": 25.1009,
+      "lon": 121.552,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FShilin",
+      "address": "No.282, Sec. 2, Jhihshan Rd",
+      "url": "https://www.museum.org.tw/?lang=en-US",
+      "id": "taiwan-ed4bce34a1d7e88f8d33"
+    },
+    {
+      "name": "National Taiwan Science Education Center",
+      "kind": "do",
+      "locality": "Taipei/Shilin",
+      "lat": 25.09612,
+      "lon": 121.51672,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FShilin",
+      "address": "189 Shihshang Road, Shihlin",
+      "price": "$100 adults, $70 students with ID",
+      "url": "https://en.ntsec.gov.tw/index.aspx",
+      "id": "taiwan-f611e5732a27859f976d"
+    },
+    {
+      "name": "Shilin Residence",
+      "kind": "do",
+      "locality": "Taipei/Shilin",
+      "lat": 25.093063,
+      "lon": 121.532278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FShilin",
+      "id": "taiwan-129e61babfdfd6e6add0"
+    },
+    {
+      "name": "Zhishanyan Cultural and Ecological Garden",
+      "kind": "do",
+      "locality": "Taipei/Shilin",
+      "lat": 25.103732,
+      "lon": 121.531281,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FShilin",
+      "url": "http://www.zcegarden.org.tw/",
+      "id": "taiwan-e4e2109a3fab170b43a5"
+    },
+    {
+      "name": "Aborigine Culture Park",
+      "kind": "do",
+      "locality": "Taipei/Shilin",
+      "lat": 25.101,
+      "lon": 121.55,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FShilin",
+      "address": "Sec. 2, Jhihshan Rd",
+      "id": "taiwan-353f8bd48bc1eb6089ab"
+    },
+    {
+      "name": "Tianmu Shincong Cinema",
+      "kind": "do",
+      "locality": "Taipei/Shilin",
+      "lat": 25.1172,
+      "lon": 121.5397,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FShilin",
+      "address": "No.202, Zhongcheng Rd, 4F, sec 2, Tianmu (忠誠路二段202號4樓)",
+      "id": "taiwan-f707691a9529d03baff2"
+    },
+    {
+      "name": "Children's Amusement Park",
+      "kind": "do",
+      "locality": "Taipei/Shilin",
+      "lat": 25.097,
+      "lon": 121.514,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FShilin",
+      "address": "No.55, Sec. 5, Chengde Rd",
+      "price": "NT$200",
+      "url": "https://english.tcap.taipei/",
+      "id": "taiwan-3faedaa6574765b4f26f"
+    },
+    {
+      "name": "Juice Meal Vegetarian Restaurant",
+      "kind": "eat",
+      "locality": "Taipei/Shilin",
+      "lat": 25.0929,
+      "lon": 121.5267,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FShilin",
+      "address": "No.34, Ln. 505, Sec. 5, Jhongshan N. Rd",
+      "price": "NT$25-55",
+      "id": "taiwan-d6362627a81f6c4307f6"
+    },
+    {
+      "name": "Jingxing Vegetarian Kitchen",
+      "kind": "eat",
+      "locality": "Taipei/Shilin",
+      "lat": 25.0946,
+      "lon": 121.5256,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FShilin",
+      "address": "No.26, Meide St",
+      "price": "NT$100–150",
+      "id": "taiwan-ccd4cf2879550a9c64bd"
+    },
+    {
+      "name": "Cafe Onion Restaurant",
+      "kind": "eat",
+      "locality": "Taipei/Shilin",
+      "lat": 25.1141,
+      "lon": 121.532,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FShilin",
+      "address": "No.132, Sec. 2, Jhongcheng Rd",
+      "url": "https://www.facebook.com/cafe.onion",
+      "id": "taiwan-77785ab271d00815916a"
+    },
+    {
+      "name": "Fangs Restaurant",
+      "kind": "eat",
+      "locality": "Taipei/Shilin",
+      "lat": 25.1182,
+      "lon": 121.5313,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FShilin",
+      "address": "No.7, Tianmu E. Rd",
+      "id": "taiwan-fe3d2c13803b2ea3351a"
+    },
+    {
+      "name": "JB's Dinner",
+      "kind": "eat",
+      "locality": "Taipei/Shilin",
+      "lat": 25.1199,
+      "lon": 121.5295,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FShilin",
+      "address": "No.2, Aly. 16, Ln. 38, Tianyu St",
+      "url": "https://www.facebook.com/judyandbert",
+      "id": "taiwan-c6975ca0508b10a8aa21"
+    },
+    {
+      "name": "Sanxitang Space",
+      "kind": "eat",
+      "locality": "Taipei/Shilin",
+      "lat": 25.1022,
+      "lon": 121.5487,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FShilin",
+      "address": "National Palace Museum, 4th floor",
+      "url": "https://www.facebook.com/SanxitangSpace/?locale=zh_TW",
+      "id": "taiwan-b37627d4d8523fbd6905"
+    },
+    {
+      "name": "Golden Formosa",
+      "kind": "eat",
+      "locality": "Taipei/Shilin",
+      "lat": 25.1182,
+      "lon": 121.5362,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FShilin",
+      "address": "No.101, Tianmu E. Rd",
+      "url": "https://www.facebook.com/JinPengLaiZunGuTaiCai?locale=zh_TW",
+      "id": "taiwan-514a7548296cd264f62a"
+    },
+    {
+      "name": "Orange Cafe",
+      "kind": "eat",
+      "locality": "Taipei/Shilin",
+      "lat": 25.0919,
+      "lon": 121.5263,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FShilin",
+      "address": "No.302, Wenlin Rd",
+      "url": "https://www.facebook.com/profile.php?id=100068904676640#",
+      "id": "taiwan-76d0400a3be9729d0f99"
+    },
+    {
+      "name": "Vagabond Cafe",
+      "kind": "eat",
+      "locality": "Taipei/Shilin",
+      "lat": 25.096,
+      "lon": 121.5254,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FShilin",
+      "address": "No.13, Fushou St",
+      "url": "https://www.facebook.com/%E6%B5%81%E6%B5%AA%E8%A7%80%E9%BB%9E-Vagabond-Cafe-424026191034318/",
+      "id": "taiwan-28e9d76e9925f99c0703"
+    },
+    {
+      "name": "Noobtent",
+      "kind": "eat",
+      "locality": "Taipei/Shilin",
+      "lat": 25.0898,
+      "lon": 121.5253,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FShilin",
+      "address": "No.55, Dadong Rd",
+      "price": "Minimum charge:NT$300",
+      "url": "https://www.instagram.com/noobtent/",
+      "id": "taiwan-63e78493a4df46c3ffc4"
+    },
+    {
+      "name": "Odin Bistro",
+      "kind": "eat",
+      "locality": "Taipei/Shilin",
+      "lat": 25.0923,
+      "lon": 121.5253,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FShilin",
+      "address": "No.152, Dadong Rd",
+      "url": "https://linktr.ee/odin.shilin",
+      "id": "taiwan-d8ee89fff919c17ad5aa"
+    },
+    {
+      "name": "Zhanan Taiwan Bistro",
+      "kind": "eat",
+      "locality": "Taipei/Shilin",
+      "lat": 25.1022,
+      "lon": 121.524,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FShilin",
+      "address": "No.40, Fuguo Rd",
+      "url": "https://www.instagram.com/zhanan_taiwan_bistro",
+      "id": "taiwan-8a38c1abca30e1ce298b"
+    },
+    {
+      "name": "Dreamer Disco",
+      "kind": "eat",
+      "locality": "Taipei/Shilin",
+      "lat": 25.0897,
+      "lon": 121.5241,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FShilin",
+      "address": "No.8, Dasi Rd",
+      "url": "https://www.facebook.com/profile.php?id=100087483699496&mibextid=LQQJ4d",
+      "id": "taiwan-d3b3f04d07c1db643fb5"
+    },
+    {
+      "name": "Play Taipei Backpackers",
+      "kind": "stay",
+      "locality": "Taipei/Shilin",
+      "lat": 25.0458,
+      "lon": 121.5066,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FShilin",
+      "address": "Jihe Rd. & Xiaoxi St",
+      "url": "https://www.hostelworld.com/hosteldetails.php/Play-Taipei-Backpackers/Taipei/85425",
+      "id": "taiwan-43e280873cc4713410ee"
+    },
+    {
+      "name": "Fun Taipei @ Shilin Night Market",
+      "kind": "stay",
+      "locality": "Taipei/Shilin",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FShilin",
+      "address": "31 Wenlin Road",
+      "url": "https://www.facebook.com/funtaipeihostel/",
+      "id": "taiwan-0cdfdf394cda4a1360d9"
+    },
+    {
+      "name": "Tango Inn",
+      "kind": "stay",
+      "locality": "Taipei/Shilin",
+      "lat": 25.082988,
+      "lon": 121.524302,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FShilin",
+      "address": "No.18, Jihe Road",
+      "price": "NT$6,000-6,500",
+      "url": "http://jh.tangoinn.com.tw/_en/index.php",
+      "id": "taiwan-99416dd88f5add83a3fc"
+    },
+    {
+      "name": "Taipei/Shilin",
+      "kind": "area",
+      "locality": "Taipei/Shilin",
+      "lat": 25.0833,
+      "lon": 121.517,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Taipei%2FShilin",
+      "id": "taiwan-62dbbb546c71eb2dc101"
+    }
+  ],
+  "status": "partial",
+  "note": "Fetched 8 distinct public Wikivoyage source pages; attempted 8 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Coverage cap: Taipei: 3 additional linked subpages not fetched."
+}

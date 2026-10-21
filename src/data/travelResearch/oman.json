@@ -1,0 +1,1097 @@
+{
+  "sources": [
+    {
+      "title": "Oman",
+      "url": "https://en.wikivoyage.org/wiki/Oman",
+      "checkedAt": "2026-10-21T08:07:43.429Z"
+    },
+    {
+      "title": "Muscat",
+      "url": "https://en.wikivoyage.org/wiki/Muscat",
+      "checkedAt": "2026-10-21T08:07:46.248Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Muscat",
+      "kind": "area",
+      "locality": "Oman",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Oman",
+      "id": "oman-6b7aa707692986e8561f"
+    },
+    {
+      "name": "Bahla",
+      "kind": "area",
+      "locality": "Oman",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Oman",
+      "id": "oman-b7c69385f59cbf16c0b1"
+    },
+    {
+      "name": "Buraimi",
+      "kind": "area",
+      "locality": "Oman",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Oman",
+      "id": "oman-b905778d017f1ffbddae"
+    },
+    {
+      "name": "Ibra",
+      "kind": "area",
+      "locality": "Oman",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Oman",
+      "id": "oman-ba9dfa5478ecfbbfe39c"
+    },
+    {
+      "name": "Matrah",
+      "kind": "area",
+      "locality": "Oman",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Oman",
+      "id": "oman-0a327ae1d6ea8c1076bf"
+    },
+    {
+      "name": "Nizwa",
+      "kind": "area",
+      "locality": "Oman",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Oman",
+      "id": "oman-b1ce69336109982073bb"
+    },
+    {
+      "name": "Salalah",
+      "kind": "area",
+      "locality": "Oman",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Oman",
+      "id": "oman-f46b704122bd7e979f97"
+    },
+    {
+      "name": "Sohar",
+      "kind": "area",
+      "locality": "Oman",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Oman",
+      "id": "oman-2e63cefc222c58761965"
+    },
+    {
+      "name": "Sur",
+      "kind": "area",
+      "locality": "Oman",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Oman",
+      "id": "oman-5d77a058a3499d6ba36d"
+    },
+    {
+      "name": "Al Jalali Fort",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.616531,
+      "lon": 58.597961,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Qasr Al Alam St",
+      "id": "oman-ba48044033aece9c8185"
+    },
+    {
+      "name": "Al Mirani Fort",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.617248,
+      "lon": 58.593487,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Mirani St",
+      "id": "oman-6d2e2214de8514d72fa5"
+    },
+    {
+      "name": "Qasr Al Alam Royal Palace",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.615911,
+      "lon": 58.594689,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "id": "oman-b1d332562170bdebd5f0"
+    },
+    {
+      "name": "Bait Al Zubair Museum",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.614383,
+      "lon": 58.589567,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Bahri Rd",
+      "url": "http://baitalzubairmuseum.com/",
+      "id": "oman-9aae51edf3518867cd80"
+    },
+    {
+      "name": "Omani French Museum",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.615292,
+      "lon": 58.592169,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Qasr al-Alam St",
+      "price": "RO 0.500",
+      "id": "oman-6c604b62ae067c87739b"
+    },
+    {
+      "name": "Muscat Gate Museum",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.618674,
+      "lon": 58.585828,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Bahri Rd",
+      "id": "oman-d600a3810ad5ec59e5e5"
+    },
+    {
+      "name": "Bait Muzna Gallery",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.614958,
+      "lon": 58.589615,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Saidiya St, Way 8662, House 234",
+      "url": "http://www.baitmuznagallery.com/",
+      "id": "oman-ce6553a78cd22d63396a"
+    },
+    {
+      "name": "National Museum",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.611583,
+      "lon": 58.593759,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "An Noor St",
+      "price": "RO 5 (adults), free (children)",
+      "url": "https://www.nm.gov.om/en/home",
+      "id": "oman-1e7e57d4f4997121fb00"
+    },
+    {
+      "name": "Corniche",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.621711,
+      "lon": 58.562867,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Bahri Rd",
+      "id": "oman-58c6cf2dfe53335c7c83"
+    },
+    {
+      "name": "Fish market",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.625481,
+      "lon": 58.562857,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Bahri Rd",
+      "id": "oman-a33aa7e1821bdbd40867"
+    },
+    {
+      "name": "Bait al-Baranda Museum",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.622915,
+      "lon": 58.560701,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Mina St",
+      "price": "RO 1 (adults), RO 0.500 (children)",
+      "id": "oman-ccb6f55217ccc2b3adc6"
+    },
+    {
+      "name": "Mutrah Fort",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.620507,
+      "lon": 58.567159,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Bahri Rd",
+      "id": "oman-b370aa91f927cf6d95c7"
+    },
+    {
+      "name": "Riyam Park",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.623058,
+      "lon": 58.578327,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Bahri Rd",
+      "id": "oman-f599d6ac5975ec5fed98"
+    },
+    {
+      "name": "Old waterfront watchtower",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.624839,
+      "lon": 58.579056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Bahri Rd",
+      "id": "oman-e41ea70255e11685b6cf"
+    },
+    {
+      "name": "Old souq watchtower",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.618472,
+      "lon": 58.562294,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "id": "oman-e82dafa7fbec113aeec7"
+    },
+    {
+      "name": "Ghalya’s Museum of Modern Art",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.620323,
+      "lon": 58.568276,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Wadi Khabir",
+      "price": "RO 2 (adults 12+), 500 Bzs (children 6-12)",
+      "url": "http://www.ghalyasmuseum.com/",
+      "id": "oman-45a3403e52b36031ee8c"
+    },
+    {
+      "name": "Sultan's Armed Forces Museum",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.608352,
+      "lon": 58.54556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Mujamma St",
+      "price": "RO 2",
+      "id": "oman-99377c54295d019a51e6"
+    },
+    {
+      "name": "Aquarium and Marine Science and Fisheries Centre",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.576574,
+      "lon": 58.61137,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "id": "oman-f0fc709b570a34e3205f"
+    },
+    {
+      "name": "Churches",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.60671,
+      "lon": 58.536323,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "price": "free",
+      "id": "oman-69e736be2948e3817379"
+    },
+    {
+      "name": "Sohar boat",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.567459,
+      "lon": 58.608143,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Bustan Roundabout",
+      "id": "oman-def5661c5bd48b1de273"
+    },
+    {
+      "name": "Sultan Qaboos Grand Mosque",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.583762,
+      "lon": 58.388588,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "As Sultan St",
+      "id": "oman-bd17e28bb9f753e90a6f"
+    },
+    {
+      "name": "Qurm National Park",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.618182,
+      "lon": 58.489058,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "id": "oman-531d9d51ac8561f3738a"
+    },
+    {
+      "name": "Natural History Museum",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.598933,
+      "lon": 58.422845,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "id": "oman-8d657b8051f54175f5e8"
+    },
+    {
+      "name": "Children's Museum",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.6156,
+      "lon": 58.48097,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "2601 Way",
+      "id": "oman-1b8d8ef151a7a764d37f"
+    },
+    {
+      "name": "Museum of Omani Heritage",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.6098,
+      "lon": 58.4705,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "price": "500 Bzs",
+      "id": "oman-31fd812b3848159c8f61"
+    },
+    {
+      "name": "Oil and Gas Exhibition Centre",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.625368,
+      "lon": 58.50888,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Seih Al Maleh St",
+      "price": "Free",
+      "url": "http://www.pdo.co.om/en/news/spotlight/Pages/Oil-and-Gas-Exhibition-Centre.aspx",
+      "id": "oman-01e1662f7101938ed1bc"
+    },
+    {
+      "name": "Planetarium",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.624817,
+      "lon": 58.50888,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Seih Al Maleh St",
+      "price": "Free",
+      "url": "https://www.pdo.co.om/knowledgeworld/pages/planetarium.aspx",
+      "id": "oman-69d26bdeec016b47c3aa"
+    },
+    {
+      "name": "Bait Al Makham",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.555,
+      "lon": 58.408,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "price": "500 Bzs",
+      "id": "oman-4d501477479802f5e4ce"
+    },
+    {
+      "name": "Bawshar Fort",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.552584,
+      "lon": 58.411479,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Safa St",
+      "price": "Free",
+      "id": "oman-11ab2e40f7539803e06e"
+    },
+    {
+      "name": "Royal Opera House Muscat",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.613768,
+      "lon": 58.468078,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Kharjiyah St",
+      "url": "http://rohmuscat.org.om/",
+      "id": "oman-a864f2548421275331bd"
+    },
+    {
+      "name": "Muscat Festival",
+      "kind": "do",
+      "locality": "Muscat",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "id": "oman-14846c9c9f2535c05e48"
+    },
+    {
+      "name": "Trekking path C38",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.618374,
+      "lon": 58.57467,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "url": "http://www.omantourism.gov.om/wps/portal/mot/tourism/oman/details/!ut/p/c4/",
+      "id": "oman-a05e15d1f17f94212665"
+    },
+    {
+      "name": "Trekking paths C52 and C53",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.551359,
+      "lon": 58.643124,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "id": "oman-04832ae785f6d8ad09d5"
+    },
+    {
+      "name": "BlueZone Diving",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.582091,
+      "lon": 58.6061,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Bander al Rhowda Marina",
+      "id": "oman-7a7e5e2f393190baede4"
+    },
+    {
+      "name": "Oman Dive Center",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.545153,
+      "lon": 58.648354,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "url": "http://www.extradivers-worldwide.com/en/dive-center/country/oman/dive-center-ed-oman-dive-center-muscat_40.html",
+      "id": "oman-13c5ac21b28ea809b6fe"
+    },
+    {
+      "name": "Omanta Scuba",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.63092,
+      "lon": 58.2662,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Mouj - Marina, 18th November Street, The Wave",
+      "url": "https://www.facebook.com/Omanta-Scuba-Diving-Academy-431890840192100/",
+      "id": "oman-6d5c19d160a62b52f2a2"
+    },
+    {
+      "name": "Oman Bicycle Shop",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.58711,
+      "lon": 58.4302,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "url": "http://www.omanbicycle.com/",
+      "id": "oman-bdf63749e4c8253fd0ea"
+    },
+    {
+      "name": "Qurum Public Beach",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.615253,
+      "lon": 58.458828,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "price": "Free",
+      "id": "oman-a1f0cc1c456f2b50b36e"
+    },
+    {
+      "name": "Marjan Public Beach",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.639158,
+      "lon": 58.491145,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "price": "Free",
+      "id": "oman-6b14a5a589e2a8373d91"
+    },
+    {
+      "name": "Al Ghubrah Public Beach",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.603977,
+      "lon": 58.405518,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "price": "Free",
+      "id": "oman-6cc78780492a6127c3f8"
+    },
+    {
+      "name": "Seeb Public Beach",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.648691,
+      "lon": 58.236097,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "price": "Free",
+      "id": "oman-e74fa553fc454cc81530"
+    },
+    {
+      "name": "Al Bustan Public Beach",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.570714,
+      "lon": 58.613637,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "price": "Free",
+      "id": "oman-ee16ae700a7f82059ead"
+    },
+    {
+      "name": "Al Ansab Wetlands",
+      "kind": "do",
+      "locality": "Muscat",
+      "lat": 23.562079,
+      "lon": 58.32858,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "url": "https://nws.nama.om/en-us/Wetland",
+      "id": "oman-72148018bfd7230fe01a"
+    },
+    {
+      "name": "Al Haikal Restaurant",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.595482,
+      "lon": 58.544736,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "2996 Way",
+      "id": "oman-16434412cdb45a6207f2"
+    },
+    {
+      "name": "Oman Express",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.5886296,
+      "lon": 58.5476201,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "4359 Way",
+      "id": "oman-a0a210cf544e8d36bfc7"
+    },
+    {
+      "name": "Saravana Bhavan Restaurant",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.595753,
+      "lon": 58.541593,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Ruwi Street",
+      "id": "oman-e8107a20181cc8b944e1"
+    },
+    {
+      "name": "KERA",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.6002304,
+      "lon": 58.5392979,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "An Noor Street",
+      "id": "oman-fe7180cd94d0f2519c7a"
+    },
+    {
+      "name": "Al Haikal Bakery",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.5995413,
+      "lon": 58.5414946,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "2969 Way",
+      "id": "oman-1c9678cf38685aeae8cc"
+    },
+    {
+      "name": "Dhaka Restaurant & Coffee Shop مطعم و مقهى دكا",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.5877576,
+      "lon": 58.5524548,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Saq Al Juma Street and LuLu road",
+      "id": "oman-b40249fcac0249bb550f"
+    },
+    {
+      "name": "Al Tarboush",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.612667,
+      "lon": 58.495318,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "651 Way",
+      "id": "oman-3bc1f1271861404b2059"
+    },
+    {
+      "name": "Ofair Traditional Restaurant",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.592597,
+      "lon": 58.402466,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Marafah St",
+      "id": "oman-f4bbf3e386e9e052fbb9"
+    },
+    {
+      "name": "Nisars Adukala",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.5923103,
+      "lon": 58.4012795,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "near Al Safat Street",
+      "id": "oman-208676c39dd6a8c89c7d"
+    },
+    {
+      "name": "Vegetarian's",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.5917919,
+      "lon": 58.4065768,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "near 40 Street",
+      "id": "oman-e36c7d0c46e003d9090e"
+    },
+    {
+      "name": "Arab World Restaurant",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.5894786,
+      "lon": 58.4066023,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Marafah St",
+      "id": "oman-d6e1f5ac26f4f7e7e648"
+    },
+    {
+      "name": "Abu Naseha Coffee Shop مقهى ابو نصحه",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.5884158,
+      "lon": 58.4062577,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Shop No. 42, Building No. 577, Way No. 4001",
+      "id": "oman-04ad2cf34d11c10347d4"
+    },
+    {
+      "name": "Mazahbi Salalah Restaurant مطعم مظابي صلالة",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.5861131,
+      "lon": 58.40465,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Souk Al Ghubrah St",
+      "id": "oman-2c8842d6aac154d30922"
+    },
+    {
+      "name": "Muscat Light Restaurant & Coffeeshop",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.614152,
+      "lon": 58.590699,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Bahri Rd",
+      "id": "oman-599f2e0baa46885fa3d7"
+    },
+    {
+      "name": "Soha Restaurant مطعم سوهاء النباتي",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.5963186,
+      "lon": 58.4201076,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Khuwair St",
+      "id": "oman-5816532a19420c53a0a2"
+    },
+    {
+      "name": "Al Istanboly مقهي إسطنبولي",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.5904437,
+      "lon": 58.4284466,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Souk Al Khuwair St",
+      "id": "oman-06b53b8de23731633cf5"
+    },
+    {
+      "name": "Al Karawan Al Turki Restaurant",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.5904382,
+      "lon": 58.4287034,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Souk Al Khuwair St",
+      "id": "oman-e25728af4a4087504a81"
+    },
+    {
+      "name": "Old Turkish Restaurant & Coffee Shop مطعم و مقهى التركي القديم",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.5900522,
+      "lon": 58.4284848,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Souk Al Khuwair St",
+      "id": "oman-2c9b2a0ef02c360cc685"
+    },
+    {
+      "name": "Pakistani Nan",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.5874998,
+      "lon": 58.4234868,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "4144 Way",
+      "id": "oman-139875663caf5d610080"
+    },
+    {
+      "name": "Turkish House",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.592257,
+      "lon": 58.430061,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "id": "oman-08fb6667465d809a6a6c"
+    },
+    {
+      "name": "Ubhar Restaurant",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.61252,
+      "lon": 58.464307,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Sarooj Rd and Al Kharjiyah St",
+      "url": "http://www.ubharoman.com/",
+      "id": "oman-a1706c64dd6fc3637110"
+    },
+    {
+      "name": "Automatic",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.5991213,
+      "lon": 58.385787,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "18th November Street",
+      "id": "oman-4c3036ca0bc3b11f8dc8"
+    },
+    {
+      "name": "Al-exandria",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.5992027,
+      "lon": 58.539775,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Fanja House, Near Sabco Centre, Ruwi",
+      "id": "oman-1c7bafa11f4bca6ab5fc"
+    },
+    {
+      "name": "Bin Ateeq",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.59655,
+      "lon": 58.42657,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Khuwair Rd",
+      "url": "http://www.binateeqoman.com/",
+      "id": "oman-9d7bc06a0ee9d5323b7e"
+    },
+    {
+      "name": "The Chedi Pizza Restaurant",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.6021,
+      "lon": 58.3986,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Way No. 3215",
+      "id": "oman-5253523cf5f1b9bb2669"
+    },
+    {
+      "name": "Haffa House Hotel Restaurant",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.59593,
+      "lon": 58.539999,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Farahidi St",
+      "id": "oman-f418f1d0a566c9700d4c"
+    },
+    {
+      "name": "Al Khiran",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.566775,
+      "lon": 58.616244,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Bustan Palace Hotel",
+      "price": "RO 19.5 + 17% service charge",
+      "id": "oman-54906bafc987c80460e7"
+    },
+    {
+      "name": "Bait Al Bahr",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.55121,
+      "lon": 58.65997,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "url": "http://www.shangri-la.com/muscat/barraljissahresort/dining/restaurants/bait-al-bahr/",
+      "id": "oman-ba82dccb4452fa5be962"
+    },
+    {
+      "name": "The Chedi",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.60251,
+      "lon": 58.3995,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "North Ghubra 32",
+      "url": "http://www.ghmhotels.com/en/muscat/dining/",
+      "id": "oman-c6a1f4ce3d79454db86e"
+    },
+    {
+      "name": "Mumtaz Mahal",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.61523,
+      "lon": 58.48346,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Way 2601, Bldg 80, Complex 226",
+      "url": "http://www.mumtazmahal.net/",
+      "id": "oman-2a49f405f921cdf32b98"
+    },
+    {
+      "name": "Passage to India",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.592149,
+      "lon": 58.522951,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Wutayyah",
+      "id": "oman-8859fc683d7c8dc2c482"
+    },
+    {
+      "name": "Taj Samarkhand",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.616187,
+      "lon": 58.461973,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Oasis by the Sea Residences",
+      "id": "oman-7959d7d636ea3981b7bb"
+    },
+    {
+      "name": "Spinney's",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.606577,
+      "lon": 58.453262,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Khariyah St",
+      "id": "oman-a959481a5c83f900d8e9"
+    },
+    {
+      "name": "Al Fair Supermarket",
+      "kind": "eat",
+      "locality": "Muscat",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "id": "oman-123f3044da26a88d4fb0"
+    },
+    {
+      "name": "Lulu's",
+      "kind": "eat",
+      "locality": "Muscat",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "id": "oman-7a5fcd9bc22962c2ca92"
+    },
+    {
+      "name": "Al Ahli Coffeeshop",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.618551,
+      "lon": 58.564633,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "id": "oman-f2375a8df5b14af0fa05"
+    },
+    {
+      "name": "Fast Food N Juice Centre",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.620232,
+      "lon": 58.56489,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Bahri Rd",
+      "id": "oman-07878d544444add76c0f"
+    },
+    {
+      "name": "Starbucks Coffee",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.622679,
+      "lon": 58.475364,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "id": "oman-e6f481821f5449ae9f35"
+    },
+    {
+      "name": "Left Bank",
+      "kind": "eat",
+      "locality": "Muscat",
+      "lat": 23.6154,
+      "lon": 58.483559,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "id": "oman-56c132b8698d17b8f445"
+    },
+    {
+      "name": "Aywa Guesthouse",
+      "kind": "stay",
+      "locality": "Muscat",
+      "lat": 23.59545,
+      "lon": 58.398915,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Ghubrah North, Way 3209, no. 725",
+      "price": "RO 19 double room",
+      "url": "http://muscat-guesthouse.aywaholidays.com/",
+      "id": "oman-a0011c9bc04213c9265e"
+    },
+    {
+      "name": "Delmon Hotel Apartments",
+      "kind": "stay",
+      "locality": "Muscat",
+      "lat": 23.578671,
+      "lon": 58.565011,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Wada Al Kabir St",
+      "price": "RO 23-75",
+      "url": "https://www.facebook.com/pages/Delmon-Hotel-Apartments/243577982429265",
+      "id": "oman-f6064bef8ee1bdf73d8d"
+    },
+    {
+      "name": "Marina Hotel",
+      "kind": "stay",
+      "locality": "Muscat",
+      "lat": 23.624203,
+      "lon": 58.560985,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Corniche",
+      "id": "oman-bf323cb2d1216ada6523"
+    },
+    {
+      "name": "Ruwi Hotel",
+      "kind": "stay",
+      "locality": "Muscat",
+      "lat": 23.594371,
+      "lon": 58.541883,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "url": "http://omanhotels.com/ruwi/",
+      "id": "oman-8b43546c1c9f9090d6ed"
+    },
+    {
+      "name": "Al Waffa Hotel Flats",
+      "kind": "stay",
+      "locality": "Muscat",
+      "lat": 23.595392,
+      "lon": 58.545478,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Ruwi Mwasalat Bus Station, Muscat Oman",
+      "id": "oman-eaddfe7f30555843150a"
+    },
+    {
+      "name": "Crown Plaza Hotel",
+      "kind": "stay",
+      "locality": "Muscat",
+      "lat": 23.628641,
+      "lon": 58.483053,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Qurm St",
+      "url": "https://www.ihg.com/crowneplaza/hotels/us/en/muscat/mschc/hoteldetail",
+      "id": "oman-ceeeb4c13e84a647f643"
+    },
+    {
+      "name": "Golden Tulip Seeb",
+      "kind": "stay",
+      "locality": "Muscat",
+      "lat": 23.58467,
+      "lon": 58.30394,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Exhibition St",
+      "id": "oman-2ebb17060d26beb9f4fd"
+    },
+    {
+      "name": "Haffa House Hotel",
+      "kind": "stay",
+      "locality": "Muscat",
+      "lat": 23.59579,
+      "lon": 58.5402,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Farahidi St",
+      "price": "From RO 40, including breakfast",
+      "url": "http://shanfarihotels.com/hotel/haffa-house-hotel-muscat.php",
+      "id": "oman-b1fef0bd4cfb926df178"
+    },
+    {
+      "name": "Somerset Panorama Muscat",
+      "kind": "stay",
+      "locality": "Muscat",
+      "lat": 23.582824,
+      "lon": 58.408375,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Ghubrah Street",
+      "url": "https://www.somerset.com/en/oman/muscat/somerset-panorama-muscat/index.html",
+      "id": "oman-a2df0f6426923a054b4f"
+    },
+    {
+      "name": "Al Bustan Palace Hotel",
+      "kind": "stay",
+      "locality": "Muscat",
+      "lat": 23.567114,
+      "lon": 58.615696,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "url": "http://www.ritzcarlton.com/en/Properties/AlBustan/Default.htm",
+      "id": "oman-f93a15428e86c5c4a8b0"
+    },
+    {
+      "name": "Al Falaj Hotel",
+      "kind": "stay",
+      "locality": "Muscat",
+      "lat": 23.606336,
+      "lon": 58.538867,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Mujamma St, 2031",
+      "url": "http://omanhotels.com/alfalaj/",
+      "id": "oman-d98e6aa744568c0e4a1b"
+    },
+    {
+      "name": "The Chedi",
+      "kind": "stay",
+      "locality": "Muscat",
+      "lat": 23.60244,
+      "lon": 58.39914,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "North Ghubra 32",
+      "url": "http://www.ghmhotels.com/en/chedi-muscat-oman/home/#home",
+      "id": "oman-c9a2ee7a589543af0685"
+    },
+    {
+      "name": "Crystal Suites",
+      "kind": "stay",
+      "locality": "Muscat",
+      "lat": 23.566682,
+      "lon": 58.573092,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Vegetable & Fruit Market Road, Way 6702, Block 167 Wadi Kabir",
+      "price": "RO 30+",
+      "url": "https://m.facebook.com/pages/category/Local-Business/Crystal-suites-Hotel-989658364420165/",
+      "id": "oman-3fa9a97e61f5f7b8e414"
+    },
+    {
+      "name": "Grand Hyatt",
+      "kind": "stay",
+      "locality": "Muscat",
+      "lat": 23.608705,
+      "lon": 58.444442,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "url": "https://muscat.grand.hyatt.com/",
+      "id": "oman-98f85aafeeaf719b0e7c"
+    },
+    {
+      "name": "InterContinental Muscat",
+      "kind": "stay",
+      "locality": "Muscat",
+      "lat": 23.61615,
+      "lon": 58.46523,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Al Kharjiya St",
+      "price": "From RO 110, including breakfast",
+      "url": "https://www.ihg.com/intercontinental/hotels/gb/en/muscat/mscha/hoteldetail/",
+      "id": "oman-ba7b82cd38f4e3f8c0cc"
+    },
+    {
+      "name": "Shangri-La Barr Al Jissah Resort and Spa",
+      "kind": "stay",
+      "locality": "Muscat",
+      "lat": 23.55071,
+      "lon": 58.66007,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "url": "http://www.shangri-la.com/muscat/barraljissahresort/",
+      "id": "oman-e9fd1e3cb621fff77323"
+    },
+    {
+      "name": "Hormuz Grand Muscat",
+      "kind": "stay",
+      "locality": "Muscat",
+      "lat": 23.577125,
+      "lon": 58.291798,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "address": "Airport Road",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-collection-muscat",
+      "id": "oman-a899a89ced7ee84265c0"
+    },
+    {
+      "name": "Muscat",
+      "kind": "area",
+      "locality": "Muscat",
+      "lat": 23.55706,
+      "lon": 58.47027,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Muscat",
+      "id": "oman-f2b0c299ad67b4936a91"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

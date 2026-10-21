@@ -1,0 +1,620 @@
+{
+  "sources": [
+    {
+      "title": "Mauritius",
+      "url": "https://en.wikivoyage.org/wiki/Mauritius",
+      "checkedAt": "2026-10-21T08:11:04.395Z"
+    },
+    {
+      "title": "Port Louis",
+      "url": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "checkedAt": "2026-10-21T08:11:07.706Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Port Louis",
+      "kind": "area",
+      "locality": "Mauritius",
+      "lat": -20.1667,
+      "lon": 57.5,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mauritius",
+      "id": "mauritius-a3e8284c5eb203abb2c2"
+    },
+    {
+      "name": "Beau Bassin-Rose Hill",
+      "kind": "area",
+      "locality": "Mauritius",
+      "lat": -20.239806,
+      "lon": 57.471694,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mauritius",
+      "id": "mauritius-f375fc2083a038006dfd"
+    },
+    {
+      "name": "Curepipe",
+      "kind": "area",
+      "locality": "Mauritius",
+      "lat": -20.318775,
+      "lon": 57.526294,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mauritius",
+      "id": "mauritius-6d69898785503464ff76"
+    },
+    {
+      "name": "Quatre Bornes",
+      "kind": "area",
+      "locality": "Mauritius",
+      "lat": -20.265,
+      "lon": 57.479,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mauritius",
+      "id": "mauritius-7361666830ffbcf676fa"
+    },
+    {
+      "name": "Vacoas-Phoenix",
+      "kind": "area",
+      "locality": "Mauritius",
+      "lat": -20.300047,
+      "lon": 57.474508,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mauritius",
+      "id": "mauritius-3459972b3d71062501fd"
+    },
+    {
+      "name": "Blue Bay",
+      "kind": "area",
+      "locality": "Mauritius",
+      "lat": -20.441,
+      "lon": 57.7191,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mauritius",
+      "id": "mauritius-ffdc0b6a43ad945f22b3"
+    },
+    {
+      "name": "Centre de Flacq",
+      "kind": "area",
+      "locality": "Mauritius",
+      "lat": -20.2002,
+      "lon": 57.717658,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mauritius",
+      "id": "mauritius-b19cc0faae46a770ceff"
+    },
+    {
+      "name": "Chamarel",
+      "kind": "area",
+      "locality": "Mauritius",
+      "lat": -20.42463,
+      "lon": 57.3885,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mauritius",
+      "id": "mauritius-6fcc9e81c2708bbc4783"
+    },
+    {
+      "name": "Grand Bay",
+      "kind": "area",
+      "locality": "Mauritius",
+      "lat": -20.018394,
+      "lon": 57.580172,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mauritius",
+      "id": "mauritius-92b2aa9ba0f0f482138d"
+    },
+    {
+      "name": "Flic en Flac",
+      "kind": "area",
+      "locality": "Mauritius",
+      "lat": -20.282,
+      "lon": 57.37,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mauritius",
+      "id": "mauritius-72e1f5cdcd2baf038c7e"
+    },
+    {
+      "name": "Mahébourg",
+      "kind": "area",
+      "locality": "Mauritius",
+      "lat": -20.4,
+      "lon": 57.7,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mauritius",
+      "id": "mauritius-dd0b2aa7a22e0d99245f"
+    },
+    {
+      "name": "Pamplemousses",
+      "kind": "area",
+      "locality": "Mauritius",
+      "lat": -20.109,
+      "lon": 57.576,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mauritius",
+      "id": "mauritius-d8f61f2c3aae1c668a3d"
+    },
+    {
+      "name": "Souillac",
+      "kind": "area",
+      "locality": "Mauritius",
+      "lat": -20.51901,
+      "lon": 57.5223,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mauritius",
+      "id": "mauritius-76554a8a8a29af63da23"
+    },
+    {
+      "name": "Tamarin",
+      "kind": "area",
+      "locality": "Mauritius",
+      "lat": -20.3356,
+      "lon": 57.3724,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mauritius",
+      "id": "mauritius-ea8f79b57fe48bfacec0"
+    },
+    {
+      "name": "Triolet",
+      "kind": "area",
+      "locality": "Mauritius",
+      "lat": -20.0598,
+      "lon": 57.5516,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mauritius",
+      "id": "mauritius-0b543ccf903e1908b8f0"
+    },
+    {
+      "name": "Trou d'Eau Douce",
+      "kind": "area",
+      "locality": "Mauritius",
+      "lat": -20.241,
+      "lon": 57.786,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mauritius",
+      "id": "mauritius-fd208f2f69123a77a5ef"
+    },
+    {
+      "name": "Bel Ombre",
+      "kind": "area",
+      "locality": "Mauritius",
+      "lat": -20.504167,
+      "lon": 57.413889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mauritius",
+      "id": "mauritius-ba865c29c2db959829e7"
+    },
+    {
+      "name": "Casela",
+      "kind": "do",
+      "locality": "Mauritius",
+      "lat": -20.30836,
+      "lon": 57.4235,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mauritius",
+      "id": "mauritius-23ebd9ba1f819026e5aa"
+    },
+    {
+      "name": "Yemen",
+      "kind": "do",
+      "locality": "Mauritius",
+      "lat": -20.333908,
+      "lon": 57.417597,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mauritius",
+      "id": "mauritius-fad06019622faa11e72b"
+    },
+    {
+      "name": "Eureka",
+      "kind": "do",
+      "locality": "Mauritius",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mauritius",
+      "id": "mauritius-c33b8bb0a3e8594b4e7e"
+    },
+    {
+      "name": "Ganga Talao - Grand Bassin",
+      "kind": "do",
+      "locality": "Mauritius",
+      "lat": -20.418056,
+      "lon": 57.491944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mauritius",
+      "id": "mauritius-97a27fa193aa69224c0c"
+    },
+    {
+      "name": "Aapravasi Ghat",
+      "kind": "do",
+      "locality": "Port Louis",
+      "lat": -20.158611,
+      "lon": 57.503056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "url": "http://www.aapravasighat.org/",
+      "id": "mauritius-411ba7c2749e983c9f23"
+    },
+    {
+      "name": "Caudan Waterfront",
+      "kind": "do",
+      "locality": "Port Louis",
+      "lat": -20.16139,
+      "lon": 57.49831,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "address": "Marina Quay",
+      "url": "https://www.caudan.com/",
+      "id": "mauritius-0393bfd7172a14d778d5"
+    },
+    {
+      "name": "Blue Penny Museum",
+      "kind": "do",
+      "locality": "Port Louis",
+      "lat": -20.1609,
+      "lon": 57.4975,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "url": "https://www.bluepennymuseum.com/",
+      "id": "mauritius-bd8e8f968f8c4007e7ff"
+    },
+    {
+      "name": "Citadelle",
+      "kind": "do",
+      "locality": "Port Louis",
+      "lat": -20.16382,
+      "lon": 57.51019,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "address": "Sebastopol Street",
+      "price": "Free",
+      "id": "mauritius-eb948bcc3cabdf53507b"
+    },
+    {
+      "name": "St Louis Cathedral",
+      "kind": "do",
+      "locality": "Port Louis",
+      "lat": -20.164517,
+      "lon": 57.506507,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "address": "Sir William Newton Street",
+      "id": "mauritius-729f48805855bdca742a"
+    },
+    {
+      "name": "Jummah Mosque",
+      "kind": "do",
+      "locality": "Port Louis",
+      "lat": -20.159602,
+      "lon": 57.505158,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "address": "Jummah Mosque Street",
+      "url": "http://www.jummahmasjid.org/",
+      "id": "mauritius-4cd0f7de9a318ebb9c01"
+    },
+    {
+      "name": "Travellers' Lane",
+      "kind": "do",
+      "locality": "Port Louis",
+      "lat": -20.1642,
+      "lon": 57.5025,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "address": "Jardin des Compagnies",
+      "id": "mauritius-5d1677b10bf11cd84c93"
+    },
+    {
+      "name": "Chinatown",
+      "kind": "do",
+      "locality": "Port Louis",
+      "lat": -20.1594,
+      "lon": 57.5074,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "id": "mauritius-b58547fb99a273969b87"
+    },
+    {
+      "name": "Place d'Arms",
+      "kind": "do",
+      "locality": "Port Louis",
+      "lat": -20.16196,
+      "lon": 57.50208,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "id": "mauritius-c589d316e3c01d077dfa"
+    },
+    {
+      "name": "Natural History Museum",
+      "kind": "do",
+      "locality": "Port Louis",
+      "lat": -20.16332,
+      "lon": 57.50245,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "address": "Jardins da Companhia, Chaussee Street",
+      "id": "mauritius-7912c7a5e36880139e77"
+    },
+    {
+      "name": "Mauritius Postal Museum",
+      "kind": "do",
+      "locality": "Port Louis",
+      "lat": -20.159962,
+      "lon": 57.501596,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "address": "Port Louis Waterfront, Trunk Road",
+      "url": "https://www.mauritiuspost.mu/philately/postal-museum",
+      "id": "mauritius-582f49fa8a8cd17bcc5e"
+    },
+    {
+      "name": "Municipal Council",
+      "kind": "do",
+      "locality": "Port Louis",
+      "lat": -20.164256,
+      "lon": 57.504457,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "id": "mauritius-f209637e948f59504f0f"
+    },
+    {
+      "name": "Government House",
+      "kind": "do",
+      "locality": "Port Louis",
+      "lat": -20.163027,
+      "lon": 57.503566,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "id": "mauritius-60e1e801fb9be2aa54a7"
+    },
+    {
+      "name": "Sockalingum Meenatchee Ammen Kovil",
+      "kind": "do",
+      "locality": "Port Louis",
+      "lat": -20.14979,
+      "lon": 57.51931,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "id": "mauritius-6c9edc3cd0a62d2cdc01"
+    },
+    {
+      "name": "Marie Reine de la Paix",
+      "kind": "do",
+      "locality": "Port Louis",
+      "lat": -20.170393,
+      "lon": 57.496224,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "id": "mauritius-69326e73c326c923578f"
+    },
+    {
+      "name": "Old council street",
+      "kind": "do",
+      "locality": "Port Louis",
+      "lat": -20.16428,
+      "lon": 57.5037,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "id": "mauritius-70b0e2ed585bf1a10403"
+    },
+    {
+      "name": "Port Louis Theatre",
+      "kind": "do",
+      "locality": "Port Louis",
+      "lat": -20.163395,
+      "lon": 57.504478,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "address": "Remy Ollier St",
+      "url": "https://www.operamauritius.com/www2017/2009/pltheatre.php?Pg=pltheatre&Lang=en",
+      "id": "mauritius-913dc2f6ad8ccdce05ac"
+    },
+    {
+      "name": "Champs de Mars",
+      "kind": "do",
+      "locality": "Port Louis",
+      "lat": -20.169158,
+      "lon": 57.510089,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "address": "Destaining Street",
+      "url": "http://www.mauritiusturfclub.com/",
+      "id": "mauritius-eb17afcc00e614c9e84a"
+    },
+    {
+      "name": "Caudan Casino",
+      "kind": "do",
+      "locality": "Port Louis",
+      "lat": -20.16151,
+      "lon": 57.49906,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "url": "https://www.casinomauritius.mu/locations/port-louis-casino-caudan-waterfront/",
+      "id": "mauritius-a188b48b77a867f1fc11"
+    },
+    {
+      "name": "National Library of Mauritius",
+      "kind": "do",
+      "locality": "Port Louis",
+      "lat": -20.164527,
+      "lon": 57.500344,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "address": "59 Rue Mere, Barthelemy Edith Cavell St",
+      "url": "http://national-library.govmu.org/",
+      "id": "mauritius-5b36662a62620d5336e0"
+    },
+    {
+      "name": "Local Food Tours",
+      "kind": "do",
+      "locality": "Port Louis",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "url": "https://veranda-resorts.com/en/plan-your-stay-mauritius/mauritian-local-food-tours",
+      "id": "mauritius-cab867800fa386c19551"
+    },
+    {
+      "name": "Le Calife",
+      "kind": "eat",
+      "locality": "Port Louis",
+      "lat": -20.16554,
+      "lon": 57.50209,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "address": "Edith Cavell Street",
+      "id": "mauritius-7707e5ed836147c7450c"
+    },
+    {
+      "name": "Mystic Masala",
+      "kind": "eat",
+      "locality": "Port Louis",
+      "lat": -20.16115,
+      "lon": 57.5006,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "id": "mauritius-f7cf9983c0957bc35eb1"
+    },
+    {
+      "name": "First Restaurant",
+      "kind": "eat",
+      "locality": "Port Louis",
+      "lat": -20.1609,
+      "lon": 57.5041,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "address": "Angle Route Royale & Rue Corderie",
+      "id": "mauritius-6fde130ecd175c5128b7"
+    },
+    {
+      "name": "La Bonne Marmite",
+      "kind": "eat",
+      "locality": "Port Louis",
+      "lat": -20.16205,
+      "lon": 57.50324,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "address": "Sir William Newton Street 18",
+      "url": "http://www.bonnemarmite.com/",
+      "id": "mauritius-2f13e7854c1183c2ba26"
+    },
+    {
+      "name": "Namaste",
+      "kind": "eat",
+      "locality": "Port Louis",
+      "lat": -20.161,
+      "lon": 57.499,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "address": "L'Observatoire, Le Caudan Waterfront",
+      "url": "https://namaste.mu/",
+      "id": "mauritius-ce4f73dafe9bdb0aadd4"
+    },
+    {
+      "name": "The Courtyard",
+      "kind": "eat",
+      "locality": "Port Louis",
+      "lat": -20.16504,
+      "lon": 57.50039,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "address": "Chevreau Street",
+      "id": "mauritius-67f52ab60d32a7ecf1a6"
+    },
+    {
+      "name": "Black Steer",
+      "kind": "eat",
+      "locality": "Port Louis",
+      "lat": -20.1609,
+      "lon": 57.4979,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "address": "Caudan Waterfront",
+      "id": "mauritius-1efd09997c90ac5e897b"
+    },
+    {
+      "name": "La Boussole",
+      "kind": "eat",
+      "locality": "Port Louis",
+      "lat": -20.16038,
+      "lon": 57.49535,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "address": "Suffren Hotel & Marina, Caudan Waterfront",
+      "url": "http://www.lesuffrenhotel.com/resto.htm",
+      "id": "mauritius-f5ccb32995b88bf17158"
+    },
+    {
+      "name": "Yuzu",
+      "kind": "eat",
+      "locality": "Port Louis",
+      "lat": -20.16043,
+      "lon": 57.49788,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "address": "Caudan Waterfront",
+      "url": "https://ninetysixhotels.com/labourdonnais-waterfront-hotel-port-louis-mauritius.html",
+      "id": "mauritius-b45d0db951347a4b42e1"
+    },
+    {
+      "name": "Keg and Marlin Pub",
+      "kind": "eat",
+      "locality": "Port Louis",
+      "lat": -20.1612,
+      "lon": 57.5002,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "address": "Caudan Waterfront",
+      "url": "https://www.facebook.com/KEGandMarlin/",
+      "id": "mauritius-424e6870bd9360543e06"
+    },
+    {
+      "name": "Sunset Café",
+      "kind": "eat",
+      "locality": "Port Louis",
+      "lat": -20.16096,
+      "lon": 57.49819,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "address": "Caudan Waterfront",
+      "id": "mauritius-9ec5b8ab412024c0adc9"
+    },
+    {
+      "name": "Bourbon Tourist Hotel",
+      "kind": "stay",
+      "locality": "Port Louis",
+      "lat": -20.16062,
+      "lon": 57.50547,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "address": "Jummah Mosque Street, 26",
+      "id": "mauritius-30a66ec2ed083966c7b6"
+    },
+    {
+      "name": "Hotel Le Grand Carnot",
+      "kind": "stay",
+      "locality": "Port Louis",
+      "lat": -20.16127,
+      "lon": 57.50672,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "address": "Dr. Edouard Laurent Street",
+      "id": "mauritius-48f812a1a87bc37afdf5"
+    },
+    {
+      "name": "Hotel Le Champ de Mars",
+      "kind": "stay",
+      "locality": "Port Louis",
+      "lat": -20.169708,
+      "lon": 57.509077,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "address": "22 Frère Felix De Valois St.",
+      "url": "http://www.champdemarshotel.com/",
+      "id": "mauritius-ac96c7805ff45092e153"
+    },
+    {
+      "name": "Tandoori Hotel",
+      "kind": "stay",
+      "locality": "Port Louis",
+      "lat": -20.1638,
+      "lon": 57.49769,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "address": "Jemmapes Street",
+      "id": "mauritius-1dc06fa6993f758154f1"
+    },
+    {
+      "name": "Le Suffren Hotel and Marina",
+      "kind": "stay",
+      "locality": "Port Louis",
+      "lat": -20.16051,
+      "lon": 57.49555,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "address": "Le Caudan Waterfront",
+      "url": "http://www.lesuffrenhotel.com/",
+      "id": "mauritius-d92c63e42ccc3b048d7d"
+    },
+    {
+      "name": "Labourdonnais Waterfront Hotel",
+      "kind": "stay",
+      "locality": "Port Louis",
+      "lat": -20.16032,
+      "lon": 57.49765,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "address": "Caudan Waterfront",
+      "url": "http://www.labourdonnais.com/",
+      "id": "mauritius-79d2654e974a766dc85d"
+    },
+    {
+      "name": "Le Saint Georges Hotel",
+      "kind": "stay",
+      "locality": "Port Louis",
+      "lat": -20.166472,
+      "lon": 57.501286,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "address": "19 St Georges St",
+      "url": "https://www.saintgeorgeshotel-mu.com/",
+      "id": "mauritius-15524d914de610e3b975"
+    },
+    {
+      "name": "Sir Seewoosagur Ramgoolam Botanical Garden",
+      "kind": "do",
+      "locality": "Port Louis",
+      "lat": -20.107177,
+      "lon": 57.579256,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "address": "8 km north of Port Louis, in Pamplemousses",
+      "id": "mauritius-ec2d38cbe0a99d46fb3d"
+    },
+    {
+      "name": "Port Louis",
+      "kind": "area",
+      "locality": "Port Louis",
+      "lat": -20.166667,
+      "lon": 57.5,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Louis",
+      "id": "mauritius-8c6099ca2eeb7df94afd"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

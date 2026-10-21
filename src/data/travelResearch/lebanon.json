@@ -1,0 +1,1396 @@
+{
+  "sources": [
+    {
+      "title": "Lebanon",
+      "url": "https://en.wikivoyage.org/wiki/Lebanon",
+      "checkedAt": "2026-10-21T08:10:27.661Z"
+    },
+    {
+      "title": "Beirut",
+      "url": "https://en.wikivoyage.org/wiki/Beirut",
+      "checkedAt": "2026-10-21T08:10:30.621Z"
+    },
+    {
+      "title": "Beirut/Downtown",
+      "url": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "checkedAt": "2026-10-21T08:10:33.402Z"
+    },
+    {
+      "title": "Beirut/Ashrafieh",
+      "url": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "checkedAt": "2026-10-21T08:10:36.222Z"
+    },
+    {
+      "title": "Beirut/Ain El Mraiseh",
+      "url": "https://en.wikivoyage.org/wiki/Beirut%2FAin_El_Mraiseh",
+      "checkedAt": "2026-10-21T08:10:39.372Z"
+    },
+    {
+      "title": "Beirut/Hamra",
+      "url": "https://en.wikivoyage.org/wiki/Beirut%2FHamra",
+      "checkedAt": "2026-10-21T08:10:42.224Z"
+    },
+    {
+      "title": "Beirut/Ras Beirut",
+      "url": "https://en.wikivoyage.org/wiki/Beirut%2FRas_Beirut",
+      "checkedAt": "2026-10-21T08:10:45.199Z"
+    },
+    {
+      "title": "Beirut/Rawcheh",
+      "url": "https://en.wikivoyage.org/wiki/Beirut%2FRawcheh",
+      "checkedAt": "2026-10-21T08:10:48.197Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Beirut",
+      "kind": "area",
+      "locality": "Lebanon",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lebanon",
+      "id": "lebanon-4b2b31ebd7f0e0eeea25"
+    },
+    {
+      "name": "Tripoli",
+      "kind": "area",
+      "locality": "Lebanon",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lebanon",
+      "id": "lebanon-6cf75a042d43ed82f1d6"
+    },
+    {
+      "name": "Sidon",
+      "kind": "area",
+      "locality": "Lebanon",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lebanon",
+      "id": "lebanon-a45b7a01ccfabd0e6376"
+    },
+    {
+      "name": "Tyre",
+      "kind": "area",
+      "locality": "Lebanon",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lebanon",
+      "id": "lebanon-19b5f2396709b0168300"
+    },
+    {
+      "name": "Byblos",
+      "kind": "area",
+      "locality": "Lebanon",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lebanon",
+      "id": "lebanon-bb6b1838c04a8fe66f92"
+    },
+    {
+      "name": "Jounieh",
+      "kind": "area",
+      "locality": "Lebanon",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lebanon",
+      "id": "lebanon-9a19b0a07819079664a8"
+    },
+    {
+      "name": "Jezzine",
+      "kind": "area",
+      "locality": "Lebanon",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lebanon",
+      "id": "lebanon-457ef24854b0553e9800"
+    },
+    {
+      "name": "Zahle",
+      "kind": "area",
+      "locality": "Lebanon",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lebanon",
+      "id": "lebanon-7ca917f4bcf53bf8f21b"
+    },
+    {
+      "name": "National Museum of Beirut",
+      "kind": "do",
+      "locality": "Beirut",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut",
+      "id": "lebanon-c5119560be4475ef3416"
+    },
+    {
+      "name": "Sursock Museum",
+      "kind": "do",
+      "locality": "Beirut",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut",
+      "url": "https://sursock.museum/",
+      "id": "lebanon-f60d3e0a3dc37ecbd6ea"
+    },
+    {
+      "name": "Archaeological Museum of the American University of Beirut",
+      "kind": "do",
+      "locality": "Beirut",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut",
+      "url": "https://www.aub.edu.lb/museum_archeo/Pages/default.aspx",
+      "id": "lebanon-bfba830f4374bc02912b"
+    },
+    {
+      "name": "The Silk Museum - Bsous",
+      "kind": "do",
+      "locality": "Beirut",
+      "lat": 33.81788,
+      "lon": 35.57227,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut",
+      "url": "https://www.facebook.com/SilkMuseumBsous/",
+      "id": "lebanon-1338ff830a9b27d42f3a"
+    },
+    {
+      "name": "Beirut International Film Festival",
+      "kind": "do",
+      "locality": "Beirut",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut",
+      "url": "http://www.beirutfilmfestival.org/",
+      "id": "lebanon-1eea0d7f0c3cd8d1c4a6"
+    },
+    {
+      "name": "Beirut International Jazz Festival",
+      "kind": "do",
+      "locality": "Beirut",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut",
+      "url": "http://www.bijf.radioonev5.com/index.php/",
+      "id": "lebanon-6f41e7c485677e4c8725"
+    },
+    {
+      "name": "Festival du cinéma francophone",
+      "kind": "do",
+      "locality": "Beirut",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut",
+      "url": "https://www.metropoliscinema.net/page/home/",
+      "id": "lebanon-2af453f2bcf72dc70829"
+    },
+    {
+      "name": "Ramlet Al-Baida",
+      "kind": "do",
+      "locality": "Beirut",
+      "lat": 33.8786,
+      "lon": 35.4801,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut",
+      "id": "lebanon-69148e94cf36f0a90f3e"
+    },
+    {
+      "name": "NISD",
+      "kind": "do",
+      "locality": "Beirut",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut",
+      "url": "http://www.nisd-online.com/",
+      "id": "lebanon-97954a3de1d0a0e5e88d"
+    },
+    {
+      "name": "LD",
+      "kind": "do",
+      "locality": "Beirut",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut",
+      "url": "http://www.lebanondivers.com/",
+      "id": "lebanon-c5ab03389ea6dcd4bdff"
+    },
+    {
+      "name": "Atlantis",
+      "kind": "do",
+      "locality": "Beirut",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut",
+      "url": "http://www.atlantisdivingcollege.com/",
+      "id": "lebanon-c7ce4f8a3b6cb0642a7e"
+    },
+    {
+      "name": "Beirut",
+      "kind": "area",
+      "locality": "Beirut",
+      "lat": 33.886944,
+      "lon": 35.513056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut",
+      "id": "lebanon-da38ecf46fa98ccca024"
+    },
+    {
+      "name": "Nejmeh Square",
+      "kind": "do",
+      "locality": "Beirut/Downtown",
+      "lat": 33.89664,
+      "lon": 35.50449,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "id": "lebanon-d0c9155112cc5b4e531c"
+    },
+    {
+      "name": "Martyr's Square",
+      "kind": "do",
+      "locality": "Beirut/Downtown",
+      "lat": 33.89638,
+      "lon": 35.50716,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "id": "lebanon-d56f57b3c667a605a958"
+    },
+    {
+      "name": "Solidere District",
+      "kind": "do",
+      "locality": "Beirut/Downtown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "id": "lebanon-7a5e66237c54ab5019c4"
+    },
+    {
+      "name": "Saifi Village",
+      "kind": "do",
+      "locality": "Beirut/Downtown",
+      "lat": 33.894294,
+      "lon": 35.508214,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "address": "Quartier des Arts",
+      "id": "lebanon-29115d45a4a3e0d602b1"
+    },
+    {
+      "name": "Gibran Khalil Gibran Garden",
+      "kind": "do",
+      "locality": "Beirut/Downtown",
+      "lat": 33.89403,
+      "lon": 35.50185,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "id": "lebanon-cf2d8bf51a707033f00c"
+    },
+    {
+      "name": "Planet Discovery",
+      "kind": "do",
+      "locality": "Beirut/Downtown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "address": "Omar El Daouk Street",
+      "id": "lebanon-93747b9dbc6280b1e9ec"
+    },
+    {
+      "name": "Robert Mouawad Museum",
+      "kind": "do",
+      "locality": "Beirut/Downtown",
+      "lat": 33.895325,
+      "lon": 35.498981,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "url": "http://www.rmpm.info/",
+      "id": "lebanon-b0e32c607ac92b1323aa"
+    },
+    {
+      "name": "Roman Baths",
+      "kind": "do",
+      "locality": "Beirut/Downtown",
+      "lat": 33.89684,
+      "lon": 35.50256,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "id": "lebanon-5471381d7f3ead06fab4"
+    },
+    {
+      "name": "Grand Serail",
+      "kind": "do",
+      "locality": "Beirut/Downtown",
+      "lat": 33.89592,
+      "lon": 35.50096,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "id": "lebanon-8c8922a9aa25719d9454"
+    },
+    {
+      "name": "Cathedral of Saint Georges",
+      "kind": "do",
+      "locality": "Beirut/Downtown",
+      "lat": 33.896339,
+      "lon": 35.505141,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "id": "lebanon-4a7cd3239f990448d84b"
+    },
+    {
+      "name": "Cathedral of Saint Elias",
+      "kind": "do",
+      "locality": "Beirut/Downtown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "id": "lebanon-30f3dd58127ece9c16b6"
+    },
+    {
+      "name": "The Saint Louis Church of the Capucins",
+      "kind": "do",
+      "locality": "Beirut/Downtown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "id": "lebanon-88c52a69748cb6fd4c21"
+    },
+    {
+      "name": "The Evangelical Church",
+      "kind": "do",
+      "locality": "Beirut/Downtown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "id": "lebanon-a2fa72378b5b4c2077b2"
+    },
+    {
+      "name": "The Maronite Cathedral of St. George",
+      "kind": "do",
+      "locality": "Beirut/Downtown",
+      "lat": 33.895272,
+      "lon": 35.50531,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "id": "lebanon-238df8435432df900f67"
+    },
+    {
+      "name": "Al Omari Mosque",
+      "kind": "do",
+      "locality": "Beirut/Downtown",
+      "lat": 33.897621,
+      "lon": 35.505211,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "id": "lebanon-03f96a2857a4973cd1e6"
+    },
+    {
+      "name": "Zawiyat Ibn Al-Arraq",
+      "kind": "do",
+      "locality": "Beirut/Downtown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "id": "lebanon-cbccd8d0586493bc84fe"
+    },
+    {
+      "name": "Emir Assaf Mosque",
+      "kind": "do",
+      "locality": "Beirut/Downtown",
+      "lat": 33.8975,
+      "lon": 35.50591,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "id": "lebanon-07b1f5ee36fc088b2991"
+    },
+    {
+      "name": "Amir Munzer Mosque",
+      "kind": "do",
+      "locality": "Beirut/Downtown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "id": "lebanon-c33abb0b3f00ece6de5e"
+    },
+    {
+      "name": "Majidiyyeh Mosque",
+      "kind": "do",
+      "locality": "Beirut/Downtown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "id": "lebanon-96384e00271db422a876"
+    },
+    {
+      "name": "Mohammad AlAmin Mosque",
+      "kind": "do",
+      "locality": "Beirut/Downtown",
+      "lat": 33.89524,
+      "lon": 35.50604,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "id": "lebanon-bb9fa1abc949ffef58fc"
+    },
+    {
+      "name": "Maghen Abraham Synagogue",
+      "kind": "do",
+      "locality": "Beirut/Downtown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "id": "lebanon-009aae7758032173011c"
+    },
+    {
+      "name": "Downtown Beirut Official Site",
+      "kind": "do",
+      "locality": "Beirut/Downtown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "address": "Beirut",
+      "url": "http://www.downtownbeirut.com/",
+      "id": "lebanon-cb0b8767b2b8d7476094"
+    },
+    {
+      "name": "The Music Hall",
+      "kind": "do",
+      "locality": "Beirut/Downtown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "address": "Center",
+      "url": "http://www.mappedtravel.com/beirut/1036/music+hall/detail.php",
+      "id": "lebanon-12341c6526a088e1adc4"
+    },
+    {
+      "name": "Iris",
+      "kind": "eat",
+      "locality": "Beirut/Downtown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "id": "lebanon-354470e2cca25731379e"
+    },
+    {
+      "name": "Taboo",
+      "kind": "eat",
+      "locality": "Beirut/Downtown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "id": "lebanon-ae0d90159a58dff98496"
+    },
+    {
+      "name": "I-Bar",
+      "kind": "eat",
+      "locality": "Beirut/Downtown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "id": "lebanon-fd56826be2b7cdc36a2e"
+    },
+    {
+      "name": "Citrus/Pure",
+      "kind": "eat",
+      "locality": "Beirut/Downtown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "id": "lebanon-d85c6929ec5a14f70c44"
+    },
+    {
+      "name": "Al Nazih Pension",
+      "kind": "stay",
+      "locality": "Beirut/Downtown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "address": "Bld. 3, Rue 62 Chanty, Secteur 29, Gemmayze",
+      "id": "lebanon-7778dad230fd6ba3c528"
+    },
+    {
+      "name": "Saifi Urban Gardens",
+      "kind": "stay",
+      "locality": "Beirut/Downtown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "address": "Pasteur Street",
+      "id": "lebanon-d0a3d14fb3782d28197d"
+    },
+    {
+      "name": "Ramada",
+      "kind": "stay",
+      "locality": "Beirut/Downtown",
+      "lat": 33.8989,
+      "lon": 35.4995,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "address": "Chateaubriand Street Solidere",
+      "url": "http://www.ramadadowntownbeirut.com/",
+      "id": "lebanon-6b317306f713ec1e3350"
+    },
+    {
+      "name": "Etoile Suites Hotel",
+      "kind": "stay",
+      "locality": "Beirut/Downtown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "address": "Hussain Al Ahdab street",
+      "price": "US$300",
+      "id": "lebanon-d9f38e41526332868279"
+    },
+    {
+      "name": "Markazia Monroe Suites",
+      "kind": "stay",
+      "locality": "Beirut/Downtown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "address": "Syria Street . Solidere",
+      "url": "http://www.monroebeirut.com/",
+      "id": "lebanon-233046f6e19ee2c18a6f"
+    },
+    {
+      "name": "Radisson Blu Martinez Hotel",
+      "kind": "stay",
+      "locality": "Beirut/Downtown",
+      "lat": 33.9002,
+      "lon": 35.4927,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "address": "Ain El Mreysseh",
+      "url": "http://www.radissonblu.com/hotel-beirut",
+      "id": "lebanon-826a91c17db5c4b189a7"
+    },
+    {
+      "name": "Le Gray",
+      "kind": "stay",
+      "locality": "Beirut/Downtown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "id": "lebanon-e60246f618fc77f7c027"
+    },
+    {
+      "name": "Four Seasons Hotel Beirut",
+      "kind": "stay",
+      "locality": "Beirut/Downtown",
+      "lat": 33.9017,
+      "lon": 35.499,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "address": "Minet El Hosn",
+      "url": "https://www.fourseasons.com/beirut/",
+      "id": "lebanon-ea287cf8c4b1a47e7afe"
+    },
+    {
+      "name": "Grand Hyatt",
+      "kind": "stay",
+      "locality": "Beirut/Downtown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "id": "lebanon-8b6174cc70d0f87eab98"
+    },
+    {
+      "name": "Beirut/Downtown",
+      "kind": "area",
+      "locality": "Beirut/Downtown",
+      "lat": 33.8962,
+      "lon": 35.5014,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FDowntown",
+      "id": "lebanon-9f57e2c99835bfca0e89"
+    },
+    {
+      "name": "National Museum Of Beirut",
+      "kind": "do",
+      "locality": "Beirut/Ashrafieh",
+      "lat": 33.878219,
+      "lon": 35.514903,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "price": "LL5,000 (adult), LL1,000 (students, under 18)",
+      "url": "http://museebeyrouth-liban.org/",
+      "id": "lebanon-c6d5b1c10791cca6ab48"
+    },
+    {
+      "name": "Nicolas Sursock Museum",
+      "kind": "do",
+      "locality": "Beirut/Ashrafieh",
+      "lat": 33.893026,
+      "lon": 35.51627,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "address": "Greek Orthodox Archbishopric Street",
+      "url": "https://sursock.museum/",
+      "id": "lebanon-6fd7b45b53892d2d81f8"
+    },
+    {
+      "name": "Saint Nicolas Stairs",
+      "kind": "do",
+      "locality": "Beirut/Ashrafieh",
+      "lat": 33.894378,
+      "lon": 35.515381,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "url": "http://gemayze.tripod.com/gemayze-art/",
+      "id": "lebanon-5cab9c3f37e762227832"
+    },
+    {
+      "name": "Beit Beirut - Museum and Urban Cultural Center",
+      "kind": "do",
+      "locality": "Beirut/Ashrafieh",
+      "lat": 33.88693,
+      "lon": 35.50834,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "id": "lebanon-6c1b76f6df1e7a0a6a0d"
+    },
+    {
+      "name": "Sassine Square",
+      "kind": "do",
+      "locality": "Beirut/Ashrafieh",
+      "lat": 33.88732,
+      "lon": 35.52093,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "id": "lebanon-1b6e130383253fe9ef0d"
+    },
+    {
+      "name": "MIM Mineral Museum",
+      "kind": "do",
+      "locality": "Beirut/Ashrafieh",
+      "lat": 33.87984,
+      "lon": 35.51413,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "address": "inside Université Saint-Joseph Campus de L'innovation et du Sport (CIS)",
+      "url": "http://www.mim.museum/",
+      "id": "lebanon-88f68563ab20587a3c67"
+    },
+    {
+      "name": "Empire Sodeco",
+      "kind": "do",
+      "locality": "Beirut/Ashrafieh",
+      "lat": 33.89635,
+      "lon": 35.507031,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "url": "http://www.circuit-empire.com.lb/",
+      "id": "lebanon-ba70b2bbac8aeb1d2da3"
+    },
+    {
+      "name": "Empire Sofil",
+      "kind": "do",
+      "locality": "Beirut/Ashrafieh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "id": "lebanon-543befde67eb30426e49"
+    },
+    {
+      "name": "Grand ABC",
+      "kind": "do",
+      "locality": "Beirut/Ashrafieh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "url": "http://www.grandcinemas.com/lb/",
+      "id": "lebanon-913ba2764193a33a6966"
+    },
+    {
+      "name": "The Beauty Lounge",
+      "kind": "do",
+      "locality": "Beirut/Ashrafieh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "address": "210 Sassine Plaza, Achrafieh",
+      "id": "lebanon-a54b4ce207496d934f51"
+    },
+    {
+      "name": "Institut Nouna Baz",
+      "kind": "do",
+      "locality": "Beirut/Ashrafieh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "address": "Itani Bldg., 5th floor, Verdun",
+      "id": "lebanon-d2de5574297049b68353"
+    },
+    {
+      "name": "Lena Chaiban",
+      "kind": "do",
+      "locality": "Beirut/Ashrafieh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "address": "Centre Medical Pasteur Clinic, Gemmayzeh",
+      "id": "lebanon-7691069962a65e749db9"
+    },
+    {
+      "name": "Cafe Em Nazih",
+      "kind": "eat",
+      "locality": "Beirut/Ashrafieh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "address": "Saifi Urban Gardens, Pasteur St. Gemayze",
+      "price": "Meal for two with drink: around US$16",
+      "id": "lebanon-ede6a55b7fb83fe039f0"
+    },
+    {
+      "name": "Classic Burger",
+      "kind": "eat",
+      "locality": "Beirut/Ashrafieh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "address": "Sodeco",
+      "price": "Meal for two with drink: around US$20",
+      "id": "lebanon-c686ba0a805d05c5046d"
+    },
+    {
+      "name": "Maki Beirut",
+      "kind": "eat",
+      "locality": "Beirut/Ashrafieh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "address": "Beirut Homes Building, Aschrafeih, Damascus Road & Habib Basha El Saad Road",
+      "price": "Average per person US$40",
+      "url": "http://www.maki.to/",
+      "id": "lebanon-df74f52932d8e5501de9"
+    },
+    {
+      "name": "Couqley",
+      "kind": "eat",
+      "locality": "Beirut/Ashrafieh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "address": "The Alleyway, Rue Gouraud, Gemmayze",
+      "price": "Dinner for two with wine: US$60-100",
+      "url": "http://www.couqley.com/",
+      "id": "lebanon-a9ab94a045c3fdaae9ad"
+    },
+    {
+      "name": "Adam",
+      "kind": "eat",
+      "locality": "Beirut/Ashrafieh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "id": "lebanon-09e5544d61cd187bf6ba"
+    },
+    {
+      "name": "Bar Louie",
+      "kind": "eat",
+      "locality": "Beirut/Ashrafieh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "id": "lebanon-ea57cf1376994e27b144"
+    },
+    {
+      "name": "Corleone Trattoria",
+      "kind": "eat",
+      "locality": "Beirut/Ashrafieh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "id": "lebanon-beec910caa4e6a4aff56"
+    },
+    {
+      "name": "LaTabkha",
+      "kind": "eat",
+      "locality": "Beirut/Ashrafieh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "id": "lebanon-9b4531ec090a00de29e6"
+    },
+    {
+      "name": "Le Chef",
+      "kind": "eat",
+      "locality": "Beirut/Ashrafieh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "id": "lebanon-a9d0f3bfe533ffd27fce"
+    },
+    {
+      "name": "Paul",
+      "kind": "eat",
+      "locality": "Beirut/Ashrafieh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "id": "lebanon-73a3dc57ce425ba5dcf6"
+    },
+    {
+      "name": "Soto",
+      "kind": "eat",
+      "locality": "Beirut/Ashrafieh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "id": "lebanon-a3daff17a590281384a0"
+    },
+    {
+      "name": "Barbu",
+      "kind": "eat",
+      "locality": "Beirut/Ashrafieh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "id": "lebanon-10c4a2d7a225cbed6143"
+    },
+    {
+      "name": "Dice",
+      "kind": "eat",
+      "locality": "Beirut/Ashrafieh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "id": "lebanon-1f4c12b7ec7671aaf230"
+    },
+    {
+      "name": "Dragonfly Pub",
+      "kind": "eat",
+      "locality": "Beirut/Ashrafieh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "id": "lebanon-10a4c3e52471b708686c"
+    },
+    {
+      "name": "Godot",
+      "kind": "eat",
+      "locality": "Beirut/Ashrafieh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "id": "lebanon-4cd0089a9f5d356b466e"
+    },
+    {
+      "name": "Hickey's",
+      "kind": "eat",
+      "locality": "Beirut/Ashrafieh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "id": "lebanon-c4eacc5bbf3ced7292a3"
+    },
+    {
+      "name": "Zeus",
+      "kind": "eat",
+      "locality": "Beirut/Ashrafieh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "id": "lebanon-35b61019b8ea9dc138c5"
+    },
+    {
+      "name": "Sinners",
+      "kind": "eat",
+      "locality": "Beirut/Ashrafieh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "id": "lebanon-b920cc74976890da8365"
+    },
+    {
+      "name": "Coop D'Etat Rooftop",
+      "kind": "eat",
+      "locality": "Beirut/Ashrafieh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "address": "Hamra Urban Gardens",
+      "price": "beer: LL5000, drink: LL10000",
+      "url": "https://www.facebook.com/CoopBeirut",
+      "id": "lebanon-ffe690fd398069c6d793"
+    },
+    {
+      "name": "Saifi Urban Gardens",
+      "kind": "stay",
+      "locality": "Beirut/Ashrafieh",
+      "lat": 33.896045,
+      "lon": 35.516541,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "url": "http://saifigardens.com/",
+      "id": "lebanon-bda4dabc4447ab1a2953"
+    },
+    {
+      "name": "Hotel Sofitel Le Gabriel",
+      "kind": "stay",
+      "locality": "Beirut/Ashrafieh",
+      "lat": 33.887085,
+      "lon": 35.517347,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "address": "Avenue de l'Indépendance, 197",
+      "price": "US$140-400",
+      "url": "https://all.accor.com/hotel/2163/index.en.shtml",
+      "id": "lebanon-238885b792f130a82205"
+    },
+    {
+      "name": "Hotel Alexandre",
+      "kind": "stay",
+      "locality": "Beirut/Ashrafieh",
+      "lat": 33.883947,
+      "lon": 35.520556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "address": "Adib Ishak Street",
+      "url": "http://www.hotelalexandre.com/",
+      "id": "lebanon-b5af75e5aba2e927e625"
+    },
+    {
+      "name": "Park Tower Suites",
+      "kind": "stay",
+      "locality": "Beirut/Ashrafieh",
+      "lat": 33.886299,
+      "lon": 35.514468,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "address": "President Elias Sarkis Avenue",
+      "url": "http://www.parktowersuites.com/",
+      "id": "lebanon-0c9bf77ff64cbf11177c"
+    },
+    {
+      "name": "Hotel Albergo",
+      "kind": "stay",
+      "locality": "Beirut/Ashrafieh",
+      "lat": 33.887926,
+      "lon": 35.51034,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "address": "137 Rue Abdel Wahab El Inglizi",
+      "price": "US$245-450",
+      "url": "http://www.albergobeirut.com/",
+      "id": "lebanon-395beee1fd62aa369b83"
+    },
+    {
+      "name": "Beirut/Ashrafieh",
+      "kind": "area",
+      "locality": "Beirut/Ashrafieh",
+      "lat": 33.8902,
+      "lon": 35.5197,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAshrafieh",
+      "id": "lebanon-4f9400232040c298fc1c"
+    },
+    {
+      "name": "Zaituna Bay",
+      "kind": "do",
+      "locality": "Beirut/Ain El Mraiseh",
+      "lat": 33.902,
+      "lon": 35.49754,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAin_El_Mraiseh",
+      "url": "http://zaitunaybay.com/",
+      "id": "lebanon-03fdffc07b957be4a6d4"
+    },
+    {
+      "name": "Corniche Ain Mreisse",
+      "kind": "do",
+      "locality": "Beirut/Ain El Mraiseh",
+      "lat": 33.90141,
+      "lon": 35.48996,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAin_El_Mraiseh",
+      "id": "lebanon-edcd82d2f635bb9b1885"
+    },
+    {
+      "name": "Casablanca",
+      "kind": "eat",
+      "locality": "Beirut/Ain El Mraiseh",
+      "lat": 33.901097,
+      "lon": 35.488204,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAin_El_Mraiseh",
+      "address": "Ali Al Hout Building, Graham Street",
+      "price": "Meal for two with wine: USD 70",
+      "id": "lebanon-c2cebfbdfbba3ebc52bf"
+    },
+    {
+      "name": "Abou Sami Rest",
+      "kind": "eat",
+      "locality": "Beirut/Ain El Mraiseh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAin_El_Mraiseh",
+      "address": "Ain El Mreisseh, Choukry Ghanem str.",
+      "id": "lebanon-b59b901a823443abca39"
+    },
+    {
+      "name": "Café d'Orient",
+      "kind": "eat",
+      "locality": "Beirut/Ain El Mraiseh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAin_El_Mraiseh",
+      "address": "Ain Mreysseh Sea Road, Ain Mreysseh",
+      "id": "lebanon-838ea4bf8496589a0de3"
+    },
+    {
+      "name": "Capmed",
+      "kind": "eat",
+      "locality": "Beirut/Ain El Mraiseh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAin_El_Mraiseh",
+      "address": "Ain El Mreisseh, Palm Beach Hotel",
+      "id": "lebanon-c5ba3432df1a375b5f85"
+    },
+    {
+      "name": "Au Premier",
+      "kind": "eat",
+      "locality": "Beirut/Ain El Mraiseh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAin_El_Mraiseh",
+      "address": "Ain El Mreisseh, Le Vendôme Inter-Continental",
+      "id": "lebanon-ab1429aebddf0e1c2f90"
+    },
+    {
+      "name": "Le Colonial",
+      "kind": "eat",
+      "locality": "Beirut/Ain El Mraiseh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAin_El_Mraiseh",
+      "address": "Ain Mreisseh, Palm Beach Hotel",
+      "id": "lebanon-295feabebeda3f4a2ccc"
+    },
+    {
+      "name": "Cadmos Hotel Restaurant",
+      "kind": "eat",
+      "locality": "Beirut/Ain El Mraiseh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAin_El_Mraiseh",
+      "address": "Ain El Mreisseh, Cadmos Hotel",
+      "id": "lebanon-a97f33e3a550e09a1729"
+    },
+    {
+      "name": "Splendido",
+      "kind": "eat",
+      "locality": "Beirut/Ain El Mraiseh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAin_El_Mraiseh",
+      "id": "lebanon-704d4eef18a873fb918d"
+    },
+    {
+      "name": "Spaghetteria Italiana",
+      "kind": "eat",
+      "locality": "Beirut/Ain El Mraiseh",
+      "lat": 33.901102,
+      "lon": 35.488273,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAin_El_Mraiseh",
+      "address": "Graham Street, Ain El Mreisseh",
+      "price": "Meal for two with wine: around US$35",
+      "id": "lebanon-d124fafb8761bd135bf5"
+    },
+    {
+      "name": "Charles Hotel",
+      "kind": "stay",
+      "locality": "Beirut/Ain El Mraiseh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAin_El_Mraiseh",
+      "address": "Ain El Mraisseh",
+      "id": "lebanon-15ed2a01ffb2ccc9194b"
+    },
+    {
+      "name": "Cadmos Hotel",
+      "kind": "stay",
+      "locality": "Beirut/Ain El Mraiseh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAin_El_Mraiseh",
+      "address": "Ain El Mraisseh",
+      "id": "lebanon-274b055ad4875d534898"
+    },
+    {
+      "name": "Palm Beach Hotel",
+      "kind": "stay",
+      "locality": "Beirut/Ain El Mraiseh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAin_El_Mraiseh",
+      "address": "Ain El Mraisseh",
+      "price": "US$60-800",
+      "url": "http://www.palmbeachbeirut.com/",
+      "id": "lebanon-dba499e85970c2f35c50"
+    },
+    {
+      "name": "Hotel Monroe",
+      "kind": "stay",
+      "locality": "Beirut/Ain El Mraiseh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAin_El_Mraiseh",
+      "address": "Kennedy Street - Solidere- Ain El Mraisseh",
+      "price": "US$185",
+      "url": "https://www.facebook.com/monroehotel/",
+      "id": "lebanon-0b1c1ab9560ec835b619"
+    },
+    {
+      "name": "Bayview Hotel",
+      "kind": "stay",
+      "locality": "Beirut/Ain El Mraiseh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAin_El_Mraiseh",
+      "address": "Ain El Mraisseh",
+      "price": "US$135",
+      "url": "https://bayviewhotel.com.lb/en/index.html",
+      "id": "lebanon-6e539382e903a6bd6fc7"
+    },
+    {
+      "name": "Radisson SAS Martinez Hotel",
+      "kind": "stay",
+      "locality": "Beirut/Ain El Mraiseh",
+      "lat": 33.900163,
+      "lon": 35.492673,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAin_El_Mraiseh",
+      "address": "Ain El Mraisseh",
+      "price": "US$280-550",
+      "url": "http://www.radissonblu.com/hotel-beirut",
+      "id": "lebanon-f19dc4420aae5cff1349"
+    },
+    {
+      "name": "InterContinental Phoenicia Hotel",
+      "kind": "stay",
+      "locality": "Beirut/Ain El Mraiseh",
+      "lat": 33.900665,
+      "lon": 35.494953,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAin_El_Mraiseh",
+      "address": "Ain El Mraisseh/Minet El Hosn",
+      "url": "http://phoeniciabeirut.com/",
+      "id": "lebanon-bfbef7c4eac366aedaff"
+    },
+    {
+      "name": "Le Vendome Intercontinental Hotel",
+      "kind": "stay",
+      "locality": "Beirut/Ain El Mraiseh",
+      "lat": 33.901872,
+      "lon": 35.491747,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAin_El_Mraiseh",
+      "address": "Ain El Mraisseh",
+      "price": "US$195-2000",
+      "url": "http://www.ichotelsgroup.com/h/d/ic/1/en/hotel/beyhb?_requestid=585892",
+      "id": "lebanon-2e98e5cb443d37362e65"
+    },
+    {
+      "name": "Beirut/Ain El Mraiseh",
+      "kind": "area",
+      "locality": "Beirut/Ain El Mraiseh",
+      "lat": 33.8997,
+      "lon": 35.4902,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FAin_El_Mraiseh",
+      "id": "lebanon-4356b9f360643a19507f"
+    },
+    {
+      "name": "AUB Museum",
+      "kind": "do",
+      "locality": "Beirut/Hamra",
+      "lat": 33.899458,
+      "lon": 35.483642,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FHamra",
+      "address": "Rue. Bliss (Rue.33)",
+      "url": "https://www.aub.edu.lb/",
+      "id": "lebanon-7f92aefe727b030ce7a7"
+    },
+    {
+      "name": "Agial Art Gallery",
+      "kind": "do",
+      "locality": "Beirut/Hamra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FHamra",
+      "address": "63 Abdul Aziz street",
+      "url": "http://www.agialart.com/",
+      "id": "lebanon-8a838323455649f0ebf2"
+    },
+    {
+      "name": "Chahine Gallery",
+      "kind": "do",
+      "locality": "Beirut/Hamra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FHamra",
+      "address": "103 Mme Curie St. (Zeidaniyeh),",
+      "url": "http://www.chahinegallery.com.lb/",
+      "id": "lebanon-e903867cb5c0a5b6d8d8"
+    },
+    {
+      "name": "Galerie Zamaan",
+      "kind": "do",
+      "locality": "Beirut/Hamra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FHamra",
+      "address": "131 Rue Sadate",
+      "id": "lebanon-dc15774eb4091885da34"
+    },
+    {
+      "name": "Metro Al Madina",
+      "kind": "do",
+      "locality": "Beirut/Hamra",
+      "lat": 33.895407,
+      "lon": 35.485654,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FHamra",
+      "address": "Hamra St",
+      "url": "http://www.metromadina.com/",
+      "id": "lebanon-89ac923e239848902bdc"
+    },
+    {
+      "name": "Dermaline",
+      "kind": "do",
+      "locality": "Beirut/Hamra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FHamra",
+      "address": "Ras Beirut Clinics",
+      "id": "lebanon-7c9693b88ab62f4664c7"
+    },
+    {
+      "name": "Houna Holistic Centre",
+      "kind": "do",
+      "locality": "Beirut/Hamra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FHamra",
+      "address": "Montreal Bldg, Hamra Street, Hamra",
+      "id": "lebanon-eb4407a068fd59927092"
+    },
+    {
+      "name": "Blue Note Café",
+      "kind": "eat",
+      "locality": "Beirut/Hamra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FHamra",
+      "address": "Makhoul Street",
+      "price": "Meal for two with wine: around US$45",
+      "url": "https://www.facebook.com/bluenotecafebeirut/",
+      "id": "lebanon-83d7ba0b68ff4ff26bc9"
+    },
+    {
+      "name": "Caravanserail",
+      "kind": "eat",
+      "locality": "Beirut/Hamra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FHamra",
+      "address": "Baalbek Street",
+      "price": "Average spend US$30-40 per person. $7 Live music charge",
+      "id": "lebanon-556be3d66ddd45aa6cd2"
+    },
+    {
+      "name": "Marrouche",
+      "kind": "eat",
+      "locality": "Beirut/Hamra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FHamra",
+      "address": "Hamra Street",
+      "url": "https://www.facebook.com/MarroucheRestaurants/",
+      "id": "lebanon-cd4fb94c122f09e3f539"
+    },
+    {
+      "name": "Café de Prague",
+      "kind": "eat",
+      "locality": "Beirut/Hamra",
+      "lat": 33.896045,
+      "lon": 35.483562,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FHamra",
+      "address": "Makdisi St",
+      "id": "lebanon-e5eacfd277795d86f541"
+    },
+    {
+      "name": "Caffe Pasucci Shop",
+      "kind": "eat",
+      "locality": "Beirut/Hamra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FHamra",
+      "address": "Hamra Street, facing Piccadilly Theater",
+      "price": "Drinks from US$4",
+      "id": "lebanon-84db06855383f11b8530"
+    },
+    {
+      "name": "Marqueez",
+      "kind": "eat",
+      "locality": "Beirut/Hamra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FHamra",
+      "address": "Bachir Daouk Bldg, Ardati St",
+      "price": "Food and drink US$15-20",
+      "id": "lebanon-6caf6f7319a578a3e64d"
+    },
+    {
+      "name": "Cribs",
+      "kind": "eat",
+      "locality": "Beirut/Hamra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FHamra",
+      "address": "Hamra, Off Makdessi Street",
+      "id": "lebanon-48f29af450fbfc9dea8c"
+    },
+    {
+      "name": "Casa D'Or",
+      "kind": "stay",
+      "locality": "Beirut/Hamra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FHamra",
+      "address": "Hamra, Beirut",
+      "price": "US$60-100",
+      "url": "http://www.casadorhotel.com/",
+      "id": "lebanon-d4fd2e81197420aabcb2"
+    },
+    {
+      "name": "Napoleon Hotel",
+      "kind": "stay",
+      "locality": "Beirut/Hamra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FHamra",
+      "address": "Yafet st",
+      "price": "US$45-150",
+      "url": "https://www.facebook.com/NapoleonBeirut/",
+      "id": "lebanon-5f1b9a68f67ac9dca456"
+    },
+    {
+      "name": "Napoli Hotel",
+      "kind": "stay",
+      "locality": "Beirut/Hamra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FHamra",
+      "price": "US$30-60",
+      "id": "lebanon-b89ee9f542c76fa583ac"
+    },
+    {
+      "name": "Grand Hotel Versaille",
+      "kind": "stay",
+      "locality": "Beirut/Hamra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FHamra",
+      "address": "Hamra st., Versaille Theatre, Beirut",
+      "price": "US$60",
+      "url": "http://www.grandhotelbeirut.com/",
+      "id": "lebanon-80aac8baa191a8d11cb6"
+    },
+    {
+      "name": "Mayflower Hotel",
+      "kind": "stay",
+      "locality": "Beirut/Hamra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FHamra",
+      "address": "Yafet st.",
+      "url": "http://www.mayflowerbeirut.com/",
+      "id": "lebanon-1863d5fe43df8cb18261"
+    },
+    {
+      "name": "Mercure Berkeley Hotel",
+      "kind": "stay",
+      "locality": "Beirut/Hamra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FHamra",
+      "price": "US$74-148",
+      "url": "https://www.facebook.com/pages/category/Hotel/Berkeley-Hotel-1456589097990333/",
+      "id": "lebanon-2e213e292de19c66259d"
+    },
+    {
+      "name": "WH Hotel",
+      "kind": "stay",
+      "locality": "Beirut/Hamra",
+      "lat": 33.8935,
+      "lon": 35.4813,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FHamra",
+      "address": "Leyon Street Emile (Rue De Lyon)",
+      "url": "http://www.whhotel-lb.com/",
+      "id": "lebanon-d1d952945216770d4705"
+    },
+    {
+      "name": "Gefinor Rotana Hotel",
+      "kind": "stay",
+      "locality": "Beirut/Hamra",
+      "lat": 33.897997,
+      "lon": 35.488176,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FHamra",
+      "address": "Clemenceau St",
+      "url": "https://www.rotana.com/rotanahotelandresorts/lebanon/beirut/gefinorrotana",
+      "id": "lebanon-455567d5a183515dd066"
+    },
+    {
+      "name": "Le Commodore Hotel",
+      "kind": "stay",
+      "locality": "Beirut/Hamra",
+      "lat": 33.894523,
+      "lon": 35.480324,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FHamra",
+      "address": "Commodore St",
+      "price": "US$180-600",
+      "url": "http://www.lecommodorehotel.com/",
+      "id": "lebanon-f2e9a254a10585df3247"
+    },
+    {
+      "name": "Beirut/Hamra",
+      "kind": "area",
+      "locality": "Beirut/Hamra",
+      "lat": 33.8965,
+      "lon": 35.4862,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FHamra",
+      "id": "lebanon-fc055314ebc760c854ad"
+    },
+    {
+      "name": "Beirut lighthouse (Manara)",
+      "kind": "do",
+      "locality": "Beirut/Ras Beirut",
+      "lat": 33.90003,
+      "lon": 35.46984,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FRas_Beirut",
+      "id": "lebanon-4842cd5a0e6a69548f7e"
+    },
+    {
+      "name": "Corniche El Manara",
+      "kind": "do",
+      "locality": "Beirut/Ras Beirut",
+      "lat": 33.90232,
+      "lon": 35.47768,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FRas_Beirut",
+      "id": "lebanon-a71aa824e50ee932dd2e"
+    },
+    {
+      "name": "Al Ba'sa",
+      "kind": "do",
+      "locality": "Beirut/Ras Beirut",
+      "lat": 33.89801,
+      "lon": 35.47264,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FRas_Beirut",
+      "id": "lebanon-147f6ce03f307effee14"
+    },
+    {
+      "name": "Sporting Club Beach",
+      "kind": "do",
+      "locality": "Beirut/Ras Beirut",
+      "lat": 33.89321,
+      "lon": 35.46788,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FRas_Beirut",
+      "id": "lebanon-1ab59a6af6e83c4c0164"
+    },
+    {
+      "name": "Bella Riva",
+      "kind": "stay",
+      "locality": "Beirut/Ras Beirut",
+      "lat": 33.8955,
+      "lon": 35.4716,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FRas_Beirut",
+      "address": "Caracas Str., Manara",
+      "url": "http://www.bellarivahotel.com/",
+      "id": "lebanon-eaaa4c375c76fed87882"
+    },
+    {
+      "name": "Mediterranée Hotel",
+      "kind": "stay",
+      "locality": "Beirut/Ras Beirut",
+      "lat": 33.8956,
+      "lon": 35.4706,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FRas_Beirut",
+      "address": "Chourani st., Charles De Gaulle Avenue, Manara, Beirut",
+      "price": "US$78",
+      "url": "http://mediterranee-manara.hotels-beirut.com/",
+      "id": "lebanon-473ea6db1371f3b7b05b"
+    },
+    {
+      "name": "Riviera Hotel",
+      "kind": "stay",
+      "locality": "Beirut/Ras Beirut",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FRas_Beirut",
+      "address": "Avenue de Paris, Corniche El Manara",
+      "price": "US$150",
+      "url": "http://www.rivierahotel.com.lb/",
+      "id": "lebanon-8f207687029c9d3d24e1"
+    },
+    {
+      "name": "Beirut/Ras Beirut",
+      "kind": "area",
+      "locality": "Beirut/Ras Beirut",
+      "lat": 33.8946,
+      "lon": 35.4716,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FRas_Beirut",
+      "id": "lebanon-139e4cdaaf45fad0b532"
+    },
+    {
+      "name": "Janine Rubeiz Gallery",
+      "kind": "do",
+      "locality": "Beirut/Rawcheh",
+      "lat": 33.888019,
+      "lon": 35.473556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FRawcheh",
+      "address": "1 Charles de Gaulle Avenue, Majdalani bldg",
+      "url": "http://www.galeriejaninerubeiz.com/",
+      "id": "lebanon-86c6ddcb1f424bad9eb0"
+    },
+    {
+      "name": "Raouche Rocks",
+      "kind": "do",
+      "locality": "Beirut/Rawcheh",
+      "lat": 33.88978,
+      "lon": 35.4704,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FRawcheh",
+      "id": "lebanon-1bcdbf2822e576795bad"
+    },
+    {
+      "name": "Bourj Al Hamam",
+      "kind": "eat",
+      "locality": "Beirut/Rawcheh",
+      "lat": 33.8859,
+      "lon": 35.474,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FRawcheh",
+      "address": "Général de Gaulle Avenue, Raouche",
+      "id": "lebanon-59ce06498f9619e307a0"
+    },
+    {
+      "name": "Al Falamanki Raouche",
+      "kind": "eat",
+      "locality": "Beirut/Rawcheh",
+      "lat": 33.89173,
+      "lon": 35.47108,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FRawcheh",
+      "url": "http://www.alfalamanki.com/",
+      "id": "lebanon-91f1f6f61d0d36d26caa"
+    },
+    {
+      "name": "The Lancaster Hotel",
+      "kind": "stay",
+      "locality": "Beirut/Rawcheh",
+      "lat": 33.8877,
+      "lon": 35.474977,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FRawcheh",
+      "address": "Australia Street, Raouche",
+      "url": "http://www.lancaster.com.lb/",
+      "id": "lebanon-22d0a4410ed184bfbde3"
+    },
+    {
+      "name": "Moevenpick Hotel & Resort",
+      "kind": "stay",
+      "locality": "Beirut/Rawcheh",
+      "lat": 33.885641,
+      "lon": 35.474312,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FRawcheh",
+      "address": "General de Gaulle Avenue",
+      "url": "http://www.moevenpick-hotels.com/hotels/Beirut/",
+      "id": "lebanon-d013a3f92e5c081a2d38"
+    },
+    {
+      "name": "Beirut/Rawcheh",
+      "kind": "area",
+      "locality": "Beirut/Rawcheh",
+      "lat": 33.8899,
+      "lon": 35.4732,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Beirut%2FRawcheh",
+      "id": "lebanon-46bcff74d565106f8fc4"
+    }
+  ],
+  "status": "partial",
+  "note": "Fetched 8 distinct public Wikivoyage source pages; attempted 8 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Coverage cap: Beirut: 3 additional linked subpages not fetched."
+}

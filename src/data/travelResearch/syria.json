@@ -1,0 +1,598 @@
+{
+  "sources": [
+    {
+      "title": "Syria",
+      "url": "https://en.wikivoyage.org/wiki/Syria",
+      "checkedAt": "2026-10-21T08:12:32.258Z"
+    },
+    {
+      "title": "Damascus",
+      "url": "https://en.wikivoyage.org/wiki/Damascus",
+      "checkedAt": "2026-10-21T08:12:35.271Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Damascus",
+      "kind": "area",
+      "locality": "Syria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Syria",
+      "id": "syria-5a4a60d82fdbef505095"
+    },
+    {
+      "name": "Aleppo",
+      "kind": "area",
+      "locality": "Syria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Syria",
+      "id": "syria-67bb6a24ea692d4d3b3c"
+    },
+    {
+      "name": "Deir ez-Zor",
+      "kind": "area",
+      "locality": "Syria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Syria",
+      "id": "syria-29a87b58f10ddf123810"
+    },
+    {
+      "name": "Hama",
+      "kind": "area",
+      "locality": "Syria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Syria",
+      "id": "syria-f754fd10ca9ab72c6d9c"
+    },
+    {
+      "name": "Homs",
+      "kind": "area",
+      "locality": "Syria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Syria",
+      "id": "syria-d64473d852efa737f6a5"
+    },
+    {
+      "name": "Latakia",
+      "kind": "area",
+      "locality": "Syria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Syria",
+      "id": "syria-a442e95b297ec50a6306"
+    },
+    {
+      "name": "Tartous",
+      "kind": "area",
+      "locality": "Syria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Syria",
+      "id": "syria-e3c12ad73a5828a73122"
+    },
+    {
+      "name": "Raqqa",
+      "kind": "area",
+      "locality": "Syria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Syria",
+      "id": "syria-641bed965be903541d82"
+    },
+    {
+      "name": "Qamishli",
+      "kind": "area",
+      "locality": "Syria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Syria",
+      "id": "syria-90cf67db5299fcc95413"
+    },
+    {
+      "name": "Al-Hasakah",
+      "kind": "area",
+      "locality": "Syria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Syria",
+      "id": "syria-b42fef6f45f1c608ff51"
+    },
+    {
+      "name": "Take a scenic tour",
+      "kind": "do",
+      "locality": "Syria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Syria",
+      "id": "syria-42ef93a4f68e04adf7e4"
+    },
+    {
+      "name": "Hike",
+      "kind": "do",
+      "locality": "Syria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Syria",
+      "id": "syria-c14ae23510f9676f645d"
+    },
+    {
+      "name": "Geocaching",
+      "kind": "do",
+      "locality": "Syria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Syria",
+      "url": "https://www.geocaching.com/seek/nearest.aspx?country_id=193&as=1&ex=0&cFilter=9a79e6ce-3344-409c-bbe9-496530baf758&children=n",
+      "id": "syria-1fa848de17eaf11f3a0d"
+    },
+    {
+      "name": "Tours in Syria",
+      "kind": "do",
+      "locality": "Syria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Syria",
+      "id": "syria-b7c4a4845875fa2589c8"
+    },
+    {
+      "name": "Temple of Jupiter",
+      "kind": "do",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-a7c9bb80381e85a1e8fb"
+    },
+    {
+      "name": "Umayyad Mosque",
+      "kind": "do",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-2c2fc5d7278944230ff2"
+    },
+    {
+      "name": "Azm Palace",
+      "kind": "do",
+      "locality": "Damascus",
+      "lat": 33.510278,
+      "lon": 36.306944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-f2b6cb24e64381e32866"
+    },
+    {
+      "name": "Citadel of Damascus",
+      "kind": "do",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-4da08730864a7d32a06e"
+    },
+    {
+      "name": "Statue of Saladin",
+      "kind": "do",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-f55c9a03040556160f62"
+    },
+    {
+      "name": "Khan As'ad Pasha",
+      "kind": "do",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-0a9c3b5cd64d50bb4564"
+    },
+    {
+      "name": "Khan al-Harir",
+      "kind": "do",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-60816e3ffc67b27a52e9"
+    },
+    {
+      "name": "Menarsha Synagogue",
+      "kind": "do",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-f0995f9a3300dec7b67d"
+    },
+    {
+      "name": "Racqy Synagogue",
+      "kind": "do",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-34a903472dffbe9f5ede"
+    },
+    {
+      "name": "Elfrange Synagogue",
+      "kind": "do",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-670a28c6c08170b2147e"
+    },
+    {
+      "name": "Saint Ananias House",
+      "kind": "do",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-ea083cddb9a2de6d1c6f"
+    },
+    {
+      "name": "Cathedral of Saint George",
+      "kind": "do",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-3fe58450c87e663958a3"
+    },
+    {
+      "name": "Mausoleum of Saladin",
+      "kind": "do",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-16dfaf60eab7f726667b"
+    },
+    {
+      "name": "Cathedral of Our Lady of the Dormition",
+      "kind": "do",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-e5b7f22635e470c49ed3"
+    },
+    {
+      "name": "Mariamite Cathedral of Damascus",
+      "kind": "do",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-7f92f07b3aac626d5b8e"
+    },
+    {
+      "name": "Syriac Catholic Cathedral of Saint Paul",
+      "kind": "do",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-52a0835eed3d606fe8f6"
+    },
+    {
+      "name": "Bab al-Saghir",
+      "kind": "do",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-9685165d6385d81d3426"
+    },
+    {
+      "name": "Bab Tuma",
+      "kind": "do",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-39b91ae4fb47e34445b5"
+    },
+    {
+      "name": "Bab Sharqi",
+      "kind": "do",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-dfdf217e69abb33490c3"
+    },
+    {
+      "name": "Bab Kisan",
+      "kind": "do",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-b265a5ceda1fa2de0613"
+    },
+    {
+      "name": "National Museum of Damascus",
+      "kind": "do",
+      "locality": "Damascus",
+      "lat": 33.512572,
+      "lon": 36.290044,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "address": "Shukri al-Quwatli St",
+      "url": "http://www.dgam.gov.sy/",
+      "id": "syria-404212736dfd0277a67d"
+    },
+    {
+      "name": "Sulaymaniyya Takiyya",
+      "kind": "do",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-ac5e55a9bf7913017955"
+    },
+    {
+      "name": "Aqsab Mosque",
+      "kind": "do",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-17a7c260fbc05218e748"
+    },
+    {
+      "name": "October War Panorama",
+      "kind": "do",
+      "locality": "Damascus",
+      "lat": 33.5354,
+      "lon": 36.3207,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-d3fa9816fca000a9b064"
+    },
+    {
+      "name": "Hejaz railway station",
+      "kind": "do",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-6c2a824b739eb5371b42"
+    },
+    {
+      "name": "Damascene Sword Monument",
+      "kind": "do",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-4d96dc62151c1373fe58"
+    },
+    {
+      "name": "Tomb of the Unknown Soldier",
+      "kind": "do",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-09eb1ed0f642a87c2bab"
+    },
+    {
+      "name": "Jobar Synagogue",
+      "kind": "do",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-5f40398274b893607531"
+    },
+    {
+      "name": "Damascus Opera House",
+      "kind": "do",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-61f5dddde63bb66708b4"
+    },
+    {
+      "name": "Nur-al-Din Bath",
+      "kind": "do",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-c4818feb81e8e5fe484d"
+    },
+    {
+      "name": "Bakri Bath",
+      "kind": "do",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-569eae6bab95e04beb7d"
+    },
+    {
+      "name": "Bakdash",
+      "kind": "eat",
+      "locality": "Damascus",
+      "lat": 33.511271,
+      "lon": 36.303714,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "address": "Al-Hamidiyah St",
+      "id": "syria-0c813882d1578e87fbad"
+    },
+    {
+      "name": "Al-Sehhi Restaurant",
+      "kind": "eat",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "address": "Sharia al-Abed, Central Damascus",
+      "id": "syria-87c2eabe97083355e823"
+    },
+    {
+      "name": "Il Forno Pizzeria",
+      "kind": "eat",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "address": "Najmeh Square",
+      "price": "US$6–15",
+      "id": "syria-1f3ee68bfb93aab0472b"
+    },
+    {
+      "name": "Leila's Restaurant and Terrace",
+      "kind": "eat",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "address": "Souq al-Abbabiyya, Central Old City",
+      "id": "syria-0d6cb2dae9bf26e05b78"
+    },
+    {
+      "name": "Beit Jabri Restaurant",
+      "kind": "eat",
+      "locality": "Damascus",
+      "lat": 33.510452,
+      "lon": 36.30851,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "address": "14 Sharia as-Sawwaf, Central Old City",
+      "url": "http://www.jabrihouse.com/",
+      "id": "syria-fc45e453f350b5cb2e22"
+    },
+    {
+      "name": "Arabesque Restaurant",
+      "kind": "eat",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "address": "Sharia al-Kineesa, Central Damascus",
+      "id": "syria-2761826d612d3537ab5b"
+    },
+    {
+      "name": "Downtown",
+      "kind": "eat",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "address": "Sharia al-Amar Izzedin al-Jazzari, Central Damascus",
+      "id": "syria-b1f71cf412640df42f29"
+    },
+    {
+      "name": "La Marionnette Pub",
+      "kind": "eat",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "address": "الشهبندر مقابل وزارة التربية",
+      "url": "https://www.facebook.com/La-Marionnette-Pub-1637130216524273/",
+      "id": "syria-50507358b5875ec44133"
+    },
+    {
+      "name": "Pub Sharqi",
+      "kind": "eat",
+      "locality": "Damascus",
+      "lat": 33.5096,
+      "lon": 36.316216,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "address": "Al Qashla Avenue",
+      "url": "https://www.facebook.com/PubCharki",
+      "id": "syria-b10d2109c42a5a24f8b2"
+    },
+    {
+      "name": "Havana Cafe",
+      "kind": "eat",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-3e58110f4be1e2e06b1d"
+    },
+    {
+      "name": "Rosa Damascena Guest House",
+      "kind": "stay",
+      "locality": "Damascus",
+      "lat": 33.50641,
+      "lon": 36.30786,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "address": "Old City, Shagur Islah Street",
+      "price": "15-20$ per night for single/double room",
+      "url": "https://damascusguesthouse.com/",
+      "id": "syria-9aeb82f2be1b1f7f960c"
+    },
+    {
+      "name": "Al-Rabie Hotel",
+      "kind": "stay",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "address": "Sharia bahsa, Souq saroujah",
+      "id": "syria-cc65938acf41f885aa95"
+    },
+    {
+      "name": "Hotel Al-Ghazal",
+      "kind": "stay",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "address": "Sharia souq saroujah",
+      "price": "9",
+      "id": "syria-9713604911fdcddb53c9"
+    },
+    {
+      "name": "Al-Haramain Hotel",
+      "kind": "stay",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "address": "Sharia bahsa, Souq saroujah",
+      "id": "syria-566d8ccb36a0ef760e7a"
+    },
+    {
+      "name": "Sultan Hotel",
+      "kind": "stay",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "price": "US$55 per night for a double room including breakfast, but most currencies are accepted.",
+      "id": "syria-987886b669211dc9d4e4"
+    },
+    {
+      "name": "Al-Madinah City Hotel",
+      "kind": "stay",
+      "locality": "Damascus",
+      "lat": 33.513065,
+      "lon": 36.294109,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "url": "http://www.cityhotel-sy.com/",
+      "id": "syria-65291eb9f269980c7778"
+    },
+    {
+      "name": "Al Majed Hotel",
+      "kind": "stay",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "address": "29th May Street",
+      "id": "syria-013179296bd1eca79c15"
+    },
+    {
+      "name": "Damascus Hostel",
+      "kind": "stay",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-05a0edd3f22e1e9c4cc1"
+    },
+    {
+      "name": "Dana Residence",
+      "kind": "stay",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "address": "Qudssaya Suburb",
+      "price": "Prices start at $US50",
+      "id": "syria-af5499f6bcf949cc596f"
+    },
+    {
+      "name": "Fallouh House",
+      "kind": "stay",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "address": "in the heart of The old city of Damascus-Bab Touma",
+      "price": "Prices start at US$35",
+      "id": "syria-01b18bbeebf375c4afbb"
+    },
+    {
+      "name": "House of Damascus",
+      "kind": "stay",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-bc3f56f86b7c86441df0"
+    },
+    {
+      "name": "Hotel Old Damascus",
+      "kind": "stay",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "address": "Bab Tuma Square near Haretna Restaurant",
+      "url": "http://www.old-damas.com/",
+      "id": "syria-ed7aa9ec11ed9b0a47d4"
+    },
+    {
+      "name": "Orient Gate Hotel",
+      "kind": "stay",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "address": "opposite Venesia Hotel, beginning of Saroujah Entrance, Bahsa St.",
+      "price": "Prices start at US$36",
+      "id": "syria-1b39454e120ca5390f60"
+    },
+    {
+      "name": "Sah al Naum Bed and Breakfast",
+      "kind": "stay",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "address": "Baghdad street, Ekeibeh neighbourhood, Amara",
+      "price": "Starting from €45",
+      "id": "syria-40731f8611998f6fd2b8"
+    },
+    {
+      "name": "Cham Hotel",
+      "kind": "stay",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-5233f5e9da8d6d717e8a"
+    },
+    {
+      "name": "Four Seasons Hotel Damascus",
+      "kind": "stay",
+      "locality": "Damascus",
+      "lat": 33.514,
+      "lon": 36.2911,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "address": "Shukri Al Quatli Street",
+      "url": "http://www.fourseasons.com/damascus/",
+      "id": "syria-e329cdf172088a2fa8fa"
+    },
+    {
+      "name": "Blue Tower Hotel",
+      "kind": "stay",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "address": "Hamra Street",
+      "url": "http://www.bluetowerhotel.com/",
+      "id": "syria-4495903a2b1654794ac9"
+    },
+    {
+      "name": "Baik Bash hotel and restaurant",
+      "kind": "stay",
+      "locality": "Damascus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "address": "Straight Street",
+      "url": "http://www.baikbash.com/",
+      "id": "syria-69209edc2cae7b982618"
+    },
+    {
+      "name": "Damascus",
+      "kind": "area",
+      "locality": "Damascus",
+      "lat": 33.5167,
+      "lon": 36.3,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Damascus",
+      "id": "syria-4ff1fbce329db600edc6"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

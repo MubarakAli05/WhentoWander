@@ -1,0 +1,309 @@
+{
+  "sources": [
+    {
+      "title": "Côte d'Ivoire",
+      "url": "https://en.wikivoyage.org/wiki/C%C3%B4te_d'Ivoire",
+      "checkedAt": "2026-10-21T08:09:20.395Z"
+    },
+    {
+      "title": "Yamoussoukro",
+      "url": "https://en.wikivoyage.org/wiki/Yamoussoukro",
+      "checkedAt": "2026-10-21T08:09:23.171Z"
+    },
+    {
+      "title": "Abidjan",
+      "url": "https://en.wikivoyage.org/wiki/Abidjan",
+      "checkedAt": "2026-10-21T08:09:26.261Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Abidjan",
+      "kind": "area",
+      "locality": "Côte d'Ivoire",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/C%C3%B4te_d'Ivoire",
+      "id": "cote-divoire-f81fa3ebf0ace3d6d486"
+    },
+    {
+      "name": "Yamoussoukro",
+      "kind": "area",
+      "locality": "Côte d'Ivoire",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/C%C3%B4te_d'Ivoire",
+      "id": "cote-divoire-d0e01c72bde5511e403b"
+    },
+    {
+      "name": "Korhogo",
+      "kind": "area",
+      "locality": "Côte d'Ivoire",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/C%C3%B4te_d'Ivoire",
+      "id": "cote-divoire-698af659dbadb79256d9"
+    },
+    {
+      "name": "Aboisso",
+      "kind": "area",
+      "locality": "Côte d'Ivoire",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/C%C3%B4te_d'Ivoire",
+      "id": "cote-divoire-f1f9ac91a20f2b373c25"
+    },
+    {
+      "name": "Bouaké",
+      "kind": "area",
+      "locality": "Côte d'Ivoire",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/C%C3%B4te_d'Ivoire",
+      "id": "cote-divoire-9af68e90c3fe59278967"
+    },
+    {
+      "name": "Dabou",
+      "kind": "area",
+      "locality": "Côte d'Ivoire",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/C%C3%B4te_d'Ivoire",
+      "id": "cote-divoire-ea98dac93d6d017be52e"
+    },
+    {
+      "name": "San Pedro",
+      "kind": "area",
+      "locality": "Côte d'Ivoire",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/C%C3%B4te_d'Ivoire",
+      "id": "cote-divoire-60817e3640aec0221257"
+    },
+    {
+      "name": "Grand-Bassam",
+      "kind": "area",
+      "locality": "Côte d'Ivoire",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/C%C3%B4te_d'Ivoire",
+      "id": "cote-divoire-9f3cc85ee882e64b301c"
+    },
+    {
+      "name": "Grand-Lahou",
+      "kind": "area",
+      "locality": "Côte d'Ivoire",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/C%C3%B4te_d'Ivoire",
+      "id": "cote-divoire-b72c6486eb774fc21a81"
+    },
+    {
+      "name": "Soubre",
+      "kind": "area",
+      "locality": "Côte d'Ivoire",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/C%C3%B4te_d'Ivoire",
+      "id": "cote-divoire-00c0a220ff0beccc70d5"
+    },
+    {
+      "name": "Basilica of Our Lady of Peace",
+      "kind": "do",
+      "locality": "Yamoussoukro",
+      "lat": 6.8111,
+      "lon": -5.297,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yamoussoukro",
+      "address": "Rue de St.France",
+      "id": "cote-divoire-7bef3c713acf8349a33a"
+    },
+    {
+      "name": "Saint Augustin Cathedral",
+      "kind": "do",
+      "locality": "Yamoussoukro",
+      "lat": 6.8242,
+      "lon": -5.2784,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yamoussoukro",
+      "id": "cote-divoire-30d576706dc452af2b55"
+    },
+    {
+      "name": "Stadium",
+      "kind": "do",
+      "locality": "Yamoussoukro",
+      "lat": 6.828611,
+      "lon": -5.246389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yamoussoukro",
+      "id": "cote-divoire-9a49dcfd6143bddf896f"
+    },
+    {
+      "name": "River Bank",
+      "kind": "eat",
+      "locality": "Yamoussoukro",
+      "lat": 6.8185313,
+      "lon": -5.274671,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yamoussoukro",
+      "id": "cote-divoire-a7f48fb0300c069f6b75"
+    },
+    {
+      "name": "Motel Iris",
+      "kind": "stay",
+      "locality": "Yamoussoukro",
+      "lat": 6.82715,
+      "lon": -5.272907,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yamoussoukro",
+      "price": "15,000 CAF for a double (2023)",
+      "id": "cote-divoire-bc618d421e5523618022"
+    },
+    {
+      "name": "Hôtel Président",
+      "kind": "stay",
+      "locality": "Yamoussoukro",
+      "lat": 6.802117,
+      "lon": -5.25199,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yamoussoukro",
+      "url": "http://www.hotelpresident.ci/",
+      "id": "cote-divoire-6508b01775e4d307c003"
+    },
+    {
+      "name": "Yamoussoukro",
+      "kind": "area",
+      "locality": "Yamoussoukro",
+      "lat": 6.806667,
+      "lon": -5.272778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yamoussoukro",
+      "id": "cote-divoire-837bac5f011f1fc9f515"
+    },
+    {
+      "name": "St. Paul's Cathedral",
+      "kind": "do",
+      "locality": "Abidjan",
+      "lat": 5.332778,
+      "lon": -4.02,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abidjan",
+      "id": "cote-divoire-5d8439c58b9181588fc3"
+    },
+    {
+      "name": "National Library of Côte d'Ivoire",
+      "kind": "do",
+      "locality": "Abidjan",
+      "lat": 5.335411,
+      "lon": -4.024608,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abidjan",
+      "address": "Boulevard Carde",
+      "id": "cote-divoire-638522ee38284815a258"
+    },
+    {
+      "name": "Banco National Park",
+      "kind": "do",
+      "locality": "Abidjan",
+      "lat": 5.393698,
+      "lon": -4.051723,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abidjan",
+      "price": "CFA 5000 for foreigners",
+      "id": "cote-divoire-8e0953e0d09bc681d3cf"
+    },
+    {
+      "name": "Museum of Civilizations in Côte d'Ivoire",
+      "kind": "do",
+      "locality": "Abidjan",
+      "lat": 5.333538,
+      "lon": -4.024141,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abidjan",
+      "address": "32 Boulevard Carde",
+      "price": "CFA 2000 for foreign adults, CFA 1000 foreign students",
+      "id": "cote-divoire-cb29c2a4cb156c241582"
+    },
+    {
+      "name": "Adama-Toungara Museum of Contemporary Cultures",
+      "kind": "do",
+      "locality": "Abidjan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abidjan",
+      "id": "cote-divoire-4e8a7050e595c7b82506"
+    },
+    {
+      "name": "Cocody Municipal Museum of Contemporary Art",
+      "kind": "do",
+      "locality": "Abidjan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abidjan",
+      "id": "cote-divoire-ce1a63e4252c68e8b077"
+    },
+    {
+      "name": "Restaurant des Combattants",
+      "kind": "eat",
+      "locality": "Abidjan",
+      "lat": 5.326729,
+      "lon": -4.018195,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abidjan",
+      "id": "cote-divoire-733769b0eae3fc0b0e28"
+    },
+    {
+      "name": "Chez Georges Hollywood",
+      "kind": "eat",
+      "locality": "Abidjan",
+      "lat": 5.3199,
+      "lon": -4.0117,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abidjan",
+      "address": "rue du commerce, plateau",
+      "url": "http://www.restaurantchezgeorges.com/",
+      "id": "cote-divoire-f1de80dc79c18c066795"
+    },
+    {
+      "name": "Saarkan",
+      "kind": "eat",
+      "locality": "Abidjan",
+      "lat": 5.32416,
+      "lon": -4.0154,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abidjan",
+      "address": "Avenue Chardy face à l'AIP, à la descente de Radio Nostalgie Plateau",
+      "price": "CFA 6000-12 000",
+      "url": "http://saakan.ci/",
+      "id": "cote-divoire-1b086b8a6ba5c63995b6"
+    },
+    {
+      "name": "Hotel Novotel Abidjan",
+      "kind": "stay",
+      "locality": "Abidjan",
+      "lat": 5.316023,
+      "lon": -4.016367,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abidjan",
+      "address": "10 Avenue du General de Gaulle",
+      "url": "https://all.accor.com/hotel/0481/index.en.shtml",
+      "id": "cote-divoire-7833e40292032ebf7f8f"
+    },
+    {
+      "name": "Hôtel Tiama",
+      "kind": "stay",
+      "locality": "Abidjan",
+      "lat": 5.326234,
+      "lon": -4.020094,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abidjan",
+      "address": "Boulevard de la République",
+      "url": "http://www.hotel.tiama.ci/",
+      "id": "cote-divoire-44fb55290e384fee90ec"
+    },
+    {
+      "name": "Pullman Abidjan",
+      "kind": "stay",
+      "locality": "Abidjan",
+      "lat": 5.322238,
+      "lon": -4.013646,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abidjan",
+      "address": "Rue Abdoulaye Fadiga",
+      "url": "https://all.accor.com/hotel/1146/index.en.shtml",
+      "id": "cote-divoire-c76855b91a305d9be06b"
+    },
+    {
+      "name": "Sofitel Abidjan Hôtel Ivoire",
+      "kind": "stay",
+      "locality": "Abidjan",
+      "lat": 5.326684,
+      "lon": -4.005687,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abidjan",
+      "address": "Boulevard Hassan II 08",
+      "url": "https://all.accor.com/hotel/8844/index.en.shtml",
+      "id": "cote-divoire-4dba346459d814071712"
+    },
+    {
+      "name": "Heden Golf Hotel",
+      "kind": "stay",
+      "locality": "Abidjan",
+      "lat": 5.326684,
+      "lon": -4.005687,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abidjan",
+      "address": "Bd de France – Riviera Golf, Cocody",
+      "url": "http://hedengolfhotel.com/",
+      "id": "cote-divoire-a180ce64c113ee6b6306"
+    },
+    {
+      "name": "Abidjan",
+      "kind": "area",
+      "locality": "Abidjan",
+      "lat": 5.3167,
+      "lon": -4.0333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abidjan",
+      "id": "cote-divoire-300238d935efdcb7ffff"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 3 distinct public Wikivoyage source pages; attempted 3 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

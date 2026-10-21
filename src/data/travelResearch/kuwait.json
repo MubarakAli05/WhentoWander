@@ -1,0 +1,387 @@
+{
+  "sources": [
+    {
+      "title": "Kuwait",
+      "url": "https://en.wikivoyage.org/wiki/Kuwait",
+      "checkedAt": "2026-10-21T08:10:16.410Z"
+    },
+    {
+      "title": "Kuwait City",
+      "url": "https://en.wikivoyage.org/wiki/Kuwait_City",
+      "checkedAt": "2026-10-21T08:10:19.429Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Kuwait City",
+      "kind": "area",
+      "locality": "Kuwait",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait",
+      "id": "kuwait-fbb311a2b466b9f06097"
+    },
+    {
+      "name": "Jahra",
+      "kind": "area",
+      "locality": "Kuwait",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait",
+      "id": "kuwait-bed5497470b0491f257b"
+    },
+    {
+      "name": "Ahmadi",
+      "kind": "area",
+      "locality": "Kuwait",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait",
+      "id": "kuwait-fcd98421139fc062792c"
+    },
+    {
+      "name": "Hawalli",
+      "kind": "area",
+      "locality": "Kuwait",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait",
+      "id": "kuwait-c445c775f07e54f7ed9e"
+    },
+    {
+      "name": "Farwaniya",
+      "kind": "area",
+      "locality": "Kuwait",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait",
+      "id": "kuwait-2fd67eec4725ad1275ae"
+    },
+    {
+      "name": "Mubarak al-Kabeer",
+      "kind": "area",
+      "locality": "Kuwait",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait",
+      "id": "kuwait-625be7645e1581918d39"
+    },
+    {
+      "name": "Failaka Island",
+      "kind": "do",
+      "locality": "Kuwait",
+      "lat": 29.430592,
+      "lon": 48.270764,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait",
+      "address": "knetmalou@hotmail.com",
+      "price": "KD 3",
+      "id": "kuwait-a59a1950147c4b6a4c16"
+    },
+    {
+      "name": "Al Jahra city",
+      "kind": "do",
+      "locality": "Kuwait",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait",
+      "id": "kuwait-b75d5e100d3f71134d13"
+    },
+    {
+      "name": "Mina Al Ahmadi",
+      "kind": "do",
+      "locality": "Kuwait",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait",
+      "id": "kuwait-16fc5cef4cc67a550ead"
+    },
+    {
+      "name": "KOC Ahmed Al Jaber Oil & Gas Exhibition",
+      "kind": "do",
+      "locality": "Kuwait",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait",
+      "address": "Ahmadi",
+      "url": "https://www.kocexhibit.com/",
+      "id": "kuwait-ff6eacfe8ef7a75e6b9c"
+    },
+    {
+      "name": "Kazmah desert cliffs",
+      "kind": "do",
+      "locality": "Kuwait",
+      "lat": 29.421867,
+      "lon": 47.684854,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait",
+      "id": "kuwait-edf101a79d6078d2ab99"
+    },
+    {
+      "name": "Desert",
+      "kind": "do",
+      "locality": "Kuwait",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait",
+      "address": "anywhere",
+      "id": "kuwait-4c36215e4b378bbae0d3"
+    },
+    {
+      "name": "War sites and memorials",
+      "kind": "do",
+      "locality": "Kuwait",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait",
+      "id": "kuwait-c8e0c9c1c622cb3636dc"
+    },
+    {
+      "name": "Oases",
+      "kind": "do",
+      "locality": "Kuwait",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait",
+      "id": "kuwait-a19be4572fa6a8de451c"
+    },
+    {
+      "name": "Mosques",
+      "kind": "do",
+      "locality": "Kuwait",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait",
+      "id": "kuwait-5b3803d37a391de4ba74"
+    },
+    {
+      "name": "Sea Clubs & spas",
+      "kind": "do",
+      "locality": "Kuwait",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait",
+      "id": "kuwait-87391c662e21c2d080c6"
+    },
+    {
+      "name": "Riding",
+      "kind": "do",
+      "locality": "Kuwait",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait",
+      "id": "kuwait-1d1dfb7e1ec6fa71a683"
+    },
+    {
+      "name": "Golf",
+      "kind": "do",
+      "locality": "Kuwait",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait",
+      "id": "kuwait-124c9c746bca9241f661"
+    },
+    {
+      "name": "Swimming and diving",
+      "kind": "do",
+      "locality": "Kuwait",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait",
+      "id": "kuwait-9b6499ee9a5e7f572275"
+    },
+    {
+      "name": "Boating",
+      "kind": "do",
+      "locality": "Kuwait",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait",
+      "id": "kuwait-0c9b8d62491ca9979f66"
+    },
+    {
+      "name": "Shopping in Malls",
+      "kind": "do",
+      "locality": "Kuwait",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait",
+      "id": "kuwait-0a31d980eea4c59ce419"
+    },
+    {
+      "name": "Shopping on Markets",
+      "kind": "do",
+      "locality": "Kuwait",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait",
+      "id": "kuwait-eda63fc4ff53a900f20c"
+    },
+    {
+      "name": "Drive through Sheikh Jaber Al-Ahmad Al-Sabah Causeway",
+      "kind": "do",
+      "locality": "Kuwait",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait",
+      "id": "kuwait-c67a620d7ba77381c297"
+    },
+    {
+      "name": "Drive to the Iraqi border (\"Highway of death\")",
+      "kind": "do",
+      "locality": "Kuwait",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait",
+      "id": "kuwait-4621d68d7a596b45cbcc"
+    },
+    {
+      "name": "Drive through oil fields",
+      "kind": "do",
+      "locality": "Kuwait",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait",
+      "id": "kuwait-f7a184a424c65424c002"
+    },
+    {
+      "name": "Kuwait Towers",
+      "kind": "do",
+      "locality": "Kuwait City",
+      "lat": 29.38986,
+      "lon": 48.003228,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait_City",
+      "address": "Sharq",
+      "price": "KD 3",
+      "url": "http://www.kuwaittowers.com/",
+      "id": "kuwait-779f6ac82fd492078e07"
+    },
+    {
+      "name": "National Museum",
+      "kind": "do",
+      "locality": "Kuwait City",
+      "lat": 29.373323,
+      "lon": 47.966673,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait_City",
+      "id": "kuwait-2f8fc93009322cc096c1"
+    },
+    {
+      "name": "Seif Palace",
+      "kind": "do",
+      "locality": "Kuwait City",
+      "lat": 29.380783,
+      "lon": 47.971728,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait_City",
+      "id": "kuwait-069bf9cfb44a30f03d9d"
+    },
+    {
+      "name": "National Assembly",
+      "kind": "do",
+      "locality": "Kuwait City",
+      "lat": 29.370278,
+      "lon": 47.964167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait_City",
+      "id": "kuwait-7b7f409fd1fb559be1be"
+    },
+    {
+      "name": "Grand Mosque",
+      "kind": "do",
+      "locality": "Kuwait City",
+      "lat": 29.379446,
+      "lon": 47.975236,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait_City",
+      "url": "http://site.islam.gov.kw/thegrand/",
+      "id": "kuwait-69d47fd512f4be113d24"
+    },
+    {
+      "name": "War Museum",
+      "kind": "do",
+      "locality": "Kuwait City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait_City",
+      "id": "kuwait-b94f785ba65d2bb15804"
+    },
+    {
+      "name": "Al Shaheed Park",
+      "kind": "do",
+      "locality": "Kuwait City",
+      "lat": 29.37,
+      "lon": 47.994,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait_City",
+      "url": "http://alshaheedpark.com/",
+      "id": "kuwait-404681709adcdd8fa824"
+    },
+    {
+      "name": "Fish Market",
+      "kind": "do",
+      "locality": "Kuwait City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait_City",
+      "id": "kuwait-1c94c21843de8ea37c78"
+    },
+    {
+      "name": "Old Ships Port",
+      "kind": "do",
+      "locality": "Kuwait City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait_City",
+      "address": "Next to Souk Sharq Fish Market",
+      "id": "kuwait-32f1df6245ef2e5c4639"
+    },
+    {
+      "name": "Scientific Center",
+      "kind": "do",
+      "locality": "Kuwait City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait_City",
+      "url": "http://www.tsck.org.kw/",
+      "id": "kuwait-11caf600e44dbb7e1626"
+    },
+    {
+      "name": "Green Island",
+      "kind": "do",
+      "locality": "Kuwait City",
+      "lat": 29.3646,
+      "lon": 48.0302,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait_City",
+      "id": "kuwait-871b08c32fb22bbc17e5"
+    },
+    {
+      "name": "Dasman Beach",
+      "kind": "do",
+      "locality": "Kuwait City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait_City",
+      "id": "kuwait-bcaba5ebde8bbaff1561"
+    },
+    {
+      "name": "The Fish Market",
+      "kind": "eat",
+      "locality": "Kuwait City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait_City",
+      "address": "Mahboula",
+      "id": "kuwait-e5af104b61cdc90a86ef"
+    },
+    {
+      "name": "Hawali Continental Hotel",
+      "kind": "stay",
+      "locality": "Kuwait City",
+      "lat": 29.381039,
+      "lon": 48.00078,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait_City",
+      "address": "Hawali Qutiba St",
+      "id": "kuwait-69127979f8f351bcfbb2"
+    },
+    {
+      "name": "Aladdin Rooms",
+      "kind": "stay",
+      "locality": "Kuwait City",
+      "lat": 29.329852,
+      "lon": 48.0547,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait_City",
+      "address": "13 Amman St Salmiya Block 12",
+      "price": "6-7 KD",
+      "id": "kuwait-c1741dee12635d05d327"
+    },
+    {
+      "name": "The Oasis Hotel",
+      "kind": "stay",
+      "locality": "Kuwait City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait_City",
+      "url": "http://www.oasis.com.kw/",
+      "id": "kuwait-749c76e36fbeacf4eeb7"
+    },
+    {
+      "name": "Courtyard Kuwait City",
+      "kind": "stay",
+      "locality": "Kuwait City",
+      "lat": 29.371146,
+      "lon": 47.982659,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait_City",
+      "address": "Al Shuhada St",
+      "price": "US$250",
+      "url": "https://www.marriott.com/hotels/travel/kwicy-courtyard-kuwait-city/",
+      "id": "kuwait-495a175f51d567cec515"
+    },
+    {
+      "name": "Radisson Blu Hotel, Kuwait",
+      "kind": "stay",
+      "locality": "Kuwait City",
+      "lat": 29.301261,
+      "lon": 48.087126,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait_City",
+      "address": "Al Bida Al Tawoun Street, Salwa",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-kuwait",
+      "id": "kuwait-1cb50330b291a5704f90"
+    },
+    {
+      "name": "JW Marriott Kuwait City",
+      "kind": "stay",
+      "locality": "Kuwait City",
+      "lat": 29.365,
+      "lon": 47.9675,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait_City",
+      "address": "Al Shuhada St",
+      "url": "https://www.marriott.com/hotels/travel/kwijw-jw-marriott-hotel-kuwait-city/",
+      "id": "kuwait-6af87e1fc3f42a6fe2d2"
+    },
+    {
+      "name": "Kuwait City",
+      "kind": "area",
+      "locality": "Kuwait City",
+      "lat": 29.3333,
+      "lon": 48,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kuwait_City",
+      "id": "kuwait-a2a3a2787c959eef92f0"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

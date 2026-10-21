@@ -1,0 +1,532 @@
+{
+  "sources": [
+    {
+      "title": "Niger",
+      "url": "https://en.wikivoyage.org/wiki/Niger",
+      "checkedAt": "2026-10-21T08:11:22.586Z"
+    },
+    {
+      "title": "Niamey",
+      "url": "https://en.wikivoyage.org/wiki/Niamey",
+      "checkedAt": "2026-10-21T08:11:25.719Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Niamey",
+      "kind": "area",
+      "locality": "Niger",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niger",
+      "id": "niger-2a76c791bdd04f186436"
+    },
+    {
+      "name": "Agadez",
+      "kind": "area",
+      "locality": "Niger",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niger",
+      "id": "niger-5f12e6ced053b604ea06"
+    },
+    {
+      "name": "Ayorou",
+      "kind": "area",
+      "locality": "Niger",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niger",
+      "id": "niger-cf964568a0b46c47a11c"
+    },
+    {
+      "name": "Diffa",
+      "kind": "area",
+      "locality": "Niger",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niger",
+      "id": "niger-9e871f7f19fd7cc551aa"
+    },
+    {
+      "name": "Dosso",
+      "kind": "area",
+      "locality": "Niger",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niger",
+      "id": "niger-1f3a185383ad1f88452c"
+    },
+    {
+      "name": "Maradi",
+      "kind": "area",
+      "locality": "Niger",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niger",
+      "id": "niger-d1e7e5aa1f57996c6017"
+    },
+    {
+      "name": "Tahoua",
+      "kind": "area",
+      "locality": "Niger",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niger",
+      "id": "niger-d68c4f343570881c5b08"
+    },
+    {
+      "name": "Zinder",
+      "kind": "area",
+      "locality": "Niger",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niger",
+      "id": "niger-f7bd369c5cce7055df39"
+    },
+    {
+      "name": "Musée National Boubou-Hama and Zoo",
+      "kind": "do",
+      "locality": "Niamey",
+      "lat": 13.51111,
+      "lon": 2.10711,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "address": "Avenue Mitterrand",
+      "id": "niger-8dd3f75cd77fc80f79b2"
+    },
+    {
+      "name": "Grande Mosquée",
+      "kind": "do",
+      "locality": "Niamey",
+      "lat": 13.52233,
+      "lon": 2.1332,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "address": "Avenue de l'Islam",
+      "id": "niger-ec6622a34c0e1d9c6113"
+    },
+    {
+      "name": "Cathedral de Maorey",
+      "kind": "do",
+      "locality": "Niamey",
+      "lat": 13.51797,
+      "lon": 2.111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-ee951ad81664e5a90041"
+    },
+    {
+      "name": "Grande Marché",
+      "kind": "do",
+      "locality": "Niamey",
+      "lat": 13.51644,
+      "lon": 2.11733,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-2e1ad1cc8f9cc7ca2775"
+    },
+    {
+      "name": "Centre Culturel Franco-Nigerien (CCFN)",
+      "kind": "do",
+      "locality": "Niamey",
+      "lat": 13.51347,
+      "lon": 2.10759,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "address": "Rue du Musée",
+      "url": "http://www.ambafrance-ne.org/article.php3?id_article=322",
+      "id": "niger-1b208ca86c34066262ee"
+    },
+    {
+      "name": "Centre Culturel Oumarou Ganda",
+      "kind": "do",
+      "locality": "Niamey",
+      "lat": 13.52152,
+      "lon": 2.13696,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "url": "https://www.facebook.com/Centre-Culturel-Oumarou-Ganda-220739934603146/",
+      "id": "niger-11b331dbc4da85317d40"
+    },
+    {
+      "name": "The Hippodrome",
+      "kind": "do",
+      "locality": "Niamey",
+      "lat": 13.49636,
+      "lon": 2.13822,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-2409b61a1e0b4584c67b"
+    },
+    {
+      "name": "Stade de la Lutte Traditionelle",
+      "kind": "do",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "address": "Boulevard de Mali Bero",
+      "id": "niger-4413705ef6eb597df6ac"
+    },
+    {
+      "name": "Swimming Pools",
+      "kind": "do",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-413ab78308180465c36d"
+    },
+    {
+      "name": "Le Gawlo senegalese restaurant",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-c3f20b176caca6490b8c"
+    },
+    {
+      "name": "Baobab Senegalese Restaurant",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-af2f6b3866d462fedc0b"
+    },
+    {
+      "name": "Fast Food de L’Année",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-15606e8d6e23691e94c4"
+    },
+    {
+      "name": "Ghanaian Restaurant",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-8885a96c2c94d30ddb03"
+    },
+    {
+      "name": "Grande Marché Hide-away",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-2d6392c4636c3c125dd4"
+    },
+    {
+      "name": "Le Bar Snob",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-df6d2f4eea6d89c8b1ea"
+    },
+    {
+      "name": "Maquis Africa Queen",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "price": "Prices are very reasonable, CFA 600-1,500 for most plates, and conjunctures are CFA 450",
+      "id": "niger-ba221c47f7d0e144a7a7"
+    },
+    {
+      "name": "Restaurant Atlantique aka Ziggy’s",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-187df4a17f5efe9e7a9f"
+    },
+    {
+      "name": "Restaurant Liberté",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-6cb1fdeaeb7f8e45df4e"
+    },
+    {
+      "name": "Amandine Cakes",
+      "kind": "eat",
+      "locality": "Niamey",
+      "lat": 13.512838,
+      "lon": 2.111231,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-051e140fcfb6e441637e"
+    },
+    {
+      "name": "Bellissimo’s",
+      "kind": "eat",
+      "locality": "Niamey",
+      "lat": 13.515965,
+      "lon": 2.112263,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-a19712bfbc70cf419141"
+    },
+    {
+      "name": "Byblos",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "address": "Located on Tillaberi Rd",
+      "id": "niger-311f809bd097f2eb3fb7"
+    },
+    {
+      "name": "Ile de Gorée Senegalese Restaurant",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "address": "Chateau 1 (I-M)",
+      "id": "niger-a48c6d47f7cafa166488"
+    },
+    {
+      "name": "Le Damsi Continental",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-7824ce9b40fa255554c7"
+    },
+    {
+      "name": "Le Djinkounme",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-0b7822f5c00a8f967935"
+    },
+    {
+      "name": "Dragon D’Or",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-edf0396d0d08a7d2e8a6"
+    },
+    {
+      "name": "Idrissa Nems",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-9ff8f5e2401ab15185c1"
+    },
+    {
+      "name": "Le Gourmet",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-afe403b6b52f3752a048"
+    },
+    {
+      "name": "Maquis 2000",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-d25926fd7b5e541584a3"
+    },
+    {
+      "name": "La Casbah",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-b8c06f4c38efa8c0fd57"
+    },
+    {
+      "name": "Chez Chin’s",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-07142803ba9d1f415ceb"
+    },
+    {
+      "name": "La Diamangou",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "price": "CFA 30,000 per person, minimum of 10 people",
+      "id": "niger-019ca39f58665f4e6bbe"
+    },
+    {
+      "name": "L’Exotique",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-8c8451aa719e3199602e"
+    },
+    {
+      "name": "Le Pilier",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-8476f13271940235fc1f"
+    },
+    {
+      "name": "La Pizzeria",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-f9abcbe9522488210116"
+    },
+    {
+      "name": "Le Shanghai",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-5c4879f2d0726fb5fb5f"
+    },
+    {
+      "name": "Tabakady",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-7780a8b823d8c331fb52"
+    },
+    {
+      "name": "Le Watta",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-758bc3050cc2fd633edb"
+    },
+    {
+      "name": "Zanzibar",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-31848c1989bebfbca7d7"
+    },
+    {
+      "name": "L’Epervier",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "address": "Marché de Nuit–Yantala",
+      "id": "niger-7379b2582739a765c3ad"
+    },
+    {
+      "name": "La Legone",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "address": "Nouveau Marché",
+      "id": "niger-4c0d55a58eec501526b8"
+    },
+    {
+      "name": "La Cloche",
+      "kind": "eat",
+      "locality": "Niamey",
+      "lat": 13.511396,
+      "lon": 2.111102,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "address": "Avenue Luebké",
+      "id": "niger-4ccd70098c1db3b590e2"
+    },
+    {
+      "name": "Grand Hotel Terrace",
+      "kind": "eat",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "address": "BP 471, Gaweye",
+      "url": "http://www.grandhotelniger.com/",
+      "id": "niger-be949a468f5739504a75"
+    },
+    {
+      "name": "Homeland Hotel",
+      "kind": "stay",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "address": "Avenue du Général de Gaulle,",
+      "id": "niger-4aaf0d0a7bd7c1b29cec"
+    },
+    {
+      "name": "Hotel Les Roniers",
+      "kind": "stay",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "address": "Rue Tondibia",
+      "price": "CFA 24,000 (single) and CFA 26,500 (double)",
+      "id": "niger-295d58194731393457a6"
+    },
+    {
+      "name": "Hotel Masaki",
+      "kind": "stay",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "address": "Boulevard Mali Béro",
+      "id": "niger-539d1b64aa2a64a70a57"
+    },
+    {
+      "name": "Hotel Maourey",
+      "kind": "stay",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "address": "Centre Ville 144",
+      "price": "CFA 35-40,000 per night",
+      "id": "niger-48e7e52fe1c4bf93b9a5"
+    },
+    {
+      "name": "Hotel Oasis",
+      "kind": "stay",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "address": "Boulevard Mali Bero",
+      "price": "Over CFA 30,000 per night",
+      "id": "niger-1b96a32671f9978bef69"
+    },
+    {
+      "name": "Hotel Sahel",
+      "kind": "stay",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "address": "Rue du Sahel",
+      "url": "http://www.hotelsahel.com/",
+      "id": "niger-5d185da741460282b5c3"
+    },
+    {
+      "name": "Hotel Tenere",
+      "kind": "stay",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "address": "Boulevard de la Liberte",
+      "price": "CFA 44-60,000",
+      "id": "niger-e2f83a1b2add856ef5b0"
+    },
+    {
+      "name": "Hotel Terminus",
+      "kind": "stay",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "address": "Rue du Sahel",
+      "id": "niger-716ae7b68e2b398efafa"
+    },
+    {
+      "name": "Mission Catholique",
+      "kind": "stay",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "address": "Ave du Gountou Yena",
+      "id": "niger-4b53bbff33c4c6b2e0d3"
+    },
+    {
+      "name": "Villa Chinois",
+      "kind": "stay",
+      "locality": "Niamey",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "price": "Less than CFA 5,000 a night",
+      "id": "niger-8c02e97291ec5cf6fb51"
+    },
+    {
+      "name": "Hotel Gaweye",
+      "kind": "stay",
+      "locality": "Niamey",
+      "lat": 13.50866,
+      "lon": 2.10631,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "address": "Place Kennedy 1",
+      "price": "CFA 70-150,000",
+      "url": "http://hotel-gaweyeniger.com/",
+      "id": "niger-43f4e7177b7d437dda44"
+    },
+    {
+      "name": "Grand Hotel du Niger",
+      "kind": "stay",
+      "locality": "Niamey",
+      "lat": 13.50535,
+      "lon": 2.1106,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "address": "BP 471",
+      "price": "CFA 49-87,000",
+      "url": "http://www.grandhotelniger.com/",
+      "id": "niger-025f52eaee87ef29e661"
+    },
+    {
+      "name": "Radisson Blu Hotel & Conference Center",
+      "kind": "stay",
+      "locality": "Niamey",
+      "lat": 13.512578,
+      "lon": 2.104357,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "address": "Bd. de la Republique",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-conference-niamey",
+      "id": "niger-1c631245337323233801"
+    },
+    {
+      "name": "Niamey",
+      "kind": "area",
+      "locality": "Niamey",
+      "lat": 13.521389,
+      "lon": 2.105278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Niamey",
+      "id": "niger-962b8d552fe83e981c04"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

@@ -1,0 +1,145 @@
+{
+  "sources": [
+    {
+      "title": "Saint Lucia",
+      "url": "https://en.wikivoyage.org/wiki/Saint_Lucia",
+      "checkedAt": "2026-10-21T08:11:56.201Z"
+    },
+    {
+      "title": "Castries",
+      "url": "https://en.wikivoyage.org/wiki/Castries",
+      "checkedAt": "2026-10-21T08:11:59.196Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Castries",
+      "kind": "area",
+      "locality": "Saint Lucia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saint_Lucia",
+      "id": "saint-lucia-588eb22b0ef7f0e43093"
+    },
+    {
+      "name": "Vieux Fort",
+      "kind": "area",
+      "locality": "Saint Lucia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saint_Lucia",
+      "id": "saint-lucia-dcf7704b20d5f34a6492"
+    },
+    {
+      "name": "Soufriere",
+      "kind": "area",
+      "locality": "Saint Lucia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saint_Lucia",
+      "id": "saint-lucia-572cc43edee213acd678"
+    },
+    {
+      "name": "Gros Islet",
+      "kind": "area",
+      "locality": "Saint Lucia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saint_Lucia",
+      "id": "saint-lucia-ec48c95200cbb9bfb6a8"
+    },
+    {
+      "name": "Marigot Bay",
+      "kind": "area",
+      "locality": "Saint Lucia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saint_Lucia",
+      "id": "saint-lucia-33a4a04a1e3368fddcfa"
+    },
+    {
+      "name": "Fond Bay Suites",
+      "kind": "do",
+      "locality": "Castries",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Castries",
+      "address": "Fond Bay Drive Escap",
+      "id": "saint-lucia-2db52b4f97e1b3a2998b"
+    },
+    {
+      "name": "Derek Walcott Square (Columbus Square)",
+      "kind": "do",
+      "locality": "Castries",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Castries",
+      "id": "saint-lucia-9be058b373ae3cd238ec"
+    },
+    {
+      "name": "Morne Fortune With Fort Charlotte",
+      "kind": "do",
+      "locality": "Castries",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Castries",
+      "id": "saint-lucia-2e997d78001af30cc98a"
+    },
+    {
+      "name": "La Toc Battery",
+      "kind": "do",
+      "locality": "Castries",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Castries",
+      "id": "saint-lucia-f33a120b0cad3b1489d6"
+    },
+    {
+      "name": "Harbour Lights inn",
+      "kind": "stay",
+      "locality": "Castries",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Castries",
+      "address": "Castries, City Gate",
+      "price": "US$33/44 single/double no AC",
+      "id": "saint-lucia-3b6e09564ea6347ef661"
+    },
+    {
+      "name": "Jade Mountain",
+      "kind": "stay",
+      "locality": "Castries",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Castries",
+      "address": "Castries",
+      "url": "http://www.jademountain.com/",
+      "id": "saint-lucia-ed4fc07727c84c4fcf60"
+    },
+    {
+      "name": "Rendezvous Couples Resort",
+      "kind": "stay",
+      "locality": "Castries",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Castries",
+      "address": "Malabar Beach PO Box 190",
+      "url": "http://www.theromanticholiday.com/",
+      "id": "saint-lucia-267cbff078a277ce19ab"
+    },
+    {
+      "name": "Royal St Lucia",
+      "kind": "stay",
+      "locality": "Castries",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Castries",
+      "address": "Castries",
+      "url": "http://rexresorts.com/st-lucia/royal/",
+      "id": "saint-lucia-7695278871221c8f0b4f"
+    },
+    {
+      "name": "The BodyHoliday Resort",
+      "kind": "stay",
+      "locality": "Castries",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Castries",
+      "address": "Cap Estate Post office box 437",
+      "url": "http://www.thebodyholiday.com/",
+      "id": "saint-lucia-cd2378849c97ade1128b"
+    },
+    {
+      "name": "Villa Beach Cottages",
+      "kind": "stay",
+      "locality": "Castries",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Castries",
+      "address": "Choc Bay",
+      "url": "http://www.villabeachcottages.com/",
+      "id": "saint-lucia-d8e298a6f708e7ff17d2"
+    },
+    {
+      "name": "Castries",
+      "kind": "area",
+      "locality": "Castries",
+      "lat": 14.016666666667,
+      "lon": -60.983333333333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Castries",
+      "id": "saint-lucia-a25c1577e129a93bd843"
+    }
+  ],
+  "status": "partial",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Missing categories: eat."
+}

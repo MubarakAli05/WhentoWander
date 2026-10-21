@@ -1,0 +1,1255 @@
+{
+  "sources": [
+    {
+      "title": "Laos",
+      "url": "https://en.wikivoyage.org/wiki/Laos",
+      "checkedAt": "2026-10-21T08:10:22.590Z"
+    },
+    {
+      "title": "Vientiane",
+      "url": "https://en.wikivoyage.org/wiki/Vientiane",
+      "checkedAt": "2026-10-21T08:10:25.591Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Vientiane",
+      "kind": "area",
+      "locality": "Laos",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Laos",
+      "id": "laos-35858f99fde98bd4b981"
+    },
+    {
+      "name": "Huay Xai",
+      "kind": "area",
+      "locality": "Laos",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Laos",
+      "id": "laos-ef6a22e8b9a060c15cf3"
+    },
+    {
+      "name": "Luang Namtha",
+      "kind": "area",
+      "locality": "Laos",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Laos",
+      "id": "laos-ab2aa30636dde47a3a09"
+    },
+    {
+      "name": "Luang Prabang",
+      "kind": "area",
+      "locality": "Laos",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Laos",
+      "id": "laos-155791d74b4d0506ce53"
+    },
+    {
+      "name": "Muang Xay",
+      "kind": "area",
+      "locality": "Laos",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Laos",
+      "id": "laos-eae8671d1ee6367d2ae7"
+    },
+    {
+      "name": "Pakbeng",
+      "kind": "area",
+      "locality": "Laos",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Laos",
+      "id": "laos-286bcc2e9d441ee109b6"
+    },
+    {
+      "name": "Pakse",
+      "kind": "area",
+      "locality": "Laos",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Laos",
+      "id": "laos-54063b1f1874249c6655"
+    },
+    {
+      "name": "Savannakhet",
+      "kind": "area",
+      "locality": "Laos",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Laos",
+      "id": "laos-73b8f3963bdbacfdfdfe"
+    },
+    {
+      "name": "Tha Khaek",
+      "kind": "area",
+      "locality": "Laos",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Laos",
+      "id": "laos-74540ed5b2b9031b59bd"
+    },
+    {
+      "name": "Herbal Sauna",
+      "kind": "do",
+      "locality": "Laos",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Laos",
+      "id": "laos-2c334c51b602f3b71458"
+    },
+    {
+      "name": "Hiking",
+      "kind": "do",
+      "locality": "Laos",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Laos",
+      "id": "laos-1e9577689c3cc94963cf"
+    },
+    {
+      "name": "Kayaking",
+      "kind": "do",
+      "locality": "Laos",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Laos",
+      "id": "laos-096426e0521834796269"
+    },
+    {
+      "name": "Rock Climbing",
+      "kind": "do",
+      "locality": "Laos",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Laos",
+      "id": "laos-a9070b0ab8159f20dcf0"
+    },
+    {
+      "name": "Tubing",
+      "kind": "do",
+      "locality": "Laos",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Laos",
+      "id": "laos-ce3e90b50079684c0ae0"
+    },
+    {
+      "name": "COPE Visitor Centre",
+      "kind": "do",
+      "locality": "Vientiane",
+      "lat": 17.96127,
+      "lon": 102.61789,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "price": "Free",
+      "url": "http://www.copelaos.org/",
+      "id": "laos-2445a7eb1bf601eab22a"
+    },
+    {
+      "name": "Kaysone Phomvihane Museum",
+      "kind": "do",
+      "locality": "Vientiane",
+      "lat": 18.0065,
+      "lon": 102.645,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Muang Saythani",
+      "price": "5,000 kip",
+      "id": "laos-3ea58ab7d22fcea3ac27"
+    },
+    {
+      "name": "Lao National Museum",
+      "kind": "do",
+      "locality": "Vientiane",
+      "lat": 18.007466,
+      "lon": 102.6453592,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "price": "30,000 Kip for foreigners, 5,000 Kip for Lao nationals",
+      "id": "laos-57fffe4e88ea754ae482"
+    },
+    {
+      "name": "Patuxai",
+      "kind": "do",
+      "locality": "Vientiane",
+      "lat": 17.971482,
+      "lon": 102.618468,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Ave Lane Xang",
+      "price": "3,000 kip (to climb)",
+      "id": "laos-ba2353c16afc3c994d7b"
+    },
+    {
+      "name": "President Souphanouvong Memorial",
+      "kind": "do",
+      "locality": "Vientiane",
+      "lat": 19.8813,
+      "lon": 102.1369,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Kaysone Phomvihane Rd, Ban Phonsa-art",
+      "price": "5,000 kip",
+      "id": "laos-c5f0db8e5e6a2ef39831"
+    },
+    {
+      "name": "Presidential Palace",
+      "kind": "do",
+      "locality": "Vientiane",
+      "lat": 17.9623,
+      "lon": 102.61,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-bf763afdce6438cf4d5f"
+    },
+    {
+      "name": "Lao Cultural Hall",
+      "kind": "do",
+      "locality": "Vientiane",
+      "lat": 17.96614,
+      "lon": 102.60658,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Rue Setthathilath",
+      "id": "laos-722c5a197942d354b66e"
+    },
+    {
+      "name": "Lao Textile Museum",
+      "kind": "do",
+      "locality": "Vientiane",
+      "lat": 18.000791,
+      "lon": 102.616875,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "No 151/11 Ban Nongtha-tai, Chanthabouly District",
+      "price": "30,000 kip",
+      "id": "laos-2b5d6f5a5ad7892ff9c6"
+    },
+    {
+      "name": "Chinese Temple",
+      "kind": "do",
+      "locality": "Vientiane",
+      "lat": 17.9628,
+      "lon": 102.6052,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Quai Fa Ngum",
+      "id": "laos-6ecba61790d5b47e0dcd"
+    },
+    {
+      "name": "Black Stupa",
+      "kind": "do",
+      "locality": "Vientiane",
+      "lat": 17.966,
+      "lon": 102.611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-e218652677960d72511a"
+    },
+    {
+      "name": "Hophakaew Museum",
+      "kind": "do",
+      "locality": "Vientiane",
+      "lat": 17.9617,
+      "lon": 102.6115,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Setthathirat Rd",
+      "price": "10,000 kip",
+      "id": "laos-e4bffe0efa9cb600c9db"
+    },
+    {
+      "name": "Inpeng Temple",
+      "kind": "do",
+      "locality": "Vientiane",
+      "lat": 17.9665,
+      "lon": 102.6025,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-6031cb2bfc04dccb80c0"
+    },
+    {
+      "name": "Pha That Luang",
+      "kind": "do",
+      "locality": "Vientiane",
+      "lat": 17.97667,
+      "lon": 102.63644,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "price": "10,000 kip",
+      "id": "laos-5dfd292962c51a9a9d4f"
+    },
+    {
+      "name": "Wat Chan",
+      "kind": "do",
+      "locality": "Vientiane",
+      "lat": 17.964,
+      "lon": 102.603,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Quai Fa Ngum (ຖະໜົນເຈົ້າຟ້າງຸ່ມ)",
+      "id": "laos-095b74884fe87bd75340"
+    },
+    {
+      "name": "Wats Onteu, Inpeng, Mixay & Haisok",
+      "kind": "do",
+      "locality": "Vientiane",
+      "lat": 17.9663,
+      "lon": 102.6047,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Rue Setthathilath",
+      "id": "laos-b192a8e069441877196c"
+    },
+    {
+      "name": "Wat Xieng Ngeun",
+      "kind": "do",
+      "locality": "Vientiane",
+      "lat": 17.9631,
+      "lon": 102.6064,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Xieng Nyeun",
+      "id": "laos-ada678a7bcec99f2e41a"
+    },
+    {
+      "name": "Wat Si Muang",
+      "kind": "do",
+      "locality": "Vientiane",
+      "lat": 17.9579,
+      "lon": 102.617,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "price": "Free",
+      "id": "laos-9c63e87768d2834ced62"
+    },
+    {
+      "name": "Wat Si Saket",
+      "kind": "do",
+      "locality": "Vientiane",
+      "lat": 17.9631,
+      "lon": 102.6114,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Lan Xang Avenue (ຖະໜົນລ້ານຊ້າງ)",
+      "price": "5,000 kip",
+      "id": "laos-d5e51b1a62288b90a655"
+    },
+    {
+      "name": "Buddha Park",
+      "kind": "do",
+      "locality": "Vientiane",
+      "lat": 17.91229,
+      "lon": 102.765397,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-b2aa83e67a2174beda22"
+    },
+    {
+      "name": "National Ethnic Cultural Park",
+      "kind": "do",
+      "locality": "Vientiane",
+      "lat": 17.8823,
+      "lon": 102.7037,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Thanaleng",
+      "id": "laos-1f552ca78a6839ef2ff3"
+    },
+    {
+      "name": "Champakham Massage & Spa",
+      "kind": "do",
+      "locality": "Vientiane",
+      "lat": 17.964209,
+      "lon": 102.604259,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Rue Francois Ngin",
+      "url": "https://www.facebook.com/cpkspa",
+      "id": "laos-579734ac5dde393215d5"
+    },
+    {
+      "name": "French Cultural Centre",
+      "kind": "do",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Lane Xang Rd",
+      "id": "laos-5df608596c45d648228e"
+    },
+    {
+      "name": "Kuanjai Sikhot Boxing Gym",
+      "kind": "do",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-b928bd9b356c13d79f04"
+    },
+    {
+      "name": "Lao Experiences Cooking Course and Food Tours",
+      "kind": "do",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-48c8519b59ce61f3ebc8"
+    },
+    {
+      "name": "Lao National Stadium",
+      "kind": "do",
+      "locality": "Vientiane",
+      "lat": 17.96851,
+      "lon": 102.60802,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Rue Le Ky Huong",
+      "id": "laos-b440da7bc2db43ad6a08"
+    },
+    {
+      "name": "Lao Massage",
+      "kind": "do",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "price": "US$3-6/hour",
+      "id": "laos-a8705041804f204cc1fe"
+    },
+    {
+      "name": "Monk Chat",
+      "kind": "do",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-3597bbcc7f6b3e57ce65"
+    },
+    {
+      "name": "Nam Ngum Lake",
+      "kind": "do",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-d80bc84b7f4fd769bb27"
+    },
+    {
+      "name": "Patuxay Park",
+      "kind": "do",
+      "locality": "Vientiane",
+      "lat": 17.9722,
+      "lon": 102.6203,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Thannon Lan Xang",
+      "id": "laos-7efed440a7d5f36efe6c"
+    },
+    {
+      "name": "Tour via Vientiane ByCycle",
+      "kind": "do",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Ban Sithan Neua",
+      "url": "http://www.vientianebycycle.com/",
+      "id": "laos-f357e69d737f7f4a1a82"
+    },
+    {
+      "name": "Hire a bicycle from Lao Bike",
+      "kind": "do",
+      "locality": "Vientiane",
+      "lat": 17.96632,
+      "lon": 102.60362,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Setthathirath Road",
+      "price": "US$2-6 per day",
+      "id": "laos-a7c6718fc35775f4bcba"
+    },
+    {
+      "name": "Along the river",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-5307a17a482dd04ccf6c"
+    },
+    {
+      "name": "Ban Anou Night Market",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-89a8ad708a0894fbbf27"
+    },
+    {
+      "name": "Delicious Noodle - Quan Banh Canh Ngon",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-f066ec43693d7be239d0"
+    },
+    {
+      "name": "Name Unknown",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-45d9ae42afc998fa691d"
+    },
+    {
+      "name": "Nazim Indian Restaurant",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-b5edbafb42617ed90f9c"
+    },
+    {
+      "name": "Noodle Shops",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "price": "Around US$1 for a large bowl or plate.",
+      "id": "laos-becec3beeb4d159939cd"
+    },
+    {
+      "name": "Ray's Grille Burgers & Mexican (Formerly Ray's Grille)",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "17/1 Sihom",
+      "price": "17,000-30,000 kip",
+      "url": "https://www.facebook.com/raysgrilleLaopdr?ref=stream",
+      "id": "laos-e2b7b344a236e4715f77"
+    },
+    {
+      "name": "Stay Hungry Burger",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-c34081072ddde6b5e72c"
+    },
+    {
+      "name": "Taj Mahal Restaurant",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "lat": 17.96567,
+      "lon": 102.60637,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-ef51c71840278be99b42"
+    },
+    {
+      "name": "Ban Lao Beer Garden",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "lat": 17.964559,
+      "lon": 102.604198,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "172 François Nginn rd. Ban Mixay",
+      "id": "laos-2746f8fbadc15137d19d"
+    },
+    {
+      "name": "Banneton Café",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-fbadad99b65a088e36a4"
+    },
+    {
+      "name": "Benoni Cafe",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-14e892dd38dba4a09144"
+    },
+    {
+      "name": "Chokdee Café Restaurant & Belgian Beer Bar",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "lat": 17.963069,
+      "lon": 102.605833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Quai Fa Gnum",
+      "url": "https://www.facebook.com/Chokdee-Caf%C3%A9-119290841456796",
+      "id": "laos-7749646086872c535282"
+    },
+    {
+      "name": "Dai Japanese restaurant",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "lat": 17.965794,
+      "lon": 102.60481,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Setthatirath road",
+      "url": "http://www.facebook.com/japaneseizakayadai",
+      "id": "laos-97a288a29424f33a6b97"
+    },
+    {
+      "name": "Dinner Cruises",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-c56d6b17c248fc3f981c"
+    },
+    {
+      "name": "Full Moon Café",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-ed49150796da536c1661"
+    },
+    {
+      "name": "Khao Nieow",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "price": "Set three-course meals at US$4.50",
+      "id": "laos-2600fe0365cdae3cf329"
+    },
+    {
+      "name": "Kong View Bar and Restaurant",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "lat": 17.96769,
+      "lon": 102.58048,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "183 Luang Prabang Rd",
+      "id": "laos-ebcb284ab9769f920d6c"
+    },
+    {
+      "name": "Kop Kap",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-dc9078bf3aa65b2cab22"
+    },
+    {
+      "name": "Kualao",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "lat": 17.964784,
+      "lon": 102.610572,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "price": "Expensive by Lao standards with main dishes from US$6-12 and set meals at US$15",
+      "url": "https://www.kualaorestaurant.com/",
+      "id": "laos-08ef24fce1366850e211"
+    },
+    {
+      "name": "Moon the Night Restaurant",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "lat": 17.96709,
+      "lon": 102.58903,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "QQuai Fa Ngum",
+      "price": "A meal of 6 to 8 dishes for 4 people costs US$15-20 including drinks",
+      "id": "laos-2be63e275bca20bd9a6c"
+    },
+    {
+      "name": "Phonethip Coca Suki Restaurant",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-a3b8faaa928ef073407a"
+    },
+    {
+      "name": "Sticky Fingers",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-96fbd3cf77324847f47a"
+    },
+    {
+      "name": "Swedish Pizza & Baking House",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-84a708b6f821117c0213"
+    },
+    {
+      "name": "La Terrasse",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "price": "Set three-course lunch is US$5.50, main dishes up to US$10.",
+      "id": "laos-35d55c3f12fe85d39a0c"
+    },
+    {
+      "name": "Via Via",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-9daaecb78f8acd652192"
+    },
+    {
+      "name": "Osaka",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "lat": 17.964507,
+      "lon": 102.605493,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Nokeokoummane street",
+      "id": "laos-e37aaaa62ebd0c734e8f"
+    },
+    {
+      "name": "Xang Khoo",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "lat": 17.965061,
+      "lon": 102.60827,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Pangkham road",
+      "id": "laos-6f40013b6448805c9494"
+    },
+    {
+      "name": "Papillon",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "lat": 17.964187,
+      "lon": 102.604157,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "François N'gin",
+      "url": "https://www.facebook.com/Papillon-French-Restaurant-1725094451131288",
+      "id": "laos-215824d696920e7c4dae"
+    },
+    {
+      "name": "Privet",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "lat": 17.93275,
+      "lon": 102.62453,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Donpamai Village, Sisattanart Distric, Vientiane",
+      "url": "https://www.facebook.com/privetrestaurant/menu/",
+      "id": "laos-f36d881a68cfdea3c3a9"
+    },
+    {
+      "name": "Balkan House",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Thongsangnang Village",
+      "price": "From US$5-15",
+      "id": "laos-a377f72b308179da4e79"
+    },
+    {
+      "name": "La Scala Italian Restaurant",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Lak 3, Thadeua Rd",
+      "id": "laos-64f2da130b668f455cb8"
+    },
+    {
+      "name": "Classic Lao Di Fang",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-5b5cfc1414725277a086"
+    },
+    {
+      "name": "Dihao Hunan Restaurant",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-16435af4b546586bbbd3"
+    },
+    {
+      "name": "Fu Man Lou",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-f23a34ce819a86655b76"
+    },
+    {
+      "name": "Hong Kong Restaurant",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-24642f52cf455dc410bc"
+    },
+    {
+      "name": "Jiu-Jiu Restaurant",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-0e101fadc834d15c6dc6"
+    },
+    {
+      "name": "Restaurant Chengdu",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-c96f467e69b7b0744263"
+    },
+    {
+      "name": "Fathima",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-9a0807c83054927561fa"
+    },
+    {
+      "name": "Vegetarian in the Golden Age",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "lat": 17.968687,
+      "lon": 102.612718,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "0155 Hatxadi Saylom Road",
+      "price": "20-40,000 kip; 32,000 for the lunch buffet",
+      "id": "laos-cbafd8cdbb73c170a921"
+    },
+    {
+      "name": "Vegan Food Stall at Sao Market Food Court",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "price": "All plates at 10,000 kip each",
+      "id": "laos-f4e4f7a91c203f43d967"
+    },
+    {
+      "name": "Vegan Restaurant at Khuadin Market",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "lat": 17.96449,
+      "lon": 102.616813,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "price": "30,000 kip",
+      "id": "laos-60a2c2ab6ab7ee1c3d19"
+    },
+    {
+      "name": "CCC Bar",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-e9a7c784da268aa76296"
+    },
+    {
+      "name": "Champa",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-a5fd0082b9a2d86bd850"
+    },
+    {
+      "name": "Deja Vu",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-42c5b096e2245287aa8d"
+    },
+    {
+      "name": "Don Chan Palace Hotel Nightclub",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-e33f10315c5f4ac8d2ea"
+    },
+    {
+      "name": "GQ Bar and Massage",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-f753b6562800f3eb759c"
+    },
+    {
+      "name": "Jazzy-Brick",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-70240caeed74b021addc"
+    },
+    {
+      "name": "Khop Chai Deu",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "lat": 17.96451,
+      "lon": 102.6075,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "url": "http://www.khopchaideu.com/",
+      "id": "laos-6b7a3ddba0baf57592e8"
+    },
+    {
+      "name": "Marina",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "lat": 17.97018,
+      "lon": 102.58245,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-f08991baad5584848990"
+    },
+    {
+      "name": "Martini Lounge",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-e6c846aa2ec783feae8b"
+    },
+    {
+      "name": "Samlo Pub",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "lat": 17.96596,
+      "lon": 102.60447,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-1f1dfb72145ed8f6a9e5"
+    },
+    {
+      "name": "Wind West",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-1244f70ae9676e0e979c"
+    },
+    {
+      "name": "Highland Bar",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "lat": 17.96675,
+      "lon": 102.5909,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "url": "http://highlandbar.com/",
+      "id": "laos-7dda1ca7fbbafc0b6e92"
+    },
+    {
+      "name": "Gallery Risto Cafe & Restaurant",
+      "kind": "eat",
+      "locality": "Vientiane",
+      "lat": 17.96742,
+      "lon": 102.60403,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-ce6390de3ebb0e0cf0b4"
+    },
+    {
+      "name": "Benacam Guest House",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "price": "100,000 kip, double room with fan, low season (Jun 2012)",
+      "id": "laos-7d539fd419998b3752d0"
+    },
+    {
+      "name": "Dhaka Hostel",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Nokeo Koummane Rd",
+      "price": "Dorms 30,000 kip, Singles 40,000 kip, Doubles 70,000 kip",
+      "id": "laos-28b3ea615c4531a5ee81"
+    },
+    {
+      "name": "Lucky Backpackers Hostel",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "lat": 17.963821,
+      "lon": 102.605719,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Manthaturath road",
+      "price": "40,000 kip",
+      "url": "http://www.facebook.com/LuckyBackpackers/",
+      "id": "laos-afd64d9b91112093672d"
+    },
+    {
+      "name": "Mimi Guest House",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Francois Ngin Rd",
+      "price": "50,000 kip",
+      "id": "laos-8c112b3e2bb8be167d9d"
+    },
+    {
+      "name": "Mixay Guesthouse",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "54 Nokeo Koummane Rd",
+      "price": "50,000-100,000 kip. Add 5,000 kip for a breakfast (Oct 2011)",
+      "id": "laos-e2b691236791c35ab1a2"
+    },
+    {
+      "name": "Mixay Paradise",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Francois Ngin Rd",
+      "price": "Rooms US$12 to $19, cheaper if you pay in kip",
+      "id": "laos-918555e1080ade87d74e"
+    },
+    {
+      "name": "RD Guesthouse",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Norkeokoummane Rd",
+      "price": "50,000 kip for a dorm bed",
+      "id": "laos-944edc94f571bbd3a67d"
+    },
+    {
+      "name": "Sabaidy Guest House",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "203 Settathirat Rd",
+      "price": "Dormitories with no doors or sheets on a bed for 25,000 kip, doubles for 60,000 kip",
+      "id": "laos-188bdaee1b06841b17cb"
+    },
+    {
+      "name": "Saysouly Guesthouse",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "lat": 17.96418,
+      "lon": 102.606164,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "23 Manthatulath Road, Ban Xieng Yeun, Vientiane",
+      "price": "90,000 kip",
+      "id": "laos-00c80ba35e182e704cbc"
+    },
+    {
+      "name": "Seng Lao Hotel",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "price": "115,000-260,000 kip",
+      "id": "laos-865b9ff100843bf75b15"
+    },
+    {
+      "name": "Soutchai Travel",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Nokeo Koummane Rd",
+      "price": "110,000 kip",
+      "id": "laos-26a102999b1710ac874d"
+    },
+    {
+      "name": "Youth Inn 2",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "lat": 17.96533,
+      "lon": 102.60468,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Francois Ngin Rd",
+      "price": "80,000 kip or 300 baht",
+      "id": "laos-d5b4002f8f11c6db0de9"
+    },
+    {
+      "name": "Alina Hotel",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "lat": 17.9746,
+      "lon": 102.5965,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-3b4665d68b822ff8298c"
+    },
+    {
+      "name": "Baan Champa Lao Heritage Hotel",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "125 Phnompehn Rd",
+      "price": "US$15-25, including breakfast (toast, fruit, tea, coffee)",
+      "id": "laos-449e31acccc03abd556a"
+    },
+    {
+      "name": "Beau Rivage Mekong Hotel",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Fa Ngum Rd",
+      "price": "US$40-70",
+      "url": "http://www.hbrm.com/home.htm",
+      "id": "laos-f31080932afe54500742"
+    },
+    {
+      "name": "D'Rose Hotel",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "No. 339 Pangkham Rd, Sisakhet Village",
+      "id": "laos-f5a780d4d9c1e06f3e16"
+    },
+    {
+      "name": "Daokham Hotel",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "lat": 17.97353,
+      "lon": 102.58885,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-4172ca46835f4c2c048b"
+    },
+    {
+      "name": "Douang Deuane Hotel",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Norkeokoummane Rd",
+      "price": "From US$15",
+      "id": "laos-eed1627ece0fce38d3d3"
+    },
+    {
+      "name": "New iHouse Hotel",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "lat": 17.964906,
+      "lon": 102.60855,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "72/6 Pangkham Rd",
+      "price": "From US$25",
+      "id": "laos-3b45c29a2865319b5126"
+    },
+    {
+      "name": "Inter City Hotel",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "24-25 Fa Ngum Rd",
+      "price": "US$35-61",
+      "id": "laos-8c711ad8d9cdcc0ef2ea"
+    },
+    {
+      "name": "Keomixay Hotel",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "lat": 17.97226,
+      "lon": 102.59955,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Asian Road, Nong Duang Village",
+      "id": "laos-71879dee1495f433b246"
+    },
+    {
+      "name": "Lani Guest House",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Setthathirat Rd",
+      "price": "US$35-45/double",
+      "url": "http://www.laniguesthouse.com/",
+      "id": "laos-624495c95a89e877c843"
+    },
+    {
+      "name": "Lane Xang Hotel",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "lat": 17.9628,
+      "lon": 102.6077,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "price": "US$30-50, including breakfast",
+      "id": "laos-cdb42f84fe4d11fe9d9d"
+    },
+    {
+      "name": "Khounxay Hotel",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "lat": 17.97456,
+      "lon": 102.59051,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Asiana Road",
+      "id": "laos-17201ac6a81a4402c204"
+    },
+    {
+      "name": "Leuxay Hotel",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "189/19 Ban Hongkhatay, Chanthabouly District",
+      "url": "http://www.leuxaygroup.com/",
+      "id": "laos-7bc040ad64887ce3b76f"
+    },
+    {
+      "name": "Mali Namphu Guest House",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "price": "US$29-35",
+      "id": "laos-32480259e89f26c707bf"
+    },
+    {
+      "name": "Mixok Guest House and Mixok Inn",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "lat": 17.96534,
+      "lon": 102.60574,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "188 Setthathirate Rd",
+      "price": "110,000-200,000 kip",
+      "id": "laos-97f484111f87a2d15522"
+    },
+    {
+      "name": "New Lao Paris Hotel",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "118 Samsenthai Rd",
+      "price": "From 1,000 baht",
+      "id": "laos-b4bf30988879491fc2f8"
+    },
+    {
+      "name": "Orchid Guest House",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Fa Ngum Rd",
+      "price": "US$12 (single)-US$15 (double)",
+      "id": "laos-d05cc685d7d28b15e94c"
+    },
+    {
+      "name": "Sinnakhone Hotel",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "price": "150,000-170,000 kip",
+      "id": "laos-a4ec2e377c0ad666c7ff"
+    },
+    {
+      "name": "Soupanphone Guesthouse",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "145, Ban Wat Chan",
+      "price": "Doubles 170,000 kip",
+      "url": "http://www.souphaphone.net/",
+      "id": "laos-5ef17ac019fb71828d65"
+    },
+    {
+      "name": "Vayakorn Guest House",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "91 Nokeo Kumman Rd",
+      "price": "Singles, US$22; doubles, US$32 (Dec 2011)",
+      "id": "laos-f505822f7d313d9367c3"
+    },
+    {
+      "name": "Villa Lao",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "price": "170,000 kip",
+      "id": "laos-d6e0f53c20bdfe5049d6"
+    },
+    {
+      "name": "Somerset Vientiane",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Souphanouvong Av, Sikhotabong District",
+      "url": "http://www.somerset.com/en/lao-peoples-democratic/vientiane/somerset-vientiane/index.html",
+      "id": "laos-01d8c7607385e6b6b799"
+    },
+    {
+      "name": "Chanthapanya Hotel",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Nokeo Kummane Rd",
+      "price": "From US$65",
+      "url": "http://www.chanthapanyahotel.com/",
+      "id": "laos-10b29a9cf9f92cfc5809"
+    },
+    {
+      "name": "Don Chan Palace",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "lat": 17.9553,
+      "lon": 102.6146,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "price": "From US$68",
+      "url": "http://www.donchanpalacelaopdr.com/",
+      "id": "laos-4ce18a4a757070317fb6"
+    },
+    {
+      "name": "Green Park Boutique Hotel and Resort",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "248 Khouvieng Road",
+      "price": "US$100-130",
+      "url": "https://sites.google.com/view/green-park-boutique-hotel/",
+      "id": "laos-92c767e491f13d15d65a"
+    },
+    {
+      "name": "Mercure Vientiane",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "lat": 17.969212,
+      "lon": 102.594098,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Unit 10 Samsenthai Rd",
+      "price": "Former US$49",
+      "url": "http://www.mercure.com/gb/hotel-1828-mercure-vientiane/index.shtml",
+      "id": "laos-486a9be5f5d3cf112620"
+    },
+    {
+      "name": "Salana Boutique Hotel",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "Chao Anou Rd, 112 Ban Wat Chan, Chanthabouly District",
+      "price": "From US$76",
+      "url": "http://www.salanaboutique.com/",
+      "id": "laos-7fcea2c486e7852b28c5"
+    },
+    {
+      "name": "Settha Palace Hotel",
+      "kind": "stay",
+      "locality": "Vientiane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "address": "6 Pang Kham St",
+      "price": "From US$105",
+      "url": "http://www.setthapalace.com/",
+      "id": "laos-2904fdcf33890988f356"
+    },
+    {
+      "name": "Vientiane",
+      "kind": "area",
+      "locality": "Vientiane",
+      "lat": 17.9628,
+      "lon": 102.614,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vientiane",
+      "id": "laos-43c07a8d11545c8488c8"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

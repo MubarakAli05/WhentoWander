@@ -1,0 +1,300 @@
+{
+  "sources": [
+    {
+      "title": "Somalia",
+      "url": "https://en.wikivoyage.org/wiki/Somalia",
+      "checkedAt": "2026-10-21T08:12:24.223Z"
+    },
+    {
+      "title": "Mogadishu",
+      "url": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "checkedAt": "2026-10-21T08:12:27.204Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Mogadishu",
+      "kind": "area",
+      "locality": "Somalia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Somalia",
+      "id": "somalia-8a3e406c2bad41ff40ec"
+    },
+    {
+      "name": "Kismayo",
+      "kind": "area",
+      "locality": "Somalia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Somalia",
+      "id": "somalia-43d9597f527db3a6fc62"
+    },
+    {
+      "name": "Galkacyo",
+      "kind": "area",
+      "locality": "Somalia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Somalia",
+      "id": "somalia-868019bfa56dcaa75015"
+    },
+    {
+      "name": "Las Khorey",
+      "kind": "area",
+      "locality": "Somalia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Somalia",
+      "id": "somalia-16b919bd1f6af7c432b9"
+    },
+    {
+      "name": "Taleh",
+      "kind": "area",
+      "locality": "Somalia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Somalia",
+      "id": "somalia-c832676ccf9adf98bef2"
+    },
+    {
+      "name": "Arba-Rucun Mosque",
+      "kind": "do",
+      "locality": "Mogadishu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "id": "somalia-3c86d57730d0cc134d49"
+    },
+    {
+      "name": "Arch of Triumph",
+      "kind": "do",
+      "locality": "Mogadishu",
+      "lat": 2.034771,
+      "lon": 45.342665,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "id": "somalia-6a2e654c464d8c057632"
+    },
+    {
+      "name": "Banadir Governor Office",
+      "kind": "do",
+      "locality": "Mogadishu",
+      "lat": 2.03471,
+      "lon": 45.34181,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "url": "https://www.facebook.com/Gobolka-Banaadir-1442287486010006/",
+      "id": "somalia-8092632b18362ec94782"
+    },
+    {
+      "name": "Black Hawk Down Crash Site",
+      "kind": "do",
+      "locality": "Mogadishu",
+      "lat": 2.0525,
+      "lon": 45.324722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "id": "somalia-380695ac1881a071214f"
+    },
+    {
+      "name": "Ruins of Mogadishu Cathedral",
+      "kind": "do",
+      "locality": "Mogadishu",
+      "lat": 2.035736,
+      "lon": 45.341614,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "id": "somalia-7e27fcaf39f7e9a40168"
+    },
+    {
+      "name": "Mogadishu Lighthouse",
+      "kind": "do",
+      "locality": "Mogadishu",
+      "lat": 2.033099,
+      "lon": 45.343956,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "id": "somalia-49eeee9e9025d652590f"
+    },
+    {
+      "name": "Mogadishu Peace Park",
+      "kind": "do",
+      "locality": "Mogadishu",
+      "lat": 2.0348,
+      "lon": 45.335,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "address": "Via Marocco",
+      "url": "https://www.instagram.com/mogadishu_peace_park/",
+      "id": "somalia-46d1999df3dd7d4eea1f"
+    },
+    {
+      "name": "Almnara Tower",
+      "kind": "do",
+      "locality": "Mogadishu",
+      "lat": 2.037,
+      "lon": 45.3534,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "id": "somalia-94b67b6cc141ccbbd956"
+    },
+    {
+      "name": "Fakr Ad-Din Mosque",
+      "kind": "do",
+      "locality": "Mogadishu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "id": "somalia-73875c3856929f05624e"
+    },
+    {
+      "name": "Sayid Mohamed Abdulle Hassan Monument",
+      "kind": "do",
+      "locality": "Mogadishu",
+      "lat": 2.0369,
+      "lon": 45.3297,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "id": "somalia-a7850812b66349cae5dd"
+    },
+    {
+      "name": "Daljirka Dahsoon",
+      "kind": "do",
+      "locality": "Mogadishu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "id": "somalia-4a8fc98461cc38ffd1db"
+    },
+    {
+      "name": "National Museum of Somalia",
+      "kind": "do",
+      "locality": "Mogadishu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "id": "somalia-b78356a19ab2074fec5b"
+    },
+    {
+      "name": "Mogadishu Fish Market",
+      "kind": "do",
+      "locality": "Mogadishu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "id": "somalia-0cd90ba4b9cd2c000f7e"
+    },
+    {
+      "name": "Jaziira Livestock market",
+      "kind": "do",
+      "locality": "Mogadishu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "id": "somalia-e0d2c5d72eccb7f75cc2"
+    },
+    {
+      "name": "National Theatre of Somalia",
+      "kind": "do",
+      "locality": "Mogadishu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "id": "somalia-1b6aa8a9fe010f6dc98f"
+    },
+    {
+      "name": "Jaziira Beach",
+      "kind": "do",
+      "locality": "Mogadishu",
+      "lat": 1.94396,
+      "lon": 45.16684,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "id": "somalia-591197eb6a6242e368a0"
+    },
+    {
+      "name": "Liido Beach",
+      "kind": "do",
+      "locality": "Mogadishu",
+      "lat": 2.03998,
+      "lon": 45.36346,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "id": "somalia-fda372cf9d411cde119b"
+    },
+    {
+      "name": "Liido Seafood Restaurant",
+      "kind": "eat",
+      "locality": "Mogadishu",
+      "lat": 2.037848,
+      "lon": 45.360271,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "id": "somalia-7c4d86cf1462f3dd3eca"
+    },
+    {
+      "name": "Istanbul Restaurant",
+      "kind": "eat",
+      "locality": "Mogadishu",
+      "lat": 2.03842,
+      "lon": 45.30275,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "id": "somalia-96718bffe0b30729c752"
+    },
+    {
+      "name": "Al-furat Hotel",
+      "kind": "stay",
+      "locality": "Mogadishu",
+      "lat": 2.03392,
+      "lon": 45.32009,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "id": "somalia-8d1ee0525a91707b946e"
+    },
+    {
+      "name": "Hotel Nasa Hablod",
+      "kind": "stay",
+      "locality": "Mogadishu",
+      "lat": 2.031026,
+      "lon": 45.311962,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "address": "Km 4 square",
+      "url": "https://www.facebook.com/hotelnasahablod1/",
+      "id": "somalia-c61e1f76f8ae6fd67f40"
+    },
+    {
+      "name": "Hotel Shamo",
+      "kind": "stay",
+      "locality": "Mogadishu",
+      "lat": 2.03108,
+      "lon": 45.30383,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "price": "From US$100",
+      "url": "https://www.shaamohotel.com/",
+      "id": "somalia-3d43e5b849bb09e3abd8"
+    },
+    {
+      "name": "Oriental Hotel",
+      "kind": "stay",
+      "locality": "Mogadishu",
+      "lat": 2.04898,
+      "lon": 45.35214,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "id": "somalia-1f6548c41913227f34aa"
+    },
+    {
+      "name": "Peace Hotel",
+      "kind": "stay",
+      "locality": "Mogadishu",
+      "lat": 2.01693,
+      "lon": 45.29936,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "url": "https://www.peacehotelsom.com/",
+      "id": "somalia-e5a5c6128e08939cb696"
+    },
+    {
+      "name": "Sahafi Hotel",
+      "kind": "stay",
+      "locality": "Mogadishu",
+      "lat": 2.031447,
+      "lon": 45.309438,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "id": "somalia-46ec2c460bdabac9741c"
+    },
+    {
+      "name": "Syl Hotel",
+      "kind": "stay",
+      "locality": "Mogadishu",
+      "lat": 2.03599,
+      "lon": 45.33458,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "id": "somalia-3e093c38161501ef8a62"
+    },
+    {
+      "name": "Jazeera Palace Hotel",
+      "kind": "stay",
+      "locality": "Mogadishu",
+      "lat": 2.022301,
+      "lon": 45.304671,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "url": "http://www.jazeerapalace.com/",
+      "id": "somalia-ce2a283c623fa5aec271"
+    },
+    {
+      "name": "Mogadishu",
+      "kind": "area",
+      "locality": "Mogadishu",
+      "lat": 2.0408,
+      "lon": 45.3425,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mogadishu",
+      "id": "somalia-85a3489beebbf90296d0"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

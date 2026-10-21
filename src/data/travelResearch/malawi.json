@@ -1,0 +1,264 @@
+{
+  "sources": [
+    {
+      "title": "Malawi",
+      "url": "https://en.wikivoyage.org/wiki/Malawi",
+      "checkedAt": "2026-10-21T08:10:52.443Z"
+    },
+    {
+      "title": "Lilongwe",
+      "url": "https://en.wikivoyage.org/wiki/Lilongwe",
+      "checkedAt": "2026-10-21T08:10:55.790Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Lilongwe",
+      "kind": "area",
+      "locality": "Malawi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malawi",
+      "id": "malawi-9348dba79d3e97f2cdae"
+    },
+    {
+      "name": "Blantyre",
+      "kind": "area",
+      "locality": "Malawi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malawi",
+      "id": "malawi-420db4b85c1413ff1de4"
+    },
+    {
+      "name": "Mzuzu",
+      "kind": "area",
+      "locality": "Malawi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malawi",
+      "id": "malawi-e84c72797b5d0a90abf6"
+    },
+    {
+      "name": "Karonga",
+      "kind": "area",
+      "locality": "Malawi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malawi",
+      "id": "malawi-eaa92dd0d0ec21c49ddb"
+    },
+    {
+      "name": "Mangochi",
+      "kind": "area",
+      "locality": "Malawi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malawi",
+      "id": "malawi-dc531d1e20939366a6d2"
+    },
+    {
+      "name": "Nkhotakota",
+      "kind": "area",
+      "locality": "Malawi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malawi",
+      "id": "malawi-3525f7aa3dd4a185a707"
+    },
+    {
+      "name": "Zomba",
+      "kind": "area",
+      "locality": "Malawi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malawi",
+      "id": "malawi-84569466d24dd8a0f16f"
+    },
+    {
+      "name": "Lilongwe Wildlife Centre",
+      "kind": "do",
+      "locality": "Lilongwe",
+      "lat": -13.972,
+      "lon": 33.7835,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lilongwe",
+      "price": "Citizen: 1500 K, International: 5000 K",
+      "url": "http://www.lilongwewildlife.org/",
+      "id": "malawi-8328e73ed49d6afc3e6b"
+    },
+    {
+      "name": "Kumbali Cultural Centre",
+      "kind": "do",
+      "locality": "Lilongwe",
+      "lat": -13.9393,
+      "lon": 33.8408,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lilongwe",
+      "id": "malawi-309b4d686a5fb62dac02"
+    },
+    {
+      "name": "Parliament buildings",
+      "kind": "do",
+      "locality": "Lilongwe",
+      "lat": -13.954,
+      "lon": 33.7879,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lilongwe",
+      "id": "malawi-123320765dd421f3492f"
+    },
+    {
+      "name": "Kamuzu Mausoleum",
+      "kind": "do",
+      "locality": "Lilongwe",
+      "lat": -13.954444,
+      "lon": 33.789167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lilongwe",
+      "address": "Presidential Way",
+      "id": "malawi-16a952c822d05c888f5c"
+    },
+    {
+      "name": "World War I Memorial tower and statue of Hastings Kamuzu Banda",
+      "kind": "do",
+      "locality": "Lilongwe",
+      "lat": -13.9461,
+      "lon": 33.7847,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lilongwe",
+      "id": "malawi-40c0dbc0a62f12dd5788"
+    },
+    {
+      "name": "Golf Lessons",
+      "kind": "do",
+      "locality": "Lilongwe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lilongwe",
+      "address": "Lilongwe Golf Club",
+      "id": "malawi-fc0ecf1cb1ace487695d"
+    },
+    {
+      "name": "Sana",
+      "kind": "eat",
+      "locality": "Lilongwe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lilongwe",
+      "id": "malawi-683de04d4ebc454d49b3"
+    },
+    {
+      "name": "Chicken Inn",
+      "kind": "eat",
+      "locality": "Lilongwe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lilongwe",
+      "id": "malawi-3e1559811cf50cacceb4"
+    },
+    {
+      "name": "Country Lodge",
+      "kind": "eat",
+      "locality": "Lilongwe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lilongwe",
+      "address": "5 minute drive",
+      "id": "malawi-4bef3c8cfe52c5f4ab69"
+    },
+    {
+      "name": "Chez Ntemba International Nightclub",
+      "kind": "eat",
+      "locality": "Lilongwe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lilongwe",
+      "address": "Area 47",
+      "id": "malawi-636dee7061fede55b37c"
+    },
+    {
+      "name": "Lonely Planet/Oasis",
+      "kind": "eat",
+      "locality": "Lilongwe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lilongwe",
+      "address": "Off Chilambula Road",
+      "id": "malawi-2ed4f02ff66b3047241d"
+    },
+    {
+      "name": "Chameleon Bar",
+      "kind": "eat",
+      "locality": "Lilongwe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lilongwe",
+      "address": "Presidential Way",
+      "id": "malawi-528ca1ce8008fcc2f8d7"
+    },
+    {
+      "name": "St Peters Guesthouse",
+      "kind": "stay",
+      "locality": "Lilongwe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lilongwe",
+      "address": "Glyn Jones road",
+      "price": "Dorm bed/single 6000/10,000 kwacha",
+      "id": "malawi-3bab88dff4e86d7dca55"
+    },
+    {
+      "name": "Welcome Lodge",
+      "kind": "stay",
+      "locality": "Lilongwe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lilongwe",
+      "address": "Livingstone road area 3",
+      "price": "US$5 per dorm bed.",
+      "id": "malawi-22ac332b8b22e06ad2a1"
+    },
+    {
+      "name": "Mufatse Lodge",
+      "kind": "stay",
+      "locality": "Lilongwe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lilongwe",
+      "address": "3 Lister Avenue area 3",
+      "id": "malawi-08b7a84eaa214b9dd02b"
+    },
+    {
+      "name": "Imperial Town Hotel Lilongwe",
+      "kind": "stay",
+      "locality": "Lilongwe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lilongwe",
+      "address": "in the centre of the Old Town, next to post office",
+      "url": "https://imperialmw.com/",
+      "id": "malawi-2ca751f71103dff4bcf3"
+    },
+    {
+      "name": "Korea Garden Lodge",
+      "kind": "stay",
+      "locality": "Lilongwe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lilongwe",
+      "url": "http://www.kglodge.net/",
+      "id": "malawi-0f63a5755a88a7b7ab93"
+    },
+    {
+      "name": "Mufasa Lodge and camping site",
+      "kind": "stay",
+      "locality": "Lilongwe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lilongwe",
+      "address": "4th street old town area 2",
+      "price": "dorm US$10",
+      "url": "http://mufasamalawi.com/backpacker-lodges-accommodation/lilongwe",
+      "id": "malawi-b14e7d664bf55f4af255"
+    },
+    {
+      "name": "Sunrise Motel",
+      "kind": "stay",
+      "locality": "Lilongwe",
+      "lat": -13.974,
+      "lon": 33.76157,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lilongwe",
+      "address": "Mzimba",
+      "price": "Double w/ bathroom and breakfast: 64 500 K",
+      "id": "malawi-b9133e45b9a07b3ca8c3"
+    },
+    {
+      "name": "Cresta Crossroads Hotel",
+      "kind": "stay",
+      "locality": "Lilongwe",
+      "lat": -13.9768,
+      "lon": 33.7575,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lilongwe",
+      "address": "Crossroads Complex, Mchinji Roundabout",
+      "url": "http://www.cresta-hospitality.com/",
+      "id": "malawi-4d7f215fcb9ff28d0f54"
+    },
+    {
+      "name": "Sunbird Capital Hotel",
+      "kind": "stay",
+      "locality": "Lilongwe",
+      "lat": -13.955807,
+      "lon": 33.796292,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lilongwe",
+      "address": "Chilembwe Rd",
+      "url": "https://www.sunbirdmalawi.com/hotels/sunbird-capital",
+      "id": "malawi-0a5106e4376f48ce103c"
+    },
+    {
+      "name": "Lilongwe",
+      "kind": "area",
+      "locality": "Lilongwe",
+      "lat": -13.9833,
+      "lon": 33.7833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lilongwe",
+      "id": "malawi-fa98af7b5a0cba93a56a"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

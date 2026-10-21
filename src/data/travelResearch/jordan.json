@@ -1,0 +1,1234 @@
+{
+  "sources": [
+    {
+      "title": "Jordan",
+      "url": "https://en.wikivoyage.org/wiki/Jordan",
+      "checkedAt": "2026-10-21T08:02:35.703Z"
+    },
+    {
+      "title": "Amman",
+      "url": "https://en.wikivoyage.org/wiki/Amman",
+      "checkedAt": "2026-10-21T08:02:38.635Z"
+    },
+    {
+      "title": "Petra",
+      "url": "https://en.wikivoyage.org/wiki/Petra",
+      "checkedAt": "2026-10-21T08:02:41.632Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Amman",
+      "kind": "area",
+      "locality": "Jordan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jordan",
+      "id": "jordan-317bb1c5d9ca94b78d51"
+    },
+    {
+      "name": "Aqaba",
+      "kind": "area",
+      "locality": "Jordan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jordan",
+      "id": "jordan-6cbe2ca80e6529c04f3f"
+    },
+    {
+      "name": "Irbid",
+      "kind": "area",
+      "locality": "Jordan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jordan",
+      "id": "jordan-98aed87620f281d79f26"
+    },
+    {
+      "name": "Jerash",
+      "kind": "area",
+      "locality": "Jordan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jordan",
+      "id": "jordan-d35a84582c7f1379e2bb"
+    },
+    {
+      "name": "Kerak",
+      "kind": "area",
+      "locality": "Jordan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jordan",
+      "id": "jordan-ad7a1247dc040f6bed2e"
+    },
+    {
+      "name": "Madaba",
+      "kind": "area",
+      "locality": "Jordan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jordan",
+      "id": "jordan-09839806662c2ce130c3"
+    },
+    {
+      "name": "Salt",
+      "kind": "area",
+      "locality": "Jordan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jordan",
+      "id": "jordan-d9375b6665c768fa9511"
+    },
+    {
+      "name": "Tareef Cycling Club",
+      "kind": "do",
+      "locality": "Amman",
+      "lat": 32.00584,
+      "lon": 35.855042,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "url": "https://www.facebook.com/TareefCyclingClub/",
+      "id": "jordan-6a486beddd70005d2d15"
+    },
+    {
+      "name": "Cycling Jordan",
+      "kind": "do",
+      "locality": "Amman",
+      "lat": 31.975033,
+      "lon": 35.849508,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "url": "http://cyclingjordan.co/",
+      "id": "jordan-91bf143eec67e98fb8eb"
+    },
+    {
+      "name": "Amman Citadel",
+      "kind": "do",
+      "locality": "Amman",
+      "lat": 31.9547,
+      "lon": 35.9343,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "price": "3 JD (free with Jordan Pass)",
+      "id": "jordan-7f464ddee84079af9fe2"
+    },
+    {
+      "name": "Jordan Archaeological Museum",
+      "kind": "do",
+      "locality": "Amman",
+      "lat": 31.954185,
+      "lon": 35.934279,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "id": "jordan-698d4595ad33946ba1c3"
+    },
+    {
+      "name": "Temple of Herakles",
+      "kind": "do",
+      "locality": "Amman",
+      "lat": 31.9538,
+      "lon": 35.9349,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "id": "jordan-167ca33ee5640cc71f24"
+    },
+    {
+      "name": "Umayyad Palace",
+      "kind": "do",
+      "locality": "Amman",
+      "lat": 31.9555,
+      "lon": 35.9342,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "id": "jordan-7817bb3a9952eb031ad1"
+    },
+    {
+      "name": "Byzantine Church",
+      "kind": "do",
+      "locality": "Amman",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "id": "jordan-98f36245553ac51fab1c"
+    },
+    {
+      "name": "Roman Theater",
+      "kind": "do",
+      "locality": "Amman",
+      "lat": 31.951693,
+      "lon": 35.939305,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "price": "2 JD (free with Jordan Pass)",
+      "id": "jordan-3c4427e963a8a5d99a16"
+    },
+    {
+      "name": "Roman Nymphaeum",
+      "kind": "do",
+      "locality": "Amman",
+      "lat": 31.951692,
+      "lon": 35.939306,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "id": "jordan-e6f0ef8a6cc315e7142a"
+    },
+    {
+      "name": "Ammonite Watchtower",
+      "kind": "do",
+      "locality": "Amman",
+      "lat": 31.957778,
+      "lon": 35.904722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "id": "jordan-9accf1d6e53f9cb96cc8"
+    },
+    {
+      "name": "Rainbow Street",
+      "kind": "do",
+      "locality": "Amman",
+      "lat": 31.949586,
+      "lon": 35.925919,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "id": "jordan-49f68abf0c4aba5a18f2"
+    },
+    {
+      "name": "Darat al Funun",
+      "kind": "do",
+      "locality": "Amman",
+      "lat": 31.953592,
+      "lon": 35.930486,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "id": "jordan-6c3eb50a2f945c3327a9"
+    },
+    {
+      "name": "Jordan National Gallery of Fine Arts",
+      "kind": "do",
+      "locality": "Amman",
+      "lat": 31.957977,
+      "lon": 35.915086,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "Hosni Fareez St.",
+      "price": "5 JD",
+      "url": "http://www.nationalgallery.org/",
+      "id": "jordan-e4ad33456048d939e7df"
+    },
+    {
+      "name": "The Jordan Museum",
+      "kind": "do",
+      "locality": "Amman",
+      "lat": 31.945834,
+      "lon": 35.927341,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "Ali Ben Abi Taleb St. 10",
+      "price": "5 JD (locals 1 JD, Jordan Pass is not valid)",
+      "url": "http://jordanmuseum.jo/en",
+      "id": "jordan-31db389ee47b1787931c"
+    },
+    {
+      "name": "Abu Darwish Mosque",
+      "kind": "do",
+      "locality": "Amman",
+      "lat": 31.941584,
+      "lon": 35.937502,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "Abu Darwish St., Jabal",
+      "id": "jordan-1fe178a7a8735808426a"
+    },
+    {
+      "name": "King Abdullah I Mosque",
+      "kind": "do",
+      "locality": "Amman",
+      "lat": 31.96158,
+      "lon": 35.91312,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "price": "5 JD",
+      "id": "jordan-60382292907e6e973395"
+    },
+    {
+      "name": "Al Bishara Greek Orthodox Church",
+      "kind": "do",
+      "locality": "Amman",
+      "lat": 31.960175,
+      "lon": 35.915038,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "id": "jordan-c68a77016f34dfeb472a"
+    },
+    {
+      "name": "Cave of the Seven Sleepers",
+      "kind": "do",
+      "locality": "Amman",
+      "lat": 31.8989,
+      "lon": 35.9738,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "Al-Kahf St, al-Rajib",
+      "price": "Free",
+      "id": "jordan-22dbfb4209039473ae30"
+    },
+    {
+      "name": "Royal Automobile Museum",
+      "kind": "do",
+      "locality": "Amman",
+      "lat": 31.984107,
+      "lon": 35.825973,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "url": "http://www.royalautomuseum.jo/default.aspx?id=4&fl=4_2&lang=en",
+      "id": "jordan-1e01b61c5407a3071273"
+    },
+    {
+      "name": "Wadi al-Seer",
+      "kind": "do",
+      "locality": "Amman",
+      "lat": 31.856155,
+      "lon": 35.796433,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "id": "jordan-d4bf5a34917bf1b13734"
+    },
+    {
+      "name": "Iraq Al-Amir",
+      "kind": "do",
+      "locality": "Amman",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "price": "1 JD",
+      "id": "jordan-e127455a7732c569995e"
+    },
+    {
+      "name": "Caves of the Prince",
+      "kind": "do",
+      "locality": "Amman",
+      "lat": 31.91708,
+      "lon": 35.751076,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "id": "jordan-debfb273c6a55864bd64"
+    },
+    {
+      "name": "Al Qasr",
+      "kind": "do",
+      "locality": "Amman",
+      "lat": 31.912821,
+      "lon": 35.75198,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "id": "jordan-ca4d29f4ae028724657c"
+    },
+    {
+      "name": "Balad",
+      "kind": "do",
+      "locality": "Amman",
+      "lat": 31.950181,
+      "lon": 35.934615,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "id": "jordan-2bda18678feadb2fb76f"
+    },
+    {
+      "name": "Amman Waves Aqua Park and Resort",
+      "kind": "do",
+      "locality": "Amman",
+      "lat": 31.861532,
+      "lon": 35.888997,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "15, Amman 00962",
+      "url": "http://www.ammanwaves.com/",
+      "id": "jordan-90eb14292ad6e4776a48"
+    },
+    {
+      "name": "Gilgamesh for Creative Arts",
+      "kind": "do",
+      "locality": "Amman",
+      "lat": 31.9573,
+      "lon": 35.9254,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "26 Al-Farazdaq Street, Jabal Al-Lweibdeh",
+      "price": "from 20 JOD per person",
+      "url": "https://gilgameshartcafe.com/",
+      "id": "jordan-f940a64377647540aea5"
+    },
+    {
+      "name": "Zahret Al Madaen Restaurant & Butchery",
+      "kind": "eat",
+      "locality": "Amman",
+      "lat": 31.9509065,
+      "lon": 35.936517,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "Complex No 116, Quraish St 116",
+      "id": "jordan-f92edbec45e8c3ed13ab"
+    },
+    {
+      "name": "Pizza Roma Cafe",
+      "kind": "eat",
+      "locality": "Amman",
+      "lat": 31.9525292,
+      "lon": 35.9377079,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "Amman Pasha Hotel, Al Shabsugh St 4",
+      "id": "jordan-b17375ef45f13fb3096c"
+    },
+    {
+      "name": "Rouhi AlAqili Restaurant",
+      "kind": "eat",
+      "locality": "Amman",
+      "lat": 31.9525207,
+      "lon": 35.9363792,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "MadhhAr-Reslan St.",
+      "id": "jordan-ea4fb71e1356c274939f"
+    },
+    {
+      "name": "Shahrazad Restaurant",
+      "kind": "eat",
+      "locality": "Amman",
+      "lat": 31.9515387,
+      "lon": 35.9322825,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "Basman St.",
+      "id": "jordan-fcf3c06939e77135b65c"
+    },
+    {
+      "name": "Auberge restaurant",
+      "kind": "eat",
+      "locality": "Amman",
+      "lat": 31.9510252,
+      "lon": 35.9321172,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "Mu'Ath Bin Jabal Street",
+      "id": "jordan-46d34632da5238fe59ef"
+    },
+    {
+      "name": "Shawermat Reem",
+      "kind": "eat",
+      "locality": "Amman",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "id": "jordan-a9d589bc6c10a8faf078"
+    },
+    {
+      "name": "Lebnani snack",
+      "kind": "eat",
+      "locality": "Amman",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "id": "jordan-0a91c0c9076b3216f083"
+    },
+    {
+      "name": "Hashem",
+      "kind": "eat",
+      "locality": "Amman",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "price": "For 3 JD per person (Oct 2018), you get the \"mix\" -- bowls of hummus, baba ghanouj, falafel, fuul, fries, salad and pita",
+      "id": "jordan-7b9a6f7b714803c46e98"
+    },
+    {
+      "name": "Jafra Restaurant & Cafe",
+      "kind": "eat",
+      "locality": "Amman",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "id": "jordan-7b43c84b2200b66b1d8e"
+    },
+    {
+      "name": "La Maison Verte",
+      "kind": "eat",
+      "locality": "Amman",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "id": "jordan-b486ad04c3aeffe5e409"
+    },
+    {
+      "name": "Levant",
+      "kind": "eat",
+      "locality": "Amman",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "id": "jordan-b469c3da19643b94027d"
+    },
+    {
+      "name": "Cantaloupe",
+      "kind": "eat",
+      "locality": "Amman",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "10 Rainbow Street, 1 Juqa Street",
+      "id": "jordan-3ea19abbb73d3bf05024"
+    },
+    {
+      "name": "Fakhr al Din",
+      "kind": "eat",
+      "locality": "Amman",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "40 Taha Hussein, St Jabal",
+      "price": "15-30 JD for a complete meal",
+      "url": "http://www.fakhreldin.com/",
+      "id": "jordan-ffa0e0cd8524b3a02831"
+    },
+    {
+      "name": "Sufra",
+      "kind": "eat",
+      "locality": "Amman",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "Al Rainbow St 26",
+      "id": "jordan-029e12891870e9b8ad6e"
+    },
+    {
+      "name": "Noodasia",
+      "kind": "eat",
+      "locality": "Amman",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "id": "jordan-f99543de8a425a6dca79"
+    },
+    {
+      "name": "Kan Zaman",
+      "kind": "eat",
+      "locality": "Amman",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "id": "jordan-4474c40e87a183ebe4a2"
+    },
+    {
+      "name": "Picadelli Pub",
+      "kind": "eat",
+      "locality": "Amman",
+      "lat": 31.959185,
+      "lon": 35.917745,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "price": "3 JD for beer and wine",
+      "id": "jordan-044b1462cb61f40a7690"
+    },
+    {
+      "name": "La Calle",
+      "kind": "eat",
+      "locality": "Amman",
+      "lat": 31.949441,
+      "lon": 35.930832,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "id": "jordan-d3117d5e925af542affc"
+    },
+    {
+      "name": "Jafra Café",
+      "kind": "eat",
+      "locality": "Amman",
+      "lat": 31.952259,
+      "lon": 35.930714,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "id": "jordan-fc96e7febca602faaec7"
+    },
+    {
+      "name": "Maestro Bar",
+      "kind": "eat",
+      "locality": "Amman",
+      "lat": 31.958266,
+      "lon": 35.921468,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "id": "jordan-a40233187fbe921adca4"
+    },
+    {
+      "name": "Al-Mawardi",
+      "kind": "eat",
+      "locality": "Amman",
+      "lat": 31.973047,
+      "lon": 35.883996,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "15, Siqilya St.",
+      "price": "5 JD for a coffee and hookah",
+      "id": "jordan-e9b954c57105f16b9e77"
+    },
+    {
+      "name": "Cliff Hostel",
+      "kind": "stay",
+      "locality": "Amman",
+      "lat": 31.952099,
+      "lon": 35.931989,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "price": "5 JD dorm",
+      "id": "jordan-fa6b1cfb93922468b0dc"
+    },
+    {
+      "name": "Farah Hotel",
+      "kind": "stay",
+      "locality": "Amman",
+      "lat": 31.953011,
+      "lon": 35.932929,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "6 King Ghazi Street",
+      "url": "https://farahhotel.info/",
+      "id": "jordan-f591c3d177ac56d608cc"
+    },
+    {
+      "name": "Jordan Tower Hotel",
+      "kind": "stay",
+      "locality": "Amman",
+      "lat": 31.951787,
+      "lon": 35.93744,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "price": "From 9 JD incl breakfast and free WiFi",
+      "id": "jordan-e7a349c67588212c17df"
+    },
+    {
+      "name": "Sun Rise Hotel",
+      "kind": "stay",
+      "locality": "Amman",
+      "lat": 31.960391,
+      "lon": 35.918083,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "price": "Dorm from 3.50 JD, different rooms available from 8-20 JD (depending on the mood of the manager, so take care)",
+      "id": "jordan-bdee787c3d3cfe92e1ea"
+    },
+    {
+      "name": "Sydney Hotel",
+      "kind": "stay",
+      "locality": "Amman",
+      "lat": 31.951643,
+      "lon": 35.928304,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "price": "10 JD for a single, 14 JD for a double. Breakfast is 2 JD",
+      "id": "jordan-4a54faa98719b1d8b6ec"
+    },
+    {
+      "name": "Normas Hotel",
+      "kind": "stay",
+      "locality": "Amman",
+      "lat": 31.952057,
+      "lon": 35.931636,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "price": "10 JD for a single, 12 JD for a double",
+      "id": "jordan-7745cd3fec70163441e0"
+    },
+    {
+      "name": "Zidian Hotel",
+      "kind": "stay",
+      "locality": "Amman",
+      "lat": 31.949507,
+      "lon": 35.917273,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "price": "Single from 15 JD",
+      "id": "jordan-b2ac9179404359874e3a"
+    },
+    {
+      "name": "Palace Hotel",
+      "kind": "stay",
+      "locality": "Amman",
+      "lat": 31.951155,
+      "lon": 35.933849,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "King Faisal St, Downtown",
+      "price": "30 JD (with shower & satellite TV), 18 JD (shared facilities) for a double with breakfast included",
+      "id": "jordan-fad1f514b3064a66330b"
+    },
+    {
+      "name": "Canary Hotel",
+      "kind": "stay",
+      "locality": "Amman",
+      "lat": 31.957365,
+      "lon": 35.918823,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "price": "30 JD for a double",
+      "id": "jordan-5425844b35813bc08856"
+    },
+    {
+      "name": "Abbasi Palace Hotel",
+      "kind": "stay",
+      "locality": "Amman",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "Saqf Al Sail at Quraysh st",
+      "price": "6 JD for a dorm, incl. breakfast",
+      "id": "jordan-efb4a5b2ffbcf8c7995c"
+    },
+    {
+      "name": "Al-Harmin Hotel",
+      "kind": "stay",
+      "locality": "Amman",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "price": "7 JD for double",
+      "id": "jordan-0f86a8216211ee7ade0e"
+    },
+    {
+      "name": "Amman Castle Hotel",
+      "kind": "stay",
+      "locality": "Amman",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "price": "4.5 JD for a double",
+      "id": "jordan-ece1115a8a26e315673f"
+    },
+    {
+      "name": "Amman Pasha Hotel",
+      "kind": "stay",
+      "locality": "Amman",
+      "lat": 31.9525292,
+      "lon": 35.9377079,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "Al Shabsugh St 4",
+      "id": "jordan-39bcd13fdb8da3aa2f8e"
+    },
+    {
+      "name": "Al Fanar Palace Hotel",
+      "kind": "stay",
+      "locality": "Amman",
+      "lat": 31.99719,
+      "lon": 35.883748,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "Queen Rania Al Abdullah Street",
+      "price": "60 JD",
+      "url": "http://www.alfanarpalacehotel.com/",
+      "id": "jordan-e7778538bbfa2535ba7d"
+    },
+    {
+      "name": "Beirut International",
+      "kind": "stay",
+      "locality": "Amman",
+      "lat": 31.964055,
+      "lon": 35.913299,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "King Hussein Street",
+      "price": "70 JD, but you can get a discount",
+      "id": "jordan-088671c36b6601c1d877"
+    },
+    {
+      "name": "Beity Rose Suites Hotel",
+      "kind": "stay",
+      "locality": "Amman",
+      "lat": 31.978127,
+      "lon": 35.902089,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "Ibn Hayyan Street",
+      "price": "from 85 JD",
+      "url": "https://m.facebook.com/pages/category/Bed-and-Breakfast/Beity-Rose-Suites-Hotel-383243130481/",
+      "id": "jordan-d4f8ec353837d7b25dc8"
+    },
+    {
+      "name": "Crystal Suites Hotel",
+      "kind": "stay",
+      "locality": "Amman",
+      "lat": 31.962517,
+      "lon": 35.882766,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "Al Kindi Street",
+      "price": "50 JD with breakfast",
+      "url": "http://www.crystal.com.jo/",
+      "id": "jordan-c5652596646143e84f35"
+    },
+    {
+      "name": "Gardenia Hotel",
+      "kind": "stay",
+      "locality": "Amman",
+      "lat": 31.980387,
+      "lon": 35.893298,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "Abdulhameed Sharaf Street",
+      "price": "45 JD with breakfast",
+      "url": "http://www.gardenia.com.jo/",
+      "id": "jordan-a81fd03e90f06b1e8d7a"
+    },
+    {
+      "name": "New Park Hotel",
+      "kind": "stay",
+      "locality": "Amman",
+      "lat": 31.955952,
+      "lon": 35.93146,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "King Hussein Str",
+      "id": "jordan-a0b99ce8481b0edcddc8"
+    },
+    {
+      "name": "Gallery Guest House",
+      "kind": "stay",
+      "locality": "Amman",
+      "lat": 31.953382,
+      "lon": 35.929994,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "Omar Al khayyam 28, Amman",
+      "url": "https://gallery-guest-house.amman-hotels-jo.com/en/",
+      "id": "jordan-773e96602a56ff79be09"
+    },
+    {
+      "name": "Bristol Hotel",
+      "kind": "stay",
+      "locality": "Amman",
+      "lat": 31.958867,
+      "lon": 35.876406,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "url": "http://www.bristolamman.com/en/",
+      "id": "jordan-637b6cee0e75a06fba66"
+    },
+    {
+      "name": "Four Seasons Amman",
+      "kind": "stay",
+      "locality": "Amman",
+      "lat": 31.961682,
+      "lon": 35.881035,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "5th Circle, Al-Kindi Street",
+      "url": "http://www.fourseasons.com/amman/",
+      "id": "jordan-6f36bcbd5433ba324109"
+    },
+    {
+      "name": "Grand Hyatt Amman",
+      "kind": "stay",
+      "locality": "Amman",
+      "lat": 31.955751,
+      "lon": 35.909864,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "Hussein Bin Ali Street, Jabal Amman",
+      "url": "https://amman.grand.hyatt.com/",
+      "id": "jordan-ea9274ea930af36e236f"
+    },
+    {
+      "name": "Intercontinental Amman",
+      "kind": "stay",
+      "locality": "Amman",
+      "lat": 31.953282,
+      "lon": 35.914017,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "Islamic College St",
+      "url": "https://www.ihg.com/intercontinental/hotels/us/en/amman/ammha/hoteldetail",
+      "id": "jordan-3d5b7d386fd0376b459d"
+    },
+    {
+      "name": "Kempinski Amman",
+      "kind": "stay",
+      "locality": "Amman",
+      "lat": 31.968419,
+      "lon": 35.897367,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "Abdul Hameed Shouman Street",
+      "url": "http://www.kempinski.com/en/hotel/index.htm?country_group=4&id=111",
+      "id": "jordan-d29c2be3bab433cb30d9"
+    },
+    {
+      "name": "Amman Marriott Hotel",
+      "kind": "stay",
+      "locality": "Amman",
+      "lat": 31.973074,
+      "lon": 35.9058,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "url": "https://www.marriott.com/hotels/travel/ammjr-amman-marriott-hotel",
+      "id": "jordan-3381bdd64690e170c205"
+    },
+    {
+      "name": "Le Grand Amman",
+      "kind": "stay",
+      "locality": "Amman",
+      "lat": 31.970155,
+      "lon": 35.905903,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "url": "https://all.accor.com/hotel/A7F2/index.en.shtml",
+      "id": "jordan-88bac7a9f6d7212bc395"
+    },
+    {
+      "name": "Regency Palace Hotel",
+      "kind": "stay",
+      "locality": "Amman",
+      "lat": 31.976102,
+      "lon": 35.906491,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "Queen Alia Street",
+      "id": "jordan-c4560ab5e778cbe8cc13"
+    },
+    {
+      "name": "Le Royal Hotel Amman",
+      "kind": "stay",
+      "locality": "Amman",
+      "lat": 31.953333,
+      "lon": 35.909167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "address": "3rd Circle, Zahran Street",
+      "url": "https://www.leroyal.com/en/MIDDLE-EAST/amman",
+      "id": "jordan-ab82b99e099eca20160a"
+    },
+    {
+      "name": "Sheraton Amman",
+      "kind": "stay",
+      "locality": "Amman",
+      "lat": 31.960596,
+      "lon": 35.880181,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "url": "https://www.marriott.com/hotels/travel/ammsi-sheraton-amman-al-nabil-hotel/",
+      "id": "jordan-1da00f2bf048c7df3963"
+    },
+    {
+      "name": "Amman",
+      "kind": "area",
+      "locality": "Amman",
+      "lat": 31.95114,
+      "lon": 35.92409,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Amman",
+      "id": "jordan-48b8e1e6a28ef881bca1"
+    },
+    {
+      "name": "Siq",
+      "kind": "do",
+      "locality": "Petra",
+      "lat": 30.323006,
+      "lon": 35.456491,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "id": "jordan-6155381db5d4a1edcc0d"
+    },
+    {
+      "name": "Treasury",
+      "kind": "do",
+      "locality": "Petra",
+      "lat": 30.32206,
+      "lon": 35.45145,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "id": "jordan-9dc3811e429632dfa77c"
+    },
+    {
+      "name": "Street of Facades",
+      "kind": "do",
+      "locality": "Petra",
+      "lat": 30.322971,
+      "lon": 35.450303,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "id": "jordan-3e697dbf3574dc7f15a8"
+    },
+    {
+      "name": "Nabatean Theatre",
+      "kind": "do",
+      "locality": "Petra",
+      "lat": 30.324773,
+      "lon": 35.446962,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "id": "jordan-b1e51bb34421965dcc84"
+    },
+    {
+      "name": "Royal Tombs",
+      "kind": "do",
+      "locality": "Petra",
+      "lat": 30.326583,
+      "lon": 35.449043,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "id": "jordan-bc44a7b035724b7dfd45"
+    },
+    {
+      "name": "Byzantine Church",
+      "kind": "do",
+      "locality": "Petra",
+      "lat": 30.330639,
+      "lon": 35.444321,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "id": "jordan-67d9bf2b729d8a160bbd"
+    },
+    {
+      "name": "The Great Temple",
+      "kind": "do",
+      "locality": "Petra",
+      "lat": 30.328714,
+      "lon": 35.442284,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "id": "jordan-d26fbbc83892ddc10fe6"
+    },
+    {
+      "name": "Monastery",
+      "kind": "do",
+      "locality": "Petra",
+      "lat": 30.338228,
+      "lon": 35.430927,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "id": "jordan-34edbc22fddc847fd024"
+    },
+    {
+      "name": "Desert View",
+      "kind": "do",
+      "locality": "Petra",
+      "lat": 30.339734,
+      "lon": 35.425968,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "id": "jordan-bb7327488b787f07dcbc"
+    },
+    {
+      "name": "Petra by Night",
+      "kind": "do",
+      "locality": "Petra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "url": "https://www.visitpetra.jo/DetailsPage/VisitPetra/EntertainmentsDetailsEn.aspx?PID=4",
+      "id": "jordan-07a8b6a34c6c824416b0"
+    },
+    {
+      "name": "Princess Alia Clinic, Brooke Hospital for Animals",
+      "kind": "do",
+      "locality": "Petra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "url": "http://www.thebrooke.org/",
+      "id": "jordan-725504036a8d010ecb93"
+    },
+    {
+      "name": "Wadi Musa",
+      "kind": "do",
+      "locality": "Petra",
+      "lat": 30.32,
+      "lon": 35.4784,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "id": "jordan-69e0942b62788eac8b24"
+    },
+    {
+      "name": "Petra Museum",
+      "kind": "do",
+      "locality": "Petra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "price": "free",
+      "id": "jordan-53bf6a79072732a27818"
+    },
+    {
+      "name": "Tomb Staircases",
+      "kind": "do",
+      "locality": "Petra",
+      "lat": 30.3294,
+      "lon": 35.4503,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "id": "jordan-6da28aa68916e4e6bd5c"
+    },
+    {
+      "name": "High Place of Sacrifice",
+      "kind": "do",
+      "locality": "Petra",
+      "lat": 30.321561,
+      "lon": 35.447048,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "id": "jordan-97625ba34f4d53f18940"
+    },
+    {
+      "name": "Mountain of Aaron",
+      "kind": "do",
+      "locality": "Petra",
+      "lat": 30.317092,
+      "lon": 35.406678,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "id": "jordan-7416694040615ca2af95"
+    },
+    {
+      "name": "Al-Janoub Sweets",
+      "kind": "eat",
+      "locality": "Petra",
+      "lat": 30.3207852,
+      "lon": 35.4794025,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "price": "0.2 JD per small piece, 0.5 JD per piece on a plate",
+      "id": "jordan-c91007b2ded4cfbd1289"
+    },
+    {
+      "name": "Al-Wadi Restaurant",
+      "kind": "eat",
+      "locality": "Petra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "price": "2-4 JD for a main dish",
+      "url": "https://www.facebook.com/Al-wadi-Restaurant-169351537001532/",
+      "id": "jordan-0cf60499aa398e6e0aec"
+    },
+    {
+      "name": "Cleopetra",
+      "kind": "eat",
+      "locality": "Petra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "price": "About 1 JD for a falafel or a tea",
+      "id": "jordan-0374c34cbe291e1c1a5a"
+    },
+    {
+      "name": "Wrangler Bar",
+      "kind": "eat",
+      "locality": "Petra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "price": "4 JD for beer and wine",
+      "id": "jordan-5d5a090cfa2320fb5ff1"
+    },
+    {
+      "name": "Valentine Inn",
+      "kind": "stay",
+      "locality": "Petra",
+      "lat": 30.32257,
+      "lon": 35.480728,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "address": "Wadi Mousa, Jabal Alzohour Str, Jordan.",
+      "url": "http://www.valentine-inn.com/",
+      "id": "jordan-acb370db684c0ae8698b"
+    },
+    {
+      "name": "Al-Anbat 1",
+      "kind": "stay",
+      "locality": "Petra",
+      "lat": 30.32628,
+      "lon": 35.49238,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "price": "From 35 JD",
+      "url": "http://www.alanbat.com/",
+      "id": "jordan-6c3d5f0ac05342c4ba3e"
+    },
+    {
+      "name": "Al-Anbat 2",
+      "kind": "stay",
+      "locality": "Petra",
+      "lat": 30.32117,
+      "lon": 35.47934,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "price": "5/10 JD single/double",
+      "id": "jordan-d2d3ceb93492dc6901d7"
+    },
+    {
+      "name": "Petra Gate Hotel",
+      "kind": "stay",
+      "locality": "Petra",
+      "lat": 30.32051,
+      "lon": 35.48073,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "price": "11 JD per person",
+      "id": "jordan-eef9cfc92c4702ee5550"
+    },
+    {
+      "name": "Saba'a Hotel",
+      "kind": "stay",
+      "locality": "Petra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "address": "Wadi Musa, Petra, Jordan",
+      "id": "jordan-971f9e9feed482274e1d"
+    },
+    {
+      "name": "Valley Stars Inn",
+      "kind": "stay",
+      "locality": "Petra",
+      "lat": 30.31841,
+      "lon": 35.48241,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "address": "Main Street, Wadi Musa",
+      "id": "jordan-1dba841206e78ff6f371"
+    },
+    {
+      "name": "Nawaf Bedouin Camp",
+      "kind": "stay",
+      "locality": "Petra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "price": "95 JD/night, including dinner and breakfast",
+      "id": "jordan-87b70f5df7a2c1d5b50d"
+    },
+    {
+      "name": "Peace Way Hotel",
+      "kind": "stay",
+      "locality": "Petra",
+      "lat": 30.32093,
+      "lon": 35.4809,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "price": "18 JD single room including breakfast",
+      "id": "jordan-c0923414799aec261444"
+    },
+    {
+      "name": "Amra Palace Hotel",
+      "kind": "stay",
+      "locality": "Petra",
+      "lat": 30.31973,
+      "lon": 35.4806,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "address": "P.O.Box 124 Wadi Mousa 71810 - Petra - Jordan",
+      "price": "24 JD single room including breakfast",
+      "url": "http://www.amrapalace.com/",
+      "id": "jordan-1fd5ff9ebe9b536765e0"
+    },
+    {
+      "name": "Moon Valley Hotel",
+      "kind": "stay",
+      "locality": "Petra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "price": "22 JD, 20 JD for additional nights",
+      "id": "jordan-8cad7700c8b4a9e302e6"
+    },
+    {
+      "name": "Sharah Mountains Hotel",
+      "kind": "stay",
+      "locality": "Petra",
+      "lat": 30.32046,
+      "lon": 35.48121,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "address": "Main Street, Wadi Moussa",
+      "price": "20 JD per room",
+      "url": "http://www.sharahmountains.com/en/",
+      "id": "jordan-f3848a322eeb48eab3f8"
+    },
+    {
+      "name": "Qaser Al-Bint Hotel",
+      "kind": "stay",
+      "locality": "Petra",
+      "lat": 30.32213,
+      "lon": 35.48005,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "address": "City Center",
+      "price": "18 JD per room",
+      "url": "http://www.hostels.com/",
+      "id": "jordan-21f4fafee89ee606effa"
+    },
+    {
+      "name": "Hidab Hotel",
+      "kind": "stay",
+      "locality": "Petra",
+      "lat": 30.32271,
+      "lon": 35.4866,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "address": "City Center",
+      "price": "25 JD per room",
+      "id": "jordan-bd2f36b6b4eaa584c601"
+    },
+    {
+      "name": "Cleopetra Hotel",
+      "kind": "stay",
+      "locality": "Petra",
+      "lat": 30.31891,
+      "lon": 35.48164,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "address": "Main Street, 71810 Wadi Musa",
+      "price": "25/30 JD single/double",
+      "id": "jordan-e418dffbe6a918be75de"
+    },
+    {
+      "name": "Mövenpick Resort & Petra",
+      "kind": "stay",
+      "locality": "Petra",
+      "lat": 30.32569,
+      "lon": 35.4695,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "address": "Wadi Mousa 71810",
+      "price": "From 99 JD",
+      "url": "http://www.moevenpick-petra.com/",
+      "id": "jordan-c8a9e1427ac85fe08331"
+    },
+    {
+      "name": "Grand View Resort",
+      "kind": "stay",
+      "locality": "Petra",
+      "lat": 30.3061,
+      "lon": 35.46344,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "address": "Queen Rania St",
+      "price": "75/100/150/250/450 JD single/twin/studio/junior suite/executive suite",
+      "id": "jordan-ffe3d066dbe452c005bc"
+    },
+    {
+      "name": "Taybet Zaman Hotel and Resort",
+      "kind": "stay",
+      "locality": "Petra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "price": "Rooms start at US$110",
+      "id": "jordan-71d41dbfcc496a0deade"
+    },
+    {
+      "name": "Mövenpick Nabatean Castle Hotel",
+      "kind": "stay",
+      "locality": "Petra",
+      "lat": 30.28865,
+      "lon": 35.45658,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "address": "Wadi Mousa 71810, P.O. box 184",
+      "price": "From 66 JD",
+      "url": "http://www.moevenpick-nabatean.com/",
+      "id": "jordan-cdb663deec74ed334eee"
+    },
+    {
+      "name": "Little Petra",
+      "kind": "do",
+      "locality": "Petra",
+      "lat": 30.374345,
+      "lon": 35.449796,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "id": "jordan-c2a53cd3fde1f88d62fb"
+    },
+    {
+      "name": "Shoubak Castle",
+      "kind": "do",
+      "locality": "Petra",
+      "lat": 30.531449,
+      "lon": 35.560836,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "price": "1 JD",
+      "id": "jordan-491ecbf995ba2d317b08"
+    },
+    {
+      "name": "The smallest hotel in the world",
+      "kind": "stay",
+      "locality": "Petra",
+      "lat": 30.529255,
+      "lon": 35.565059,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "id": "jordan-2e6d068cf48a242c92f8"
+    },
+    {
+      "name": "Wadi Mujib",
+      "kind": "do",
+      "locality": "Petra",
+      "lat": 31.466624,
+      "lon": 35.573677,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "id": "jordan-38bdc5f4a5e49ff13710"
+    },
+    {
+      "name": "Petra",
+      "kind": "area",
+      "locality": "Petra",
+      "lat": 30.3333,
+      "lon": 35.4333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Petra",
+      "id": "jordan-6a137739c81a7e6e7105"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 3 distinct public Wikivoyage source pages; attempted 3 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

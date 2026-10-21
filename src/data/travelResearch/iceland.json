@@ -1,0 +1,1407 @@
+{
+  "sources": [
+    {
+      "title": "Iceland",
+      "url": "https://en.wikivoyage.org/wiki/Iceland",
+      "checkedAt": "2026-10-21T08:14:24.057Z"
+    },
+    {
+      "title": "Reykjavík",
+      "url": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "checkedAt": "2026-10-21T08:14:29.925Z"
+    },
+    {
+      "title": "Route 1 (Iceland)",
+      "url": "https://en.wikivoyage.org/wiki/Route_1_(Iceland)",
+      "checkedAt": "2026-10-21T08:14:32.324Z"
+    },
+    {
+      "title": "Þingvellir National Park",
+      "url": "https://en.wikivoyage.org/wiki/%C3%9Eingvellir_National_Park",
+      "checkedAt": "2026-10-21T08:14:35.311Z"
+    },
+    {
+      "title": "Upcountry Árnessýsla",
+      "url": "https://en.wikivoyage.org/wiki/Upcountry_%C3%81rness%C3%BDsla",
+      "checkedAt": "2026-10-21T08:14:47.340Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Reykjavík",
+      "kind": "area",
+      "locality": "Iceland",
+      "lat": 64.15,
+      "lon": -21.88,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Iceland",
+      "id": "iceland-31ad3bd0221363b1f586"
+    },
+    {
+      "name": "Akureyri",
+      "kind": "area",
+      "locality": "Iceland",
+      "lat": 65.68,
+      "lon": -18.1,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Iceland",
+      "id": "iceland-f88bba5a064f6f0b5b9d"
+    },
+    {
+      "name": "Egilsstaðir",
+      "kind": "area",
+      "locality": "Iceland",
+      "lat": 65.27,
+      "lon": -14.4,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Iceland",
+      "id": "iceland-c53184c27977f390d904"
+    },
+    {
+      "name": "Hafnarfjörður",
+      "kind": "area",
+      "locality": "Iceland",
+      "lat": 64.07,
+      "lon": -21.95,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Iceland",
+      "id": "iceland-d4b9bd4c6e24bc0d95a1"
+    },
+    {
+      "name": "Höfn",
+      "kind": "area",
+      "locality": "Iceland",
+      "lat": 64.25,
+      "lon": -15.22,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Iceland",
+      "id": "iceland-55ae12c4f7d014962664"
+    },
+    {
+      "name": "Húsavík",
+      "kind": "area",
+      "locality": "Iceland",
+      "lat": 66.04,
+      "lon": -17.34,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Iceland",
+      "id": "iceland-9b5f1a6cd16ead7ddca0"
+    },
+    {
+      "name": "Ísafjörður",
+      "kind": "area",
+      "locality": "Iceland",
+      "lat": 66.07,
+      "lon": -23.14,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Iceland",
+      "id": "iceland-f7549f54e095a739a71f"
+    },
+    {
+      "name": "Selfoss",
+      "kind": "area",
+      "locality": "Iceland",
+      "lat": 63.93,
+      "lon": -21,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Iceland",
+      "id": "iceland-d97aef7882571a5229cd"
+    },
+    {
+      "name": "Stykkishólmur",
+      "kind": "area",
+      "locality": "Iceland",
+      "lat": 65.075,
+      "lon": -22.725,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Iceland",
+      "id": "iceland-1b524ae5b0f32ac10e8b"
+    },
+    {
+      "name": "Tjörnin",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.1445,
+      "lon": -21.9422,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "id": "iceland-f04a91b02641da54f1a7"
+    },
+    {
+      "name": "Austurvöllur",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.14717,
+      "lon": -21.93971,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "id": "iceland-5321e564d9164790ac22"
+    },
+    {
+      "name": "Klambratún",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.137,
+      "lon": -21.9134,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "id": "iceland-8d7b509b8c75daf4582c"
+    },
+    {
+      "name": "Reykjavík Botanical Gardens",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.1408,
+      "lon": -21.8694,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "In Laugardalur",
+      "price": "Free",
+      "url": "http://www.grasagardur.is/",
+      "id": "iceland-28a50cba58b0d49a3827"
+    },
+    {
+      "name": "Viðey",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.1651,
+      "lon": -21.8523,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "url": "http://www.videy.com/",
+      "id": "iceland-7ceade5ca613ed11e8dc"
+    },
+    {
+      "name": "Grótta",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.1643,
+      "lon": -22.0218,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "id": "iceland-0de9f25f71f8f9e2769d"
+    },
+    {
+      "name": "Alþingi",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.146667,
+      "lon": -21.940278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Kirkjustræti",
+      "url": "http://www.althingi.is/vefur/upplens.html",
+      "id": "iceland-5029168082d953cfc7b7"
+    },
+    {
+      "name": "Reykjavík Cathedral",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.140556,
+      "lon": -21.935833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "url": "http://domkirkjan.is/",
+      "id": "iceland-081e0e1fef8fd0ab1db3"
+    },
+    {
+      "name": "City Hall",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.1461,
+      "lon": -21.94218,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Tjarnargata 11",
+      "id": "iceland-82c2645d8bbbc9b1fb09"
+    },
+    {
+      "name": "Hallgrímskirkja",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.141944,
+      "lon": -21.9275,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Skólavörðuholti",
+      "price": "Admission to the tower: adults 1300 kr, students 1000 kr, children (7-14) 200 kr",
+      "url": "http://www.hallgrimskirkja.is/",
+      "id": "iceland-2e61a18ad56184b041ce"
+    },
+    {
+      "name": "Harpa",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.1504,
+      "lon": -21.9327,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Austurbakki 2",
+      "url": "http://www.harpa.is/",
+      "id": "iceland-63c898d166b81dfc264c"
+    },
+    {
+      "name": "Perlan",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.1292,
+      "lon": -21.9189,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "url": "https://www.perlan.is/en-gb",
+      "id": "iceland-72e6c91727423b697e07"
+    },
+    {
+      "name": "Imagine Peace Tower",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.16328,
+      "lon": -21.8593,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Viðey Island",
+      "url": "http://imaginepeace.com/news/imagine-peace-tower",
+      "id": "iceland-c495f52344c11dc2a51c"
+    },
+    {
+      "name": "Christ the King Cathedral",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.1475,
+      "lon": -21.948889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "url": "http://catholica.is/",
+      "id": "iceland-51434697aa123e1f8e63"
+    },
+    {
+      "name": "National Gallery of Iceland",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.14411,
+      "lon": -21.93921,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Fríkirkjuvegi 7",
+      "price": "Price 2023: Adults: 2200kr; senior citizens and students 1.100 kr; Children under 18: free",
+      "url": "http://www.listasafn.is/",
+      "id": "iceland-8ba1925150725ae3f2be"
+    },
+    {
+      "name": "Reykjavík Art Museum - Hafnarhús",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.14913,
+      "lon": -21.94086,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Tryggvagata 17",
+      "url": "http://artmuseum.is/hafnarhus",
+      "id": "iceland-b8946ec66a3b04771948"
+    },
+    {
+      "name": "Reykjavík Art Museum - Kjarvalsstaðir",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.13788,
+      "lon": -21.91349,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Flókagata",
+      "url": "https://listasafnreykjavikur.is/en",
+      "id": "iceland-209743619b1819bae2f2"
+    },
+    {
+      "name": "Reykjavik Museum of Photography",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.14946,
+      "lon": -21.94139,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Grófarhús, Tyggvagata 15, 6th floor",
+      "url": "http://www.ljosmyndasafnreykjavikur.is/index.html",
+      "id": "iceland-1b074c28ce6d90b2d19e"
+    },
+    {
+      "name": "National Museum of Iceland",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.14194,
+      "lon": -21.94805,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Suðurgata 41",
+      "price": "General admission: 2500 kr, senior citizens and students: 1200 kr, children under 18: free",
+      "url": "http://www.thjodminjasafn.is/english",
+      "id": "iceland-a4167a1a97cf572b36cc"
+    },
+    {
+      "name": "Reykjavík City Museum",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.1184,
+      "lon": -21.8185,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Kistuhyl",
+      "price": "2220 kr for adults, 1370 kr for students, free for children under 18",
+      "url": "http://www.minjasafnreykjavikur.is/english/desktopdefault.aspx/tabid-4203",
+      "id": "iceland-1c1841acb618df420705"
+    },
+    {
+      "name": "871±2",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.14735,
+      "lon": -21.942814,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Corner of Aðalstræti and Suðurgata",
+      "price": "1000 kr, free for children under 18",
+      "url": "http://minjasafnreykjavikur.is/english/desktopdefault.aspx/tabid-4206",
+      "id": "iceland-ecad1dffc6cd2bf4da41"
+    },
+    {
+      "name": "The House of Collections",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.1473,
+      "lon": -21.93216,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Hverfisgata 15",
+      "price": "Adult 2200 kr; senior citizens and students 1,100 kr, child under 18: free",
+      "url": "http://www.listasafn.is/",
+      "id": "iceland-bdb43507fadb1a41caf4"
+    },
+    {
+      "name": "The Icelandic Phallological Museum",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Reykjastræti 4",
+      "price": "3000 kr/adult",
+      "url": "http://www.phallus.is/",
+      "id": "iceland-7e7ede0b8f935fd033a5"
+    },
+    {
+      "name": "Hellisheiði Geothermal Plant",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.03729,
+      "lon": -21.400801,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Bæjarhálsi 1",
+      "price": "2100 kr adult, free for children under 12",
+      "url": "https://www.on.is/en/geothermal-exhibition/",
+      "id": "iceland-056a834bcca7e1250aef"
+    },
+    {
+      "name": "Icelandic Punk Museum",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.147095,
+      "lon": -21.93608,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "url": "http://thepunkmuseum.is/",
+      "id": "iceland-d6f18eb399fb17178e61"
+    },
+    {
+      "name": "Nordic House",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.13813,
+      "lon": -21.94677,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Sturlugata 5",
+      "url": "http://www.nordichouse.is/",
+      "id": "iceland-a5600dbe3088f0be7020"
+    },
+    {
+      "name": "Harpa",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.15045,
+      "lon": -21.93284,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Austurbakki 2",
+      "url": "https://www.harpa.is/en/",
+      "id": "iceland-796cdf409454945b2274"
+    },
+    {
+      "name": "National Theatre of Iceland",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.14717,
+      "lon": -21.93137,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Hverfisgata 19",
+      "url": "http://www.leikhusid.is/english/about-us",
+      "id": "iceland-71a359142bb167cf594c"
+    },
+    {
+      "name": "Reykjavík City Theatre",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.12899,
+      "lon": -21.8965,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Listabraut 3",
+      "url": "http://www.borgarleikhus.is/",
+      "id": "iceland-01f56b7f8a6aa5b24703"
+    },
+    {
+      "name": "Vesturport",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.14599,
+      "lon": -21.94384,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Tjarnarbíó, Tjarnargata 12",
+      "url": "http://www.vesturport.com/",
+      "id": "iceland-de9a54a9d9b3f5768e39"
+    },
+    {
+      "name": "Culture Night",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "url": "http://www.menningarnott.is/",
+      "id": "iceland-3ea2d3d3aefc9a42f58c"
+    },
+    {
+      "name": "Gay Pride",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "url": "http://hinsegindagar.is/en/",
+      "id": "iceland-13d3a423fffd34bec7ef"
+    },
+    {
+      "name": "National Day",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "id": "iceland-4c1596f4beacdfa491b0"
+    },
+    {
+      "name": "Iceland Airwaves",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "url": "http://www.icelandairwaves.is/",
+      "id": "iceland-d397bbe9c62879793891"
+    },
+    {
+      "name": "Reykjavík International Film Festival",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "url": "http://www.riff.is/",
+      "id": "iceland-a51e9b5ee890aa8fcb8a"
+    },
+    {
+      "name": "Whale watching",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.15209,
+      "lon": -21.94134,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "price": "Around 7000-9000 kr, often half price for children",
+      "id": "iceland-bb189809ec2624b0bcdf"
+    },
+    {
+      "name": "Puffin Safaris",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "price": "About 5000 kr",
+      "id": "iceland-d0d2b21c91217b952859"
+    },
+    {
+      "name": "Hiking",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "id": "iceland-6d35568db84d6e59864c"
+    },
+    {
+      "name": "Reykjavík Domestic Animal Zoo",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.1387,
+      "lon": -21.8718,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Hafrafell v/ Engjaveg",
+      "price": "Admission: Adults (12 years +): 450 kr, children (Under 4 years): free, children (4 - 12): 350 kr",
+      "url": "http://www.mu.is/en/",
+      "id": "iceland-63109882a9c02d54e982"
+    },
+    {
+      "name": "Aurora Borealis (Northern lights) watching",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "id": "iceland-defea52326e00005b321"
+    },
+    {
+      "name": "Inside the Volcano",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 63.9984443,
+      "lon": -21.6989267,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "price": "44 000 kr",
+      "url": "http://www.insidethevolcano.com/",
+      "id": "iceland-798706a2dbb5debc33ee"
+    },
+    {
+      "name": "Islenski Hesturinn",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.099,
+      "lon": -21.735,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "url": "https://reidskolinn.is/",
+      "id": "iceland-1e26208b11766b7b4258"
+    },
+    {
+      "name": "Laugardalslaug",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.1459,
+      "lon": -21.87917,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Sundlaugarveg",
+      "price": "1380 kr",
+      "url": "http://reykjavik.is/stadir/laugardalslaug",
+      "id": "iceland-2c5a3c18e61f602082e5"
+    },
+    {
+      "name": "Árbæjarlaug",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.11215,
+      "lon": -21.7949,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Fylkisvegur",
+      "price": "1255 kr",
+      "url": "https://reykjavik.is/arbaejarlaug",
+      "id": "iceland-5dff0c57ba16930a3ddb"
+    },
+    {
+      "name": "Sundhöllin",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.14183,
+      "lon": -21.92068,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Baronsstígur, 101 Reykjavik",
+      "url": "http://reykjavik.is/stadir/sundholl-reykjavikur",
+      "id": "iceland-214890d0d4912b471e3b"
+    },
+    {
+      "name": "Vesturbæjarlaug",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.14446,
+      "lon": -21.96294,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Hofsvallagata, 107 Reykjavik",
+      "price": "1380 ISK (adult)",
+      "url": "http://reykjavik.is/stadir/vesturbaejarlaug",
+      "id": "iceland-cffedb3cbbe0ca86079f"
+    },
+    {
+      "name": "Nautholsvík Thermal Beach",
+      "kind": "do",
+      "locality": "Reykjavík",
+      "lat": 64.12083,
+      "lon": -21.92952,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "url": "https://nautholsvik.is/en/",
+      "id": "iceland-2cf829938e6a32fd5ab9"
+    },
+    {
+      "name": "Bæjarins beztu pylsur",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.14821,
+      "lon": -21.9377,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Hafnarstræti 17",
+      "price": "Hot dog 820 kr, soda 420 kr",
+      "url": "http://www.bbp.is/",
+      "id": "iceland-34391a9bc391abcc9f7d"
+    },
+    {
+      "name": "Hamborgarabúllan",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.1509,
+      "lon": -21.945,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Geirsgata 1",
+      "url": "http://www.bullan.is/",
+      "id": "iceland-576abe1bc38efcebef04"
+    },
+    {
+      "name": "Múlakaffi",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.13905,
+      "lon": -21.88711,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Hallarmúli 8",
+      "id": "iceland-bbe914e48305e2c3699d"
+    },
+    {
+      "name": "Perlan",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.12921,
+      "lon": -21.91887,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "id": "iceland-8e128a3cd641bd7eaa7b"
+    },
+    {
+      "name": "Sægreifinn",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.1508125,
+      "lon": -21.944002,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Verbúð 6",
+      "price": "800 - 2500 kr",
+      "url": "http://www.saegreifinn.is/",
+      "id": "iceland-6885f8d7c056c9e1e488"
+    },
+    {
+      "name": "Tian",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.13208,
+      "lon": -21.87439,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Grensásvegur 12",
+      "id": "iceland-81c74d65cb898c5e69ae"
+    },
+    {
+      "name": "Café Haiti",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.15071,
+      "lon": -21.94362,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Geirsgata 7b",
+      "id": "iceland-ffd0b8e97b3546152d6c"
+    },
+    {
+      "name": "Kaffismiðja Íslands",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.14357,
+      "lon": -21.92661,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Kárastígur 1",
+      "url": "http://www.kaffismidja.is/",
+      "id": "iceland-89e4204da8cd69cc1d37"
+    },
+    {
+      "name": "Kaffiport",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.1488,
+      "lon": -21.938,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "id": "iceland-034c10f14167e309ae41"
+    },
+    {
+      "name": "Kolaportið",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.1488,
+      "lon": -21.938,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "id": "iceland-b21bb780ac12fa3b6ee1"
+    },
+    {
+      "name": "Austur-Indíafjelagið",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.14563,
+      "lon": -21.92568,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Hverfisgata 56",
+      "price": "4,000-5,000 kr",
+      "url": "http://www.austurindia.is/?lang=en",
+      "id": "iceland-334650463ebc82c7b907"
+    },
+    {
+      "name": "Caruso",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.14663,
+      "lon": -21.9343,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Þingholtsstræti 1",
+      "price": "3,000-5,000 kr",
+      "url": "http://www.caruso.is/",
+      "id": "iceland-3831b98e8739c3184293"
+    },
+    {
+      "name": "The Icelandic Bar",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.14689,
+      "lon": -21.93888,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "price": "2,000-4,000 kr",
+      "url": "http://www.icelandicbar.is/",
+      "id": "iceland-ec2b9158b1ffc13c9d3b"
+    },
+    {
+      "name": "Restaurant Reykjavik",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.14869,
+      "lon": -21.94122,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Vesturgata 2",
+      "price": "3,000-5,000 kr",
+      "url": "http://www.restaurantreykjavik.is/",
+      "id": "iceland-3ec607e591ca0f44d269"
+    },
+    {
+      "name": "Shalimar",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.14786,
+      "lon": -21.94061,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Austurstræti",
+      "price": "3,000-4,000 kr",
+      "url": "http://www.shalimar.is/",
+      "id": "iceland-e5c104717984797d086f"
+    },
+    {
+      "name": "Vegamót",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.14574,
+      "lon": -21.93076,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Vegamótastíg 4",
+      "url": "http://vegamot.is/",
+      "id": "iceland-c0f406ba2d308768f858"
+    },
+    {
+      "name": "Þrír frakkar",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.14231,
+      "lon": -21.93367,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Baldursgata 14",
+      "price": "3,000-5,000 kr",
+      "url": "https://www.3frakkar.is/",
+      "id": "iceland-e745ff690052d4243783"
+    },
+    {
+      "name": "Fjalakötturinn",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.14749,
+      "lon": -21.94237,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Aðalstræti 16",
+      "price": "4000-6000 kr",
+      "url": "http://www.fjalakotturinn.is/english/",
+      "id": "iceland-06004e60832d433cc53c"
+    },
+    {
+      "name": "Kaffihús Vesturbæjar",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.1440635,
+      "lon": -21.9610945,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Hofsvallagötu and Melhaga.",
+      "price": "300 kr mains.",
+      "url": "http://www.kaffihusvesturbaejar.is/",
+      "id": "iceland-0104e4ef4372d9a451ea"
+    },
+    {
+      "name": "Messinn",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.146618,
+      "lon": -21.93777,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Lækjargata 6b",
+      "url": "http://messinn.com/",
+      "id": "iceland-9b9538693c999f8d5095"
+    },
+    {
+      "name": "Dill",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.1383261,
+      "lon": -21.9469379,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Nordic house, Sturlugata 5",
+      "url": "http://www.dillrestaurant.is/",
+      "id": "iceland-d3e093aa69abf9c46ed7"
+    },
+    {
+      "name": "Fish Company",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.1488217,
+      "lon": -21.9415615,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Vesturgata 2a",
+      "price": "5,000-6,000 kr",
+      "url": "http://www.fiskfelagid.is/en/",
+      "id": "iceland-b0ed3bc69e0df6ae5889"
+    },
+    {
+      "name": "Hotel Holt",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.1430249,
+      "lon": -21.9346887,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Bergstaðastræti 37",
+      "price": "5,000-6,000 kr",
+      "url": "https://holt.is/",
+      "id": "iceland-a4989313a6124a283e8a"
+    },
+    {
+      "name": "Humarhúsið",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.146458,
+      "lon": -21.936291,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Amtmannsstíg 1",
+      "price": "5,000-6,000 kr",
+      "url": "http://www.humarhusid.is/",
+      "id": "iceland-cc520a5132366d047e16"
+    },
+    {
+      "name": "Perlan",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.1292265,
+      "lon": -21.9194479,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Öskjuhlíð",
+      "url": "http://www.perlan.is/",
+      "id": "iceland-6fa01e40139a61d6711d"
+    },
+    {
+      "name": "Matarkjallarin",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.14861641622439,
+      "lon": -21.941842244735064,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Aðalstræti 2",
+      "url": "https://matarkjallarinn.is/en/",
+      "id": "iceland-4aa285bdd261ecb036d9"
+    },
+    {
+      "name": "Den Danske Kro",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.14638,
+      "lon": -21.93367,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Ingólfsstræti 3",
+      "id": "iceland-dd346b05b60294d6c571"
+    },
+    {
+      "name": "The English Pub",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.14757,
+      "lon": -21.9393,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Austurstræti 12",
+      "id": "iceland-7fb2215ead216f3e1a91"
+    },
+    {
+      "name": "Ölstofa Kormáks og Skjaldar",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.14556,
+      "lon": -21.93096,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Vegamótastígur 4",
+      "id": "iceland-afae3e76d2941ad8ba41"
+    },
+    {
+      "name": "Kíkí",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.145631,
+      "lon": -21.929173,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Laugavegur 22",
+      "id": "iceland-70b43c0bc57c61932628"
+    },
+    {
+      "name": "b5",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.1468911,
+      "lon": -21.9344147,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Bankastræti 5",
+      "url": "http://www.b5.is/",
+      "id": "iceland-9a7ed13fa3b58c0b75fc"
+    },
+    {
+      "name": "Dillon Rock Bar",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.1452559,
+      "lon": -21.9274263,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Laugavegur 30",
+      "url": "http://www.dillon.is/",
+      "id": "iceland-2f08abc05ea001f463a7"
+    },
+    {
+      "name": "Hressingarskálinn",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.147336,
+      "lon": -21.9375999,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Austurstræti 20",
+      "id": "iceland-091f86a69baecec5e27e"
+    },
+    {
+      "name": "Kaffibarinn",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.1459542,
+      "lon": -21.9313261,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Bergstaðarstaeti 1",
+      "url": "http://www.facebook.com/kaffibarinn",
+      "id": "iceland-8bcfcda0fa887c24e0e0"
+    },
+    {
+      "name": "Kofinn",
+      "kind": "eat",
+      "locality": "Reykjavík",
+      "lat": 64.1464057,
+      "lon": -21.9328094,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Laugavegi 2",
+      "id": "iceland-844fd3c2d8832c36bd2b"
+    },
+    {
+      "name": "Guesthouse Aurora",
+      "kind": "stay",
+      "locality": "Reykjavík",
+      "lat": 64.142105,
+      "lon": -21.930815,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Freyjugata 24",
+      "price": "15,000 kr",
+      "url": "http://www.aurorahouse.is/",
+      "id": "iceland-3e75aad2b5333b82f208"
+    },
+    {
+      "name": "Guesthouse Sunna",
+      "kind": "stay",
+      "locality": "Reykjavík",
+      "lat": 64.1422,
+      "lon": -21.9297,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Þórsgata",
+      "price": "Summer: 15,600 kr double room; winter: 8,900 kr double room",
+      "url": "http://www.sunna.is/",
+      "id": "iceland-d4a2281ccc8f635eb8b4"
+    },
+    {
+      "name": "KEX Hostel",
+      "kind": "stay",
+      "locality": "Reykjavík",
+      "lat": 64.14547,
+      "lon": -21.91951,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Skúlagata 28",
+      "price": "Dorm: 3,000 kr winter, 5,100 kr summer; double room: 8,000 kr winter, 14,400 kr summer",
+      "url": "http://www.kexhostel.is/",
+      "id": "iceland-9151f5ebae5a084a0f90"
+    },
+    {
+      "name": "Laugardalur Campsite",
+      "kind": "stay",
+      "locality": "Reykjavík",
+      "lat": 64.14654,
+      "lon": -21.87474,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Sundlaugavegur 34",
+      "price": "1,100 kr per person, per night",
+      "url": "http://www.reykjavikcampsite.is/",
+      "id": "iceland-5cd113a4f4ba9279bf76"
+    },
+    {
+      "name": "Reykjavík Downtown Hostel",
+      "kind": "stay",
+      "locality": "Reykjavík",
+      "lat": 64.1498,
+      "lon": -21.9443,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Vesturgata 17",
+      "price": "3,500 kr dorm",
+      "url": "http://www.hostel.is/Hostels/Reykjavikdowntown/",
+      "id": "iceland-557929424a8926e92090"
+    },
+    {
+      "name": "Víkingur Guesthouse",
+      "kind": "stay",
+      "locality": "Reykjavík",
+      "lat": 64.1408,
+      "lon": -21.9137,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Þverholt",
+      "price": "13,990 kr double room",
+      "id": "iceland-26bfe3d58ad718d7937b"
+    },
+    {
+      "name": "Guesthouse Tunguvegur",
+      "kind": "stay",
+      "locality": "Reykjavík",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Tunguvegur 23, Reykjavik",
+      "price": "€78, twin or double room",
+      "id": "iceland-515dd5b91c1321d59663"
+    },
+    {
+      "name": "Atlantic Apartments & Rooms",
+      "kind": "stay",
+      "locality": "Reykjavík",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Grensasvegur 14, Reykjavik",
+      "price": "€79, twin or double room",
+      "id": "iceland-0fae943cf2ac26ca63e1"
+    },
+    {
+      "name": "Reykjavik City HI Hostel",
+      "kind": "stay",
+      "locality": "Reykjavík",
+      "lat": 64.146422,
+      "lon": -21.874811,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Sundlaugavegur 34",
+      "id": "iceland-e0268ecd9912a9ac091c"
+    },
+    {
+      "name": "Fosshotel Lind",
+      "kind": "stay",
+      "locality": "Reykjavík",
+      "lat": 64.14182,
+      "lon": -21.9149,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Raudarastígur 18",
+      "price": "10,000-30,000 kr",
+      "url": "http://www.fosshotel.is/",
+      "id": "iceland-1e7d03c7581a8dfbce57"
+    },
+    {
+      "name": "Best Western Hotel Reykjavík",
+      "kind": "stay",
+      "locality": "Reykjavík",
+      "lat": 64.14028,
+      "lon": -21.91487,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Rauðarárstígur 37",
+      "price": "17,000-30,000 kr",
+      "url": "http://www.hotelreykjavik.is/",
+      "id": "iceland-9e92b7d9d550f18b3979"
+    },
+    {
+      "name": "Fosshotel Baron",
+      "kind": "stay",
+      "locality": "Reykjavík",
+      "lat": 64.14501,
+      "lon": -21.91811,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Barónsstígur 2-4",
+      "price": "10,000-30,000 kr",
+      "url": "http://www.fosshotel.is/",
+      "id": "iceland-375d1096bfb016d24898"
+    },
+    {
+      "name": "Hótel Björk",
+      "kind": "stay",
+      "locality": "Reykjavík",
+      "lat": 64.14137,
+      "lon": -21.90428,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Brautarholt 22-24",
+      "price": "15,000-30,000 kr",
+      "url": "http://www.bjorkhotelreykjavik.com/",
+      "id": "iceland-77d6766b146e876386c9"
+    },
+    {
+      "name": "Hótel Frón",
+      "kind": "stay",
+      "locality": "Reykjavík",
+      "lat": 64.14555,
+      "lon": -21.92893,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Laugavegur 22a",
+      "price": "20,000 kr",
+      "url": "http://www.hotelfron.is/",
+      "id": "iceland-07976e298f3c218c8154"
+    },
+    {
+      "name": "Hotel Klöpp",
+      "kind": "stay",
+      "locality": "Reykjavík",
+      "lat": 64.14631,
+      "lon": -21.92904,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Klapparstígur 26",
+      "url": "http://www.centerhotels.com/our-hotels/hotel-klopp/",
+      "id": "iceland-e5576b0ffc7263cb55ca"
+    },
+    {
+      "name": "Hótel Leifur Eiríksson",
+      "kind": "stay",
+      "locality": "Reykjavík",
+      "lat": 64.14274,
+      "lon": -21.92769,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Skólavörðustígur 45",
+      "price": "21,000 kr",
+      "url": "http://www.hotelleifur.is/",
+      "id": "iceland-663120af6102ad2d79e9"
+    },
+    {
+      "name": "Hotel Óðinsvé",
+      "kind": "stay",
+      "locality": "Reykjavík",
+      "lat": 64.14401,
+      "lon": -21.93156,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Þórsgata 1",
+      "price": "17,000-27,000 kr",
+      "url": "http://www.odinsve.is/",
+      "id": "iceland-586f2de10860460d6d66"
+    },
+    {
+      "name": "Hotel Plaza",
+      "kind": "stay",
+      "locality": "Reykjavík",
+      "lat": 64.14829,
+      "lon": -21.94174,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Aðalstræti 4",
+      "price": "15,000-25,000 kr",
+      "url": "http://www.centerhotels.com/our-hotels/hotel-plaza/",
+      "id": "iceland-1ceb8e493c4ce1b2ca2b"
+    },
+    {
+      "name": "Grand Hotel",
+      "kind": "stay",
+      "locality": "Reykjavík",
+      "lat": 64.14227,
+      "lon": -21.89122,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Sigtún 38",
+      "url": "http://grand.is/",
+      "id": "iceland-8ce6e6a79924082b6c8a"
+    },
+    {
+      "name": "101 Hotel",
+      "kind": "stay",
+      "locality": "Reykjavík",
+      "lat": 64.14715,
+      "lon": -21.93354,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Hverfisgata 10",
+      "price": "40,000 kr and upwards",
+      "url": "http://www.101hotel.is/",
+      "id": "iceland-43f66f7b4d1f98dd7125"
+    },
+    {
+      "name": "Radisson Blu 1919 Hotel",
+      "kind": "stay",
+      "locality": "Reykjavík",
+      "lat": 64.1482,
+      "lon": -21.93848,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Pósthússtræti 2",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-reykjavik-1919",
+      "id": "iceland-1c520b66baa9bb8f4c46"
+    },
+    {
+      "name": "Hótel Borg",
+      "kind": "stay",
+      "locality": "Reykjavík",
+      "lat": 64.14705,
+      "lon": -21.93869,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Pósthússtræti 11",
+      "price": "40,000 kr. and upwards",
+      "url": "https://www.keahotels.is/hotel-borg",
+      "id": "iceland-437fb0d4f4f4d4d9edd0"
+    },
+    {
+      "name": "Hótel Holt",
+      "kind": "stay",
+      "locality": "Reykjavík",
+      "lat": 64.14284,
+      "lon": -21.93483,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Bergstaðastræti 37",
+      "price": "30,000 kr and upwards",
+      "url": "http://www.holt.is/",
+      "id": "iceland-b9442887060d4f123a60"
+    },
+    {
+      "name": "Hilton Nordica",
+      "kind": "stay",
+      "locality": "Reykjavík",
+      "lat": 64.13976,
+      "lon": -21.8887,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "address": "Suðurlandsbraut 2",
+      "price": "30,000 kr and upwards",
+      "url": "http://www.hiltonreykjavik.com/",
+      "id": "iceland-8e4f1f53601d553af044"
+    },
+    {
+      "name": "Reykjavík",
+      "kind": "area",
+      "locality": "Reykjavík",
+      "lat": 64.14019,
+      "lon": -21.90794,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Reykjav%C3%ADk",
+      "id": "iceland-9fef1d0c821925d03dab"
+    },
+    {
+      "name": "Þingvellir National Park",
+      "kind": "do",
+      "locality": "Route 1 (Iceland)",
+      "lat": 64.2581,
+      "lon": -21.125,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Route_1_(Iceland)",
+      "id": "iceland-d9c57e0cdb90e4700dc4"
+    },
+    {
+      "name": "Geysir",
+      "kind": "do",
+      "locality": "Route 1 (Iceland)",
+      "lat": 64.31055,
+      "lon": -20.301,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Route_1_(Iceland)",
+      "id": "iceland-4cd31dd2644659a1203b"
+    },
+    {
+      "name": "Gullfoss",
+      "kind": "do",
+      "locality": "Route 1 (Iceland)",
+      "lat": 64.32708,
+      "lon": -20.1229,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Route_1_(Iceland)",
+      "id": "iceland-9c277864ba8966d6a414"
+    },
+    {
+      "name": "Blue Lagoon",
+      "kind": "do",
+      "locality": "Route 1 (Iceland)",
+      "lat": 63.8806,
+      "lon": -22.44086,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Route_1_(Iceland)",
+      "id": "iceland-9159e335f00ef9bfe852"
+    },
+    {
+      "name": "Þingvellir",
+      "kind": "do",
+      "locality": "Route 1 (Iceland)",
+      "lat": 64.2581,
+      "lon": -21.125,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Route_1_(Iceland)",
+      "id": "iceland-7aab3652808565abec11"
+    },
+    {
+      "name": "Myvatn",
+      "kind": "do",
+      "locality": "Route 1 (Iceland)",
+      "lat": 65.63307,
+      "lon": -16.98641,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Route_1_(Iceland)",
+      "id": "iceland-8c0bd1855641897db00c"
+    },
+    {
+      "name": "Dettifoss",
+      "kind": "do",
+      "locality": "Route 1 (Iceland)",
+      "lat": 65.81431,
+      "lon": -16.38439,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Route_1_(Iceland)",
+      "id": "iceland-57c95b2a200df719ce7f"
+    },
+    {
+      "name": "Jökulsarlon",
+      "kind": "do",
+      "locality": "Route 1 (Iceland)",
+      "lat": 64.04824,
+      "lon": -16.18042,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Route_1_(Iceland)",
+      "id": "iceland-8515ac6e3d024c073afc"
+    },
+    {
+      "name": "Skaftafell National Park",
+      "kind": "do",
+      "locality": "Route 1 (Iceland)",
+      "lat": 64.01655,
+      "lon": -16.96587,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Route_1_(Iceland)",
+      "id": "iceland-7c99b4053cd02c359a3a"
+    },
+    {
+      "name": "DIVE.IS",
+      "kind": "do",
+      "locality": "Þingvellir National Park",
+      "lat": 64.1573282,
+      "lon": -21.942615,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/%C3%9Eingvellir_National_Park",
+      "address": "Hólmaslóð 2, 101 Reykjavik",
+      "url": "https://www.dive.is/",
+      "id": "iceland-32ab4e59bf869e4f898f"
+    },
+    {
+      "name": "Dive Silfra",
+      "kind": "do",
+      "locality": "Þingvellir National Park",
+      "lat": 64.1476747,
+      "lon": -21.8630873,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/%C3%9Eingvellir_National_Park",
+      "address": "Vatnagarðar 8, 104 Reykjavík",
+      "url": "https://www.divesilfra.is/",
+      "id": "iceland-0a95c8e1839ea081705f"
+    },
+    {
+      "name": "Þingvellir National Park",
+      "kind": "area",
+      "locality": "Þingvellir National Park",
+      "lat": 64.2581,
+      "lon": -21.125,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/%C3%9Eingvellir_National_Park",
+      "id": "iceland-5a578616a4fe007b1bf7"
+    },
+    {
+      "name": "Geysir",
+      "kind": "do",
+      "locality": "Upcountry Árnessýsla",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Upcountry_%C3%81rness%C3%BDsla",
+      "id": "iceland-6de01769de6754c0a9c6"
+    },
+    {
+      "name": "Gullfoss",
+      "kind": "do",
+      "locality": "Upcountry Árnessýsla",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Upcountry_%C3%81rness%C3%BDsla",
+      "id": "iceland-e1c70e7ae4e21a52f43b"
+    },
+    {
+      "name": "Kerið",
+      "kind": "do",
+      "locality": "Upcountry Árnessýsla",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Upcountry_%C3%81rness%C3%BDsla",
+      "id": "iceland-2a9455d7f7e22969dbad"
+    },
+    {
+      "name": "Upcountry Árnessýsla",
+      "kind": "area",
+      "locality": "Upcountry Árnessýsla",
+      "lat": 64.198,
+      "lon": -20.359,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Upcountry_%C3%81rness%C3%BDsla",
+      "id": "iceland-84d98f075323b500b98c"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 5 distinct public Wikivoyage source pages; attempted 6 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Destination article routing (regional/landmark guides may use a nearby gateway): Reykjavik & Golden Circle → Reykjavík; Reykjavik & Golden Circle → Route 1 (Iceland); Reykjavik & Golden Circle → Þingvellir National Park; Reykjavik & Golden Circle → Upcountry Árnessýsla."
+}

@@ -1,0 +1,1226 @@
+{
+  "sources": [
+    {
+      "title": "Albania",
+      "url": "https://en.wikivoyage.org/wiki/Albania",
+      "checkedAt": "2026-10-21T08:08:07.267Z"
+    },
+    {
+      "title": "Tirana",
+      "url": "https://en.wikivoyage.org/wiki/Tirana",
+      "checkedAt": "2026-10-21T08:08:12.242Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Tirana",
+      "kind": "area",
+      "locality": "Albania",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Albania",
+      "id": "albania-e7e7e1d541a6839a5130"
+    },
+    {
+      "name": "Durrës",
+      "kind": "area",
+      "locality": "Albania",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Albania",
+      "id": "albania-121b65a6fe0c13f403bb"
+    },
+    {
+      "name": "Berat",
+      "kind": "area",
+      "locality": "Albania",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Albania",
+      "id": "albania-533f445c1383cae36612"
+    },
+    {
+      "name": "Fier",
+      "kind": "area",
+      "locality": "Albania",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Albania",
+      "id": "albania-743ae0183910064e9c6d"
+    },
+    {
+      "name": "Gjirokastër",
+      "kind": "area",
+      "locality": "Albania",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Albania",
+      "id": "albania-eff99b75e17ecbfc516e"
+    },
+    {
+      "name": "Korçë",
+      "kind": "area",
+      "locality": "Albania",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Albania",
+      "id": "albania-b4a0c85e19ccc255da97"
+    },
+    {
+      "name": "Krujë",
+      "kind": "area",
+      "locality": "Albania",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Albania",
+      "id": "albania-e44714d3fde4bea98ee5"
+    },
+    {
+      "name": "Shkodër",
+      "kind": "area",
+      "locality": "Albania",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Albania",
+      "id": "albania-ede8334a334535034f8b"
+    },
+    {
+      "name": "Vlorë",
+      "kind": "area",
+      "locality": "Albania",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Albania",
+      "id": "albania-c908baf2a8ec8757d610"
+    },
+    {
+      "name": "Peshkopi",
+      "kind": "area",
+      "locality": "Albania",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Albania",
+      "id": "albania-f74f6fb6f3a74e72c90f"
+    },
+    {
+      "name": "Golem",
+      "kind": "area",
+      "locality": "Albania",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Albania",
+      "id": "albania-ff4976ebc9147d76e2bb"
+    },
+    {
+      "name": "Pacara Boza",
+      "kind": "eat",
+      "locality": "Albania",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Albania",
+      "price": "1 bottle of 1.5 l ~ 100 lek",
+      "url": "http://www.pacaraboza.com/",
+      "id": "albania-031f982806d66f8997da"
+    },
+    {
+      "name": "Et'hem Bey Mosque",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.3278,
+      "lon": 19.81933,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Skanderbeg Square",
+      "id": "albania-fbb50a1fd5ebad0b4afd"
+    },
+    {
+      "name": "Mosque 'Kokonozit'",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.3301,
+      "lon": 19.825,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga Thimi Mitko",
+      "id": "albania-ea5a8dd8aeda5cead5a9"
+    },
+    {
+      "name": "Saint Paul Catholic Cathedral",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.324722,
+      "lon": 19.821389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Bulevardi Zhan D'Ark",
+      "id": "albania-74902ab663f5f93323d8"
+    },
+    {
+      "name": "Resurrection of Christ Orthodox Cathedral",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.326469,
+      "lon": 19.817369,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga Ibrahim Rugova",
+      "url": "http://www.orthodoxalbania.org/al/",
+      "id": "albania-d64643cbcf3f64e5e29f"
+    },
+    {
+      "name": "Kapllan Pasha Tomb",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.327778,
+      "lon": 19.821667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga 28 Nëntori",
+      "id": "albania-e7a227f88b713870df24"
+    },
+    {
+      "name": "The Sheh Dyrri Teqe",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.332591,
+      "lon": 19.819255,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga e Barrikadave",
+      "id": "albania-0c70b54bbc369614f93f"
+    },
+    {
+      "name": "Tanners' Mosque",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.326667,
+      "lon": 19.828056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga Shyqyri Ishmi",
+      "id": "albania-b3abf44b96979fac3d9c"
+    },
+    {
+      "name": "National History Museum",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.329167,
+      "lon": 19.816944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Sheshi Skenderbej",
+      "price": "500 leke",
+      "url": "http://www.mhk.gov.al/",
+      "id": "albania-5ef8c92afe10d7f70299"
+    },
+    {
+      "name": "National Gallery of Arts",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.32546,
+      "lon": 19.820205,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Bulevardi Deshmoret e Kombit",
+      "price": "200 lek",
+      "url": "http://www.gka.al/",
+      "id": "albania-fb917981be672ba3bef0"
+    },
+    {
+      "name": "National Archaeological Museum",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.318286,
+      "lon": 19.8219,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Sheshi Nënë Tereza",
+      "price": "300 leke",
+      "url": "http://asa.edu.al/site/ma/",
+      "id": "albania-5d6d0c241de8e72d8cbe"
+    },
+    {
+      "name": "Natural Sciences Museum of Albania",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.327,
+      "lon": 19.8057,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga e Kavajës",
+      "id": "albania-2ca0bd7f6dacbdc5a266"
+    },
+    {
+      "name": "Tirana Mosaic",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.33034,
+      "lon": 19.80436,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Blloku pallateve Partizani, Lagja nr. 9 - Rruga Sandër Prosi",
+      "id": "albania-e09117bad42c299e9713"
+    },
+    {
+      "name": "Bunk'Art",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.351686,
+      "lon": 19.860733,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga Fadil Deliu",
+      "price": "700 leke",
+      "url": "http://www.bunkart.al/",
+      "id": "albania-d79c9f963a9d51d2fe7c"
+    },
+    {
+      "name": "Bunk'Art 2",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.326944,
+      "lon": 19.819444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rr Sermedin Toptani",
+      "price": "700 leke",
+      "url": "https://bunkart.al/2/home",
+      "id": "albania-c2f3ee574e23e5d205fd"
+    },
+    {
+      "name": "House of Leaves",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.326594,
+      "lon": 19.816486,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rr Ibrahim Rugova",
+      "price": "700 Leke",
+      "url": "http://www.muzeugjethi.gov.al/",
+      "id": "albania-fb79bc4fbb1836473f93"
+    },
+    {
+      "name": "ZETA Center for Contemporary Art",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.31891,
+      "lon": 19.81747,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Hekla Center, Abdyl Frashëri Street, 7, P31, A/4, 2nd floor",
+      "url": "https://qendrazeta.com/",
+      "id": "albania-6083f62a51d83fe98dcc"
+    },
+    {
+      "name": "The Museum of the Bank of Albania",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.3277,
+      "lon": 19.8168,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Skënderbej Square, No. 1",
+      "price": "Free",
+      "url": "https://www.bankofalbania.org/Museum_and_education/About_the_Museum_of_the_Bank_of_Albania/Book_a_visit_at_the_Museum/",
+      "id": "albania-0b6e1fd0c1df58d9aa6c"
+    },
+    {
+      "name": "Bektashism Museum",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.33138,
+      "lon": 19.85008,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga Bajo Topulli",
+      "url": "https://kryegjyshataboterorebektashiane.org/en/home-2/",
+      "id": "albania-1e1dfc0442c73af6bd98"
+    },
+    {
+      "name": "Historical Museum of the Armed Forces",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.2558,
+      "lon": 19.8853,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "price": "free",
+      "url": "https://www.muzeu-fa.gov.al/",
+      "id": "albania-f28456a0af4baebb2d16"
+    },
+    {
+      "name": "Studio House \"Kadare\"",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.33046,
+      "lon": 19.82017,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga e Dibrës 25",
+      "price": "Adult 500 lek, family (two or more persons) 250 lek, student 80 lek",
+      "id": "albania-f38100946c59e41a5365"
+    },
+    {
+      "name": "Fortress of Justinian (Tirana Castle remains)",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.326389,
+      "lon": 19.821944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Shëtitorja Murat Toptani",
+      "id": "albania-8cd92f26399b0058b0b1"
+    },
+    {
+      "name": "Bush Street",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.3268,
+      "lon": 19.8242,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "id": "albania-85616f3704ff001e01c9"
+    },
+    {
+      "name": "Piramid",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.323022,
+      "lon": 19.821567,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "B.Desmoret e Combit/B. Bajram Curri",
+      "url": "https://piramida.edu.al/en/",
+      "id": "albania-664cdf339b63da7c2088"
+    },
+    {
+      "name": "Blloku or Ish-Blloku",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.320833,
+      "lon": 19.816389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Mainly Rr. Ismail Qemali and nearby streets. Limits from West Rruga Sami Frashëri, from North Bulevardi Bajram Curri, from East Bulevardi Desmoret e Combit , from South Rruga Lek Dukagjini",
+      "id": "albania-bad7cf5181c0165fb81d"
+    },
+    {
+      "name": "Tanners' Bridge",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.32642,
+      "lon": 19.826052,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga George W. Bush and Bulevardi Zhan D'Ark corner",
+      "id": "albania-3a3aaa689ed805606abd"
+    },
+    {
+      "name": "National Library of Albania",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.328333,
+      "lon": 19.819722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Sheshi Skënderbej",
+      "url": "http://www.bksh.al/",
+      "id": "albania-d4b61db90556eac6e0f5"
+    },
+    {
+      "name": "Clock Tower",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.3275,
+      "lon": 19.819444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Skanderbeg Square",
+      "price": "10 lek",
+      "id": "albania-b24faaee792eab15d877"
+    },
+    {
+      "name": "Sali Shijaku's Traditional House",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.33613,
+      "lon": 19.81994,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rr. Vildan Luarasi",
+      "id": "albania-dc2ddcd615f53c08fc31"
+    },
+    {
+      "name": "Tirana Zoo",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.307806,
+      "lon": 19.809389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga Liqeni i Thate",
+      "price": "Adults €10, Children under 12 €5",
+      "url": "https://albaniaturism.com/tirana-zoo/",
+      "id": "albania-b589dc6b4c1cced779d6"
+    },
+    {
+      "name": "Martyrs' Cemetery",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.3092,
+      "lon": 19.8393,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga Dr Shefqet Ndroqi",
+      "id": "albania-19ebca1c54f7d7c565ae"
+    },
+    {
+      "name": "Petrela Castle",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.255,
+      "lon": 19.854,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga Petreles",
+      "price": "free",
+      "id": "albania-ca7559c04c223369100a"
+    },
+    {
+      "name": "Preze Castle",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.431,
+      "lon": 19.672,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Fushë Prezë",
+      "id": "albania-2c1b645b4f2703f47def"
+    },
+    {
+      "name": "Dajti Castle ruins",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.353611,
+      "lon": 19.922222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "SH47 Rd",
+      "id": "albania-69df85c62ccc411f4ac8"
+    },
+    {
+      "name": "Ndroqi Castle ruins",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.2456,
+      "lon": 19.6546,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Çoçaj, Varosh",
+      "id": "albania-9f9f788ddbed93325655"
+    },
+    {
+      "name": "Persqopi Archeological Site",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.2507,
+      "lon": 19.8678,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga Durishtit",
+      "url": "https://www.tirana.al/en/city-map/kalaja-e-petreles",
+      "id": "albania-5deedea8a9e559315f85"
+    },
+    {
+      "name": "Murat Toptani Street",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.3264155,
+      "lon": 19.8194346,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "id": "albania-e54423be03ce73b4b8a0"
+    },
+    {
+      "name": "Sheshi Skënderbej",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.327906,
+      "lon": 19.818458,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "id": "albania-fe209b0a3f9edce0261f"
+    },
+    {
+      "name": "Stroll along Bulevardi Dëshmorët e Kombit",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.32207,
+      "lon": 19.82016,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "id": "albania-e53c4d1c92e436fd85f6"
+    },
+    {
+      "name": "Taiwan Complex",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.3247,
+      "lon": 19.8174,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Parku Rinia, Rruga Ibrahim Rugova",
+      "url": "http://kompleksitaiwan.al/",
+      "id": "albania-011e26ae9f6b778fb2ff"
+    },
+    {
+      "name": "Mother Teresa Square",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.31788,
+      "lon": 19.82126,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "id": "albania-71b86255fd4636ea7099"
+    },
+    {
+      "name": "Grand Park along the Artificial Lake",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.3139,
+      "lon": 19.8239,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "id": "albania-edba269c0098150244f0"
+    },
+    {
+      "name": "Ali Demi Skate Park",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.32732,
+      "lon": 19.83609,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "id": "albania-0a2222fd1c7ec33d101f"
+    },
+    {
+      "name": "Mount Dajti National Park & Cable Car",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.365833,
+      "lon": 19.925556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "SH47, Rruga Mali Dajti, Fushe Dajt",
+      "price": "700/1400 lek (cable car one-way/return)",
+      "url": "http://dajtiekspres.com/",
+      "id": "albania-d821a7f1a802b14d8ba0"
+    },
+    {
+      "name": "Brar Canyon and Bridge",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.3969,
+      "lon": 19.8697,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Brar village",
+      "id": "albania-6bcfc4a1309dcd44f3ef"
+    },
+    {
+      "name": "Southeast of Tirana",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.2669,
+      "lon": 19.871,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga e Elbasanit (SH3) Berzhite, Farka",
+      "id": "albania-86512a185f71c400c9b3"
+    },
+    {
+      "name": "Dajti Mini Golf",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.36815,
+      "lon": 19.90545,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "url": "http://dajtiekspres.com/mini-golf/",
+      "id": "albania-3bdc1c25123743877a3a"
+    },
+    {
+      "name": "Lalzi Bay Beach",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.519,
+      "lon": 19.514,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "North of Durres near Hamallaj around Rodon Cape",
+      "id": "albania-f6248ff81f532557cf17"
+    },
+    {
+      "name": "General's Beach",
+      "kind": "do",
+      "locality": "Tirana",
+      "lat": 41.1287,
+      "lon": 19.4496,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Southwest of Kavaje at Bardhor village, Synej",
+      "id": "albania-901463898724117848d1"
+    },
+    {
+      "name": "Tirana International Film Festival",
+      "kind": "do",
+      "locality": "Tirana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "url": "http://www.tiranafilmfest.com/",
+      "id": "albania-45c6a54b17e720ae14bf"
+    },
+    {
+      "name": "Rally Albania",
+      "kind": "do",
+      "locality": "Tirana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Mother Teresa Square",
+      "url": "http://www.rallyalbania.org/",
+      "id": "albania-7737e0a1efe1de74250f"
+    },
+    {
+      "name": "Flower's",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.3297118,
+      "lon": 19.811926,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "price": "200-300 lek",
+      "id": "albania-59377ed7d23be28fc5e7"
+    },
+    {
+      "name": "Gjelltore Dibra",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.3287793,
+      "lon": 19.8244719,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "id": "albania-4dda4201dd08b741d694"
+    },
+    {
+      "name": "Tasty",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.32361,
+      "lon": 19.80393,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga Muhamet Gjollesha",
+      "price": "200-350 lek",
+      "id": "albania-4163707d226b0cc623b4"
+    },
+    {
+      "name": "Te Dhuri",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.3204482,
+      "lon": 19.8294082,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "price": "200-300 lek",
+      "id": "albania-f725caff37842d93a506"
+    },
+    {
+      "name": "Vjosa",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.3255463,
+      "lon": 19.8299855,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "price": "200-400 lek",
+      "id": "albania-b98808afaeb43c4345be"
+    },
+    {
+      "name": "Mr. Chicken",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.31892,
+      "lon": 19.81687,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rr. Abdyl Frashëri",
+      "id": "albania-495bd54bbceeae2293cf"
+    },
+    {
+      "name": "Gjiro Kamara fast food restaurant",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.31952,
+      "lon": 19.81963,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rr. Abdyl Frashëri",
+      "url": "https://www.kamara.al/",
+      "id": "albania-e8bdb45066f125ae2868"
+    },
+    {
+      "name": "Marion Restaurant",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.3218,
+      "lon": 19.8346,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga Pjeter Budi, Tirana University student's campus",
+      "price": "Under US$10 per meal",
+      "url": "https://www.facebook.com/MarionRestaurant",
+      "id": "albania-6e69f7ce45987ebb2fd2"
+    },
+    {
+      "name": "Qofte Tradita Met Kodra",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.3301242,
+      "lon": 19.8246631,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga Shemsi Haka",
+      "url": "https://www.facebook.com/MetKodraPazariiRi/?locale=sq_AL",
+      "id": "albania-b0fcbdaee29efd63daf8"
+    },
+    {
+      "name": "Tek Zgara Tirones 2",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.326991,
+      "lon": 19.807424,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga e Kavajës",
+      "price": "Mains 200-700 lek (May 2018)",
+      "id": "albania-302edde430b5ae02bcf3"
+    },
+    {
+      "name": "Birrari Ke Tori",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.322418,
+      "lon": 19.815403,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga Vaso Pasha",
+      "price": "300-700 lek",
+      "id": "albania-3cf162d179db7e7781b1"
+    },
+    {
+      "name": "Oda",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.33154,
+      "lon": 19.82461,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "price": "500–1,000 lek",
+      "id": "albania-445aa54ceee05daaf5d2"
+    },
+    {
+      "name": "King House restaurant",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.32791,
+      "lon": 19.81614,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga Deshmoret e 4 Shkurtit",
+      "url": "http://www.king-house.net/",
+      "id": "albania-483220533cba4e8f2974"
+    },
+    {
+      "name": "Yamato restaurant",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.32254,
+      "lon": 19.82298,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "url": "https://www.facebook.com/yamato.tirana",
+      "id": "albania-a428bfd493b045c6ebd9"
+    },
+    {
+      "name": "Era",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.32007,
+      "lon": 19.81453,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga Ismail Qemali, app 13/2",
+      "url": "https://era.al/",
+      "id": "albania-5a3a91de3849d995146d"
+    },
+    {
+      "name": "Spaghetti Western",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.32123,
+      "lon": 19.81502,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "rr. Pjeter Bogdani 13",
+      "price": "1,000–3,000 lek",
+      "url": "https://spaghettiwestern.business.site/",
+      "id": "albania-e5fc6cbef6eadcfff7a2"
+    },
+    {
+      "name": "Chinese Garden",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.32635,
+      "lon": 19.82535,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rr. George W. Bush, nr. 1",
+      "price": "around 1,000 lek",
+      "id": "albania-309cbcb67ebae6c365d5"
+    },
+    {
+      "name": "Sofra e Ariut",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.3141,
+      "lon": 19.8334,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Nd. 54 H.1 Njësia Bashkiake Nr. 1, Rruga e Elbasanit,",
+      "url": "http://www.sofraeariut.com/",
+      "id": "albania-e0767eccca51628b1561"
+    },
+    {
+      "name": "Juvenilja Castelo",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.3169,
+      "lon": 19.8232,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Sheshi Italia",
+      "price": "1000 lek",
+      "url": "http://www.juvenilja.com/",
+      "id": "albania-dab180374ce459b8a988"
+    },
+    {
+      "name": "Otium",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.3218,
+      "lon": 19.81384,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rr Brigada e Vlll",
+      "url": "https://m.facebook.com/Otium-Restaurant-182686481817467/",
+      "id": "albania-ccb023b9e73c3857e471"
+    },
+    {
+      "name": "Mullixhiu",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.3134001,
+      "lon": 19.8166501,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Lazgush Poradeci Street",
+      "price": "Multi-course tasting menu: 2,500-3,000 lek",
+      "url": "https://www.mullixhiu.al/",
+      "id": "albania-7d5ead9462286c51aba3"
+    },
+    {
+      "name": "Hotspot Tirana",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.33383,
+      "lon": 19.82494,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "url": "https://www.instagram.com/hotspot_tirana/",
+      "id": "albania-61f7bf7c54f93e729ad8"
+    },
+    {
+      "name": "Nektar Bookcafe",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.32868,
+      "lon": 19.81289,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "price": "170 lek",
+      "id": "albania-e3df29cf8e04df89dd05"
+    },
+    {
+      "name": "My Way",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.32107,
+      "lon": 19.81432,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "price": "Peja 250 lek",
+      "id": "albania-3b4cf565ea5d935909cb"
+    },
+    {
+      "name": "Old House Bar",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.32196,
+      "lon": 19.81473,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "price": "Beer 300 lek",
+      "id": "albania-b6618340ca9d7d231206"
+    },
+    {
+      "name": "My House",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.33394,
+      "lon": 19.81608,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "price": "Beer 450 lek",
+      "id": "albania-f175d672c56bf4f326ba"
+    },
+    {
+      "name": "Miqtë e Muzikës Live",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.3286708,
+      "lon": 19.8133709,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "id": "albania-f94bff9a54aa264b0b44"
+    },
+    {
+      "name": "Hemingway",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.329609,
+      "lon": 19.812341,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga Kont Urani",
+      "price": "Cocktails: from 700 lek",
+      "url": "http://hemingway.al/",
+      "id": "albania-08a022e7afbbcfec961e"
+    },
+    {
+      "name": "Komiteti Kafe Muzeum",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.32344,
+      "lon": 19.82267,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga Fatmir Haxhiu",
+      "price": "Raki 200 lek",
+      "url": "https://www.facebook.com/komiteti.kafemuzeum/",
+      "id": "albania-bb1b48fc63d8340af035"
+    },
+    {
+      "name": "Radio",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.320194,
+      "lon": 19.814968,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga Ismail Qemali",
+      "url": "http://www.radiobar.al/",
+      "id": "albania-54f98e1985e1e800644a"
+    },
+    {
+      "name": "Sky Tower Rotating Bar",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.3224,
+      "lon": 19.81797,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rr. Ibrahim Rugova",
+      "id": "albania-f84b40e172f8f02e49ed"
+    },
+    {
+      "name": "Tunel",
+      "kind": "eat",
+      "locality": "Tirana",
+      "lat": 41.32853,
+      "lon": 19.82029,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "price": "Beer 400 lek",
+      "id": "albania-4835cffa306784985302"
+    },
+    {
+      "name": "Star Hotel",
+      "kind": "stay",
+      "locality": "Tirana",
+      "lat": 41.32998,
+      "lon": 19.81956,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga e Dibrës, 73",
+      "price": "Double/twin: €30 [2013]",
+      "id": "albania-999bc5e1f7406bf9d1ce"
+    },
+    {
+      "name": "Hotel Victoria",
+      "kind": "stay",
+      "locality": "Tirana",
+      "lat": 41.34111,
+      "lon": 19.83088,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rr. Dibrës Nd. 331 H. 1",
+      "price": "Single €22, double/twin €34, triple €44, quad €54",
+      "url": "https://hotelvictoria.al/",
+      "id": "albania-6881272c87b5295d2bdd"
+    },
+    {
+      "name": "Tirana Backpackers Hostel",
+      "kind": "stay",
+      "locality": "Tirana",
+      "lat": 41.32854,
+      "lon": 19.80998,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga Elbasanit 85/Rruga e Bogdanëve",
+      "price": "€8-27",
+      "url": "http://www.tiranahostel.com/",
+      "id": "albania-b8c110824131239c0fdb"
+    },
+    {
+      "name": "Hotel Verzaci",
+      "kind": "stay",
+      "locality": "Tirana",
+      "lat": 41.42445,
+      "lon": 19.71207,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rinas, SH60",
+      "price": "€25 (single)",
+      "id": "albania-d194ee196a78711319d3"
+    },
+    {
+      "name": "Jolly City Centre Hotel",
+      "kind": "stay",
+      "locality": "Tirana",
+      "lat": 41.32928,
+      "lon": 19.82545,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Avni Rustemi",
+      "price": "€23 single",
+      "url": "https://jollyhotel.al/",
+      "id": "albania-f7224fb0fab670033f15"
+    },
+    {
+      "name": "Trip'n'Hostel",
+      "kind": "stay",
+      "locality": "Tirana",
+      "lat": 41.33193,
+      "lon": 19.82566,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rr Musa Maci",
+      "price": "€10 to 30",
+      "url": "https://www.tripnhostel.com/",
+      "id": "albania-24cd148423e0ad1e3940"
+    },
+    {
+      "name": "Milingona City Center Hostel",
+      "kind": "stay",
+      "locality": "Tirana",
+      "lat": 41.3305,
+      "lon": 19.829028,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga Vehbi Agolli 5",
+      "price": "€15",
+      "url": "https://www.milingonahostel.com/",
+      "id": "albania-56fbf3fea356aa235bf6"
+    },
+    {
+      "name": "Hotel Baron",
+      "kind": "stay",
+      "locality": "Tirana",
+      "lat": 41.29945,
+      "lon": 19.84985,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga e Elbasanit 274",
+      "price": "Single €35; double/twin €50; triple €55; quad €65",
+      "url": "https://hotelbaron.al/",
+      "id": "albania-3646bc0f9598cecaff03"
+    },
+    {
+      "name": "Hotel City Tirana",
+      "kind": "stay",
+      "locality": "Tirana",
+      "lat": 41.32217,
+      "lon": 19.82427,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga Ismail Qemali, Nr8/1",
+      "price": "Single €34-€50; double €75",
+      "url": "http://www.hotelcitytirana.com/",
+      "id": "albania-b8d9cabac1d236e4cf85"
+    },
+    {
+      "name": "Hotel Meg Klaus",
+      "kind": "stay",
+      "locality": "Tirana",
+      "lat": 41.33053,
+      "lon": 19.81238,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga Fortuzi 75",
+      "price": "Single €30, double €40",
+      "id": "albania-f9f941dea63dc6121963"
+    },
+    {
+      "name": "Bed and Breakfast Tirana Smile",
+      "kind": "stay",
+      "locality": "Tirana",
+      "lat": 41.32936,
+      "lon": 19.8098,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga Bogdani",
+      "price": "€42",
+      "id": "albania-ad073a10bc856b00d7b9"
+    },
+    {
+      "name": "Green House",
+      "kind": "stay",
+      "locality": "Tirana",
+      "lat": 41.32314,
+      "lon": 19.82366,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga Jul Variboba 6",
+      "id": "albania-eca549052a107a6c8072"
+    },
+    {
+      "name": "La Mirage Collection – Blloku suites",
+      "kind": "stay",
+      "locality": "Tirana",
+      "lat": 41.318735,
+      "lon": 19.814327,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Sheshi Wilson, Blloku",
+      "price": "From €45 per night (October 2026)",
+      "url": "https://lamirage.al/en/apartments-blloku-tirana",
+      "id": "albania-e81900c9723f7bd0ab5e"
+    },
+    {
+      "name": "Hotel Airport Tirana",
+      "kind": "stay",
+      "locality": "Tirana",
+      "lat": 41.41647,
+      "lon": 19.71258,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rinas Tirana International Airport Mother Teresa",
+      "price": "Single 8,850 lek; double 11,800 lek",
+      "url": "http://www.hotelairportirana.com/",
+      "id": "albania-3a30f9a06b7ac0b2be56"
+    },
+    {
+      "name": "Hotel Brilant Antik",
+      "kind": "stay",
+      "locality": "Tirana",
+      "lat": 41.32728,
+      "lon": 19.82519,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rr. Jeronim De Rada, No. 78",
+      "price": "€70, breakfast included",
+      "url": "http://hotelbrilant.com/",
+      "id": "albania-f89d221638da4d7e655d"
+    },
+    {
+      "name": "Hotel Grand",
+      "kind": "stay",
+      "locality": "Tirana",
+      "lat": 41.32045,
+      "lon": 19.8167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rr. Ismail Qemali 11",
+      "price": "single €120; double €160",
+      "url": "http://www.grandhoteltirana.com/",
+      "id": "albania-6c8829e2f3b2eefb9719"
+    },
+    {
+      "name": "Hotel Mondial",
+      "kind": "stay",
+      "locality": "Tirana",
+      "lat": 41.3268,
+      "lon": 19.8027,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rruga Muhamet Gjollesha",
+      "url": "https://www.hotelmondial.al/",
+      "id": "albania-26933ee8ef7bfcc874ef"
+    },
+    {
+      "name": "Hotel Theranda",
+      "kind": "stay",
+      "locality": "Tirana",
+      "lat": 41.32158,
+      "lon": 19.81192,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rr. Andon Zako Cajupi, Villa 6 & 7",
+      "price": "Single €70 to €100; double/twin: €90 to €130",
+      "url": "https://m.facebook.com/HotelTheranda/",
+      "id": "albania-37f525adb79482d9db20"
+    },
+    {
+      "name": "Rogner Hotel Europapark",
+      "kind": "stay",
+      "locality": "Tirana",
+      "lat": 41.32086,
+      "lon": 19.82163,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Bulevardi Deshmoret e Kombit",
+      "price": "Single €152 to €176 +tax; double/twin €170 to €201 +tax",
+      "url": "http://www.hotel-europapark.com/",
+      "id": "albania-d74976dd36fde0e9b112"
+    },
+    {
+      "name": "Tirana International Hotel",
+      "kind": "stay",
+      "locality": "Tirana",
+      "lat": 41.32976,
+      "lon": 19.81861,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Sheshi Skënderbej 8",
+      "price": "Weekend: single €60, double €70; weekday: single €112, double €124-142",
+      "url": "https://www.tiranainternational.com/",
+      "id": "albania-40784d806bb99c078e6d"
+    },
+    {
+      "name": "Xheko Imperial Hotel Tirana",
+      "kind": "stay",
+      "locality": "Tirana",
+      "lat": 41.31802,
+      "lon": 19.81862,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Rr. Deshmoret e 4 Shkurtit",
+      "url": "http://www.xheko-imperial.com/",
+      "id": "albania-820d5de68224a080b063"
+    },
+    {
+      "name": "Rogner Hotel Tirana",
+      "kind": "stay",
+      "locality": "Tirana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "address": "Bulevardi Dëshmorët e Kombit • Postal Code 1001",
+      "url": "https://www.hotel-europapark.com/",
+      "id": "albania-718af0c915ddb77c3edd"
+    },
+    {
+      "name": "Tirana",
+      "kind": "area",
+      "locality": "Tirana",
+      "lat": 41.3237,
+      "lon": 19.8203,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tirana",
+      "id": "albania-5820a1b76cc50ca9efd4"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

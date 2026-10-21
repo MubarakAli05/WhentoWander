@@ -1,0 +1,129 @@
+{
+  "sources": [
+    {
+      "title": "Solomon Islands",
+      "url": "https://en.wikivoyage.org/wiki/Solomon_Islands",
+      "checkedAt": "2026-10-21T08:12:22.438Z"
+    },
+    {
+      "title": "Guadalcanal",
+      "url": "https://en.wikivoyage.org/wiki/Guadalcanal",
+      "checkedAt": "2026-10-21T08:12:28.214Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Ontong Java Atoll",
+      "kind": "do",
+      "locality": "Solomon Islands",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Solomon_Islands",
+      "id": "solomon-islands-464e8391c471314108d8"
+    },
+    {
+      "name": "Guadalcanal American Memorial",
+      "kind": "do",
+      "locality": "Guadalcanal",
+      "lat": -9.44261,
+      "lon": 159.958,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guadalcanal",
+      "url": "https://www.abmc.gov/cemeteries-memorials/pacific/guadalcanal-memorial#.WfOlUtNSzIU",
+      "id": "solomon-islands-1209828bcc9145866619"
+    },
+    {
+      "name": "National Museum",
+      "kind": "do",
+      "locality": "Guadalcanal",
+      "lat": -9.431,
+      "lon": 159.9543,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guadalcanal",
+      "id": "solomon-islands-0bd57e7682c93b0411d6"
+    },
+    {
+      "name": "Aola Bay",
+      "kind": "do",
+      "locality": "Guadalcanal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guadalcanal",
+      "id": "solomon-islands-c81c8bac3913780f7668"
+    },
+    {
+      "name": "Tenaru Falls",
+      "kind": "do",
+      "locality": "Guadalcanal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guadalcanal",
+      "id": "solomon-islands-fbd6f4e132e6268b0c38"
+    },
+    {
+      "name": "Matanikau River",
+      "kind": "do",
+      "locality": "Guadalcanal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guadalcanal",
+      "id": "solomon-islands-a813c7f6785aa546edfc"
+    },
+    {
+      "name": "The Taj Mahal",
+      "kind": "eat",
+      "locality": "Guadalcanal",
+      "lat": -9.4311,
+      "lon": 159.9547,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guadalcanal",
+      "id": "solomon-islands-07b22aaee0279f109ed3"
+    },
+    {
+      "name": "Point Cruz Yacht Club",
+      "kind": "eat",
+      "locality": "Guadalcanal",
+      "lat": -9.4301,
+      "lon": 159.9549,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guadalcanal",
+      "id": "solomon-islands-2f3adeab5329d28cd3d1"
+    },
+    {
+      "name": "United Church Resthouse",
+      "kind": "stay",
+      "locality": "Guadalcanal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guadalcanal",
+      "address": "Lower Vavaya Ridge Road",
+      "id": "solomon-islands-23c8d88518987c5b5ff0"
+    },
+    {
+      "name": "Honiara Hotel",
+      "kind": "stay",
+      "locality": "Guadalcanal",
+      "lat": -9.4398,
+      "lon": 159.9658,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guadalcanal",
+      "url": "http://www.honiarahotel.com.sb/",
+      "id": "solomon-islands-5c197f8d280d465f1606"
+    },
+    {
+      "name": "King Solomon",
+      "kind": "stay",
+      "locality": "Guadalcanal",
+      "lat": -9.4321,
+      "lon": 159.9526,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guadalcanal",
+      "url": "http://kingsolomonhotel.info/",
+      "id": "solomon-islands-1b5bf6db563168ecd4d1"
+    },
+    {
+      "name": "Iron Bottom Sound Hotel",
+      "kind": "stay",
+      "locality": "Guadalcanal",
+      "lat": -9.4296,
+      "lon": 159.9458,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guadalcanal",
+      "id": "solomon-islands-08df5bb4f23b9009d67a"
+    },
+    {
+      "name": "Guadalcanal",
+      "kind": "area",
+      "locality": "Guadalcanal",
+      "lat": -9.616,
+      "lon": 160.183,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guadalcanal",
+      "id": "solomon-islands-014b02b1e6c26a5be3b5"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

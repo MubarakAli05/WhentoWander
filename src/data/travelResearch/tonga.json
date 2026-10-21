@@ -1,0 +1,434 @@
+{
+  "sources": [
+    {
+      "title": "Tonga",
+      "url": "https://en.wikivoyage.org/wiki/Tonga",
+      "checkedAt": "2026-10-21T08:12:47.426Z"
+    },
+    {
+      "title": "Tongatapu",
+      "url": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "checkedAt": "2026-10-21T08:12:53.430Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Tonga National Museum",
+      "kind": "do",
+      "locality": "Tongatapu",
+      "lat": -21.1335,
+      "lon": -175.2002,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "id": "tonga-4308941242f50e5cb388"
+    },
+    {
+      "name": "Tukuʻaho Memorial Museum",
+      "kind": "do",
+      "locality": "Tongatapu",
+      "lat": -21.223571,
+      "lon": -175.161177,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "price": "Free",
+      "id": "tonga-22e2d4759ab91059fe05"
+    },
+    {
+      "name": "Ha’amonga ‘a Maui",
+      "kind": "do",
+      "locality": "Tongatapu",
+      "lat": -21.136573,
+      "lon": -175.048112,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "id": "tonga-62172ccb4c55ef47fe19"
+    },
+    {
+      "name": "Captain Cook Landing Site",
+      "kind": "do",
+      "locality": "Tongatapu",
+      "lat": -21.192191,
+      "lon": -175.130268,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "price": "Free",
+      "id": "tonga-3d7dc46a42fab531ff4e"
+    },
+    {
+      "name": "Abel Tasman Landing Site",
+      "kind": "do",
+      "locality": "Tongatapu",
+      "lat": -21.064047,
+      "lon": -175.323642,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "address": "Hihifo Rd, Ha'atafu",
+      "price": "Free",
+      "id": "tonga-92458c60f3f0abd53da5"
+    },
+    {
+      "name": "Mu’a",
+      "kind": "do",
+      "locality": "Tongatapu",
+      "lat": -21.179167,
+      "lon": -175.116667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "id": "tonga-8aca3105507795cdfd92"
+    },
+    {
+      "name": "Ancient Royal Tombs of Lapaha",
+      "kind": "do",
+      "locality": "Tongatapu",
+      "lat": -21.174838,
+      "lon": -175.116695,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "price": "Free",
+      "id": "tonga-c56d456e4b9114c0bd3c"
+    },
+    {
+      "name": "War Memorial",
+      "kind": "do",
+      "locality": "Tongatapu",
+      "lat": -21.131867,
+      "lon": -175.198591,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "price": "Free",
+      "id": "tonga-5b5e5b8f87c181c46140"
+    },
+    {
+      "name": "Royal Palace",
+      "kind": "do",
+      "locality": "Tongatapu",
+      "lat": -21.131389,
+      "lon": -175.200556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "id": "tonga-03f38523ebd3a2ee38e2"
+    },
+    {
+      "name": "Centenary Church",
+      "kind": "do",
+      "locality": "Tongatapu",
+      "lat": -21.132888,
+      "lon": -175.203328,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "id": "tonga-06e1c6bbe4ccaa83066c"
+    },
+    {
+      "name": "Nuku'alofa Cathedral",
+      "kind": "do",
+      "locality": "Tongatapu",
+      "lat": -21.13526,
+      "lon": -175.202773,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "address": "Nuku'alofa",
+      "price": "Free",
+      "id": "tonga-7d438b2cd80e2535a417"
+    },
+    {
+      "name": "Mala'e Kula",
+      "kind": "do",
+      "locality": "Tongatapu",
+      "lat": -21.136361,
+      "lon": -175.203781,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "address": "Nuku'alofa",
+      "id": "tonga-0c169254dd507d7e43d6"
+    },
+    {
+      "name": "Basilica of St Anthony of Padua",
+      "kind": "do",
+      "locality": "Tongatapu",
+      "lat": -21.136834,
+      "lon": -175.201857,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "address": "Nuku'alofa",
+      "price": "Free",
+      "id": "tonga-3fd1778e47ac29d44b2d"
+    },
+    {
+      "name": "St. Mary's Cathedral",
+      "kind": "do",
+      "locality": "Tongatapu",
+      "lat": -21.140833,
+      "lon": -175.181667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "address": "Vuna Road",
+      "id": "tonga-ed3476b0f3927fbf08f4"
+    },
+    {
+      "name": "Mapu a Vaea",
+      "kind": "do",
+      "locality": "Tongatapu",
+      "lat": -21.174208,
+      "lon": -175.308462,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "address": "Houma",
+      "price": "Free",
+      "id": "tonga-d118f53298bd875d63ef"
+    },
+    {
+      "name": "Hufangalupe Natural Land Bridge",
+      "kind": "do",
+      "locality": "Tongatapu",
+      "lat": -21.232533,
+      "lon": -175.190401,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "price": "Free",
+      "id": "tonga-229c8bd4f4842aa7b117"
+    },
+    {
+      "name": "Tonga Post",
+      "kind": "do",
+      "locality": "Tongatapu",
+      "lat": -21.133062,
+      "lon": -175.199925,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "id": "tonga-e77f4095eee521367f06"
+    },
+    {
+      "name": "Ancient Tonga",
+      "kind": "do",
+      "locality": "Tongatapu",
+      "lat": -21.143789,
+      "lon": -175.167524,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "address": "Tamakautonga Rd, Nuku'alofa",
+      "price": "From T$45",
+      "url": "http://www.ancienttonga.com/",
+      "id": "tonga-7e9bdbaeb54e980b1bfa"
+    },
+    {
+      "name": "Kolomotu'a",
+      "kind": "do",
+      "locality": "Tongatapu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "id": "tonga-78e91d68090bd1c9c826"
+    },
+    {
+      "name": "Anahulu Caves",
+      "kind": "do",
+      "locality": "Tongatapu",
+      "lat": -21.208239,
+      "lon": -175.104309,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "address": "Haveluliku",
+      "price": "T$20 per person",
+      "url": "https://www.anahulucave.to/",
+      "id": "tonga-4b4565908b567a29ff97"
+    },
+    {
+      "name": "Matatahi 'Anahulu Beach",
+      "kind": "do",
+      "locality": "Tongatapu",
+      "lat": -21.208679,
+      "lon": -175.103158,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "price": "Free",
+      "id": "tonga-f14fb7ff719e7352f5ca"
+    },
+    {
+      "name": "Ha'atafu Beach",
+      "kind": "do",
+      "locality": "Tongatapu",
+      "lat": -21.071836,
+      "lon": -175.336626,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "price": "Free",
+      "id": "tonga-943feed07e8303df4561"
+    },
+    {
+      "name": "Niutao Beach",
+      "kind": "do",
+      "locality": "Tongatapu",
+      "lat": -21.129,
+      "lon": -175.122,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "price": "Free",
+      "id": "tonga-6d3834c545f833c3ebd2"
+    },
+    {
+      "name": "Friend's Cafe",
+      "kind": "eat",
+      "locality": "Tongatapu",
+      "lat": -21.13374,
+      "lon": -175.199894,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "address": "Taufa'ahua Road, Nuku'alofa",
+      "id": "tonga-378c3ca186c0b97f9e94"
+    },
+    {
+      "name": "Pot Luck Training Restaurant",
+      "kind": "eat",
+      "locality": "Tongatapu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "address": "corner of Salote and Vaiomok Roads, Nuku'alofa",
+      "id": "tonga-18fcbaf380b16c751f9f"
+    },
+    {
+      "name": "Tavana Restaurant",
+      "kind": "eat",
+      "locality": "Tongatapu",
+      "lat": -21.14862,
+      "lon": -175.210815,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "address": "Navy Road and Taufa'ahau Road",
+      "id": "tonga-7435166cfd8c1c23dfd0"
+    },
+    {
+      "name": "Waterfront Restaurant",
+      "kind": "eat",
+      "locality": "Tongatapu",
+      "lat": -21.139625,
+      "lon": -175.184566,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "address": "Vuna Road",
+      "url": "http://www.facebook.com/Waterfront-Lodge-1665075453778940/",
+      "id": "tonga-930e12c8bd78466bae26"
+    },
+    {
+      "name": "TOP Restaurant",
+      "kind": "eat",
+      "locality": "Tongatapu",
+      "lat": -21.134502,
+      "lon": -175.200434,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "address": "Wellington Rd",
+      "url": "http://www.facebook.com/pages/category/Burger-Restaurant/The-TOP-Restaurant-and-Lounge-2446285428729028/",
+      "id": "tonga-48054978eb3e40698797"
+    },
+    {
+      "name": "Billfish Bar & Restaurant",
+      "kind": "eat",
+      "locality": "Tongatapu",
+      "lat": -21.140631,
+      "lon": -175.180303,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "address": "Vuna Road",
+      "url": "http://billfish.co/",
+      "id": "tonga-64c9eeb90e82780bd339"
+    },
+    {
+      "name": "Toni's Guest House",
+      "kind": "stay",
+      "locality": "Tongatapu",
+      "lat": -21.1552,
+      "lon": -175.2309,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "address": "Tofoakoloua",
+      "price": "Dorms from T$30/person per night, single and double bedrooms from T$60/person per night",
+      "url": "http://www.tonisguesthouse.com/",
+      "id": "tonga-e4b31c1e3a98f5034070"
+    },
+    {
+      "name": "High Light Guest House",
+      "kind": "stay",
+      "locality": "Tongatapu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "price": "T$50 for a double",
+      "url": "http://web.me.com/japosc/Site/Welcome.html",
+      "id": "tonga-2740bf2cd0a0362cdb44"
+    },
+    {
+      "name": "Taina’s Place",
+      "kind": "stay",
+      "locality": "Tongatapu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "price": "Camping T$20; dorm T$25; double T$55; family house T$100",
+      "url": "https://www.facebook.com/tainasplace/",
+      "id": "tonga-685c353679408962825e"
+    },
+    {
+      "name": "Friendly Islander Hotel",
+      "kind": "stay",
+      "locality": "Tongatapu",
+      "lat": -21.140963,
+      "lon": -175.171822,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "url": "http://www.friendlyislander.com/",
+      "id": "tonga-447d0bb8cbb0f52af781"
+    },
+    {
+      "name": "Oceanside Guest House",
+      "kind": "stay",
+      "locality": "Tongatapu",
+      "lat": -21.131349,
+      "lon": -175.055172,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "url": "http://www.oceansideguesthouse.com/",
+      "id": "tonga-aa23acf140f623c01194"
+    },
+    {
+      "name": "Tungi Colonnade Hotel",
+      "kind": "stay",
+      "locality": "Tongatapu",
+      "lat": -21.135514,
+      "lon": -175.201844,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "address": "Taufa'ahau Rd, Nuku'alofa",
+      "price": "T$140 for double occupancy",
+      "id": "tonga-6c65eda61d70efb83fec"
+    },
+    {
+      "name": "Waterfront Lodge.",
+      "kind": "stay",
+      "locality": "Tongatapu",
+      "lat": -21.139491,
+      "lon": -175.184672,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "url": "https://www.waterfrontlodge-tonga.com/",
+      "id": "tonga-890ee52985333a515513"
+    },
+    {
+      "name": "Captain Cook Apartments",
+      "kind": "stay",
+      "locality": "Tongatapu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "price": "T$200-250",
+      "id": "tonga-643ffacb22dc2a8830f6"
+    },
+    {
+      "name": "Fafa Island resort",
+      "kind": "stay",
+      "locality": "Tongatapu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "url": "http://www.fafaislandresort.com/",
+      "id": "tonga-de556088ef5c29889ded"
+    },
+    {
+      "name": "Little Italy Hotel",
+      "kind": "stay",
+      "locality": "Tongatapu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "price": "T$200-260 for a double",
+      "url": "http://www.littleitalytonga.com/home.html",
+      "id": "tonga-f2e7c667e3181c2069e9"
+    },
+    {
+      "name": "Ha'atafu Beach resort",
+      "kind": "stay",
+      "locality": "Tongatapu",
+      "lat": -21.070237,
+      "lon": -175.334478,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "url": "http://www.surfingtonga.com/",
+      "id": "tonga-8734215baf7a80f21e87"
+    },
+    {
+      "name": "Tanoa International Dateline Hotel",
+      "kind": "stay",
+      "locality": "Tongatapu",
+      "lat": -21.135239,
+      "lon": -175.194702,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "price": "T$230 for double occupancy",
+      "url": "https://www.tanoadateline.com/",
+      "id": "tonga-82fd0c34474b13847776"
+    },
+    {
+      "name": "Tongatapu",
+      "kind": "area",
+      "locality": "Tongatapu",
+      "lat": -21.211,
+      "lon": -175.153,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tongatapu",
+      "id": "tonga-d5d68eb0eb461b7c2f76"
+    }
+  ],
+  "status": "partial",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. No extractable structured facts: Tonga."
+}

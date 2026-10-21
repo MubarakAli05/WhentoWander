@@ -22,6 +22,7 @@ import { EmptyState } from '@/components/EmptyState';
 import { Gallery } from '@/components/Gallery';
 import { PhotoAttribution } from '@/components/DiscoveryHero';
 import { getPhenomenonPhoto } from '@/data/seasonalDiscovery';
+import { CountryTravelGuide } from '@/components/CountryTravelGuide';
 
 export function CountryPage() {
   const { slug } = useParams();
@@ -100,6 +101,9 @@ export function CountryPage() {
               {country.poetLine}
             </p>
             <div className="mt-6 flex flex-wrap gap-3">
+              <a href="#country-travel-guide" className="inline-flex items-center gap-2 rounded-full border border-amber-400/40 bg-black/30 px-5 py-3 text-sm font-semibold text-amber-300 transition-colors hover:bg-white/10">
+                <BookOpen className="h-4 w-4" /> Plan your trip
+              </a>
               <a href="#country-gallery" className="inline-flex items-center gap-2 rounded-full bg-amber-400 px-5 py-3 text-sm font-semibold text-stone-950 transition-colors hover:bg-amber-300">
                 <Camera className="h-4 w-4" /> Explore the gallery
               </a>
@@ -110,6 +114,8 @@ export function CountryPage() {
           </motion.div>
         </div>
       </section>
+
+      <CountryTravelGuide key={country.id} country={country} />
 
       {/* QUICK FACTS */}
       <section className="py-12 px-4 sm:px-6 lg:px-8 border-b border-white/5">

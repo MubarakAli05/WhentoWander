@@ -1,0 +1,280 @@
+{
+  "sources": [
+    {
+      "title": "Gabon",
+      "url": "https://en.wikivoyage.org/wiki/Gabon",
+      "checkedAt": "2026-10-21T08:09:41.621Z"
+    },
+    {
+      "title": "Libreville",
+      "url": "https://en.wikivoyage.org/wiki/Libreville",
+      "checkedAt": "2026-10-21T08:09:44.392Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Libreville",
+      "kind": "area",
+      "locality": "Gabon",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gabon",
+      "id": "gabon-2c0f3c0af8e1f39035c4"
+    },
+    {
+      "name": "Franceville",
+      "kind": "area",
+      "locality": "Gabon",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gabon",
+      "id": "gabon-f7a37c04712fc677cd74"
+    },
+    {
+      "name": "Gamba",
+      "kind": "area",
+      "locality": "Gabon",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gabon",
+      "id": "gabon-f15d69a41534e4ce921e"
+    },
+    {
+      "name": "Mayumba",
+      "kind": "area",
+      "locality": "Gabon",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gabon",
+      "id": "gabon-1331c4f7c410550429d3"
+    },
+    {
+      "name": "Port-Gentil",
+      "kind": "area",
+      "locality": "Gabon",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gabon",
+      "id": "gabon-f39feb2bd3301be84b81"
+    },
+    {
+      "name": "Cathédrale Sainte Marie",
+      "kind": "do",
+      "locality": "Libreville",
+      "lat": 0.40279,
+      "lon": 9.43622,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libreville",
+      "id": "gabon-1832776bbde4519555d4"
+    },
+    {
+      "name": "Notre Dame de Lourdes",
+      "kind": "do",
+      "locality": "Libreville",
+      "lat": 0.40705,
+      "lon": 9.45965,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libreville",
+      "id": "gabon-17afa20f83344c1e4010"
+    },
+    {
+      "name": "Church of St. Michael Nkembo",
+      "kind": "do",
+      "locality": "Libreville",
+      "lat": 0.40908,
+      "lon": 9.45751,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libreville",
+      "id": "gabon-54152846d71ae7718f78"
+    },
+    {
+      "name": "National Museum of Arts and Traditions",
+      "kind": "do",
+      "locality": "Libreville",
+      "lat": 0.38412,
+      "lon": 9.44664,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libreville",
+      "id": "gabon-31c891cb7b014b092bf8"
+    },
+    {
+      "name": "Musée National du Gabon",
+      "kind": "do",
+      "locality": "Libreville",
+      "lat": 0.38426,
+      "lon": 9.44622,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libreville",
+      "id": "gabon-67e59a2f72508e64d349"
+    },
+    {
+      "name": "Presidential Palace",
+      "kind": "do",
+      "locality": "Libreville",
+      "lat": 0.39247,
+      "lon": 9.44205,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libreville",
+      "id": "gabon-4adc8cd1664724f7e409"
+    },
+    {
+      "name": "Cour Constitutionnelle du Gabon",
+      "kind": "do",
+      "locality": "Libreville",
+      "lat": 0.39694,
+      "lon": 9.43987,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libreville",
+      "id": "gabon-17a967409b0d8daa7dda"
+    },
+    {
+      "name": "Memorial Leon Mba",
+      "kind": "do",
+      "locality": "Libreville",
+      "lat": 0.40014,
+      "lon": 9.45025,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libreville",
+      "id": "gabon-e3a30aeb9f852f9e7b6c"
+    },
+    {
+      "name": "Casino Croisette",
+      "kind": "do",
+      "locality": "Libreville",
+      "lat": 0.38945,
+      "lon": 9.44306,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libreville",
+      "id": "gabon-208d7d8ea7b4a5c051f7"
+    },
+    {
+      "name": "Life By Mayena",
+      "kind": "eat",
+      "locality": "Libreville",
+      "lat": 0.43666,
+      "lon": 9.41809,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libreville",
+      "id": "gabon-81e9f3efa67c21512506"
+    },
+    {
+      "name": "Le Shalimar",
+      "kind": "eat",
+      "locality": "Libreville",
+      "lat": 0.39782,
+      "lon": 9.44517,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libreville",
+      "address": "Rue d'Alsace",
+      "id": "gabon-9938f7729a3e3dd0ad41"
+    },
+    {
+      "name": "Roma Restaurant & Hotel",
+      "kind": "eat",
+      "locality": "Libreville",
+      "lat": 0.41046,
+      "lon": 9.43082,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libreville",
+      "url": "http://www.romalibreville.com/",
+      "id": "gabon-7bec44b87aca0317df92"
+    },
+    {
+      "name": "No Stress",
+      "kind": "eat",
+      "locality": "Libreville",
+      "lat": 0.40621,
+      "lon": 9.43306,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libreville",
+      "id": "gabon-f97f2a14a5470ed69fa3"
+    },
+    {
+      "name": "VIP",
+      "kind": "eat",
+      "locality": "Libreville",
+      "lat": 0.40919,
+      "lon": 9.43271,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libreville",
+      "id": "gabon-a294fb063b5442ab5c10"
+    },
+    {
+      "name": "Hype Bar Lounge",
+      "kind": "eat",
+      "locality": "Libreville",
+      "lat": 0.39707,
+      "lon": 9.44501,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libreville",
+      "id": "gabon-1bfceab66c97e540ba58"
+    },
+    {
+      "name": "Code Bar",
+      "kind": "eat",
+      "locality": "Libreville",
+      "lat": 0.37602,
+      "lon": 9.4551,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libreville",
+      "id": "gabon-d0cb98d76c972b926b22"
+    },
+    {
+      "name": "Radisson Blu Okoume Palace Hotel",
+      "kind": "stay",
+      "locality": "Libreville",
+      "lat": 0.42981,
+      "lon": 9.4203,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libreville",
+      "address": "Boulevard de Nice",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-libreville-okoume",
+      "id": "gabon-c2e782e900becb74ee47"
+    },
+    {
+      "name": "Park Inn by Radisson Libreville",
+      "kind": "stay",
+      "locality": "Libreville",
+      "lat": 0.43038,
+      "lon": 9.41987,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libreville",
+      "address": "5 Boulevard de Nice",
+      "url": "https://www.radissonhotels.com/en-us/hotels/park-inn-libreville",
+      "id": "gabon-221fb1979866cb6445fe"
+    },
+    {
+      "name": "Tropicana",
+      "kind": "stay",
+      "locality": "Libreville",
+      "lat": 0.44924,
+      "lon": 9.41205,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libreville",
+      "price": "30,000XAF",
+      "id": "gabon-53a3ac695dabd5dc7aa0"
+    },
+    {
+      "name": "Le Dorian/Hotel Leet",
+      "kind": "stay",
+      "locality": "Libreville",
+      "lat": 0.39674,
+      "lon": 9.44622,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libreville",
+      "url": "https://leetdorianhotel.net/",
+      "id": "gabon-047fb7df9bb263911214"
+    },
+    {
+      "name": "Hôtel Lotus Bleu",
+      "kind": "stay",
+      "locality": "Libreville",
+      "lat": 0.39707,
+      "lon": 9.44219,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libreville",
+      "id": "gabon-c71ea27357c941918cc1"
+    },
+    {
+      "name": "Hotel Kreg Le Patio",
+      "kind": "stay",
+      "locality": "Libreville",
+      "lat": 0.40889,
+      "lon": 9.43408,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libreville",
+      "price": "€60",
+      "id": "gabon-0fdf9c4901fe0664f38e"
+    },
+    {
+      "name": "Residence Hoteliere Le Jomonia",
+      "kind": "stay",
+      "locality": "Libreville",
+      "lat": 0.43423,
+      "lon": 9.43289,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libreville",
+      "address": "Avenue Emma Adende Akire Odibi",
+      "price": "€70",
+      "id": "gabon-05c0930335ecd9eaf748"
+    },
+    {
+      "name": "Libreville",
+      "kind": "area",
+      "locality": "Libreville",
+      "lat": 0.394444,
+      "lon": 9.4625,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libreville",
+      "id": "gabon-1825ed9047b647b1bcb4"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

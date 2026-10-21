@@ -1,0 +1,475 @@
+{
+  "sources": [
+    {
+      "title": "Madagascar",
+      "url": "https://en.wikivoyage.org/wiki/Madagascar",
+      "checkedAt": "2026-10-21T08:10:51.491Z"
+    },
+    {
+      "title": "Antananarivo",
+      "url": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "checkedAt": "2026-10-21T08:10:54.935Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Antananarivo",
+      "kind": "area",
+      "locality": "Madagascar",
+      "lat": -18.91,
+      "lon": 47.53,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Madagascar",
+      "id": "madagascar-2ef2c090b83850dee888"
+    },
+    {
+      "name": "Ambalavao",
+      "kind": "area",
+      "locality": "Madagascar",
+      "lat": -21.83,
+      "lon": 46.94,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Madagascar",
+      "id": "madagascar-4be88e16800c5a9743a4"
+    },
+    {
+      "name": "Ambositra",
+      "kind": "area",
+      "locality": "Madagascar",
+      "lat": -20.53,
+      "lon": 47.25,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Madagascar",
+      "id": "madagascar-2b3b74132387141f1ab2"
+    },
+    {
+      "name": "Antsirabe",
+      "kind": "area",
+      "locality": "Madagascar",
+      "lat": -19.87,
+      "lon": 47.03,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Madagascar",
+      "id": "madagascar-a8ad11058ed0ee5c518f"
+    },
+    {
+      "name": "Fianarantsoa",
+      "kind": "area",
+      "locality": "Madagascar",
+      "lat": -21.45,
+      "lon": 47.09,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Madagascar",
+      "id": "madagascar-77f8ebe73440d9083036"
+    },
+    {
+      "name": "Ihosy",
+      "kind": "area",
+      "locality": "Madagascar",
+      "lat": -22.41,
+      "lon": 46.13,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Madagascar",
+      "id": "madagascar-68a265546160f59ba237"
+    },
+    {
+      "name": "Morondava",
+      "kind": "area",
+      "locality": "Madagascar",
+      "lat": -20.29,
+      "lon": 44.28,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Madagascar",
+      "id": "madagascar-a0efe53cde763a5a6c17"
+    },
+    {
+      "name": "Taolagnaro",
+      "kind": "area",
+      "locality": "Madagascar",
+      "lat": -25.03,
+      "lon": 46.99,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Madagascar",
+      "id": "madagascar-e132ffe9ef77ef977e0a"
+    },
+    {
+      "name": "Toliara",
+      "kind": "area",
+      "locality": "Madagascar",
+      "lat": -23.35,
+      "lon": 43.67,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Madagascar",
+      "id": "madagascar-000ca90d28f0b18861b4"
+    },
+    {
+      "name": "Tsingy de Bemaraha Strict Nature Reserve",
+      "kind": "do",
+      "locality": "Madagascar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Madagascar",
+      "id": "madagascar-390ff68690e4b38dfef0"
+    },
+    {
+      "name": "Avenue of the Baobabs",
+      "kind": "do",
+      "locality": "Madagascar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Madagascar",
+      "id": "madagascar-3d772bc2ffbe4b46c329"
+    },
+    {
+      "name": "Rova",
+      "kind": "do",
+      "locality": "Antananarivo",
+      "lat": -18.92378,
+      "lon": 47.53206,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "id": "madagascar-bddd10c9650e89b2e537"
+    },
+    {
+      "name": "Prime Minister's Palace",
+      "kind": "do",
+      "locality": "Antananarivo",
+      "lat": -18.92125,
+      "lon": 47.53295,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "price": "3,000 Ar",
+      "id": "madagascar-47ed3094f89fe72ba247"
+    },
+    {
+      "name": "Lemurs' Park",
+      "kind": "do",
+      "locality": "Antananarivo",
+      "lat": -18.95271,
+      "lon": 47.35828,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "address": "Route Nationale n°1, PK 22, Katsaoka Imerintsiatosika - Route d'Ampefy",
+      "price": "70,000 Ar/person including the guide",
+      "url": "http://www.lemurspark.com/",
+      "id": "madagascar-d4b5018e6ec430350213"
+    },
+    {
+      "name": "Croc Farm",
+      "kind": "do",
+      "locality": "Antananarivo",
+      "lat": -18.78455,
+      "lon": 47.46361,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "price": "25,000 Ar",
+      "id": "madagascar-81aa81935d645e2cbe0f"
+    },
+    {
+      "name": "Botanical and Zoological Garden of Tsimbazaza",
+      "kind": "do",
+      "locality": "Antananarivo",
+      "lat": -18.93095,
+      "lon": 47.52609,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "url": "http://pbzt.recherches.gov.mg/",
+      "id": "madagascar-4ae143faede7bdbfd0cb"
+    },
+    {
+      "name": "Cathedrale catholique d Andohalo",
+      "kind": "do",
+      "locality": "Antananarivo",
+      "lat": -18.91792,
+      "lon": 47.5307,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "address": "Lalana Justin Rajoro",
+      "url": "http://www.cathedraleandohalo.com/",
+      "id": "madagascar-c1f55dc1a0d2122532cc"
+    },
+    {
+      "name": "Museum of Art and Archaeology",
+      "kind": "do",
+      "locality": "Antananarivo",
+      "lat": -18.9145,
+      "lon": 47.55188,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "id": "madagascar-81977dc232b411eff197"
+    },
+    {
+      "name": "Independence Avenue",
+      "kind": "do",
+      "locality": "Antananarivo",
+      "lat": -18.9057,
+      "lon": 47.5231,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "id": "madagascar-bc618d177c00f2fb6a52"
+    },
+    {
+      "name": "Jean Be Tours",
+      "kind": "do",
+      "locality": "Antananarivo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "address": "Lot IVD 63 Ter AA, Ambohibahiny, Ankaraobato",
+      "url": "https://www.jeanbetours.com/",
+      "id": "madagascar-4378a622c4361ece48ba"
+    },
+    {
+      "name": "Mada-Liberté Off Road Motorcycle Tours in Madagascar (4WD Off Road Tours)",
+      "kind": "do",
+      "locality": "Antananarivo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "id": "madagascar-c46d20c39db201036111"
+    },
+    {
+      "name": "La Table de Mariette",
+      "kind": "eat",
+      "locality": "Antananarivo",
+      "lat": -18.90708,
+      "lon": 47.52951,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "address": "11 rue George-V-Faravohitra",
+      "id": "madagascar-b8f16e89732d7306396b"
+    },
+    {
+      "name": "Ile Bourbon",
+      "kind": "eat",
+      "locality": "Antananarivo",
+      "lat": -18.90852,
+      "lon": 47.51693,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "id": "madagascar-f8aac2732d7e71fa0cdc"
+    },
+    {
+      "name": "La Brasserie at the France Hotel",
+      "kind": "eat",
+      "locality": "Antananarivo",
+      "lat": -18.90674,
+      "lon": 47.52371,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "address": "34 Ave de l'Independence",
+      "id": "madagascar-7946ee762c21eb765127"
+    },
+    {
+      "name": "Grill De Rova",
+      "kind": "eat",
+      "locality": "Antananarivo",
+      "lat": -18.92196,
+      "lon": 47.53262,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "address": "Near Palace de Rova",
+      "id": "madagascar-39b03d5ac56a58383e86"
+    },
+    {
+      "name": "KudeTa",
+      "kind": "eat",
+      "locality": "Antananarivo",
+      "lat": -18.91145,
+      "lon": 47.5212,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "address": "16 rue de la Reunion",
+      "id": "madagascar-c97f9696b71d5cd65947"
+    },
+    {
+      "name": "Jasmin",
+      "kind": "eat",
+      "locality": "Antananarivo",
+      "lat": -18.90166,
+      "lon": 47.52875,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "address": "Palace Analakely 101 Antananarivo",
+      "price": "€7 for two courses and drink",
+      "id": "madagascar-2c7ad137325497e0ecc2"
+    },
+    {
+      "name": "Madagascar Underground Backpackers Hostel",
+      "kind": "stay",
+      "locality": "Antananarivo",
+      "lat": -18.90991,
+      "lon": 47.52346,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "address": "18 Lalana Rainitovo",
+      "price": "Dorm beds 45,000 Ar per person. Double rooms from 55000-80,000 Ar",
+      "url": "http://madagascarunderground.com/",
+      "id": "madagascar-735bf613d1234e5c6d5f"
+    },
+    {
+      "name": "Hotel Moonlight",
+      "kind": "stay",
+      "locality": "Antananarivo",
+      "lat": -18.905,
+      "lon": 47.52693,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "address": "62 Rue Rainandriamampandry",
+      "price": "from 30,000 till 55,000 Ar",
+      "id": "madagascar-87e7c3b3721f051cf28e"
+    },
+    {
+      "name": "Hotel Niaouly",
+      "kind": "stay",
+      "locality": "Antananarivo",
+      "lat": -18.91405,
+      "lon": 47.52923,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "address": "Laiana Tsiombikibo",
+      "price": "From 55,000",
+      "url": "http://www.niaouly.com/",
+      "id": "madagascar-24ec0e05b7b5ea57dc31"
+    },
+    {
+      "name": "Hotel Chez Francis",
+      "kind": "stay",
+      "locality": "Antananarivo",
+      "lat": -18.90714,
+      "lon": 47.52798,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "address": "Soarano",
+      "price": "From 55,000 Ar",
+      "url": "http://hotel-chezfrancis.com/",
+      "id": "madagascar-29cfadb74407cf18d12f"
+    },
+    {
+      "name": "El Mundo Hotel",
+      "kind": "stay",
+      "locality": "Antananarivo",
+      "lat": -18.90691,
+      "lon": 47.52651,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "address": "Lalana Ranafits Rahoerason",
+      "price": "35,000 Ar",
+      "id": "madagascar-c4556d4d8f099ea1da5e"
+    },
+    {
+      "name": "Aina Hotel",
+      "kind": "stay",
+      "locality": "Antananarivo",
+      "lat": -18.91096,
+      "lon": 47.52632,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "address": "17 Lalana Ratsimilaho",
+      "price": "76,000 Ar",
+      "id": "madagascar-8a31126a44ae90c550c1"
+    },
+    {
+      "name": "Andravoahangy hotel",
+      "kind": "stay",
+      "locality": "Antananarivo",
+      "lat": -18.89796,
+      "lon": 47.5306,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "address": "Rue Me Albertini",
+      "price": "35,000 Ar",
+      "id": "madagascar-7aec94d3254b9704ad3e"
+    },
+    {
+      "name": "Villa Ny Telomiova",
+      "kind": "stay",
+      "locality": "Antananarivo",
+      "lat": -18.8425,
+      "lon": 47.46867,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "address": "Imerinafovoany-talatamaty Lot 5B",
+      "price": "dorm bed 30,000Ar",
+      "id": "madagascar-25a32058147e6ed83121"
+    },
+    {
+      "name": "Manoir Rouge",
+      "kind": "stay",
+      "locality": "Antananarivo",
+      "lat": -18.80718,
+      "lon": 47.4808,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "address": "Ivato airport",
+      "price": "dorm bed €4, single room €7, double room €9 (shared bath) or €15 (private bath)",
+      "id": "madagascar-a6784cfc3c7fc3636b2c"
+    },
+    {
+      "name": "Le Logis",
+      "kind": "stay",
+      "locality": "Antananarivo",
+      "lat": -18.9076,
+      "lon": 47.5188,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "price": "75,000 Ar",
+      "url": "http://www.hotel-lelogis.com/",
+      "id": "madagascar-bcdafd72335366fc67fc"
+    },
+    {
+      "name": "Karibotel",
+      "kind": "stay",
+      "locality": "Antananarivo",
+      "lat": -18.9061,
+      "lon": 47.5231,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "price": "€40 for double",
+      "id": "madagascar-ade953e417716bb8567e"
+    },
+    {
+      "name": "La Maison du Pyla",
+      "kind": "stay",
+      "locality": "Antananarivo",
+      "lat": -18.9177,
+      "lon": 47.5455,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "price": "105,000 Ar for a double room with ensuite bathroom",
+      "url": "http://www.lamaisondupyla.com/en",
+      "id": "madagascar-05c804d09b64af49874b"
+    },
+    {
+      "name": "Relais des Plateaux",
+      "kind": "stay",
+      "locality": "Antananarivo",
+      "lat": -18.834,
+      "lon": 47.4627,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "address": "Lot 66 B Antanetibe Ivato",
+      "url": "http://www.relais-des-plateaux.com/en",
+      "id": "madagascar-7a5589af0350019cbbeb"
+    },
+    {
+      "name": "La Ribaudière",
+      "kind": "stay",
+      "locality": "Antananarivo",
+      "lat": -18.9098,
+      "lon": 47.5263,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "id": "madagascar-a299c34d3dffb67838a5"
+    },
+    {
+      "name": "A L'Hotel",
+      "kind": "stay",
+      "locality": "Antananarivo",
+      "lat": -18.9199,
+      "lon": 47.5369,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "address": "Vf 12 Ankazotokana Ambanidia",
+      "url": "https://m.facebook.com/profile.php?id=100063836352595",
+      "id": "madagascar-24a6a15a9786b2967909"
+    },
+    {
+      "name": "Sakamanga",
+      "kind": "stay",
+      "locality": "Antananarivo",
+      "lat": -18.908261,
+      "lon": 47.521297,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "price": "€19-98, breakfast not included, Visa accepted",
+      "url": "http://www.sakamanga.com/",
+      "id": "madagascar-b20cda621761c7d7b03d"
+    },
+    {
+      "name": "Hotel Carlton Madagascar",
+      "kind": "stay",
+      "locality": "Antananarivo",
+      "lat": -18.9151,
+      "lon": 47.5179,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "address": "Rue Pierre Stibbe-Anosy 959",
+      "url": "https://www.carlton-madagascar.com/en/",
+      "id": "madagascar-48ab167e25e9db6cc2e6"
+    },
+    {
+      "name": "Hotel Colbert",
+      "kind": "stay",
+      "locality": "Antananarivo",
+      "lat": -18.9109,
+      "lon": 47.5255,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "url": "https://www.hotel-restaurant-colbert.com/",
+      "id": "madagascar-9982380c2e8a683695e3"
+    },
+    {
+      "name": "Antananarivo",
+      "kind": "area",
+      "locality": "Antananarivo",
+      "lat": -18.91,
+      "lon": 47.52,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Antananarivo",
+      "id": "madagascar-c118a6124756ca6c68e6"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

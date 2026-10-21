@@ -1,0 +1,361 @@
+{
+  "sources": [
+    {
+      "title": "Angola",
+      "url": "https://en.wikivoyage.org/wiki/Angola",
+      "checkedAt": "2026-10-21T08:08:14.510Z"
+    },
+    {
+      "title": "Luanda",
+      "url": "https://en.wikivoyage.org/wiki/Luanda",
+      "checkedAt": "2026-10-21T08:08:17.692Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Luanda",
+      "kind": "area",
+      "locality": "Angola",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angola",
+      "id": "angola-efd57f4a1dac999bf61e"
+    },
+    {
+      "name": "Benguela",
+      "kind": "area",
+      "locality": "Angola",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angola",
+      "id": "angola-173c9aed424808ab97dc"
+    },
+    {
+      "name": "Cabinda",
+      "kind": "area",
+      "locality": "Angola",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angola",
+      "id": "angola-a0027a744f9a6f958b6c"
+    },
+    {
+      "name": "Huambo",
+      "kind": "area",
+      "locality": "Angola",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angola",
+      "id": "angola-37f729e449b5c81d2b6d"
+    },
+    {
+      "name": "Lobito",
+      "kind": "area",
+      "locality": "Angola",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angola",
+      "id": "angola-b31879f2d21b09d24786"
+    },
+    {
+      "name": "M'banza-Kongo",
+      "kind": "area",
+      "locality": "Angola",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angola",
+      "id": "angola-ea4db61e8b14188f0b5f"
+    },
+    {
+      "name": "Lubango",
+      "kind": "area",
+      "locality": "Angola",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angola",
+      "id": "angola-323cf60f38565cedfb25"
+    },
+    {
+      "name": "Malanje",
+      "kind": "area",
+      "locality": "Angola",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angola",
+      "id": "angola-6160b123cea46f44a8f9"
+    },
+    {
+      "name": "Menongue",
+      "kind": "area",
+      "locality": "Angola",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angola",
+      "id": "angola-5a47c2c357259b9079ea"
+    },
+    {
+      "name": "Namibe",
+      "kind": "area",
+      "locality": "Angola",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Angola",
+      "id": "angola-1a211e5a0b6a7b9714b0"
+    },
+    {
+      "name": "Fortress of São Miguel",
+      "kind": "do",
+      "locality": "Luanda",
+      "lat": -8.808302,
+      "lon": 13.223428,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luanda",
+      "address": "Calçada de S. Miguel",
+      "id": "angola-ec0bccd68aba2101ec26"
+    },
+    {
+      "name": "São Pedro da Barra Fortress",
+      "kind": "do",
+      "locality": "Luanda",
+      "lat": -8.773356,
+      "lon": 13.286187,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luanda",
+      "id": "angola-12da647540968c5cf7e4"
+    },
+    {
+      "name": "Museum of Money",
+      "kind": "do",
+      "locality": "Luanda",
+      "lat": -8.81101,
+      "lon": 13.23337,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luanda",
+      "address": "Av. 4 de Fevereiro 151",
+      "url": "http://www.museudamoeda.bna.ao/",
+      "id": "angola-e27653f95d93a15bfd9f"
+    },
+    {
+      "name": "National Museum of Slavery",
+      "kind": "do",
+      "locality": "Luanda",
+      "lat": -8.96047,
+      "lon": 13.105364,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luanda",
+      "id": "angola-aee9f1188a25a71741ba"
+    },
+    {
+      "name": "National Museum of Natural History",
+      "kind": "do",
+      "locality": "Luanda",
+      "lat": -8.815181,
+      "lon": 13.238367,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luanda",
+      "address": "Nossa Senhora da Muxima",
+      "id": "angola-c2e150e3b4d8854aec9d"
+    },
+    {
+      "name": "National Museum of Anthropology",
+      "kind": "do",
+      "locality": "Luanda",
+      "lat": -8.817053,
+      "lon": 13.23754,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luanda",
+      "address": "Av. de Portugal 61",
+      "price": "Free",
+      "url": "http://www.museuantropologia.angoladigital.net/",
+      "id": "angola-e9f3c490b832cb20e052"
+    },
+    {
+      "name": "Igreja do Carmo",
+      "kind": "do",
+      "locality": "Luanda",
+      "lat": -8.816205,
+      "lon": 13.232977,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luanda",
+      "id": "angola-c7a7d2bf8bc3a0896dbc"
+    },
+    {
+      "name": "Igreja da Nazare",
+      "kind": "do",
+      "locality": "Luanda",
+      "lat": -8.80808,
+      "lon": 13.239376,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luanda",
+      "id": "angola-74d37ef21730e6585cc6"
+    },
+    {
+      "name": "Church of Our Lady of Remedies",
+      "kind": "do",
+      "locality": "Luanda",
+      "lat": -8.81377,
+      "lon": 13.22974,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luanda",
+      "id": "angola-21418a1533d9bdb43fc6"
+    },
+    {
+      "name": "Agostinho Neto Mausoleum",
+      "kind": "do",
+      "locality": "Luanda",
+      "lat": -8.823789,
+      "lon": 13.218918,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luanda",
+      "id": "angola-ab9920c9bc186bfb554a"
+    },
+    {
+      "name": "Old Town",
+      "kind": "do",
+      "locality": "Luanda",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luanda",
+      "id": "angola-6dc1ace66a8f39628e46"
+    },
+    {
+      "name": "Panela de Barro",
+      "kind": "eat",
+      "locality": "Luanda",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luanda",
+      "address": "R. Emílio M'Bidi",
+      "id": "angola-061b71c7350f0889cd45"
+    },
+    {
+      "name": "Chez Wou",
+      "kind": "eat",
+      "locality": "Luanda",
+      "lat": -8.8008,
+      "lon": 13.2228,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luanda",
+      "address": "Av. Mortala Mohamed 50 R/C Ilha do Cabo",
+      "id": "angola-39906648dc6f6fac9c5c"
+    },
+    {
+      "name": "Macau Restaurante",
+      "kind": "eat",
+      "locality": "Luanda",
+      "lat": -8.767,
+      "lon": 13.2554,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luanda",
+      "address": "Avenida Mortala Mohamede Ilha",
+      "url": "https://www.facebook.com/macau.ilha/",
+      "id": "angola-588c5ed8b14cb3811531"
+    },
+    {
+      "name": "Vista Da Fortaleza",
+      "kind": "eat",
+      "locality": "Luanda",
+      "lat": -8.8075,
+      "lon": 13.2179,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luanda",
+      "address": "Rua Massano de Amorim, Chicala 1",
+      "id": "angola-b620fce728a67b45f8ce"
+    },
+    {
+      "name": "A Nossa Sombra",
+      "kind": "eat",
+      "locality": "Luanda",
+      "lat": -8.81566,
+      "lon": 13.23835,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luanda",
+      "address": "Rua da Missão, corner with Rua Gamal Abdel Nasser",
+      "id": "angola-afc865eb5ebc77869068"
+    },
+    {
+      "name": "Restaurante Café Del Mar",
+      "kind": "eat",
+      "locality": "Luanda",
+      "lat": -8.764346,
+      "lon": 13.258309,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luanda",
+      "address": "Av Murtala Mohamed",
+      "url": "http://cafedelmar.co.ao/",
+      "id": "angola-8e7050813713ad512365"
+    },
+    {
+      "name": "Beer Burger & Beef",
+      "kind": "eat",
+      "locality": "Luanda",
+      "lat": -8.795228,
+      "lon": 13.225456,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luanda",
+      "address": "Av Murtala Mohamed",
+      "url": "https://www.instagram.com/bbbcervejaria/",
+      "id": "angola-af3785a6315efce07354"
+    },
+    {
+      "name": "Pimms",
+      "kind": "eat",
+      "locality": "Luanda",
+      "lat": -8.8328,
+      "lon": 13.2364,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luanda",
+      "address": "Rua Emílio M’Bidi, nº 112",
+      "url": "https://www.pimmsangola.com/",
+      "id": "angola-3ab0db8e88cb9d5ba80d"
+    },
+    {
+      "name": "Inn Luanda",
+      "kind": "stay",
+      "locality": "Luanda",
+      "lat": -8.821662,
+      "lon": 13.251759,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luanda",
+      "address": "Rua Francisco Sá de Miranda, nº 50",
+      "price": "Single $225, Double $245, Triple $275",
+      "url": "http://www.innluanda.com/",
+      "id": "angola-fe0511359f7bdfca7aab"
+    },
+    {
+      "name": "Art House",
+      "kind": "stay",
+      "locality": "Luanda",
+      "lat": -8.77193,
+      "lon": 13.2507,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luanda",
+      "address": "Av. Murtala Mohamed",
+      "price": "Kz 55469",
+      "url": "http://www.thomsonarthouse.com/",
+      "id": "angola-b01dd6217dc8e9ad4404"
+    },
+    {
+      "name": "Casas de Luanda-GH Kinaxixe",
+      "kind": "stay",
+      "locality": "Luanda",
+      "lat": -8.81505,
+      "lon": 13.23822,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luanda",
+      "price": "Kz 56079",
+      "url": "http://casasdeluanda.com/",
+      "id": "angola-7434a74985762310cba8"
+    },
+    {
+      "name": "Hotel Tropico",
+      "kind": "stay",
+      "locality": "Luanda",
+      "lat": -8.81539,
+      "lon": 13.23702,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luanda",
+      "price": "Kz 202981",
+      "id": "angola-e6bb054bb82e60e25306"
+    },
+    {
+      "name": "Hotel Presidente",
+      "kind": "stay",
+      "locality": "Luanda",
+      "lat": -8.803591,
+      "lon": 13.24209,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luanda",
+      "address": "Largo 17 de Setembro nº4",
+      "url": "http://www.hotelpresidenteluanda.com/",
+      "id": "angola-65aee81ab04f8496234b"
+    },
+    {
+      "name": "Rouxinol Luxury Guesthouse",
+      "kind": "stay",
+      "locality": "Luanda",
+      "lat": -8.814977173715164,
+      "lon": 13.2430100440979,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luanda",
+      "address": "Beco de Moçambique nº 16, Bairro Cruzeiro",
+      "price": "$180-400",
+      "url": "https://www.facebook.com/RouxinolBoutiqueHotel/",
+      "id": "angola-00dce60fd310224e42a1"
+    },
+    {
+      "name": "Alvalade Hotel",
+      "kind": "stay",
+      "locality": "Luanda",
+      "lat": -8.83518,
+      "lon": 13.23318,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luanda",
+      "price": "Kz 179818",
+      "id": "angola-d1abdb7a678caa2d389f"
+    },
+    {
+      "name": "Luanda",
+      "kind": "area",
+      "locality": "Luanda",
+      "lat": -8.83833,
+      "lon": 13.23444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luanda",
+      "id": "angola-3a29ab4429c18e5dfe96"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

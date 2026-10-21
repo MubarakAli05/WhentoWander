@@ -1,0 +1,319 @@
+{
+  "sources": [
+    {
+      "title": "Zambia",
+      "url": "https://en.wikivoyage.org/wiki/Zambia",
+      "checkedAt": "2026-10-21T08:13:19.838Z"
+    },
+    {
+      "title": "Lusaka",
+      "url": "https://en.wikivoyage.org/wiki/Lusaka",
+      "checkedAt": "2026-10-21T08:13:22.588Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Lusaka",
+      "kind": "area",
+      "locality": "Zambia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zambia",
+      "id": "zambia-367e6932c072495057cd"
+    },
+    {
+      "name": "Chingola",
+      "kind": "area",
+      "locality": "Zambia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zambia",
+      "id": "zambia-4031c6b03c0e9da3c16f"
+    },
+    {
+      "name": "Chipata",
+      "kind": "area",
+      "locality": "Zambia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zambia",
+      "id": "zambia-d7775ede7a588fe197d5"
+    },
+    {
+      "name": "Kabwe",
+      "kind": "area",
+      "locality": "Zambia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zambia",
+      "id": "zambia-d18d10eb49ab180166fc"
+    },
+    {
+      "name": "Kasama",
+      "kind": "area",
+      "locality": "Zambia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zambia",
+      "id": "zambia-0043207ff0455bdd1273"
+    },
+    {
+      "name": "Kitwe",
+      "kind": "area",
+      "locality": "Zambia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zambia",
+      "id": "zambia-67dacccf78a758a1a360"
+    },
+    {
+      "name": "Livingstone",
+      "kind": "area",
+      "locality": "Zambia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zambia",
+      "id": "zambia-5615d4d3f3029889cec3"
+    },
+    {
+      "name": "Ndola",
+      "kind": "area",
+      "locality": "Zambia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zambia",
+      "id": "zambia-ad607e3f331890aa0a89"
+    },
+    {
+      "name": "Mongu",
+      "kind": "area",
+      "locality": "Zambia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zambia",
+      "id": "zambia-248e26745f5403deba34"
+    },
+    {
+      "name": "Anglican Cathedral of the Holy Cross",
+      "kind": "do",
+      "locality": "Lusaka",
+      "lat": -15.41882,
+      "lon": 28.30372,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lusaka",
+      "address": "3 Chikwa Road",
+      "url": "http://www.anglicancathedraloflusaka.com/",
+      "id": "zambia-969c51ddfd485c023a98"
+    },
+    {
+      "name": "Henry Tayali Gallery",
+      "kind": "do",
+      "locality": "Lusaka",
+      "lat": -15.397,
+      "lon": 28.3128,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lusaka",
+      "address": "Lion Lane Street",
+      "url": "https://henrytayaliartgallery.wordpress.com/",
+      "id": "zambia-fc8cd4849d55940d9e09"
+    },
+    {
+      "name": "Munda Wanga Environmental Park",
+      "kind": "do",
+      "locality": "Lusaka",
+      "lat": -15.56178,
+      "lon": 28.27192,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lusaka",
+      "price": "K30",
+      "url": "https://www.facebook.com/Munda.Wanga.Environmental.Park/",
+      "id": "zambia-2e8551eb3089422271aa"
+    },
+    {
+      "name": "Lilayi Lodge",
+      "kind": "do",
+      "locality": "Lusaka",
+      "lat": -15.54108,
+      "lon": 28.33803,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lusaka",
+      "address": "Lilayi Road",
+      "url": "https://www.lilayi.com/",
+      "id": "zambia-a7305fff3c6b22ed0956"
+    },
+    {
+      "name": "Lusaka National Museum",
+      "kind": "do",
+      "locality": "Lusaka",
+      "lat": -15.42188,
+      "lon": 28.29132,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lusaka",
+      "address": "Independence Ave",
+      "price": "K131",
+      "url": "http://www.museumszambia.org/",
+      "id": "zambia-ef2b60570fa823400fb2"
+    },
+    {
+      "name": "Freedom Statue",
+      "kind": "do",
+      "locality": "Lusaka",
+      "lat": -15.42301,
+      "lon": 28.29044,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lusaka",
+      "id": "zambia-e3c8a88dc3685de94c32"
+    },
+    {
+      "name": "Kabwata Cultural Village",
+      "kind": "do",
+      "locality": "Lusaka",
+      "lat": -15.43241,
+      "lon": 28.30524,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lusaka",
+      "address": "Burma Road",
+      "id": "zambia-bbde3b3fb46d66f63911"
+    },
+    {
+      "name": "Kalimba Reptile Park",
+      "kind": "do",
+      "locality": "Lusaka",
+      "lat": -15.30225,
+      "lon": 28.36214,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lusaka",
+      "price": "K50",
+      "id": "zambia-759a91f77db8dfd3547d"
+    },
+    {
+      "name": "Lusaka National Park",
+      "kind": "do",
+      "locality": "Lusaka",
+      "lat": -15.5204,
+      "lon": 28.4247,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lusaka",
+      "id": "zambia-155454219a5041330c86"
+    },
+    {
+      "name": "Arirang Korean Restaurant",
+      "kind": "eat",
+      "locality": "Lusaka",
+      "lat": -15.404605833214426,
+      "lon": 28.324754138845446,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lusaka",
+      "address": "H8VF+RWV",
+      "id": "zambia-cf7ad689804df6dbc751"
+    },
+    {
+      "name": "Marlin Restaurant",
+      "kind": "eat",
+      "locality": "Lusaka",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lusaka",
+      "url": "http://thebestofzambia.com/leisure/food-and-drink/restaurants/marlin-restaurant/",
+      "id": "zambia-6e0b67f19ef54b3ee13d"
+    },
+    {
+      "name": "Melsim Lodge Ethiopian Restaurant",
+      "kind": "eat",
+      "locality": "Lusaka",
+      "lat": -15.40801,
+      "lon": 28.32935,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lusaka",
+      "address": "Alick Nkhata Rd",
+      "price": "Meal costs around K50,000 per person",
+      "url": "http://thebestofzambia.com/leisure/food-and-drink/restaurants/melsim-lodge/",
+      "id": "zambia-1e578e6886b6f54950ae"
+    },
+    {
+      "name": "Mint Cafe",
+      "kind": "eat",
+      "locality": "Lusaka",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lusaka",
+      "address": "Arcades Mall Lusaka",
+      "id": "zambia-42a05860b6003dec1323"
+    },
+    {
+      "name": "The Cha Bar",
+      "kind": "eat",
+      "locality": "Lusaka",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lusaka",
+      "address": "161 Mulobwa Close, Fairview",
+      "id": "zambia-117099d023218e2f52bb"
+    },
+    {
+      "name": "Flintstones Backpackers",
+      "kind": "stay",
+      "locality": "Lusaka",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lusaka",
+      "address": "Plot 9965 Makata close",
+      "price": "US$5/7/15/22",
+      "url": "http://www.flintstonesbackpackers.com/",
+      "id": "zambia-04ab8abe84e87a29e38a"
+    },
+    {
+      "name": "Pioneer Camp",
+      "kind": "stay",
+      "locality": "Lusaka",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lusaka",
+      "price": "US$12 per person",
+      "url": "http://www.pioneercampzambia.com/",
+      "id": "zambia-2e6c3dc1ffecf9778ca6"
+    },
+    {
+      "name": "Natwange Backpackers",
+      "kind": "stay",
+      "locality": "Lusaka",
+      "lat": -15.3856,
+      "lon": 28.31804,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lusaka",
+      "address": "20 Kariba, Kalundu",
+      "price": "Dorm: US$10, private single w/ bathroom: US$45",
+      "url": "http://www.natwangebackpackers.com/",
+      "id": "zambia-7792110b11ece55949e3"
+    },
+    {
+      "name": "Fish Eagle Backpackers",
+      "kind": "stay",
+      "locality": "Lusaka",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lusaka",
+      "address": "159 Mwambula Road Jesmondine Lusaka",
+      "price": "dorm $8 room from $15",
+      "id": "zambia-e8e0a983e0ce69fc212c"
+    },
+    {
+      "name": "Magodi Lodge",
+      "kind": "stay",
+      "locality": "Lusaka",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lusaka",
+      "price": "from K250",
+      "id": "zambia-c7a4b62868f2332ef12f"
+    },
+    {
+      "name": "Hilton Garden Inn Lusaka Society Business Park",
+      "kind": "stay",
+      "locality": "Lusaka",
+      "lat": -15.41796,
+      "lon": 28.2816,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lusaka",
+      "address": "Cairo Road Lusaka ZM",
+      "url": "https://www.hilton.com/en/hotels/lunccgi-hilton-garden-inn-lusaka-society-business-park/?WT.mc_id=zVSEC0ZM1GI2NaturalSearch3GoogleMyBusiness4uau-lusaka_Jul5luau6LUNCCGI7EN8i1",
+      "id": "zambia-4c3fba545a8eaa154e9c"
+    },
+    {
+      "name": "Fallsway Suites",
+      "kind": "stay",
+      "locality": "Lusaka",
+      "lat": -15.4098,
+      "lon": 28.32397,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lusaka",
+      "address": "off Alick Nkhata rd. Massmedia",
+      "url": "http://fallswayapartments.com/",
+      "id": "zambia-d6d355e3e3a17762b7ee"
+    },
+    {
+      "name": "Radisson Blu Hotel",
+      "kind": "stay",
+      "locality": "Lusaka",
+      "lat": -15.38956,
+      "lon": 28.3167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lusaka",
+      "address": "19029 Great East Road",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-lusaka?cid=a:se+b:gmb+c:emea+i:local+e:rdb+d:mea+h:LUNZH",
+      "id": "zambia-d4e3b2161b9510fe4612"
+    },
+    {
+      "name": "The Pamodzi Hotel",
+      "kind": "stay",
+      "locality": "Lusaka",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lusaka",
+      "url": "https://www.tajhotels.com/en-in/taj/taj-pamodzi-lusaka/",
+      "id": "zambia-8894200238ef653d7201"
+    },
+    {
+      "name": "Lusaka",
+      "kind": "area",
+      "locality": "Lusaka",
+      "lat": -15.416667,
+      "lon": 28.283333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lusaka",
+      "id": "zambia-b6c7c19f44541cccd169"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

@@ -1,0 +1,264 @@
+{
+  "sources": [
+    {
+      "title": "South Sudan",
+      "url": "https://en.wikivoyage.org/wiki/South_Sudan",
+      "checkedAt": "2026-10-21T08:12:26.232Z"
+    },
+    {
+      "title": "Juba",
+      "url": "https://en.wikivoyage.org/wiki/Juba",
+      "checkedAt": "2026-10-21T08:12:29.202Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Juba",
+      "kind": "area",
+      "locality": "South Sudan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/South_Sudan",
+      "id": "south-sudan-c2ef6f67619f5804e1b8"
+    },
+    {
+      "name": "Aweil",
+      "kind": "area",
+      "locality": "South Sudan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/South_Sudan",
+      "id": "south-sudan-f556037d80cdae1d2b76"
+    },
+    {
+      "name": "Bentiu",
+      "kind": "area",
+      "locality": "South Sudan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/South_Sudan",
+      "id": "south-sudan-5861d9644033d952ab15"
+    },
+    {
+      "name": "Malakal",
+      "kind": "area",
+      "locality": "South Sudan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/South_Sudan",
+      "id": "south-sudan-b080a599a00aca18339d"
+    },
+    {
+      "name": "Nimule",
+      "kind": "area",
+      "locality": "South Sudan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/South_Sudan",
+      "id": "south-sudan-a20fba627c7658279870"
+    },
+    {
+      "name": "Rumbek",
+      "kind": "area",
+      "locality": "South Sudan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/South_Sudan",
+      "id": "south-sudan-c5bf7c3ee1262a0c50d2"
+    },
+    {
+      "name": "Wau",
+      "kind": "area",
+      "locality": "South Sudan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/South_Sudan",
+      "id": "south-sudan-ae7f0f897f6851f8b0d3"
+    },
+    {
+      "name": "Yambio",
+      "kind": "area",
+      "locality": "South Sudan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/South_Sudan",
+      "id": "south-sudan-fa31e3363040d905df7f"
+    },
+    {
+      "name": "Yei",
+      "kind": "area",
+      "locality": "South Sudan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/South_Sudan",
+      "id": "south-sudan-c89b7ccd1f35f8718dd3"
+    },
+    {
+      "name": "Wiltins Transporters",
+      "kind": "do",
+      "locality": "Juba",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Juba",
+      "address": "MTC Centre",
+      "url": "http://www.wiltins.com/",
+      "id": "south-sudan-a46045a7745ccc7e1c56"
+    },
+    {
+      "name": "\"Greek\" buildings",
+      "kind": "do",
+      "locality": "Juba",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Juba",
+      "id": "south-sudan-b30ba4e1e4b44b938d97"
+    },
+    {
+      "name": "Juba Stadium",
+      "kind": "do",
+      "locality": "Juba",
+      "lat": 4.843056,
+      "lon": 31.615833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Juba",
+      "id": "south-sudan-33006a9e087c233f1331"
+    },
+    {
+      "name": "John Garang Mausoleum",
+      "kind": "do",
+      "locality": "Juba",
+      "lat": 4.8492817,
+      "lon": 31.5814893,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Juba",
+      "url": "http://jubainthemaking.com/garang-mausoleum/",
+      "id": "south-sudan-14ab6f37583fbb1b5bfb"
+    },
+    {
+      "name": "St. Theresa Cathedral",
+      "kind": "do",
+      "locality": "Juba",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Juba",
+      "id": "south-sudan-0a4901c0cc5b86f56a76"
+    },
+    {
+      "name": "Da Vinci's Restaurant",
+      "kind": "eat",
+      "locality": "Juba",
+      "lat": 4.825076,
+      "lon": 31.609769,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Juba",
+      "price": "About US$30 for a meal",
+      "id": "south-sudan-cab4007db191a8e7a4c3"
+    },
+    {
+      "name": "Notos Lounge Bar & Grill",
+      "kind": "eat",
+      "locality": "Juba",
+      "lat": 4.852285,
+      "lon": 31.620235,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Juba",
+      "id": "south-sudan-af2085d4daf970b1deaf"
+    },
+    {
+      "name": "Acacia Village",
+      "kind": "stay",
+      "locality": "Juba",
+      "lat": 4.869074,
+      "lon": 31.538828,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Juba",
+      "address": "Mundri Rd, Gudele",
+      "price": "From US$195",
+      "url": "http://www.acaciavillage.com/",
+      "id": "south-sudan-1820c4ae8e32ff6e35fe"
+    },
+    {
+      "name": "AFEX Camp",
+      "kind": "stay",
+      "locality": "Juba",
+      "lat": 4.83824,
+      "lon": 31.61662,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Juba",
+      "address": "Cemetery Road, Hai Malakai",
+      "url": "https://rivercamp.afexgroup.com/",
+      "id": "south-sudan-bd92371ae30afaf82325"
+    },
+    {
+      "name": "Family hotel",
+      "kind": "stay",
+      "locality": "Juba",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Juba",
+      "address": "Muluk Rd",
+      "price": "US$20",
+      "id": "south-sudan-5fc79d023954d5b5836b"
+    },
+    {
+      "name": "Hamza Inn",
+      "kind": "stay",
+      "locality": "Juba",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Juba",
+      "address": "Near Equity Bank, Juba Town",
+      "id": "south-sudan-206a59b0cc051e0b9582"
+    },
+    {
+      "name": "Holiday Hotel",
+      "kind": "stay",
+      "locality": "Juba",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Juba",
+      "id": "south-sudan-e5c8c5dfa97cd0a0bb6a"
+    },
+    {
+      "name": "Juba Bridge Hotel",
+      "kind": "stay",
+      "locality": "Juba",
+      "lat": 4.825912,
+      "lon": 31.610166,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Juba",
+      "address": "juba",
+      "url": "http://www.jubabridgehotel.com/",
+      "id": "south-sudan-56ebe44539fe4d38d715"
+    },
+    {
+      "name": "Juba Landmark Hotel",
+      "kind": "stay",
+      "locality": "Juba",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Juba",
+      "address": "Hai Cinema Juba",
+      "price": "starts at US$100",
+      "url": "http://www.jubalandmarkhotel.com/",
+      "id": "south-sudan-5fe96d5ba806c2b89583"
+    },
+    {
+      "name": "Oasis Camp",
+      "kind": "stay",
+      "locality": "Juba",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Juba",
+      "id": "south-sudan-1f316ffcd6831c166906"
+    },
+    {
+      "name": "Quality Hotel",
+      "kind": "stay",
+      "locality": "Juba",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Juba",
+      "id": "south-sudan-6a77360e1c56d30cc752"
+    },
+    {
+      "name": "Rainbow Hotel",
+      "kind": "stay",
+      "locality": "Juba",
+      "lat": 4.85721,
+      "lon": 31.58684,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Juba",
+      "address": "28th St Bowker Boulevard, Juba, South Sudan",
+      "id": "south-sudan-efb77ac7f72209e6dfaa"
+    },
+    {
+      "name": "Summer Palace Hotel",
+      "kind": "stay",
+      "locality": "Juba",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Juba",
+      "address": "200m from Nile Commercial Bank in Juba town centre",
+      "price": "from US$100 per night, inc breakfast",
+      "url": "http://jubasummerhotel.webnode.com/",
+      "id": "south-sudan-a50e73dd7072c536d488"
+    },
+    {
+      "name": "Tulip Inn",
+      "kind": "stay",
+      "locality": "Juba",
+      "lat": 4.85994,
+      "lon": 31.60082,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Juba",
+      "address": "Hay Matar, block xvi, plot 29, Juba",
+      "url": "https://tulip-inn-juba.goldentulip.com/",
+      "id": "south-sudan-b81ebd6f5e6aad60faff"
+    },
+    {
+      "name": "Juba",
+      "kind": "area",
+      "locality": "Juba",
+      "lat": 4.85,
+      "lon": 31.6,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Juba",
+      "id": "south-sudan-5288792e52c934e903b4"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

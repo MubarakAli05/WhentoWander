@@ -1,0 +1,196 @@
+{
+  "sources": [
+    {
+      "title": "Chad",
+      "url": "https://en.wikivoyage.org/wiki/Chad",
+      "checkedAt": "2026-10-21T08:09:10.204Z"
+    },
+    {
+      "title": "N'Djamena",
+      "url": "https://en.wikivoyage.org/wiki/N'Djamena",
+      "checkedAt": "2026-10-21T08:09:13.205Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "N'Djamena",
+      "kind": "area",
+      "locality": "Chad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chad",
+      "id": "chad-9ba9c1ee4bcfe80d9dc6"
+    },
+    {
+      "name": "Moundou",
+      "kind": "area",
+      "locality": "Chad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chad",
+      "id": "chad-0a5feec49051a6ec5b02"
+    },
+    {
+      "name": "Abéché",
+      "kind": "area",
+      "locality": "Chad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chad",
+      "id": "chad-240c3e04c628e113df90"
+    },
+    {
+      "name": "Faya",
+      "kind": "area",
+      "locality": "Chad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chad",
+      "id": "chad-9645d07f7346c3c1d9d2"
+    },
+    {
+      "name": "Zakouma National Park",
+      "kind": "do",
+      "locality": "Chad",
+      "lat": 10.847778,
+      "lon": 19.647778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chad",
+      "url": "http://www.zakouma.com/",
+      "id": "chad-b809875654518874c745"
+    },
+    {
+      "name": "Oasis of Faya",
+      "kind": "do",
+      "locality": "Chad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chad",
+      "id": "chad-4b9c0cb9127ab2533097"
+    },
+    {
+      "name": "Lake Chad",
+      "kind": "do",
+      "locality": "Chad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chad",
+      "id": "chad-738c666cc38f8e58c703"
+    },
+    {
+      "name": "Chad National Museum",
+      "kind": "do",
+      "locality": "N'Djamena",
+      "lat": 12.125481,
+      "lon": 15.077383,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/N'Djamena",
+      "id": "chad-ef44fc11f5516ab9bb0f"
+    },
+    {
+      "name": "N'Djamena Grand Mosque",
+      "kind": "do",
+      "locality": "N'Djamena",
+      "lat": 12.110417,
+      "lon": 15.050833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/N'Djamena",
+      "id": "chad-1c86e2abf2267f3fda32"
+    },
+    {
+      "name": "Avenue Charles de Gaulle",
+      "kind": "do",
+      "locality": "N'Djamena",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/N'Djamena",
+      "id": "chad-d5196dd8163e80cd597c"
+    },
+    {
+      "name": "Cote Jardin",
+      "kind": "eat",
+      "locality": "N'Djamena",
+      "lat": 12.117583,
+      "lon": 15.036637,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/N'Djamena",
+      "address": "Rue Idriss Miskine",
+      "id": "chad-55ca8619d8fc78b53d4c"
+    },
+    {
+      "name": "Antique Cafe Snack",
+      "kind": "eat",
+      "locality": "N'Djamena",
+      "lat": 12.1117,
+      "lon": 15.04091,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/N'Djamena",
+      "address": "Rue 3015",
+      "id": "chad-6167b8b69cf1e79fbe86"
+    },
+    {
+      "name": "Hybah Coffee House",
+      "kind": "eat",
+      "locality": "N'Djamena",
+      "lat": 12.12844,
+      "lon": 15.06073,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/N'Djamena",
+      "address": "Boulevard du President N'Garta Tombalbaye",
+      "id": "chad-78c04264470d14360636"
+    },
+    {
+      "name": "Radisson Blu",
+      "kind": "stay",
+      "locality": "N'Djamena",
+      "lat": 12.0892,
+      "lon": 15.0717,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/N'Djamena",
+      "address": "Quartier Sabangali",
+      "price": "$200+",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-ndjamena",
+      "id": "chad-1c421b7fe848d15ad16c"
+    },
+    {
+      "name": "Hotel L'Amitie",
+      "kind": "stay",
+      "locality": "N'Djamena",
+      "lat": 12.1297,
+      "lon": 15.07803,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/N'Djamena",
+      "address": "Quartier Diguel Est",
+      "price": "From €245",
+      "id": "chad-003c1c2fea95c2292851"
+    },
+    {
+      "name": "Hotel La Tchadienne",
+      "kind": "stay",
+      "locality": "N'Djamena",
+      "lat": 12.119673,
+      "lon": 15.024944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/N'Djamena",
+      "address": "Avenue Ouldadah",
+      "url": "https://www.hotellatchadienne.com/",
+      "id": "chad-a7436b0c473bda9cb88c"
+    },
+    {
+      "name": "Hotel Irrisor",
+      "kind": "stay",
+      "locality": "N'Djamena",
+      "lat": 12.11973,
+      "lon": 15.02386,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/N'Djamena",
+      "url": "https://www.hotellatchadienne.com/",
+      "id": "chad-4de0dfc1959b6b1e8190"
+    },
+    {
+      "name": "Hilton N'Djamena",
+      "kind": "stay",
+      "locality": "N'Djamena",
+      "lat": 12.08876,
+      "lon": 15.06575,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/N'Djamena",
+      "id": "chad-9909e4ccc0c6750a8876"
+    },
+    {
+      "name": "Chez Wou Hotel",
+      "kind": "stay",
+      "locality": "N'Djamena",
+      "lat": 12.12077,
+      "lon": 15.02359,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/N'Djamena",
+      "id": "chad-8ba7bb01aa6ab56ac29e"
+    },
+    {
+      "name": "N'Djamena",
+      "kind": "area",
+      "locality": "N'Djamena",
+      "lat": 12.116389,
+      "lon": 15.072222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/N'Djamena",
+      "id": "chad-6155cac829318eb4e7c0"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

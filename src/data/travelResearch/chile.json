@@ -1,0 +1,2031 @@
+{
+  "sources": [
+    {
+      "title": "Chile",
+      "url": "https://en.wikivoyage.org/wiki/Chile",
+      "checkedAt": "2026-10-21T08:07:17.477Z"
+    },
+    {
+      "title": "Santiago",
+      "url": "https://en.wikivoyage.org/wiki/Santiago",
+      "checkedAt": "2026-10-21T08:07:21.022Z"
+    },
+    {
+      "title": "Santiago/Central",
+      "url": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "checkedAt": "2026-10-21T08:07:23.200Z"
+    },
+    {
+      "title": "Santiago/Providencia",
+      "url": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "checkedAt": "2026-10-21T08:07:26.422Z"
+    },
+    {
+      "title": "Santiago/Sanhattan and East",
+      "url": "https://en.wikivoyage.org/wiki/Santiago%2FSanhattan_and_East",
+      "checkedAt": "2026-10-21T08:07:29.215Z"
+    },
+    {
+      "title": "Santiago/Bellavista and North",
+      "url": "https://en.wikivoyage.org/wiki/Santiago%2FBellavista_and_North",
+      "checkedAt": "2026-10-21T08:07:32.213Z"
+    },
+    {
+      "title": "Santiago/West and South",
+      "url": "https://en.wikivoyage.org/wiki/Santiago%2FWest_and_South",
+      "checkedAt": "2026-10-21T08:07:35.426Z"
+    },
+    {
+      "title": "San Pedro de Atacama",
+      "url": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "checkedAt": "2026-10-21T08:07:38.255Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Santiago",
+      "kind": "area",
+      "locality": "Chile",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chile",
+      "id": "chile-b10597bd9a6464cabc46"
+    },
+    {
+      "name": "Concepción",
+      "kind": "area",
+      "locality": "Chile",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chile",
+      "id": "chile-eadb701ba14bdc42696a"
+    },
+    {
+      "name": "Iquique",
+      "kind": "area",
+      "locality": "Chile",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chile",
+      "id": "chile-86811e8a87111c0ae64c"
+    },
+    {
+      "name": "La Serena",
+      "kind": "area",
+      "locality": "Chile",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chile",
+      "id": "chile-50dc7c232b6f38472c9c"
+    },
+    {
+      "name": "Punta Arenas",
+      "kind": "area",
+      "locality": "Chile",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chile",
+      "id": "chile-d7fc8bbca9f7e68e358c"
+    },
+    {
+      "name": "San Pedro de Atacama",
+      "kind": "area",
+      "locality": "Chile",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chile",
+      "id": "chile-f4191020c544a2f45df1"
+    },
+    {
+      "name": "Valdivia",
+      "kind": "area",
+      "locality": "Chile",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chile",
+      "id": "chile-338ec6b81d6ba8fc4313"
+    },
+    {
+      "name": "Valparaíso",
+      "kind": "area",
+      "locality": "Chile",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chile",
+      "id": "chile-9d8a9b516220596e1702"
+    },
+    {
+      "name": "Vina del Mar",
+      "kind": "area",
+      "locality": "Chile",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chile",
+      "id": "chile-585821e528758801f180"
+    },
+    {
+      "name": "Hiking and trekking",
+      "kind": "do",
+      "locality": "Chile",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chile",
+      "id": "chile-4fa10e9c84dc175e2c62"
+    },
+    {
+      "name": "Surfing",
+      "kind": "do",
+      "locality": "Chile",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chile",
+      "id": "chile-cd5380e2b7de83bbb575"
+    },
+    {
+      "name": "Turistik Santiago Hop on – Hop off",
+      "kind": "do",
+      "locality": "Santiago",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago",
+      "price": "19,000 pesos",
+      "id": "chile-fca33bb2eae02337eca8"
+    },
+    {
+      "name": "Paso de Uspallata",
+      "kind": "do",
+      "locality": "Santiago",
+      "lat": -32.8247281,
+      "lon": -70.0708213,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago",
+      "price": "US$30 per day car rental fee",
+      "id": "chile-876b057cfe3ae8c24db5"
+    },
+    {
+      "name": "Santiago",
+      "kind": "area",
+      "locality": "Santiago",
+      "lat": -33.43674,
+      "lon": -70.64999,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago",
+      "id": "chile-25035e201029911e4dcf"
+    },
+    {
+      "name": "Plaza De Armas",
+      "kind": "do",
+      "locality": "Santiago/Central",
+      "lat": -33.43774,
+      "lon": -70.65042,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "id": "chile-179020cbad132c7e044c"
+    },
+    {
+      "name": "La Moneda Presidential Palace",
+      "kind": "do",
+      "locality": "Santiago/Central",
+      "lat": -33.44367,
+      "lon": -70.65359,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "url": "http://www.gob.cl/english/la-moneda/ven-a-conocer-la-moneda/",
+      "id": "chile-cff1ba3fa0d4d0e05592"
+    },
+    {
+      "name": "Chilean Museum of Pre-Columbian Art",
+      "kind": "do",
+      "locality": "Santiago/Central",
+      "lat": -33.44244,
+      "lon": -70.65167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Bandera 361, at junction with Compañía",
+      "price": "10000 pesos; 5000 pesos for ISIC holders",
+      "url": "http://www.precolombino.cl/",
+      "id": "chile-9c08e4669d9b6ebc4845"
+    },
+    {
+      "name": "Teatro Municipal",
+      "kind": "do",
+      "locality": "Santiago/Central",
+      "lat": -33.441,
+      "lon": -70.64757,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Agustinas 794",
+      "url": "http://www.municipal.cl/",
+      "id": "chile-5f4e4c19be3ca0bb80db"
+    },
+    {
+      "name": "San Francisco Church and Museum",
+      "kind": "do",
+      "locality": "Santiago/Central",
+      "lat": -33.4435,
+      "lon": -70.64751,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Av. Lib. Bernardo O'Higgins 834",
+      "price": "Museum: 1000 pesos. No pictures inside",
+      "id": "chile-88caaf9b86d41d60369f"
+    },
+    {
+      "name": "Palacio Cousiño",
+      "kind": "do",
+      "locality": "Santiago/Central",
+      "lat": -33.4525,
+      "lon": -70.65646,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "438 Calle Dieciocho",
+      "price": "4000 pesos. Students with ISIC 3000 pesos. Guided tour only. No pictures inside",
+      "id": "chile-393f46bc2be4f42268c4"
+    },
+    {
+      "name": "Parque Forestal",
+      "kind": "do",
+      "locality": "Santiago/Central",
+      "lat": -33.43602,
+      "lon": -70.63982,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "id": "chile-cb4e6e0ba63e00e588c2"
+    },
+    {
+      "name": "Cerro Santa Lucia",
+      "kind": "do",
+      "locality": "Santiago/Central",
+      "lat": -33.44018,
+      "lon": -70.64329,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Junction of Santa Lucia and Bernando O'Higgins",
+      "id": "chile-d8d60fa141ce62d82c3f"
+    },
+    {
+      "name": "Biblioteca Nacional de Chile",
+      "kind": "do",
+      "locality": "Santiago/Central",
+      "lat": -33.4421,
+      "lon": -70.6456,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Avenida Libertador Bernardo O'Higgins 651",
+      "url": "http://bibliotecanacional.cl/",
+      "id": "chile-eda108607407dbf604ad"
+    },
+    {
+      "name": "Casa Colorada",
+      "kind": "do",
+      "locality": "Santiago/Central",
+      "lat": -33.4385,
+      "lon": -70.6492,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "price": "Free",
+      "id": "chile-acad620008433a192b7f"
+    },
+    {
+      "name": "Correo Central",
+      "kind": "do",
+      "locality": "Santiago/Central",
+      "lat": -33.4371,
+      "lon": -70.651,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "id": "chile-f0633f63c3c6c4d07c20"
+    },
+    {
+      "name": "Iglesia San Agustín",
+      "kind": "do",
+      "locality": "Santiago/Central",
+      "lat": -33.44083,
+      "lon": -70.6488,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Obispo Villaroel 170",
+      "id": "chile-6711dac248dc1e5a6c99"
+    },
+    {
+      "name": "Museo Histórico Nacional de Chile",
+      "kind": "do",
+      "locality": "Santiago/Central",
+      "lat": -33.4371,
+      "lon": -70.6506,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Plaza de Armas 951",
+      "price": "Free",
+      "url": "http://www.museohistoriconacional.cl/",
+      "id": "chile-44de0a8f5109d9821290"
+    },
+    {
+      "name": "Metropolitan Cathedral",
+      "kind": "do",
+      "locality": "Santiago/Central",
+      "lat": -33.4376,
+      "lon": -70.6517,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "id": "chile-1e4f9daf36f39c4ad0cc"
+    },
+    {
+      "name": "Museo Nacional de Bellas Artes",
+      "kind": "do",
+      "locality": "Santiago/Central",
+      "lat": -33.4354,
+      "lon": -70.6435,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Parque Forestal",
+      "price": "Free",
+      "url": "https://www.mnba.gob.cl/",
+      "id": "chile-dc8bc75b15f88438b4e3"
+    },
+    {
+      "name": "La Moneda Cultural Center",
+      "kind": "do",
+      "locality": "Santiago/Central",
+      "lat": -33.44354,
+      "lon": -70.65364,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "price": "Free until 12:00",
+      "url": "http://www.ccplm.cl/sitio/",
+      "id": "chile-c05f6cb14810ab80f092"
+    },
+    {
+      "name": "Estación Mapocho Cultural Center",
+      "kind": "do",
+      "locality": "Santiago/Central",
+      "lat": -33.43238,
+      "lon": -70.65449,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Plaza de la Cultura s/n",
+      "url": "http://www.estacionmapocho.cl/",
+      "id": "chile-4b25ccb0858fd3cf675a"
+    },
+    {
+      "name": "Centro Cultural Gabriela Mistral (GAM)",
+      "kind": "do",
+      "locality": "Santiago/Central",
+      "lat": -33.44031,
+      "lon": -70.64126,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Av. Libertador Bernardo O’Higgins 227",
+      "url": "http://www.gam.cl/",
+      "id": "chile-b4a630eccb9d716f1d21"
+    },
+    {
+      "name": "Dominó",
+      "kind": "eat",
+      "locality": "Santiago/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "price": "3000 pesos",
+      "url": "http://www.domino.cl/",
+      "id": "chile-10d2a036c0eea2d4124c"
+    },
+    {
+      "name": "Donde Guido",
+      "kind": "eat",
+      "locality": "Santiago/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "price": "3500 pesos",
+      "url": "http://www.guido.cl/",
+      "id": "chile-7e5d942cf8ca8624a817"
+    },
+    {
+      "name": "El Rápido",
+      "kind": "eat",
+      "locality": "Santiago/Central",
+      "lat": -33.43922,
+      "lon": -70.65209,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Bandera 347",
+      "price": "2500 pesos",
+      "id": "chile-9244237789711fd24314"
+    },
+    {
+      "name": "El Naturista",
+      "kind": "eat",
+      "locality": "Santiago/Central",
+      "lat": -33.43978,
+      "lon": -70.65152,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Paseo Huerfanos 1046",
+      "price": "6000 pesos",
+      "url": "http://www.elnaturista.cl/",
+      "id": "chile-351103156d45534976f9"
+    },
+    {
+      "name": "Fuente Alemana",
+      "kind": "eat",
+      "locality": "Santiago/Central",
+      "lat": -33.4377,
+      "lon": -70.636,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Alameda 58",
+      "price": "5000 pesos",
+      "id": "chile-1148378bb38b6d7cd891"
+    },
+    {
+      "name": "Nuria",
+      "kind": "eat",
+      "locality": "Santiago/Central",
+      "lat": -33.44023,
+      "lon": -70.64682,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Portal Fernández Concha 918",
+      "price": "5000 pesos",
+      "url": "http://www.nuria.cl/",
+      "id": "chile-cb001edf5ebebe927749"
+    },
+    {
+      "name": "Bar Nacional",
+      "kind": "eat",
+      "locality": "Santiago/Central",
+      "lat": -33.4398,
+      "lon": -70.65295,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Paseo Huérfanos 1151",
+      "id": "chile-8df0030bfc6fd6da72bf"
+    },
+    {
+      "name": "Milano's Pizza",
+      "kind": "eat",
+      "locality": "Santiago/Central",
+      "lat": -33.449896,
+      "lon": -70.642215,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Santa Isabel 546",
+      "price": "Italian-style pizza that start at 2890 pesos for a personal size and 6450 pesos for a medium. Delivers for 600 pesos",
+      "url": "http://www.milanospizza.cl/",
+      "id": "chile-b2e7102672452550a902"
+    },
+    {
+      "name": "La Joya del Pacífico",
+      "kind": "eat",
+      "locality": "Santiago/Central",
+      "lat": -33.4336,
+      "lon": -70.6511,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "San Pablo 967, local 166-167",
+      "price": "8000 pesos",
+      "id": "chile-a02a6d4ee2db418b141d"
+    },
+    {
+      "name": "Donde Augusto",
+      "kind": "eat",
+      "locality": "Santiago/Central",
+      "lat": -33.4339,
+      "lon": -70.651,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "San Pablo 967",
+      "price": "12,000 pesos",
+      "id": "chile-7fec1afd89e8eb32659e"
+    },
+    {
+      "name": "La Casona del Centro",
+      "kind": "eat",
+      "locality": "Santiago/Central",
+      "lat": -33.4373,
+      "lon": -70.6542,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Morandé 538",
+      "price": "10,000 pesos",
+      "id": "chile-428126cee8a342305d61"
+    },
+    {
+      "name": "Red Pub",
+      "kind": "eat",
+      "locality": "Santiago/Central",
+      "lat": -33.43751,
+      "lon": -70.64316,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Merced 395, Santiago",
+      "price": "circa 15.000CLP$ per dish",
+      "url": "https://redpub.cl/",
+      "id": "chile-e7ca082e310db11ad0fb"
+    },
+    {
+      "name": "Hotel Angamos",
+      "kind": "stay",
+      "locality": "Santiago/Central",
+      "lat": -33.44768,
+      "lon": -70.6383,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Angamos 367",
+      "price": "10,000 pesos per double room, includes breakfast",
+      "id": "chile-2cbd765c557985583e1a"
+    },
+    {
+      "name": "casAltura Hostel",
+      "kind": "stay",
+      "locality": "Santiago/Central",
+      "lat": -33.43397,
+      "lon": -70.64886,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "San Antonio 811",
+      "price": "Dorms from 10,800 pesos",
+      "url": "http://www.casaltura.com/",
+      "id": "chile-b205237b872766b2eca6"
+    },
+    {
+      "name": "Plaza de Armas Hostel",
+      "kind": "stay",
+      "locality": "Santiago/Central",
+      "lat": -33.43851,
+      "lon": -70.64985,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Compañía 960, #607",
+      "price": "US$12-16 dormitory, US$34-38 double with shared bathroom, US$48-50 double with private bathroom",
+      "url": "http://www.plazadearmashostel.com/",
+      "id": "chile-cc9ce4c782c60043f8fa"
+    },
+    {
+      "name": "Residencia Tabita",
+      "kind": "stay",
+      "locality": "Santiago/Central",
+      "lat": -33.44286,
+      "lon": -70.65669,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Príncipe de Gales 81",
+      "price": "Singles from 8,000 pesos, 15,000 pesos for doubles",
+      "id": "chile-981b9d19d796bffbca49"
+    },
+    {
+      "name": "Casa Moro",
+      "kind": "stay",
+      "locality": "Santiago/Central",
+      "lat": -33.44859,
+      "lon": -70.65616,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Corte Suprema 177",
+      "price": "45,000-65,000 pesos a night",
+      "id": "chile-0b06bc4353d37a844cea"
+    },
+    {
+      "name": "Hotel Fundador",
+      "kind": "stay",
+      "locality": "Santiago/Central",
+      "lat": -33.44454,
+      "lon": -70.64912,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Paseo Serrano 34",
+      "price": "Rooms US$145-185 and suites US$205-260 (Apr, Oct - Nov); US$30-50 cheaper at other times",
+      "url": "http://www.fundador.cl/en-us/",
+      "id": "chile-56771ea543ac59f9c44d"
+    },
+    {
+      "name": "EcoHostel",
+      "kind": "stay",
+      "locality": "Santiago/Central",
+      "lat": -33.445509,
+      "lon": -70.638237,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "General Jofre 349B",
+      "price": "Dorm/double with shared bathroom 8,000/21,000 pesos",
+      "url": "http://www.ecohostel.cl/",
+      "id": "chile-2fe4c769053070160f59"
+    },
+    {
+      "name": "Andes Hostel & Apartments",
+      "kind": "stay",
+      "locality": "Santiago/Central",
+      "lat": -33.43682,
+      "lon": -70.64475,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Monjitas 506",
+      "id": "chile-b2742eac07642bfb27d2"
+    },
+    {
+      "name": "Hostal Santa Lucia",
+      "kind": "stay",
+      "locality": "Santiago/Central",
+      "lat": -33.4409,
+      "lon": -70.64484,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Santa Lucia 168",
+      "url": "http://www.hostalsantalucia.cl/",
+      "id": "chile-7e11520915d64848f261"
+    },
+    {
+      "name": "Hostal de la Barra",
+      "kind": "stay",
+      "locality": "Santiago/Central",
+      "lat": -33.43727,
+      "lon": -70.6432,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "José Miguel de la Barra 451",
+      "url": "http://www.hostaldelabarra.cl/",
+      "id": "chile-82e58d20a22455334204"
+    },
+    {
+      "name": "Caesar Business Santiago Centro",
+      "kind": "stay",
+      "locality": "Santiago/Central",
+      "lat": -33.44283,
+      "lon": -70.64531,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Av. Bernardo O'Higgins 632",
+      "url": "https://all.accor.com/hotel/8924/index.en.shtml",
+      "id": "chile-a40573675d7a625a5eaf"
+    },
+    {
+      "name": "Crowne Plaza Hotel Santiago",
+      "kind": "stay",
+      "locality": "Santiago/Central",
+      "lat": -33.4385,
+      "lon": -70.6368,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Av. Bernardo O'Higgins 136",
+      "url": "http://www.ichotelsgroup.com/crowneplaza/hotels/us/es/santiago/sclco/hoteldetail?",
+      "id": "chile-c2ba3e33f5b76a7aedce"
+    },
+    {
+      "name": "Hotel Panamericano",
+      "kind": "stay",
+      "locality": "Santiago/Central",
+      "lat": -33.4398,
+      "lon": -70.65532,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Teatinos 320",
+      "url": "http://www.hotelpanamericano.cl/home",
+      "id": "chile-2f74f4f6ec98202d8fce"
+    },
+    {
+      "name": "Lastarria Boutique Hotel",
+      "kind": "stay",
+      "locality": "Santiago/Central",
+      "lat": -33.4373,
+      "lon": -70.63873,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Coronel Santiago Bueras 188",
+      "url": "http://www.lastarriahotel.com/",
+      "id": "chile-3c25cec8236b22555c79"
+    },
+    {
+      "name": "Nippon Hotel",
+      "kind": "stay",
+      "locality": "Santiago/Central",
+      "lat": -33.44059,
+      "lon": -70.63555,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "address": "Barón Pierre de Coubertin 62",
+      "url": "http://www.hotelnippon.cl/",
+      "id": "chile-525201bb7c272b82d904"
+    },
+    {
+      "name": "Santiago/Central",
+      "kind": "area",
+      "locality": "Santiago/Central",
+      "lat": -33.44,
+      "lon": -70.65,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FCentral",
+      "id": "chile-2ebe74b8adbb555e8c22"
+    },
+    {
+      "name": "Torre Telefónica",
+      "kind": "do",
+      "locality": "Santiago/Providencia",
+      "lat": -33.43694,
+      "lon": -70.63236,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "address": "Providencia 111",
+      "id": "chile-9634f44af6360f6c75c2"
+    },
+    {
+      "name": "Plaza Baquedano",
+      "kind": "do",
+      "locality": "Santiago/Providencia",
+      "lat": -33.4369,
+      "lon": -70.6345,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "id": "chile-050b8283cf0ef02a415a"
+    },
+    {
+      "name": "Museo de Arte Contemporáneo",
+      "kind": "do",
+      "locality": "Santiago/Providencia",
+      "lat": -33.4346,
+      "lon": -70.6243,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "address": "Avenida Matucana 464",
+      "url": "http://www.mac.uchile.cl/",
+      "id": "chile-47f91ab2ac7b8eba8ff2"
+    },
+    {
+      "name": "Gran Torre Santiago",
+      "kind": "do",
+      "locality": "Santiago/Providencia",
+      "lat": -33.416944,
+      "lon": -70.606667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "address": "Av. Andrés Bello 2425, Providencia",
+      "url": "http://www.costaneracenter.cl/",
+      "id": "chile-2548e682e190ba257f2c"
+    },
+    {
+      "name": "Festival de Jazz de Providencia",
+      "kind": "do",
+      "locality": "Santiago/Providencia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "id": "chile-b5f066c065313671a2b4"
+    },
+    {
+      "name": "Federación de Andinismo de Chile",
+      "kind": "do",
+      "locality": "Santiago/Providencia",
+      "lat": -33.43878,
+      "lon": -70.63371,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "address": "Almirante Simpson 77",
+      "url": "http://www.feach.cl/",
+      "id": "chile-55fb63b2c450ff4b6cb2"
+    },
+    {
+      "name": "Club Alemán Andino",
+      "kind": "do",
+      "locality": "Santiago/Providencia",
+      "lat": -33.42047,
+      "lon": -70.59937,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "address": "Arrayán 2735",
+      "url": "http://www.dav.cl/wp/",
+      "id": "chile-303fe04f5b67683b41b1"
+    },
+    {
+      "name": "Parque Metropolitano de Santiago",
+      "kind": "do",
+      "locality": "Santiago/Providencia",
+      "lat": -33.4151,
+      "lon": -70.6175,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "price": "free",
+      "url": "http://www.parquemet.cl/",
+      "id": "chile-d5802e441d2b948fe757"
+    },
+    {
+      "name": "Parque de las esculturas",
+      "kind": "do",
+      "locality": "Santiago/Providencia",
+      "lat": -33.4191,
+      "lon": -70.6118,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "address": "Avenida Santa María",
+      "price": "free",
+      "id": "chile-437f2d9d34242cc13b1e"
+    },
+    {
+      "name": "Aquí Está Coco",
+      "kind": "eat",
+      "locality": "Santiago/Providencia",
+      "lat": -33.42403,
+      "lon": -70.61671,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "address": "La Concepción 236",
+      "url": "http://www.aquiestacoco.cl/",
+      "id": "chile-38c5251d19831ba5bbe7"
+    },
+    {
+      "name": "Amadeus",
+      "kind": "eat",
+      "locality": "Santiago/Providencia",
+      "lat": -33.43863,
+      "lon": -70.63208,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "address": "Av. General Bustamante 50",
+      "price": "Tasty wood-fired pizzas that start at CLP$3500-4000",
+      "url": "https://www.amadeuspizza.cl/",
+      "id": "chile-0e443776195238c5244c"
+    },
+    {
+      "name": "Docetrece",
+      "kind": "eat",
+      "locality": "Santiago/Providencia",
+      "lat": -33.42569,
+      "lon": -70.59213,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "address": "Tobalaba 1213, Providencia",
+      "url": "http://www.docetrece.cl/",
+      "id": "chile-1d0709c8f84ab6973b9e"
+    },
+    {
+      "name": "Baco",
+      "kind": "eat",
+      "locality": "Santiago/Providencia",
+      "lat": -33.42096,
+      "lon": -70.61022,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "address": "Nueva de Lyon 113, Providencia",
+      "price": "25,000 pesos per couple",
+      "id": "chile-8d97e39d476ee3c04cf1"
+    },
+    {
+      "name": "Hogs",
+      "kind": "eat",
+      "locality": "Santiago/Providencia",
+      "lat": -33.42021,
+      "lon": -70.60562,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "address": "Los Leones 40",
+      "price": "2000-4000 pesos",
+      "url": "https://www.facebook.com/hogs.salchicheria",
+      "id": "chile-3d1ab2b23e1b252914e4"
+    },
+    {
+      "name": "Vegan Bunker",
+      "kind": "eat",
+      "locality": "Santiago/Providencia",
+      "lat": -33.44755,
+      "lon": -70.62335,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "address": "Fresca 529",
+      "price": "4000–6000 pesos",
+      "url": "https://www.facebook.com/VeganBunker/",
+      "id": "chile-b370acc5146bf42482f7"
+    },
+    {
+      "name": "El Candil",
+      "kind": "eat",
+      "locality": "Santiago/Providencia",
+      "lat": -33.42801,
+      "lon": -70.61851,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "address": "Providencia 1421",
+      "id": "chile-bba927577ff77fc4cbb4"
+    },
+    {
+      "name": "Bar Liguria",
+      "kind": "eat",
+      "locality": "Santiago/Providencia",
+      "lat": -33.42829,
+      "lon": -70.61918,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "address": "Providencia 1373",
+      "id": "chile-b533c9a218be46d3bfb3"
+    },
+    {
+      "name": "Boomerang",
+      "kind": "eat",
+      "locality": "Santiago/Providencia",
+      "lat": -33.42041,
+      "lon": -70.60858,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "address": "General Holley 2285",
+      "id": "chile-ea475f9e49e113165f95"
+    },
+    {
+      "name": "Black Rock Pub",
+      "kind": "eat",
+      "locality": "Santiago/Providencia",
+      "lat": -33.41909,
+      "lon": -70.6033,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "address": "Providencia 2548, Local 42",
+      "price": "2200-3000 pesos",
+      "url": "http://theblackrockpub.com/",
+      "id": "chile-71505b4be17812a554de"
+    },
+    {
+      "name": "Hostal Romandia",
+      "kind": "stay",
+      "locality": "Santiago/Providencia",
+      "lat": -33.44274,
+      "lon": -70.61928,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "address": "Román Díaz 1403",
+      "id": "chile-f0ae2b4e5141b4b0c070"
+    },
+    {
+      "name": "Atacama Hostel",
+      "kind": "stay",
+      "locality": "Santiago/Providencia",
+      "lat": -33.43142,
+      "lon": -70.62161,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "address": "Roman Diaz 130",
+      "id": "chile-59a56683c325c7f6b4b8"
+    },
+    {
+      "name": "Footsteps Backpackers",
+      "kind": "stay",
+      "locality": "Santiago/Providencia",
+      "lat": -33.43898,
+      "lon": -70.63386,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "address": "Almirante Simpson 50",
+      "price": "7,000 pesos, 8 dorm mixed",
+      "id": "chile-d964b37b01c1b24b305e"
+    },
+    {
+      "name": "Castillo Surfista Hostel",
+      "kind": "stay",
+      "locality": "Santiago/Providencia",
+      "lat": -33.43884,
+      "lon": -70.62876,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "address": "Maria Luisa Santander 329",
+      "id": "chile-4e0a825a85fdccf1c4d6"
+    },
+    {
+      "name": "Hostal Providencia",
+      "kind": "stay",
+      "locality": "Santiago/Providencia",
+      "lat": -33.44132,
+      "lon": -70.63376,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "address": "Vicuña Mackenna 92-A",
+      "url": "http://www.hostalprovidencia.com/",
+      "id": "chile-97fa068be2207d91fec6"
+    },
+    {
+      "name": "Ventana Sur Hostel",
+      "kind": "stay",
+      "locality": "Santiago/Providencia",
+      "lat": -33.444996,
+      "lon": -70.627241,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "address": "Claudio Arrau 340, Providencia",
+      "price": "US$11-12 dorms, US$21 single with shared bathroom, US$36-44 Double with private bathroom",
+      "url": "http://www.ventanasurhostel.com/",
+      "id": "chile-617e2ca8c5a29fdd8650"
+    },
+    {
+      "name": "Furchi E.I.R.L -Furnished Apartments-/ Bilbao3561",
+      "kind": "stay",
+      "locality": "Santiago/Providencia",
+      "lat": -33.43304,
+      "lon": -70.58585,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "address": "Francisco Bilbao & San Juan de Luz",
+      "price": "US$75/night + $30 cleaning fee",
+      "url": "http://www.furchi.com/",
+      "id": "chile-7dc052fc36196e87b405"
+    },
+    {
+      "name": "MG Apartments",
+      "kind": "stay",
+      "locality": "Santiago/Providencia",
+      "lat": -33.42508,
+      "lon": -70.61155,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "address": "Pedro de Valdivia 263",
+      "price": "US$65/night double",
+      "url": "http://mgapartments.cl/",
+      "id": "chile-d3b704b1668c4135f4e8"
+    },
+    {
+      "name": "NH Ciudad de Santiago",
+      "kind": "stay",
+      "locality": "Santiago/Providencia",
+      "lat": -33.43552,
+      "lon": -70.62816,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "address": "Condell 40",
+      "url": "https://www.nh-hotels.com/hotel/nh-ciudad-de-santiago",
+      "id": "chile-91093d3eb7f35fd17c69"
+    },
+    {
+      "name": "Meridiano Sur, Petit Hotel",
+      "kind": "stay",
+      "locality": "Santiago/Providencia",
+      "lat": -33.42592,
+      "lon": -70.61923,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "address": "Santa Beatriz 256",
+      "price": "US$72-135, loft $260 (rates cheaper May-Aug)",
+      "id": "chile-f4e35d8f7aa5d4b9aa56"
+    },
+    {
+      "name": "Café Literario Parque Bustamante",
+      "kind": "eat",
+      "locality": "Santiago/Providencia",
+      "lat": -33.43912,
+      "lon": -70.63237,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "address": "General Bustamante 50",
+      "url": "http://providencia-biblioteca.cl/sedes/sede-bustamante",
+      "id": "chile-a636ae48167b68a0c489"
+    },
+    {
+      "name": "Café Literario Parque Balmaceda",
+      "kind": "eat",
+      "locality": "Santiago/Providencia",
+      "lat": -33.43426,
+      "lon": -70.62868,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "address": "Providencia 410",
+      "url": "http://providencia-biblioteca.cl/sedes/sede-balmaceda",
+      "id": "chile-245a229fdc1b82e2ebad"
+    },
+    {
+      "name": "Santiago/Providencia",
+      "kind": "area",
+      "locality": "Santiago/Providencia",
+      "lat": -33.433,
+      "lon": -70.616,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FProvidencia",
+      "id": "chile-5f2f63f0ea2a27762ce8"
+    },
+    {
+      "name": "Parque Bicentenario",
+      "kind": "do",
+      "locality": "Santiago/Sanhattan and East",
+      "lat": -33.399886,
+      "lon": -70.602136,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FSanhattan_and_East",
+      "address": "Av. Bicentenario",
+      "id": "chile-3293a871398d505e255d"
+    },
+    {
+      "name": "Estadio Nacional 'Julio Martínez Prádanos'",
+      "kind": "do",
+      "locality": "Santiago/Sanhattan and East",
+      "lat": -33.464522,
+      "lon": -70.610586,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FSanhattan_and_East",
+      "address": "Av. Grecia 2001",
+      "price": "Free",
+      "url": "https://patrimonio.bienes.cl/patrimonio/estadio-nacional/",
+      "id": "chile-8d19bdb9f076aa5088f4"
+    },
+    {
+      "name": "Parque Observatorio Cerro Calán",
+      "kind": "do",
+      "locality": "Santiago/Sanhattan and East",
+      "lat": -33.3961,
+      "lon": -70.537,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FSanhattan_and_East",
+      "address": "Camino El Observatorio 1515, Las Condes",
+      "price": "5000CLP$",
+      "url": "https://www.parquecerrocalan.cl/el-cerro-calan/",
+      "id": "chile-5f9dc870270463f58894"
+    },
+    {
+      "name": "Parque Padre Hurtado",
+      "kind": "do",
+      "locality": "Santiago/Sanhattan and East",
+      "lat": -33.431817,
+      "lon": -70.5451,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FSanhattan_and_East",
+      "price": "Parking 3500 pesos, using the barbecue equipment 3500 pesos",
+      "url": "http://www.parquesanalbertohurtado.cl/web/",
+      "id": "chile-a5fff32520e2561cf1de"
+    },
+    {
+      "name": "Parque por la Paz Villa Grimaldi",
+      "kind": "do",
+      "locality": "Santiago/Sanhattan and East",
+      "lat": -33.4637,
+      "lon": -70.5426,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FSanhattan_and_East",
+      "url": "http://villagrimaldi.cl/",
+      "id": "chile-655a8296530c12d7202d"
+    },
+    {
+      "name": "Centro Artesanal Los Dominicos",
+      "kind": "do",
+      "locality": "Santiago/Sanhattan and East",
+      "lat": -33.4076,
+      "lon": -70.5422,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FSanhattan_and_East",
+      "address": "Av. Apoquindo 9085, Las Condes",
+      "price": "Free",
+      "url": "https://www.culturallascondes.cl/centro-artesanal-los-dominicos/",
+      "id": "chile-4607f4c54f3ac8ad1ea6"
+    },
+    {
+      "name": "Club de Jazz de Santiago",
+      "kind": "do",
+      "locality": "Santiago/Sanhattan and East",
+      "lat": -33.4523,
+      "lon": -70.5704,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FSanhattan_and_East",
+      "address": "Av. Ossa 123",
+      "url": "https://www.clubdejazz.cl/",
+      "id": "chile-e10f067c4fec974ea9b7"
+    },
+    {
+      "name": "Isidora Goyenechea",
+      "kind": "eat",
+      "locality": "Santiago/Sanhattan and East",
+      "lat": -33.41418,
+      "lon": -70.59971,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FSanhattan_and_East",
+      "id": "chile-66d9539ac47fc04f9c3c"
+    },
+    {
+      "name": "Temple Asian Lounge",
+      "kind": "eat",
+      "locality": "Santiago/Sanhattan and East",
+      "lat": -33.41289,
+      "lon": -70.60294,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FSanhattan_and_East",
+      "address": "Vitacura 2825, Las Condes",
+      "id": "chile-5a079b9857b172b1f8a6"
+    },
+    {
+      "name": "Boragó",
+      "kind": "eat",
+      "locality": "Santiago/Sanhattan and East",
+      "lat": -33.38485,
+      "lon": -70.55342,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FSanhattan_and_East",
+      "address": "Nueva Costanera 3467, Vitacura",
+      "url": "http://www.borago.cl/",
+      "id": "chile-84c5e282e611595e69c5"
+    },
+    {
+      "name": "Anakena",
+      "kind": "eat",
+      "locality": "Santiago/Sanhattan and East",
+      "lat": -33.39862,
+      "lon": -70.57388,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FSanhattan_and_East",
+      "address": "Av. Kennedy 4601",
+      "id": "chile-127dd737e79d12fa4bad"
+    },
+    {
+      "name": "Café Dante",
+      "kind": "eat",
+      "locality": "Santiago/Sanhattan and East",
+      "lat": -33.45508,
+      "lon": -70.59427,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FSanhattan_and_East",
+      "address": "Jorge Washington 10",
+      "id": "chile-df02534a2f0601de254b"
+    },
+    {
+      "name": "La Leyenda",
+      "kind": "eat",
+      "locality": "Santiago/Sanhattan and East",
+      "lat": -33.53928,
+      "lon": -70.59703,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FSanhattan_and_East",
+      "address": "Doctor Sotero del Río 474",
+      "price": "3000 pesos",
+      "id": "chile-f74f204e89639a3bd690"
+    },
+    {
+      "name": "Batuta",
+      "kind": "eat",
+      "locality": "Santiago/Sanhattan and East",
+      "lat": -33.45436,
+      "lon": -70.59415,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FSanhattan_and_East",
+      "address": "Jorge Washington 52",
+      "url": "http://www.batuta.cl/",
+      "id": "chile-597f2fe530b5af134b8b"
+    },
+    {
+      "name": "Viña Cousiño Macul",
+      "kind": "eat",
+      "locality": "Santiago/Sanhattan and East",
+      "lat": -33.4955,
+      "lon": -70.5654,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FSanhattan_and_East",
+      "address": "Calle Quilin 7100, Penalolen",
+      "url": "http://www.cousinomacul.com/en",
+      "id": "chile-46ec29123053fe9c798a"
+    },
+    {
+      "name": "Viña Santa Carolina",
+      "kind": "eat",
+      "locality": "Santiago/Sanhattan and East",
+      "lat": -33.474847,
+      "lon": -70.616981,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FSanhattan_and_East",
+      "address": "Calle Til Til 2228",
+      "url": "https://santacarolina.cl/en/",
+      "id": "chile-264736e00c1f1337f889"
+    },
+    {
+      "name": "The Ritz-Carlton",
+      "kind": "stay",
+      "locality": "Santiago/Sanhattan and East",
+      "lat": -33.41613,
+      "lon": -70.59521,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FSanhattan_and_East",
+      "address": "Calle El Alcalde 15",
+      "url": "https://www.ritzcarlton.com/en/hotels/santiago",
+      "id": "chile-ec2717eff09bf1cf87a9"
+    },
+    {
+      "name": "W Santiago",
+      "kind": "stay",
+      "locality": "Santiago/Sanhattan and East",
+      "lat": -33.41393,
+      "lon": -70.59835,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FSanhattan_and_East",
+      "address": "Isidora Goyenechea 3000, Las Condes",
+      "url": "https://www.marriott.com/hotels/travel/sclwh-w-santiago/",
+      "id": "chile-7e0ca81b3788ca826bcd"
+    },
+    {
+      "name": "Mandarin Oriental, Santiago",
+      "kind": "stay",
+      "locality": "Santiago/Sanhattan and East",
+      "lat": -33.40414,
+      "lon": -70.58322,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FSanhattan_and_East",
+      "address": "Av Presidente Kennedy 4601",
+      "url": "https://www.mandarinoriental.com/santiago/las-condes/luxury-hotel",
+      "id": "chile-6c115e546868abf3a1d1"
+    },
+    {
+      "name": "Santiago Marriott Hotel",
+      "kind": "stay",
+      "locality": "Santiago/Sanhattan and East",
+      "lat": -33.40012,
+      "lon": -70.57422,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FSanhattan_and_East",
+      "address": "Av Presidente Kennedy 5741",
+      "url": "https://www.marriott.com/scldt",
+      "id": "chile-31af4781b7cb2a1f898c"
+    },
+    {
+      "name": "Santiago/Sanhattan and East",
+      "kind": "area",
+      "locality": "Santiago/Sanhattan and East",
+      "lat": -33.4142361,
+      "lon": -70.6049278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FSanhattan_and_East",
+      "id": "chile-f4703a5ca98b9f9934b8"
+    },
+    {
+      "name": "La Chascona",
+      "kind": "do",
+      "locality": "Santiago/Bellavista and North",
+      "lat": -33.431111,
+      "lon": -70.634444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FBellavista_and_North",
+      "address": "Fernando Márquez de la Plata 192",
+      "price": "9500 pesos",
+      "url": "http://www.fundacionneruda.org/en",
+      "id": "chile-f4e11811f83d5c1df3d3"
+    },
+    {
+      "name": "Parque Metropolitano",
+      "kind": "do",
+      "locality": "Santiago/Bellavista and North",
+      "lat": -33.429,
+      "lon": -70.6355,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FBellavista_and_North",
+      "url": "http://www.parquemet.cl/",
+      "id": "chile-9accc2a23f5b2fe4143d"
+    },
+    {
+      "name": "Cementerio General de Santiago",
+      "kind": "do",
+      "locality": "Santiago/Bellavista and North",
+      "lat": -33.4132,
+      "lon": -70.6478,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FBellavista_and_North",
+      "url": "http://www.cementeriogeneral.cl/",
+      "id": "chile-64acbd73e0590976d3be"
+    },
+    {
+      "name": "Vega central de Santiago",
+      "kind": "do",
+      "locality": "Santiago/Bellavista and North",
+      "lat": -33.43,
+      "lon": -70.6491,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FBellavista_and_North",
+      "id": "chile-668cee02ca8b409ba706"
+    },
+    {
+      "name": "Ciudad Vieja",
+      "kind": "eat",
+      "locality": "Santiago/Bellavista and North",
+      "lat": -33.43336,
+      "lon": -70.63478,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FBellavista_and_North",
+      "address": "Constitución 92",
+      "url": "http://www.ciudadvieja.cl/",
+      "id": "chile-dc6fe99808dbac23f97e"
+    },
+    {
+      "name": "Galindo",
+      "kind": "eat",
+      "locality": "Santiago/Bellavista and North",
+      "lat": -33.43351,
+      "lon": -70.63853,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FBellavista_and_North",
+      "address": "Dardignac 98",
+      "price": "Main dishes 4700-8100 pesos",
+      "url": "http://galindo.cl/",
+      "id": "chile-b6adc8b5d94e586da8c2"
+    },
+    {
+      "name": "Vietnam Discovery",
+      "kind": "eat",
+      "locality": "Santiago/Bellavista and North",
+      "lat": -33.42994,
+      "lon": -70.64199,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FBellavista_and_North",
+      "address": "Loreto 324",
+      "url": "http://www.vietnamdiscovery.cl/",
+      "id": "chile-99da3a32434c7ad4768b"
+    },
+    {
+      "name": "MosaiCafé",
+      "kind": "eat",
+      "locality": "Santiago/Bellavista and North",
+      "lat": -33.43469,
+      "lon": -70.63524,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FBellavista_and_North",
+      "address": "Bellavista 52, Local 86",
+      "url": "http://www.mosaic.cl/",
+      "id": "chile-52938654c45447baf870"
+    },
+    {
+      "name": "The White Rabbit",
+      "kind": "eat",
+      "locality": "Santiago/Bellavista and North",
+      "lat": -33.43199,
+      "lon": -70.63901,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FBellavista_and_North",
+      "address": "Antonia Lopez de Bello 118",
+      "url": "http://www.facebook.com/thewhiterabbitstgo",
+      "id": "chile-230e99b036ddda2195dd"
+    },
+    {
+      "name": "Pio Nono",
+      "kind": "eat",
+      "locality": "Santiago/Bellavista and North",
+      "lat": -33.43332,
+      "lon": -70.6358,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FBellavista_and_North",
+      "id": "chile-6955d14822907705bb40"
+    },
+    {
+      "name": "La Casa Club",
+      "kind": "eat",
+      "locality": "Santiago/Bellavista and North",
+      "lat": -33.43066,
+      "lon": -70.6366,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FBellavista_and_North",
+      "address": "Santa Filomena 11",
+      "id": "chile-84d08ce78d23f4782cd9"
+    },
+    {
+      "name": "Patio Bellavista",
+      "kind": "eat",
+      "locality": "Santiago/Bellavista and North",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FBellavista_and_North",
+      "id": "chile-e8e7aa28653831c97452"
+    },
+    {
+      "name": "Maestra Vida",
+      "kind": "eat",
+      "locality": "Santiago/Bellavista and North",
+      "lat": -33.431,
+      "lon": -70.6361,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FBellavista_and_North",
+      "address": "Calle Pio Nono 380",
+      "url": "http://maestravida.cl/",
+      "id": "chile-6e2d59769d7d622a2335"
+    },
+    {
+      "name": "Dominica Hostel",
+      "kind": "stay",
+      "locality": "Santiago/Bellavista and North",
+      "lat": -33.43043,
+      "lon": -70.63662,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FBellavista_and_North",
+      "address": "Dominica 24",
+      "id": "chile-b223f4641bd428ecd678"
+    },
+    {
+      "name": "Hostal del Barrio",
+      "kind": "stay",
+      "locality": "Santiago/Bellavista and North",
+      "lat": -33.43115,
+      "lon": -70.64157,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FBellavista_and_North",
+      "address": "General Ekdhal 159",
+      "price": "15,000 pesos for a single with own bathroom",
+      "id": "chile-27eb9f308b1ec5126aa0"
+    },
+    {
+      "name": "Hostel Bellavista",
+      "kind": "stay",
+      "locality": "Santiago/Bellavista and North",
+      "lat": -33.43288,
+      "lon": -70.64164,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FBellavista_and_North",
+      "address": "Dardignac 184, Barrio Bellavista",
+      "url": "http://www.bellavistahostel.com/",
+      "id": "chile-3cae8e099ac955296874"
+    },
+    {
+      "name": "La Chimba Hostel",
+      "kind": "stay",
+      "locality": "Santiago/Bellavista and North",
+      "lat": -33.43113,
+      "lon": -70.6372,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FBellavista_and_North",
+      "address": "Ernesto Pinto Lagarrigue 262",
+      "price": "7,000 pesos",
+      "url": "https://lachimbahostel.com/",
+      "id": "chile-27e587ad4a829accb1e5"
+    },
+    {
+      "name": "H Rado Hostel",
+      "kind": "stay",
+      "locality": "Santiago/Bellavista and North",
+      "lat": -33.4346,
+      "lon": -70.63542,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FBellavista_and_North",
+      "address": "Pio Nono 5",
+      "url": "http://www.radohostel.com/",
+      "id": "chile-d32f75c2d1fb147e5385"
+    },
+    {
+      "name": "Hotel Sheraton",
+      "kind": "stay",
+      "locality": "Santiago/Bellavista and North",
+      "lat": -33.4223,
+      "lon": -70.6209,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FBellavista_and_North",
+      "address": "Avenida Santa María 1742",
+      "id": "chile-d283ace388645a9f00a9"
+    },
+    {
+      "name": "Santiago/Bellavista and North",
+      "kind": "area",
+      "locality": "Santiago/Bellavista and North",
+      "lat": -33.432,
+      "lon": -70.635,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FBellavista_and_North",
+      "id": "chile-166663bd60a3edea7133"
+    },
+    {
+      "name": "Museo de la Memoria y los Derechos Humanos",
+      "kind": "do",
+      "locality": "Santiago/West and South",
+      "lat": -33.4397,
+      "lon": -70.6793,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FWest_and_South",
+      "address": "Avenida Matucana 501",
+      "price": "Free entry. Audioguide 5000 pesos",
+      "url": "http://museodelamemoria.cl/",
+      "id": "chile-44e43502c13a93eadbcd"
+    },
+    {
+      "name": "Museo Interactivo Mirador",
+      "kind": "do",
+      "locality": "Santiago/West and South",
+      "lat": -33.5187,
+      "lon": -70.6131,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FWest_and_South",
+      "address": "Av. Punta Arenas 6711",
+      "url": "http://www.mim.cl/",
+      "id": "chile-69f4fa13a92f5425f417"
+    },
+    {
+      "name": "Paseo de la Historieta",
+      "kind": "do",
+      "locality": "Santiago/West and South",
+      "lat": -33.4872,
+      "lon": -70.6506,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FWest_and_South",
+      "id": "chile-aa6ff1c8ca005a4ca2f0"
+    },
+    {
+      "name": "Estación Central de Santiago",
+      "kind": "do",
+      "locality": "Santiago/West and South",
+      "lat": -33.4523,
+      "lon": -70.6786,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FWest_and_South",
+      "id": "chile-79f0b7874a2db68c2688"
+    },
+    {
+      "name": "Basílica Santuario Nacional de Maipú (Templo Votivo)",
+      "kind": "do",
+      "locality": "Santiago/West and South",
+      "lat": -33.5108,
+      "lon": -70.766,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FWest_and_South",
+      "address": "Republica 1890",
+      "id": "chile-50c339b46b3e664cc9ae"
+    },
+    {
+      "name": "Parque Quinta Normal",
+      "kind": "do",
+      "locality": "Santiago/West and South",
+      "lat": -33.4412,
+      "lon": -70.6832,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FWest_and_South",
+      "id": "chile-15be8af11c0785b90a8a"
+    },
+    {
+      "name": "Museo Nacional Aeronáutico y del Espacio",
+      "kind": "do",
+      "locality": "Santiago/West and South",
+      "lat": -33.4871,
+      "lon": -70.6971,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FWest_and_South",
+      "address": "Avda. Pedro Aguirre Cerda 5000",
+      "url": "http://www.museoaeronautico.gob.cl/",
+      "id": "chile-bc3e2c5f958a19d47402"
+    },
+    {
+      "name": "Centro Cultural Matucana 100",
+      "kind": "do",
+      "locality": "Santiago/West and South",
+      "lat": -33.44439,
+      "lon": -70.67998,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FWest_and_South",
+      "address": "Matucana 100",
+      "url": "http://www.m100.cl/",
+      "id": "chile-43769981f6b6bbf7744d"
+    },
+    {
+      "name": "Parque Laguna Carén",
+      "kind": "do",
+      "locality": "Santiago/West and South",
+      "lat": -33.4322,
+      "lon": -70.8508,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FWest_and_South",
+      "id": "chile-ca9040ec13e9293a146a"
+    },
+    {
+      "name": "Boulevard Lavaud",
+      "kind": "eat",
+      "locality": "Santiago/West and South",
+      "lat": -33.44084,
+      "lon": -70.67393,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FWest_and_South",
+      "address": "Compañía de Jesús 2789",
+      "price": "onion soup 3500 pesos, Coq au vin 7500 pesos, Duck a l'orange 9500 pesos",
+      "url": "https://peluqueriafrancesa.com/",
+      "id": "chile-ea527f612017cb7f755a"
+    },
+    {
+      "name": "Plaza Café",
+      "kind": "eat",
+      "locality": "Santiago/West and South",
+      "lat": -33.44175,
+      "lon": -70.66485,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FWest_and_South",
+      "address": "Av. Brasil 221",
+      "id": "chile-d008dae0b7cdf31d8e2d"
+    },
+    {
+      "name": "Ocean Pacific",
+      "kind": "eat",
+      "locality": "Santiago/West and South",
+      "lat": -33.44234,
+      "lon": -70.6677,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FWest_and_South",
+      "address": "Ricardo Cumming 221",
+      "id": "chile-787adb257884406a1f5a"
+    },
+    {
+      "name": "Santa Isabel",
+      "kind": "eat",
+      "locality": "Santiago/West and South",
+      "lat": -33.44042,
+      "lon": -70.66823,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FWest_and_South",
+      "address": "Ricardo Cumming and Compañia",
+      "id": "chile-4177084921f54cf4760f"
+    },
+    {
+      "name": "Los Buenos Muchachos",
+      "kind": "eat",
+      "locality": "Santiago/West and South",
+      "lat": -33.43239,
+      "lon": -70.66883,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FWest_and_South",
+      "address": "Avda. Ricardo Cumming 1031",
+      "url": "http://www.losbuenosmuchachos.cl/",
+      "id": "chile-954d1c20ba4c43b50d03"
+    },
+    {
+      "name": "Ostras Azocar",
+      "kind": "eat",
+      "locality": "Santiago/West and South",
+      "lat": -33.44642,
+      "lon": -70.66912,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FWest_and_South",
+      "address": "General Bulnes 37",
+      "url": "https://www.ostrasazocar.cl/",
+      "id": "chile-27fd15bcca1515252b0c"
+    },
+    {
+      "name": "Las Delicias de Quirihue",
+      "kind": "eat",
+      "locality": "Santiago/West and South",
+      "lat": -33.4559,
+      "lon": -70.6634,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FWest_and_South",
+      "address": "Domeyko 2059",
+      "price": "8000 pesos",
+      "url": "http://www.lasdeliciasdequirihue.cl/",
+      "id": "chile-34005cd488e5355617fc"
+    },
+    {
+      "name": "Las Vacas Gordas",
+      "kind": "eat",
+      "locality": "Santiago/West and South",
+      "lat": -33.4413,
+      "lon": -70.6637,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FWest_and_South",
+      "address": "Cienfuegos 280",
+      "price": "10,000 pesos",
+      "id": "chile-1ca75a0492f226ba1900"
+    },
+    {
+      "name": "Viña Concha y Toro",
+      "kind": "eat",
+      "locality": "Santiago/West and South",
+      "lat": -33.6336,
+      "lon": -70.5752,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FWest_and_South",
+      "address": "Av. Virginia Subercaseaux 210, Pirque",
+      "url": "http://www.conchaytoro.com/",
+      "id": "chile-e0a1999dc2c9a973ffdc"
+    },
+    {
+      "name": "Viña Santa Rita",
+      "kind": "eat",
+      "locality": "Santiago/West and South",
+      "lat": -33.7256,
+      "lon": -70.6747,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FWest_and_South",
+      "url": "http://www.santarita.com/international/",
+      "id": "chile-f75dea2a5f6a36f27e6c"
+    },
+    {
+      "name": "Casa Bonita Bed&Breakfast",
+      "kind": "stay",
+      "locality": "Santiago/West and South",
+      "lat": -33.44852,
+      "lon": -70.66722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FWest_and_South",
+      "address": "Pasaje Republica 5",
+      "id": "chile-394aa9218042f5c3e97f"
+    },
+    {
+      "name": "La Casa Roja",
+      "kind": "stay",
+      "locality": "Santiago/West and South",
+      "lat": -33.44211,
+      "lon": -70.6658,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FWest_and_South",
+      "address": "Agustinas 2113",
+      "price": "Dorm rooms 7000 pesos. One night free every six nights if paid beforehand",
+      "url": "http://www.lacasaroja.cl/",
+      "id": "chile-4c7233afb556f4ca88d1"
+    },
+    {
+      "name": "Hostel Cienfuegos",
+      "kind": "stay",
+      "locality": "Santiago/West and South",
+      "lat": -33.4427,
+      "lon": -70.6632,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FWest_and_South",
+      "address": "Cienfuegos 151",
+      "price": "Around 40$",
+      "url": "https://www.lacasarojahostel.com/",
+      "id": "chile-4dc02322752bb64a0992"
+    },
+    {
+      "name": "Santiago/West and South",
+      "kind": "area",
+      "locality": "Santiago/West and South",
+      "lat": -33.4402,
+      "lon": -70.66569,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santiago%2FWest_and_South",
+      "id": "chile-5e2f307d7a45b5482ff6"
+    },
+    {
+      "name": "El Tatio",
+      "kind": "do",
+      "locality": "San Pedro de Atacama",
+      "lat": -22.331389,
+      "lon": -68.010278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "price": "Entrance fee: 15,000 pesos",
+      "id": "chile-8de898a14e00c069988f"
+    },
+    {
+      "name": "Valle de la Luna",
+      "kind": "do",
+      "locality": "San Pedro de Atacama",
+      "lat": -22.9112,
+      "lon": -68.32303,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "id": "chile-ad688b74f21b1cf9d07e"
+    },
+    {
+      "name": "Lagunas Altiplanicas",
+      "kind": "do",
+      "locality": "San Pedro de Atacama",
+      "lat": -23.733333,
+      "lon": -67.783333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "id": "chile-69be3dc1cf2c0444d9c0"
+    },
+    {
+      "name": "Laguna Cejar",
+      "kind": "do",
+      "locality": "San Pedro de Atacama",
+      "lat": -23.05776,
+      "lon": -68.21798,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "price": "The entrance for the site (not the tour) is a staggering 15,000 pesos",
+      "id": "chile-3493178b2bb8073eca84"
+    },
+    {
+      "name": "Salar de Tara",
+      "kind": "do",
+      "locality": "San Pedro de Atacama",
+      "lat": -23.083333,
+      "lon": -67.25,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "id": "chile-4d867e79fbcbab9928c2"
+    },
+    {
+      "name": "Valle del Arcoiris",
+      "kind": "do",
+      "locality": "San Pedro de Atacama",
+      "lat": -22.6409773,
+      "lon": -68.241003,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "id": "chile-cfbf17fe85aa4d08a4ac"
+    },
+    {
+      "name": "Valle de Marte",
+      "kind": "do",
+      "locality": "San Pedro de Atacama",
+      "lat": -22.9016,
+      "lon": -68.2204,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "id": "chile-52a454fb9e8a53244265"
+    },
+    {
+      "name": "Puritama",
+      "kind": "do",
+      "locality": "San Pedro de Atacama",
+      "lat": -22.720833,
+      "lon": -68.044722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "price": "The entry fee is something to watch out for: daily 15,000 pesos; M-F after 14:00 9,000 pesos (price updated April 2018)",
+      "id": "chile-6488d219cecab60be255"
+    },
+    {
+      "name": "Pukará de Quitor",
+      "kind": "do",
+      "locality": "San Pedro de Atacama",
+      "lat": -22.89121,
+      "lon": -68.21494,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "id": "chile-ab73b1c8217f5c9cc056"
+    },
+    {
+      "name": "Aldea de Tulor",
+      "kind": "do",
+      "locality": "San Pedro de Atacama",
+      "lat": -22.968056,
+      "lon": -68.2425,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "id": "chile-07fabdc27b4f758e3cf0"
+    },
+    {
+      "name": "R.P. Gustavo Le Paige archaeological museum",
+      "kind": "do",
+      "locality": "San Pedro de Atacama",
+      "lat": -22.91,
+      "lon": -68.19969,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "id": "chile-9a2d170412144ca973a3"
+    },
+    {
+      "name": "Cerro Toco (5604 m)",
+      "kind": "do",
+      "locality": "San Pedro de Atacama",
+      "lat": -22.9463,
+      "lon": -67.7753,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "id": "chile-a9e80ad1664d5ccd4cef"
+    },
+    {
+      "name": "Volcán Lascar (5510 m)",
+      "kind": "do",
+      "locality": "San Pedro de Atacama",
+      "lat": -23.368,
+      "lon": -67.7273,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "id": "chile-62aafbc2d8e3b808535c"
+    },
+    {
+      "name": "Cerro Acamarachi/Pili (6064 m)",
+      "kind": "do",
+      "locality": "San Pedro de Atacama",
+      "lat": -23.29243,
+      "lon": -67.61811,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "id": "chile-30d4d1a91b96cb373c5f"
+    },
+    {
+      "name": "Sairecabur (5971 m)",
+      "kind": "do",
+      "locality": "San Pedro de Atacama",
+      "lat": -22.719,
+      "lon": -67.8903,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "id": "chile-c683f843c73ea3ddadaf"
+    },
+    {
+      "name": "Volcán Licancabur",
+      "kind": "do",
+      "locality": "San Pedro de Atacama",
+      "lat": -22.8337,
+      "lon": -67.8834,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "id": "chile-2b7080181a2ba94d7235"
+    },
+    {
+      "name": "western part",
+      "kind": "do",
+      "locality": "San Pedro de Atacama",
+      "lat": -22.9141,
+      "lon": -68.3199,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "id": "chile-0ee6269bb39710656dd0"
+    },
+    {
+      "name": "two upper sunset viewpoints",
+      "kind": "do",
+      "locality": "San Pedro de Atacama",
+      "lat": -22.91674,
+      "lon": -68.25374,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "id": "chile-8e4d2fcb817054d4bc2a"
+    },
+    {
+      "name": "Guatín",
+      "kind": "area",
+      "locality": "San Pedro de Atacama",
+      "lat": -22.760514,
+      "lon": -68.0719194,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "id": "chile-127628e8bdc7a1f39e73"
+    },
+    {
+      "name": "Estrella Negra",
+      "kind": "eat",
+      "locality": "San Pedro de Atacama",
+      "lat": -22.9115573,
+      "lon": -68.199441,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "address": "Caracoles 363",
+      "id": "chile-22b418e53f815511cf9c"
+    },
+    {
+      "name": "Restaurant Tara",
+      "kind": "eat",
+      "locality": "San Pedro de Atacama",
+      "lat": -22.909444,
+      "lon": -68.1996908,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "address": "Calle Licancabur, Licancabur",
+      "id": "chile-259645f0079aebc00e3d"
+    },
+    {
+      "name": "Los Gor2",
+      "kind": "eat",
+      "locality": "San Pedro de Atacama",
+      "lat": -22.9100758,
+      "lon": -68.2011968,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "address": "Tocopilla 359",
+      "id": "chile-9b5e6e8b6841e73f77c2"
+    },
+    {
+      "name": "La Picada Del Indio",
+      "kind": "eat",
+      "locality": "San Pedro de Atacama",
+      "lat": -22.9109267,
+      "lon": -68.2012109,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "address": "Tocopilla 418",
+      "id": "chile-366714af8e89f329abac"
+    },
+    {
+      "name": "Tierra Todo Naturale",
+      "kind": "eat",
+      "locality": "San Pedro de Atacama",
+      "lat": -22.9117296,
+      "lon": -68.2006832,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "address": "Caracoles 271",
+      "id": "chile-081949888f4c663e5fca"
+    },
+    {
+      "name": "Solcor",
+      "kind": "eat",
+      "locality": "San Pedro de Atacama",
+      "lat": -22.9110894,
+      "lon": -68.2018664,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "address": "Calama 443",
+      "id": "chile-b40b2611bf85ac133a3d"
+    },
+    {
+      "name": "Sol Inti",
+      "kind": "eat",
+      "locality": "San Pedro de Atacama",
+      "lat": -22.9112849,
+      "lon": -68.2010057,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "address": "130, Tocopilla",
+      "id": "chile-31f01b3259bcaf3809f7"
+    },
+    {
+      "name": "Adobe",
+      "kind": "eat",
+      "locality": "San Pedro de Atacama",
+      "lat": -22.9116255,
+      "lon": -68.2013866,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "address": "Caracoles 211, Antofagasta",
+      "id": "chile-ed4bf102d364c9e7404c"
+    },
+    {
+      "name": "La Casona",
+      "kind": "eat",
+      "locality": "San Pedro de Atacama",
+      "lat": -22.9118056,
+      "lon": -68.2019505,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "address": "Caracoles 195",
+      "id": "chile-066c54dfd95dff937d02"
+    },
+    {
+      "name": "Chelacabur",
+      "kind": "eat",
+      "locality": "San Pedro de Atacama",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "address": "Caracoles 212",
+      "price": "2,500 pesos for a liter of Escudo or Cristal",
+      "id": "chile-94aa75d6be160eb1e5ee"
+    },
+    {
+      "name": "Hotel Altiplanico",
+      "kind": "stay",
+      "locality": "San Pedro de Atacama",
+      "lat": -22.9049,
+      "lon": -68.2047,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "address": "Domingo Atienza 282",
+      "url": "http://www.altiplanico.cl/",
+      "id": "chile-a79bb15ba40c590aa05f"
+    },
+    {
+      "name": "Hostal Terracota",
+      "kind": "stay",
+      "locality": "San Pedro de Atacama",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "address": "Tocopilla 517",
+      "id": "chile-4624c8c22dbc17ebbe00"
+    },
+    {
+      "name": "Hotel Licancabur",
+      "kind": "stay",
+      "locality": "San Pedro de Atacama",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "id": "chile-d8b466e5bc5b20ffcd85"
+    },
+    {
+      "name": "Eden Atacameño",
+      "kind": "stay",
+      "locality": "San Pedro de Atacama",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "address": "Toconao 592",
+      "id": "chile-67b4d84f804b62eb68d8"
+    },
+    {
+      "name": "Hospedaje Casa de Guias",
+      "kind": "stay",
+      "locality": "San Pedro de Atacama",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "address": "Calle Ignacio Carrera Pinto 658",
+      "id": "chile-9769750cf51ffeed0676"
+    },
+    {
+      "name": "Residencial Casa Corvatsch",
+      "kind": "stay",
+      "locality": "San Pedro de Atacama",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "address": "Calle Gustavo Le Paine",
+      "price": "Dorm bed 5000 pesos",
+      "id": "chile-b2dda9c59d73a80bc85a"
+    },
+    {
+      "name": "Hostel Rural",
+      "kind": "stay",
+      "locality": "San Pedro de Atacama",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "address": "Calama 257",
+      "price": "Dorm 8000 pesos",
+      "id": "chile-2f79675279b202e69515"
+    },
+    {
+      "name": "La Casa del Sol Naciente",
+      "kind": "stay",
+      "locality": "San Pedro de Atacama",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "address": "Tocopilla 310",
+      "price": "5000 pesos for dorm",
+      "url": "http://www.hostelworld.com/hosteldetails.php/La-Casa-del-Sol-Naciente/San-Pedro-de-Atacama/52010",
+      "id": "chile-d00ad9b11c6bff3e9691"
+    },
+    {
+      "name": "Backpackers San Pedro",
+      "kind": "stay",
+      "locality": "San Pedro de Atacama",
+      "lat": -22.907744,
+      "lon": -68.147355,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "address": "Pasaje Portal del Inca No. 486",
+      "url": "http://backpackersanpedro.cl/",
+      "id": "chile-9693ca5a99bdb154904c"
+    },
+    {
+      "name": "San Pedro de Atacama",
+      "kind": "area",
+      "locality": "San Pedro de Atacama",
+      "lat": -23.0303,
+      "lon": -67.7574,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Pedro_de_Atacama",
+      "id": "chile-6abbf5fef241e8dbb709"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 8 distinct public Wikivoyage source pages; attempted 8 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Destination article routing (regional/landmark guides may use a nearby gateway): Atacama Desert → San Pedro de Atacama."
+}

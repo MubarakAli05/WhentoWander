@@ -1,0 +1,117 @@
+{
+  "sources": [
+    {
+      "title": "Palau",
+      "url": "https://en.wikivoyage.org/wiki/Palau",
+      "checkedAt": "2026-10-21T08:11:34.371Z"
+    },
+    {
+      "title": "Babeldaob",
+      "url": "https://en.wikivoyage.org/wiki/Babeldaob",
+      "checkedAt": "2026-10-21T08:11:40.180Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Melekeok",
+      "kind": "area",
+      "locality": "Palau",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Palau",
+      "id": "palau-84f7e2ff285697a2556a"
+    },
+    {
+      "name": "Koror",
+      "kind": "area",
+      "locality": "Palau",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Palau",
+      "id": "palau-f7e643f7180643a6ffdc"
+    },
+    {
+      "name": "Palau's capitol complex",
+      "kind": "do",
+      "locality": "Babeldaob",
+      "lat": 7.5004,
+      "lon": 134.6242,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Babeldaob",
+      "id": "palau-ad266a8d28983722a5ce"
+    },
+    {
+      "name": "Did el Bad er a Beriber",
+      "kind": "do",
+      "locality": "Babeldaob",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Babeldaob",
+      "id": "palau-a5274688c36da820fc91"
+    },
+    {
+      "name": "Ngermecheluch Site",
+      "kind": "do",
+      "locality": "Babeldaob",
+      "lat": 7.4922,
+      "lon": 134.6366,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Babeldaob",
+      "id": "palau-c93197b9292c221f1b0c"
+    },
+    {
+      "name": "Lomech er Ngii el mora",
+      "kind": "do",
+      "locality": "Babeldaob",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Babeldaob",
+      "id": "palau-f5d75929d74a4fc548e2"
+    },
+    {
+      "name": "Odalmelech",
+      "kind": "do",
+      "locality": "Babeldaob",
+      "lat": 7.5095,
+      "lon": 134.6251,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Babeldaob",
+      "id": "palau-9558d4d9ebe4b39b661f"
+    },
+    {
+      "name": "Meteu el Klechem",
+      "kind": "do",
+      "locality": "Babeldaob",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Babeldaob",
+      "id": "palau-4d4f868a5ca6a773c19e"
+    },
+    {
+      "name": "Bai el Melekeong/Euang el Chades",
+      "kind": "do",
+      "locality": "Babeldaob",
+      "lat": 7.4942,
+      "lon": 134.6334,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Babeldaob",
+      "id": "palau-4d54eb3f03a897311bfd"
+    },
+    {
+      "name": "Badrulchau Stone Monoliths",
+      "kind": "do",
+      "locality": "Babeldaob",
+      "lat": 7.9029,
+      "lon": 134.6305,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Babeldaob",
+      "id": "palau-aa6d9e886b80d317193c"
+    },
+    {
+      "name": "Airai Water Paradise Hotel & Spa",
+      "kind": "stay",
+      "locality": "Babeldaob",
+      "lat": 7.3614,
+      "lon": 134.5195,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Babeldaob",
+      "url": "https://www.facebook.com/Airai-Water-Paradise-Hotel-Spa-Palau-360565583518/",
+      "id": "palau-3d2c844383fb93721a0d"
+    },
+    {
+      "name": "Babeldaob",
+      "kind": "area",
+      "locality": "Babeldaob",
+      "lat": 7.485,
+      "lon": 134.559,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Babeldaob",
+      "id": "palau-310cb35c2cdffb277d36"
+    }
+  ],
+  "status": "partial",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Missing categories: eat."
+}

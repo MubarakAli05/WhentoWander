@@ -1,0 +1,303 @@
+{
+  "sources": [
+    {
+      "title": "Togo",
+      "url": "https://en.wikivoyage.org/wiki/Togo",
+      "checkedAt": "2026-10-21T08:12:43.220Z"
+    },
+    {
+      "title": "Lomé",
+      "url": "https://en.wikivoyage.org/wiki/Lom%C3%A9",
+      "checkedAt": "2026-10-21T08:12:46.265Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Lomé",
+      "kind": "area",
+      "locality": "Togo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Togo",
+      "id": "togo-24baf216906c8a212d66"
+    },
+    {
+      "name": "Aneho",
+      "kind": "area",
+      "locality": "Togo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Togo",
+      "id": "togo-b6d5bb921a0f15bd1522"
+    },
+    {
+      "name": "Atakpamé",
+      "kind": "area",
+      "locality": "Togo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Togo",
+      "id": "togo-163062e0d2bed99247bd"
+    },
+    {
+      "name": "Badou",
+      "kind": "area",
+      "locality": "Togo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Togo",
+      "id": "togo-32e4dcb9ac314c8af72c"
+    },
+    {
+      "name": "Dapaong",
+      "kind": "area",
+      "locality": "Togo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Togo",
+      "id": "togo-c15d5569da91d14e9e5a"
+    },
+    {
+      "name": "Kara",
+      "kind": "area",
+      "locality": "Togo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Togo",
+      "id": "togo-f0994cca50cdfd3f2b6b"
+    },
+    {
+      "name": "Kpalimé",
+      "kind": "area",
+      "locality": "Togo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Togo",
+      "id": "togo-2ba561590ab40e990270"
+    },
+    {
+      "name": "Sokodé",
+      "kind": "area",
+      "locality": "Togo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Togo",
+      "id": "togo-e843bd9769223d570e3b"
+    },
+    {
+      "name": "Independence Monument",
+      "kind": "do",
+      "locality": "Lomé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lom%C3%A9",
+      "id": "togo-03e7c4efbf83e4ed7e1b"
+    },
+    {
+      "name": "Sacred Heart Cathedral",
+      "kind": "do",
+      "locality": "Lomé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lom%C3%A9",
+      "id": "togo-4269d83f3b830a083cdf"
+    },
+    {
+      "name": "Le Palais de Lomé",
+      "kind": "do",
+      "locality": "Lomé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lom%C3%A9",
+      "address": "46C7+Q28 (Avenue des Nîmes)",
+      "price": "CFA 2000-7000 depending on visitor nationality and day",
+      "url": "https://www.palaisdelome.com/",
+      "id": "togo-306ab215b14753fb64c0"
+    },
+    {
+      "name": "Togo National Museum",
+      "kind": "do",
+      "locality": "Lomé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lom%C3%A9",
+      "price": "Entrance CFA 1500",
+      "id": "togo-2191596d01d0542bd4f6"
+    },
+    {
+      "name": "Musée International du Golfe de Guinée",
+      "kind": "do",
+      "locality": "Lomé",
+      "lat": 6.13273,
+      "lon": 1.25195,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lom%C3%A9",
+      "address": "1603 Boulevard du Mono",
+      "price": "CFA 3000",
+      "id": "togo-32ad24d6fe48319c2863"
+    },
+    {
+      "name": "Marcelo Beach",
+      "kind": "do",
+      "locality": "Lomé",
+      "lat": 6.1553,
+      "lon": 1.314,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lom%C3%A9",
+      "url": "https://marcelo-beach-club.com/",
+      "id": "togo-c7723288b79032cd9cda"
+    },
+    {
+      "name": "Royal Beach Lome",
+      "kind": "do",
+      "locality": "Lomé",
+      "lat": 6.1662,
+      "lon": 1.345,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lom%C3%A9",
+      "id": "togo-90a82ac48dd265cd6e44"
+    },
+    {
+      "name": "Lac Est",
+      "kind": "do",
+      "locality": "Lomé",
+      "lat": 6.1483,
+      "lon": 1.2391,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lom%C3%A9",
+      "id": "togo-35a18626804d9c6f7c61"
+    },
+    {
+      "name": "Le Galion",
+      "kind": "eat",
+      "locality": "Lomé",
+      "lat": 6.125763,
+      "lon": 1.222011,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lom%C3%A9",
+      "address": "Rue Camomille",
+      "id": "togo-0134c6afebfb37764e0f"
+    },
+    {
+      "name": "Le Caliendi - Café Bar Restaurant",
+      "kind": "eat",
+      "locality": "Lomé",
+      "lat": 6.13632,
+      "lon": 1.21196,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lom%C3%A9",
+      "address": "1097 Ave de Calais",
+      "url": "https://le-caliendi-cafe-bar-restaurant.business.site/",
+      "id": "togo-c0befc09ee504a352bbd"
+    },
+    {
+      "name": "Alt München",
+      "kind": "eat",
+      "locality": "Lomé",
+      "lat": 6.139971,
+      "lon": 1.272097,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lom%C3%A9",
+      "address": "Boulevard Du Mono",
+      "id": "togo-80ac6deece1314707f00"
+    },
+    {
+      "name": "7 Spice",
+      "kind": "eat",
+      "locality": "Lomé",
+      "lat": 6.13315,
+      "lon": 1.24745,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lom%C3%A9",
+      "address": "intersection of Rue de I'OCAM and Ru Ahepe",
+      "url": "https://m.facebook.com/7spiceLome/",
+      "id": "togo-d2989e3522133dc048d6"
+    },
+    {
+      "name": "TBB Best Burger",
+      "kind": "eat",
+      "locality": "Lomé",
+      "lat": 6.13059,
+      "lon": 1.24042,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lom%C3%A9",
+      "address": "Rue de l'Entente",
+      "url": "https://facebook.com/TheBestBurgerLome/",
+      "id": "togo-6364db5cf5d81b5afb47"
+    },
+    {
+      "name": "Bar La Fierté Bar & Resto",
+      "kind": "eat",
+      "locality": "Lomé",
+      "lat": 6.211722,
+      "lon": 1.188253,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lom%C3%A9",
+      "price": "0",
+      "url": "https://restaurant-barlafierte.com/",
+      "id": "togo-578cdc1a8d22520c5906"
+    },
+    {
+      "name": "Le Namiélé",
+      "kind": "eat",
+      "locality": "Lomé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lom%C3%A9",
+      "address": "Hotel 2 Fevrier, Place de L'indépendence, Bp.131",
+      "price": "CFA 25000 for Sunday brunch buffett",
+      "url": "https://2fevrier.com/en/wine-dine/",
+      "id": "togo-aea93e3e1f2514a5f05f"
+    },
+    {
+      "name": "Auberge Le Galion",
+      "kind": "stay",
+      "locality": "Lomé",
+      "lat": 6.1184,
+      "lon": 1.2101,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lom%C3%A9",
+      "price": "CFA 7000-15000 (fan/air-con)",
+      "url": "http://www.hotel-galion.com/",
+      "id": "togo-559fb3f2f051ae053c7b"
+    },
+    {
+      "name": "Hôtel Napoléon Lagune / Restaurant / Bar",
+      "kind": "stay",
+      "locality": "Lomé",
+      "lat": 6.152,
+      "lon": 1.248,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lom%C3%A9",
+      "address": "01 rue 20 bkp",
+      "url": "http://www.napotogo.com/",
+      "id": "togo-17244d2ce0c384d1b258"
+    },
+    {
+      "name": "Hotel Aurore, Restaurant, Bar",
+      "kind": "stay",
+      "locality": "Lomé",
+      "lat": 6.1332,
+      "lon": 1.249,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lom%C3%A9",
+      "address": "Rue Dzidzedze (anciennement rue ALU) bp60178",
+      "url": "http://www.hotel-togo-aurore.com/",
+      "id": "togo-a1ecac4938e11c1aa984"
+    },
+    {
+      "name": "Hôtel Résidence Océane",
+      "kind": "stay",
+      "locality": "Lomé",
+      "lat": 6.128305,
+      "lon": 1.222093,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lom%C3%A9",
+      "address": "42-44, Rue de la Gare",
+      "url": "http://www.hotel-togo-residenceoceane.com/",
+      "id": "togo-05db773c69e120c8b1a9"
+    },
+    {
+      "name": "Hotel Le Benin",
+      "kind": "stay",
+      "locality": "Lomé",
+      "lat": 6.121381,
+      "lon": 1.218125,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lom%C3%A9",
+      "address": "Avenue du Général de Gaulle",
+      "url": "https://lebeninhotel.com/en/",
+      "id": "togo-43815541899f439b91fe"
+    },
+    {
+      "name": "ONOMO Hotel Lomé",
+      "kind": "stay",
+      "locality": "Lomé",
+      "lat": 6.1306,
+      "lon": 1.2439,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lom%C3%A9",
+      "address": "Boulevard Du Mono",
+      "url": "http://www.onomohotel.com/",
+      "id": "togo-c91360f153aa1da6cb02"
+    },
+    {
+      "name": "Hotel 2 Fevrier",
+      "kind": "stay",
+      "locality": "Lomé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lom%C3%A9",
+      "address": "Place de L'indépendence",
+      "url": "https://www.2fevrier.com/",
+      "id": "togo-10ad61f45d7ebed5716d"
+    },
+    {
+      "name": "Lomé",
+      "kind": "area",
+      "locality": "Lomé",
+      "lat": 6.131944,
+      "lon": 1.222778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lom%C3%A9",
+      "id": "togo-d243180c00356b7561aa"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

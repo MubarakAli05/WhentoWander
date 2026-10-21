@@ -1,0 +1,734 @@
+{
+  "sources": [
+    {
+      "title": "Afghanistan",
+      "url": "https://en.wikivoyage.org/wiki/Afghanistan",
+      "checkedAt": "2026-10-21T08:08:02.648Z"
+    },
+    {
+      "title": "Kabul",
+      "url": "https://en.wikivoyage.org/wiki/Kabul",
+      "checkedAt": "2026-10-21T08:08:05.223Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Kabul",
+      "kind": "area",
+      "locality": "Afghanistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Afghanistan",
+      "id": "afghanistan-c7d9c0e39533c65ea3ed"
+    },
+    {
+      "name": "Balkh",
+      "kind": "area",
+      "locality": "Afghanistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Afghanistan",
+      "id": "afghanistan-401e43f78c56e1ba9bb9"
+    },
+    {
+      "name": "Bamiyan",
+      "kind": "area",
+      "locality": "Afghanistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Afghanistan",
+      "id": "afghanistan-18134f0f20b598affc00"
+    },
+    {
+      "name": "Ghazni",
+      "kind": "area",
+      "locality": "Afghanistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Afghanistan",
+      "id": "afghanistan-802f7be78d558e47467c"
+    },
+    {
+      "name": "Herat",
+      "kind": "area",
+      "locality": "Afghanistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Afghanistan",
+      "id": "afghanistan-96415ad6153faca7d02e"
+    },
+    {
+      "name": "Jalalabad",
+      "kind": "area",
+      "locality": "Afghanistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Afghanistan",
+      "id": "afghanistan-6e16adeb0450063a554e"
+    },
+    {
+      "name": "Kandahar",
+      "kind": "area",
+      "locality": "Afghanistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Afghanistan",
+      "id": "afghanistan-1219fa082722dc04bc39"
+    },
+    {
+      "name": "Kunduz",
+      "kind": "area",
+      "locality": "Afghanistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Afghanistan",
+      "id": "afghanistan-b409150f6abbf5341395"
+    },
+    {
+      "name": "Mazar-e Sharif",
+      "kind": "area",
+      "locality": "Afghanistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Afghanistan",
+      "id": "afghanistan-86adaf1278360ce4a946"
+    },
+    {
+      "name": "Bagh-e Babur",
+      "kind": "do",
+      "locality": "Kabul",
+      "lat": 34.502945,
+      "lon": 69.159471,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "price": "10 Afs for locals, 350 Afs for foreigners, and an extra 150 Afs for camera",
+      "id": "afghanistan-d8b6011afbd39da9be69"
+    },
+    {
+      "name": "Bagh-e Bala",
+      "kind": "do",
+      "locality": "Kabul",
+      "lat": 34.539994,
+      "lon": 69.129933,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "id": "afghanistan-8e5b3a90425a19b76d48"
+    },
+    {
+      "name": "British Cemetery",
+      "kind": "do",
+      "locality": "Kabul",
+      "lat": 34.542753,
+      "lon": 69.173898,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "id": "afghanistan-4bbe6731f06c7ca0ea48"
+    },
+    {
+      "name": "Darul Aman Palace",
+      "kind": "do",
+      "locality": "Kabul",
+      "lat": 34.465271,
+      "lon": 69.119425,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "price": "500 Afs if you believe the guards",
+      "id": "afghanistan-69bc915777c41d7c16aa"
+    },
+    {
+      "name": "Tajbeg Palace",
+      "kind": "do",
+      "locality": "Kabul",
+      "lat": 34.454662,
+      "lon": 69.113365,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "id": "afghanistan-3f59e608d649eea4d9bd"
+    },
+    {
+      "name": "Kabul Zoo",
+      "kind": "do",
+      "locality": "Kabul",
+      "lat": 34.509611,
+      "lon": 69.155088,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "price": "10 Afs for locals, 100 Afs for foreigners",
+      "id": "afghanistan-3a2b9f47cab2b51232d7"
+    },
+    {
+      "name": "Lake Qargha",
+      "kind": "do",
+      "locality": "Kabul",
+      "lat": 34.55294,
+      "lon": 69.03442,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "id": "afghanistan-c81bf20e7bc87916f338"
+    },
+    {
+      "name": "Mausoleum of Nadir Shah and Zahir Shah",
+      "kind": "do",
+      "locality": "Kabul",
+      "lat": 34.5164,
+      "lon": 69.1754,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "price": "A steep 350 Afs for foreigners",
+      "id": "afghanistan-0853b9ed6b1d05ad2744"
+    },
+    {
+      "name": "Bala Hissar",
+      "kind": "do",
+      "locality": "Kabul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "id": "afghanistan-f37137616c58e2078c90"
+    },
+    {
+      "name": "Old City Wall",
+      "kind": "do",
+      "locality": "Kabul",
+      "lat": 34.5037,
+      "lon": 69.1672,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "id": "afghanistan-db4635aba049053986e4"
+    },
+    {
+      "name": "TV Mount",
+      "kind": "do",
+      "locality": "Kabul",
+      "lat": 34.5177,
+      "lon": 69.1614,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "id": "afghanistan-c5bf238df6c2e73cff7d"
+    },
+    {
+      "name": "National Museum of Afghanistan",
+      "kind": "do",
+      "locality": "Kabul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "price": "Entrance AFN 100, with camera AFN 200",
+      "url": "https://www.afghan-web.com/kabul-museum/",
+      "id": "afghanistan-6cce5dfa06280a375617"
+    },
+    {
+      "name": "National Gallery of Afghanistan",
+      "kind": "do",
+      "locality": "Kabul",
+      "lat": 34.5175,
+      "lon": 69.1711,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Asamayi Watt",
+      "price": "Entrance 250 Afs",
+      "id": "afghanistan-93c2be491e9c485b9b39"
+    },
+    {
+      "name": "National Archives of Afghanistan",
+      "kind": "do",
+      "locality": "Kabul",
+      "lat": 34.5247,
+      "lon": 69.1655,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Salang Wat Rd",
+      "id": "afghanistan-80551ca89ea3706021c1"
+    },
+    {
+      "name": "Shah-Do Shamshira Mosque",
+      "kind": "do",
+      "locality": "Kabul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "id": "afghanistan-e1e494bfabd917ad9b6c"
+    },
+    {
+      "name": "Id Gah Mosque",
+      "kind": "do",
+      "locality": "Kabul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "id": "afghanistan-39bb873855b556a78988"
+    },
+    {
+      "name": "Sakhi Shrine",
+      "kind": "do",
+      "locality": "Kabul",
+      "lat": 34.52,
+      "lon": 69.1466,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "id": "afghanistan-1f6f509d7ae7416ed6cc"
+    },
+    {
+      "name": "Gun market",
+      "kind": "do",
+      "locality": "Kabul",
+      "lat": 34.5156,
+      "lon": 69.1798,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "id": "afghanistan-d35b51a061e738ec7c3c"
+    },
+    {
+      "name": "Bird market",
+      "kind": "do",
+      "locality": "Kabul",
+      "lat": 34.5146,
+      "lon": 69.18,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "id": "afghanistan-aa3f493ae862c2c1b41c"
+    },
+    {
+      "name": "Kabul Golf Club",
+      "kind": "do",
+      "locality": "Kabul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Qargha Rd",
+      "price": "750 Afs/US$15 greens fee for 9 or 18 holes",
+      "url": "https://www.kabulgolfclub.org/",
+      "id": "afghanistan-8c8f5717ea24333847e3"
+    },
+    {
+      "name": "Ariana Cinema",
+      "kind": "do",
+      "locality": "Kabul",
+      "lat": 34.5196,
+      "lon": 69.1804,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Pashtunistan Square",
+      "id": "afghanistan-989a2636c1e03da78a48"
+    },
+    {
+      "name": "Amani High School sports field",
+      "kind": "do",
+      "locality": "Kabul",
+      "lat": 34.5283,
+      "lon": 69.1848,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "price": "Free",
+      "id": "afghanistan-595f1118fd2c41f3afe4"
+    },
+    {
+      "name": "Ghazi Stadium",
+      "kind": "do",
+      "locality": "Kabul",
+      "lat": 34.518531,
+      "lon": 69.193711,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "id": "afghanistan-63e8b74e7daf78a8391a"
+    },
+    {
+      "name": "Kabul National Cricket Stadium",
+      "kind": "do",
+      "locality": "Kabul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "id": "afghanistan-578d19205c67d28f0367"
+    },
+    {
+      "name": "Andkhoi Bastan Turkmen Restaurant",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.5383,
+      "lon": 69.1698,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Shahid Road",
+      "id": "afghanistan-57ce7925ddbb154c51dc"
+    },
+    {
+      "name": "Ansari Kunduz Kabab",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.5328,
+      "lon": 69.165,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Ahmad Zahir Road and Kolula Pushta Road",
+      "id": "afghanistan-b7ecc75495ac9dc74cb3"
+    },
+    {
+      "name": "Biryani House",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.5373,
+      "lon": 69.1722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "id": "afghanistan-f96e8bd909150d085880"
+    },
+    {
+      "name": "Bolani",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.5358,
+      "lon": 69.1604,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Kolula Pushta Road",
+      "id": "afghanistan-8379fae924160b6e14d7"
+    },
+    {
+      "name": "Chicking",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.534,
+      "lon": 69.1726,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Sulh Road",
+      "id": "afghanistan-ca89995cd379c718b7e7"
+    },
+    {
+      "name": "Mr. Cook",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.5321,
+      "lon": 69.1649,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Ahmad Zahir Road",
+      "url": "https://mrcook.af/",
+      "id": "afghanistan-4841878559521a632d3c"
+    },
+    {
+      "name": "Buffalo Kings",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.5338,
+      "lon": 69.1726,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Sulh Road",
+      "id": "afghanistan-fe7fcf8a1c438b975fc1"
+    },
+    {
+      "name": "NFC Restaurant",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.5333,
+      "lon": 69.1758,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Sher Ali Khan Rd",
+      "url": "https://www.facebook.com/afghaninfcrestaurant/",
+      "id": "afghanistan-7c980d72db1740160494"
+    },
+    {
+      "name": "Cheezious Bites",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.5378,
+      "lon": 69.168,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Haji Yaqub Square, First Street, Shahr-e Naw",
+      "url": "https://www.facebook.com/cheeziousbiteafg/",
+      "id": "afghanistan-50b45a5edf130a02baa4"
+    },
+    {
+      "name": "Chief Burger Restaurant",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.5235,
+      "lon": 69.1738,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Malik Asghar Square, Wazir Akbar Khan Road",
+      "url": "https://www.facebook.com/ChiefburgerR",
+      "id": "afghanistan-673df0caa8c288696db8"
+    },
+    {
+      "name": "Galaxy Continental",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.506,
+      "lon": 69.1446,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Second Street, Kart-e Char",
+      "url": "https://www.facebook.com/galaxyresturant",
+      "id": "afghanistan-919669b4e95d882ef449"
+    },
+    {
+      "name": "Marhaba Restaurant",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.5111,
+      "lon": 69.1624,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Asmayi Road, City Park",
+      "url": "https://www.facebook.com/marhaba.kbl/",
+      "id": "afghanistan-231cf32738cbcc11b0cf"
+    },
+    {
+      "name": "Mezban Restaurant",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.5355,
+      "lon": 69.1713,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Butcher Street, Shahr-e Naw",
+      "url": "https://www.facebook.com/profile.php?id=61579341099814",
+      "id": "afghanistan-326d2075d1edf6a27fea"
+    },
+    {
+      "name": "Paaeez Continental",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.5326,
+      "lon": 69.1738,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Sulh Road, Shahr-e Naw",
+      "url": "https://www.facebook.com/PaaeezContinental123/",
+      "id": "afghanistan-5f6329e0a3e55480d81d"
+    },
+    {
+      "name": "Paitakht Restaurant",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.5306,
+      "lon": 69.1636,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Ahmad Zahir Road, Shahr-e Naw",
+      "id": "afghanistan-97ac99af3c4f1b4aee6f"
+    },
+    {
+      "name": "Sufi Mahal Restaurant",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.542,
+      "lon": 69.166,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Street 1, Taimani Qala-e Fathullah",
+      "url": "https://www.facebook.com/profile.php?id=100064569797329",
+      "id": "afghanistan-17a328ee30ad923ed77e"
+    },
+    {
+      "name": "Al Arab Mandi Restaurant",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.5339,
+      "lon": 69.1726,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "3rd Floor of Majid Mall, Shahr-e Naw",
+      "url": "https://www.facebook.com/alarabmandikabul",
+      "id": "afghanistan-92e53fc3eb6f18d454c4"
+    },
+    {
+      "name": "Barg Continental Restaurant",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.5346,
+      "lon": 69.1709,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Sulh Road and Park-e Shahr-e Naw Street",
+      "url": "https://www.bargcontinental.com/",
+      "id": "afghanistan-fb891e989914fc7408c6"
+    },
+    {
+      "name": "Bukhara Restaurant",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.506,
+      "lon": 69.1444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Ahmad Zahir Road, Shahrara Road",
+      "url": "https://www.facebook.com/BukharaRestaurantKabul/",
+      "id": "afghanistan-9fec7a3495600eb251f1"
+    },
+    {
+      "name": "Café Zarnegar",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.5205,
+      "lon": 69.178,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Froshga Street",
+      "price": "Mains US$15-20",
+      "url": "https://kabulgrandhotel.com/",
+      "id": "afghanistan-12112bbf71a2c2b462c4"
+    },
+    {
+      "name": "Istanbul Family Restaurant",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.5424,
+      "lon": 69.1488,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Kolula Pushta Road",
+      "url": "https://www.facebook.com/istanbulfamilyrestaurant/",
+      "id": "afghanistan-fa8ac0d86665188720b0"
+    },
+    {
+      "name": "Kaboora Restaurant",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.5331,
+      "lon": 69.1665,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Shahr-e Naw Street in Shahr-e Naw",
+      "url": "https://kaboorarestaurant.com/",
+      "id": "afghanistan-06ecb2bd74fd3ecc9d2a"
+    },
+    {
+      "name": "Namak Restaurant",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.5375,
+      "lon": 69.1652,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "3rd Ansari Road and Sulh Road, Shahr-e Naw",
+      "url": "https://namak.af/",
+      "id": "afghanistan-8ea6656e3bd36ae6c97a"
+    },
+    {
+      "name": "Pamir Restaurant",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.5374,
+      "lon": 69.1249,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Bagh-e Bala Road",
+      "url": "https://www.intercontinentalkabul.com/",
+      "id": "afghanistan-230803cdee105972f42b"
+    },
+    {
+      "name": "Prime Steakhouse",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.534,
+      "lon": 69.1726,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Majid Mall in Shahr-e Naw",
+      "url": "https://www.facebook.com/prime.steakhouseafg",
+      "id": "afghanistan-c6352aaf939e475599bf"
+    },
+    {
+      "name": "Shaam Kabul Restaurant",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.5324,
+      "lon": 69.1546,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Ahmad Zahir Road",
+      "url": "https://www.facebook.com/Shaamkabul",
+      "id": "afghanistan-90939700feb4aceb3ea9"
+    },
+    {
+      "name": "The Cafeteria",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.537,
+      "lon": 69.1662,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Second Ansari Road and Sulh Road, Shahr-e Naw",
+      "url": "https://www.facebook.com/profile.php?id=100064795026962",
+      "id": "afghanistan-d455cff03a2bacdb39aa"
+    },
+    {
+      "name": "Turkish Family Restaurant and Cafe",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.5338,
+      "lon": 69.1725,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Majid Mall, 4th Floor, Shahr-e Naw",
+      "url": "https://www.facebook.com/TurkishFamilyRestaurant/",
+      "id": "afghanistan-fd900b7a60b4c89d7832"
+    },
+    {
+      "name": "Ziyafat Restaurant",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.5334,
+      "lon": 69.172,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Sulh Road, Shahr-e Naw",
+      "url": "https://www.facebook.com/ZiyafatRestaurantKBL/",
+      "id": "afghanistan-09899698eeff9d392824"
+    },
+    {
+      "name": "Slice Bakery",
+      "kind": "eat",
+      "locality": "Kabul",
+      "lat": 34.5339,
+      "lon": 69.1725,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Sulh Rd",
+      "id": "afghanistan-e805525bc82e6d9245fa"
+    },
+    {
+      "name": "Afghania Guest House",
+      "kind": "stay",
+      "locality": "Kabul",
+      "lat": 34.5317,
+      "lon": 69.1759,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Shirpur Square, Ankara Road",
+      "price": "Singles AFN 1300 with shared bathroom, AFN 2000 with private bathroom, all very negotiable",
+      "id": "afghanistan-ceb3c4f4de8dec807575"
+    },
+    {
+      "name": "Shahr Guest House",
+      "kind": "stay",
+      "locality": "Kabul",
+      "lat": 34.5307,
+      "lon": 69.1689,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "price": "Singles from US$10, doubles from US$20 per night",
+      "id": "afghanistan-d0a1212b8133e4ebb085"
+    },
+    {
+      "name": "Khyber Hotel",
+      "kind": "stay",
+      "locality": "Kabul",
+      "lat": 34.5316,
+      "lon": 69.1645,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Ahmad Zahir Road, Shahr-e Naw",
+      "price": "Double with breakfast 1500 Afs",
+      "id": "afghanistan-da92c162ddd03c52cea4"
+    },
+    {
+      "name": "Golden Star Hotel",
+      "kind": "stay",
+      "locality": "Kabul",
+      "lat": 34.536465,
+      "lon": 69.167788,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Sulh Road, Haji Yaqoob Square, Shahr-e Naw",
+      "url": "https://goldenstar.af/",
+      "id": "afghanistan-b2514718efacff876061"
+    },
+    {
+      "name": "Park Star Hotel",
+      "kind": "stay",
+      "locality": "Kabul",
+      "lat": 34.5306,
+      "lon": 69.1656,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Yaftali St, Shar-e Naw",
+      "url": "https://www.parkstarhotel.af/",
+      "id": "afghanistan-eb4cfab193da5ad27b60"
+    },
+    {
+      "name": "Kabul Grand Hotel",
+      "kind": "stay",
+      "locality": "Kabul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Froshgah St",
+      "url": "https://kabulgrandhotel.com/",
+      "id": "afghanistan-cd672d68d2d41b1a30ad"
+    },
+    {
+      "name": "Kabul Intercontinental Hotel",
+      "kind": "stay",
+      "locality": "Kabul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Bagh-e Bala Road, Bagh-e Bala Hill",
+      "url": "https://www.intercontinentalkabul.com/",
+      "id": "afghanistan-e06b836d67df8c0b1cda"
+    },
+    {
+      "name": "Kabul Taj Hotel",
+      "kind": "stay",
+      "locality": "Kabul",
+      "lat": 34.5304,
+      "lon": 69.1738,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Shirpur Square, Goharshad Begum Road",
+      "url": "https://kabultajhotel.com/",
+      "id": "afghanistan-96ada512b707a19e3a7c"
+    },
+    {
+      "name": "Kabul Star Hotel",
+      "kind": "stay",
+      "locality": "Kabul",
+      "lat": 34.5313,
+      "lon": 69.1773,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Shirpur Square, Ankara Road",
+      "url": "https://kabulstarhotel.af/",
+      "id": "afghanistan-6c709d0163b3ae85d045"
+    },
+    {
+      "name": "Safi Landmark Hotel",
+      "kind": "stay",
+      "locality": "Kabul",
+      "lat": 34.532274,
+      "lon": 69.165327,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "address": "Ahmad Zaher Road",
+      "id": "afghanistan-85818fc7acaa9c890606"
+    },
+    {
+      "name": "Kabul",
+      "kind": "area",
+      "locality": "Kabul",
+      "lat": 34.5333,
+      "lon": 69.1667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kabul",
+      "id": "afghanistan-045f6eb0d79f258e8a7a"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

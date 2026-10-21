@@ -1,0 +1,54 @@
+{
+  "sources": [
+    {
+      "title": "Kiribati",
+      "url": "https://en.wikivoyage.org/wiki/Kiribati",
+      "checkedAt": "2026-10-21T08:10:14.879Z"
+    },
+    {
+      "title": "Tarawa",
+      "url": "https://en.wikivoyage.org/wiki/Tarawa",
+      "checkedAt": "2026-10-21T08:10:20.182Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Tarawa",
+      "kind": "area",
+      "locality": "Kiribati",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kiribati",
+      "id": "kiribati-a4ef1a83ffd2aeb5b3e5"
+    },
+    {
+      "name": "Dreamers Kiribati",
+      "kind": "stay",
+      "locality": "Tarawa",
+      "lat": 1.356475,
+      "lon": 173.045145,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tarawa",
+      "address": "Banraeaba",
+      "price": "60A$",
+      "url": "http://dreamerskiribati.com/",
+      "id": "kiribati-8fe06b4d886bee2974d5"
+    },
+    {
+      "name": "Mary's Motel",
+      "kind": "stay",
+      "locality": "Tarawa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tarawa",
+      "address": "Bairiki",
+      "id": "kiribati-b8dfc185fa6c3aa00c1a"
+    },
+    {
+      "name": "Tarawa",
+      "kind": "area",
+      "locality": "Tarawa",
+      "lat": 1.4,
+      "lon": 172.9666667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tarawa",
+      "id": "kiribati-8450e8e8874827e516d3"
+    }
+  ],
+  "status": "partial",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Missing categories: eat, do."
+}

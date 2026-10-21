@@ -1,0 +1,1448 @@
+{
+  "sources": [
+    {
+      "title": "Nigeria",
+      "url": "https://en.wikivoyage.org/wiki/Nigeria",
+      "checkedAt": "2026-10-21T08:11:27.241Z"
+    },
+    {
+      "title": "Abuja",
+      "url": "https://en.wikivoyage.org/wiki/Abuja",
+      "checkedAt": "2026-10-21T08:11:29.243Z"
+    },
+    {
+      "title": "Abuja/Asokoro",
+      "url": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "checkedAt": "2026-10-21T08:11:32.177Z"
+    },
+    {
+      "title": "Abuja/Durumi",
+      "url": "https://en.wikivoyage.org/wiki/Abuja%2FDurumi",
+      "checkedAt": "2026-10-21T08:11:35.178Z"
+    },
+    {
+      "title": "Abuja/Jahi",
+      "url": "https://en.wikivoyage.org/wiki/Abuja%2FJahi",
+      "checkedAt": "2026-10-21T08:11:38.201Z"
+    },
+    {
+      "title": "Abuja/Jabi",
+      "url": "https://en.wikivoyage.org/wiki/Abuja%2FJabi",
+      "checkedAt": "2026-10-21T08:11:41.194Z"
+    },
+    {
+      "title": "Abuja/Wuse",
+      "url": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "checkedAt": "2026-10-21T08:11:44.838Z"
+    },
+    {
+      "title": "Abuja/Garki",
+      "url": "https://en.wikivoyage.org/wiki/Abuja%2FGarki",
+      "checkedAt": "2026-10-21T08:11:47.216Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Abuja",
+      "kind": "area",
+      "locality": "Nigeria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nigeria",
+      "id": "nigeria-4f1b2ffd75776f2d384f"
+    },
+    {
+      "name": "Benin City",
+      "kind": "area",
+      "locality": "Nigeria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nigeria",
+      "id": "nigeria-1b720f70d68ed8a53c05"
+    },
+    {
+      "name": "Calabar",
+      "kind": "area",
+      "locality": "Nigeria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nigeria",
+      "id": "nigeria-514e64829c37c794c64b"
+    },
+    {
+      "name": "Enugu",
+      "kind": "area",
+      "locality": "Nigeria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nigeria",
+      "id": "nigeria-dca31e7b5d10341367fd"
+    },
+    {
+      "name": "Ibadan",
+      "kind": "area",
+      "locality": "Nigeria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nigeria",
+      "id": "nigeria-957cd8c1135f483e7068"
+    },
+    {
+      "name": "Kano",
+      "kind": "area",
+      "locality": "Nigeria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nigeria",
+      "id": "nigeria-9efaa723b62995956024"
+    },
+    {
+      "name": "Lagos",
+      "kind": "area",
+      "locality": "Nigeria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nigeria",
+      "id": "nigeria-fc98d8feee11b01f261a"
+    },
+    {
+      "name": "Osogbo",
+      "kind": "area",
+      "locality": "Nigeria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nigeria",
+      "id": "nigeria-bacd367505f4aff7e35f"
+    },
+    {
+      "name": "Port Harcourt",
+      "kind": "area",
+      "locality": "Nigeria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nigeria",
+      "id": "nigeria-212fc7ca20f9f5be6d74"
+    },
+    {
+      "name": "Kurudu",
+      "kind": "area",
+      "locality": "Abuja",
+      "lat": 8.93139,
+      "lon": 7.55,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "id": "nigeria-cd5304d8619f8257640c"
+    },
+    {
+      "name": "Nyanya",
+      "kind": "area",
+      "locality": "Abuja",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "id": "nigeria-6f1a83a3178b5fd23afe"
+    },
+    {
+      "name": "Aso Rock",
+      "kind": "do",
+      "locality": "Abuja",
+      "lat": 9.083333,
+      "lon": 7.536111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "id": "nigeria-d7ec26ea7d18b89274fe"
+    },
+    {
+      "name": "Millennium Tower",
+      "kind": "do",
+      "locality": "Abuja",
+      "lat": 9.055965,
+      "lon": 7.492786,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "id": "nigeria-d3804aa417c3f438347b"
+    },
+    {
+      "name": "National Mosque",
+      "kind": "do",
+      "locality": "Abuja",
+      "lat": 9.060233,
+      "lon": 7.489615,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "id": "nigeria-50fef30d7db12a35faae"
+    },
+    {
+      "name": "National Church of Nigeria",
+      "kind": "do",
+      "locality": "Abuja",
+      "lat": 9.051389,
+      "lon": 7.494722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "id": "nigeria-5ace07458205ab13fa74"
+    },
+    {
+      "name": "National Assembly Complex",
+      "kind": "do",
+      "locality": "Abuja",
+      "lat": 9.06806,
+      "lon": 7.511202,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "id": "nigeria-7558f1be8a0ac0cb6308"
+    },
+    {
+      "name": "Millennium Park",
+      "kind": "do",
+      "locality": "Abuja",
+      "lat": 9.070494,
+      "lon": 7.498899,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "id": "nigeria-d6dcd8b9185c8de6038c"
+    },
+    {
+      "name": "Sarius Planetum",
+      "kind": "do",
+      "locality": "Abuja",
+      "lat": 9.10354,
+      "lon": 7.4886,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "3259 Ibrahim Babangida Blvd, Maitama",
+      "price": "₦ 1000 adults, ₦ 500 children",
+      "url": "http://www.bgci.org/garden.php?id=4885",
+      "id": "nigeria-ccf83c00049179b50982"
+    },
+    {
+      "name": "Tobix Recreational Park and Garden",
+      "kind": "do",
+      "locality": "Abuja",
+      "lat": 9.08595,
+      "lon": 7.44297,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "Ahmadu Bello Way, Kado",
+      "id": "nigeria-043f61afd34710030b24"
+    },
+    {
+      "name": "Thought Pyramid Art Centre",
+      "kind": "do",
+      "locality": "Abuja",
+      "lat": 9.07623,
+      "lon": 7.46047,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "18 Libreville Cres, Wuse",
+      "url": "https://thoughtpyramidart.com/",
+      "id": "nigeria-1ebc82d5a375e2b635d0"
+    },
+    {
+      "name": "Zuma Rock",
+      "kind": "do",
+      "locality": "Abuja",
+      "lat": 9.1293,
+      "lon": 7.2336,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "north of Madalla",
+      "id": "nigeria-6a674037426a894634c3"
+    },
+    {
+      "name": "An Noor Mosque",
+      "kind": "do",
+      "locality": "Abuja",
+      "lat": 9.07533,
+      "lon": 7.48428,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "Ibrahim Babangida Way, Wuse",
+      "id": "nigeria-b1d8e57c8b41fa14505c"
+    },
+    {
+      "name": "Jabi Lake (Jabi Recreational Park)",
+      "kind": "do",
+      "locality": "Abuja",
+      "lat": 9.075,
+      "lon": 7.418,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "26 Alex Ekwueme Way, Jabi",
+      "id": "nigeria-afab2e8f424b8e197d42"
+    },
+    {
+      "name": "National Children's Park and Zoo Abuja",
+      "kind": "do",
+      "locality": "Abuja",
+      "lat": 9.08076,
+      "lon": 7.52568,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "id": "nigeria-89fb24163131444e53cf"
+    },
+    {
+      "name": "Usuma Lower Dam",
+      "kind": "do",
+      "locality": "Abuja",
+      "lat": 9.1985,
+      "lon": 7.4104,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "id": "nigeria-71887a7a99b9864d676a"
+    },
+    {
+      "name": "IBB International Golf & Country Club",
+      "kind": "do",
+      "locality": "Abuja",
+      "lat": 9.0829,
+      "lon": 7.5082,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "41 Udi Hill Street, off Aso Dr",
+      "price": "₦11586",
+      "url": "http://www.ibbgolfclub.org.ng/",
+      "id": "nigeria-e6f5a9d5f9b315d598fb"
+    },
+    {
+      "name": "Magic Land Amusement Park",
+      "kind": "do",
+      "locality": "Abuja",
+      "lat": 9.04281,
+      "lon": 7.45292,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "No. 1, Kukwaba Hills, Constitution Ave, Wuye",
+      "price": "gate fee ₦ 300, rides ₦ 300-600",
+      "id": "nigeria-961fe80e94197ebd9ee4"
+    },
+    {
+      "name": "Genesis Deluxe Cinemas Abuja",
+      "kind": "do",
+      "locality": "Abuja",
+      "lat": 9.055325,
+      "lon": 7.489907,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "Ceddi Plaza, 264 Tafawa Balewa Way, Central Business District",
+      "url": "https://www.genesiscinemas.com/",
+      "id": "nigeria-b46f3ae0707901d9f089"
+    },
+    {
+      "name": "Evelyn's Event & Recreational Centre",
+      "kind": "do",
+      "locality": "Abuja",
+      "lat": 9.09626,
+      "lon": 7.41469,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "Along 1st Avenue Junction, By, 32 Cres",
+      "id": "nigeria-f2064a49edd356775d73"
+    },
+    {
+      "name": "Dreams Recreational Active Park",
+      "kind": "do",
+      "locality": "Abuja",
+      "lat": 9.07327,
+      "lon": 7.46373,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "Shop 007 Dreams Plaza, Aminu Kano Crescent, Wuse II",
+      "id": "nigeria-89062506804483a94eb0"
+    },
+    {
+      "name": "Panorama Recreational Park",
+      "kind": "do",
+      "locality": "Abuja",
+      "lat": 9.05964,
+      "lon": 7.47406,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "3F5F+VJ4, Al-Fayyium St, Wuse",
+      "id": "nigeria-d3b243d17a6edda3fec2"
+    },
+    {
+      "name": "Exclusive Supermarket",
+      "kind": "eat",
+      "locality": "Abuja",
+      "lat": 9.0772,
+      "lon": 7.4878,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "1202 Adetokunbo Ademola Crescent, Wuse II",
+      "id": "nigeria-180d0f8283c39c3c05fb"
+    },
+    {
+      "name": "Naira Restaurant",
+      "kind": "eat",
+      "locality": "Abuja",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "Accra Street, Wuse Zone 5, Wuse",
+      "id": "nigeria-15c2abb099abc1b7c20e"
+    },
+    {
+      "name": "NengiWills African Recipes",
+      "kind": "eat",
+      "locality": "Abuja",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "12 Goba Close, by Fish Shop off Monrovia Street, Wuse 2",
+      "id": "nigeria-1d185c00ce6e76502b3a"
+    },
+    {
+      "name": "Paseyjays Restaurant",
+      "kind": "eat",
+      "locality": "Abuja",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "16, Konoko Crescent, Off Ademola Adetokunbo Crescent, Wuse 2",
+      "id": "nigeria-748efc5585e93b5277f1"
+    },
+    {
+      "name": "Princess-Eatery",
+      "kind": "eat",
+      "locality": "Abuja",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "Victoria Garden Estate by Next Cash and Carry Road, Kado Estate Road",
+      "id": "nigeria-7a62cd0fb691ba89a819"
+    },
+    {
+      "name": "Spokes Restaurant Abuja",
+      "kind": "eat",
+      "locality": "Abuja",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "Art and Craft Village, Opposite Sheraton Hotel, Zone 4",
+      "id": "nigeria-bcf55cc3a240c36e4cec"
+    },
+    {
+      "name": "Love Pizza",
+      "kind": "eat",
+      "locality": "Abuja",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "2 Bouar Close, Bangui Street, off Ademola Adetokuno Crescent, Wuse 2",
+      "id": "nigeria-47b3627634147e58db45"
+    },
+    {
+      "name": "805 Restaurants Abuja",
+      "kind": "eat",
+      "locality": "Abuja",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "94 Aminu Kano Crescent, Wuse 2",
+      "url": "https://www.805restaurants.com/our-restaurants/abuja",
+      "id": "nigeria-afa69b225dbadd9eb3c7"
+    },
+    {
+      "name": "Cantina Restaurant",
+      "kind": "eat",
+      "locality": "Abuja",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "30 Yedseram Street, Maitama",
+      "id": "nigeria-4c0b2e4a503c3c4ad87b"
+    },
+    {
+      "name": "Easy Bite Restaurant",
+      "kind": "eat",
+      "locality": "Abuja",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "Plot 1145 Aminu Kano Crescent, Opp. Emab Gardens, Wuse 2",
+      "id": "nigeria-1d4301f82f7ec488c1e3"
+    },
+    {
+      "name": "Fuschia Restaurant",
+      "kind": "eat",
+      "locality": "Abuja",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "Plot 130 Aminu Kano Crescent, Wuse 2",
+      "id": "nigeria-765749c82cb98b9b8594"
+    },
+    {
+      "name": "Laura Foods Limited",
+      "kind": "eat",
+      "locality": "Abuja",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "Emto Plaza, Plot C96, 4Th Avenue, Gwarimpa",
+      "id": "nigeria-25c1f611f1464df64f1e"
+    },
+    {
+      "name": "Chopsticks",
+      "kind": "eat",
+      "locality": "Abuja",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "Plot 66 Mississippi St",
+      "id": "nigeria-79671e5106ed8fbd8f6e"
+    },
+    {
+      "name": "Sitar",
+      "kind": "eat",
+      "locality": "Abuja",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "46 Usuma St",
+      "id": "nigeria-33a1c91af85236e2f812"
+    },
+    {
+      "name": "Smoothies Parlor",
+      "kind": "eat",
+      "locality": "Abuja",
+      "lat": 9.0792,
+      "lon": 7.4812,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "Near YoBella Kids Zone, B002 Sticks and Stones Plaza, Ademola Adetokunbo Street, Abuja",
+      "url": "https://smoothiesparlor.com/",
+      "id": "nigeria-702f9953d261226bad4d"
+    },
+    {
+      "name": "Ceddi Plaza",
+      "kind": "eat",
+      "locality": "Abuja",
+      "lat": 9.05509,
+      "lon": 7.4895,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "Near Kingfem Group Of Companies, Plot 264 Ahmadu Bello Way, Mabushi 900103, Abuja",
+      "url": "https://www.ceddiplaza.com/",
+      "id": "nigeria-69ff8f520cedbd3341a4"
+    },
+    {
+      "name": "Blakes Resort",
+      "kind": "eat",
+      "locality": "Abuja",
+      "lat": 9.0279,
+      "lon": 7.4912,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "1346 Ahmadu Bello Way, Garki 900110, Municipal",
+      "url": "https://foursquare.com/v/blakes-resort/4b7ff9aff964a520024830e3",
+      "id": "nigeria-96f8649e89e09fc3a47e"
+    },
+    {
+      "name": "The Nordic Villa",
+      "kind": "stay",
+      "locality": "Abuja",
+      "lat": 9.071925,
+      "lon": 7.431369,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "52 Mike Akhigbe Way",
+      "price": "US$90–130",
+      "url": "http://www.thenordicvilla.com/",
+      "id": "nigeria-1b18ea9c8aab86e7eb5f"
+    },
+    {
+      "name": "Rockview Hotel",
+      "kind": "stay",
+      "locality": "Abuja",
+      "lat": 9.075118,
+      "lon": 7.487474,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "196 Ademola Adetokunbo Cres",
+      "url": "http://rockviewhotels.com/",
+      "id": "nigeria-1bd82d70ff8e198d0326"
+    },
+    {
+      "name": "Hotel De Bently",
+      "kind": "stay",
+      "locality": "Abuja",
+      "lat": 9.0607,
+      "lon": 7.4445,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "892, Ngozi Okonjo-Iweala Way, Utako",
+      "id": "nigeria-93edfb5395d799cb8242"
+    },
+    {
+      "name": "Reiz Continental Hotel",
+      "kind": "stay",
+      "locality": "Abuja",
+      "lat": 9.0496,
+      "lon": 7.4856,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "Plot 779, Cadastral zone AO, Central Area",
+      "url": "https://reizcontinentalhotels.com/",
+      "id": "nigeria-9fa21bf3bb27e1d348e9"
+    },
+    {
+      "name": "Immaculate",
+      "kind": "stay",
+      "locality": "Abuja",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "id": "nigeria-f03649baf9779f023bcd"
+    },
+    {
+      "name": "Barcelona Hotels International",
+      "kind": "stay",
+      "locality": "Abuja",
+      "lat": 9.07267,
+      "lon": 7.48406,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "23 Blantyre Cres, Wuse",
+      "price": "₦ 26263",
+      "url": "http://www.barcelonahotelsnigeria.com/",
+      "id": "nigeria-54c5194769e152423ae1"
+    },
+    {
+      "name": "Check Inn Hotels",
+      "kind": "stay",
+      "locality": "Abuja",
+      "lat": 9.07009,
+      "lon": 7.48382,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "37 Durban St, Wuse 2",
+      "price": "₦ 25490",
+      "url": "http://www.checkinnhotels.com/",
+      "id": "nigeria-81606fbdd832c4bd8ef5"
+    },
+    {
+      "name": "Hawthorn Suites Abuja",
+      "kind": "stay",
+      "locality": "Abuja",
+      "lat": 9.034087,
+      "lon": 7.496034,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "price": "Rates from about ₦43,000",
+      "url": "http://www.hawthorn.com/hotels/nigeria/abuja/hawthorn-suites-by-wyndham-abuja/hotel-overview?cid=local",
+      "id": "nigeria-6837293fef0dc0b2284c"
+    },
+    {
+      "name": "Transcorp Hilton Abuja",
+      "kind": "stay",
+      "locality": "Abuja",
+      "lat": 9.074483,
+      "lon": 7.495024,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "address": "1 Aguiyi Ironsi St, Maitama",
+      "url": "https://www3.hilton.com/en/hotels/nigeria/transcorp-hilton-abuja-ABUHITW/index.html",
+      "id": "nigeria-010f80d764124606ee89"
+    },
+    {
+      "name": "Sheraton Abuja",
+      "kind": "stay",
+      "locality": "Abuja",
+      "lat": 9.063877,
+      "lon": 7.484277,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "url": "http://www.sheratonabuja.com/",
+      "id": "nigeria-c824eb9ddb631aa0c791"
+    },
+    {
+      "name": "Abuja",
+      "kind": "area",
+      "locality": "Abuja",
+      "lat": 9.083,
+      "lon": 7.533,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja",
+      "id": "nigeria-b259deebb355d621bd2f"
+    },
+    {
+      "name": "The Pavilion Restaurant",
+      "kind": "eat",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "address": "12 Ukpabi Asika St",
+      "id": "nigeria-678294434734056caa72"
+    },
+    {
+      "name": "Zanziba Asokoro",
+      "kind": "eat",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "id": "nigeria-72786630a4046e758656"
+    },
+    {
+      "name": "Vingt Quatroe",
+      "kind": "eat",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "address": "7 Musa Traore",
+      "id": "nigeria-18272a533d5d056de5a8"
+    },
+    {
+      "name": "Masa house",
+      "kind": "eat",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "address": "7 Malcom Fraser St",
+      "id": "nigeria-60958699c5a7c05e3a54"
+    },
+    {
+      "name": "Naj cuisine",
+      "kind": "eat",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "address": "Plot 283 Jesse Jackson, off Jimmy Carter St",
+      "id": "nigeria-ec85bc90970a885d3d1b"
+    },
+    {
+      "name": "Sam's Valley",
+      "kind": "eat",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "address": "25 Jimmy Carter St",
+      "id": "nigeria-5206a5d11288bb6db97f"
+    },
+    {
+      "name": "Amala Cottage",
+      "kind": "eat",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "address": "Julius Nyerere Cres",
+      "id": "nigeria-c500361a33d36f91e00d"
+    },
+    {
+      "name": "Ravioli Restaurant",
+      "kind": "eat",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "id": "nigeria-55963b73516aded2e8c2"
+    },
+    {
+      "name": "Tucano Grill",
+      "kind": "eat",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "id": "nigeria-de98c7a32b4dd953dd45"
+    },
+    {
+      "name": "Meli Local Chef",
+      "kind": "eat",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "address": "26 Justice Sowemimo St",
+      "id": "nigeria-3ec041c140901efd32e1"
+    },
+    {
+      "name": "Tastiva Restaurant",
+      "kind": "eat",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "address": "46 Kwame Nkrumah Cres",
+      "id": "nigeria-f1c77b7d5df878965092"
+    },
+    {
+      "name": "Shi-Sha Bar",
+      "kind": "eat",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "address": "Mediterranean Hotel, 42, Justice Manmon Nasir Cr",
+      "id": "nigeria-733b73ab2488fa1a12dc"
+    },
+    {
+      "name": "Capital Klub",
+      "kind": "eat",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "id": "nigeria-e872e709225850270424"
+    },
+    {
+      "name": "Glamour Lounge",
+      "kind": "eat",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "address": "Yakubu Gowon Cres",
+      "id": "nigeria-2f5d569f96fbd84a2bdf"
+    },
+    {
+      "name": "Eden Lounge",
+      "kind": "eat",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "address": "Mediterranean Park, Kwame Nkrumah Crescent",
+      "id": "nigeria-07896754a4f4405ffd2f"
+    },
+    {
+      "name": "Kapital club & apartments",
+      "kind": "eat",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "id": "nigeria-1a3311b0464efe746bfc"
+    },
+    {
+      "name": "Skye Bar Rooftop Lounge",
+      "kind": "eat",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "address": "104 Kwame Nkrumah Cres",
+      "id": "nigeria-8cf677d108092f820ca9"
+    },
+    {
+      "name": "Unity Spot Garden",
+      "kind": "eat",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "address": "Unnamed Road",
+      "id": "nigeria-9f813f1f8447cf74cc66"
+    },
+    {
+      "name": "Brew23 Lounge",
+      "kind": "eat",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "address": "Mediterranean Recreation Centre, plot 1411 Kwame Nkrumah Cres",
+      "id": "nigeria-63519b922cbdb396538a"
+    },
+    {
+      "name": "E-Suites Hotel",
+      "kind": "stay",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "address": "21 Jesse Jackson street, Off Jimmy Carter St",
+      "id": "nigeria-2d02b9682ac5fcbd78f3"
+    },
+    {
+      "name": "The Wells Carlton Hotel & Apartments",
+      "kind": "stay",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "address": "8 Gado Nasko St",
+      "id": "nigeria-b4cbf12ad507b56bdede"
+    },
+    {
+      "name": "Top Rank Hotels Galaxy",
+      "kind": "stay",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "price": "₦21000",
+      "id": "nigeria-3096ccfc23d58378ce7f"
+    },
+    {
+      "name": "Rayfield Hotel",
+      "kind": "stay",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "address": "No.14, Julius Nyerere Street, Off Yakubu Gowon Crescent, 16 Julius Nyerere Cres",
+      "price": "₦13000",
+      "id": "nigeria-e19fbc863313efa090a0"
+    },
+    {
+      "name": "Stratton Hotel Asokoro",
+      "kind": "stay",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "address": "Bola Ige Cl",
+      "price": "₦60000",
+      "id": "nigeria-1091a447965120f07259"
+    },
+    {
+      "name": "Bristlecone Suites and Apartments",
+      "kind": "stay",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "address": "71 Kwame Nkrumah Cres",
+      "price": "₦13000",
+      "id": "nigeria-c366be22435b49b93aec"
+    },
+    {
+      "name": "Hans Place Hotel",
+      "kind": "stay",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "address": "23 Gnassingbe Eyadema St, Asokor",
+      "price": "₦33000",
+      "id": "nigeria-0fd5a6dea6ae86052363"
+    },
+    {
+      "name": "Palmac Hotels",
+      "kind": "stay",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "price": "₦16000",
+      "id": "nigeria-255acd84c8b8cb248c1a"
+    },
+    {
+      "name": "Champions lodge",
+      "kind": "stay",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "address": "Justice Lawal Uwais Street",
+      "id": "nigeria-08dcfbd06edba8b5a16f"
+    },
+    {
+      "name": "Sun Heaven Hotel Asokoro",
+      "kind": "stay",
+      "locality": "Abuja/Asokoro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "address": "36 Maman Nasir Street",
+      "price": "₦39000",
+      "id": "nigeria-ed9996a6b14cc574ec6e"
+    },
+    {
+      "name": "Abuja/Asokoro",
+      "kind": "area",
+      "locality": "Abuja/Asokoro",
+      "lat": 9.0479,
+      "lon": 7.5154,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FAsokoro",
+      "id": "nigeria-945c5f5f48fcd490d50d"
+    },
+    {
+      "name": "Area-1 Pub & Grill",
+      "kind": "eat",
+      "locality": "Abuja/Durumi",
+      "lat": 9.0261,
+      "lon": 7.4636,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FDurumi",
+      "address": "Area1, Suite 104 Ebenezer Place Plot 630 Durumi Area",
+      "id": "nigeria-58ebf36599f700812874"
+    },
+    {
+      "name": "De Shantee's Wine Shop",
+      "kind": "eat",
+      "locality": "Abuja/Durumi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FDurumi",
+      "address": "Behind Savana estate",
+      "id": "nigeria-798e9c155097c41af552"
+    },
+    {
+      "name": "Grand Pela Hotel & Suites",
+      "kind": "stay",
+      "locality": "Abuja/Durumi",
+      "lat": 9.0269,
+      "lon": 7.4595,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FDurumi",
+      "address": "Plot 649, Cadastral Zone B02, Near American Int’l School",
+      "price": "₦75,000",
+      "id": "nigeria-682d2bf7f3f2cad86e4b"
+    },
+    {
+      "name": "Abuja/Durumi",
+      "kind": "area",
+      "locality": "Abuja/Durumi",
+      "lat": 9.02,
+      "lon": 7.465,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FDurumi",
+      "id": "nigeria-e0050d51f0d68496f15f"
+    },
+    {
+      "name": "Jahi Badminton Club",
+      "kind": "do",
+      "locality": "Abuja/Jahi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FJahi",
+      "address": "117 Ahmadu Bello Way, Kado",
+      "id": "nigeria-848cc39b2da6a304525a"
+    },
+    {
+      "name": "The Rooftop Jahi",
+      "kind": "eat",
+      "locality": "Abuja/Jahi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FJahi",
+      "address": "Plot 405",
+      "id": "nigeria-04887bc2bca14da2f0df"
+    },
+    {
+      "name": "Masa on D go",
+      "kind": "eat",
+      "locality": "Abuja/Jahi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FJahi",
+      "address": "Jahi Junction",
+      "id": "nigeria-d4692f39f9ed27d17cd5"
+    },
+    {
+      "name": "WildCherryse Bistro",
+      "kind": "eat",
+      "locality": "Abuja/Jahi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FJahi",
+      "address": "Shashilga Court, Plot 111 Sector Centre A",
+      "id": "nigeria-b6e6f5bfe6f5755884dd"
+    },
+    {
+      "name": "Valentino garden and outdoor bar",
+      "kind": "eat",
+      "locality": "Abuja/Jahi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FJahi",
+      "id": "nigeria-96796006b55d33f5947e"
+    },
+    {
+      "name": "Eve's Food Paradise",
+      "kind": "eat",
+      "locality": "Abuja/Jahi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FJahi",
+      "address": "behind Mosque",
+      "id": "nigeria-2e37c1756bac5b9050bb"
+    },
+    {
+      "name": "My kitchen finger lick restaurant and fast good",
+      "kind": "eat",
+      "locality": "Abuja/Jahi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FJahi",
+      "address": "Jahi 1 police station",
+      "id": "nigeria-29eef2cd83781959de3a"
+    },
+    {
+      "name": "Hunter's indomie spot",
+      "kind": "eat",
+      "locality": "Abuja/Jahi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FJahi",
+      "address": "behind Platinum mega mall",
+      "id": "nigeria-9b8980e746648f787361"
+    },
+    {
+      "name": "The Clubhouse Restaurant",
+      "kind": "eat",
+      "locality": "Abuja/Jahi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FJahi",
+      "address": "Tak Continental Estate, 11 Aliyu Mohammed Rd",
+      "id": "nigeria-67aa37bb6f1f81b9ed41"
+    },
+    {
+      "name": "Tiki Cultures",
+      "kind": "eat",
+      "locality": "Abuja/Jahi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FJahi",
+      "id": "nigeria-0416cc18791580107329"
+    },
+    {
+      "name": "Area-1 Pub & Grill",
+      "kind": "eat",
+      "locality": "Abuja/Jahi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FJahi",
+      "id": "nigeria-34ddbd771fed955984fe"
+    },
+    {
+      "name": "Zodiac Pub & Resort",
+      "kind": "eat",
+      "locality": "Abuja/Jahi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FJahi",
+      "id": "nigeria-815d1179b52767929744"
+    },
+    {
+      "name": "Legacy Pub",
+      "kind": "eat",
+      "locality": "Abuja/Jahi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FJahi",
+      "id": "nigeria-a37bfeea001de1aac980"
+    },
+    {
+      "name": "Eden Park & Gardens",
+      "kind": "eat",
+      "locality": "Abuja/Jahi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FJahi",
+      "id": "nigeria-259e0e6610d65842b005"
+    },
+    {
+      "name": "Bature Brewery",
+      "kind": "eat",
+      "locality": "Abuja/Jahi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FJahi",
+      "id": "nigeria-3ed940a2a856e23370db"
+    },
+    {
+      "name": "Hootas Place Abuja",
+      "kind": "eat",
+      "locality": "Abuja/Jahi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FJahi",
+      "id": "nigeria-ba2c89c5ca4e97b53605"
+    },
+    {
+      "name": "De Lamor Pub and Grill",
+      "kind": "eat",
+      "locality": "Abuja/Jahi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FJahi",
+      "id": "nigeria-268659e42865dec8532d"
+    },
+    {
+      "name": "Abuja/Jahi",
+      "kind": "area",
+      "locality": "Abuja/Jahi",
+      "lat": 9.1037,
+      "lon": 7.4406,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FJahi",
+      "id": "nigeria-b0752f2440906ffab5eb"
+    },
+    {
+      "name": "Jabi Lake",
+      "kind": "do",
+      "locality": "Abuja/Jabi",
+      "lat": 9.075,
+      "lon": 7.418,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FJabi",
+      "id": "nigeria-6f178551773e9306d1f7"
+    },
+    {
+      "name": "Rabby Recreation Park",
+      "kind": "do",
+      "locality": "Abuja/Jabi",
+      "lat": 9.0860085,
+      "lon": 7.3764731,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FJabi",
+      "address": "Paradise Estate Road, Dape District",
+      "price": "₦1,500 - 3,000 per person, for the entry ticket",
+      "id": "nigeria-9daf9498e5709875357f"
+    },
+    {
+      "name": "Behere Boutique Hotel Abuja Nigeria",
+      "kind": "stay",
+      "locality": "Abuja/Jabi",
+      "lat": 9.056786,
+      "lon": 7.412444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FJabi",
+      "price": "US$159-196",
+      "id": "nigeria-bd171c7ae5f07331dd7d"
+    },
+    {
+      "name": "Abuja/Jabi",
+      "kind": "area",
+      "locality": "Abuja/Jabi",
+      "lat": 9.06604,
+      "lon": 7.41981,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FJabi",
+      "id": "nigeria-a31d20c4fa10d0786bee"
+    },
+    {
+      "name": "The Secret Garden Abuja",
+      "kind": "eat",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "979 Ahmadu Bello Way",
+      "id": "nigeria-712a2d7bce6d9de4d618"
+    },
+    {
+      "name": "Wingist Restaurant",
+      "kind": "eat",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "7 Lingu Cres",
+      "id": "nigeria-cc9a2fc004578911d034"
+    },
+    {
+      "name": "VII Bistro (Seven Bistro NG)",
+      "kind": "eat",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "7 Kampala St",
+      "id": "nigeria-718ffc532fc6ab7557f5"
+    },
+    {
+      "name": "Puzzo’s Restaurant",
+      "kind": "eat",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "170 Adetokunbo Ademola Cres",
+      "id": "nigeria-e3e5d0e1bd54523d087a"
+    },
+    {
+      "name": "Kilimanjaro Restaurant",
+      "kind": "eat",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "527 Adetokunbo Ademola Cres",
+      "id": "nigeria-d32c24f7ac9d353443c7"
+    },
+    {
+      "name": "4 Guys Restaurant",
+      "kind": "eat",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "913 Adetokunbo Ademola Cres, Wuse Abuja",
+      "id": "nigeria-f4b222dd5a629dd10236"
+    },
+    {
+      "name": "The Melting Pot",
+      "kind": "eat",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "137 Adetokunbo Ademola Cres",
+      "id": "nigeria-cbeac2a64b4a34cd2379"
+    },
+    {
+      "name": "Spice Platter",
+      "kind": "eat",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "18 Libreville Cre",
+      "id": "nigeria-12d5488e5b8684dddcac"
+    },
+    {
+      "name": "Caesars Restaurant",
+      "kind": "eat",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "No 28 Agadez Cres, Wuse Abuja",
+      "id": "nigeria-8a33cceed94f7a092483"
+    },
+    {
+      "name": "Crossover Restaurant",
+      "kind": "eat",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "3 Cairo Cres",
+      "id": "nigeria-446350e50d04815e3537"
+    },
+    {
+      "name": "Ojuelegba Amala Point",
+      "kind": "eat",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "Ayade Leisure Resort, Plot 1261 Ahmadu Bello Way",
+      "id": "nigeria-99bf7691df49241a1e4b"
+    },
+    {
+      "name": "Turkish Restaurant In HOOTAS",
+      "kind": "eat",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "detokunbo Ademola Cres",
+      "id": "nigeria-978354a13706e0b7fb26"
+    },
+    {
+      "name": "Timeout Restaurant",
+      "kind": "eat",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": ": No 2 Lingu Cres",
+      "id": "nigeria-cfd4bd45b3f25c5fa033"
+    },
+    {
+      "name": "Lagos Bistro",
+      "kind": "eat",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "7 Humbori Street, Adetokunbo Ademola Cres",
+      "id": "nigeria-ab0681e1c5ad66181e87"
+    },
+    {
+      "name": "Barracuda Resto Pub",
+      "kind": "eat",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "111 Adetokunbo Ademola Cres",
+      "id": "nigeria-352577d97149f9c25e00"
+    },
+    {
+      "name": "Beer Barn Abuja",
+      "kind": "eat",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "No. 72 Aminu Kano Cres",
+      "id": "nigeria-06b254fbd35f8a59a037"
+    },
+    {
+      "name": "Onyx Lounge",
+      "kind": "eat",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "Nurberger Plaza, plot 1723 Adetokunbo Ademola Cres",
+      "id": "nigeria-f87adc886b83195d6fb0"
+    },
+    {
+      "name": "Kryxtal Lounge and Bar",
+      "kind": "eat",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "No.70 Aminu Kano Cres",
+      "id": "nigeria-9b5cd28970a409c0c2ff"
+    },
+    {
+      "name": "Grey Lounge",
+      "kind": "eat",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "913 Adetokunbo Ademola Cres",
+      "id": "nigeria-724e9f63208033df934f"
+    },
+    {
+      "name": "Bottlers Parlour",
+      "kind": "eat",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "2027 Dalaba Street Zone 5",
+      "id": "nigeria-261569c04bf7ed0ffb12"
+    },
+    {
+      "name": "Zodiac Pub",
+      "kind": "eat",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "8 Fomella",
+      "id": "nigeria-f711cbbc4550fb58f48b"
+    },
+    {
+      "name": "Bature Brewery",
+      "kind": "eat",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "A1 Discovery Mall, Adetokunbo Ademola Cres",
+      "id": "nigeria-7ab7a8852ffe24781819"
+    },
+    {
+      "name": "Beirut Lounge",
+      "kind": "eat",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "123 Adetokunbo Ademola Cres",
+      "id": "nigeria-a6af3440da73920b21cf"
+    },
+    {
+      "name": "Hootas Place Abuja",
+      "kind": "eat",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "16 Bangui St lat",
+      "id": "nigeria-846f634f901b99cd257f"
+    },
+    {
+      "name": "Jazz And Blues",
+      "kind": "eat",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "39 Abijan St",
+      "id": "nigeria-243aa03c75b3f89d2228"
+    },
+    {
+      "name": "Ambience",
+      "kind": "stay",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "27 Ontario Cres",
+      "price": "₦38,000",
+      "id": "nigeria-443b8c68339586becb66"
+    },
+    {
+      "name": "Oxford Hotel",
+      "kind": "stay",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "26 Suez Crescent",
+      "price": "₦18,000",
+      "id": "nigeria-681ff8693b54cae7deb1"
+    },
+    {
+      "name": "Prixair Pure Hotel Wuse",
+      "kind": "stay",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "14 Cotonou Crescent",
+      "price": "₦16,000",
+      "id": "nigeria-47d859040bbd1d26502e"
+    },
+    {
+      "name": "Orient Hotel",
+      "kind": "stay",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "price": "13000",
+      "id": "nigeria-1cc0346b65249ef3d12a"
+    },
+    {
+      "name": "New Rendezvous Hotel",
+      "kind": "stay",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "55Plot, 3 Makeni St",
+      "price": "6000",
+      "id": "nigeria-f5dc2e14527548e0d663"
+    },
+    {
+      "name": "DaySpring Hotel",
+      "kind": "stay",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "Zone 6, Plot 4 Juba St",
+      "price": "₦10,000",
+      "id": "nigeria-ac60a3e660cbf90f2b9c"
+    },
+    {
+      "name": "House14",
+      "kind": "stay",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "14 Kudang St",
+      "price": "₦51,000",
+      "id": "nigeria-ee14465178c1bd6630e0"
+    },
+    {
+      "name": "Febson Hotel & Aparments",
+      "kind": "stay",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "zone 4, 2 Lakota St",
+      "price": "₦16,000",
+      "id": "nigeria-1f29cef84398bf62ec84"
+    },
+    {
+      "name": "1st Forty Hotel",
+      "kind": "stay",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "38 Aminu Kano Cres",
+      "price": "₦27,000",
+      "id": "nigeria-cf0200794e1c49548e0b"
+    },
+    {
+      "name": "Crown Princess Hotels",
+      "kind": "stay",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "Lome Cres, Zone 7",
+      "price": "₦10000",
+      "id": "nigeria-814bb69ae64aa8704533"
+    },
+    {
+      "name": "Bjorne Suites",
+      "kind": "stay",
+      "locality": "Abuja/Wuse",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "address": "28 Agadez Cres",
+      "price": "₦33,000",
+      "id": "nigeria-ee4209986a63f2208163"
+    },
+    {
+      "name": "Abuja/Wuse",
+      "kind": "area",
+      "locality": "Abuja/Wuse",
+      "lat": 9.0761,
+      "lon": 7.4759,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FWuse",
+      "id": "nigeria-9e52446e7af306b49a0c"
+    },
+    {
+      "name": "Area 1 Recreation Garden",
+      "kind": "do",
+      "locality": "Abuja/Garki",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FGarki",
+      "address": "Treasure Island, Zoological Park, Opp. Shopping Complex, Area 1.",
+      "id": "nigeria-b08f85899ac72692cb4b"
+    },
+    {
+      "name": "Koltonic world travel and tours",
+      "kind": "do",
+      "locality": "Abuja/Garki",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FGarki",
+      "address": "Shop 2003, area1 shopping plaza",
+      "id": "nigeria-03ec92c03812129532d8"
+    },
+    {
+      "name": "Rotary Fellowship of Palmwine",
+      "kind": "do",
+      "locality": "Abuja/Garki",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FGarki",
+      "address": "10, Soka Cultural Garden Area, 8 Borno St, behind ASD Peugeot Motors",
+      "id": "nigeria-69975e3ef1320cde9df0"
+    },
+    {
+      "name": "Old Parade Ground",
+      "kind": "do",
+      "locality": "Abuja/Garki",
+      "lat": 9.0428,
+      "lon": 7.4889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FGarki",
+      "id": "nigeria-48152477372218e46c13"
+    },
+    {
+      "name": "Emerald Park, Bush Bar",
+      "kind": "eat",
+      "locality": "Abuja/Garki",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FGarki",
+      "address": "Funmilayo Ransome Kuti Rd",
+      "url": "https://web.facebook.com/Emerald-Park-Bush-Bar-285604601821760/?_rdc=1&_rdr",
+      "id": "nigeria-d370c5da102db278c745"
+    },
+    {
+      "name": "Jazz Bar",
+      "kind": "eat",
+      "locality": "Abuja/Garki",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FGarki",
+      "address": "36 Abuja Municipal Area",
+      "id": "nigeria-1709db11b7d2058be004"
+    },
+    {
+      "name": "Clock in Bar & Lounge",
+      "kind": "eat",
+      "locality": "Abuja/Garki",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FGarki",
+      "address": "13 Ogbomosho St",
+      "id": "nigeria-401a77b1ed870ba7d8cd"
+    },
+    {
+      "name": "Calbert Lodge",
+      "kind": "stay",
+      "locality": "Abuja/Garki",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FGarki",
+      "address": "Area 8, No. 16, Aba Close, off Ogbomosho Street, by Lokoja St",
+      "price": "₦9,330",
+      "url": "https://calbert-lodge.business.site/",
+      "id": "nigeria-fb37aa30fe6b00e67f0f"
+    },
+    {
+      "name": "Ritman Hotels",
+      "kind": "stay",
+      "locality": "Abuja/Garki",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FGarki",
+      "address": "11 Ilorin St",
+      "price": "₦10,000",
+      "url": "https://www.ritmanhotels.ng/",
+      "id": "nigeria-3d0a6650cbded9003172"
+    },
+    {
+      "name": "Garki Hotels",
+      "kind": "stay",
+      "locality": "Abuja/Garki",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FGarki",
+      "address": "Plot K78, Lagos Cres",
+      "price": "₦14,000",
+      "url": "https://garki-hotels.business.site/",
+      "id": "nigeria-d4d93f98f46470ac39f3"
+    },
+    {
+      "name": "Abuja/Garki",
+      "kind": "area",
+      "locality": "Abuja/Garki",
+      "lat": 9.0319,
+      "lon": 7.4828,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Abuja%2FGarki",
+      "id": "nigeria-7ddb64e3aff2604060c4"
+    }
+  ],
+  "status": "partial",
+  "note": "Fetched 8 distinct public Wikivoyage source pages; attempted 8 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Coverage cap: Abuja: 3 additional linked subpages not fetched."
+}

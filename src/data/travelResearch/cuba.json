@@ -1,0 +1,992 @@
+{
+  "sources": [
+    {
+      "title": "Cuba",
+      "url": "https://en.wikivoyage.org/wiki/Cuba",
+      "checkedAt": "2026-10-21T08:07:30.511Z"
+    },
+    {
+      "title": "Havana",
+      "url": "https://en.wikivoyage.org/wiki/Havana",
+      "checkedAt": "2026-10-21T08:07:33.673Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Havana",
+      "kind": "area",
+      "locality": "Cuba",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuba",
+      "id": "cuba-42f89268f0e4cade8a59"
+    },
+    {
+      "name": "Baracoa",
+      "kind": "area",
+      "locality": "Cuba",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuba",
+      "id": "cuba-a21c883f12a9e202088f"
+    },
+    {
+      "name": "Camagüey",
+      "kind": "area",
+      "locality": "Cuba",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuba",
+      "id": "cuba-fbfff8252bb2f2c45f86"
+    },
+    {
+      "name": "Cienfuegos",
+      "kind": "area",
+      "locality": "Cuba",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuba",
+      "id": "cuba-cbf4eb4b386ee4a71b18"
+    },
+    {
+      "name": "Matanzas",
+      "kind": "area",
+      "locality": "Cuba",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuba",
+      "id": "cuba-32f81792299f000cf620"
+    },
+    {
+      "name": "Pinar del Rio",
+      "kind": "area",
+      "locality": "Cuba",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuba",
+      "id": "cuba-dc17a6df82c23fe564df"
+    },
+    {
+      "name": "Santa Clara",
+      "kind": "area",
+      "locality": "Cuba",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuba",
+      "id": "cuba-1dfa1dc309e10db97dfe"
+    },
+    {
+      "name": "Santiago de Cuba",
+      "kind": "area",
+      "locality": "Cuba",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuba",
+      "id": "cuba-f5ba02a3caed2189ff90"
+    },
+    {
+      "name": "Trinidad",
+      "kind": "area",
+      "locality": "Cuba",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuba",
+      "id": "cuba-947208dcff237c94b439"
+    },
+    {
+      "name": "El Nicho Waterfalls",
+      "kind": "do",
+      "locality": "Cuba",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuba",
+      "id": "cuba-a425aa74df30716de63b"
+    },
+    {
+      "name": "Museum of the Revolution",
+      "kind": "do",
+      "locality": "Havana",
+      "lat": 23.141667,
+      "lon": -82.356667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Refugio No 1",
+      "price": "Admission ~US$6, use of camera ~US$2 extra",
+      "id": "cuba-3e26ecad7251648d22e5"
+    },
+    {
+      "name": "National Capitol Building",
+      "kind": "do",
+      "locality": "Havana",
+      "lat": 23.135278,
+      "lon": -82.359444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Paseo de Martí, 422",
+      "id": "cuba-67f33f5b91fd1530cdb1"
+    },
+    {
+      "name": "Partagás Cigar factory",
+      "kind": "do",
+      "locality": "Havana",
+      "lat": 23.134246,
+      "lon": -82.360629,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Calle Industria 520",
+      "price": "the equivalent of US$10 in pesos for a guided tour, no photography allowed",
+      "id": "cuba-d38dad6f5ad4d2f553a7"
+    },
+    {
+      "name": "Havana Club Rum Museum",
+      "kind": "do",
+      "locality": "Havana",
+      "lat": 23.135577,
+      "lon": -82.347702,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Avenida del Puerto 262",
+      "id": "cuba-c5ae1b9888a73bba38d4"
+    },
+    {
+      "name": "Plaza de la Revolución",
+      "kind": "do",
+      "locality": "Havana",
+      "lat": 23.12454,
+      "lon": -82.38593,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "id": "cuba-d458844a96287802612e"
+    },
+    {
+      "name": "Lennon Park",
+      "kind": "do",
+      "locality": "Havana",
+      "lat": 23.132021,
+      "lon": -82.400268,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Calle 8",
+      "id": "cuba-c27c6bbe35da4627c21a"
+    },
+    {
+      "name": "US Embassy",
+      "kind": "do",
+      "locality": "Havana",
+      "lat": 23.145882,
+      "lon": -82.387876,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Calle Calzada",
+      "id": "cuba-cc36e0a34e65000340a8"
+    },
+    {
+      "name": "Hotel Habana Libre",
+      "kind": "do",
+      "locality": "Havana",
+      "lat": 23.13957,
+      "lon": -82.38221,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "url": "http://www.solmeliacuba.com/cuba-hotels/hotel-tryp-habanalibre",
+      "id": "cuba-b60fcc85d11a6f4ccbb4"
+    },
+    {
+      "name": "Fabrica de Arte Cubano",
+      "kind": "do",
+      "locality": "Havana",
+      "lat": 23.127483,
+      "lon": -82.409882,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "id": "cuba-ea71e42faab7bb8f356e"
+    },
+    {
+      "name": "Cámara Oscura",
+      "kind": "do",
+      "locality": "Havana",
+      "lat": 23.1363895,
+      "lon": -82.3496753,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "id": "cuba-b0496ccf5538182c6faa"
+    },
+    {
+      "name": "Havana Cathedral",
+      "kind": "do",
+      "locality": "Havana",
+      "lat": 23.141381,
+      "lon": -82.351917,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "id": "cuba-4dadb2715ba0baadd285"
+    },
+    {
+      "name": "Plaza de Armas",
+      "kind": "do",
+      "locality": "Havana",
+      "lat": 23.14023,
+      "lon": -82.34952,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "id": "cuba-abd0234b3ee90b355e39"
+    },
+    {
+      "name": "The Royal Force Castle",
+      "kind": "do",
+      "locality": "Havana",
+      "lat": 23.141131,
+      "lon": -82.349653,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Plaza des Armas",
+      "id": "cuba-a3f332345fb24c75ea98"
+    },
+    {
+      "name": "Museo Nacional de Bellas Artes",
+      "kind": "do",
+      "locality": "Havana",
+      "lat": 23.14,
+      "lon": -82.3573,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Trocadero, btwn Agraminte and Av de las Misiones",
+      "price": "~US$8",
+      "url": "http://www.bellasartes.co.cu/",
+      "id": "cuba-4ff22ad9e80d6eebdfc2"
+    },
+    {
+      "name": "Fortaleza de San Carlos de la Cabaña",
+      "kind": "do",
+      "locality": "Havana",
+      "lat": 23.14745,
+      "lon": -82.35037,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "id": "cuba-49c168cf395cae6c00b9"
+    },
+    {
+      "name": "Colon Cemetery",
+      "kind": "do",
+      "locality": "Havana",
+      "lat": 23.123,
+      "lon": -82.3988,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "price": "~US$5 for foreigners",
+      "id": "cuba-a424ce77af1e24ac9347"
+    },
+    {
+      "name": "Walk along the Malecón",
+      "kind": "do",
+      "locality": "Havana",
+      "lat": 23.14471,
+      "lon": -82.35372,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "id": "cuba-0418c4f1b58b1bdcc8d1"
+    },
+    {
+      "name": "Walk down the Paseo del Prado",
+      "kind": "do",
+      "locality": "Havana",
+      "lat": 23.13776,
+      "lon": -82.40004,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "id": "cuba-38d12fa2244df69c492d"
+    },
+    {
+      "name": "Latin American New Cinema Festival",
+      "kind": "do",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "url": "http://www.habanafilmfestival.com/",
+      "id": "cuba-2b72d36d0a601e7d26d1"
+    },
+    {
+      "name": "Bike tour, Discover Havana by bike",
+      "kind": "do",
+      "locality": "Havana",
+      "lat": 23.13872,
+      "lon": -82.377612,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "117 San Francisco street, Centro Habana, between San Lázaro St. and Jovellar St. Havana",
+      "price": "~US$28",
+      "url": "https://citykleta.com/",
+      "id": "cuba-67116b82a4b3e8ac0273"
+    },
+    {
+      "name": "Take a tour in an old car",
+      "kind": "do",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "price": "~US$20-30/hr for up to 4 people",
+      "id": "cuba-7fe961bf3d2a08417c9f"
+    },
+    {
+      "name": "Go to the eastern beaches",
+      "kind": "do",
+      "locality": "Havana",
+      "lat": 23.17128,
+      "lon": -82.1251,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "price": "~US$5 for a roundtrip",
+      "id": "cuba-eaa114d8e46e149acc51"
+    },
+    {
+      "name": "National Theater",
+      "kind": "do",
+      "locality": "Havana",
+      "lat": 23.1256,
+      "lon": -82.3881,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Paseo & Cl 39, Vedado",
+      "price": "foreigners ~US$10",
+      "id": "cuba-0799fa33858fb286c42b"
+    },
+    {
+      "name": "Museo Nacional de Bellas Artes",
+      "kind": "do",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "id": "cuba-1499ddfc4d346bb7ebe1"
+    },
+    {
+      "name": "Hotel National",
+      "kind": "do",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "id": "cuba-293c04ba148df1051cf2"
+    },
+    {
+      "name": "La Zorra y el Cuervo, La Rampa",
+      "kind": "do",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "id": "cuba-2bf1fcaca3caec6fee34"
+    },
+    {
+      "name": "La Tropical",
+      "kind": "do",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "id": "cuba-c909918a5c6aa6c8c0cf"
+    },
+    {
+      "name": "Casa de la Musica de Centro Habana",
+      "kind": "do",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "id": "cuba-a01d211aad91317a37ef"
+    },
+    {
+      "name": "Museo del Ron",
+      "kind": "do",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "price": "~US$50 with dinner",
+      "id": "cuba-1dcaed672b5a37a4f5be"
+    },
+    {
+      "name": "Bertolt Brecht Cultural Center",
+      "kind": "do",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "258, 13th street, Vedado. Between I street and J street",
+      "id": "cuba-b6a5195df565595997c6"
+    },
+    {
+      "name": "Tropicana Show",
+      "kind": "do",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "price": "~US$90",
+      "id": "cuba-227f8c7cf9d43759a81e"
+    },
+    {
+      "name": "Legendarios del Guajirito",
+      "kind": "do",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "url": "https://www.legendariosdelguajirito.com/",
+      "id": "cuba-a0fbfd033b1f3f24916c"
+    },
+    {
+      "name": "Coppelia Ice Cream parlour",
+      "kind": "eat",
+      "locality": "Havana",
+      "lat": 23.139826,
+      "lon": -82.384417,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "2111 Calle L",
+      "id": "cuba-7e9ceeb312d0230d409d"
+    },
+    {
+      "name": "Chan Li Po",
+      "kind": "eat",
+      "locality": "Havana",
+      "lat": 23.135431,
+      "lon": -82.3657,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Campanario 453 / Zanya & San Jose",
+      "id": "cuba-c7fc31505a4556577c8f"
+    },
+    {
+      "name": "Hanoi",
+      "kind": "eat",
+      "locality": "Havana",
+      "lat": 23.135612,
+      "lon": -82.35663,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Corner of Teniente Rey and Bernaza",
+      "id": "cuba-34a5aaa65908b1b13814"
+    },
+    {
+      "name": "El Aljibe",
+      "kind": "eat",
+      "locality": "Havana",
+      "lat": 23.1194831,
+      "lon": -82.4212612,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Avenida 7ma",
+      "id": "cuba-64efb4602c08941df1b2"
+    },
+    {
+      "name": "La Casa",
+      "kind": "eat",
+      "locality": "Havana",
+      "lat": 23.114039,
+      "lon": -82.399851,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Calle 30 No. 865, Nuevo Vedado",
+      "price": "~US$10-25",
+      "url": "http://www.restaurantlacasa.wordpress.com/",
+      "id": "cuba-87b193922f072364c164"
+    },
+    {
+      "name": "Paladar La Tasquita",
+      "kind": "eat",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Calle 27 de Noviembre (Jovellar No. 160) e/ Espada y San Francisco",
+      "price": "~US$15-25",
+      "id": "cuba-0c6107f11230406cebfb"
+    },
+    {
+      "name": "DNext Bar Cafetería",
+      "kind": "eat",
+      "locality": "Havana",
+      "lat": 23.135698,
+      "lon": -82.35696,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "url": "https://www.facebook.com/dnextbarcafeteria",
+      "id": "cuba-c1f31c3cd419275510c3"
+    },
+    {
+      "name": "Los Marinos",
+      "kind": "eat",
+      "locality": "Havana",
+      "lat": 23.14003,
+      "lon": -82.34753,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "price": "~US$6-30",
+      "id": "cuba-f5d94f7c742376ec50ae"
+    },
+    {
+      "name": "Castropol",
+      "kind": "eat",
+      "locality": "Havana",
+      "lat": 23.1436685,
+      "lon": -82.3609652,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Malecón (Avenida de Maceo) 107",
+      "price": "~US$7-20",
+      "id": "cuba-48d213a6b5cbc35e5477"
+    },
+    {
+      "name": "La Fontana Restaurant",
+      "kind": "eat",
+      "locality": "Havana",
+      "lat": 23.115746,
+      "lon": -82.432809,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Ave. 3ra. A & 46, #305",
+      "price": "From ~US$25/person.",
+      "id": "cuba-3b7c4cf7879abc17c0c5"
+    },
+    {
+      "name": "La Bodeguita del Medio",
+      "kind": "eat",
+      "locality": "Havana",
+      "lat": 23.140774,
+      "lon": -82.352216,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Calle Empedrado",
+      "id": "cuba-7eec13713bb11490330a"
+    },
+    {
+      "name": "El Floridita Bar",
+      "kind": "eat",
+      "locality": "Havana",
+      "lat": 23.137422,
+      "lon": -82.357203,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Calle Obispo",
+      "id": "cuba-07ee8fabe8cf3f73b220"
+    },
+    {
+      "name": "Los Buccaneros Hanoi",
+      "kind": "eat",
+      "locality": "Havana",
+      "lat": 23.13559,
+      "lon": -82.35662,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Calle Brasil and Bernaza",
+      "price": "good mojitos for ~US$1",
+      "id": "cuba-9fe666daf02d56403f05"
+    },
+    {
+      "name": "Factoría Plaza Vieja",
+      "kind": "eat",
+      "locality": "Havana",
+      "lat": 23.1356179,
+      "lon": -82.3502387,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Plaza Vieja",
+      "price": "~US$2 for a glass of beer, ~US$12.50 for a 'meter' of beer.",
+      "id": "cuba-302d9de7433bd2670e07"
+    },
+    {
+      "name": "Casa Ana & Surama",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23.13478,
+      "lon": -82.35004,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "San Ignacio no 454 2º piso entre Sol y Vieja Santa Clara La Habana Cuba",
+      "price": "€25-60 Depending room and how may persons and when",
+      "url": "https://www.anaysurama.com/",
+      "id": "cuba-5fc534a7fea19cfbbb72"
+    },
+    {
+      "name": "Casa \"Todo de Aitana\"",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23.132286,
+      "lon": -82.40554,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "14 street, #51, between Linea Ave. and 11 street, Vedado",
+      "price": "US$35-50 (depends on season)",
+      "url": "https://www.airbnb.com/rooms/15798248",
+      "id": "cuba-8c68551c6b7a64487b0c"
+    },
+    {
+      "name": "Ana y Chuchi",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23.133837,
+      "lon": -82.353925,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Aguacate 513, Havana Vieja",
+      "price": "~US$25-30 inc. breakfast",
+      "url": "http://casaanaychuchi.blogspot.com/p/la-casa.html",
+      "id": "cuba-ec56cd15e29bf507c430"
+    },
+    {
+      "name": "Casa Mabel",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23.1384721,
+      "lon": -82.361115,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Industria No. 270 (altos), between Neptuno and Virtudes, Centro Habana",
+      "price": "~US$25",
+      "id": "cuba-681373aedca4f6fbc130"
+    },
+    {
+      "name": "Jorge Leon de la Hoz",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23.1370552,
+      "lon": -82.379791,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Neptuno No. 1218 (altos), e/ Mazon y Basarrate, Vedado Plaza",
+      "id": "cuba-ef55e7ced94540c768a3"
+    },
+    {
+      "name": "Señores Elsa y Julio Roque",
+      "kind": "stay",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Consulado No. 162, apto. 2 (between Colon and Trocadero)",
+      "id": "cuba-b63d7cbca855366bad73"
+    },
+    {
+      "name": "Casa Olga",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23.1390755,
+      "lon": -82.3635575,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Galiano No. 206 e/Virtudes y Concordia",
+      "id": "cuba-7b5a62b08858ce77f2d7"
+    },
+    {
+      "name": "Casa Lopez",
+      "kind": "stay",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "id": "cuba-1eb6bee3c02d7a2e85f1"
+    },
+    {
+      "name": "Señora Ivette Flores",
+      "kind": "stay",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "price": "ppn: ~US$25 including abundant breakfast",
+      "id": "cuba-57af21f29f514027e602"
+    },
+    {
+      "name": "Casa Mireya",
+      "kind": "stay",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "47 Ave. #5211",
+      "id": "cuba-98f749e778358069a34b"
+    },
+    {
+      "name": "Casa Mra Cristina & Guillermo",
+      "kind": "stay",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Calle 21 e/N and O - Building #15 Apartment 7-A, Vedado",
+      "price": "~US$35",
+      "id": "cuba-0c42b034e0a266d46193"
+    },
+    {
+      "name": "Casa Ines",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23.1164759,
+      "lon": -82.3854982,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Calle Segunda #559",
+      "url": "http://www.casaines.com/",
+      "id": "cuba-deb066cd1509b5390e26"
+    },
+    {
+      "name": "Casa de Jesus y Saida Valdez,Calle 24 #262, Apt #5",
+      "kind": "stay",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "id": "cuba-6074f1fa4ae69f62dd9e"
+    },
+    {
+      "name": "Casa Cary",
+      "kind": "stay",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Virtudes #511",
+      "id": "cuba-5e7c12393840ed882729"
+    },
+    {
+      "name": "Casa de Lydia y Felix Pedro",
+      "kind": "stay",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "15 St #456, Vedado",
+      "id": "cuba-5a02c18f5fa0b5273d95"
+    },
+    {
+      "name": "La Casa de Ana",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23.1246754,
+      "lon": -82.4088852,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "17 St #1422, Apt 1 (between 26 st and 28 st), Vedado",
+      "url": "http://www.anahavana.com/",
+      "id": "cuba-04e4da648fbc31ba9366"
+    },
+    {
+      "name": "Alicia Beaton, Havana",
+      "kind": "stay",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "CRESPO No. 10, e/ San Lazaro y Malecon, Vedado",
+      "price": "~US$20-25",
+      "id": "cuba-5678a1e69f70a0c3102c"
+    },
+    {
+      "name": "Casa Nora, Havana",
+      "kind": "stay",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Calle 27 No. 954 e/ 6 y 8 apt 4, Vedado, Habana",
+      "price": "~US$20–25",
+      "id": "cuba-fac984ecdc940eba1859"
+    },
+    {
+      "name": "Sra. Ivón de los Angeles Acosta",
+      "kind": "stay",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Central no. 2 entre Conil y Tulipán, Nuevo Vedado, Plaza de la Revolucion",
+      "id": "cuba-c18a17e45e8f23bc6fd3"
+    },
+    {
+      "name": "Casa Tere",
+      "kind": "stay",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Consulado no. 303, entre Neptuno y Virtudes, Havana Center",
+      "price": "~US$25/night, 1 room with air con, 2 single bed",
+      "id": "cuba-68a58431e2b1d040349b"
+    },
+    {
+      "name": "Casa 1932",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23.1410722,
+      "lon": -82.3656957,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Campanario 63 bajos entre San Lazaro y Lagunas, Havana Center",
+      "price": "~US$30/night, 2 room with air con, 2 single bed & one double bed",
+      "url": "http://www.casahabana.net/",
+      "id": "cuba-a9def5bee298a6dbddbc"
+    },
+    {
+      "name": "Casa Milagros Diez",
+      "kind": "stay",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Calle Manrique No. 208 (bajos)",
+      "price": "from ~US$25/night, 2 double rooms with en suite bathroom accessible for people in wheelchairs",
+      "id": "cuba-fb7182b099ddfbb64603"
+    },
+    {
+      "name": "Casa Xiomara Hernández",
+      "kind": "stay",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "price": "from ~US$25/night, two double rooms en-suite",
+      "id": "cuba-94b0785595d6360db603"
+    },
+    {
+      "name": "Casa Lázaro",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23.13499,
+      "lon": -82.3552,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Villegas #427 between Teniente Rey and Muralla",
+      "price": "~US$20-25",
+      "id": "cuba-eb6456a9c1a68b30523c"
+    },
+    {
+      "name": "Hostel Carpizon",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23.13922,
+      "lon": -82.35132,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Street San Ignacio corner Obispo",
+      "price": "~US$25",
+      "id": "cuba-d88003af2d340397f4b2"
+    },
+    {
+      "name": "Sizemore Habana",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23.1307981,
+      "lon": -82.351111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Calle Habana No 923 Altos, Habana Vieja",
+      "url": "https://siemprehabana.yolasite.com/",
+      "id": "cuba-9e8a5f1782af7598b3fc"
+    },
+    {
+      "name": "Ricardo's Place",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23.099576,
+      "lon": -82.372972,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "110 D'Strampes",
+      "price": "US$18-22",
+      "url": "https://www.airbnb.com/rooms/12697410",
+      "id": "cuba-9331ba62843e33652eb2"
+    },
+    {
+      "name": "Casa Vitrales",
+      "kind": "stay",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "106 Calle Havana",
+      "url": "https://www.cvitrales.com/EN/location.php",
+      "id": "cuba-686f2d26f6196076b113"
+    },
+    {
+      "name": "Near Airport",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23,
+      "lon": -82.4131,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Hostal T&C",
+      "id": "cuba-2c3dd4e5e105d0e55df8"
+    },
+    {
+      "name": "Hamel Hostel",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23.1386985,
+      "lon": -82.3759758,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "308 Hospital Street",
+      "id": "cuba-f7410b4964a1f4ec6d83"
+    },
+    {
+      "name": "D Robles Hostel",
+      "kind": "stay",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Escobar 161 E/animas Y Virtudes",
+      "price": "~US$7 per person.",
+      "id": "cuba-e63cd88d5c0e1a437e87"
+    },
+    {
+      "name": "Enzo's Backpackers Hostel",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23.120029,
+      "lon": -82.3764635,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "20 De Mayo Avenue 426 10th floor. Apartment 101",
+      "price": "~US$9 per person",
+      "id": "cuba-9bfb475bb226e64d2293"
+    },
+    {
+      "name": "Casa de Sergio and Miriam",
+      "kind": "stay",
+      "locality": "Havana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Luz 109",
+      "url": "http://www.monkibo.com/havana",
+      "id": "cuba-4fc706dcb9c728dcc265"
+    },
+    {
+      "name": "Hotel Inglaterra",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23.137563,
+      "lon": -82.3594763,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "price": "Rooms from US$80",
+      "url": "http://www.hotelinglaterracuba.com/",
+      "id": "cuba-6ea8eca4c37673265447"
+    },
+    {
+      "name": "Hotel Mercure Sevilla Havane",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23.14045,
+      "lon": -82.35815,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Trocadero 55 e, Prado y Zulueta Habana Vieja",
+      "url": "https://www.hotelsevillahabana.com/",
+      "id": "cuba-abcfdbda275aa5945713"
+    },
+    {
+      "name": "Hotel Telegrafo",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23.1380163,
+      "lon": -82.359558,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Prado and Neptuno, Old Havana",
+      "price": "US$80–120, cheaper if you book ahead with Opodo",
+      "id": "cuba-5bc39777f926d422ed5a"
+    },
+    {
+      "name": "Tryp Habana Libre Hotel",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23.13947,
+      "lon": -82.382469,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Calle L",
+      "id": "cuba-1c6aed4696754ff5abaf"
+    },
+    {
+      "name": "Hotel Habana Riviera",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23.139756,
+      "lon": -82.40417,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "url": "http://www.hotelhavanariviera.com/",
+      "id": "cuba-9affacacc3d7660110db"
+    },
+    {
+      "name": "Hotel Nacional de Cuba",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23.143056,
+      "lon": -82.380556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Calle 0 esq. 21",
+      "price": "Rooms from US$150",
+      "url": "http://www.hotelnacional-cuba.com/",
+      "id": "cuba-f8e5a76b3046184cabd0"
+    },
+    {
+      "name": "Hotel Parque Central",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23.1388311,
+      "lon": -82.3586932,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "On Neptuno",
+      "url": "http://www.hotelnhparquecentral.com/",
+      "id": "cuba-0b3c4ad1ee7296b9371a"
+    },
+    {
+      "name": "Hotel Conde de Villanueva",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23.1379863,
+      "lon": -82.349821,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Calle Mercaderes esq. Amagura, Old Havana",
+      "id": "cuba-ce51ee9af1414a2373f4"
+    },
+    {
+      "name": "Hotel Ambos Mundos",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23.13938,
+      "lon": -82.35054,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Obispo esquina a Mercaderes",
+      "url": "http://www.hotelambosmundos-cuba.com/",
+      "id": "cuba-1a4266a2c58429cb3845"
+    },
+    {
+      "name": "Hotel Park View",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23.141355,
+      "lon": -82.3580094,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "url": "http://www.hotelparkview-cuba.com/",
+      "id": "cuba-156c45f245d112b0d51c"
+    },
+    {
+      "name": "Hotel Plaza",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23.138497,
+      "lon": -82.3582936,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Ignacio Agramonte No. 267",
+      "url": "http://www.hotelplazacuba.com/",
+      "id": "cuba-2371aadf47ada5b524e1"
+    },
+    {
+      "name": "Hotel Santa Isabel",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23.14024,
+      "lon": -82.3488354,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Baratillo 9",
+      "url": "http://www.hotelsantaisabel.com/",
+      "id": "cuba-a8e45b7841111c173768"
+    },
+    {
+      "name": "Hotel Meliá La Habana",
+      "kind": "stay",
+      "locality": "Havana",
+      "lat": 23.1086107,
+      "lon": -82.4417454,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "address": "Ave. 3Era. E/ 76 Y 80 Miramar",
+      "id": "cuba-2553a8b93f6cb5dbb856"
+    },
+    {
+      "name": "Havana",
+      "kind": "area",
+      "locality": "Havana",
+      "lat": 23.1168,
+      "lon": -82.3886,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Havana",
+      "id": "cuba-592b486649a47b6279a7"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

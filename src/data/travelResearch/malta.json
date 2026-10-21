@@ -1,0 +1,854 @@
+{
+  "sources": [
+    {
+      "title": "Malta",
+      "url": "https://en.wikivoyage.org/wiki/Malta",
+      "checkedAt": "2026-10-21T08:10:58.419Z"
+    },
+    {
+      "title": "Valletta",
+      "url": "https://en.wikivoyage.org/wiki/Valletta",
+      "checkedAt": "2026-10-21T08:11:01.388Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Valletta",
+      "kind": "area",
+      "locality": "Malta",
+      "lat": 35.884444,
+      "lon": 14.506944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malta",
+      "id": "malta-1141d1e7316d3e6c5eda"
+    },
+    {
+      "name": "Cottonera",
+      "kind": "area",
+      "locality": "Malta",
+      "lat": 35.876944,
+      "lon": 14.521944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malta",
+      "id": "malta-9633643e909c849ab6b9"
+    },
+    {
+      "name": "Marsaxlokk",
+      "kind": "area",
+      "locality": "Malta",
+      "lat": 35.841667,
+      "lon": 14.544722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malta",
+      "id": "malta-2ff8449b1f234165f13b"
+    },
+    {
+      "name": "Mdina",
+      "kind": "area",
+      "locality": "Malta",
+      "lat": 35.885833,
+      "lon": 14.403056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malta",
+      "id": "malta-e86692897baca8e2cce2"
+    },
+    {
+      "name": "Mosta",
+      "kind": "area",
+      "locality": "Malta",
+      "lat": 35.909722,
+      "lon": 14.426111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malta",
+      "id": "malta-a2b5fa07c881b0472769"
+    },
+    {
+      "name": "Rabat",
+      "kind": "area",
+      "locality": "Malta",
+      "lat": 35.881667,
+      "lon": 14.398889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malta",
+      "id": "malta-0b8bab40a57a7eab27b0"
+    },
+    {
+      "name": "St. Julian's",
+      "kind": "area",
+      "locality": "Malta",
+      "lat": 35.918611,
+      "lon": 14.49,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malta",
+      "id": "malta-8c031d4d799f303cef63"
+    },
+    {
+      "name": "Sliema",
+      "kind": "area",
+      "locality": "Malta",
+      "lat": 35.912222,
+      "lon": 14.504167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malta",
+      "id": "malta-ff47de0cd31942a6d2f0"
+    },
+    {
+      "name": "Victoria",
+      "kind": "area",
+      "locality": "Malta",
+      "lat": 36.043611,
+      "lon": 14.243056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malta",
+      "id": "malta-7b13ba5feedfe32edda5"
+    },
+    {
+      "name": "Mdina",
+      "kind": "do",
+      "locality": "Malta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malta",
+      "id": "malta-29cd32761c10573b6b3f"
+    },
+    {
+      "name": "Valetta",
+      "kind": "do",
+      "locality": "Malta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malta",
+      "id": "malta-aea0c2f2e938f49fdd48"
+    },
+    {
+      "name": "Megalithic Temples",
+      "kind": "do",
+      "locality": "Malta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malta",
+      "id": "malta-5e9160ef9313d6dad643"
+    },
+    {
+      "name": "Gozo Island",
+      "kind": "do",
+      "locality": "Malta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malta",
+      "id": "malta-0cd5d9aa162dbeb12365"
+    },
+    {
+      "name": "Maltese Traditional Life",
+      "kind": "do",
+      "locality": "Malta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malta",
+      "id": "malta-111a642bdf8449e1fa90"
+    },
+    {
+      "name": "Ċisk",
+      "kind": "eat",
+      "locality": "Malta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malta",
+      "id": "malta-9fa687e277b0adb32f7e"
+    },
+    {
+      "name": "Blue Label Ale",
+      "kind": "eat",
+      "locality": "Malta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malta",
+      "id": "malta-6db619fbc9d71604a5be"
+    },
+    {
+      "name": "Hopleaf",
+      "kind": "eat",
+      "locality": "Malta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malta",
+      "id": "malta-e583335263588aee44a2"
+    },
+    {
+      "name": "1565",
+      "kind": "eat",
+      "locality": "Malta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malta",
+      "id": "malta-61096037ab4908dcd12f"
+    },
+    {
+      "name": "Lacto",
+      "kind": "eat",
+      "locality": "Malta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malta",
+      "id": "malta-d3d62afdeba671120447"
+    },
+    {
+      "name": "Shandy",
+      "kind": "eat",
+      "locality": "Malta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malta",
+      "id": "malta-38a3ee51187937a37868"
+    },
+    {
+      "name": "Kinnie",
+      "kind": "eat",
+      "locality": "Malta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Malta",
+      "url": "https://kinnie.com/",
+      "id": "malta-8b023b67ea7c58c39791"
+    },
+    {
+      "name": "St. John's Co Cathedral",
+      "kind": "do",
+      "locality": "Valletta",
+      "lat": 35.897778,
+      "lon": 14.512778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "price": "€15 for adults (includes an audio guide) — buy online to skip the queue for tickets",
+      "url": "http://www.stjohnscocathedral.com/",
+      "id": "malta-85a1fad08daa64c1305a"
+    },
+    {
+      "name": "Belfrey Tour",
+      "kind": "do",
+      "locality": "Valletta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "price": "€5 extra",
+      "id": "malta-78d51dc002873a064214"
+    },
+    {
+      "name": "Works by Caravaggio",
+      "kind": "do",
+      "locality": "Valletta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "url": "http://www.maltacultureguide.com/index.php?page=article&article_id=16",
+      "id": "malta-84bd3523d2465a6bf521"
+    },
+    {
+      "name": "Palace of the Grand Masters",
+      "kind": "do",
+      "locality": "Valletta",
+      "lat": 35.898833,
+      "lon": 14.514056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "price": "Adults €12, senior (60+) or youth (12-17) €10, child (6-11) €8",
+      "url": "http://heritagemalta.org/museums-sites/the-palace-armoury/",
+      "id": "malta-ff7306166cdd2e3fc4c8"
+    },
+    {
+      "name": "The Malta Experience",
+      "kind": "do",
+      "locality": "Valletta",
+      "lat": 35.8998,
+      "lon": 14.5187,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "St Elmo Bastions, Mediterranean St",
+      "price": "Adult €20, student with ID €15.50, child 5 - 11 years old €9",
+      "url": "http://www.themaltaexperience.com/",
+      "id": "malta-138c0b53b1f5d8ab65f7"
+    },
+    {
+      "name": "The Upper Barrakka Gardens",
+      "kind": "do",
+      "locality": "Valletta",
+      "lat": 35.894722,
+      "lon": 14.512222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "id": "malta-95612cdf9c9d1dab75b5"
+    },
+    {
+      "name": "The National Museum of Archaeology",
+      "kind": "do",
+      "locality": "Valletta",
+      "lat": 35.8975,
+      "lon": 14.51125,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "Auberge de Provence, Republic St",
+      "price": "€5.00",
+      "url": "http://www.heritagemalta.org/",
+      "id": "malta-ab38a376cc9ad337358d"
+    },
+    {
+      "name": "Fort St. Elmo",
+      "kind": "do",
+      "locality": "Valletta",
+      "lat": 35.901944,
+      "lon": 14.518611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "price": "€10",
+      "url": "http://heritagemalta.org/museums-sites/national-war-museum/",
+      "id": "malta-909b74ed4ffa83200895"
+    },
+    {
+      "name": "Fortifications of Valletta",
+      "kind": "do",
+      "locality": "Valletta",
+      "lat": 35.89799,
+      "lon": 14.50776,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "id": "malta-ccca978c669b291d312b"
+    },
+    {
+      "name": "The National Library",
+      "kind": "do",
+      "locality": "Valletta",
+      "lat": 35.898235,
+      "lon": 14.513551,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "36 Old Treasury Street",
+      "url": "http://education.gov.mt/en/education/malta-libraries/Pages/default.aspx",
+      "id": "malta-25d9ede5b4594f13fa83"
+    },
+    {
+      "name": "The Sacra Infermeria",
+      "kind": "do",
+      "locality": "Valletta",
+      "lat": 35.8995,
+      "lon": 14.518,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "url": "http://www.mcc.com.mt/",
+      "id": "malta-d14fc05f5d9ccc6dd449"
+    },
+    {
+      "name": "The Casa Rocca Piccola",
+      "kind": "do",
+      "locality": "Valletta",
+      "lat": 35.899861,
+      "lon": 14.515417,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "74 Republic St.",
+      "url": "http://www.casaroccapiccola.com/",
+      "id": "malta-a1fcdea8d3a968c288b4"
+    },
+    {
+      "name": "St. James Cavalier",
+      "kind": "do",
+      "locality": "Valletta",
+      "lat": 35.895786,
+      "lon": 14.510303,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "id": "malta-333759e5a4b5a438ddb6"
+    },
+    {
+      "name": "Hal Saflieni Hypogeum",
+      "kind": "do",
+      "locality": "Valletta",
+      "lat": 35.86953,
+      "lon": 14.50689,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "Triq Ic Cimiterju, Paola",
+      "price": "€35 in advance (€20 for seniors 60+), €50 for \"last minute\" tickets, if available",
+      "url": "http://heritagemalta.org/museums-sites/hal-saflieni-hypogeum/",
+      "id": "malta-f734ba909aaacd1e67b2"
+    },
+    {
+      "name": "Tarxien Temples",
+      "kind": "do",
+      "locality": "Valletta",
+      "lat": 35.869167,
+      "lon": 14.511944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "Triq It Tempji Neolitici, Tarxien",
+      "price": "€6",
+      "url": "http://heritagemalta.org/museums-sites/tarxien-temples/",
+      "id": "malta-10c7d7954da00a161c97"
+    },
+    {
+      "name": "Lascaris War Rooms",
+      "kind": "do",
+      "locality": "Valletta",
+      "lat": 35.89515,
+      "lon": 14.51201,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "Lascaris Ditch",
+      "price": "Adult (16+) €20, senior €19, family (2 adults & 3 children under 16) €35, child (5-15) €7",
+      "url": "https://www.lascariswarrooms.com/",
+      "id": "malta-ad73389686e6df13f7fd"
+    },
+    {
+      "name": "St Paul's Pro-Cathedral",
+      "kind": "do",
+      "locality": "Valletta",
+      "lat": 35.90067,
+      "lon": 14.51201,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "Independence Square",
+      "url": "http://www.anglicanmalta.org/diocese/st-pauls-pro-cathedral/",
+      "id": "malta-224f7289bb26973833e4"
+    },
+    {
+      "name": "Malta Postal Museum",
+      "kind": "do",
+      "locality": "Valletta",
+      "lat": 35.898611,
+      "lon": 14.514722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "135 Archbishop Street",
+      "price": "€5",
+      "url": "http://www.maltapostalmuseum.com/",
+      "id": "malta-01a4e9e75b6985edb786"
+    },
+    {
+      "name": "City Gate",
+      "kind": "do",
+      "locality": "Valletta",
+      "lat": 35.896111,
+      "lon": 14.509167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "id": "malta-9be8497b6bc08beb854b"
+    },
+    {
+      "name": "Parliament House",
+      "kind": "do",
+      "locality": "Valletta",
+      "lat": 35.896194,
+      "lon": 14.50975,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "url": "https://parlament.mt/",
+      "id": "malta-d2588466a72897e78ba5"
+    },
+    {
+      "name": "Coastal Walk",
+      "kind": "do",
+      "locality": "Valletta",
+      "lat": 35.90146,
+      "lon": 14.5116,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "id": "malta-569086c23e94868d2668"
+    },
+    {
+      "name": "St. George's Square",
+      "kind": "do",
+      "locality": "Valletta",
+      "lat": 35.89907,
+      "lon": 14.51361,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "id": "malta-c54404cf3197663870c8"
+    },
+    {
+      "name": "Audio Guide",
+      "kind": "do",
+      "locality": "Valletta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "url": "http://www.myguide.com.mt/myguide-rentals",
+      "id": "malta-cbf0b56c34b5c2ee6509"
+    },
+    {
+      "name": "Saluting Battery",
+      "kind": "do",
+      "locality": "Valletta",
+      "lat": 35.8946,
+      "lon": 14.51254,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "Battery Street",
+      "price": "Entrance €3",
+      "url": "http://www.salutingbattery.com/visitor-info.html",
+      "id": "malta-1ec2eda2e5598f407b13"
+    },
+    {
+      "name": "Manoel Theatre",
+      "kind": "do",
+      "locality": "Valletta",
+      "lat": 35.899827,
+      "lon": 14.512821,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "Old Theatre St,",
+      "url": "http://www.teatrumanoel.com.mt/",
+      "id": "malta-4c9dcb0439f7ebef8921"
+    },
+    {
+      "name": "Pjazza Teatru Rjal",
+      "kind": "do",
+      "locality": "Valletta",
+      "lat": 35.89656,
+      "lon": 14.51034,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "Casa Cassar, Triq il-Vittorja",
+      "url": "https://culture.gov.mt/en/pjazzateatrurjal/Pages/main.aspx",
+      "id": "malta-4a21c20e0f8f3b23a018"
+    },
+    {
+      "name": "Valletta International Baroque Festival",
+      "kind": "do",
+      "locality": "Valletta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "url": "https://www.vallettabaroquefestival.mt/",
+      "id": "malta-0cf9f8d84a5c898ac6ce"
+    },
+    {
+      "name": "Valletta F.C.",
+      "kind": "do",
+      "locality": "Valletta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "url": "http://www.vallettafcofficial.net/",
+      "id": "malta-02d4cab315b6ee95a126"
+    },
+    {
+      "name": "Floriana F.C.",
+      "kind": "do",
+      "locality": "Valletta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "url": "http://www.florianafc.com/",
+      "id": "malta-58a0d591c1e7aa76f6a8"
+    },
+    {
+      "name": "Hibernians F.C.",
+      "kind": "do",
+      "locality": "Valletta",
+      "lat": 35.882917,
+      "lon": 14.513,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "Tony Bezzina Stadium, Paola",
+      "url": "http://www.hiberniansfc.org/",
+      "id": "malta-cee2bec46f17cb941cab"
+    },
+    {
+      "name": "No.43",
+      "kind": "eat",
+      "locality": "Valletta",
+      "lat": 35.897736,
+      "lon": 14.513663,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "43, Triq Il-Merkanti",
+      "url": "https://www.facebook.com/no43valletta/",
+      "id": "malta-7a8e7c45faa09f5d984a"
+    },
+    {
+      "name": "The Submarine",
+      "kind": "eat",
+      "locality": "Valletta",
+      "lat": 35.8975738,
+      "lon": 14.5134883,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "Triq il-merkanti 42",
+      "id": "malta-7a0fb75b80fdcf588025"
+    },
+    {
+      "name": "Croce Bonaci Caterers",
+      "kind": "eat",
+      "locality": "Valletta",
+      "lat": 35.89685,
+      "lon": 14.5127245,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "24D, San Gwann",
+      "id": "malta-c29c9d78a6b69d3b79da"
+    },
+    {
+      "name": "Museum Cafe",
+      "kind": "eat",
+      "locality": "Valletta",
+      "lat": 35.8965281,
+      "lon": 14.5116597,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "Melita St",
+      "id": "malta-f0293c14065bf0d668fd"
+    },
+    {
+      "name": "Old Bakery's Pizza e Pasta",
+      "kind": "eat",
+      "locality": "Valletta",
+      "lat": 35.8976313,
+      "lon": 14.5094764,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "28 A South Street Valletta",
+      "id": "malta-841a040f6607a31c755a"
+    },
+    {
+      "name": "The Circle's Bar And Coffe Shop",
+      "kind": "eat",
+      "locality": "Valletta",
+      "lat": 35.8996202,
+      "lon": 14.5148361,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "St. Christopher's Street",
+      "id": "malta-9dc9a69bc3776518200b"
+    },
+    {
+      "name": "De Robertis",
+      "kind": "eat",
+      "locality": "Valletta",
+      "lat": 35.8956,
+      "lon": 14.5118,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "Castille Square",
+      "url": "http://www.hotelcastillemalta.com/",
+      "id": "malta-d7dc3d5ff4acfc0d5e85"
+    },
+    {
+      "name": "Da' Pippo Trattoria",
+      "kind": "eat",
+      "locality": "Valletta",
+      "lat": 35.8989,
+      "lon": 14.5095,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "136 Melita St",
+      "url": "https://www.yellow.com.mt/da-pippo-trattoria_restaurants+valletta/",
+      "id": "malta-e917444e46c52ab94355"
+    },
+    {
+      "name": "Caffe Cordina",
+      "kind": "eat",
+      "locality": "Valletta",
+      "lat": 35.89856,
+      "lon": 14.51333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "244/5 Republic St",
+      "url": "http://www.caffecordina.com/",
+      "id": "malta-661eda85fe573b800692"
+    },
+    {
+      "name": "Malata Restaurant",
+      "kind": "eat",
+      "locality": "Valletta",
+      "lat": 35.89917,
+      "lon": 14.51331,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "St Georges Palace Sq",
+      "id": "malta-784f147d88097dd638ac"
+    },
+    {
+      "name": "Rubino",
+      "kind": "eat",
+      "locality": "Valletta",
+      "lat": 35.899307,
+      "lon": 14.512145,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "53 Old Bakery Street",
+      "url": "http://www.rubinomalta.com/",
+      "id": "malta-1c8d99731f2fd4df814a"
+    },
+    {
+      "name": "Scoglitti",
+      "kind": "eat",
+      "locality": "Valletta",
+      "lat": 35.900097,
+      "lon": 14.509678,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "8' Triq il-Lanca Marsamxett",
+      "id": "malta-a4531c41bc20e5a74829"
+    },
+    {
+      "name": "Nenu the Artisan Baker",
+      "kind": "eat",
+      "locality": "Valletta",
+      "lat": 35.89905,
+      "lon": 14.51634,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "Triq St Dominic, 143",
+      "price": "ftira €12, mains €14-18",
+      "url": "http://nenuthebaker.com/",
+      "id": "malta-3f0237e1c5e67f73725f"
+    },
+    {
+      "name": "Luciano Restaurant",
+      "kind": "eat",
+      "locality": "Valletta",
+      "lat": 35.8971,
+      "lon": 14.513,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "21/22 Merchant Street",
+      "url": "http://www.vallettaboutique.com/",
+      "id": "malta-6efd4024b024df0ab1d6"
+    },
+    {
+      "name": "Legligin",
+      "kind": "eat",
+      "locality": "Valletta",
+      "lat": 35.899229,
+      "lon": 14.511741,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "117/119, Santa Lucia Street",
+      "price": "Set menu €35 lunch, €45 dinner",
+      "url": "https://www.facebook.com/pages/Legligin-Valletta/150267571722429",
+      "id": "malta-4d2566db5a2e693db4e7"
+    },
+    {
+      "name": "Café Deux Baronnes",
+      "kind": "eat",
+      "locality": "Valletta",
+      "lat": 35.8951,
+      "lon": 14.51248,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "Triq Sant’ Orsla",
+      "url": "https://www.facebook.com/bestviewinMalta/",
+      "id": "malta-c29ae31e1eaa2af5bc98"
+    },
+    {
+      "name": "Trabuxu Wine Bar",
+      "kind": "eat",
+      "locality": "Valletta",
+      "lat": 35.89716,
+      "lon": 14.51008,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "2 Strait Street",
+      "url": "http://trabuxu.com.mt/",
+      "id": "malta-39ae243b02c0189e104f"
+    },
+    {
+      "name": "Rampila Restaurant and Wine bar",
+      "kind": "eat",
+      "locality": "Valletta",
+      "lat": 35.89685,
+      "lon": 14.50892,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "St John's Cavalier",
+      "url": "http://www.rampila.com/",
+      "id": "malta-bf5381e48aa2591eda09"
+    },
+    {
+      "name": "The Pub",
+      "kind": "eat",
+      "locality": "Valletta",
+      "lat": 35.89867,
+      "lon": 14.51472,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "136, Archbishop Street",
+      "id": "malta-9d1200a9ec1feb8dec75"
+    },
+    {
+      "name": "Cafe Society",
+      "kind": "eat",
+      "locality": "Valletta",
+      "lat": 35.896471,
+      "lon": 14.512995,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "13 Triq San Gwann",
+      "url": "https://www.instagram.com/cafesociety_valletta/",
+      "id": "malta-5da397fca7434d7e11ae"
+    },
+    {
+      "name": "Asti Guesthouse",
+      "kind": "stay",
+      "locality": "Valletta",
+      "lat": 35.89586,
+      "lon": 14.51267,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "18 St Ursula St",
+      "price": "€20",
+      "url": "http://www.casaastimalta.com/",
+      "id": "malta-fd70b06fc9f43240f9f6"
+    },
+    {
+      "name": "Grand Harbour Hotel",
+      "kind": "stay",
+      "locality": "Valletta",
+      "lat": 35.89539,
+      "lon": 14.5124,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "Battery Street, 47",
+      "price": "standard double rooms from €100 (from €80 in low season), including breakfast",
+      "url": "http://www.grandharbourhotel.com/",
+      "id": "malta-0de7fd1c12b354d1b503"
+    },
+    {
+      "name": "British Hotel",
+      "kind": "stay",
+      "locality": "Valletta",
+      "lat": 35.8958,
+      "lon": 14.5132,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "40 Battery St",
+      "price": "rates from about €120",
+      "url": "http://www.britishhotel.com/",
+      "id": "malta-59e31fc7d353b00f8b1c"
+    },
+    {
+      "name": "Valletta G-House",
+      "kind": "stay",
+      "locality": "Valletta",
+      "lat": 35.90082,
+      "lon": 14.51703,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "60 North St",
+      "price": "€150/night",
+      "url": "http://www.vallettahouse.com/",
+      "id": "malta-e453d1c8ed716d1dcea6"
+    },
+    {
+      "name": "Valletta Suites",
+      "kind": "stay",
+      "locality": "Valletta",
+      "lat": 35.8996,
+      "lon": 14.5112,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "St Lucia St",
+      "price": "€140 per suite per night",
+      "url": "http://www.vallettasuites.com/",
+      "id": "malta-b05603c51663279029cb"
+    },
+    {
+      "name": "De Vilhena",
+      "kind": "stay",
+      "locality": "Valletta",
+      "lat": 35.89992,
+      "lon": 14.51229,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "Old Theatre Street 55",
+      "price": "rates from €140",
+      "url": "http://devilhena.com/",
+      "id": "malta-796212f0ea71306d9cac"
+    },
+    {
+      "name": "Casa Ellul",
+      "kind": "stay",
+      "locality": "Valletta",
+      "lat": 35.89984,
+      "lon": 14.51221,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "81 Old Theatre Street, Valletta VLT 1429, Malta",
+      "url": "http://www.casaellul.com/",
+      "id": "malta-13682e5eb02b9a9f28ab"
+    },
+    {
+      "name": "Grand Hotel Excelsior",
+      "kind": "stay",
+      "locality": "Valletta",
+      "lat": 35.8972,
+      "lon": 14.5052,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "Great Siege Rd, Floriana",
+      "url": "http://www.excelsior.com.mt/",
+      "id": "malta-377719c98553f48a7a39"
+    },
+    {
+      "name": "The Phoenicia",
+      "kind": "stay",
+      "locality": "Valletta",
+      "lat": 35.8953,
+      "lon": 14.5071,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "The Mall, Floriana",
+      "price": "€250 per room per night",
+      "url": "http://www.campbellgrayhotels.com/",
+      "id": "malta-88843391ae7d5d66abe1"
+    },
+    {
+      "name": "Palazzo Consiglia",
+      "kind": "stay",
+      "locality": "Valletta",
+      "lat": 35.89806,
+      "lon": 14.51626,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "Saint Ursula Street 102",
+      "price": "rates from about €200 upwards",
+      "url": "http://palazzoconsiglia.com/",
+      "id": "malta-d8ac4eb56f5e6a5ca634"
+    },
+    {
+      "name": "Osborne Hotel",
+      "kind": "stay",
+      "locality": "Valletta",
+      "lat": 35.8986,
+      "lon": 14.50884,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "50 South St",
+      "price": "€200",
+      "url": "http://www.osbornehotel.com/",
+      "id": "malta-bab15052734478004a7c"
+    },
+    {
+      "name": "The Saint John - AX Hotels",
+      "kind": "stay",
+      "locality": "Valletta",
+      "lat": 35.89888,
+      "lon": 14.51541,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "address": "Merchant Street, 176",
+      "price": "rates from €200",
+      "url": "https://thesaintjohnmalta.com/",
+      "id": "malta-bf52fcca3ebe75670d2c"
+    },
+    {
+      "name": "Valletta",
+      "kind": "area",
+      "locality": "Valletta",
+      "lat": 35.897778,
+      "lon": 14.5125,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Valletta",
+      "id": "malta-2bfbb747ff05fa8c2efe"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

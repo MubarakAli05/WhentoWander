@@ -1,0 +1,2876 @@
+{
+  "sources": [
+    {
+      "title": "Russia",
+      "url": "https://en.wikivoyage.org/wiki/Russia",
+      "checkedAt": "2026-10-21T08:11:54.587Z"
+    },
+    {
+      "title": "Moscow",
+      "url": "https://en.wikivoyage.org/wiki/Moscow",
+      "checkedAt": "2026-10-21T08:11:57.892Z"
+    },
+    {
+      "title": "Moscow/Zelenograd and New Moscow",
+      "url": "https://en.wikivoyage.org/wiki/Moscow%2FZelenograd_and_New_Moscow",
+      "checkedAt": "2026-10-21T08:12:00.182Z"
+    },
+    {
+      "title": "Moscow/Central",
+      "url": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "checkedAt": "2026-10-21T08:12:03.243Z"
+    },
+    {
+      "title": "Moscow/Central-North",
+      "url": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "checkedAt": "2026-10-21T08:12:06.204Z"
+    },
+    {
+      "title": "Moscow/Central-South",
+      "url": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "checkedAt": "2026-10-21T08:12:09.439Z"
+    },
+    {
+      "title": "Moscow/Central-West",
+      "url": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "checkedAt": "2026-10-21T08:12:12.239Z"
+    },
+    {
+      "title": "Moscow/Central-East",
+      "url": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-East",
+      "checkedAt": "2026-10-21T08:12:15.204Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Moscow",
+      "kind": "area",
+      "locality": "Russia",
+      "lat": 55.75,
+      "lon": 37.616667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Russia",
+      "id": "russia-8f70d989a0e2cc24f76d"
+    },
+    {
+      "name": "Saint Petersburg",
+      "kind": "area",
+      "locality": "Russia",
+      "lat": 59.95,
+      "lon": 30.3,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Russia",
+      "id": "russia-77461ba22cb0b4ca32d4"
+    },
+    {
+      "name": "Kazan",
+      "kind": "area",
+      "locality": "Russia",
+      "lat": 55.783333,
+      "lon": 49.116667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Russia",
+      "id": "russia-11b72d59e8ba81835a42"
+    },
+    {
+      "name": "Nizhny Novgorod",
+      "kind": "area",
+      "locality": "Russia",
+      "lat": 56.326944,
+      "lon": 44.0075,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Russia",
+      "id": "russia-6b6ab1dbef3cba090385"
+    },
+    {
+      "name": "Sochi",
+      "kind": "area",
+      "locality": "Russia",
+      "lat": 43.585278,
+      "lon": 39.720278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Russia",
+      "id": "russia-ced3179e99e10f7af15e"
+    },
+    {
+      "name": "Vladivostok",
+      "kind": "area",
+      "locality": "Russia",
+      "lat": 43.133333,
+      "lon": 131.9,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Russia",
+      "id": "russia-78fc532f84e3e7925fb4"
+    },
+    {
+      "name": "Volgograd",
+      "kind": "area",
+      "locality": "Russia",
+      "lat": 48.7,
+      "lon": 44.516667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Russia",
+      "id": "russia-b1e85e418ceea960b7cc"
+    },
+    {
+      "name": "Yekaterinburg",
+      "kind": "area",
+      "locality": "Russia",
+      "lat": 56.833333,
+      "lon": 60.583333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Russia",
+      "id": "russia-2d7ffde4a330f65bd612"
+    },
+    {
+      "name": "Irkutsk",
+      "kind": "area",
+      "locality": "Russia",
+      "lat": 52.283333,
+      "lon": 104.283333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Russia",
+      "id": "russia-c4ea10be93037ac239a4"
+    },
+    {
+      "name": "The Great Arctic State Nature Reserve",
+      "kind": "do",
+      "locality": "Russia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Russia",
+      "id": "russia-e570cd4d8345d2d4dea5"
+    },
+    {
+      "name": "Central Forest State Nature Bioshere Reserve",
+      "kind": "do",
+      "locality": "Russia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Russia",
+      "id": "russia-98033b24b6443acdc34e"
+    },
+    {
+      "name": "Ilmen State Reserve",
+      "kind": "do",
+      "locality": "Russia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Russia",
+      "url": "http://igz.ilmeny.ac.ru/Default.asp",
+      "id": "russia-99a74771a4c89e7ee268"
+    },
+    {
+      "name": "Dersu Uzala: Ecotourism Development Fund",
+      "kind": "do",
+      "locality": "Russia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Russia",
+      "id": "russia-4630163b6fa290881996"
+    },
+    {
+      "name": "Russian Orthodox Easter",
+      "kind": "do",
+      "locality": "Russia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Russia",
+      "id": "russia-ed9d2ff5d6bea2b1e302"
+    },
+    {
+      "name": "Moscow",
+      "kind": "area",
+      "locality": "Moscow",
+      "lat": 55.75,
+      "lon": 37.6167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow",
+      "id": "russia-c0111e887a4f036a0412"
+    },
+    {
+      "name": "Ugresha Monastery",
+      "kind": "do",
+      "locality": "Moscow/Zelenograd and New Moscow",
+      "lat": 55.621667,
+      "lon": 37.84,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FZelenograd_and_New_Moscow",
+      "address": "- Dzerzhinsky suburb, Svyatitelya Nikolaya ploshchad(пл. Свт. Николая), 1",
+      "url": "http://ugresha.org/",
+      "id": "russia-fec06e1eded88e237467"
+    },
+    {
+      "name": "Angstrem Stadium",
+      "kind": "do",
+      "locality": "Moscow/Zelenograd and New Moscow",
+      "lat": 55.983333,
+      "lon": 37.224444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FZelenograd_and_New_Moscow",
+      "address": "Ozernaya alleya, 4/5",
+      "url": "https://www.angstrem.ru/",
+      "id": "russia-0c06550bad7c101b7c85"
+    },
+    {
+      "name": "Moscow International Automobile Salon or MIAS, Crocus Expo IEC",
+      "kind": "do",
+      "locality": "Moscow/Zelenograd and New Moscow",
+      "lat": 55.81934,
+      "lon": 37.38753,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FZelenograd_and_New_Moscow",
+      "address": "Trade and exhibition complex, 65-66th km Moscow Ring Road, Building #2",
+      "url": "http://eng.mas-expo.ru/mas/",
+      "id": "russia-7cf5e5a924806f0666b7"
+    },
+    {
+      "name": "Silky Way",
+      "kind": "stay",
+      "locality": "Moscow/Zelenograd and New Moscow",
+      "lat": 55.6432,
+      "lon": 38.03474,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FZelenograd_and_New_Moscow",
+      "address": "45 Lenina Street, pos. Oktyabrskiy, Lyuberetskiy District",
+      "price": "Sgl RUB 3500-4500; dbl. RUB 4800-10000",
+      "url": "http://www.sw-hotel.ru/en/",
+      "id": "russia-8e4e10a80e9f02e20225"
+    },
+    {
+      "name": "Hotel-Vintage",
+      "kind": "stay",
+      "locality": "Moscow/Zelenograd and New Moscow",
+      "lat": 55.94818,
+      "lon": 37.3505,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FZelenograd_and_New_Moscow",
+      "address": "Leningradskoe shosse 297",
+      "price": "RUB 2700-3600",
+      "url": "http://www.hotel-vintage.ru/?&lang=english",
+      "id": "russia-ff2e4e09a5900aecf13e"
+    },
+    {
+      "name": "Moscow/Zelenograd and New Moscow",
+      "kind": "area",
+      "locality": "Moscow/Zelenograd and New Moscow",
+      "lat": 55.41,
+      "lon": 37.28,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FZelenograd_and_New_Moscow",
+      "id": "russia-ff99f1136bc190ae5ed6"
+    },
+    {
+      "name": "The Kremlin",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.751667,
+      "lon": 37.617778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kreml",
+      "price": "Entrance and exhibitions: RUB 500. Large bags must be left at a luggage office (free)",
+      "url": "http://www.kreml.ru/en/",
+      "id": "russia-25cd1ce430c658c57bfc"
+    },
+    {
+      "name": "Amusement Palace",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.7512,
+      "lon": 37.6144,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kreml",
+      "id": "russia-a1bf969683f7124f1259"
+    },
+    {
+      "name": "Cathedral of the Annunciation",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.75,
+      "lon": 37.616944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kreml",
+      "url": "http://www.kreml.ru/en/kremlin/buildings/Blagoveshenskiy/",
+      "id": "russia-050c74c3e4fd68f863d7"
+    },
+    {
+      "name": "Cathedral of the Archangel",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.750278,
+      "lon": 37.617778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kreml",
+      "url": "http://www.kreml.ru/en/museums/archangel/",
+      "id": "russia-c248ada8d971f8261bc3"
+    },
+    {
+      "name": "Church of the Deposition of the Robe",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.750556,
+      "lon": 37.616389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kreml",
+      "price": "RUB 500 incl. all Cathedral Square museums, free for children but they still have to queue up for a free ticket",
+      "url": "http://www.kreml.ru/en/museums/church_riza/",
+      "id": "russia-feace28d4091ec73f369"
+    },
+    {
+      "name": "Church of the Twelve Apostles and the Patriarch’s Palace",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.751111,
+      "lon": 37.617222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kreml",
+      "price": "RUB 500 including all Cathedral Square museums, free for children but they still have to queue up for a free ticket",
+      "url": "http://kreml.ru/en/museums/patriarchal/",
+      "id": "russia-e7b8e4bd6660f0cc607b"
+    },
+    {
+      "name": "Diamond fund and Armoury",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.749514,
+      "lon": 37.613306,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kreml",
+      "price": "RUB 700, ISIC holders RUB 250",
+      "url": "http://kreml.ru/en/info/visitors/tickets/armoury/",
+      "id": "russia-407a71017f259fe73988"
+    },
+    {
+      "name": "Dormition Cathedral",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.751111,
+      "lon": 37.616944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kreml",
+      "url": "http://www.kreml.ru/en/kremlin/buildings/Uspenskiy/",
+      "id": "russia-e1c83a418da9651efa02"
+    },
+    {
+      "name": "Church of the Twelve Apostels in the Kremlin",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.751389,
+      "lon": 37.617222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kremlin, Kremlevskaya naberezhnaya",
+      "id": "russia-858ffefd806a5bcbb33c"
+    },
+    {
+      "name": "Ivan the Great Bell Tower",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.750833,
+      "lon": 37.618056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kreml",
+      "price": "Belfry: RUB 500, ISIC holders RUB 200",
+      "url": "http://www.kreml.ru/en/kremlin/buildings/Ansambl_Kolokolyni/",
+      "id": "russia-5badc4f8ebcbbcf98955"
+    },
+    {
+      "name": "Arsenal",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.75367,
+      "lon": 37.61622,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kreml",
+      "url": "http://www.kreml.ru/en/kremlin/buildings/Arsenal/",
+      "id": "russia-4b2965de161f1f7145b3"
+    },
+    {
+      "name": "Kremlin Senate",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.753333,
+      "lon": 37.619167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kreml",
+      "url": "http://www.kreml.ru/en/kremlin/buildings/Senat/",
+      "id": "russia-8aeedab92544471ff0b6"
+    },
+    {
+      "name": "Kremlin Wall Necropolis",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.75367,
+      "lon": 37.61987,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "on Red Square, near to Kreml",
+      "id": "russia-420a239a0b80adfe77c0"
+    },
+    {
+      "name": "Moscow Kremlin Wall",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.749167,
+      "lon": 37.616667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "id": "russia-a2ef813f703f71d33831"
+    },
+    {
+      "name": "Grand Kremlin Palace",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.75016,
+      "lon": 37.61574,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kreml",
+      "url": "http://kreml.ru/en/kremlin/buildings/BKD/",
+      "id": "russia-7a4d938b59478816f5e3"
+    },
+    {
+      "name": "Faceted Chamber",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.75062,
+      "lon": 37.6169,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "url": "http://www.kreml.ru/en-Us/visit-to-kremlin/what-to-see/sobornaya-ploschad/",
+      "id": "russia-bcbe80b1ce47c0910150"
+    },
+    {
+      "name": "Spasskaya or Saviour Tower",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.75257,
+      "lon": 37.62137,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kreml",
+      "url": "http://www.kreml.ru/ru/kremlin/towers/Spaskaya/",
+      "id": "russia-a1d15a3247d2d39e924f"
+    },
+    {
+      "name": "Taynitsky Garden",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.75033,
+      "lon": 37.61951,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kreml",
+      "id": "russia-ce3e2cc14ce1c0d2e86b"
+    },
+    {
+      "name": "Terem Palace",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.75061,
+      "lon": 37.61577,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kreml",
+      "url": "http://www.kreml.ru/en/kremlin/buildings/Teremnoy_dvorets/",
+      "id": "russia-830db32df7931990f196"
+    },
+    {
+      "name": "Tsar Bell",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.750833,
+      "lon": 37.618333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kreml",
+      "url": "http://www.kreml.ru/en/kremlin/tsar_bell/",
+      "id": "russia-b802217ad8864bd9070b"
+    },
+    {
+      "name": "Troitskaya Tower or Trinity Tower",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.75228,
+      "lon": 37.61458,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kreml",
+      "id": "russia-e7495e83e25680abba2c"
+    },
+    {
+      "name": "Tsar Cannon",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.75146,
+      "lon": 37.61793,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kreml",
+      "id": "russia-5be6229b49c17296767f"
+    },
+    {
+      "name": "Tsarina's Golden Chamber",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.75072,
+      "lon": 37.61638,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kreml",
+      "url": "http://www.kreml.ru/en/kremlin/buildings/Tsaritsina_Palata/",
+      "id": "russia-591ad8f39247782a7efc"
+    },
+    {
+      "name": "Church of the Deposition of the Robe in the Kremlin",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.750833,
+      "lon": 37.616667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kremlin district, Kremlevskaya naberezhnaya",
+      "id": "russia-cadd5ba50f13fe8b7bbc"
+    },
+    {
+      "name": "Epiphany (Bogoyavlensky) Monastery",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.755861,
+      "lon": 37.623222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kitay-Gorod,Bogoyavlenskiy pereulok, 2",
+      "url": "http://www.bgkg.ru/",
+      "id": "russia-32f6824d3b744f9b3e05"
+    },
+    {
+      "name": "Iberian Gate and Chapel",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.755556,
+      "lon": 37.618056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kitay-Gorod, Proyezd Voskresenskiye Vorota, 1А",
+      "id": "russia-fe938af8f54c587203f1"
+    },
+    {
+      "name": "Gostiny Dvor",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.753611,
+      "lon": 37.625556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kitay-gorod, Str. Ilyinka (ул. Ильинка), 4",
+      "id": "russia-71da6fee33513c705261"
+    },
+    {
+      "name": "Moscow Print Yard",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.7575,
+      "lon": 37.621944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kitay-gorod, Nikolskaya ulitsa, 15",
+      "id": "russia-27eb920ab0dfd57f2285"
+    },
+    {
+      "name": "Saint Basil's Cathedral",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.7525,
+      "lon": 37.623056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kitay-gorod, Red Square",
+      "price": "RUB 1000",
+      "url": "http://www.saintbasil.ru/",
+      "id": "russia-b7d75a7aef7e25339864"
+    },
+    {
+      "name": "Zaikonospassky monastery",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.756389,
+      "lon": 37.620556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kitay-gorod, Ulitsa Nikolskaya (ул. Никольская), 7/9",
+      "url": "http://ksvetu.ru/",
+      "id": "russia-bef5485fb4959f5e42cb"
+    },
+    {
+      "name": "Kazan Cathedral",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.755481,
+      "lon": 37.619211,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Nikolskaya ulitsa, 5/1",
+      "url": "http://www.kazanski-sobor.ru/_index.php",
+      "id": "russia-265c75ff4d9ac0ae149b"
+    },
+    {
+      "name": "English Manor Museum",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.75236,
+      "lon": 37.62692,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Ulitsa Varvarka (ул. Варварка), 4а",
+      "url": "http://www.mosmuseum.ru/",
+      "id": "russia-97e15c9660df93401875"
+    },
+    {
+      "name": "Moscow Design Museum",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.75324,
+      "lon": 37.61229,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Manezhnaya Square (Манежная площадь), 1",
+      "url": "http://www.moscowdesignmuseum.ru/en",
+      "id": "russia-b809df5988b51fd42e44"
+    },
+    {
+      "name": "State Historical Museum",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.755278,
+      "lon": 37.617778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Krasnaya ploshad (Красная пл.), 1/2",
+      "url": "http://www.shm.ru/#",
+      "id": "russia-1ec4c38f5a686d8360bf"
+    },
+    {
+      "name": "State Historical Museum, Pokrovsky Cathedral, St. Basil's Cathedral",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.75256,
+      "lon": 37.62304,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Krasnaya ploshad (Красная пл.),",
+      "price": "Adult/children RUB 350/free (but you still need to queue for a free ticket)",
+      "url": "http://www.shm.ru/",
+      "id": "russia-b270360b8bd3964d5d8c"
+    },
+    {
+      "name": "State Historical Museum, The War of 1812",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.75602,
+      "lon": 37.61896,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Ploshchad Revolyutsii (Площадь Революции), 2/3",
+      "price": "Tickets same as State Historical Museum. Adult/discount RUB 300/RUB 100",
+      "url": "http://www.shm.ru/",
+      "id": "russia-d965850178e459c66f2f"
+    },
+    {
+      "name": "State Historical Museum, Palace of Romanov Boyars",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.7533,
+      "lon": 37.63227,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Ul. Varvarka (ул.Варварка), 10",
+      "price": "RUB 200, concessions RUB 70",
+      "url": "http://www.shm.ru/",
+      "id": "russia-5742486f1cebb5b4728f"
+    },
+    {
+      "name": "Red Square",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.75387,
+      "lon": 37.62023,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kitai-gorod",
+      "price": "Free",
+      "id": "russia-2f8b7debb6f011d6e13a"
+    },
+    {
+      "name": "Lenin Mausoleum",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.75373,
+      "lon": 37.61997,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kreml",
+      "price": "Free admission",
+      "url": "http://fso.gov.ru/struct/skmk/pravila_kremlin/",
+      "id": "russia-0ffa98311fd8a4cfa0fc"
+    },
+    {
+      "name": "Monument to Alexander II",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.74622,
+      "lon": 37.60629,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "ulitsa Volkhonka (Волхонка), 13",
+      "id": "russia-d3960821f4079f48a856"
+    },
+    {
+      "name": "Monument to Minin and Pozharsky",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.752778,
+      "lon": 37.6225,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Красная площадь, Mokhovaya ulitsa, 6/2",
+      "id": "russia-c57cfd334776d51e46fa"
+    },
+    {
+      "name": "The Tomb of the Unknown Soldier",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.754722,
+      "lon": 37.616111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kremlevskiy proyezd",
+      "id": "russia-5fa670d57c98bf548bd0"
+    },
+    {
+      "name": "Fountains of Manezhnaya Square",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.75582,
+      "lon": 37.61461,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Manezhnaya Square",
+      "id": "russia-ffbc7f6bfdaec4a6d03e"
+    },
+    {
+      "name": "Petrovskiy Fountain",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.75806,
+      "lon": 37.61976,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Theater Square, Театральная площадь",
+      "id": "russia-3a064ed8b301c51e1aa7"
+    },
+    {
+      "name": "Alexander Garden",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.7525,
+      "lon": 37.613889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kitay-gorod, Red Square",
+      "id": "russia-3d75c412b2def0d7af9a"
+    },
+    {
+      "name": "Manezhnaya Square",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.755833,
+      "lon": 37.614722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Manezhnaya",
+      "id": "russia-f4fbaccd7c684bde4e1f"
+    },
+    {
+      "name": "Taynitsky Garden",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.750278,
+      "lon": 37.620556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kremlin South",
+      "id": "russia-0c215343acae1c1d54b4"
+    },
+    {
+      "name": "Zaryadye Park",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "id": "russia-8b81afcbb13b3f6f6604"
+    },
+    {
+      "name": "Bosco rink",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.75408,
+      "lon": 37.62035,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Red Square",
+      "url": "http://www.gum.ru/projects/rink",
+      "id": "russia-f9540e03956269d6efe6"
+    },
+    {
+      "name": "Chamber Musical Theatre",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.75807,
+      "lon": 37.62336,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Ulitsa Nikolskaya (ул. Никольская) 17",
+      "id": "russia-f633a669bc174974d5df"
+    },
+    {
+      "name": "International House of Music",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.733056,
+      "lon": 37.646667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kosmodamianskaya Embankment (Космодамианская набережная), 52",
+      "url": "http://www.mmdm.ru/en/",
+      "id": "russia-e9770710bc1c33be3478"
+    },
+    {
+      "name": "Moscow Chamber Musical Theatre",
+      "kind": "do",
+      "locality": "Moscow/Central",
+      "lat": 55.75815,
+      "lon": 37.6232,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "China City, Ul. Nikolskaya ( ул. Никольская), 17",
+      "url": "http://www.opera-pokrovsky.ru/",
+      "id": "russia-d1ee5569cfefc617922f"
+    },
+    {
+      "name": "The Old Tower",
+      "kind": "eat",
+      "locality": "Moscow/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Teatralnaja ploščad 5/1 (Театральная площадь, д. 5, стр. 1)",
+      "url": "http://www.oldtower.ru/",
+      "id": "russia-dd1c5be665b731e6b11b"
+    },
+    {
+      "name": "Mi Piace Italian restaurant",
+      "kind": "eat",
+      "locality": "Moscow/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Chayanova, 22",
+      "url": "http://www.mipiace.ru/",
+      "id": "russia-bccd8605713a40c1ae66"
+    },
+    {
+      "name": "Gogol Bar",
+      "kind": "eat",
+      "locality": "Moscow/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Stoleshnikov pereulok (Столешников переулок).",
+      "id": "russia-078f6c03bf85a49490bd"
+    },
+    {
+      "name": "MILC",
+      "kind": "eat",
+      "locality": "Moscow/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Pokrovka St, 16/16, building 1",
+      "price": "Menu is RUB 500-1200",
+      "url": "https://imaginecafe.ru/",
+      "id": "russia-83ed31c68b8189e2815b"
+    },
+    {
+      "name": "Propaganda",
+      "kind": "eat",
+      "locality": "Moscow/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Zlatoustinskiy Bol'shoy Pereulok, 7",
+      "price": "vodka and beer RUB 100-150",
+      "url": "http://www.propagandamoscow.com/",
+      "id": "russia-0feff7250ec56077b6e6"
+    },
+    {
+      "name": "Bobby Dazzler Pub",
+      "kind": "eat",
+      "locality": "Moscow/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Kostyanskiy pereulok 7/13",
+      "url": "http://www.bobbydazzler.ru/",
+      "id": "russia-22d7a58e9c4ec98d1b11"
+    },
+    {
+      "name": "Coffeemania chain",
+      "kind": "eat",
+      "locality": "Moscow/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "url": "https://coffeemania.ru/",
+      "id": "russia-b245b253e574693b4e5c"
+    },
+    {
+      "name": "Coffee Bean",
+      "kind": "eat",
+      "locality": "Moscow/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Ulitsa Sretenka, 22/1",
+      "id": "russia-0911cabef85c37d7a428"
+    },
+    {
+      "name": "Volkonsky",
+      "kind": "eat",
+      "locality": "Moscow/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Maroseika 4/2",
+      "id": "russia-00fd930cff36e05c4854"
+    },
+    {
+      "name": "Starbucks Cafe",
+      "kind": "eat",
+      "locality": "Moscow/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Mega-Khimki and Mega-Belaya Dacha; Moscow City; Sheremetyevo-3; Metropolis (M. Voykovskaya); Aeroport Gallery (M. Aeroport)",
+      "url": "http://www.starbuckscoffee.ru/",
+      "id": "russia-d0437ee1b8768d8e1b10"
+    },
+    {
+      "name": "Baltschug Kempinski",
+      "kind": "stay",
+      "locality": "Moscow/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "ul. Balchug, 1",
+      "price": "Rooms RUB 16000-24000, Suites RUB 26000-91000",
+      "url": "http://www.kempinski-moscow.com/",
+      "id": "russia-798811077315fb994dcf"
+    },
+    {
+      "name": "Chekhoff Hotel Moscow Curio Collection by Hilton",
+      "kind": "stay",
+      "locality": "Moscow/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "11 Malaya Dmitrovka",
+      "price": "from at RUB 5500",
+      "url": "https://www.hilton.com/en/hotels/mowchqq-chekhoff-hotel-moscow/",
+      "id": "russia-bb0eb6c2faac4bcfa6d4"
+    },
+    {
+      "name": "Golden Ring",
+      "kind": "stay",
+      "locality": "Moscow/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Smolenskaya ulitsa, 5",
+      "url": "http://www.hotel-goldenring.ru/en/",
+      "id": "russia-a0d7e719d23d83d7094e"
+    },
+    {
+      "name": "Mamaison All-Suites Spa Hotel Pokrovka",
+      "kind": "stay",
+      "locality": "Moscow/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Pokrovka st 40, bld 2",
+      "url": "http://www.mamaisonpokrovka.com/",
+      "id": "russia-ad05b4ee0400896c48c5"
+    },
+    {
+      "name": "Hotel Metropol",
+      "kind": "stay",
+      "locality": "Moscow/Central",
+      "lat": 55.75848,
+      "lon": 37.6216,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Teatralny proezd (Театральный проезд), 1/4",
+      "price": "RUB 12000-17000",
+      "url": "http://metropol-moscow.ru/en/",
+      "id": "russia-cf44f2fcec99b4436b51"
+    },
+    {
+      "name": "Hotel National",
+      "kind": "stay",
+      "locality": "Moscow/Central",
+      "lat": 55.7568,
+      "lon": 37.61384,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Mokhovaya Street, 15/1",
+      "price": "Rooms RUB 10000-15000, suites RUB 17000-58000",
+      "id": "russia-bcd6196034c6577a37de"
+    },
+    {
+      "name": "The Ritz-Carlton",
+      "kind": "stay",
+      "locality": "Moscow/Central",
+      "lat": 55.75734,
+      "lon": 37.61306,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "address": "Tverskaya ulitsa 3/5",
+      "id": "russia-ed940b1d4337bacbef6c"
+    },
+    {
+      "name": "Moscow/Central",
+      "kind": "area",
+      "locality": "Moscow/Central",
+      "lat": 55.75,
+      "lon": 37.62,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral",
+      "id": "russia-6d693450a72a2f42e628"
+    },
+    {
+      "name": "Church of Saints Cosmas and Damian in Shubino",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.761611,
+      "lon": 37.6115,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Pereulok Stoleshnikov, 2",
+      "id": "russia-4af2f3ac4e56dba68ffc"
+    },
+    {
+      "name": "Church of Saint Nicholas in Zvonary",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.764167,
+      "lon": 37.623056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "ulitsa Rozhdestvenka, 15/8",
+      "id": "russia-d0353a302a96dff56540"
+    },
+    {
+      "name": "Church of Saint Nicholas in Derbenevo",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.768444,
+      "lon": 37.637861,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Ulanskiy pereulok, 11",
+      "id": "russia-61ce6f75ef005e08c0f6"
+    },
+    {
+      "name": "Church of the Venerable Sergius of Radonezh in Krapivniki",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.767,
+      "lon": 37.617583,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Tverskoy district, Krapivenskiy pereulok, 4",
+      "id": "russia-d912c09148c7b769816b"
+    },
+    {
+      "name": "Church of Saint Louis of France",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.762672,
+      "lon": 37.631236,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Ulitsa Malaya Lubyanka, 12/7",
+      "id": "russia-6d42d1e5bea3c78d5604"
+    },
+    {
+      "name": "Katholikon of the Sretensky Monastery",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.765556,
+      "lon": 37.630278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "ulitsa Bolshaya Lubyanka, 19",
+      "id": "russia-e34aea47d4f6ad8118c6"
+    },
+    {
+      "name": "Church of Sophia, Wisdom of God, at the Cannon Yard",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.76075,
+      "lon": 37.625639,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Meshchansky district,Pushechnaya ulitsa, 15",
+      "id": "russia-e7389c631c476675f21b"
+    },
+    {
+      "name": "Church of the Dormition of the Theotokos in Putinki",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.768917,
+      "lon": 37.6075,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Uspensky Lane 4",
+      "id": "russia-5f581cfa16eb38a57886"
+    },
+    {
+      "name": "Nativity Church at Putinki",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.76695,
+      "lon": 37.60675,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Malaya Dimitrovka (ул. Малая Дмитровка), 4?",
+      "id": "russia-a848f5adb119f94c1a67"
+    },
+    {
+      "name": "Church of the Dormition of the Theotokos in Petschatniki",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.767,
+      "lon": 37.631056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Ulitsa Sretenka, 3",
+      "id": "russia-bc215acaad9c28881dfe"
+    },
+    {
+      "name": "Church of the Theotokos icon of the Sign behind the Petrovka Gate",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.769278,
+      "lon": 37.614528,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "1-y Kolobovskiy pereulok, 1",
+      "id": "russia-951be0f72e75d44a9bbe"
+    },
+    {
+      "name": "Church of the Holy Trinity in Listy",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.771722,
+      "lon": 37.632056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Ulitsa Sretenka, 27",
+      "id": "russia-05da605d7f02a86fed4f"
+    },
+    {
+      "name": "Nativity Convent",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.765833,
+      "lon": 37.624167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Ulitsa Rozhdestvenka (ул. Рождественка), 20",
+      "url": "http://www.mbrsm.ru/",
+      "id": "russia-390a2911fe314a96df4c"
+    },
+    {
+      "name": "Church of the Nativity of the Theotokos at the Nativity of the Theotokos Monastery",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.765889,
+      "lon": 37.624556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "ulitsa Rozhdestvenka, 20/8",
+      "id": "russia-38bfffc3221151c6b41d"
+    },
+    {
+      "name": "Church of the Theotokos icon of Kazan at the Nativity of the Theotokos Monastery",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.76625,
+      "lon": 37.624889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Ulitsa Rozhdestvenka, 20/8",
+      "id": "russia-8eff3eeaf24c3bac52ac"
+    },
+    {
+      "name": "Church of Saint John Chrysostom at the Nativity of the Theotokos Monastery",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.765542,
+      "lon": 37.624456,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Meshchansky district, Ulitsa Rozhdestvenka, 20/8",
+      "id": "russia-ab0ff66fa1bf70c885ae"
+    },
+    {
+      "name": "Vysokopetrovsky Monastery",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.767222,
+      "lon": 37.615,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Ul. Petrovka (ул. Петровка), 28/2",
+      "url": "https://vpmon.ru/palomnik/",
+      "id": "russia-a58d776a651fdce899e1"
+    },
+    {
+      "name": "Church of the Theotokos icon of Tolga at the former High Monastery of Saint Peter",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.766306,
+      "lon": 37.615972,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Ulitsa Petrovka, 28",
+      "id": "russia-e93991dcc2e372d5fb5e"
+    },
+    {
+      "name": "Cathedral of the Protection of the Theotokos at the former High Monastery of Saint Peter",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.767306,
+      "lon": 37.614583,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Ulitsa Petrovka, 28",
+      "id": "russia-e56c69564129a3239e15"
+    },
+    {
+      "name": "Church of the Theotokos icon of Bogolyubovo at the former High Monastery of Saint Peter",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.766889,
+      "lon": 37.616,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Ulitsa Petrovka, 28?",
+      "id": "russia-e43ce09ee51c893040eb"
+    },
+    {
+      "name": "Church of the Venerable Sergius of Radonezh at the former High Monastery of Saint Peter",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.7675,
+      "lon": 37.615278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Tverskoy district, ulitsa Petrovka, 28",
+      "id": "russia-507a3ef1f769e7f5c91b"
+    },
+    {
+      "name": "Cathedral of the Metropolitan Peter of Moscow at the former High Monastery of Saint Peter",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.767194,
+      "lon": 37.61525,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Tverskoy district, Ulitsa Petrovka, 28/2",
+      "id": "russia-8d9d864e5fbd42943ebc"
+    },
+    {
+      "name": "State Museum of GULAG History",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.76354,
+      "lon": 37.61773,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "ul Petrovka (ул. Петровка), 16",
+      "price": "RUB 150 (free on third Sunday)",
+      "url": "http://www.gmig.ru/",
+      "id": "russia-63ae7f040add16ca9556"
+    },
+    {
+      "name": "Moscow Museum of Modern Art",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.767032,
+      "lon": 37.61428,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Tverskaya distr., Petrovka Street, 25",
+      "price": "Standard RUB 250, Students RUB 100, Discount RUB 20, free every 3rd Su of the month",
+      "url": "http://www.mmoma.ru/en/",
+      "id": "russia-de002b6aace1f9c25ec2"
+    },
+    {
+      "name": "Lubyanka, the KGB prison",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.760833,
+      "lon": 37.628333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Lubyanka Square",
+      "id": "russia-a0915cf1c95d8380987f"
+    },
+    {
+      "name": "Vasnetsova House-Museum",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Meshchansky District,",
+      "id": "russia-736f11e559af7f480568"
+    },
+    {
+      "name": "Schepkina House-Museum",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Meshchansky District, Ul. Schepkina (Щепкина ул.), 47",
+      "id": "russia-715976a4a36f6279b330"
+    },
+    {
+      "name": "Catherine's Institute",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Meshchansky District,",
+      "id": "russia-35e4662acdcd1ca99b84"
+    },
+    {
+      "name": "Mariinsky Hospital",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Meshchansky District, Dostoyevsky Street 2",
+      "id": "russia-4ae0b73fc8a1dd4c3883"
+    },
+    {
+      "name": "Alexander's Institute",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Dostoyevsky Street 4",
+      "id": "russia-bc94ef24bf9f87899868"
+    },
+    {
+      "name": "Tsentrosoyuz Building",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.767611,
+      "lon": 37.641125,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Myasnitskaya Street, 39",
+      "id": "russia-26f5f92bea63f093f9a5"
+    },
+    {
+      "name": "Pushkin Square Fountain",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.76537,
+      "lon": 37.60546,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Pushkin Square, Пушкинская площадь",
+      "id": "russia-07251cd4bd8e445988c0"
+    },
+    {
+      "name": "Tsentralny, Central, former Soviet Fountain",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.76203,
+      "lon": 37.61076,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Tverskaya Square (Тверская площадь),",
+      "id": "russia-9efa43e9f2669ac4606d"
+    },
+    {
+      "name": "Bolshoi Theatre",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.760278,
+      "lon": 37.618611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Tverskoy District, Teatralnaya Square 1",
+      "price": "Tickets RUB 5000-15000",
+      "url": "http://www.bolshoi.ru/en/",
+      "id": "russia-26664118782bb5f453cc"
+    },
+    {
+      "name": "Nikulin Circus",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.77057,
+      "lon": 37.61997,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Tsvetnoi Bulevard, 11-13",
+      "price": "From RUB 200",
+      "url": "http://www.circusnikulin.ru/",
+      "id": "russia-b0e9ac54cdb5f52bc537"
+    },
+    {
+      "name": "Novaia Opera",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.7714,
+      "lon": 37.60901,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Ulitsa Karetnyy Ryad, 3",
+      "price": "RUB 400-2500",
+      "url": "http://www.novayaopera.ru/",
+      "id": "russia-7c0391e3b465e6392282"
+    },
+    {
+      "name": "Lenkom Theatre former Moscow State Theatre named after Lenin's Komsomol.",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.767778,
+      "lon": 37.606667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Ulitsa Malaya Dmitrovka (ул. Малая Дмитровка), 6",
+      "url": "http://www.lenkom.ru/",
+      "id": "russia-ba7cb607f95d8daafbd2"
+    },
+    {
+      "name": "Ekaterininsky Park",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Meshchansky District,",
+      "id": "russia-d61ee434dda9b0f0144c"
+    },
+    {
+      "name": "Public garden at Riga station",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Meshchansky District,",
+      "id": "russia-709036c5746ec4e9089a"
+    },
+    {
+      "name": "Festivalny park",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Meshchansky District,",
+      "id": "russia-6f3702fd43367e8a5805"
+    },
+    {
+      "name": "Aptekarsky Ogorod Botanical Garden, Moscow State University",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Meshchansky District,",
+      "id": "russia-4856ba6981993fe80a15"
+    },
+    {
+      "name": "Moscow Hermitage Garden",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.771111,
+      "lon": 37.6075,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Tverskoy District, Karetny Ryad Street (Каретный Ряд), 3",
+      "url": "http://www.mosgorsad.ru/garden/",
+      "id": "russia-57e6a477eb2052b28e40"
+    },
+    {
+      "name": "Sandunovskye Baths",
+      "kind": "do",
+      "locality": "Moscow/Central-North",
+      "lat": 55.76416,
+      "lon": 37.62165,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Neglinnaya Str. 14 Building 3-7",
+      "price": "4-person bath room: From RUB 4,000/hour, with a 2-hour minimum",
+      "url": "https://msk.sanduny.ru/ru",
+      "id": "russia-f50b69b18f06e4d6660f"
+    },
+    {
+      "name": "Piccolino",
+      "kind": "eat",
+      "locality": "Moscow/Central-North",
+      "lat": 55.769154,
+      "lon": 37.616243,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "1-Y Kolobovskiy Pereulok 11",
+      "url": "http://ginza.ru/msk",
+      "id": "russia-23f2a583bd34e6f77e75"
+    },
+    {
+      "name": "Uzbekistan",
+      "kind": "eat",
+      "locality": "Moscow/Central-North",
+      "lat": 55.766074,
+      "lon": 37.620513,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Tverskaya, Neglinnaya St 29",
+      "url": "http://uzbek-rest.ru/",
+      "id": "russia-fb8c5ff9dde6cf5c4fbf"
+    },
+    {
+      "name": "LavkaLavka",
+      "kind": "eat",
+      "locality": "Moscow/Central-North",
+      "lat": 55.765648,
+      "lon": 37.615651,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Petrovka Street, 21",
+      "url": "https://m.facebook.com/lavkalavkarestaurant/",
+      "id": "russia-ffef1eb5554588ea1090"
+    },
+    {
+      "name": "Darbars Indian restaurant",
+      "kind": "eat",
+      "locality": "Moscow/Central-North",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Prospekt Mira, 79",
+      "price": "RUB 2500 for two",
+      "url": "https://darbar.ru/",
+      "id": "russia-e9d8cfc2bcd5b8b4aacf"
+    },
+    {
+      "name": "Food store",
+      "kind": "eat",
+      "locality": "Moscow/Central-North",
+      "lat": 55.76201,
+      "lon": 37.6244,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "url": "http://foodstoreone.ru/",
+      "id": "russia-ec535b2aa932d05f490c"
+    },
+    {
+      "name": "Jaws Spot",
+      "kind": "eat",
+      "locality": "Moscow/Central-North",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Nikolskaya 25",
+      "url": "https://www.facebook.com/pg/Jawsspot-Msk-1106360412795337/",
+      "id": "russia-e5d7a81efa8e0f6bb12f"
+    },
+    {
+      "name": "Godzillas Hostel Moscow",
+      "kind": "stay",
+      "locality": "Moscow/Central-North",
+      "lat": 55.77061,
+      "lon": 37.61649,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Bolshoi Karetnyy 6",
+      "price": "Dorm bed: RUB 700+; Double: RUB 2100",
+      "url": "https://www.godzillashostel.com/",
+      "id": "russia-755895b1ef6b23fd8ef0"
+    },
+    {
+      "name": "Sukharevka Hostel",
+      "kind": "stay",
+      "locality": "Moscow/Central-North",
+      "lat": 55.77158,
+      "lon": 37.63712,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Bol'shaya Sukharevskaya Ploshchad', 16",
+      "price": "Dorm bed: RUB 400; Single: RUB 1600; Double: RUB 1800",
+      "id": "russia-fe0bc4dcf79eb13bc7c9"
+    },
+    {
+      "name": "Otel' Na Tsvetnom",
+      "kind": "stay",
+      "locality": "Moscow/Central-North",
+      "lat": 55.77305,
+      "lon": 37.62009,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Tsvetnoy Bulvar, 25",
+      "price": "Weekend: From RUB 2500; Weekday: From RUB 4800",
+      "url": "https://nacvetnom.ru/",
+      "id": "russia-23c94294bf899f2d9263"
+    },
+    {
+      "name": "Courtyard Moscow City Center",
+      "kind": "stay",
+      "locality": "Moscow/Central-North",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Voznesenskiy per., 7",
+      "url": "https://www.marriott.com/hotels/travel/mowcy-courtyard-moscow-city-center/",
+      "id": "russia-56328e79a1e254232c0e"
+    },
+    {
+      "name": "Petrovka Loft",
+      "kind": "stay",
+      "locality": "Moscow/Central-North",
+      "lat": 55.7644,
+      "lon": 37.61645,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Petrovka 17/2, 41",
+      "price": "From RUB 1800 with advance purchase",
+      "url": "http://petrovkaloft.ru/",
+      "id": "russia-3bff281677d7815b1b2c"
+    },
+    {
+      "name": "Ulanskaya",
+      "kind": "stay",
+      "locality": "Moscow/Central-North",
+      "lat": 55.76836,
+      "lon": 37.63865,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "address": "Ulanskiy pereulok (Уланский переулок) 16, bld.1A",
+      "price": "Single: RUB 6500; Double: RUB 8600",
+      "url": "http://www.ulanhotel.com/",
+      "id": "russia-b474864737ddb3493c55"
+    },
+    {
+      "name": "Moscow/Central-North",
+      "kind": "area",
+      "locality": "Moscow/Central-North",
+      "lat": 55.76557,
+      "lon": 37.62903,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-North",
+      "id": "russia-0650e02a5438ae7385cd"
+    },
+    {
+      "name": "Church of the Martyr Catherine on the Field",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.733056,
+      "lon": 37.623889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Yakimanka district, Ulitsa Bolshaya Ordynka, 60/2",
+      "id": "russia-75dd6f030ae5a369271e"
+    },
+    {
+      "name": "Church of Saint Nicholas in Kusnetsy",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.736667,
+      "lon": 37.632806,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Zamoskvorechye district, Vishnyakovskiy pereulok, 15",
+      "id": "russia-a6949cb523f42db059aa"
+    },
+    {
+      "name": "Church of Sophia, Wisdom of God, in Srednyye Sadovniki",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.748178,
+      "lon": 37.62145,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Yakimanka district, Sofiyskaya naberezhnaya, 32",
+      "id": "russia-d8149e095663f74e22a1"
+    },
+    {
+      "name": "Church of the Martyr George the Victorious in Yendovo",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.747417,
+      "lon": 37.627056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Zamoskvorechye district,Sadovnicheskaya ulitsa, 6",
+      "id": "russia-9e4ad4b692e6948121d4"
+    },
+    {
+      "name": "Church of Saint Nicholas in Sayaitskoye",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.746944,
+      "lon": 37.635472,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Zamoskvorechye district, 2-y Raushskiy pereulok, 1",
+      "id": "russia-5bf7b8ed2080b3be46da"
+    },
+    {
+      "name": "Church of Saint Nicholas on the Bersenevka",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.743611,
+      "lon": 37.610556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Yakimanka, Bersenevskaya naberezhnaya, 18",
+      "id": "russia-b1caacd629ba7975f86b"
+    },
+    {
+      "name": "Church of the Martyr Saint Clement of Rome",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.740667,
+      "lon": 37.627417,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Zamoskvorechye district,Pyatnitskaya ulitsa, 26/7",
+      "id": "russia-0cffce359cb4e48b5bbe"
+    },
+    {
+      "name": "Church of the Feast Day of the Decapitation of John the Baptist ahead the Forest",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.744722,
+      "lon": 37.626361,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Zamoskvorechye district, Chernigovskiy pereulok, 3",
+      "id": "russia-3503b91ed7a23bde18a3"
+    },
+    {
+      "name": "Church of Saint Gregory of Neocaesarea",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.7375,
+      "lon": 37.619167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Zamoskvorechye district, Ulitsa Bolshaya Polyanka, 29А",
+      "id": "russia-cb3273ecef72bc8ac753"
+    },
+    {
+      "name": "Church of the Protection of the Theotokos in the Mary and the Theokos Parish of the Sister of Mercy",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.737639,
+      "lon": 37.623472,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Yakimanka district, Ulitsa Bolshaya Ordynka, 34",
+      "id": "russia-a6744bc75a3be52bdbcb"
+    },
+    {
+      "name": "Church of St. John the Warrior",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.7325,
+      "lon": 37.611111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Bolshaya Yakimanka (ул. Б.Якиманка), 46",
+      "url": "http://days.pravoslavie.ru/Hram/104.htm",
+      "id": "russia-dc74e4d4dd49b1510416"
+    },
+    {
+      "name": "Church of the Venerable Hermit Maron",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.735167,
+      "lon": 37.611528,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Yakimanka district, 1-y Babyegorodskiy pereulok, 3",
+      "id": "russia-e5d05258c6fab10b136b"
+    },
+    {
+      "name": "Church of the Archangel Michael in Ovchinniki",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.744694,
+      "lon": 37.632806,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Zamoskvorechye district, Sredniy Ovchinnikovskiy pereulok, 7",
+      "id": "russia-665e7b2ed7658ced3a28"
+    },
+    {
+      "name": "Church of the Orthodox Ruler Michael and of the Boyar Theodor of Chernigov",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.7445,
+      "lon": 37.626278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Zamoskvorechye district,",
+      "id": "russia-ae6bd1c34581883aae47"
+    },
+    {
+      "name": "Church of Saint Nicholas in Golutvino",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.738056,
+      "lon": 37.6115,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Yakimanka district, 1-y Golutvinskiy pereulok, 14",
+      "id": "russia-67c9530b18bb64562ef9"
+    },
+    {
+      "name": "Church of Saint Nicholas in Pyzhy",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.738889,
+      "lon": 37.625,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Zamoskvorechye district, Ulitsa Bolshaya Ordynka, 27А/8",
+      "id": "russia-8fded8201b960b5d99c3"
+    },
+    {
+      "name": "Church of Saint Nicholas in Tolmachy",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.740778,
+      "lon": 37.620389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Yakimanka district, Malyy Tolmachevskiy pereulok, 9",
+      "id": "russia-077f32bdbd7e12933201"
+    },
+    {
+      "name": "Church of the Theotokos icon \"Joy of all who Sorrow\" on the Ordynka",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.741389,
+      "lon": 37.624167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Yakimanka district, Ulitsa Bolshaya Ordynka, 20",
+      "id": "russia-1621958bddb9a7cbee53"
+    },
+    {
+      "name": "Church of the Dormition of the Theotokos in the Cossacks Quarter",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.735278,
+      "lon": 37.620139,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Yakimanka district, Ulitsa Bolshaya Polyanka, 37",
+      "id": "russia-f6c1d35e17818ac7aacb"
+    },
+    {
+      "name": "Church of the Theotokos icon of Iviron at the Field",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.736111,
+      "lon": 37.624722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Zamoskvorechye district, Ulitsa Bolshaya Ordynka, 39",
+      "id": "russia-a79f0baf63b34d9a3078"
+    },
+    {
+      "name": "Church of the Theotokos icon of Iviron in the former Iviron Parish of the Gracious Sister of Mercy",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.738472,
+      "lon": 37.617333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Yakimanka district, Ulitsa Bolshaya Polyanka, 20",
+      "id": "russia-54a6e191d8ff9f7bf1af"
+    },
+    {
+      "name": "Marfo-Mariinsky Convent",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.737667,
+      "lon": 37.622722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Bolsaya Ordynka ( ул. Б. Ордынка), 34",
+      "url": "http://www.patriarchia.ru/db/text/320500.html",
+      "id": "russia-941ae5f2a7fa122bb539"
+    },
+    {
+      "name": "St. Clement's Church",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.740833,
+      "lon": 37.628889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Zamoskvorechye, Pyatnitskaya ulitsa, 26",
+      "url": "http://www.klement.ru/",
+      "id": "russia-d7d4a5eeacc194bb5d8e"
+    },
+    {
+      "name": "Cathedral of the Protection of the Theotokos",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.7325,
+      "lon": 37.634167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Zamoskvorechye district, Novokuznetskaya ulitsa, 38",
+      "id": "russia-9b0327a2a80645cedc37"
+    },
+    {
+      "name": "Church of the Transfiguration of Jesus on the Bolvanovka",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.734444,
+      "lon": 37.631389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Zamoskvorechye district, 2-y Novokuznetskiy pereulok, 10",
+      "id": "russia-c76c74271e2ebbfabe21"
+    },
+    {
+      "name": "Church of the Holy Trinity in Vishnyaki",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.735833,
+      "lon": 37.628333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Zamoskvorechye district, Pyatnitskaya ulitsa, 51",
+      "id": "russia-5827b8157913a054a595"
+    },
+    {
+      "name": "Old Mosque",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.73904,
+      "lon": 37.63266,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "28, Bolshaya Tatarskaya Street",
+      "url": "http://en.manar.ru/",
+      "id": "russia-4be8279e6f7eeed6a8af"
+    },
+    {
+      "name": "Bakhrushin museum of theater",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Zamoskvoreche district,",
+      "id": "russia-b1f4b95cb07f3c4e9bc7"
+    },
+    {
+      "name": "Lumiere Brothers Center for Photography",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.73992,
+      "lon": 37.60985,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Zamoskvorechye raion, Bolotnaya naberezhnaya (Болотная набережная), 3",
+      "url": "http://www.lumiere.ru/",
+      "id": "russia-0b51d763cc0087075736"
+    },
+    {
+      "name": "'House on the Embankment' Museum",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.74428,
+      "lon": 37.61111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Yakimanka district, Ulitsa Serafimovicha (ул.Серафимовича), 2",
+      "url": "http://dnnmuseum.ru/",
+      "id": "russia-4e42c9a7fce551ceb1c9"
+    },
+    {
+      "name": "Tretyakov Gallery",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.741389,
+      "lon": 37.620278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Yakimanka district, Lavrushinsky Lane, 10",
+      "price": "Adults: RUB 450, Students: RUB 300",
+      "url": "http://www.tretyakov.ru/",
+      "id": "russia-3907e4b2cf9703cabe9a"
+    },
+    {
+      "name": "Tretyakov Gallery exhibition hall",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Yakimanka district, Krymsky Val",
+      "id": "russia-6141152b9e6cce6132a4"
+    },
+    {
+      "name": "Art Museum of Vasili Tropinin and his contemporaries",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.752399,
+      "lon": 37.626874,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Yakimanka district, Schetininsky, 10",
+      "id": "russia-f9ce6b12adfa7ce82cf5"
+    },
+    {
+      "name": "Averky Kirillov estate",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Yakimanka district, Bersenevka",
+      "id": "russia-023415e820b3492785d5"
+    },
+    {
+      "name": "Marat Gelman gallery",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Yakimanka district, Malaya Polyanka, 7/7",
+      "id": "russia-ab5994fdc412884ed218"
+    },
+    {
+      "name": "Garden of Fallen Monuments",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.73671,
+      "lon": 37.60974,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "url": "http://park-gorkogo.com/en/muzeon",
+      "id": "russia-6c9c21df8f3258af8ee6"
+    },
+    {
+      "name": "Art Fountain",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.74057,
+      "lon": 37.62032,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Lavrushinskom Lane (Лаврушинский переулок)",
+      "id": "russia-4d0fbfbcd9701722d0c7"
+    },
+    {
+      "name": "Peter the Great Statue aka The Russian Navy Fountain-monument",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.7385,
+      "lon": 37.60815,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "id": "russia-04d57e3451ebb821d2db"
+    },
+    {
+      "name": "Water jet",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.74382,
+      "lon": 37.61756,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "id": "russia-0d5adcb9001373b77ab0"
+    },
+    {
+      "name": "Fountain on Bolotnaya Square",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.7444,
+      "lon": 37.61577,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "id": "russia-ba51c1e348dce36697b9"
+    },
+    {
+      "name": "18th - early 19th century buildings",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Pyatnitskaya Street Nn. 18, 19, 31, 44, 46, 67",
+      "id": "russia-4689aadabdb04527f27c"
+    },
+    {
+      "name": "18th - early 19th century buildings in Bolshaya Ordynka Street",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Bolshaya Ordynka Street Nn. 21, 41, 45",
+      "id": "russia-40bf0d775620520595dd"
+    },
+    {
+      "name": "19th century housing and military institutions in Sadovnicheskaya Street",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Sadovnicheskaya Street Nn. 57, 59",
+      "id": "russia-54b62699993cfb138f7a"
+    },
+    {
+      "name": "19th century buildings in Novokuznetskaya Street Nn. 28, 29, 31",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Novokuznetskaya Street Nn. 28, 29, 31",
+      "id": "russia-2d048c82c154074b02ba"
+    },
+    {
+      "name": "New Kriegskomissariat",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Kosmodamianskaya, 24-26",
+      "id": "russia-ef3a6c8d20a1cc77eee3"
+    },
+    {
+      "name": "School 518",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "id": "russia-fbd0e7067593f1e93005"
+    },
+    {
+      "name": "Moscow International House of Music in Red Hills",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.733056,
+      "lon": 37.646667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Kosmodamianskaya naberezhnaya (Космодамианская набережная), 52",
+      "url": "http://www.mmdm.ru/en/",
+      "id": "russia-503ca4e81ce0032ce414"
+    },
+    {
+      "name": "Maly Theater",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "lat": 55.75971,
+      "lon": 37.62054,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Teatralny proezd (Театральный проезд)",
+      "url": "http://www.maly.ru/",
+      "id": "russia-fa4dc9fb1664e00b1910"
+    },
+    {
+      "name": "Teatr Luny",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Malaya Ordynka, 31",
+      "id": "russia-8aa7145dd3061fcd0f33"
+    },
+    {
+      "name": "Teatr Estrady",
+      "kind": "do",
+      "locality": "Moscow/Central-South",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "id": "russia-01909ca7b3b815ab634e"
+    },
+    {
+      "name": "Grabli",
+      "kind": "eat",
+      "locality": "Moscow/Central-South",
+      "lat": 55.74131,
+      "lon": 37.62882,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Pyatnitskaya 27",
+      "url": "http://www.grably.ru/",
+      "id": "russia-f893cf4f4e890feac62d"
+    },
+    {
+      "name": "Kafe Mechta",
+      "kind": "eat",
+      "locality": "Moscow/Central-South",
+      "lat": 55.73728,
+      "lon": 37.64174,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Sadovnicheskaya ulitsa 84 building 7",
+      "url": "https://www.mechta-cafe.ru/",
+      "id": "russia-b29e556e310c1252fa3b"
+    },
+    {
+      "name": "Kharbin",
+      "kind": "eat",
+      "locality": "Moscow/Central-South",
+      "lat": 55.7311,
+      "lon": 37.6117,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Bolshaya Yakimanka ul. 56",
+      "price": "RUB 1000 per person for a filling dinner without alcohol",
+      "id": "russia-211fefdaad8fdb5e5199"
+    },
+    {
+      "name": "Starlite Diner",
+      "kind": "eat",
+      "locality": "Moscow/Central-South",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Koroviy Val Ulitsa, 9А",
+      "url": "http://starlite.ru/en/",
+      "id": "russia-fcaa75abc3bdf4db27e7"
+    },
+    {
+      "name": "Aquamarine Hotel Moscow",
+      "kind": "stay",
+      "locality": "Moscow/Central-South",
+      "lat": 55.73929,
+      "lon": 37.63826,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Naberezhnaya Ozerkovskaya, 26",
+      "price": "RUB 3100-10000, suites RUB 20000-40000",
+      "url": "https://akvamarin.peoplestate.ru/",
+      "id": "russia-ffb8132f5d38e1e726f0"
+    },
+    {
+      "name": "ibis Bakhrushina",
+      "kind": "stay",
+      "locality": "Moscow/Central-South",
+      "lat": 55.7359,
+      "lon": 37.63532,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "address": "Bakhrushina street 11",
+      "price": "from RUB 3100",
+      "url": "https://all.accor.com/hotel/8221/index.en.shtml",
+      "id": "russia-cc2e9d46e1e7a7b6e245"
+    },
+    {
+      "name": "Moscow/Central-South",
+      "kind": "area",
+      "locality": "Moscow/Central-South",
+      "lat": 55.73769,
+      "lon": 37.62491,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-South",
+      "id": "russia-0724b338308f1591fb45"
+    },
+    {
+      "name": "St. Andrew's Anglican Church",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.758333,
+      "lon": 37.604722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Presnensky district, Voznesenskiy pereulok 8",
+      "id": "russia-6d54b8ffd9e885ba5ec9"
+    },
+    {
+      "name": "Church of the Bishop Antipas of Pergamum",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.748,
+      "lon": 37.605389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Khamovniki district, Kolymazhnyy pereulok, 8",
+      "id": "russia-e58697fbf2a500646c67"
+    },
+    {
+      "name": "Bolshaya Bronnaya Synagogue",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.7602,
+      "lon": 37.5981,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Bolshaya Bronnaya Street (ул. Большая Бронная), 6",
+      "url": "http://www.bronnaya.ru/",
+      "id": "russia-fdf0aae7003ce48088eb"
+    },
+    {
+      "name": "Conception monastery",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.74018,
+      "lon": 37.59961,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "2-y Zachatyevskiy pereulok, (2-й Зачатьевский пер.), 2",
+      "url": "http://days.pravoslavie.ru/Hram/168.htm",
+      "id": "russia-0664e17b633f69548681"
+    },
+    {
+      "name": "Christ the Saviour Cathedral",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.744444,
+      "lon": 37.605556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "15, Prechistenskaya naberezhnaya",
+      "url": "http://new.xxc.ru/",
+      "id": "russia-2548d753cd6b93bf9aba"
+    },
+    {
+      "name": "Church of the Holy Image of the Saviour Not Made by Hands at the Monastery of the Immaculate Conception",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.740278,
+      "lon": 37.599639,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Khamovniki district,2-y Zachatyevskiy pereulok, 2",
+      "id": "russia-0fb6edb4cdbee2c0c7e3"
+    },
+    {
+      "name": "Church of the Patriarchs Athanasius and Cyril at the Sivka Gorge",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.747917,
+      "lon": 37.597667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Arbat district,Filippovskiy pereulok, 3",
+      "id": "russia-eb2cc62e5fc91563e264"
+    },
+    {
+      "name": "Church of the Martyr Saint Blaise",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.74525,
+      "lon": 37.591833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Khamovniki district, Gagarinskiy pereulok, 20",
+      "id": "russia-7833c1381a713ba21d70"
+    },
+    {
+      "name": "Church of the Ascension of Christ on the Nikitskaya",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.756944,
+      "lon": 37.603611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Presnensky district, Bolshaya Nikitskaya ulitsa, 18",
+      "id": "russia-0a7c6e06208f7345dd64"
+    },
+    {
+      "name": "Church of the Ascension of Christ in Storozhy",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.7575,
+      "lon": 37.595556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Presnensky district, Bolshaya Nikitskaya ulitsa, 36",
+      "id": "russia-b0d4f1bce55d2bd62d15"
+    },
+    {
+      "name": "Church of the Prophet Elijah in the Obydensky Alley",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.742306,
+      "lon": 37.604,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Khamovniki district, 3-y Obydenskiy pereulok, 1",
+      "id": "russia-c3280ea521ce5345e69c"
+    },
+    {
+      "name": "Church of the Apostel John on the Bronnaya",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.762194,
+      "lon": 37.600861,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Presnensky district,Bogoslovskiy pereulok, 4",
+      "id": "russia-e942301a75821aad1070"
+    },
+    {
+      "name": "Church of Saint Nicholas in Staroye Vagankovo",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.750222,
+      "lon": 37.6075,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Arbat district, Starovagankovskiy pereulok, 14",
+      "id": "russia-79fd34264e2e6fcb82fd"
+    },
+    {
+      "name": "Church of the Outpouring of the Holy Spirit at the Monastery of the Immaculate Conception of the Theotokos",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.739667,
+      "lon": 37.599194,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Khamovniki district, 2-y Zachatyevskiy pereulok, 2",
+      "id": "russia-339dc56d68d5b00adb02"
+    },
+    {
+      "name": "Church of the Renewal of the Church of the Resurrection of Christ in Jerusalem on the Arbat",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.75025,
+      "lon": 37.598944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Arbat district,Filippovskiy pereulok, 20",
+      "id": "russia-8f902e64e4e3a49aba64"
+    },
+    {
+      "name": "Church of the Renewal of the Church of the Resurrection of Christ in Jerusalem at the Ascension Gorge",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.759444,
+      "lon": 37.607222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Presnensky district,pereulok Bryusov, 15/2",
+      "id": "russia-679b990b60b3c05f31d0"
+    },
+    {
+      "name": "Church of the Venerable Simeon Stylites on the Povarskaya",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.753306,
+      "lon": 37.597306,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Arbat district,Povarskaya ulitsa, 5",
+      "id": "russia-fa0d06e0229e6d1a3863"
+    },
+    {
+      "name": "Church of the Martyr Tatiana at the Moscow State University",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.754556,
+      "lon": 37.611694,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Arbat district, Bolshaya Nikitskaya ulitsa, 1",
+      "id": "russia-16590ed6de43b627bc67"
+    },
+    {
+      "name": "Church of the Venerable Theodore Studites",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.756972,
+      "lon": 37.597694,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Arbat district, Bolshaya Nikitskaya ulitsa, 29?",
+      "id": "russia-348f7f2553601241e6fb"
+    },
+    {
+      "name": "Church of the Dormition of the Theotokos at the Ascension Gorge",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.758556,
+      "lon": 37.609833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Tverskoy district, Gazetnyy pereulok, 15",
+      "id": "russia-2802d9aadfc539839e2b"
+    },
+    {
+      "name": "Church of the Dormition of the Theotokos on the Tombs",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.743778,
+      "lon": 37.590583,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Khamovniki district, Bolshoy Vlasyevskiy pereulok, 2/2",
+      "id": "russia-7beba2b1fa7146ef8105"
+    },
+    {
+      "name": "Church of the Protection of the Theotokos on the Ostoshenka",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.736667,
+      "lon": 37.5975,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Khamovniki district, Pereulok Turchaninov, 4",
+      "id": "russia-21f84c5b0053e49dd6b3"
+    },
+    {
+      "name": "Church of the Theotokos icon of the Sign in the Sheremetev Yard",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.753889,
+      "lon": 37.609444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Arbat district, Pereulok Romanov, 2/6",
+      "id": "russia-f51798f7d8fcf0bb1a3f"
+    },
+    {
+      "name": "Church of the Transfiguration in Peski",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.749464,
+      "lon": 37.588344,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Arbat district, Spasopeskovsky Pereulok (Спасопесковский переулок), 4а.",
+      "url": "http://spas-na-peskah.prihod.ru/",
+      "id": "russia-376273aece2a971eebb3"
+    },
+    {
+      "name": "Church of the Transfiguration of Jesus on the Sand",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.749444,
+      "lon": 37.588306,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Arbat district, Spasopeskovskiy pereulok, 4А",
+      "id": "russia-b8e5d460903d50a2438a"
+    },
+    {
+      "name": "A. N. Skriabina Memorial Museum",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.750519,
+      "lon": 37.590106,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Arbat district, B.Nikolopeskovsky lane, 11",
+      "url": "http://anscriabin.ru/",
+      "id": "russia-f2a4c9b42b908f5014a7"
+    },
+    {
+      "name": "Burganov’s House State Museum",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.74667,
+      "lon": 37.59729,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Arbat district, Bolshoy Afanasyevsky Pereulok, 15, STR, 9",
+      "url": "http://um.mos.ru/museums/domburganova/",
+      "id": "russia-17eb6813240a63d995d6"
+    },
+    {
+      "name": "Galeyev Gallery",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.76411,
+      "lon": 37.59506,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Arbatskaya distr, Malyy Kozikhinskiy pereulok (Малый Козихинский переулок), 19",
+      "url": "http://www.ggallery.ru/en",
+      "id": "russia-fba579e945ce849ba883"
+    },
+    {
+      "name": "Museum of History of Moscow",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.73624,
+      "lon": 37.59411,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Zubovskiy bulvar (Зубовский бульвар), 2",
+      "price": "RUB 300",
+      "url": "http://www.mosmuseum.ru/",
+      "id": "russia-ff1522c4701af96e2665"
+    },
+    {
+      "name": "Shchusev State Museum of Architecture",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.752369,
+      "lon": 37.607217,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Arbat district, Street Vozdvizhenka (ул. Воздвиженка), 5",
+      "price": "RUB 100",
+      "url": "http://muar.ru/new/en/",
+      "id": "russia-25ee3c14fc966ac74006"
+    },
+    {
+      "name": "Pushkin Museum",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.747222,
+      "lon": 37.605,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Volkhonka street 12",
+      "price": "RUB 400; schoolchildren, students & pensioners: RUB 200",
+      "url": "http://www.arts-museum.ru/index.php?lang=en",
+      "id": "russia-2a1efc2bc103f57a947d"
+    },
+    {
+      "name": "Vernadsky State Geological Museum",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.755833,
+      "lon": 37.6125,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Mokhovaya ulitsa (Моховая ул.), 11",
+      "price": "Tickets to the museum RUB 250, tickets to Academy of Mining (Шахта «АКАДЕМИЧЕСКАЯ») RUB 300, discounted RUB 150",
+      "url": "http://www.sgm.ru/",
+      "id": "russia-d4519126291f2afd1c9e"
+    },
+    {
+      "name": "Zoological Museum of Moscow University",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.755833,
+      "lon": 37.608889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Bolshaya Nikitskaya Street (ул. Большая Никитская), 6",
+      "price": "Tickets adult/discount RUB 200/RUB 50",
+      "url": "http://zmmu.msu.ru/",
+      "id": "russia-4ef3bd22879901f1c2a0"
+    },
+    {
+      "name": "Bulgakov House",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.766908,
+      "lon": 37.592911,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Bolshaya Sadovaya ulitsa (Большая Садовая) no. 10",
+      "price": "free",
+      "url": "http://www.dombulgakova.ru/",
+      "id": "russia-dbccae0a2204a6aaf5b6"
+    },
+    {
+      "name": "Pashkov House",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.749722,
+      "lon": 37.608333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Arbat district, Ulitsa Vozdvizhenka, 3/5",
+      "id": "russia-3d538d017a4e886578ca"
+    },
+    {
+      "name": "Spaso House",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.750556,
+      "lon": 37.588056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Arbat district, Spasopeskovskaya Square. (Спасопесковская площадь), 10",
+      "id": "russia-15015b8e53add005f34c"
+    },
+    {
+      "name": "Tsoi Wall",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.7491,
+      "lon": 37.5909,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Arbat Street, №37",
+      "id": "russia-b44c0ce6c86cee1d6524"
+    },
+    {
+      "name": "Tverskaya Street",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.757222,
+      "lon": 37.614722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "id": "russia-9a1614c3bccb2b126743"
+    },
+    {
+      "name": "Melnikov House",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.748066,
+      "lon": 37.589448,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "price": "700 р",
+      "url": "http://muar.ru/dom-melnikova-posetitelyam",
+      "id": "russia-0fa149698e6eeb9ed7bf"
+    },
+    {
+      "name": "Aquarium garden, Time River Water-Landscape Fountain Complex",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.76782,
+      "lon": 37.59511,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Bolshaya Sadovaya st (Большая Садовая улица)",
+      "id": "russia-4ef94f5b4cc6b2e32a14"
+    },
+    {
+      "name": "Natalia and Alexander Fountain at Nikitskiy Vorot",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.75765,
+      "lon": 37.59763,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Bolshaya Nikitinskaya st (ул. Никитская Большая)",
+      "id": "russia-38eacc74a37e01b896a8"
+    },
+    {
+      "name": "Turandot Fountain",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.74971,
+      "lon": 37.59191,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Ul. Arbat, 26",
+      "id": "russia-f8768d3a988f88b2bee6"
+    },
+    {
+      "name": "Patriarshi ponds area",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.763883,
+      "lon": 37.59212,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Metro Mayakovskaya",
+      "id": "russia-de3209600b23e42a6a24"
+    },
+    {
+      "name": "Mayakovsky Theatre",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.756667,
+      "lon": 37.601667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Arbatski district, Bolshaya Nikitskaya (Большая Никитская улица), 19/13",
+      "price": "RUB 400-3500",
+      "url": "http://www.mayakovsky.ru/",
+      "id": "russia-65f111b9e899b6312ebe"
+    },
+    {
+      "name": "Gorky Art Theatre",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Presnensky District",
+      "id": "russia-8c56bdb795273be5de84"
+    },
+    {
+      "name": "Pushkin Drama Theatre",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.762222,
+      "lon": 37.601389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Presnensky District, Tverskoy Boulevard (Тверской бульвар), 23",
+      "url": "http://www.teatrpushkin.ru/",
+      "id": "russia-dff6040271f751c04e23"
+    },
+    {
+      "name": "Mossovet Theatre",
+      "kind": "do",
+      "locality": "Moscow/Central-West",
+      "lat": 55.767917,
+      "lon": 37.596611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Ul. Bolshaya Sadovaya (ул. Б. Садовая), 16",
+      "url": "http://www.mossoveta.ru/",
+      "id": "russia-02573d4fa410e6e0fc78"
+    },
+    {
+      "name": "McDonalds",
+      "kind": "eat",
+      "locality": "Moscow/Central-West",
+      "lat": 55.75894,
+      "lon": 37.61059,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Gazetnyi Pereulok (Газетный переулок), 17",
+      "url": "http://mcdonalds.ru/",
+      "id": "russia-29a489c0f328b403a969"
+    },
+    {
+      "name": "Moo-Moo, Arbat",
+      "kind": "eat",
+      "locality": "Moscow/Central-West",
+      "lat": 55.75204,
+      "lon": 37.59883,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Arbat St, 4",
+      "price": "USD10-15 per person",
+      "url": "https://www.cafemumu.ru/",
+      "id": "russia-99832f48e7b5ea5d2961"
+    },
+    {
+      "name": "Prime Star",
+      "kind": "eat",
+      "locality": "Moscow/Central-West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Ulitsa Bol'shaya Dmitrovka, 7/5c1",
+      "price": "RUB 400",
+      "url": "https://www.prime-star.ru/",
+      "id": "russia-699bd9b32e34d4d59900"
+    },
+    {
+      "name": "Chemodan (Suitcase)",
+      "kind": "eat",
+      "locality": "Moscow/Central-West",
+      "lat": 55.7485,
+      "lon": 37.5993,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Gogol Boulevard 25/1",
+      "price": "Mains: RUB 1500-4500",
+      "url": "http://chemodan-msk.ru/",
+      "id": "russia-d11366e5029b52e28c6e"
+    },
+    {
+      "name": "Cafe Pushkin",
+      "kind": "eat",
+      "locality": "Moscow/Central-West",
+      "lat": 55.7639,
+      "lon": 37.6048,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Tverskoy Blvd 26А",
+      "url": "http://cafe-pushkin.ru/",
+      "id": "russia-cc0cc71d0e0b1b94c657"
+    },
+    {
+      "name": "Simple Things-Nikitskaya Winebar",
+      "kind": "eat",
+      "locality": "Moscow/Central-West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "B. Nikitskaya, (Большая Никитская улица) 14",
+      "url": "http://gastroteka.ru/",
+      "id": "russia-a5c480471c203b778205"
+    },
+    {
+      "name": "Kofemaniya Nikitskaya",
+      "kind": "eat",
+      "locality": "Moscow/Central-West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Bol'shaya Nikitskaya Ulitsa, 13",
+      "url": "https://coffeemania.ru/",
+      "id": "russia-e5af8afbe0938b75d79f"
+    },
+    {
+      "name": "Starbucks Cafe",
+      "kind": "eat",
+      "locality": "Moscow/Central-West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Old Arbat Street, 19? 38?",
+      "url": "http://www.starbuckscoffee.ru/",
+      "id": "russia-30f3606c6b5801488ffd"
+    },
+    {
+      "name": "Lotte Hotel Moscow",
+      "kind": "stay",
+      "locality": "Moscow/Central-West",
+      "lat": 55.751111,
+      "lon": 37.584167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "address": "Arbat district",
+      "price": "Rooms RUB 15000-48000; Suites RUB 55000-490000",
+      "url": "http://www.lottehotel.ru/",
+      "id": "russia-5e5e82323dd909f7629c"
+    },
+    {
+      "name": "Moscow/Central-West",
+      "kind": "area",
+      "locality": "Moscow/Central-West",
+      "lat": 55.75069,
+      "lon": 37.5968,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-West",
+      "id": "russia-e8f14aab8d76f2849cc2"
+    },
+    {
+      "name": "Moscow Orphanage",
+      "kind": "do",
+      "locality": "Moscow/Central-East",
+      "lat": 55.749722,
+      "lon": 37.636667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-East",
+      "address": "Kitay-gorod, Moskvoretskaya naberezhnaya, 1/15,",
+      "id": "russia-7a386096df46491d6849"
+    },
+    {
+      "name": "Museum of Russian Icon",
+      "kind": "do",
+      "locality": "Moscow/Central-East",
+      "lat": 55.74631,
+      "lon": 37.64556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-East",
+      "address": "Goncharnaya street (Гончарная улица), 3., building 1,",
+      "price": "Free",
+      "url": "http://www.russikona.ru/",
+      "id": "russia-665c0eddd26cf3c8e772"
+    },
+    {
+      "name": "Bunker-42, Tagansky Protected Command Point",
+      "kind": "do",
+      "locality": "Moscow/Central-East",
+      "lat": 55.74172,
+      "lon": 37.64915,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-East",
+      "address": "5th Kotelnichesky lane. (5-й Котельнический пер.), 11",
+      "url": "http://www.bunker42.com/index.php?lang=en",
+      "id": "russia-6e0ae064665868405f57"
+    },
+    {
+      "name": "Shazina Gallery",
+      "kind": "do",
+      "locality": "Moscow/Central-East",
+      "lat": 55.75441,
+      "lon": 37.64743,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-East",
+      "address": "Pokrovskiy bulvar (Покровский бульвар) 14",
+      "url": "http://www.shazina.com/",
+      "id": "russia-5af3b463d4f3009f5dbe"
+    },
+    {
+      "name": "Solovetsky Stone",
+      "kind": "do",
+      "locality": "Moscow/Central-East",
+      "lat": 55.759111,
+      "lon": 37.627556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-East",
+      "address": "Lubyanskaya ploshchad'",
+      "id": "russia-dba1279e9cbd6b0c06d0"
+    },
+    {
+      "name": "Choral Synagogue",
+      "kind": "do",
+      "locality": "Moscow/Central-East",
+      "lat": 55.755556,
+      "lon": 37.635278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-East",
+      "address": "Basmanny District, Bolshoy Spasogolinischevsky Lane (Большой Спасоглинищевский пер.), 10",
+      "url": "http://centralsynagogue.ru/?lang=en",
+      "id": "russia-6acdac479f0850150e58"
+    },
+    {
+      "name": "Ivanovsky Convent",
+      "kind": "do",
+      "locality": "Moscow/Central-East",
+      "lat": 55.754722,
+      "lon": 37.64,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-East",
+      "address": "Malyy Ivanovskiy pereulok ( Малый Ивановский переулок), 2",
+      "url": "http://ioannpredtecha.ru/",
+      "id": "russia-acf088f6b95d4c37e154"
+    },
+    {
+      "name": "Church of the Archangel Gabriel",
+      "kind": "do",
+      "locality": "Moscow/Central-East",
+      "lat": 55.763056,
+      "lon": 37.638889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-East",
+      "address": "Arkhangelsky Lane, 15a",
+      "url": "http://worldwalk.info/en/catalog/805/",
+      "id": "russia-c1e157abeb08e938c94d"
+    },
+    {
+      "name": "Church of Saint Nicholas in Klyoniki",
+      "kind": "do",
+      "locality": "Moscow/Central-East",
+      "lat": 55.7575,
+      "lon": 37.632222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-East",
+      "address": "Basmanny district, Ulitsa Maroseyka, 3",
+      "id": "russia-6fb2b2fff876999dd99a"
+    },
+    {
+      "name": "Church of the Martyr George the Victorious in Staryye Luchniki",
+      "kind": "do",
+      "locality": "Moscow/Central-East",
+      "lat": 55.758194,
+      "lon": 37.63025,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-East",
+      "address": "Tverskoy district, Lubyanskiy proyezd, 9",
+      "id": "russia-30cacde6ac303cb54a52"
+    },
+    {
+      "name": "Church of the Holy Trinity on the Mud",
+      "kind": "do",
+      "locality": "Moscow/Central-East",
+      "lat": 55.759444,
+      "lon": 37.643889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-East",
+      "address": "Ulitsa Pokrovka, 13",
+      "id": "russia-1765149815e525713d8f"
+    },
+    {
+      "name": "Church of the Martyr Theodore of Stratelates",
+      "kind": "do",
+      "locality": "Moscow/Central-East",
+      "lat": 55.762953,
+      "lon": 37.639133,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-East",
+      "address": "Arkhangelskiy pereulok, 15А",
+      "id": "russia-52b7e97402561de53ff4"
+    },
+    {
+      "name": "Clean Ponds",
+      "kind": "do",
+      "locality": "Moscow/Central-East",
+      "lat": 55.760833,
+      "lon": 37.644722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-East",
+      "address": "Basmanny District, Chistoprudnyy bulvar, 12-14",
+      "id": "russia-2e590a06976305b9ed32"
+    },
+    {
+      "name": "Expedition Northern Cuisine",
+      "kind": "eat",
+      "locality": "Moscow/Central-East",
+      "lat": 55.7515,
+      "lon": 37.6415,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-East",
+      "address": "Pevcheskiy Pereulok 6",
+      "price": "Mains: from RUB 1000",
+      "url": "https://expedition.rest/",
+      "id": "russia-12830b9ab458412ded1a"
+    },
+    {
+      "name": "Comrade Hostel",
+      "kind": "stay",
+      "locality": "Moscow/Central-East",
+      "lat": 55.75781,
+      "lon": 37.63545,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-East",
+      "address": "Maroseyka street 11, 3F",
+      "price": "Dorm bed: RUB 650; Single: RUB 2000; Double: RUB 2500",
+      "url": "http://www.comradehostel.com/",
+      "id": "russia-a9dca23792761e9b497a"
+    },
+    {
+      "name": "Napoleon Hostel",
+      "kind": "stay",
+      "locality": "Moscow/Central-East",
+      "lat": 55.75806,
+      "lon": 37.63376,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-East",
+      "address": "Maly Zlatoustinskiy 2 (4F)",
+      "price": "Dorm bed: RUB 450-600",
+      "url": "http://www.napoleonhostel.com/",
+      "id": "russia-2dca2dcb574645ca858e"
+    },
+    {
+      "name": "Hostel Dom",
+      "kind": "stay",
+      "locality": "Moscow/Central-East",
+      "lat": 55.75592,
+      "lon": 37.65394,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-East",
+      "address": "Podsosenskiy per, 21 stroenie 5",
+      "price": "USD90, dorm: USD30",
+      "url": "http://www.facebook.com/DOMHOSTEL.RU",
+      "id": "russia-e9ebc1a22b3f6085c501"
+    },
+    {
+      "name": "Moscow/Central-East",
+      "kind": "area",
+      "locality": "Moscow/Central-East",
+      "lat": 55.754,
+      "lon": 37.641,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moscow%2FCentral-East",
+      "id": "russia-d5c190b1f6da2972cfec"
+    }
+  ],
+  "status": "partial",
+  "note": "Fetched 8 distinct public Wikivoyage source pages; attempted 8 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Coverage cap: Moscow: 1 additional linked subpages not fetched."
+}

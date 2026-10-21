@@ -1,0 +1,1509 @@
+{
+  "sources": [
+    {
+      "title": "Vietnam",
+      "url": "https://en.wikivoyage.org/wiki/Vietnam",
+      "checkedAt": "2026-10-21T08:06:28.926Z"
+    },
+    {
+      "title": "Hanoi",
+      "url": "https://en.wikivoyage.org/wiki/Hanoi",
+      "checkedAt": "2026-10-21T08:06:31.509Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Hanoi",
+      "kind": "area",
+      "locality": "Vietnam",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vietnam",
+      "id": "vietnam-996fa69e8b3301b23b05"
+    },
+    {
+      "name": "Ho Chi Minh City",
+      "kind": "area",
+      "locality": "Vietnam",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vietnam",
+      "id": "vietnam-656fe54084d9e0a85d63"
+    },
+    {
+      "name": "Da Nang",
+      "kind": "area",
+      "locality": "Vietnam",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vietnam",
+      "id": "vietnam-89b659c9c8964f133faa"
+    },
+    {
+      "name": "Da Lat",
+      "kind": "area",
+      "locality": "Vietnam",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vietnam",
+      "id": "vietnam-6f5bf4119e871ce00921"
+    },
+    {
+      "name": "Haiphong",
+      "kind": "area",
+      "locality": "Vietnam",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vietnam",
+      "id": "vietnam-c2fb5299ebab3888ac83"
+    },
+    {
+      "name": "Hoi An",
+      "kind": "area",
+      "locality": "Vietnam",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vietnam",
+      "id": "vietnam-2a1ebb7199529589af73"
+    },
+    {
+      "name": "Hue",
+      "kind": "area",
+      "locality": "Vietnam",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vietnam",
+      "id": "vietnam-b28f54c872715c9df7a7"
+    },
+    {
+      "name": "Nha Trang",
+      "kind": "area",
+      "locality": "Vietnam",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vietnam",
+      "id": "vietnam-b2e9b88bde7ff733f250"
+    },
+    {
+      "name": "Vinh",
+      "kind": "area",
+      "locality": "Vietnam",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vietnam",
+      "id": "vietnam-083800d3b6adf35824c5"
+    },
+    {
+      "name": "Vietnamese (iced) coffee",
+      "kind": "eat",
+      "locality": "Vietnam",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vietnam",
+      "price": "15–25,000 dong",
+      "id": "vietnam-07c77b2332fad6450c62"
+    },
+    {
+      "name": "Fine Arts Museum",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.0306,
+      "lon": 105.837,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "66 Nguyen Thai Hoc St",
+      "price": "Adult 40,000 dong",
+      "url": "https://vnfam.vn/en/",
+      "id": "vietnam-414f8df4f54398b2d5ab"
+    },
+    {
+      "name": "Hồ Chí Minh Mausoleum",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.036667,
+      "lon": 105.834722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "price": "Free",
+      "id": "vietnam-c5e1999750a538d7906b"
+    },
+    {
+      "name": "Hồ Chí Minh Museum",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.035693,
+      "lon": 105.832624,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "19 Ngoc Ha St, Ba Dinh",
+      "price": "40,000 dong",
+      "id": "vietnam-d58d10ad60517dbf5913"
+    },
+    {
+      "name": "Hồ Chí Minh's Vestige in the Presidential Palace Area",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.037901,
+      "lon": 105.833547,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "1 Bach Thao, Ba Dinh",
+      "price": "40,000 dong",
+      "id": "vietnam-99d11f929ea69b9ff5e2"
+    },
+    {
+      "name": "National Museum of Vietnamese History",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.0253,
+      "lon": 105.8589,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "No 1 Trang Tien Street and 216 Tran Quang Khai Street",
+      "price": "40,000 dong for both",
+      "url": "http://www.baotanglichsu.vn/subportal/",
+      "id": "vietnam-fc4971b9c9bd5fe02c05"
+    },
+    {
+      "name": "Vietnamese Women's Museum",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.023463,
+      "lon": 105.851619,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "36 Ly Thuong Kiet St, Hoan Kiem District",
+      "price": "40,000 dong (80,000 dong with audioguide)",
+      "url": "http://www.baotangphunu.org.vn/",
+      "id": "vietnam-cd216e6c98b1f2d13c57"
+    },
+    {
+      "name": "Vietnam Military History Museum",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.01,
+      "lon": 105.7541,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "Km6+500, CT03, Tây Mỗ Ward, Nam Từ Liêm Dist",
+      "url": "https://baotanglichsuquansu.vn/en-gb/",
+      "id": "vietnam-2ba68ce7bca0291472e9"
+    },
+    {
+      "name": "Museum of Ethnology",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.0406,
+      "lon": 105.799,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "Nguyen Van Huyen St, Cau Giay District",
+      "price": "40,000 dong for foreigners, extra 50,000 dong for photography.",
+      "url": "http://www.vme.org.vn/",
+      "id": "vietnam-edbcab823c63190cd134"
+    },
+    {
+      "name": "Hanoi Museum",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.011,
+      "lon": 105.786,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "Pham Hung St, Cau Giay District",
+      "price": "Free",
+      "id": "vietnam-68e2c96229844ada5e3b"
+    },
+    {
+      "name": "Air Force Museum",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 20.9998,
+      "lon": 105.83,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "Truong Chinh St",
+      "id": "vietnam-51b3a97ccf9b425ed67e"
+    },
+    {
+      "name": "Hoàn Kiếm Lake",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.028889,
+      "lon": 105.8525,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "price": "Park is free; 30,000 dong admission to the island temple (玉山祠).",
+      "id": "vietnam-c72c31ca3844039e554c"
+    },
+    {
+      "name": "Lý Thái Tổ Statue & Park",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.0257,
+      "lon": 105.8531,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "id": "vietnam-56f1a3121ca1ff75407e"
+    },
+    {
+      "name": "Hồ Tây",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.055,
+      "lon": 105.82,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "id": "vietnam-c79bb5fd7957dfb39b49"
+    },
+    {
+      "name": "Lenin Statue & Park",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.0317,
+      "lon": 105.8394,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "id": "vietnam-8fad4b1968fa211911b2"
+    },
+    {
+      "name": "One-Pillar Pagoda",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.035745,
+      "lon": 105.833428,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "price": "Free",
+      "id": "vietnam-29602ee7fcca7238b76e"
+    },
+    {
+      "name": "Ngọc Sơn Temple",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.030695,
+      "lon": 105.852392,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "id": "vietnam-d55669ddfdcb0f91ff70"
+    },
+    {
+      "name": "Temple of Literature",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.0291,
+      "lon": 105.8361,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "Quốc Tử Giám St",
+      "price": "Adult 30,000 dong; student, senior or disabled person 15,000 dong; child under 15 free",
+      "url": "http://vanmieu.gov.vn/vi/",
+      "id": "vietnam-c32b20206e760feba3fd"
+    },
+    {
+      "name": "Quán Sứ Pagoda",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.02449,
+      "lon": 105.845258,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "73 P. Quán Sứ",
+      "url": "https://chuaquansu.org/",
+      "id": "vietnam-6a40018cfae1ffb1f42d"
+    },
+    {
+      "name": "Trấn Quốc Pagoda",
+      "kind": "do",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "46 Đ. Thanh Niên, Trúc Bạch, Tây Hồ",
+      "id": "vietnam-048c0bb4a563cdad4886"
+    },
+    {
+      "name": "Bạch Mã Temple",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.035752,
+      "lon": 105.851032,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "76 Hang Buom St, Hoan Kiem District",
+      "id": "vietnam-01904d6da9c1d244b626"
+    },
+    {
+      "name": "Quán Thánh Temple",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.043113,
+      "lon": 105.836508,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "Đ. Thanh Niên, Quán Thánh, Ba Đình",
+      "id": "vietnam-f9ebaed894b6e9e1be5e"
+    },
+    {
+      "name": "Voi Phục Temple",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.030636,
+      "lon": 105.804138,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "306B Kim Ma St, Ngoc Khanh Ward, Ba Dinh District",
+      "id": "vietnam-3608d5bac3dc345a353d"
+    },
+    {
+      "name": "Kim Liên Shrine",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.010765,
+      "lon": 105.838271,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "148 P. Kim Hoa, Phương Liên, Đống Đa",
+      "id": "vietnam-98307f802a39be0f01ab"
+    },
+    {
+      "name": "Fujian Assembly Hall",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.035419608397067,
+      "lon": 105.84869089748511,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "40 P. Lãn Ông",
+      "id": "vietnam-1789f8ae73847470fc9c"
+    },
+    {
+      "name": "Canton Assembly Hall",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.036125635464696,
+      "lon": 105.85227548968119,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "22 P. Hàng Buồm",
+      "id": "vietnam-c7f774beed1b0cac18f1"
+    },
+    {
+      "name": "Hanoi Citadel",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.037407,
+      "lon": 105.840428,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "id": "vietnam-c79a909334984de69b78"
+    },
+    {
+      "name": "Hanoi Train Street",
+      "kind": "do",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "id": "vietnam-b218c5e3289511d8c9bf"
+    },
+    {
+      "name": "Hanoi Train Street (North)",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.029478,
+      "lon": 105.843149,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "5 Trần Phú, Hàng Bông, Hoàn Kiếm",
+      "id": "vietnam-ed835bdf6472abce9557"
+    },
+    {
+      "name": "Hanoi Train Street (South)",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.01768,
+      "lon": 105.84093,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "Ng. 222 Đ.Lê Duẩn, Khâm Thiên, Đống Đa",
+      "id": "vietnam-7a5dba97ea0b8e576bbc"
+    },
+    {
+      "name": "Hanoi Sky",
+      "kind": "do",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "65th floor, Lotte Center Hanoi, 54 Liễu Giai, Giảng Võ Ward",
+      "url": "https://hanoiskydeck.com/",
+      "id": "vietnam-88810254163b50cef5be"
+    },
+    {
+      "name": "St. Joseph's Cathedral",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.0286,
+      "lon": 105.849,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "Nha Tho, Hoàn Kiếm District",
+      "url": "https://www.tonggiaophanhanoi.org/",
+      "id": "vietnam-b280a2107266337c3cc9"
+    },
+    {
+      "name": "Presidential Palace",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.039286,
+      "lon": 105.834586,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "2 Hùng Vương, Ngọc Hồ, Ba Đình",
+      "id": "vietnam-89cb10730b363b105267"
+    },
+    {
+      "name": "Vietnam Exposition Center (VEC)",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.0865,
+      "lon": 105.8626,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "Cầu Tứ Liên Road, Đông Anh",
+      "url": "https://vec.global/en",
+      "id": "vietnam-b5e358874ccb1d7569ea"
+    },
+    {
+      "name": "B-52 Lake",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.037947,
+      "lon": 105.826996,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "Ngoc Ha Precinct, Ba Dinh District",
+      "id": "vietnam-51b2be8e1bf72f6a412b"
+    },
+    {
+      "name": "Downed Aircraft Memorial",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.046856,
+      "lon": 105.83683,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "id": "vietnam-2663c826a3e9adac0146"
+    },
+    {
+      "name": "Hỏa Lò Prison",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.025278,
+      "lon": 105.846389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "1 Hỏa Lò, Hoan Kiem",
+      "price": "50,000 dong",
+      "id": "vietnam-14d33a945e24024a2723"
+    },
+    {
+      "name": "August Movie Theater",
+      "kind": "do",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "id": "vietnam-01880fbeb26ce704ff8b"
+    },
+    {
+      "name": "CGV Cinemas (formerly Megastar)",
+      "kind": "do",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "191 Ba Trieu",
+      "price": "70,000-115,000 dong for 2D movies depending on day and time. 90,000-230,000 dong for 3D movies",
+      "url": "https://www.cgv.vn/en/theaters/cinema/index/city/vn-04/name/cgv-vincom-center-ba-trieu",
+      "id": "vietnam-5256c2923c4479a59ac9"
+    },
+    {
+      "name": "EZ Cooking Class",
+      "kind": "do",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "49 Lane, 49 Huynh Thuc Khang St",
+      "url": "http://www.daynauan.vn/",
+      "id": "vietnam-5f0f1130a0b6487fa3c5"
+    },
+    {
+      "name": "EDUMA",
+      "kind": "do",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "94 Lane, 49 Lo Duc St",
+      "url": "http://daynauan.info/",
+      "id": "vietnam-44cb81faf37be946d50a"
+    },
+    {
+      "name": "Hanoi Cooking Centre",
+      "kind": "do",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "44 Chau Long St",
+      "url": "http://hanoicookingcentre.com/",
+      "id": "vietnam-c46e4ab8d64dc54e33fd"
+    },
+    {
+      "name": "Hidden Hanoi",
+      "kind": "do",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "137 Nghi Tam Rd (aka Duong An Duong Vuong), Tay Ho",
+      "url": "http://hiddenhanoi.vn/",
+      "id": "vietnam-db5d20ac90e8248e5439"
+    },
+    {
+      "name": "Vietnam Culinary School",
+      "kind": "do",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "id": "vietnam-04b52ac230ac0543ea4d"
+    },
+    {
+      "name": "Học Viện Ẩm Thực",
+      "kind": "do",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "60 Tran Nhan Tong",
+      "url": "http://www.hocvienamthuc.com/",
+      "id": "vietnam-092485bb4f4d7a9b14ee"
+    },
+    {
+      "name": "SF Salon and Spa",
+      "kind": "do",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "30 Cua Dong, Hoan Kiem",
+      "id": "vietnam-6b270fb23e9da2c94bd9"
+    },
+    {
+      "name": "VietClimb",
+      "kind": "do",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "So 40 Ngo 76 An Duong",
+      "url": "http://vietclimb.vn/",
+      "id": "vietnam-458dbdd55348626b30c8"
+    },
+    {
+      "name": "Thang Long Water Puppet Theatre",
+      "kind": "do",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "57 Dinh Tien Hoang St",
+      "price": "Camera passes are an extra 20,000 dong",
+      "url": "http://thanglongwaterpuppet.org/",
+      "id": "vietnam-b8ce617e4d411a4b5cd1"
+    },
+    {
+      "name": "Hồng Hà Theater",
+      "kind": "do",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "51 Duong Thanh Street (inside Old Quarter)",
+      "price": "150,000 dong",
+      "id": "vietnam-d3347d490e77d9ce7931"
+    },
+    {
+      "name": "Công Nhân Theater",
+      "kind": "do",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "42 Trang Tien street",
+      "price": "USD5.49-12.95",
+      "url": "https://viettheatre.com/en",
+      "id": "vietnam-e7afcd0d626bef15ccac"
+    },
+    {
+      "name": "Hanoi Chèo Theatre",
+      "kind": "do",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "1 Giang Văn Minh",
+      "price": "150,000 dong",
+      "url": "http://nhahatcheovietnam.vn/",
+      "id": "vietnam-5043b302a035f6aae7e5"
+    },
+    {
+      "name": "Hanoi Opera House",
+      "kind": "do",
+      "locality": "Hanoi",
+      "lat": 21.024167,
+      "lon": 105.857778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "01 Tràng Tiền",
+      "url": "http://hanoioperahouse.org.vn/",
+      "id": "vietnam-177e0afbcfeab5e74b62"
+    },
+    {
+      "name": "Snake Restaurants",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "id": "vietnam-effd62466dc8248eccf9"
+    },
+    {
+      "name": "Bánh Mì Dân Tổ",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.0386153,
+      "lon": 105.8517403,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "32 Đ. Trần Nhật Duật",
+      "id": "vietnam-274ecbb0f55875f97db7"
+    },
+    {
+      "name": "Bun Cha Ta Hanoi",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.03434,
+      "lon": 105.854423,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "21 Nguyễn Hữu Huân",
+      "id": "vietnam-0780e247d411a3b6d7a5"
+    },
+    {
+      "name": "Bánh Mì 25",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.0361231,
+      "lon": 105.8486061,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "25 P. Hàng Cá",
+      "id": "vietnam-afaac7284ac5c3ac30a5"
+    },
+    {
+      "name": "Little Hanoi Restaurant",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.0334463,
+      "lon": 105.8537653,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "16 P. Hàng Bè",
+      "id": "vietnam-639041d0d16b057b095f"
+    },
+    {
+      "name": "Banh Mi Hoi An",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.0341854,
+      "lon": 105.8514097,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "98 P. Hàng Bạc",
+      "id": "vietnam-99ab592f914ea0e51a0b"
+    },
+    {
+      "name": "Quán Cơm Bình Dân",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.0371467,
+      "lon": 105.8544691,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "20 P. Bảo Linh",
+      "id": "vietnam-9d2653df8715ec2931ff"
+    },
+    {
+      "name": "Bún Chả Đắc Kim",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.0320587,
+      "lon": 105.8482303,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "1 Hang Manh",
+      "url": "http://bunchahangmanh.vn/",
+      "id": "vietnam-431ea13fa7366f9ade9e"
+    },
+    {
+      "name": "Bún Chả Đắc Kim",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.0308085,
+      "lon": 105.8472955,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "id": "vietnam-cdb634223c73b940c498"
+    },
+    {
+      "name": "Pho 10 Ly Quoc Su",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.0305287,
+      "lon": 105.848822,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "10 P. Lý Quốc Sư",
+      "id": "vietnam-36ea6a9c33d54630b259"
+    },
+    {
+      "name": "Pho Tu Lun (Au Trieu)",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.0288704,
+      "lon": 105.8486071,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "34 P. Ấu Triệu",
+      "id": "vietnam-f9437dd1c5971533c764"
+    },
+    {
+      "name": "Com Chay Nang Tam Vegetarian Restaurant",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.0221166,
+      "lon": 105.8471668,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "79A Pho Tran Hung Dao",
+      "url": "http://nangtam.com.vn/",
+      "id": "vietnam-b519a8b0bc9917f82e93"
+    },
+    {
+      "name": "Au Lac Vegetarian Restaurant",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.0205821,
+      "lon": 105.8364483,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "277 Ng. Văn Chương",
+      "id": "vietnam-083b8fbc0edc1dd66571"
+    },
+    {
+      "name": "Huyen Huong Restaurant",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.0300962,
+      "lon": 105.8504421,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "20 Bao Khanh",
+      "price": "from 80,000 dong",
+      "id": "vietnam-b62cbf44fe7626bd55e0"
+    },
+    {
+      "name": "Kaiser Kaffee Restaurant",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.0239555,
+      "lon": 105.8509926,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "34A Ba Trieu",
+      "id": "vietnam-5f2bcfd47f2f883f1d55"
+    },
+    {
+      "name": "Little Hanoi",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.0334782,
+      "lon": 105.8536477,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "16 P. Hàng Bè",
+      "id": "vietnam-99c628203558071043ae"
+    },
+    {
+      "name": "Mediterraneo",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.0287822,
+      "lon": 105.8497494,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "23 Nhà Thờ St., Hoàn Kiếm",
+      "price": "Mains from 195K to 490K dong (Aug 2021)",
+      "id": "vietnam-7d0d9662cf6b95fcbcb9"
+    },
+    {
+      "name": "Moka Café",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.0291289,
+      "lon": 105.8500595,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "P. Nhà Thờ",
+      "id": "vietnam-21d4f5325fbb5db5c2e3"
+    },
+    {
+      "name": "Pepperoni's",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.0296738,
+      "lon": 105.8502188,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "98 P. Hàng Trống",
+      "id": "vietnam-2938bb2188b977db36b8"
+    },
+    {
+      "name": "01 -wan- Tantan Ramen",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.03531,
+      "lon": 105.84858,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "63 Lãn Ông St., Hoàn Kiếm",
+      "price": "Ramen bowls from 180-200k dong",
+      "url": "https://www.facebook.com/01wantantanramen",
+      "id": "vietnam-85c5a865462e12cbc76b"
+    },
+    {
+      "name": "Madam Tu Hong",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.028801,
+      "lon": 105.845737,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "5 Hoi Vu Lane, Hoan Kiem",
+      "url": "https://madamtuhong.vn/",
+      "id": "vietnam-c65c1078d2b7aca34186"
+    },
+    {
+      "name": "Dalcheeni",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.062803838352092,
+      "lon": 105.82987682566491,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "100 Xuân Diệu St., Tây Hồ",
+      "price": "Mains from 100K to 350K dong (Aug 2021)",
+      "url": "http://www.dalcheenivn.com/",
+      "id": "vietnam-899a7ebe6436c4a81369"
+    },
+    {
+      "name": "Quán Ăn Ngon",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.0262886,
+      "lon": 105.8434553,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "18 Phan Boi Chau St",
+      "id": "vietnam-619fc96c584286a89ee9"
+    },
+    {
+      "name": "Ramen Haron",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.036651937885466,
+      "lon": 105.81049883068165,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "40 Linh Lang St, Ba Đình",
+      "price": "Ramen bowls from 150K-170K dong (Aug 2021)",
+      "url": "https://www.facebook.com/ramenharon/",
+      "id": "vietnam-c47638582a8bb4070836"
+    },
+    {
+      "name": "Tầm Vị",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.02946,
+      "lon": 105.8396,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "4B Yên Thế St, Ba Đình",
+      "price": "200-300k dong per person",
+      "url": "https://www.facebook.com/nhahangtamvi/",
+      "id": "vietnam-df6f6fb1b74130d50e48"
+    },
+    {
+      "name": "Việt Lai Thuận",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.02382,
+      "lon": 105.82629,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "83 Hào Nam St, Chợ Dừa, Đống Đa",
+      "price": "300-500k dong per person",
+      "url": "https://www.facebook.com/p/Nh%C3%A0-H%C3%A0ng-Vi%E1%BB%87t-Lai-Thu%E1%BA%ADn%E6%B2%B3%E5%86%85%E8%B6%8A%E6%9D%A5%E9%A1%BA%E9%A4%90%E5%8E%85-61557808031532/",
+      "id": "vietnam-294242b2e4b5df50524b"
+    },
+    {
+      "name": "dragonCELLO",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.06688950907696,
+      "lon": 105.81124055450013,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "201 Vệ Hồ St., Tây Hồ",
+      "price": "Mains 215K-680K dong",
+      "url": "https://dragoncello.vn/",
+      "id": "vietnam-2a1e1df8758900ccf87c"
+    },
+    {
+      "name": "Etēsia",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.03157333897927,
+      "lon": 105.85554899682907,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "14B Lò Sũ St., Hoàn Kiếm",
+      "price": "Mains 190K-890K dong",
+      "url": "https://www.facebook.com/etesiahanoi/",
+      "id": "vietnam-e53e9f1dc8783b672d50"
+    },
+    {
+      "name": "Gia",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.02750924501968,
+      "lon": 105.83582416614739,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "61 Văn Miếu St., Đống Đa",
+      "price": "Tasting menu only: 10-course lunch from 1,800K dong, 12-course dinner from 2,590K dong",
+      "url": "https://gia-hanoi.com/",
+      "id": "vietnam-2af7fc95caa44818ad43"
+    },
+    {
+      "name": "Lamai Garden",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.06624,
+      "lon": 105.83567,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "36B Đê Quai St, Tứ Liên, Tây Hồ",
+      "price": "Tasting menu only: lunch from 1,400K dong, 11-course dinner from 1,800K dong",
+      "url": "https://www.lamaigarden.com/",
+      "id": "vietnam-08ce99e7ce752d3ed8d8"
+    },
+    {
+      "name": "JW Café",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.00729984722665,
+      "lon": 105.78310589815355,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "8 Đỗ Đức Dục St., Mễ Trì, Nam Từ Liêm",
+      "price": "Breakfast 690K dong, lunch 590-790K dong, dinner: 1,100-1,350K dong, Sunday brunch 1,690K dong",
+      "url": "https://portal.marriott.com/hanjw-dining/jw-cafe",
+      "id": "vietnam-b0f93a0350429f3f6f4d"
+    },
+    {
+      "name": "LABRI Bistro",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.014779631474013,
+      "lon": 105.84995120231929,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "113 Bùi Thị Xuân St., Hai Bà Trưng",
+      "price": "Mains 380K-680K",
+      "url": "http://www.labribistro.com/",
+      "id": "vietnam-d6a8816c611f130c493d"
+    },
+    {
+      "name": "Lý Club",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "4 Le Phung Hieu, Hoan Kiem",
+      "price": "Starters 150,000 dong, mains 350,000 dong",
+      "url": "http://www.lyclub.vn/hanoi/",
+      "id": "vietnam-4666cda5ac664745f68c"
+    },
+    {
+      "name": "Pane e Vino Italian Restaurant and Wine Shop",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "3 Nguyen Khac Can & 98 Hang Trong",
+      "price": "Pizza 150,000 dong, mains 450,000 dong",
+      "url": "https://panevino.vn/",
+      "id": "vietnam-6a1b193e74c1b5d1a317"
+    },
+    {
+      "name": "Press Club",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "3rd floor, 59A Ly Thai To St",
+      "price": "Mains from 900K dong",
+      "url": "http://www.hanoi-pressclub.com/",
+      "id": "vietnam-4871fb740afdf593387a"
+    },
+    {
+      "name": "Stellar Steakhouse",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.01719379424889,
+      "lon": 105.78435076135911,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "62nd Floor, Keangnam Hanoi Landmark Tower, Mễ Trì, Nam Từ Liêm",
+      "price": "Steaks 900K-3,600K dong",
+      "url": "https://landmark72.intercontinental.com/stellar-steakhouse",
+      "id": "vietnam-f96d1c5d3c3f718a7b86"
+    },
+    {
+      "name": "Sushi Uminohana",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.03612146201183,
+      "lon": 105.81009963806743,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "70 Phan Kế Bính, Cống Vị, Ba Đình",
+      "url": "https://www.facebook.com/%E9%AE%A8%E6%B5%B7%E3%81%AE%E8%8F%AF-Sushi-Uminohana-Restaurant-102101471696602/",
+      "id": "vietnam-05143bc0ca51f2e59e90"
+    },
+    {
+      "name": "T.U.N.G Dining",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.026948131667922,
+      "lon": 105.850009946659,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "2C Quang Trung St., Hoàn Kiếm",
+      "price": "20-course tasting menu 1,390K-1,790K dong",
+      "url": "https://www.tungdining.com/",
+      "id": "vietnam-3dbcd66d8f51be43a289"
+    },
+    {
+      "name": "Kem Tràng Tiền",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "54 Phố Tràng Tiền",
+      "id": "vietnam-91edd6af72ac6dc2afb3"
+    },
+    {
+      "name": "Hoa Vien",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "url": "http://www.hoavien.vn/webapp/home.php",
+      "id": "vietnam-a476f0f8d36b2d05741c"
+    },
+    {
+      "name": "Goldmalt",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "url": "http://www.goldmalt.com.vn/",
+      "id": "vietnam-6fb54a66ac5029090eff"
+    },
+    {
+      "name": "Legend Beer",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "url": "http://legendbeer.vn/",
+      "id": "vietnam-092335ac8046445e69ec"
+    },
+    {
+      "name": "Furbrew",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "8b, Ngo 52 To Ngoc Van",
+      "price": "80,000-100,000 dong/beer",
+      "url": "http://www.furbrew.com/",
+      "id": "vietnam-798896229eee39747037"
+    },
+    {
+      "name": "Green Lake (Ho Guom Xanh)",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "32 Le Thai To",
+      "id": "vietnam-e22842fc23cf9da62b6c"
+    },
+    {
+      "name": "Mao's Red Lounge",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "30 Ta Hien, Hoan Kiem",
+      "id": "vietnam-f088828232b82d4ded01"
+    },
+    {
+      "name": "Minh's Jazz Club",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "1 Trang Tien, Ha Noi",
+      "url": "http://minhjazzvietnam.com/",
+      "id": "vietnam-b42a774a537a683ac003"
+    },
+    {
+      "name": "Moon Men Cocktail Bar",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.02853,
+      "lon": 105.84839,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "4th floor, 3 Au Trieu, Hoan Kiem",
+      "price": "cocktails from 150,000 dong; 8% service charge",
+      "url": "https://moonmenofficial.com/",
+      "id": "vietnam-ef2efeb684d43e6a7f95"
+    },
+    {
+      "name": "Standing Bar",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "170 Trấn Vũ, Trúc Bạch",
+      "id": "vietnam-0d80434ef9f9e2bf2e9d"
+    },
+    {
+      "name": "Top of Hanoi",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.032157508200076,
+      "lon": 105.81260096417076,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "54 Liễu Giai St., Ba Đình",
+      "url": "https://www.lottehotel.com/hanoi-hotel/en/dining/restaurant-top-of-hanoi.html",
+      "id": "vietnam-69bc7a3841bd50c9e86d"
+    },
+    {
+      "name": "Highlands Coffee",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "url": "http://www.highlandscoffee.com.vn/",
+      "id": "vietnam-4811df413bb4c113e06b"
+    },
+    {
+      "name": "Cong Caphe",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "url": "http://www.congcaphe.com/",
+      "id": "vietnam-c1edf6f2afea08ca34f0"
+    },
+    {
+      "name": "Mien Man Cafe",
+      "kind": "eat",
+      "locality": "Hanoi",
+      "lat": 21.02853,
+      "lon": 105.84839,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "3 Au Trieu, Hoan Kiem",
+      "url": "https://mienmancafe.vn/",
+      "id": "vietnam-dd651714ed6cbbf3afcd"
+    },
+    {
+      "name": "Hotel du Centre Ville",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "No 47 Luong Ngoc Quyen St, Hoan Kiem",
+      "price": "USD12-25, breakfast included",
+      "id": "vietnam-73b829ab3f613dccc8e3"
+    },
+    {
+      "name": "Sweet Family Guesthouse",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "14 Bat Su St",
+      "price": "B&B double USD 22",
+      "id": "vietnam-bb976720d14522e6e91c"
+    },
+    {
+      "name": "Hanoi Rendezvous Hotel",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "31 Hang Dieu St, Hoan Kiem",
+      "url": "http://www.hanoirendezvoushotel.com/",
+      "id": "vietnam-6c8f4b2b2d06ebac14d4"
+    },
+    {
+      "name": "My Youth Hostel",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "5 Luong Ngoc Quyen, Hoan Kiem",
+      "id": "vietnam-02b3d6df0003aeb01509"
+    },
+    {
+      "name": "Kangaroo Hotel",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "Hang Luoc St 71",
+      "id": "vietnam-239cf8bc5744c7ac7eae"
+    },
+    {
+      "name": "Little Hanoi DX2 Hostel",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "46 Hang Ga St, Hoan Kiem",
+      "url": "http://littlehanoihostel.com/",
+      "id": "vietnam-516122837077ed0e92c5"
+    },
+    {
+      "name": "Stars Hotel",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "26 Bat Su",
+      "id": "vietnam-9f26b081b4ac7cfa90fe"
+    },
+    {
+      "name": "Hanoi 3B hotel",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "99 Ma May St, Hoan Kiem Dist",
+      "url": "http://www.hanoi3bhotel.com/",
+      "id": "vietnam-604bdcca5233be3cfe0f"
+    },
+    {
+      "name": "Little Charm Hanoi Hostel",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "lat": 21.03398,
+      "lon": 105.84937,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "44 Hàng Bồ, Hoàn Kiếm",
+      "price": "From USD7",
+      "url": "http://littlecharmhanoihostel.com/",
+      "id": "vietnam-e0a3bee2b7971d1bfb0c"
+    },
+    {
+      "name": "Especen Hotel",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "lat": 21.029094,
+      "lon": 105.848511,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "28-38 Tho Xuong & 41 Ngo Huyen St, Hoan Kiem",
+      "price": "Doubles from 300,000 dong",
+      "url": "https://especenhotel.business.site/",
+      "id": "vietnam-1d52254d23955a4d254c"
+    },
+    {
+      "name": "Vietnam Backpackers' (Original) Hostel",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "48 Ngo Huyen St, Hoan Kiem",
+      "price": "Dorm USD7.50, double USD30, breakfast included",
+      "url": "http://www.vietnambackpackerhostels.com/eat-and-sleep/hanoi-the-original",
+      "id": "vietnam-f425a8ea4dd1f25315a3"
+    },
+    {
+      "name": "Central Backpackers (Original) Hostel",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "16 Ly Quoc Su",
+      "url": "http://centralbackpackershostel.com/",
+      "id": "vietnam-ac154d041182c331edd6"
+    },
+    {
+      "name": "Victor Hotel",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "24C Lý Quốc Sư",
+      "price": "Rooms from USD20",
+      "id": "vietnam-cb72975c8ef47660493c"
+    },
+    {
+      "name": "Hanoi Guest House Royal",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "lat": 21.034698,
+      "lon": 105.853977,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "26 Phat Loc, Hang Buom, Hoan Kiem",
+      "price": "+30$",
+      "url": "http://hanoiguesthouseroyal.com/",
+      "id": "vietnam-3312261ceefc5f690125"
+    },
+    {
+      "name": "Hanoi Club Hotel",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "76 Yen Phu St, Ho Tay",
+      "url": "http://www.thehanoiclub.com/",
+      "id": "vietnam-f4a6096b7339c9d4a9fb"
+    },
+    {
+      "name": "Hanoi Eclipse Hotel",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "24 Hang Quat St, Hoan Kiem",
+      "url": "http://www.hanoieclipsehotel.com/",
+      "id": "vietnam-1e119aa8f958456a6f8c"
+    },
+    {
+      "name": "Hanoi Emotion Hotel",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "26 Hang Bot St, Dong Da",
+      "url": "http://www.hanoi-emotion.com/default.aspx",
+      "id": "vietnam-18b3eb297b2a330f38b6"
+    },
+    {
+      "name": "Hanoi Eternity Hotel",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "lat": 21.023,
+      "lon": 105.843,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "32 Yet Kieu St, Hoan Kiem",
+      "url": "http://www.eternityhotel.vn/",
+      "id": "vietnam-8198952577ec2cd500f3"
+    },
+    {
+      "name": "Au Co Art Classic Hotel & Spa",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "52 Ngo Huyen St, Hoan Kiem District",
+      "price": "USD54",
+      "url": "http://www.aucoartclassichotel.com/",
+      "id": "vietnam-bb0d6cdf1f2d7bad2009"
+    },
+    {
+      "name": "Hanoi Royal Palace Hotel 2",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "95 Hang Bong, Hoan Kiem",
+      "url": "http://www.royalpalacehotelhanoi.com/",
+      "id": "vietnam-9cc6fc43a2005bd744ac"
+    },
+    {
+      "name": "Hanoi View 2 Hotel",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "48 Ngo Si Lien Alley, Dong Da District",
+      "price": "From USD20",
+      "url": "http://www.hanoiviewhotel.com/",
+      "id": "vietnam-32226e4b60b2a1003b39"
+    },
+    {
+      "name": "Indochina Queen Hotel",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "67 Pho Thuoc Bac St, Hoan Kiem",
+      "price": "From USD20",
+      "url": "http://www.indochinaqueenhotel.com/",
+      "id": "vietnam-dc02065db553a734f8fe"
+    },
+    {
+      "name": "Lucky Hotels",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "12 Hang Trong St, Old Quarter, Hoan Kiem District",
+      "url": "http://www.hanoiluckyhotelgroup.com/",
+      "id": "vietnam-35cec60e17756f24f92a"
+    },
+    {
+      "name": "Moon View 2 Hotel",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "61 Hang Than St, Hoan Kiem District",
+      "price": "USD45",
+      "url": "http://www.moonviewhotel.com/",
+      "id": "vietnam-6862301e1e7838dd3541"
+    },
+    {
+      "name": "Thaison Palace",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "7-9 Hang Voi, Hoan Kiem",
+      "url": "http://www.thaisonpalacehotel.com/",
+      "id": "vietnam-be7ef21c48e98ba9b1bf"
+    },
+    {
+      "name": "Trung Nam Hai Hotel",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "27 Phu Doan, Hoan Kiem",
+      "url": "http://www.trungnamhaihotel.com/",
+      "id": "vietnam-f227f5876e26acc3d44f"
+    },
+    {
+      "name": "Sofitel Legend Metropole Hanoi",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "lat": 21.025594624296357,
+      "lon": 105.85553844529719,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "15 Ngô Quyền St., Hoàn Kiếm",
+      "price": "Rooms from USD 250 to 400; Suites from USD 650 to 3,750",
+      "url": "https://www.sofitel-legend-metropole-hanoi.com/",
+      "id": "vietnam-b58ab8d78813b3daf5cd"
+    },
+    {
+      "name": "Capella Hanoi",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "lat": 21.025839422171895,
+      "lon": 105.85670742386783,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "11 Lê Phụng Hiểu, Tràng Tiền, Hoàn Kiếm",
+      "price": "Standard room USD 350; Suites from USD 500 to 4,000",
+      "url": "https://www.capellahotels.com/en/capella-hanoi",
+      "id": "vietnam-244b0d1f0b8e4cce2cbd"
+    },
+    {
+      "name": "Meliá Hanoi Hotel",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "lat": 21.0244171,
+      "lon": 105.8486661,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "44B Ly Thuong Kiet St",
+      "url": "http://meliahanoi.com/",
+      "id": "vietnam-9331c18fba200ca9e083"
+    },
+    {
+      "name": "Mövenpick Hotel Hanoi Centre",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "lat": 21.02514,
+      "lon": 105.84385,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "83A Lý Thường Kiệt St., Hoàn Kiếm Dist.",
+      "price": "Rooms from USD 175 to 300",
+      "url": "https://movenpick.accor.com/en/asia/vietnam/hanoi/hotel-hanoi.html",
+      "id": "vietnam-ec6635bc6eeeb76926f3"
+    },
+    {
+      "name": "Somerset Grand Hanoi",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "lat": 21.025761,
+      "lon": 105.846484,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "49 Hai Ba Trung St",
+      "url": "https://www.somerset.com/en/vietnam/hanoi/somerset-grand-hanoi/index.html",
+      "id": "vietnam-a9dea1d4d33459c95733"
+    },
+    {
+      "name": "InterContinental Hanoi Westlake",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "lat": 21.059246080612745,
+      "lon": 105.83184120738578,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "1A Nghi Tam, Tay Ho District",
+      "price": "Rooms from USD 100 to 200; Suites from USD 210 to 1,600",
+      "url": "http://intercontinental.com/hanoi",
+      "id": "vietnam-2d5e425c520101a863ce"
+    },
+    {
+      "name": "Sheraton Hanoi Hotel",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "lat": 21.0598708,
+      "lon": 105.8317256,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "K5 Nghi Tam, 11 Xuan Dieu Rd, Tay Ho District",
+      "price": "From USD100",
+      "url": "http://starwoodhotels.com/sheraton/property/overview/index.html?propertyID=1484",
+      "id": "vietnam-1ac2998509895c8bdf6c"
+    },
+    {
+      "name": "Pan Pacific Hanoi",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "lat": 21.0499877,
+      "lon": 105.8398718,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "1 Thanh Nien Rd, Ba Dinh District",
+      "price": "From USD 130",
+      "url": "https://www.panpacific.com/en/hotels-resorts/vietnam/hanoi.html",
+      "id": "vietnam-7c4017efaeeefd0e3d4a"
+    },
+    {
+      "name": "Lotte Hotel Hanoi",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "lat": 21.032065732459277,
+      "lon": 105.81309194539607,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "54 Liễu Giai, Ba Đình",
+      "price": "Rooms from USD 175 to 275; Suites from USD 300 to 750",
+      "url": "https://www.lottehotel.com/hanoi-hotel/en.html",
+      "id": "vietnam-760f9b0637f1b3435c03"
+    },
+    {
+      "name": "Hanoi Daewoo Hotel",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "lat": 21.03092,
+      "lon": 105.81204,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "360 Kim Ma St, Ba Dinh District",
+      "url": "http://www.daewoohotel.com/en",
+      "id": "vietnam-db3c1586535d234c8850"
+    },
+    {
+      "name": "JW Marriott Hotel Hanoi",
+      "kind": "stay",
+      "locality": "Hanoi",
+      "lat": 21.00794,
+      "lon": 105.78263,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "address": "8 Đỗ Đức Dục St., Mễ Trì Ward, Nam Từ Liêm Dist.",
+      "price": "Rooms from USD 150 to 200; Suites from USD 300 to 6,500",
+      "url": "https://www.marriott.com/hotels/travel/hanjw-jw-marriott-hotel-hanoi/",
+      "id": "vietnam-96a012bcac11dac5a59a"
+    },
+    {
+      "name": "Hanoi",
+      "kind": "area",
+      "locality": "Hanoi",
+      "lat": 21.0333,
+      "lon": 105.85,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Hanoi",
+      "id": "vietnam-5f63be2b0b2cca61bfe7"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

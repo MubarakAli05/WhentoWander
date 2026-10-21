@@ -1,0 +1,497 @@
+{
+  "sources": [
+    {
+      "title": "Mali",
+      "url": "https://en.wikivoyage.org/wiki/Mali",
+      "checkedAt": "2026-10-21T08:10:57.734Z"
+    },
+    {
+      "title": "Bamako",
+      "url": "https://en.wikivoyage.org/wiki/Bamako",
+      "checkedAt": "2026-10-21T08:11:00.352Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Bamako",
+      "kind": "area",
+      "locality": "Mali",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mali",
+      "id": "mali-e971d8dcbdafd2a3b08b"
+    },
+    {
+      "name": "Gao",
+      "kind": "area",
+      "locality": "Mali",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mali",
+      "id": "mali-74e8210c9abc83551da5"
+    },
+    {
+      "name": "Kayes",
+      "kind": "area",
+      "locality": "Mali",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mali",
+      "id": "mali-f1c96532f3d84a1e3fbe"
+    },
+    {
+      "name": "Kidal",
+      "kind": "area",
+      "locality": "Mali",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mali",
+      "id": "mali-ddd401311241cc77a9d1"
+    },
+    {
+      "name": "Mopti",
+      "kind": "area",
+      "locality": "Mali",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mali",
+      "id": "mali-ed4ffdcb41f391b0e831"
+    },
+    {
+      "name": "Ségou",
+      "kind": "area",
+      "locality": "Mali",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mali",
+      "id": "mali-a0f5fd0b8807be819d3b"
+    },
+    {
+      "name": "Sikasso",
+      "kind": "area",
+      "locality": "Mali",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mali",
+      "id": "mali-a71ed1379701e03503be"
+    },
+    {
+      "name": "Timbuktu",
+      "kind": "area",
+      "locality": "Mali",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mali",
+      "id": "mali-003292398e6041ddbf7c"
+    },
+    {
+      "name": "Mali National Park",
+      "kind": "do",
+      "locality": "Bamako",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "id": "mali-b3274e5cbda2b36435e8"
+    },
+    {
+      "name": "Bamako Botanical Gardens",
+      "kind": "do",
+      "locality": "Bamako",
+      "lat": 12.661455,
+      "lon": -7.998122,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "id": "mali-0ec79ce780bb90d389c9"
+    },
+    {
+      "name": "Bamako Zoo",
+      "kind": "do",
+      "locality": "Bamako",
+      "lat": 12.664664,
+      "lon": -8.000482,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "id": "mali-b1cfef92da40e11cd0fa"
+    },
+    {
+      "name": "Point G Hill",
+      "kind": "do",
+      "locality": "Bamako",
+      "lat": 12.6710683,
+      "lon": -8.0106927,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "id": "mali-1a4b33cbb7306d0f523c"
+    },
+    {
+      "name": "National Museum of Mali",
+      "kind": "do",
+      "locality": "Bamako",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "address": "Place de la Liberté",
+      "price": "Entrance fee 3000 CFA for foreigners",
+      "id": "mali-658485c625af1f1ad3ce"
+    },
+    {
+      "name": "Muso Kunda Museum of Women",
+      "kind": "do",
+      "locality": "Bamako",
+      "lat": 12.668954,
+      "lon": -7.9529,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "price": "Adults: CFA1500, children under 13: CFA500",
+      "url": "https://musokunda.org/",
+      "id": "mali-e4bc9b47b52f9292d71d"
+    },
+    {
+      "name": "Grand Mosque of Bamako",
+      "kind": "do",
+      "locality": "Bamako",
+      "lat": 12.6468,
+      "lon": -7.9931,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "id": "mali-0ddda6d1bcc9bb3d4561"
+    },
+    {
+      "name": "Sacred Heart Cathedral",
+      "kind": "do",
+      "locality": "Bamako",
+      "lat": 12.6436504,
+      "lon": -7.9993785,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "id": "mali-d1b4efc8520ff5bf7a28"
+    },
+    {
+      "name": "Monument of Independence",
+      "kind": "do",
+      "locality": "Bamako",
+      "lat": 12.637093,
+      "lon": -8.0046988,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "id": "mali-da28834b4a7e576fcf17"
+    },
+    {
+      "name": "BCEAO Tower",
+      "kind": "do",
+      "locality": "Bamako",
+      "lat": 12.632476,
+      "lon": -7.998379,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "id": "mali-8abf2d73d2c7e434593e"
+    },
+    {
+      "name": "Monument de la Paix",
+      "kind": "do",
+      "locality": "Bamako",
+      "lat": 12.631473,
+      "lon": -8.010796,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "id": "mali-cc9c63ce4628fda1ae2c"
+    },
+    {
+      "name": "Tower Of Africa",
+      "kind": "do",
+      "locality": "Bamako",
+      "lat": 12.5846,
+      "lon": -7.943277,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "id": "mali-a79a01c7724af2b40260"
+    },
+    {
+      "name": "King Fahd Bridge",
+      "kind": "do",
+      "locality": "Bamako",
+      "lat": 12.623611,
+      "lon": -8.004778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "id": "mali-1fbef531d075520308d0"
+    },
+    {
+      "name": "Casino de l'Amitie a Bamako",
+      "kind": "do",
+      "locality": "Bamako",
+      "lat": 12.639716,
+      "lon": -7.992953,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "address": "Avenue de la Marne, Bamako Mali",
+      "id": "mali-a5af791a88d56951dca3"
+    },
+    {
+      "name": "Cultural Palace Hamadou Hampaté Ba",
+      "kind": "do",
+      "locality": "Bamako",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "id": "mali-71e549efab081af487b8"
+    },
+    {
+      "name": "Pizzeria de Guido",
+      "kind": "eat",
+      "locality": "Bamako",
+      "lat": 12.63281,
+      "lon": -8.0178,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "address": "Rue 250, off Blvd Nelson Mandela",
+      "id": "mali-dcf4f5381941a79d43ef"
+    },
+    {
+      "name": "Hotel Badala",
+      "kind": "eat",
+      "locality": "Bamako",
+      "lat": 12.62545,
+      "lon": -7.98463,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "address": "Badalabougou",
+      "id": "mali-0affceb71ba7acb2cd9d"
+    },
+    {
+      "name": "Le Relax",
+      "kind": "eat",
+      "locality": "Bamako",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "address": "Hippodrome, Route de Koulikoro, BP 2944",
+      "id": "mali-ff7cb3ea172b949afd49"
+    },
+    {
+      "name": "La Fourmi",
+      "kind": "eat",
+      "locality": "Bamako",
+      "lat": 12.63924,
+      "lon": -8.00286,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "id": "mali-17454ae7727638692666"
+    },
+    {
+      "name": "Azar",
+      "kind": "eat",
+      "locality": "Bamako",
+      "lat": 12.65951,
+      "lon": -7.98395,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "id": "mali-93533cdb5212ef483236"
+    },
+    {
+      "name": "Le Miniprix",
+      "kind": "eat",
+      "locality": "Bamako",
+      "lat": 12.66418,
+      "lon": -7.97332,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "id": "mali-d75bc5efddc3ab0e07a0"
+    },
+    {
+      "name": "Le Bafing",
+      "kind": "eat",
+      "locality": "Bamako",
+      "lat": 12.63645,
+      "lon": -7.9978,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "address": "Rue 309",
+      "price": "around US$5 for main dishes",
+      "id": "mali-f8106162ca24e5983c06"
+    },
+    {
+      "name": "African Grill",
+      "kind": "eat",
+      "locality": "Bamako",
+      "lat": 12.638758,
+      "lon": -8.002886,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "price": "around CFA 3000 for main dishes",
+      "id": "mali-43c2002a970108e60114"
+    },
+    {
+      "name": "Appaloosa",
+      "kind": "eat",
+      "locality": "Bamako",
+      "lat": 12.636086,
+      "lon": -7.998774,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "address": "Rue 311",
+      "id": "mali-95ce4fc9f01e15689856"
+    },
+    {
+      "name": "Poularco",
+      "kind": "eat",
+      "locality": "Bamako",
+      "lat": 12.659454,
+      "lon": -7.971482,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "id": "mali-f3deddbc15da25a8bfe7"
+    },
+    {
+      "name": "Bla Bla",
+      "kind": "eat",
+      "locality": "Bamako",
+      "lat": 12.65908,
+      "lon": -7.97197,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "id": "mali-f85d928511ce0b1ff643"
+    },
+    {
+      "name": "La Terrasse",
+      "kind": "eat",
+      "locality": "Bamako",
+      "lat": 12.65899,
+      "lon": -7.97192,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "id": "mali-0323d92af66fe3d1cc5c"
+    },
+    {
+      "name": "Le Relax",
+      "kind": "eat",
+      "locality": "Bamako",
+      "lat": 12.65456,
+      "lon": -7.97769,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "id": "mali-484eb0fb0b80422fe79f"
+    },
+    {
+      "name": "Broadway Café Badala",
+      "kind": "eat",
+      "locality": "Bamako",
+      "lat": 12.616966,
+      "lon": -7.97898,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "url": "https://broadwaybadala.com/",
+      "id": "mali-eb9237cd29ee55437efe"
+    },
+    {
+      "name": "Ibiza",
+      "kind": "eat",
+      "locality": "Bamako",
+      "lat": 12.63916,
+      "lon": -8.00287,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "address": "Rud Princess",
+      "id": "mali-2537fbcea47b69f84ee7"
+    },
+    {
+      "name": "Bed & Breakfast Ambassagou",
+      "kind": "stay",
+      "locality": "Bamako",
+      "lat": 12.597108,
+      "lon": -8.017011,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "address": "Rue 592, Porte 171",
+      "price": "single CFA 9,000; double CFA 13,500",
+      "url": "http://www.ambassagou.com/",
+      "id": "mali-5c32b1483b4f7ca069f8"
+    },
+    {
+      "name": "Sleeping Camel",
+      "kind": "stay",
+      "locality": "Bamako",
+      "lat": 12.62548,
+      "lon": -7.9877,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "address": "Rue 25, Port 80, Badalabougou",
+      "price": "CFA 3,000 to pitch your tent, CFA 4,000 for the dorm, and up to CFA 22,500 for rooms.",
+      "url": "http://www.thesleepingcamel.com/",
+      "id": "mali-2eecb9f9aa4293d89811"
+    },
+    {
+      "name": "Auberge Toguna",
+      "kind": "stay",
+      "locality": "Bamako",
+      "lat": 12.64901,
+      "lon": -7.97503,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "id": "mali-0a761cf6713eba35b455"
+    },
+    {
+      "name": "Hotel Dafina",
+      "kind": "stay",
+      "locality": "Bamako",
+      "lat": 12.64555,
+      "lon": -7.97748,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "address": "Niaréla, rue 461",
+      "price": "c. US$45",
+      "id": "mali-cedb4e107cd2ee704ddf"
+    },
+    {
+      "name": "Hotel Lac Débo",
+      "kind": "stay",
+      "locality": "Bamako",
+      "lat": 12.64195,
+      "lon": -7.99905,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "id": "mali-468bf62dcb93fdde210d"
+    },
+    {
+      "name": "Hotel Le Rabelais",
+      "kind": "stay",
+      "locality": "Bamako",
+      "lat": 12.64878,
+      "lon": -7.97695,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "price": "From CFA 38,000",
+      "id": "mali-b53ced7b4e4aad320d47"
+    },
+    {
+      "name": "Hotel Yamey",
+      "kind": "stay",
+      "locality": "Bamako",
+      "lat": 12.6366,
+      "lon": -7.99904,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "id": "mali-3b448f32db53a1a23331"
+    },
+    {
+      "name": "Le Relais",
+      "kind": "stay",
+      "locality": "Bamako",
+      "lat": 12.65443,
+      "lon": -7.97826,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "address": "Route de Koulikouro",
+      "price": "US$90",
+      "id": "mali-f025b04b4a0f4b0389c3"
+    },
+    {
+      "name": "Azalai Grand Hotel",
+      "kind": "stay",
+      "locality": "Bamako",
+      "lat": 12.649804,
+      "lon": -7.99952,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "url": "https://www.azalai.com/grandhotelbamako/?lang=en",
+      "id": "mali-97875597e60075490dcf"
+    },
+    {
+      "name": "Azalai Hotel Bamako",
+      "kind": "stay",
+      "locality": "Bamako",
+      "lat": 12.629549,
+      "lon": -8.007989,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "price": "CFA 104,815",
+      "url": "https://www.azalai.com/azalaihotelbamako/",
+      "id": "mali-5dbeeac5e2b438a3d36b"
+    },
+    {
+      "name": "Laico Hotel de l'Amitié",
+      "kind": "stay",
+      "locality": "Bamako",
+      "lat": 12.6383,
+      "lon": -7.99355,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "address": "Avenue de la Marne",
+      "url": "http://www.hotel-lamitie.com/",
+      "id": "mali-ee5f45116809a58cab23"
+    },
+    {
+      "name": "Laico Hotel El Farouk",
+      "kind": "stay",
+      "locality": "Bamako",
+      "lat": 12.6332,
+      "lon": -7.9953,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "address": "Boulevard du 22 Octobre 1946, Quartier du Fleuve",
+      "url": "https://www.facebook.com/Laico-El-Farouk-468070096895574/",
+      "id": "mali-e726514f9044c6fb3f54"
+    },
+    {
+      "name": "Radisson Blu Hotel, Bamako",
+      "kind": "stay",
+      "locality": "Bamako",
+      "lat": 12.635158,
+      "lon": -8.030923,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "address": "ACI 2000 Hamdallaye Hamdallaye",
+      "price": "Prices starting at CFA 132 000",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-bamako",
+      "id": "mali-7b2496092d1373955e0b"
+    },
+    {
+      "name": "Bamako",
+      "kind": "area",
+      "locality": "Bamako",
+      "lat": 12.3742339,
+      "lon": -8.3382892,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bamako",
+      "id": "mali-dd731567481ad3d51032"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

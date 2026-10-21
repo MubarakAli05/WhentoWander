@@ -1,0 +1,1820 @@
+{
+  "sources": [
+    {
+      "title": "Ukraine",
+      "url": "https://en.wikivoyage.org/wiki/Ukraine",
+      "checkedAt": "2026-10-21T08:13:02.346Z"
+    },
+    {
+      "title": "Kyiv",
+      "url": "https://en.wikivoyage.org/wiki/Kyiv",
+      "checkedAt": "2026-10-21T08:13:05.664Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Kyiv",
+      "kind": "area",
+      "locality": "Ukraine",
+      "lat": 50.45,
+      "lon": 30.523333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ukraine",
+      "id": "ukraine-1e44e526d13cde7e10d4"
+    },
+    {
+      "name": "Lviv",
+      "kind": "area",
+      "locality": "Ukraine",
+      "lat": 49.83,
+      "lon": 24.014167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ukraine",
+      "id": "ukraine-cfbb90616f56c48ce63e"
+    },
+    {
+      "name": "Chernihiv",
+      "kind": "area",
+      "locality": "Ukraine",
+      "lat": 51.5,
+      "lon": 31.3,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ukraine",
+      "id": "ukraine-a58d6abb51fcbde8e342"
+    },
+    {
+      "name": "Chernivtsi",
+      "kind": "area",
+      "locality": "Ukraine",
+      "lat": 48.3,
+      "lon": 25.933333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ukraine",
+      "id": "ukraine-5bc9bde4c5d3ada6ab86"
+    },
+    {
+      "name": "Dnipro",
+      "kind": "area",
+      "locality": "Ukraine",
+      "lat": 48.45,
+      "lon": 34.983333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ukraine",
+      "id": "ukraine-b6206b310944ba95019b"
+    },
+    {
+      "name": "Kamianets-Podilskyi",
+      "kind": "area",
+      "locality": "Ukraine",
+      "lat": 48.6833,
+      "lon": 26.5833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ukraine",
+      "id": "ukraine-69800ab5de62f97c4496"
+    },
+    {
+      "name": "Kharkiv",
+      "kind": "area",
+      "locality": "Ukraine",
+      "lat": 50.004444,
+      "lon": 36.231389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ukraine",
+      "id": "ukraine-10b9b329285777794085"
+    },
+    {
+      "name": "Odesa",
+      "kind": "area",
+      "locality": "Ukraine",
+      "lat": 46.485722,
+      "lon": 30.743444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ukraine",
+      "id": "ukraine-39592d661175cb1f06be"
+    },
+    {
+      "name": "Uman",
+      "kind": "area",
+      "locality": "Ukraine",
+      "lat": 48.75,
+      "lon": 30.2166,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ukraine",
+      "id": "ukraine-f1d2cb97dfe26e10db18"
+    },
+    {
+      "name": "Maidan Nezalezhnosti",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.45025,
+      "lon": 30.523889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "id": "ukraine-c471cfcf0e303ae7a449"
+    },
+    {
+      "name": "On the weekend, go and people watch on Khreshchatyk",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.447222,
+      "lon": 30.521944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "id": "ukraine-9d66892e5346172668f1"
+    },
+    {
+      "name": "Andriyivsky Uzviz or Andrew's Descent",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.459861,
+      "lon": 30.515139,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "id": "ukraine-b3fabb7ac3618404f71d"
+    },
+    {
+      "name": "Podil",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.467171,
+      "lon": 30.513626,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "url": "http://podilr.gov.ua/",
+      "id": "ukraine-aa55b0d167b3fcc9ab40"
+    },
+    {
+      "name": "Arsenalna",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.443944,
+      "lon": 30.545361,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "id": "ukraine-9afa6110a422c7ba0051"
+    },
+    {
+      "name": "Kyiv Pechersk Lavra",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.432222,
+      "lon": 30.562222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "9 Lavrska Street",
+      "url": "https://lavra.ua/en/",
+      "id": "ukraine-950ccef82befaa8cf680"
+    },
+    {
+      "name": "Great Lavra Bell Tower",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.434691,
+      "lon": 30.556455,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "15 Lavrska Street",
+      "price": "60 ₴ ($2)",
+      "url": "https://lavra.ua/en/",
+      "id": "ukraine-cb44952b430e525a0e64"
+    },
+    {
+      "name": "Pechersk Lavra fortification",
+      "kind": "do",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "url": "https://www.encyclopediaofukraine.com/display.asp?AddButton=pages\\K\\Y\\KyivanCaveFortress.htm",
+      "id": "ukraine-e9572f0879582e9934f5"
+    },
+    {
+      "name": "Refectory Church",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.434833,
+      "lon": 30.558056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "9 к29 Lavrska Street",
+      "id": "ukraine-30713dfb8d9e0fa75401"
+    },
+    {
+      "name": "Church of the Saviour at Berestovo",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.437333,
+      "lon": 30.555001,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "5 Lavrska Street",
+      "url": "https://www.encyclopediaofukraine.com/display.asp?AddButton=pages\\T\\R\\TransfigurationChurchinBerestove.htm",
+      "id": "ukraine-d89980ce72c188611269"
+    },
+    {
+      "name": "Gate Church of the Trinity",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.434715,
+      "lon": 30.555237,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "9 к27 Lavrska Street",
+      "url": "http://wek.kiev.ua/uk/%D0%A2%D1%80%D0%BE%D1%97%D1%86%D1%8C%D0%BA%D0%B0_%D0%9D%D0%B0%D0%B4%D0%B1%D1%80%D0%B0%D0%BC%D0%BD%D0%B0_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B0",
+      "id": "ukraine-c06749eff646f2358972"
+    },
+    {
+      "name": "Near Caves or the Caves of Saint Anthony",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.434,
+      "lon": 30.5614,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "15 Lavrska Street",
+      "price": "Free",
+      "id": "ukraine-1dc35fbc10563a5bd231"
+    },
+    {
+      "name": "All Saints Church",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.43635,
+      "lon": 30.55625,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "9 к82 Lavrska Street",
+      "id": "ukraine-27254ab708c5154b4e90"
+    },
+    {
+      "name": "Far Caves",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.43233,
+      "lon": 30.56309,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "15 Lavrska Street",
+      "url": "http://lavra.ua/index.php?option=com_content&task=view&id=1574&Itemid=182",
+      "id": "ukraine-7f922d97df6740add318"
+    },
+    {
+      "name": "Dormition Cathedral",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.43519,
+      "lon": 30.55745,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "url": "https://www.encyclopediaofukraine.com/display.asp?linkpath=pages\\D\\O\\DormitionCathedraloftheKyivanCaveMonastery.htm",
+      "id": "ukraine-638224fc5c0ce532ecb6"
+    },
+    {
+      "name": "Museum of Historical Treasures of Ukraine",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.43572,
+      "lon": 30.55776,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "9 к12 Lavrska Street",
+      "url": "http://miku.org.ua/en/museum_of_historical_treasures_of_ukraine.html",
+      "id": "ukraine-d2e7be82d0023e39a152"
+    },
+    {
+      "name": "Book and print history museum",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.43548,
+      "lon": 30.5585,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "9 к9 Lavrska Street",
+      "url": "http://vuam.org.ua/uk/704:%D0%9C%D1%83%D0%B7%D0%B5%D0%B9_%D0%BA%D0%BD%D0%B8%D0%B3%D0%B8_%D1%96_%D0%B4%D1%80%D1%83%D0%BA%D0%B0%D1%80%D1%81%D1%82%D0%B2%D0%B0_%D0%A3%D0%BA%D1%80%D0%B0%D1%97%D0%BD%D0%B8",
+      "id": "ukraine-003bb764561713f4b1e9"
+    },
+    {
+      "name": "Museum of Ukrainian folk art",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.434322,
+      "lon": 30.557013,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "9 к2 Lavrska Street",
+      "url": "http://www.mundm.kiev.ua/",
+      "id": "ukraine-6d5b5250fdd703344acd"
+    },
+    {
+      "name": "Theatre and Cinematographic Arts Museum",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.43519,
+      "lon": 30.55466,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "9 к26 Lavrska Street",
+      "url": "http://tmf-museum.kiev.ua/",
+      "id": "ukraine-b8206e14073163a69865"
+    },
+    {
+      "name": "National Historical Library of Ukraine",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.435278,
+      "lon": 30.554722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "9 к24 Lavrska Street",
+      "url": "https://nibu.kyiv.ua/",
+      "id": "ukraine-83f422596d2310646534"
+    },
+    {
+      "name": "St Sophia's Cathedral",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.452778,
+      "lon": 30.514444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "Sofiivska Square",
+      "url": "https://st-sophia.org.ua/en/home/",
+      "id": "ukraine-2a1924e19e8f4ac45a2f"
+    },
+    {
+      "name": "St. Michael's Golden-Domed Monastery",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.455556,
+      "lon": 30.522778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "8 Trokhsviatytelska Street",
+      "url": "http://www.archangel.kiev.ua/",
+      "id": "ukraine-2ed2ccfe8498d47e20a4"
+    },
+    {
+      "name": "St Volodymyr's Cathedral",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.444942,
+      "lon": 30.508717,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "20 Tarasa Shevchenka Boulevard",
+      "id": "ukraine-9295990181689dffc9ab"
+    },
+    {
+      "name": "St Andrew's Church",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.458889,
+      "lon": 30.518056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "23 Andriivskyi Descent",
+      "id": "ukraine-d20d4542f2d5fb6939dc"
+    },
+    {
+      "name": "Saint Cyril's Monastery",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.483091,
+      "lon": 30.471772,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "103 к10 Kyrylivska Street",
+      "id": "ukraine-cca9dcdd675e4d485134"
+    },
+    {
+      "name": "Golden Gate of Kyiv or Zoloti Vorota",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.448333,
+      "lon": 30.513056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "40a Volodymyrska Street",
+      "url": "https://st-sophia.org.ua/en/museums-en/golden-gate-en/golden-gate/",
+      "id": "ukraine-ae36e65f2439eae10082"
+    },
+    {
+      "name": "Pyrohiv / Open-Air Museum of Folk Architecture and Rural Life",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.354539,
+      "lon": 30.512231,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "1 Akademika Tronka Street",
+      "url": "http://www.pyrohiv.com/",
+      "id": "ukraine-5235699ec6f9c2136211"
+    },
+    {
+      "name": "National Museum of History of Ukraine",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.458333,
+      "lon": 30.516111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "2 Volodymyrska Street",
+      "url": "https://nmiu.org/",
+      "id": "ukraine-9cdec1c4c4c154bce34f"
+    },
+    {
+      "name": "Blacksmithing and metalworker's museum",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.46039,
+      "lon": 30.51444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "20B Andriivskyi Descent",
+      "id": "ukraine-3f85548cb7d188ddfa07"
+    },
+    {
+      "name": "Literary and Memorial Bulgakov Museum. House of Turbiny",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.460752,
+      "lon": 30.514664,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "13 Andriivskyi Descent",
+      "price": "10 грн, cost of excursion 30 грн per person",
+      "url": "https://bulgakovmuseum.com/",
+      "id": "ukraine-c510321d8eb53b118f1b"
+    },
+    {
+      "name": "Chornobyl Museum",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.4664,
+      "lon": 30.5172,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "1 Khoryva Lane",
+      "price": "10 грн",
+      "url": "http://www.chornobylmuseum.kiev.ua/index.php?lang=en",
+      "id": "ukraine-695332a4024976f3c448"
+    },
+    {
+      "name": "'Cultural wealth of Ukraine' Ukrainian icon museum",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.458158,
+      "lon": 30.519022,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "12 Desiatynna Street",
+      "id": "ukraine-e28db118adfa79ad60df"
+    },
+    {
+      "name": "One Street Museum",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.462222,
+      "lon": 30.5175,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "2B Andriivskyi Descent",
+      "price": "20 грн. An excursion in Ukrainian or Russian - 100 грн, in English - 150 грн",
+      "url": "https://onestreet.kiev.ua/about-museum-eng/",
+      "id": "ukraine-149ac188407fb4c788f4"
+    },
+    {
+      "name": "Museum of the Magdeburg law, Museum of Self-Management of Kyiv",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.4593,
+      "lon": 30.5258,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "2 Poshtova Square",
+      "id": "ukraine-758092a020b5c1b2dcdd"
+    },
+    {
+      "name": "Luk'yanivs'ke Cemetery",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.46948,
+      "lon": 30.45401,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "7 Dorohozhytska Street",
+      "url": "https://dimlzapovidnuk.wordpress.com/",
+      "id": "ukraine-0b61c6d62e563d31e5a3"
+    },
+    {
+      "name": "Pushkin Museum",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.45779,
+      "lon": 30.50083,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "9 Kudriavska Street",
+      "id": "ukraine-9a83428bb3969d0aca1f"
+    },
+    {
+      "name": "Pedagogical Museum",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.444758,
+      "lon": 30.513512,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "57 Volodymyrska Street",
+      "url": "http://pmu.in.ua/",
+      "id": "ukraine-15468872868fdc51283f"
+    },
+    {
+      "name": "Kyiv Fortress also known as the Pechersk Fortress",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.434444,
+      "lon": 30.527778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "24a Hospitalna Street",
+      "url": "https://www.kyiv-fortress.org.ua/?lang=en",
+      "id": "ukraine-d943d32fc6155778ffaf"
+    },
+    {
+      "name": "The National Museum of the History of Ukraine in the Second World War",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.426859,
+      "lon": 30.563696,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "24 Lavrska Street",
+      "price": "15 грн/adult, 5 грн/student, 1 грн/child, 30 грн to take photos within the museum, 50 грн to take videos for up to 1 hr",
+      "url": "http://www.warmuseum.kiev.ua/",
+      "id": "ukraine-cee9c343f5c905a8a3be"
+    },
+    {
+      "name": "Babyn Yar Monument",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.47145,
+      "lon": 30.44919,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "Dorohozhytska Street",
+      "id": "ukraine-2866d0461ba2a6e532ba"
+    },
+    {
+      "name": "German Military graveyard",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.29724,
+      "lon": 30.3693,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "id": "ukraine-a064a623b138684a02be"
+    },
+    {
+      "name": "Kyiv Zoo",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.454167,
+      "lon": 30.462778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "32 Beresteiskyi Avenue",
+      "url": "https://zoo.kyiv.ua/en/",
+      "id": "ukraine-be6510864b0a337a741e"
+    },
+    {
+      "name": "Mezhyhirya Residence",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.614833,
+      "lon": 30.474,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "Novi Petrivtsi village",
+      "id": "ukraine-3c5a391fea33fd39e195"
+    },
+    {
+      "name": "A.V. Fomin Botanical Garden or Botanical gardens of the Kyiv university of St. Volodymyr",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.4441,
+      "lon": 30.5057,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "Tarasa Shevchenka Boulevard",
+      "id": "ukraine-fefb3c66a56627a70423"
+    },
+    {
+      "name": "Hryshko National Botanical Garden",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.41267,
+      "lon": 30.56225,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "1 Sadovo-Botanichna Street",
+      "price": "20 грн, Greenhouse 5 грн",
+      "url": "http://www.nbg.kiev.ua/en/",
+      "id": "ukraine-51bcade07f24c34e4c3b"
+    },
+    {
+      "name": "Mamaeva Sloboda open-air museum",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.43509,
+      "lon": 30.42866,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "2 Mykhaila Dontsia Street",
+      "price": "100 грн, Photography - 10 грн",
+      "url": "https://mamayeva-sloboda.kyiv.ua/en/",
+      "id": "ukraine-3b68bd4e5f2a5e560cb8"
+    },
+    {
+      "name": "Hydropark",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.443611,
+      "lon": 30.576944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "id": "ukraine-2c75ac950ff5a8fd602e"
+    },
+    {
+      "name": "Syretska arboretum",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.482778,
+      "lon": 30.423056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "43 Tyraspolska Street",
+      "url": "http://syrets-dendropark.kiev.ua/home",
+      "id": "ukraine-b2f28f29dc2255aca0d3"
+    },
+    {
+      "name": "Mariyinsky park",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.4478,
+      "lon": 30.53864,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "id": "ukraine-37cf7af5490323300259"
+    },
+    {
+      "name": "Mariyinsky Palace",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.4478,
+      "lon": 30.53864,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "id": "ukraine-13676503d882a4d344c2"
+    },
+    {
+      "name": "Kyiv TV Tower - Televiziyna vezha",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.471111,
+      "lon": 30.453333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "10 Dorohozhytska Street",
+      "id": "ukraine-8ff30b6b8db2629479ec"
+    },
+    {
+      "name": "Arch of Freedom of the Ukrainian People",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.454444,
+      "lon": 30.53,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "price": "Free",
+      "id": "ukraine-766061c1d8ba229cae4a"
+    },
+    {
+      "name": "Yachting club",
+      "kind": "do",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "id": "ukraine-986947643f04fce7c03e"
+    },
+    {
+      "name": "Beer factory Obolon",
+      "kind": "do",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "id": "ukraine-a10090c122c22c9ff9c9"
+    },
+    {
+      "name": "Revival (Probudzhennia) Church",
+      "kind": "do",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "2 Levka Lukianenka Street",
+      "id": "ukraine-0d9d1a0a14af8137c4e2"
+    },
+    {
+      "name": "Intercession Cathedral on the Obolon",
+      "kind": "do",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "5A Pryrichna Street",
+      "id": "ukraine-c0370a8ca038f73f32b6"
+    },
+    {
+      "name": "Minsk Square",
+      "kind": "do",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "Obolon",
+      "id": "ukraine-8f66f8a0f38a33d9272c"
+    },
+    {
+      "name": "Pivnichnyi Bridge",
+      "kind": "do",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "id": "ukraine-2a0d9bb266f4a502265a"
+    },
+    {
+      "name": "Church of the Nativity",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.4925,
+      "lon": 30.525556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "5 Obolonska Naberezhna",
+      "id": "ukraine-8f1db22a8871818836d0"
+    },
+    {
+      "name": "Chapel of the St. Catherine",
+      "kind": "do",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "10 Polupanova Street",
+      "id": "ukraine-42bc97cab10ab9f34bda"
+    },
+    {
+      "name": "Church of the Intercession on the Pryorka",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.501111,
+      "lon": 30.445972,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "2 Mostytska Street",
+      "url": "https://priorka.org/",
+      "id": "ukraine-c1156b6217e1fac0431d"
+    },
+    {
+      "name": "Church of Peter and Paul on the Kurenivka",
+      "kind": "do",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "Petropavlivska Square",
+      "id": "ukraine-b9e3ffe45224a2e1e0f4"
+    },
+    {
+      "name": "Krishna's Lucidity 'Big' temple",
+      "kind": "do",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "16 Zorianyi Lane",
+      "url": "https://krishna.ua/",
+      "id": "ukraine-75402d0baf51c7de3502"
+    },
+    {
+      "name": "Church of St. Cyril and St. Athanasius the Great, Archbp. of Alexandria and Athanasius",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.4831,
+      "lon": 30.474,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "103 к10 Kyrylivska Street",
+      "url": "https://st-sophia.org.ua/en/museums-en/st-cyrils-church/st-cyrils-church/",
+      "id": "ukraine-09e9bbb7bcb394f480a8"
+    },
+    {
+      "name": "Firefighting museum",
+      "kind": "do",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "6 Heroyiv polku \"Azov\" Street",
+      "id": "ukraine-0c0711eb6f4b383be9db"
+    },
+    {
+      "name": "Temple in honor the icon of the Mother of God Vsetsarytsia-Pantanassa",
+      "kind": "do",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "1 Ryzka Street",
+      "id": "ukraine-1e4e0d81f35f2cdbadac"
+    },
+    {
+      "name": "M2 \"Tarasa Shevchenka\"",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.473056,
+      "lon": 30.505,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "id": "ukraine-ced609f54cbb2396a6a7"
+    },
+    {
+      "name": "Ascension Convent",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.4624,
+      "lon": 30.51471,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "8 Frolivska Street",
+      "id": "ukraine-5e667aaa19b63ef6e498"
+    },
+    {
+      "name": "National University of Kyiv-Mohyla Academy",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.464443,
+      "lon": 30.519816,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "url": "https://www.ukma.edu.ua/eng/",
+      "id": "ukraine-c6bc7be306cc9b28ca41"
+    },
+    {
+      "name": "House of Ivan Mazepa",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.467111,
+      "lon": 30.5205,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "16B Spaska Street",
+      "id": "ukraine-3e604ba1667ad3ac730b"
+    },
+    {
+      "name": "House of Peter the Great",
+      "kind": "do",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "id": "ukraine-8dfd2b9bdde820bdd07f"
+    },
+    {
+      "name": "Fountain of Samson",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.464167,
+      "lon": 30.516944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "id": "ukraine-dc69d759bc57f98eba2f"
+    },
+    {
+      "name": "Zamkova Hora hill",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.4625,
+      "lon": 30.5108,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "id": "ukraine-945d6780f9796e7e8a5f"
+    },
+    {
+      "name": "Gostynnyi Dvir",
+      "kind": "do",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "id": "ukraine-a4e58975213a4940f1d1"
+    },
+    {
+      "name": "Bila Tserkva",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 49.795556,
+      "lon": 30.116667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "url": "http://www.bilatserkva.info/",
+      "id": "ukraine-5abae3a8dda0fbec7289"
+    },
+    {
+      "name": "Fastiv",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.074722,
+      "lon": 29.918056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "url": "http://www.fastiv-rada.gov.ua/",
+      "id": "ukraine-817feafe247f423d95b5"
+    },
+    {
+      "name": "Kaniv",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 49.744722,
+      "lon": 31.455833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "url": "http://kaniv-rada.gov.ua/",
+      "id": "ukraine-bef0dec29f7210c29aba"
+    },
+    {
+      "name": "Pereyaslav",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.059,
+      "lon": 31.4788,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "url": "http://www.niez.com.ua/",
+      "id": "ukraine-a479f27592fa24881fe4"
+    },
+    {
+      "name": "Vyshhorod",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.583278,
+      "lon": 30.485333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "url": "https://www.vyshgorod-mrada.gov.ua/",
+      "id": "ukraine-25405a76b8c3aa3c2f6c"
+    },
+    {
+      "name": "Attend Ukrainian Orthodox church",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.444942,
+      "lon": 30.508717,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "url": "http://www.katedral.org.ua/",
+      "id": "ukraine-162001061de530f6fd78"
+    },
+    {
+      "name": "Go kayaking in-between the islands of Dnipro river or countless river bays",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.512975,
+      "lon": 30.515162,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "price": "~300 ₴ ($7) per hour",
+      "url": "https://kayakcenter.kyiv.ua/",
+      "id": "ukraine-30326b6b73d536f5a2d5"
+    },
+    {
+      "name": "Pysankarstvo workshop",
+      "kind": "do",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "id": "ukraine-fdc9d92ee56411bc5e9f"
+    },
+    {
+      "name": "Petrykivka drawing workshop",
+      "kind": "do",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "id": "ukraine-2c5188c5d8cecfd634a6"
+    },
+    {
+      "name": "Palace of Sports",
+      "kind": "do",
+      "locality": "Kyiv",
+      "lat": 50.437222,
+      "lon": 30.522222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "url": "https://www.spalace.com.ua/",
+      "id": "ukraine-c1d685c5a157deea22a7"
+    },
+    {
+      "name": "Tank Driving",
+      "kind": "do",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "price": "12,000 грн",
+      "id": "ukraine-cc6f6ed513f99e4dd7a6"
+    },
+    {
+      "name": "Celentano",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "lat": 50.43892,
+      "lon": 30.51754,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "23A Velyka Vasylkivska Street",
+      "price": "Course from 440 грн",
+      "id": "ukraine-fd39a677ff85e450bad6"
+    },
+    {
+      "name": "Korchma Budmo",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "lat": 50.45412,
+      "lon": 30.52161,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "22a Mykhailivska Street",
+      "id": "ukraine-29f66a9f059701f5c8dc"
+    },
+    {
+      "name": "Mister Snack",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "lat": 50.44149,
+      "lon": 30.50006,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "18 Hetmana Pavla Skoropadskoho Street",
+      "price": "Sandwiches from 160 грн",
+      "id": "ukraine-780e3d9b047a2d3dd42e"
+    },
+    {
+      "name": "Potato House",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "lat": 50.46792,
+      "lon": 30.51405,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "37/20 Nyzhnii Val Street",
+      "id": "ukraine-d44f85b31d5b920868cb"
+    },
+    {
+      "name": "Potato House",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "lat": 50.47099,
+      "lon": 30.47681,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "17/21 Zahorivska Street",
+      "id": "ukraine-57638078282df141304e"
+    },
+    {
+      "name": "Puzata Khata",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "lat": 50.44815,
+      "lon": 30.52353,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "15 Khreshchatyk Street",
+      "url": "https://puzatahata.ua/",
+      "id": "ukraine-b563895c080f169508a4"
+    },
+    {
+      "name": "Two Geese - Pechersk",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "lat": 50.43026,
+      "lon": 30.53862,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "9/11 Arsenalna Street",
+      "price": "Salads, soups: 60 грн, main dishes: from 80 грн, six types pizzas from 280 грн",
+      "id": "ukraine-042310da55bdfd68fd07"
+    },
+    {
+      "name": "Vesuvio Pizza",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "lat": 50.45203,
+      "lon": 30.51029,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "25 Reitarska Street",
+      "price": "From 280 грн per person incl. drinks.",
+      "url": "https://vesuvio.ua/en/",
+      "id": "ukraine-6f8a58d3b8f07c9b981d"
+    },
+    {
+      "name": "Viola's Bierstube",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "lat": 50.44286,
+      "lon": 30.52149,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "1A Tarasa Shevchenka Boulevard",
+      "id": "ukraine-79ebbb1c3e3afa0fce23"
+    },
+    {
+      "name": "Namelaka",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "lat": 50.472417,
+      "lon": 30.504938,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "Podil neighbourhood",
+      "url": "https://app.namelaka.ua/",
+      "id": "ukraine-d3a14c5158f7586a388c"
+    },
+    {
+      "name": "Zavertailo",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "lat": 50.451533,
+      "lon": 30.515094,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "Zoloti Vorota neighbourhood",
+      "url": "https://zavertailosofi.choiceqr.com/",
+      "id": "ukraine-c18a8aceef28fa7693dd"
+    },
+    {
+      "name": "Zustrich",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "lat": 50.44177,
+      "lon": 30.521424,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "Besarabka neighbourhood",
+      "url": "https://3ustrichcafe.choiceqr.com/",
+      "id": "ukraine-652da3a2d6c136294e3b"
+    },
+    {
+      "name": "Corsair",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "Petra Sahaidachnoho Street",
+      "price": "Meals about 680 грн/person",
+      "id": "ukraine-35ac77797954f3b1b825"
+    },
+    {
+      "name": "Ikon restaurant & bar",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "5a Baseina Street",
+      "id": "ukraine-b172876e2e0721302abe"
+    },
+    {
+      "name": "In Mood café and restaurant",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "19 Nyzhnii Val Street",
+      "id": "ukraine-898c4df09b60351093d7"
+    },
+    {
+      "name": "Karavan",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "10 Klovskyi Descent",
+      "id": "ukraine-e05025ca73b7699a2aad"
+    },
+    {
+      "name": "Kureni",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "4 Parkova Road",
+      "id": "ukraine-810f267a821e4f95335b"
+    },
+    {
+      "name": "Lola Pizza",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "5 Ukrainskykh Heroiv Square",
+      "id": "ukraine-a0b7c16f1b87354fccea"
+    },
+    {
+      "name": "Fayna Familiya",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "25a Mykoly Mikhnovskoho Boulevard",
+      "id": "ukraine-31ecae1c242245e6cdda"
+    },
+    {
+      "name": "O’Panas",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "10 Tereshchenkivska Street",
+      "id": "ukraine-42c6558718b913a096b0"
+    },
+    {
+      "name": "ResTop",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "3/4 Mala Zhytomyrska Street",
+      "price": "100-200 грн",
+      "id": "ukraine-d0b340a3299b4d469c3d"
+    },
+    {
+      "name": "Tsimes",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "10/5 Petra Sahaidachnoho Street",
+      "price": "Meal about 800 грн/person",
+      "id": "ukraine-7477691bb297e80b8a8a"
+    },
+    {
+      "name": "Vernissage",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "30 Andriivskyi Descent",
+      "price": "150-250 грн but if you don't want a full meal the pancakes are great",
+      "id": "ukraine-006d64c9dc68c0a3a2e1"
+    },
+    {
+      "name": "Good Music Bar&Restaurant",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "lat": 50.439543,
+      "lon": 30.54815,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "4/6 Mykhaila Omelianovycha-Pavlenka Street",
+      "id": "ukraine-0974450e3adf519b68cc"
+    },
+    {
+      "name": "Guramma Italiana",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "1 Dniprovskyi Descent",
+      "id": "ukraine-c421ef8158366a2a9f6f"
+    },
+    {
+      "name": "Buddha Bar",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "14 Khreshchatyk Street",
+      "url": "https://www.buddhabar.com/en/buddha-bar-kiev/",
+      "id": "ukraine-6445ecb40cde8b11a741"
+    },
+    {
+      "name": "Concord",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "id": "ukraine-0e61e666df22a4e5494e"
+    },
+    {
+      "name": "Da Vinci Fish Club",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "Volodymyrska Street",
+      "id": "ukraine-c95b5588514d36880510"
+    },
+    {
+      "name": "Mimino",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "Spaska Street",
+      "id": "ukraine-8a65fbf753e98ecbd094"
+    },
+    {
+      "name": "Touch cafe",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "id": "ukraine-e07e0d9da3751935f7fb"
+    },
+    {
+      "name": "Two Hares",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "id": "ukraine-ef8acf09166ff2c51918"
+    },
+    {
+      "name": "Wolkonsky café, bakery and patissiery",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "url": "https://wolkonsky.com.ua/",
+      "id": "ukraine-e914bcfede7fef6ef699"
+    },
+    {
+      "name": "Lun Van Chinese restaurant",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "id": "ukraine-f09b1963dc020b4fa9a2"
+    },
+    {
+      "name": "Schnitzel Haus",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "51 Saksahanskoho Street",
+      "id": "ukraine-1846d644effba603576d"
+    },
+    {
+      "name": "Tapas Tapas Bar",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "10a Tarasivska Street",
+      "id": "ukraine-ffdf9c2d0739ad985667"
+    },
+    {
+      "name": "Shynok",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "28v Lesi Ukrainky Boulevard",
+      "id": "ukraine-2f29eb103067d3b1c723"
+    },
+    {
+      "name": "Pervak",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "2 Rohnidynska Street",
+      "id": "ukraine-de90bf78b3e0f1eeaaa4"
+    },
+    {
+      "name": "Nobu",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "12 Shota Rustaveli Street",
+      "id": "ukraine-e3edfcb7660a92359838"
+    },
+    {
+      "name": "Sumosan",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "id": "ukraine-67e1a82b11e1a08311f9"
+    },
+    {
+      "name": "King David",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "24 Esplanadna Street",
+      "id": "ukraine-d6466d5b8f586f4f4ba5"
+    },
+    {
+      "name": "Like a Local's Wine Bar",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "26 Sichovykh Striltsiv Street",
+      "price": "From 40 грн/glass",
+      "id": "ukraine-d53d2c6f95cde3a803fa"
+    },
+    {
+      "name": "Bar Fidel",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "4B Mykhaila Hrushevskoho Street",
+      "id": "ukraine-223d89e82948182fb044"
+    },
+    {
+      "name": "Blyndazh",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "id": "ukraine-6d345329a20cd47bbb21"
+    },
+    {
+      "name": "Orech",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "126 Velyka Vasylkivska Street",
+      "id": "ukraine-3827cb5577c9bbb2e295"
+    },
+    {
+      "name": "Trolleybus",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "id": "ukraine-cc282ddb5621b0749b90"
+    },
+    {
+      "name": "Viola's Bierstube",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "1a Tarasa Shevchenka Boulevard",
+      "id": "ukraine-79a0f5b104a27c513540"
+    },
+    {
+      "name": "Le Cosmopolite Belgian beer café",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "Volodymyrska Street",
+      "price": "52 грн for 0.5l of Stella Artois and 180 грн for 0.33l of Leffe Blond.",
+      "id": "ukraine-459be9806885310996c5"
+    },
+    {
+      "name": "Belle-Vue Café",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "7 Saksahanskoho Street",
+      "price": "52 грн for 0.5l of Stella Artois and 180 грн for 0.33l of Leffe Blond.",
+      "id": "ukraine-5d0da0ecaf0425c4f0e3"
+    },
+    {
+      "name": "Faberge Club",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "22 Rybalska Street",
+      "id": "ukraine-591e623ae09606f57d53"
+    },
+    {
+      "name": "Club Forsage",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "price": "Entrance on the weekend is 70 грн for men and 50 грн for women",
+      "url": "https://en.forsageclub.com.ua/",
+      "id": "ukraine-24ab4c294a97e50391c7"
+    },
+    {
+      "name": "Patipa",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "id": "ukraine-958446073ecfe88a7e5d"
+    },
+    {
+      "name": "Stolytsia",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "id": "ukraine-0a731102f12924734fe5"
+    },
+    {
+      "name": "Xlib-club",
+      "kind": "eat",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "Frunze 12",
+      "id": "ukraine-59c22dcde0a1ad248597"
+    },
+    {
+      "name": "Kyiv Central Station Hostel",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "lat": 50.45166,
+      "lon": 30.4948,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "25 Hoholivska Street, Apt. 11",
+      "id": "ukraine-dbf3696fe8b905958937"
+    },
+    {
+      "name": "Magic Bus Hostel Kiev",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "lat": 50.4357,
+      "lon": 30.51403,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "31 Saksahanskoho Street, 2nd floor, apt. 3",
+      "price": "From 160 грн",
+      "url": "https://www.facebook.com/magicbushostelkiev/",
+      "id": "ukraine-a5ee1a42b9cdaab8f0f6"
+    },
+    {
+      "name": "The Hub Hostel Kyiv",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "lat": 50.44383,
+      "lon": 30.51599,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "5A Tereschenkivska Street",
+      "price": "From 560 грн",
+      "id": "ukraine-5e1c7d4311c9d4254d53"
+    },
+    {
+      "name": "TIU Kreschatik",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "lat": 50.45198,
+      "lon": 30.52611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "8b Khreshchatyk Street, Apt. 11",
+      "price": "From 400 грн",
+      "id": "ukraine-b10c21a1cb941922cf32"
+    },
+    {
+      "name": "Really Central Hostel",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "lat": 50.44564,
+      "lon": 30.51705,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "10 Bohdana Khmelnytskoho Street, Floor 2. Apt. 50 (access via second courtyard)",
+      "price": "From 320 грн",
+      "id": "ukraine-4ce1f0076b36a7d2ee0e"
+    },
+    {
+      "name": "St. Sophia Hostel Kyiv",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "lat": 50.4512,
+      "lon": 30.51363,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "2 Reitarska Street, Apt. 2",
+      "price": "From 400 грн",
+      "id": "ukraine-84934a0938444ac382b3"
+    },
+    {
+      "name": "Hotel Saturn",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "lat": 50.43392,
+      "lon": 30.39078,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "2b Heroiv Kosmosu Street",
+      "price": "From 1200 грн",
+      "id": "ukraine-57bccf855d741be02799"
+    },
+    {
+      "name": "Hostel United",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "lat": 50.45236,
+      "lon": 30.52409,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "9 Kostelna Street, apt. 5",
+      "price": "From 400 грн",
+      "id": "ukraine-24a49db9d36c965a4bb5"
+    },
+    {
+      "name": "Randevu Hotel",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "31A Pravdy Avenue",
+      "price": "From 495 грн",
+      "url": "https://randevu.ua/en/pr-pravdyi-31-a/",
+      "id": "ukraine-f5aae9c070f1e725b8e7"
+    },
+    {
+      "name": "Diplomat Hotel",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "59 Zhylianska Street",
+      "price": "From 920 грн",
+      "id": "ukraine-0186c433accd4ff0c69d"
+    },
+    {
+      "name": "Black Sea Kyiv",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "16A Leiptsyzka Street",
+      "price": "From 1,292 грн",
+      "url": "https://blacksea-hotels.com/en/hotels/black-sea-kiev/",
+      "id": "ukraine-81931b635e9da111f799"
+    },
+    {
+      "name": "ibis Kyiv City Center",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "25 Tarasa Shevchenka Boulevard",
+      "price": "From 1,449 грн",
+      "url": "https://all.accor.com/hotel/7143/index.en.shtml",
+      "id": "ukraine-1c61a362f84cb91089c2"
+    },
+    {
+      "name": "ibis Kyiv Railway Station",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "6 Sicheslavska Street",
+      "price": "From 1,449 грн",
+      "url": "https://all.accor.com/hotel/A034/index.en.shtml",
+      "id": "ukraine-48a068d19f654a26af49"
+    },
+    {
+      "name": "Hotel Kozatskiy",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "1/3 Mykhailivska Street",
+      "price": "From 1,560 грн",
+      "url": "https://www.kozatskiy.kiev.ua/en/",
+      "id": "ukraine-111e62f7f2a08441566b"
+    },
+    {
+      "name": "Hotel Tourist",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "2 Raisy Okipnoi Street",
+      "price": "From 765 грн",
+      "url": "https://hotel-tourist.kiev.ua/en",
+      "id": "ukraine-b4c5e5d6a4c13eb1e442"
+    },
+    {
+      "name": "Premier Hotel Rus",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "4 Hospitalna Street",
+      "price": "From 1,360 грн",
+      "url": "https://hotelrus.phnr.com/en",
+      "id": "ukraine-b74aaf511fd174d8c4b8"
+    },
+    {
+      "name": "Raziotel Kyiv (Yamska)",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "52 Yamska Street",
+      "price": "From 1,505 грн",
+      "url": "https://optimahotels.com.ua/en/hotels/yamska/",
+      "id": "ukraine-a99f15784b393519afe9"
+    },
+    {
+      "name": "Raziotel Kyiv (Boryspilska)",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "177/1 Kharkiv Highway",
+      "price": "From 900 грн",
+      "url": "https://optimahotels.com.ua/en/hotels/raziotel-kiev/",
+      "id": "ukraine-3375c4ef9556835820a7"
+    },
+    {
+      "name": "VitaPark Borysfen",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "5 Muromets Park",
+      "price": "From 1,356 грн",
+      "url": "https://optimahotels.com.ua/en/hotels/vitapark-borisfen/",
+      "id": "ukraine-427cd918812df15bc9de"
+    },
+    {
+      "name": "Apart hotel Berest Inn",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "41 Mashynobudivna Street",
+      "price": "From 699 грн",
+      "url": "https://berestinn.com.ua/en/homepage/",
+      "id": "ukraine-97609c3855073c116ea6"
+    },
+    {
+      "name": "Hotel Classic",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "str. Zhilyanska, 118, (entrance from the street through the arch)",
+      "price": "From 1000 грн",
+      "url": "https://hotel-classic.in.ua/",
+      "id": "ukraine-0f5a367f4e0d294a4170"
+    },
+    {
+      "name": "Mercure Kyiv Congress",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "6 Vadyma Hetmana Street",
+      "price": "From 2,106 грн",
+      "url": "https://all.accor.com/hotel/B0I0/index.en.shtml",
+      "id": "ukraine-cf202eb0176038cf60aa"
+    },
+    {
+      "name": "Adagio Kyiv Beresteiska",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "55A Beresteiskyi Avenue",
+      "price": "From 2,224 грн",
+      "url": "https://all.accor.com/hotel/A035/index.en.shtml",
+      "id": "ukraine-fb7d7240c02a2c3f5977"
+    },
+    {
+      "name": "Bratislava Hotel",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "1 Andriia Malyshka Street",
+      "price": "From 2,127 грн",
+      "url": "https://bratislava.ua/en/",
+      "id": "ukraine-995b733dd5a889190633"
+    },
+    {
+      "name": "Ramada Encore by Wyndham Kyiv",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "103 Stolychne Road",
+      "price": "From 2,840 грн",
+      "url": "https://www.wyndhamhotels.com/en-uk/ramada/kiev-ukraine/ramada-encore-kyiv/overview",
+      "id": "ukraine-f2d52004a3f5d3cb2b5b"
+    },
+    {
+      "name": "Holiday Inn Kyiv",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "100 Velyka Vasylkivska Street",
+      "price": "From 2,590 грн",
+      "url": "https://www.ihg.com/holidayinn/hotels/gb/en/kiev/kbpuk/hoteldetail",
+      "id": "ukraine-215b0082aec7c7c10c0d"
+    },
+    {
+      "name": "Gintama Hotel",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "9 Trokhsviatytelska Street",
+      "price": "From 2,480 грн",
+      "url": "http://www.gintama.com.ua/en",
+      "id": "ukraine-1c2241e8aa7bf5a2b77b"
+    },
+    {
+      "name": "Radisson Blu Hotel, Kyiv City Center",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "22 Yaroslaviv Val Street",
+      "price": "From 4,354 грн",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-kyiv",
+      "id": "ukraine-b0b949061d16e606bbcf"
+    },
+    {
+      "name": "Radisson Blu Hotel, Kyiv Podil City Center",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "17-19 Bratska Street",
+      "price": "From 3,266 грн",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-kyiv-podil",
+      "id": "ukraine-10eaeb482542883a173b"
+    },
+    {
+      "name": "Senator Victory Square",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "62/20 Dmytrivska Street",
+      "price": "From 3,800 грн",
+      "url": "https://senator-apartments.com/senator-victory-square/",
+      "id": "ukraine-a6feff65c074048ab9b4"
+    },
+    {
+      "name": "Senator City Center",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "6 Pyrohova Street",
+      "price": "From 2,600 грн",
+      "url": "https://senator-apartments.com/senator-city-center/",
+      "id": "ukraine-a9c16811ede78d06d396"
+    },
+    {
+      "name": "Park hotel \"Goloseevo\"",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "87 Holosiivskyi Avenue",
+      "price": "From 2,300 грн",
+      "url": "https://hotelgolosievo.com/",
+      "id": "ukraine-1ed95d94c0e431e0f9db"
+    },
+    {
+      "name": "City Park Apart-Hotel Kyiv",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "20A Bulvarno-Kudriavska Street",
+      "price": "From 6,600 грн",
+      "url": "https://www.citypark-hotels.com/city-park-hotel-kiev",
+      "id": "ukraine-df0238bc51c285d5db8e"
+    },
+    {
+      "name": "Fairmont Grand Hotel Kyiv",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "1 Naberezhno-Khreshchatytska Street",
+      "price": "From 6,545 грн",
+      "url": "https://www.fairmont.com/kyiv/",
+      "id": "ukraine-2d8aeb572f9eaabbe4f8"
+    },
+    {
+      "name": "Hyatt Regency Kyiv",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "5 Ally Tarasovoi Street",
+      "price": "From 9,640 грн",
+      "url": "https://www.hyatt.com/en-US/hotel/ukraine/hyatt-regency-kyiv/kievh",
+      "id": "ukraine-a46c534d3d8143b71f23"
+    },
+    {
+      "name": "InterContinental Kyiv",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "2A Velyka Zhytomyrska Street",
+      "price": "From 12,040 грн",
+      "url": "https://www.ihg.com/intercontinental/hotels/us/en/kiev/kbpha/hoteldetail",
+      "id": "ukraine-c1ae8e82ccd731b34c4b"
+    },
+    {
+      "name": "Opera Hotel Kyiv",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "53 Bohdana Khmelnytskoho Street",
+      "price": "From 8,582 грн",
+      "url": "https://www.opera-hotel.com/",
+      "id": "ukraine-dd4507f46137774df328"
+    },
+    {
+      "name": "Premier Palace Hotel",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "5-7/29 Tarasa Shevchenka Boulevard / Pushkinska Street",
+      "price": "From 8,280 грн",
+      "url": "https://premier-palace.phnr.com/en",
+      "id": "ukraine-96df2c09cc2598783d84"
+    },
+    {
+      "name": "11 Mirrors",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "34A Bohdana Khmelnytskoho Street",
+      "price": "From 9,000 грн",
+      "url": "https://11mirrors-hotel.com/",
+      "id": "ukraine-0f85c327046eadec1e95"
+    },
+    {
+      "name": "Hilton Kyiv",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "30 Tarasa Shevchenka Boulevard",
+      "price": "From 9,327 грн",
+      "url": "https://www.hilton.com/en/hotels/kbphihi-hilton-kyiv/",
+      "id": "ukraine-f31ec8f5b947851c9f67"
+    },
+    {
+      "name": "Senator Maidan",
+      "kind": "stay",
+      "locality": "Kyiv",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "address": "8B Tarasa Shevchenka Lane",
+      "price": "From 6,600 грн",
+      "url": "https://senator-apartments.com/senator-maidan/",
+      "id": "ukraine-e60fdc0e762c3edad5c9"
+    },
+    {
+      "name": "Kyiv",
+      "kind": "area",
+      "locality": "Kyiv",
+      "lat": 50.45,
+      "lon": 30.52,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyiv",
+      "id": "ukraine-d6b7f4ac5a48ee809977"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

@@ -1,0 +1,200 @@
+{
+  "sources": [
+    {
+      "title": "Marshall Islands",
+      "url": "https://en.wikivoyage.org/wiki/Marshall_Islands",
+      "checkedAt": "2026-10-21T08:11:02.259Z"
+    },
+    {
+      "title": "Majuro",
+      "url": "https://en.wikivoyage.org/wiki/Majuro",
+      "checkedAt": "2026-10-21T08:11:05.227Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Majuro",
+      "kind": "area",
+      "locality": "Marshall Islands",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marshall_Islands",
+      "id": "marshall-islands-3243586c437a4f9cc133"
+    },
+    {
+      "name": "Kwajalein",
+      "kind": "area",
+      "locality": "Marshall Islands",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marshall_Islands",
+      "id": "marshall-islands-7868bb00c3b2d53a6e7f"
+    },
+    {
+      "name": "Ebeye",
+      "kind": "area",
+      "locality": "Marshall Islands",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marshall_Islands",
+      "id": "marshall-islands-d590f9e823453bf4100f"
+    },
+    {
+      "name": "Laura Beach",
+      "kind": "do",
+      "locality": "Majuro",
+      "lat": 7.1474,
+      "lon": 171.0385,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Majuro",
+      "id": "marshall-islands-96a3deaaca4dd4bb81be"
+    },
+    {
+      "name": "Alele Museum and Public Library",
+      "kind": "do",
+      "locality": "Majuro",
+      "lat": 7.1076,
+      "lon": 171.3736,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Majuro",
+      "url": "https://alelemuseum.tripod.com/Museum.html",
+      "id": "marshall-islands-955cc3284b805a890566"
+    },
+    {
+      "name": "Eneko Island",
+      "kind": "do",
+      "locality": "Majuro",
+      "lat": 7.1494,
+      "lon": 171.283,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Majuro",
+      "id": "marshall-islands-8636fc0923f58860a5fa"
+    },
+    {
+      "name": "Arno",
+      "kind": "do",
+      "locality": "Majuro",
+      "lat": 7.066,
+      "lon": 171.551,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Majuro",
+      "id": "marshall-islands-1f2887ccfa91decd8dc5"
+    },
+    {
+      "name": "Tidetable Restaurant",
+      "kind": "eat",
+      "locality": "Majuro",
+      "lat": 7.10922,
+      "lon": 171.371,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Majuro",
+      "address": "Uliga Main Road",
+      "url": "http://www.rreinc.com/tidetable.htm",
+      "id": "marshall-islands-ea9d2d6690548197994d"
+    },
+    {
+      "name": "DAR",
+      "kind": "eat",
+      "locality": "Majuro",
+      "lat": 7.10976,
+      "lon": 171.3726,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Majuro",
+      "id": "marshall-islands-aa8ca52434852c1b49a8"
+    },
+    {
+      "name": "Won Hai Shien",
+      "kind": "eat",
+      "locality": "Majuro",
+      "lat": 7.10452,
+      "lon": 171.37644,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Majuro",
+      "id": "marshall-islands-8fcd9200053b08eb84c5"
+    },
+    {
+      "name": "Aliang Restaurant",
+      "kind": "eat",
+      "locality": "Majuro",
+      "lat": 7.10695,
+      "lon": 171.37315,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Majuro",
+      "id": "marshall-islands-29f7c49de05f31cdbc3a"
+    },
+    {
+      "name": "Flame Tree",
+      "kind": "eat",
+      "locality": "Majuro",
+      "lat": 7.08765,
+      "lon": 171.37721,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Majuro",
+      "id": "marshall-islands-ad1548838f4c505814b5"
+    },
+    {
+      "name": "Riwut Corner",
+      "kind": "eat",
+      "locality": "Majuro",
+      "lat": 7.0952,
+      "lon": 171.38051,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Majuro",
+      "id": "marshall-islands-f5879732ef33f12e402b"
+    },
+    {
+      "name": "Marshall Islands Resort",
+      "kind": "eat",
+      "locality": "Majuro",
+      "lat": 7.08667,
+      "lon": 171.37357,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Majuro",
+      "id": "marshall-islands-b6a03867f3cc2118f8b4"
+    },
+    {
+      "name": "Marshall Islands Club",
+      "kind": "eat",
+      "locality": "Majuro",
+      "lat": 7.11019,
+      "lon": 171.37203,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Majuro",
+      "id": "marshall-islands-310e5d9025a5a598fa06"
+    },
+    {
+      "name": "The Pub",
+      "kind": "eat",
+      "locality": "Majuro",
+      "lat": 7.08463,
+      "lon": 171.36919,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Majuro",
+      "url": "https://www.facebook.com/pages/The-Pub/190656750971486",
+      "id": "marshall-islands-68da86c7413846a9519c"
+    },
+    {
+      "name": "Toeak Bar & Grill",
+      "kind": "eat",
+      "locality": "Majuro",
+      "lat": 7.10699,
+      "lon": 171.36315,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Majuro",
+      "url": "https://www.infomarshallislands.com/toeak-bar-grill/",
+      "id": "marshall-islands-9faea72c584a4651edc0"
+    },
+    {
+      "name": "Hotel Robert Reimers",
+      "kind": "stay",
+      "locality": "Majuro",
+      "lat": 7.10946,
+      "lon": 171.37096,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Majuro",
+      "url": "http://www.rreinc.com/rrehotel.html",
+      "id": "marshall-islands-74d535fa833b27f54ce5"
+    },
+    {
+      "name": "Marshall Islands Resort",
+      "kind": "stay",
+      "locality": "Majuro",
+      "lat": 7.08648,
+      "lon": 171.37361,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Majuro",
+      "address": "Amata Kabua Blvd",
+      "url": "https://www.facebook.com/MarshallIslandsResort/",
+      "id": "marshall-islands-d41f45a592a204fc6a88"
+    },
+    {
+      "name": "Majuro",
+      "kind": "area",
+      "locality": "Majuro",
+      "lat": 7.1167,
+      "lon": 171.2067,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Majuro",
+      "id": "marshall-islands-a43aa5dc5d42ff1714f8"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

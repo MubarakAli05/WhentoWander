@@ -1,0 +1,2305 @@
+{
+  "sources": [
+    {
+      "title": "Colombia",
+      "url": "https://en.wikivoyage.org/wiki/Colombia",
+      "checkedAt": "2026-10-21T08:07:16.308Z"
+    },
+    {
+      "title": "Bogotá",
+      "url": "https://en.wikivoyage.org/wiki/Bogot%C3%A1",
+      "checkedAt": "2026-10-21T08:07:19.450Z"
+    },
+    {
+      "title": "Bogotá/Santa Fé-Los Mártires",
+      "url": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FSanta_F%C3%A9-Los_M%C3%A1rtires",
+      "checkedAt": "2026-10-21T08:07:22.197Z"
+    },
+    {
+      "title": "Bogotá/Parque 93",
+      "url": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FParque_93",
+      "checkedAt": "2026-10-21T08:07:25.190Z"
+    },
+    {
+      "title": "Bogotá/Usaquén",
+      "url": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FUsaqu%C3%A9n",
+      "checkedAt": "2026-10-21T08:07:28.200Z"
+    },
+    {
+      "title": "Bogotá/La Candelaria",
+      "url": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "checkedAt": "2026-10-21T08:07:31.391Z"
+    },
+    {
+      "title": "Bogotá/Zona Rosa",
+      "url": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FZona_Rosa",
+      "checkedAt": "2026-10-21T08:07:34.216Z"
+    },
+    {
+      "title": "Bogotá/Teusaquillo-Salitre",
+      "url": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FTeusaquillo-Salitre",
+      "checkedAt": "2026-10-21T08:07:37.351Z"
+    },
+    {
+      "title": "Cartagena (Colombia)",
+      "url": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "checkedAt": "2026-10-21T08:07:40.247Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Bogotá",
+      "kind": "area",
+      "locality": "Colombia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombia",
+      "id": "colombia-a5bac5665848446453dc"
+    },
+    {
+      "name": "Barranquilla",
+      "kind": "area",
+      "locality": "Colombia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombia",
+      "id": "colombia-57f7421d42e0c32d0dae"
+    },
+    {
+      "name": "Cali",
+      "kind": "area",
+      "locality": "Colombia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombia",
+      "id": "colombia-e02f5bc162d1434ac1f9"
+    },
+    {
+      "name": "Cartagena",
+      "kind": "area",
+      "locality": "Colombia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombia",
+      "id": "colombia-9c2a9bac941a1848f17e"
+    },
+    {
+      "name": "Manizales",
+      "kind": "area",
+      "locality": "Colombia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombia",
+      "id": "colombia-a2b303bee64308e72ce1"
+    },
+    {
+      "name": "Medellín",
+      "kind": "area",
+      "locality": "Colombia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombia",
+      "id": "colombia-7187b2f7535692f56bec"
+    },
+    {
+      "name": "Pereira",
+      "kind": "area",
+      "locality": "Colombia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombia",
+      "id": "colombia-3623013c54c96d413687"
+    },
+    {
+      "name": "Popayán",
+      "kind": "area",
+      "locality": "Colombia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombia",
+      "id": "colombia-98202c1570ab08504de1"
+    },
+    {
+      "name": "Santa Marta",
+      "kind": "area",
+      "locality": "Colombia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombia",
+      "id": "colombia-80918fb74d4ff5f2978c"
+    },
+    {
+      "name": "Ciclovía",
+      "kind": "do",
+      "locality": "Bogotá",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1",
+      "id": "colombia-379fb85d2720b49acb5d"
+    },
+    {
+      "name": "Sabana de Bogotá",
+      "kind": "do",
+      "locality": "Bogotá",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1",
+      "id": "colombia-00870860d11bdbdb4db3"
+    },
+    {
+      "name": "Bogotá",
+      "kind": "area",
+      "locality": "Bogotá",
+      "lat": 4.65189,
+      "lon": -74.07855,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1",
+      "id": "colombia-aa22c8b094052f22e240"
+    },
+    {
+      "name": "Cerro de Monserrate",
+      "kind": "do",
+      "locality": "Bogotá/Santa Fé-Los Mártires",
+      "lat": 4.605833,
+      "lon": -74.056389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FSanta_F%C3%A9-Los_M%C3%A1rtires",
+      "price": "Adults COP$27,000 round trip (COP$16,000 on Sundays)",
+      "url": "https://monserrate.co/en/welcome-a-monserrate/",
+      "id": "colombia-72c5ece053438a925e10"
+    },
+    {
+      "name": "Torre Colpatria",
+      "kind": "do",
+      "locality": "Bogotá/Santa Fé-Los Mártires",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FSanta_F%C3%A9-Los_M%C3%A1rtires",
+      "address": "Carrera 7 # 24-89",
+      "price": "COP$12,000",
+      "id": "colombia-a37d839a40874cbc9d71"
+    },
+    {
+      "name": "Museo Nacional",
+      "kind": "do",
+      "locality": "Bogotá/Santa Fé-Los Mártires",
+      "lat": 4.6155,
+      "lon": -74.0683,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FSanta_F%C3%A9-Los_M%C3%A1rtires",
+      "address": "Carrera 7 No. 28-66",
+      "url": "http://www.museonacional.gov.co/",
+      "id": "colombia-192d3a685880f61c26d4"
+    },
+    {
+      "name": "Museum of Modern Art of Bogota",
+      "kind": "do",
+      "locality": "Bogotá/Santa Fé-Los Mártires",
+      "lat": 4.610222,
+      "lon": -74.069333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FSanta_F%C3%A9-Los_M%C3%A1rtires",
+      "address": "Calle 24 No. 6-00",
+      "price": "Adult (foreign) COP$18,000, adult (Colombian) COP$14,000, student/teacher/age60+ COP$10,000",
+      "url": "http://www.mambogota.com/",
+      "id": "colombia-281a1fd226193e24e48c"
+    },
+    {
+      "name": "Planetario Distrital",
+      "kind": "do",
+      "locality": "Bogotá/Santa Fé-Los Mártires",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FSanta_F%C3%A9-Los_M%C3%A1rtires",
+      "address": "Carrera 7 Calle 26",
+      "url": "http://www.planetariodebogota.gov.co/",
+      "id": "colombia-f66b482ee7bfecb0bc69"
+    },
+    {
+      "name": "Plaza de Toros de Santamaria",
+      "kind": "do",
+      "locality": "Bogotá/Santa Fé-Los Mártires",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FSanta_F%C3%A9-Los_M%C3%A1rtires",
+      "address": "Carrera 6 No. 26-50",
+      "id": "colombia-a86d44996cffc9627baa"
+    },
+    {
+      "name": "Parque del Bicentenario",
+      "kind": "do",
+      "locality": "Bogotá/Santa Fé-Los Mártires",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FSanta_F%C3%A9-Los_M%C3%A1rtires",
+      "id": "colombia-c7d9519267de7d399a21"
+    },
+    {
+      "name": "Tapas Macarena",
+      "kind": "eat",
+      "locality": "Bogotá/Santa Fé-Los Mártires",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FSanta_F%C3%A9-Los_M%C3%A1rtires",
+      "address": "Cra. 4A # 26-01, La Macarena",
+      "price": "At least US$150 per person",
+      "id": "colombia-888b9ff2e4a4f481105a"
+    },
+    {
+      "name": "La Taperia",
+      "kind": "eat",
+      "locality": "Bogotá/Santa Fé-Los Mártires",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FSanta_F%C3%A9-Los_M%C3%A1rtires",
+      "address": "Cra. 4A No. 26 B - 12, La Macarena",
+      "price": "At least US$150 per person",
+      "id": "colombia-f0ed64022072fa554b19"
+    },
+    {
+      "name": "Kiuri Sushi Wok",
+      "kind": "eat",
+      "locality": "Bogotá/Santa Fé-Los Mártires",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FSanta_F%C3%A9-Los_M%C3%A1rtires",
+      "address": "Cl 26b #4 a 03, Santa Fé",
+      "url": "https://kiurisushiwok.ola.click/",
+      "id": "colombia-f52ca49bddafaf4f6ee1"
+    },
+    {
+      "name": "Panadería La Santa María",
+      "kind": "eat",
+      "locality": "Bogotá/Santa Fé-Los Mártires",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FSanta_F%C3%A9-Los_M%C3%A1rtires",
+      "address": "Carrera 5 # 26B-71, Santa Fe",
+      "id": "colombia-08ddc17ca55a25beb2b7"
+    },
+    {
+      "name": "Santa Fe Restaurante",
+      "kind": "eat",
+      "locality": "Bogotá/Santa Fé-Los Mártires",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FSanta_F%C3%A9-Los_M%C3%A1rtires",
+      "address": "Calle 26b # 4-30, Santa Fé",
+      "url": "https://santa-fe-restaurante.ola.click/products",
+      "id": "colombia-e0d86687ce55361c17b5"
+    },
+    {
+      "name": "La Monferrina",
+      "kind": "eat",
+      "locality": "Bogotá/Santa Fé-Los Mártires",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FSanta_F%C3%A9-Los_M%C3%A1rtires",
+      "address": "Cra. 4a #26B-22, Santa Fe",
+      "url": "https://lamonferrina.negocio.site/",
+      "id": "colombia-c666a3b029b5f17d0c0d"
+    },
+    {
+      "name": "Chibchombia",
+      "kind": "eat",
+      "locality": "Bogotá/Santa Fé-Los Mártires",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FSanta_F%C3%A9-Los_M%C3%A1rtires",
+      "address": "Cra. 4 #26D - 90, Santa Fé",
+      "id": "colombia-26a302761a7fcef7c2d0"
+    },
+    {
+      "name": "CHA-CHA",
+      "kind": "eat",
+      "locality": "Bogotá/Santa Fé-Los Mártires",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FSanta_F%C3%A9-Los_M%C3%A1rtires",
+      "address": "Cra. 7 No 32-16",
+      "price": "Cover COP$15,000",
+      "id": "colombia-7ba0326e81ebf6da31eb"
+    },
+    {
+      "name": "Hotel Centro Internacional",
+      "kind": "stay",
+      "locality": "Bogotá/Santa Fé-Los Mártires",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FSanta_F%C3%A9-Los_M%C3%A1rtires",
+      "address": "Carrera 13A # 38-97",
+      "price": "starting from US$88",
+      "url": "http://www.hotelcentrointernacional.com/",
+      "id": "colombia-d85eb85b45ba98180e0a"
+    },
+    {
+      "name": "Bogotá/Santa Fé-Los Mártires",
+      "kind": "area",
+      "locality": "Bogotá/Santa Fé-Los Mártires",
+      "lat": 4.598,
+      "lon": -74.094,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FSanta_F%C3%A9-Los_M%C3%A1rtires",
+      "id": "colombia-13c9cd466501fc135ad2"
+    },
+    {
+      "name": "Parque & Museo El Chicó",
+      "kind": "do",
+      "locality": "Bogotá/Parque 93",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FParque_93",
+      "address": "Calle 93, Carrera 7",
+      "price": "Adult COP$2,500, student COP$1,500",
+      "url": "http://www.museodelchico.com/",
+      "id": "colombia-213e1f2cebaa887b53fe"
+    },
+    {
+      "name": "Osaki Parque 93",
+      "kind": "eat",
+      "locality": "Bogotá/Parque 93",
+      "lat": 4.676386,
+      "lon": -74.047536,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FParque_93",
+      "address": "Carrera 11a",
+      "url": "http://www.osaki.com.co/",
+      "id": "colombia-3d6af19cc9177f9f6d2d"
+    },
+    {
+      "name": "Gato Negro",
+      "kind": "eat",
+      "locality": "Bogotá/Parque 93",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FParque_93",
+      "address": "Cl 93A No 11A-47",
+      "url": "http://www.restaurantegatonegro.com.co/",
+      "id": "colombia-3dc7d0cd5a9444aa8b72"
+    },
+    {
+      "name": "Salto del Angel",
+      "kind": "eat",
+      "locality": "Bogotá/Parque 93",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FParque_93",
+      "address": "Cra 13 No 93A-45",
+      "price": "Cover COP$10,000",
+      "url": "https://www.facebook.com/saltodelangelbogota/",
+      "id": "colombia-bdcee798c7b177a098b7"
+    },
+    {
+      "name": "Lloyd's Apartasuites",
+      "kind": "stay",
+      "locality": "Bogotá/Parque 93",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FParque_93",
+      "address": "Carretera 11 # 94-71",
+      "price": "From US$130",
+      "url": "http://lloydsapartasuites.com/",
+      "id": "colombia-24b881082dc733fa82c5"
+    },
+    {
+      "name": "Prisma Suites Chicó",
+      "kind": "stay",
+      "locality": "Bogotá/Parque 93",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FParque_93",
+      "address": "Transv. 23 # 94-26",
+      "url": "https://www.facebook.com/Prisma-Suites-CHICO-94-454780904628275/",
+      "id": "colombia-e837b476fb3e90e1bcf6"
+    },
+    {
+      "name": "Hotel Estelar Parque de la 93",
+      "kind": "stay",
+      "locality": "Bogotá/Parque 93",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FParque_93",
+      "address": "Cl. 93 #11-19, Localidad de Chapinero",
+      "price": "Prices are usually around US$100-150",
+      "url": "https://en.estelarparquedela93.com/offers/?partner=777&gclid=CjwKCAiAh9qdBhAOEiwAvxIok9EbrKtdx2IYc8b7ait52wpQC2Ik4W-SjmTbo8dcyjiJNeNFG94kWhoCpF0QAvD_BwE",
+      "id": "colombia-5070481eff621e331e82"
+    },
+    {
+      "name": "Richmond Suites Hotel",
+      "kind": "stay",
+      "locality": "Bogotá/Parque 93",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FParque_93",
+      "address": "Calle 93 #18-81",
+      "price": "Rates start at COP$142,457",
+      "url": "http://www.richmondsuiteshotel.com/",
+      "id": "colombia-80b186e61ebc3daa1a06"
+    },
+    {
+      "name": "BOG Hotel",
+      "kind": "stay",
+      "locality": "Bogotá/Parque 93",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FParque_93",
+      "address": "Cra. 11 # 86-74",
+      "price": "Prices are usually around US$200",
+      "url": "https://boghotel.com/en/",
+      "id": "colombia-718da59e405e2208d592"
+    },
+    {
+      "name": "EK Hotel La Noventa",
+      "kind": "stay",
+      "locality": "Bogotá/Parque 93",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FParque_93",
+      "address": "Cl. 90 #11-13, Parque del Virrey, Localidad de Chapinero",
+      "price": "Prices are usually between US$200 and US$400",
+      "url": "https://www.guestreservations.com/ek-hotel-bogota/booking?gclid=CjwKCAiAh9qdBhAOEiwAvxIok17s3OiCKsshZOuh2r_wzO0aYxDed_RtBx-WYeEzcRhnfsQzQtwVOhoCgdAQAvD_BwE",
+      "id": "colombia-6bdc705386a017ed9aeb"
+    },
+    {
+      "name": "Clik Clak Hotel Bogota",
+      "kind": "stay",
+      "locality": "Bogotá/Parque 93",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FParque_93",
+      "address": "Carrera 11#93-77, Localidad de Chapinero",
+      "url": "https://clickclackhotel.com/bogota/home.html",
+      "id": "colombia-b54d37da1415ee9cda7e"
+    },
+    {
+      "name": "Hotel Estellar Parque de la 93",
+      "kind": "stay",
+      "locality": "Bogotá/Parque 93",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FParque_93",
+      "address": "Calle 93 No 11-19, Localidad de Chapinero",
+      "price": "Prices are usually around US$100-150",
+      "url": "https://www.guestreservations.com/hotel-estelar-parque-de-la/booking?gclid=CjwKCAiAh9qdBhAOEiwAvxIok6sgY0tzHbuwnvShivhBTztmKN36eJGdkLmDDg02NND4mqctq44mBhoCtV0QAvD_BwE",
+      "id": "colombia-079b4a7dfa51e83c4654"
+    },
+    {
+      "name": "Bogotá/Parque 93",
+      "kind": "area",
+      "locality": "Bogotá/Parque 93",
+      "lat": 4.703,
+      "lon": -74.042,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FParque_93",
+      "id": "colombia-55b66c5be3936e873c93"
+    },
+    {
+      "name": "Hacienda Santa Bárbara",
+      "kind": "do",
+      "locality": "Bogotá/Usaquén",
+      "lat": 4.692786,
+      "lon": -74.032625,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FUsaqu%C3%A9n",
+      "address": "Carrera 7 No. 116 - 05",
+      "url": "https://www.haciendasantabarbara.com.co/",
+      "id": "colombia-f1f573c8c6626125cc28"
+    },
+    {
+      "name": "14inkas",
+      "kind": "eat",
+      "locality": "Bogotá/Usaquén",
+      "lat": 4.69578,
+      "lon": -74.02967,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FUsaqu%C3%A9n",
+      "address": "Calle 119B # 5-43",
+      "url": "https://14inkas.co/",
+      "id": "colombia-6bb4315c295c75f06b6c"
+    },
+    {
+      "name": "Usaquen Station Hostel",
+      "kind": "stay",
+      "locality": "Bogotá/Usaquén",
+      "lat": 4.693,
+      "lon": -74.032,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FUsaqu%C3%A9n",
+      "address": "Carrera 6a #116-29",
+      "url": "https://usaquenstationhostel.business.site/",
+      "id": "colombia-cbd8aeb8f3fc2568f6c7"
+    },
+    {
+      "name": "Arlington Place",
+      "kind": "stay",
+      "locality": "Bogotá/Usaquén",
+      "lat": 4.69522,
+      "lon": -74.05113,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FUsaqu%C3%A9n",
+      "address": "Calle 109 No. 19-51 Plaza de Navarra",
+      "price": "Rates on official website start at USD 129.00",
+      "url": "http://www.arlington-place.com/",
+      "id": "colombia-96823daf36d8497e4e02"
+    },
+    {
+      "name": "Hotel Egina Bogota",
+      "kind": "stay",
+      "locality": "Bogotá/Usaquén",
+      "lat": 4.69898,
+      "lon": -74.0413,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FUsaqu%C3%A9n",
+      "address": "Carrera 14a # 119 - 16",
+      "price": "From COP 124193",
+      "url": "http://www.lemanoireginahotels.com/hotel-egina-bogota-en-bogota/",
+      "id": "colombia-d49a8660d51a2e0af406"
+    },
+    {
+      "name": "Hotel Le Manoir Bogota",
+      "kind": "stay",
+      "locality": "Bogotá/Usaquén",
+      "lat": 4.69153,
+      "lon": -74.05018,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FUsaqu%C3%A9n",
+      "address": "Calle 105 N 17 A 82",
+      "price": "From COP 135151",
+      "url": "http://www.lemanoireginahotels.com/hotel-le-manoir-bogota-en-bogota/",
+      "id": "colombia-6e124730c0b026e784a2"
+    },
+    {
+      "name": "W Hotel Bogota DC",
+      "kind": "stay",
+      "locality": "Bogotá/Usaquén",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FUsaqu%C3%A9n",
+      "address": "Avenida Carrera 9 #115 - 30",
+      "url": "https://www.marriott.com/en-us/hotels/bogwh-w-bogota/overview/?scid=55fb2716-faa1-4ecf-ab81-5a84d04183a3&gclid=CjwKCAiA8OmdBhAgEiwAShr400nL3dmThhl7JRmKXyShYZ91MooHukU8WOYPDSZc_aXGLXlpNWBpQRoCrh4QAvD_BwE&gclsrc=aw.ds",
+      "id": "colombia-af2d14be5236ba880a9a"
+    },
+    {
+      "name": "NH Collection Bogota Teleport Royal",
+      "kind": "stay",
+      "locality": "Bogotá/Usaquén",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FUsaqu%C3%A9n",
+      "address": "Cl. 113 #7 - 65, Teleport Business Park",
+      "url": "https://www.nh-hotels.com/hotel/nh-collection-bogota-teleport-royal?campid=8435708&gclid=CjwKCAiA8OmdBhAgEiwAShr400FhskpLNYsrtDFQxBRTqRgHXbAqSKPdqFc7-_8TgcFOBdNMNispthoClU0QAvD_BwE&gclsrc=aw.ds",
+      "id": "colombia-a0252108ed033b234603"
+    },
+    {
+      "name": "Hotel Estelar la Fontana",
+      "kind": "stay",
+      "locality": "Bogotá/Usaquén",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FUsaqu%C3%A9n",
+      "address": "Av. C. 127 #15a-10",
+      "url": "https://en.estelarlafontana.com/?partner=777&gclid=CjwKCAiA8OmdBhAgEiwAShr405NV6kCkmVXVdVToikRLAQc4OwMtjVg-aHxhlBDfhHQD-Gdf4QUvphoCdC0QAvD_BwE",
+      "id": "colombia-05905ea6e0b74b06e9f9"
+    },
+    {
+      "name": "Dann Carlton Hotel Bogota",
+      "kind": "stay",
+      "locality": "Bogotá/Usaquén",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FUsaqu%C3%A9n",
+      "address": "Cra. 15 # 103-60",
+      "url": "https://www.reservations.com/hotel/hotel-dann-carlton-bogota?rmcid=tophotels&utm_source=googleads&gclid=CjwKCAiA2fmdBhBpEiwA4CcHzT7XzgacZjIZSsYCl1mBlHl9ZNrEFMt2cU4Ns5ThcWG5n3T9MYTWKRoCQD0QAvD_BwE",
+      "id": "colombia-245f7b29b639f0b26ee7"
+    },
+    {
+      "name": "Bogotá/Usaquén",
+      "kind": "area",
+      "locality": "Bogotá/Usaquén",
+      "lat": 4.7197222222222,
+      "lon": -74.036666666667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FUsaqu%C3%A9n",
+      "id": "colombia-3e16d91d912b488facb6"
+    },
+    {
+      "name": "Casa de Moneda",
+      "kind": "do",
+      "locality": "Bogotá/La Candelaria",
+      "lat": 4.596889,
+      "lon": -74.073575,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Calle 11 No. 4-21",
+      "id": "colombia-ab716969189913939bd1"
+    },
+    {
+      "name": "Cultural Heritage Museum",
+      "kind": "do",
+      "locality": "Bogotá/La Candelaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "id": "colombia-24cdaecc2759b08736b3"
+    },
+    {
+      "name": "Banco de la Republica Art Collection (Museo Botero)",
+      "kind": "do",
+      "locality": "Bogotá/La Candelaria",
+      "lat": 4.596568,
+      "lon": -74.073208,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Calle 11 No. 4-41",
+      "url": "http://www.banrepcultural.org/museo-botero",
+      "id": "colombia-162b2152ced10724d5f4"
+    },
+    {
+      "name": "Gold Museum",
+      "kind": "do",
+      "locality": "Bogotá/La Candelaria",
+      "lat": 4.601692,
+      "lon": -74.071901,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Calle 16 No. 5-41",
+      "price": "COP$5,000 (free on Sundays)",
+      "url": "http://www.banrepcultural.org/museo-del-oro",
+      "id": "colombia-23f9406f19f03d9700cb"
+    },
+    {
+      "name": "Museum of Colonial Art",
+      "kind": "do",
+      "locality": "Bogotá/La Candelaria",
+      "lat": 4.596727,
+      "lon": -74.075324,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Carrera 6 No. 9-77",
+      "url": "http://www.museocolonial.gov.co/",
+      "id": "colombia-c504cf5ef78a176f01ab"
+    },
+    {
+      "name": "Museum Francisco José de Caldas",
+      "kind": "do",
+      "locality": "Bogotá/La Candelaria",
+      "lat": 4.594567,
+      "lon": -74.078956,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Carrera 8 #6-87",
+      "id": "colombia-ce1012def1c713e9180a"
+    },
+    {
+      "name": "Museo de Trajes",
+      "kind": "do",
+      "locality": "Bogotá/La Candelaria",
+      "lat": 4.597061797251872,
+      "lon": -74.07525456939345,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Calle 10 #6-26",
+      "id": "colombia-5a3a69f2e3e297a730de"
+    },
+    {
+      "name": "National Police Historical Museum",
+      "kind": "do",
+      "locality": "Bogotá/La Candelaria",
+      "lat": 4.59806394497355,
+      "lon": -74.07837039603459,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Calle 9 No. 9-27",
+      "id": "colombia-d0f9975f7a3782bd26ba"
+    },
+    {
+      "name": "Fragmentos",
+      "kind": "do",
+      "locality": "Bogotá/La Candelaria",
+      "lat": 4.5926,
+      "lon": -74.0783,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Cra. 7 #6b-30",
+      "price": "Free",
+      "url": "https://fragmentos.gov.co/Paginas/default.aspx",
+      "id": "colombia-c4b929105762dc03296e"
+    },
+    {
+      "name": "Primatial Cathedral of Bogotá",
+      "kind": "do",
+      "locality": "Bogotá/La Candelaria",
+      "lat": 4.59796,
+      "lon": -74.07524,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Plaza de Bolívar",
+      "id": "colombia-b6c7616e8f735c4fa5a2"
+    },
+    {
+      "name": "Plaza de Bolívar",
+      "kind": "do",
+      "locality": "Bogotá/La Candelaria",
+      "lat": 4.598363,
+      "lon": -74.076067,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "id": "colombia-0cd929191bdcd8f905b4"
+    },
+    {
+      "name": "Bogota Bike Tours",
+      "kind": "do",
+      "locality": "Bogotá/La Candelaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Carrera 3 No. 12-72",
+      "price": "COP$35,000",
+      "url": "http://www.bogotabiketours.com/",
+      "id": "colombia-e3fb775a42c19235e414"
+    },
+    {
+      "name": "Restaurante Hibiscus",
+      "kind": "eat",
+      "locality": "Bogotá/La Candelaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Calle 12D #2-21",
+      "price": "Around COP$7,000 for breakfast or meal of the day",
+      "url": "https://hibiscus-restaurante.negocio.site/",
+      "id": "colombia-92c47865e05538a85ce4"
+    },
+    {
+      "name": "El Fogón de las Sopitas",
+      "kind": "eat",
+      "locality": "Bogotá/La Candelaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Calle 12 No. 8-38",
+      "price": "from COP$15,000",
+      "id": "colombia-85593a82566fc2c2ffdd"
+    },
+    {
+      "name": "Restaurante Vegetariano Boulevard Sesamo",
+      "kind": "eat",
+      "locality": "Bogotá/La Candelaria",
+      "lat": 4.6019,
+      "lon": -74.0687,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Av Jimenez No 4-64",
+      "price": "COP $15,000+",
+      "url": "https://www.facebook.com/bulevarsesamo.vegetariano/",
+      "id": "colombia-55eb439f047e6e5e25ae"
+    },
+    {
+      "name": "PitaWok",
+      "kind": "eat",
+      "locality": "Bogotá/La Candelaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Carrera 4 #12C-54",
+      "price": "From COP$5,000",
+      "url": "http://www.pitawok.com/",
+      "id": "colombia-1b25cef0834d443d7801"
+    },
+    {
+      "name": "La Monapizza",
+      "kind": "eat",
+      "locality": "Bogotá/La Candelaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Carrera 4 #12-25",
+      "price": "From COP$8,000 for the small pizza",
+      "url": "http://lamonapizza.com/",
+      "id": "colombia-fcc5afff4c8f63123865"
+    },
+    {
+      "name": "Ricasole Picadas",
+      "kind": "eat",
+      "locality": "Bogotá/La Candelaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Carrera 4 #12C-54",
+      "price": "COP$15,000",
+      "url": "https://m.facebook.com/RicasolePicadas/",
+      "id": "colombia-a66653e1516d8a0f59da"
+    },
+    {
+      "name": "Crepes & Waffles",
+      "kind": "eat",
+      "locality": "Bogotá/La Candelaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Avenida Jimenez (Cl 13) No. 4-55",
+      "price": "from COP$3,000",
+      "id": "colombia-7522ccd8a3fa6fc1512a"
+    },
+    {
+      "name": "Pastelerá Florida",
+      "kind": "eat",
+      "locality": "Bogotá/La Candelaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Carrera 7 No. 21-46",
+      "price": "from COP$3,000",
+      "id": "colombia-16ed16885e0478978c10"
+    },
+    {
+      "name": "Melé",
+      "kind": "eat",
+      "locality": "Bogotá/La Candelaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Calle 11 No. 2-29",
+      "price": "COP$7,000",
+      "id": "colombia-82cab8349ea6efdd9108"
+    },
+    {
+      "name": "De Una Travel",
+      "kind": "eat",
+      "locality": "Bogotá/La Candelaria",
+      "lat": 4.5947,
+      "lon": -74.0716,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Calle 10 #2-18",
+      "price": "COP $15,000-21,000",
+      "url": "https://www.deunatravel.com/",
+      "id": "colombia-a1d8b14cce8c5d5fcfd0"
+    },
+    {
+      "name": "L'Jaim",
+      "kind": "eat",
+      "locality": "Bogotá/La Candelaria",
+      "lat": 4.5992,
+      "lon": -74.0698,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Cra. 3 No.12C-79",
+      "price": "COP $30,000",
+      "url": "https://restauranteisraeliljaim.com/",
+      "id": "colombia-888652a7ea8edd31d90d"
+    },
+    {
+      "name": "Mi Viejo",
+      "kind": "eat",
+      "locality": "Bogotá/La Candelaria",
+      "lat": 4.597,
+      "lon": -74.0747,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Cra. 6 #10-27",
+      "price": "COP $22,500-$44,000",
+      "id": "colombia-4d472fc9d25b7cf7adef"
+    },
+    {
+      "name": "Moros y Cristianos",
+      "kind": "eat",
+      "locality": "Bogotá/La Candelaria",
+      "lat": 4.5943,
+      "lon": -74.0755,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Cl 7 #5-30, Bogotá, Colombia",
+      "price": "COP $25,000+",
+      "id": "colombia-b06a0165cad7d55e4e10"
+    },
+    {
+      "name": "Gato Gris",
+      "kind": "eat",
+      "locality": "Bogotá/La Candelaria",
+      "lat": 4.596708,
+      "lon": -74.069264,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Kra 1A No 13-12",
+      "id": "colombia-9a745977cfb047cea702"
+    },
+    {
+      "name": "Anandamayi House",
+      "kind": "stay",
+      "locality": "Bogotá/La Candelaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Calle 9 No. 2-81",
+      "price": "US$9-14",
+      "url": "https://anandamayihouse.com/",
+      "id": "colombia-93f0951d8794326a2532"
+    },
+    {
+      "name": "The Cranky Croc",
+      "kind": "stay",
+      "locality": "Bogotá/La Candelaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Cl. 12d #3-46",
+      "price": "Dorm bed COP$65606, single with shared bath COP$80,000, double with bath COP$90,000",
+      "url": "https://www.facebook.com/Cranky-Croc-265331993512831/",
+      "id": "colombia-039fa83e361d943665ff"
+    },
+    {
+      "name": "Destino Nómada - dnhostels",
+      "kind": "stay",
+      "locality": "Bogotá/La Candelaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Calle 11 No. 1-38",
+      "price": "COP$25514 for dorm bed",
+      "url": "https://www.facebook.com/DNHostels-Destino-Nomada-97486964281/",
+      "id": "colombia-a68f541a6aa12f542075"
+    },
+    {
+      "name": "Hostal - Café CASU",
+      "kind": "stay",
+      "locality": "Bogotá/La Candelaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Calle 12D Bis #2-19, Piso 2",
+      "price": "COP$109344",
+      "url": "http://www.caciquesugamuxi.com/",
+      "id": "colombia-612edee3d03f684fc95e"
+    },
+    {
+      "name": "Hostal Colonial La Quinta",
+      "kind": "stay",
+      "locality": "Bogotá/La Candelaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Calle 13A No. 1-43",
+      "price": "COP$40093",
+      "id": "colombia-48e2b0334a5b7a4e440a"
+    },
+    {
+      "name": "Hostal Fatima",
+      "kind": "stay",
+      "locality": "Bogotá/La Candelaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Bogotá: Cra 4 # 12C-14",
+      "price": "Rates from COP$18,000",
+      "url": "https://www.facebook.com/fatimahostels/",
+      "id": "colombia-bcb24b8886e73199cb4d"
+    },
+    {
+      "name": "Swiss Hostal Martinik",
+      "kind": "stay",
+      "locality": "Bogotá/La Candelaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Cra. 4 #11-88",
+      "price": "COP$10,000-50,000",
+      "id": "colombia-e1834c67c9a851c4caca"
+    },
+    {
+      "name": "Hostal Sayta",
+      "kind": "stay",
+      "locality": "Bogotá/La Candelaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Calle 12B No. 0-57",
+      "price": "From COP$20,000 for a dorm bed and COP$48,000 for a private room",
+      "url": "https://www.facebook.com/SAYTAHOSTALBOGOTA/about/",
+      "id": "colombia-bfbfacd636f907799094"
+    },
+    {
+      "name": "Chocolate Hostel",
+      "kind": "stay",
+      "locality": "Bogotá/La Candelaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Cl. 12f #2-43",
+      "price": "COP$76541",
+      "url": "http://www.chocolatehostel.com/",
+      "id": "colombia-fe34ec2da3d8723506e0"
+    },
+    {
+      "name": "Hotel Aragon",
+      "kind": "stay",
+      "locality": "Bogotá/La Candelaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Esquina 13, Cra. 3 #12 C",
+      "price": "Single room COP$25,000 with shared bath, COP$40,000 for big double room",
+      "url": "https://www.facebook.com/Hotel.Aragon.en.Bogota/",
+      "id": "colombia-87aacca8dfc0b8907310"
+    },
+    {
+      "name": "Hotel Dorantes",
+      "kind": "stay",
+      "locality": "Bogotá/La Candelaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Calle 13 No. 5-7",
+      "price": "Huge double room COP$45,000",
+      "url": "https://www.facebook.com/Hotel-Dorantes-416474268713281/",
+      "id": "colombia-041ca775237a0bb3e1f6"
+    },
+    {
+      "name": "Hotel Internacional",
+      "kind": "stay",
+      "locality": "Bogotá/La Candelaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Carrera 5 No. 14-45",
+      "price": "Clean private rooms from COP$17,000",
+      "url": "https://www.hotelcentrointernacional.com/en-us",
+      "id": "colombia-eeadc824b1296acd005b"
+    },
+    {
+      "name": "Hotel Casa Deco",
+      "kind": "stay",
+      "locality": "Bogotá/La Candelaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Calle 14 No. 2-30",
+      "price": "Rooms COP$218,000",
+      "url": "http://www.hotelcasadeco.com/",
+      "id": "colombia-6e9161b8e4884ac03356"
+    },
+    {
+      "name": "Hotel Chorro de Quevedo",
+      "kind": "stay",
+      "locality": "Bogotá/La Candelaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Calle 13 b n. 1-53",
+      "url": "https://www.facebook.com/Bed-and-Breakfast-Chorro-De-Quevedo-145900168789953/",
+      "id": "colombia-c0782d50c4070f2f9d64"
+    },
+    {
+      "name": "Hotel San Sebastian",
+      "kind": "stay",
+      "locality": "Bogotá/La Candelaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "address": "Esquina con Carrera 3, Cra. 4 #3-37",
+      "id": "colombia-44a99f4248913851c07e"
+    },
+    {
+      "name": "Bogotá/La Candelaria",
+      "kind": "area",
+      "locality": "Bogotá/La Candelaria",
+      "lat": 4.5917222222222,
+      "lon": -74.074130555556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FLa_Candelaria",
+      "id": "colombia-8e3d38c5c1483b9c37f5"
+    },
+    {
+      "name": "Renata Tacos",
+      "kind": "eat",
+      "locality": "Bogotá/Zona Rosa",
+      "lat": 4.669707,
+      "lon": -74.054298,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FZona_Rosa",
+      "address": "Cra. 14 ##85-22",
+      "id": "colombia-3c42eb49d78472923c6d"
+    },
+    {
+      "name": "Ricombos",
+      "kind": "eat",
+      "locality": "Bogotá/Zona Rosa",
+      "lat": 4.6617884,
+      "lon": -74.0576051,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FZona_Rosa",
+      "address": "Cl. 76 ## 12-71",
+      "id": "colombia-09a3d1ed1d5f6df5e249"
+    },
+    {
+      "name": "Doña pizza punto y coma",
+      "kind": "eat",
+      "locality": "Bogotá/Zona Rosa",
+      "lat": 4.65992,
+      "lon": -74.060235,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FZona_Rosa",
+      "address": "Cl. 73 #14-04",
+      "id": "colombia-f46f730d7181900c67d9"
+    },
+    {
+      "name": "Probocaitos Calle 76",
+      "kind": "eat",
+      "locality": "Bogotá/Zona Rosa",
+      "lat": 4.6636644,
+      "lon": -74.0602843,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FZona_Rosa",
+      "address": "Cl. 76 #16a80 16a- a",
+      "id": "colombia-8bf4fc30675e9a9d8b39"
+    },
+    {
+      "name": "Albahaca y Limon Restaurante",
+      "kind": "eat",
+      "locality": "Bogotá/Zona Rosa",
+      "lat": 4.6637934,
+      "lon": -74.0571991,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FZona_Rosa",
+      "address": "Cra. 13a ##77a -21",
+      "id": "colombia-ad6a567969387d38470a"
+    },
+    {
+      "name": "Casa Mexicana",
+      "kind": "eat",
+      "locality": "Bogotá/Zona Rosa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FZona_Rosa",
+      "address": "Cra. 12a ##77-37",
+      "url": "http://www.casamexicanaexpress.com/",
+      "id": "colombia-33f9835ca11ec9ae4551"
+    },
+    {
+      "name": "Crepes Y Wafles",
+      "kind": "eat",
+      "locality": "Bogotá/Zona Rosa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FZona_Rosa",
+      "address": "a 83-99, Cra. 12a #831",
+      "url": "https://www.crepesywaffles.com/",
+      "id": "colombia-6042c658a347bd01d002"
+    },
+    {
+      "name": "Luna",
+      "kind": "eat",
+      "locality": "Bogotá/Zona Rosa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FZona_Rosa",
+      "address": "Cl. 83 #12-26",
+      "url": "http://www.restauranteluna.com.co/",
+      "id": "colombia-0f79cbe106f63551b6e0"
+    },
+    {
+      "name": "Andres D.C.",
+      "kind": "eat",
+      "locality": "Bogotá/Zona Rosa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FZona_Rosa",
+      "address": "Cl. 82 # 12 -21",
+      "url": "http://www.andrescarnederes.com/andres-dc",
+      "id": "colombia-38ba26d5ae8e7c9d0861"
+    },
+    {
+      "name": "Gnoveva",
+      "kind": "eat",
+      "locality": "Bogotá/Zona Rosa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FZona_Rosa",
+      "address": "Calle 84 Bis No 14A-08",
+      "url": "https://gnoveva.com/",
+      "id": "colombia-a2a2c73661fc13c1973d"
+    },
+    {
+      "name": "Kubiko Bar",
+      "kind": "eat",
+      "locality": "Bogotá/Zona Rosa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FZona_Rosa",
+      "address": "Carrera 12A No 83-49",
+      "id": "colombia-0a551bb2f78c6c90d1a3"
+    },
+    {
+      "name": "Chapinorte Hostel Bogota",
+      "kind": "stay",
+      "locality": "Bogotá/Zona Rosa",
+      "lat": 4.66504,
+      "lon": -74.057664,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FZona_Rosa",
+      "address": "calle 79 14-59 apt 301 & 402",
+      "id": "colombia-939b8fe091fe7ea7c141"
+    },
+    {
+      "name": "Hotel Bogotá Virrey",
+      "kind": "stay",
+      "locality": "Bogotá/Zona Rosa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FZona_Rosa",
+      "address": "Carrera 15 # 86B-38",
+      "url": "http://www.hotelbogotavirrey.com/",
+      "id": "colombia-ab6094a603a49693cfe5"
+    },
+    {
+      "name": "Hotel Confort 80",
+      "kind": "stay",
+      "locality": "Bogotá/Zona Rosa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FZona_Rosa",
+      "address": "Carrera 16A # 79-85",
+      "url": "http://www.hotelesconfort80.com/",
+      "id": "colombia-69020e59a260b57a697e"
+    },
+    {
+      "name": "Hotel Excelsior",
+      "kind": "stay",
+      "locality": "Bogotá/Zona Rosa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FZona_Rosa",
+      "address": "Carrera 14 # 86A-96",
+      "url": "http://www.hotelexcelsiorbogota.com/",
+      "id": "colombia-116daf749d0b9a139f9f"
+    },
+    {
+      "name": "Hotel Virrey Park",
+      "kind": "stay",
+      "locality": "Bogotá/Zona Rosa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FZona_Rosa",
+      "address": "Carrera 15 # 87-94",
+      "url": "http://www.hotelvirreypark.com/",
+      "id": "colombia-773ad1c8fb9febab541d"
+    },
+    {
+      "name": "Four Seasons Hotel Bogota",
+      "kind": "stay",
+      "locality": "Bogotá/Zona Rosa",
+      "lat": 4.669953,
+      "lon": -74.052916,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FZona_Rosa",
+      "address": "Cra. 13 #8546, Localidad de Chapinero",
+      "price": "US$500–800",
+      "url": "https://www.fourseasons.com/bogota/",
+      "id": "colombia-c447b28e2ebaed501199"
+    },
+    {
+      "name": "Sofitel Bogota Vitoria Regia",
+      "kind": "stay",
+      "locality": "Bogotá/Zona Rosa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FZona_Rosa",
+      "address": "Cra. 13 #85-80, Localidad de Chapinero",
+      "price": "Rates start at US$200 per night",
+      "url": "https://sofitelvictoriaregia.com/en/",
+      "id": "colombia-3b7e50b45e38523edaf5"
+    },
+    {
+      "name": "GHL Hotel Hamilton Bogota",
+      "kind": "stay",
+      "locality": "Bogotá/Zona Rosa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FZona_Rosa",
+      "address": "Cra. 14 # 81 - 20, Localidad de Chapinero",
+      "price": "Rates are usually around 100 US dollars",
+      "url": "https://en.ghlcollectionhamilton.com/",
+      "id": "colombia-5db7934fc121f1ad8c2d"
+    },
+    {
+      "name": "GHL Hotel Bioxury",
+      "kind": "stay",
+      "locality": "Bogotá/Zona Rosa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FZona_Rosa",
+      "address": "Calle 83 No. 9 – 48",
+      "price": "US$150",
+      "url": "https://en.bioxury.com/",
+      "id": "colombia-89afcdfaf7a6fd67e461"
+    },
+    {
+      "name": "Hotel B3 Virrey",
+      "kind": "stay",
+      "locality": "Bogotá/Zona Rosa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FZona_Rosa",
+      "address": ": Cra. 15 #88-36, Parque del Virrey",
+      "price": "Prices are usually around US$100",
+      "url": "https://hotelesb3.com/en/home/",
+      "id": "colombia-6389b4732d2882d0cfaa"
+    },
+    {
+      "name": "84DC Hotel",
+      "kind": "stay",
+      "locality": "Bogotá/Zona Rosa",
+      "lat": 4.666158,
+      "lon": -74.049848,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FZona_Rosa",
+      "address": "Calle 84 No 9-67, Barrio la Cabrera",
+      "url": "http://www.84dc.com.co/",
+      "id": "colombia-85bab87979646be85f43"
+    },
+    {
+      "name": "Cabrera Imperial",
+      "kind": "stay",
+      "locality": "Bogotá/Zona Rosa",
+      "lat": 4.665952,
+      "lon": -74.050722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FZona_Rosa",
+      "address": "Calle 83 9-64",
+      "price": "Rates start at COP$537,600",
+      "url": "https://www.facebook.com/Hotel-Cabrera-Imperial-353698178043041/",
+      "id": "colombia-e1997913fa82c7d669a6"
+    },
+    {
+      "name": "Four Seasons Hotel Bogota",
+      "kind": "stay",
+      "locality": "Bogotá/Zona Rosa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FZona_Rosa",
+      "address": "Cra. 13 #8546, Localidad de Chapinero",
+      "price": "US$500",
+      "url": "https://www.fourseasons.com/bogota/",
+      "id": "colombia-02e4df74204b372a2118"
+    },
+    {
+      "name": "Bogotá/Zona Rosa",
+      "kind": "area",
+      "locality": "Bogotá/Zona Rosa",
+      "lat": 4.665,
+      "lon": -74.054,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FZona_Rosa",
+      "id": "colombia-9735c4731cbdfd59b5dd"
+    },
+    {
+      "name": "Jardín Botánico José Celestino Mutis",
+      "kind": "do",
+      "locality": "Bogotá/Teusaquillo-Salitre",
+      "lat": 4.668177,
+      "lon": -74.099676,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FTeusaquillo-Salitre",
+      "address": "Calle 63 No 68-95",
+      "price": "2,000 COP",
+      "url": "http://www.jbb.gov.co/",
+      "id": "colombia-f262737b01be9b42dde8"
+    },
+    {
+      "name": "Maloka",
+      "kind": "do",
+      "locality": "Bogotá/Teusaquillo-Salitre",
+      "lat": 4.65538,
+      "lon": -74.1095,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FTeusaquillo-Salitre",
+      "address": "Cra 68D No 24A-51",
+      "price": "Interactive exhibitions : 9,000 COP / Dome theater : 11,000 COP",
+      "url": "http://www.maloka.org/",
+      "id": "colombia-a91111aa76697b448f59"
+    },
+    {
+      "name": "Salitre Magico",
+      "kind": "do",
+      "locality": "Bogotá/Teusaquillo-Salitre",
+      "lat": 4.668179,
+      "lon": -74.09096,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FTeusaquillo-Salitre",
+      "url": "https://www.salitremagico.com.co/",
+      "id": "colombia-868640fc8bdae3c87c8a"
+    },
+    {
+      "name": "Movistar Arena Bogota",
+      "kind": "do",
+      "locality": "Bogotá/Teusaquillo-Salitre",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FTeusaquillo-Salitre",
+      "address": "Diagonal. 61c #26-36, Teusaquillo",
+      "url": "https://movistararena.co/",
+      "id": "colombia-a0537ea611819660878a"
+    },
+    {
+      "name": "National Geological Museum",
+      "kind": "do",
+      "locality": "Bogotá/Teusaquillo-Salitre",
+      "lat": 4.64119,
+      "lon": -74.0798,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FTeusaquillo-Salitre",
+      "address": "Diagonal 53 #34-53",
+      "url": "https://www2.sgc.gov.co/museo-geologico/Paginas/museo-geologico-nacional-jrg.aspx",
+      "id": "colombia-bb7eb490552b3454c8a0"
+    },
+    {
+      "name": "Museum of Natural History",
+      "kind": "do",
+      "locality": "Bogotá/Teusaquillo-Salitre",
+      "lat": 4.6423,
+      "lon": -74.0817,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FTeusaquillo-Salitre",
+      "address": "Cra 30 #45-03",
+      "price": "General public: COP $6700. Under 3 or over 60: free",
+      "url": "http://www.historianatural.unal.edu.co/",
+      "id": "colombia-4464aede3414e9eb403e"
+    },
+    {
+      "name": "street food with delicious burritos and arepas",
+      "kind": "eat",
+      "locality": "Bogotá/Teusaquillo-Salitre",
+      "lat": 4.6325899,
+      "lon": -74.0687808,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FTeusaquillo-Salitre",
+      "address": "at Cl. 45 #15-19",
+      "id": "colombia-410330157e732d935c39"
+    },
+    {
+      "name": "La Playa Hotel Fusión II",
+      "kind": "stay",
+      "locality": "Bogotá/Teusaquillo-Salitre",
+      "lat": 4.6221,
+      "lon": -74.0738,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FTeusaquillo-Salitre",
+      "address": "Ak. 19 #33-04 Teusaquillo",
+      "url": "https://laplayahostel.com/",
+      "id": "colombia-f8232df37317e7c25dd1"
+    },
+    {
+      "name": "Hotel Park Way",
+      "kind": "stay",
+      "locality": "Bogotá/Teusaquillo-Salitre",
+      "lat": 4.6298,
+      "lon": -74.0748,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FTeusaquillo-Salitre",
+      "address": "Av. Carrera. 24 No. 39 B-32 La Soledad",
+      "url": "http://www.hotelparkway.com.co/",
+      "id": "colombia-24086405859bcd1494c9"
+    },
+    {
+      "name": "Hotel Santafe Real",
+      "kind": "stay",
+      "locality": "Bogotá/Teusaquillo-Salitre",
+      "lat": 4.6311,
+      "lon": -74.0934,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FTeusaquillo-Salitre",
+      "address": "Avenida Esperanza 40-31",
+      "price": "Room rates start at COP$142,000",
+      "url": "http://www.hotelsantafereal.com/",
+      "id": "colombia-d262f28358760ae9f467"
+    },
+    {
+      "name": "Bogota Marriott Hotel",
+      "kind": "stay",
+      "locality": "Bogotá/Teusaquillo-Salitre",
+      "lat": 4.6592,
+      "lon": -74.1086,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FTeusaquillo-Salitre",
+      "address": "Av. El Dorado n.º 69b - 53",
+      "price": "Prices range between US$200-800",
+      "url": "https://www.marriott.com/hotels/travel/bogmc-bogota-marriott-hotel/",
+      "id": "colombia-af3c5d984fd1194bbe2c"
+    },
+    {
+      "name": "Grand Hyatt Hotel Bogota",
+      "kind": "stay",
+      "locality": "Bogotá/Teusaquillo-Salitre",
+      "lat": 4.6441,
+      "lon": -74.1,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FTeusaquillo-Salitre",
+      "address": "Calle 24 A # 57 – 60",
+      "price": "US$400",
+      "url": "https://www.hyatt.com/en-US/hotel/colombia/grand-hyatt-bogota/boggh",
+      "id": "colombia-790ed626951bd0d67077"
+    },
+    {
+      "name": "Bogota Sheraton Hotel",
+      "kind": "stay",
+      "locality": "Bogotá/Teusaquillo-Salitre",
+      "lat": 4.6601,
+      "lon": -74.1091,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FTeusaquillo-Salitre",
+      "price": "US$150",
+      "id": "colombia-1e98567a70fa2e74fd5e"
+    },
+    {
+      "name": "Hilton Bogota Corferias",
+      "kind": "stay",
+      "locality": "Bogotá/Teusaquillo-Salitre",
+      "lat": 4.6289,
+      "lon": -74.0903,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FTeusaquillo-Salitre",
+      "address": "Cra. 37 #24 29, Teusaquillo",
+      "url": "https://www.guestreservations.com/hilton-bogota-corferias/booking",
+      "id": "colombia-9b78c2c2f986e9a4cf71"
+    },
+    {
+      "name": "DoubleTree by Hilton Bogota Salitre",
+      "kind": "stay",
+      "locality": "Bogotá/Teusaquillo-Salitre",
+      "lat": 4.6415,
+      "lon": -74.105,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FTeusaquillo-Salitre",
+      "address": "No. 22-99, Ave. Carrera 60",
+      "price": "Price is usually US$90–150",
+      "url": "https://www.hilton.com/en/hotels/bogdtdt-doubletree-bogota-salitre-ar/",
+      "id": "colombia-76f89b4cf0ae5efee531"
+    },
+    {
+      "name": "Bogotá/Teusaquillo-Salitre",
+      "kind": "area",
+      "locality": "Bogotá/Teusaquillo-Salitre",
+      "lat": 4.662,
+      "lon": -74.092,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bogot%C3%A1%2FTeusaquillo-Salitre",
+      "id": "colombia-fa4a3b852b1780e29ccc"
+    },
+    {
+      "name": "Plaza de los Coches",
+      "kind": "do",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42316,
+      "lon": -75.54927,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "id": "colombia-47be5b6578e568ebb115"
+    },
+    {
+      "name": "Plaza de la Aduana",
+      "kind": "do",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42221,
+      "lon": -75.55026,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "id": "colombia-9d77109a5e1d8dfa456d"
+    },
+    {
+      "name": "Convento & Iglesia de San Pedro Claver",
+      "kind": "do",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42168,
+      "lon": -75.55104,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Plaza de San Pedro Claver",
+      "price": "COP$6,000",
+      "id": "colombia-2c63cbfad91775cebcff"
+    },
+    {
+      "name": "Museo Naval del Caribe",
+      "kind": "do",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42169,
+      "lon": -75.55173,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle San Juan de Dios No 3-62",
+      "price": "COP$6,000",
+      "id": "colombia-baf433691cf843dac03f"
+    },
+    {
+      "name": "Plaza de Bolívar",
+      "kind": "do",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42326,
+      "lon": -75.55122,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "id": "colombia-bd839796d1f6ccd6a204"
+    },
+    {
+      "name": "Palacio de la Inquisición",
+      "kind": "do",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42323,
+      "lon": -75.55158,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Plaza de Bolívar",
+      "price": "COP$17,000. A tourist guide, in English, can be purchased for COP$15,000.",
+      "id": "colombia-301a107087a747d3267f"
+    },
+    {
+      "name": "Museo del Oro y Arqueología",
+      "kind": "do",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42307,
+      "lon": -75.55082,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Plaza de Bolívar",
+      "price": "Free",
+      "id": "colombia-fc069a4d7c09b66ed614"
+    },
+    {
+      "name": "Catedral de Santa Catalina",
+      "kind": "do",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42367,
+      "lon": -75.55068,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "price": "COP$10,000",
+      "id": "colombia-b38fc52bc60ed0a74e9b"
+    },
+    {
+      "name": "Iglesia de Santo Domingo",
+      "kind": "do",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42421,
+      "lon": -75.55226,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Plaza de Santo Domingo",
+      "price": "COP$10,000",
+      "id": "colombia-ac9efec5a360388aebc2"
+    },
+    {
+      "name": "Casa de Rafael Núñez",
+      "kind": "do",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.43122,
+      "lon": -75.5441,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "price": "COP$4,000",
+      "id": "colombia-ca8c7d13ffbfafc6ee9d"
+    },
+    {
+      "name": "Monumento a la India Catalina",
+      "kind": "do",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42642,
+      "lon": -75.54371,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "id": "colombia-95f33abb5a249c9940f6"
+    },
+    {
+      "name": "Castillo de San Felipe",
+      "kind": "do",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42273,
+      "lon": -75.53908,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "price": "COP$30,000 (foreigner). Audio guide COP$10,000",
+      "id": "colombia-f0462ad6e01e0d2fe2be"
+    },
+    {
+      "name": "La Popa",
+      "kind": "do",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.41918,
+      "lon": -75.52554,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "id": "colombia-b23d29f06b9c893a72a3"
+    },
+    {
+      "name": "Chiva Bus",
+      "kind": "do",
+      "locality": "Cartagena (Colombia)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "price": "Prices range from COP$18,000-25,000 depending on tour",
+      "id": "colombia-f19ca3eff0d6989235e6"
+    },
+    {
+      "name": "Latin Dance Lessons",
+      "kind": "do",
+      "locality": "Cartagena (Colombia)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "id": "colombia-88b5f0e5cb6990389673"
+    },
+    {
+      "name": "Spanish Classes",
+      "kind": "do",
+      "locality": "Cartagena (Colombia)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "url": "http://www.babelschoolcartagena.com/",
+      "id": "colombia-809f0eee09b6689c6d92"
+    },
+    {
+      "name": "Casa Cultural Colombo Alemana de Cartagena",
+      "kind": "do",
+      "locality": "Cartagena (Colombia)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle 38 No. 5 - 31, Calle Estanco del Aguardiente",
+      "url": "http://colomboalemana.com.co/",
+      "id": "colombia-14476b1f549681d4ff86"
+    },
+    {
+      "name": "Nueva Lengua",
+      "kind": "do",
+      "locality": "Cartagena (Colombia)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle del Pozo No 25-95",
+      "url": "http://www.nuevalengua.com/",
+      "id": "colombia-42135ac53f125d7e838c"
+    },
+    {
+      "name": "Raíces: Spanish & Culture",
+      "kind": "do",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42027,
+      "lon": -75.54532,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Getsemaní. Del Pozo Street. N° 28-24 Oficna 102.",
+      "url": "http://www.raicesspanish.com/",
+      "id": "colombia-9139846348c1090ba322"
+    },
+    {
+      "name": "Playa Blanca",
+      "kind": "do",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.218,
+      "lon": -75.6125,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "id": "colombia-604f27281935ba5f10a2"
+    },
+    {
+      "name": "Bay of Cholon",
+      "kind": "do",
+      "locality": "Cartagena (Colombia)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "id": "colombia-f225e5a25f0872c4e579"
+    },
+    {
+      "name": "Islas del Rosario",
+      "kind": "do",
+      "locality": "Cartagena (Colombia)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "id": "colombia-07cfde1bb2c822fd72cd"
+    },
+    {
+      "name": "Festival lnternacional de Música",
+      "kind": "do",
+      "locality": "Cartagena (Colombia)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "url": "http://www.cartagenamusicfestival.com/",
+      "id": "colombia-c366fb2c9d658b9a53a6"
+    },
+    {
+      "name": "Hay Festival",
+      "kind": "do",
+      "locality": "Cartagena (Colombia)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "url": "http://www.hayfestival.com/",
+      "id": "colombia-b158711fc55e60165ac4"
+    },
+    {
+      "name": "Fiesta de Nuestra Señora de La Candelaria",
+      "kind": "do",
+      "locality": "Cartagena (Colombia)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "id": "colombia-64a33116e78e4db36b5a"
+    },
+    {
+      "name": "Festival lnternacional de Cine de Cartagena de Indias",
+      "kind": "do",
+      "locality": "Cartagena (Colombia)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "url": "http://www.ficcifestival.com/",
+      "id": "colombia-5b98d997e0300b673a5a"
+    },
+    {
+      "name": "Fiesta de la Independencia de Cartagena",
+      "kind": "do",
+      "locality": "Cartagena (Colombia)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "id": "colombia-e772c6b8abbaf03847d6"
+    },
+    {
+      "name": "Torre Fuerte",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.4239892,
+      "lon": -75.5491715,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Cra. 7 #34-66",
+      "id": "colombia-8c645246146a6fd65bab"
+    },
+    {
+      "name": "Restaurante Espiritu Santo",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.424864,
+      "lon": -75.5495503,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Cl. 35 #6-69",
+      "id": "colombia-c5ad0cbac061aae604f2"
+    },
+    {
+      "name": "Punto Tropical",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.4252738,
+      "lon": -75.5505937,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Cra. 5 #Cl 36 17",
+      "id": "colombia-99cd1bee7ea46702a762"
+    },
+    {
+      "name": "Restaurante 1595",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.4255452,
+      "lon": -75.5475333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Cl. 36 #7-122",
+      "id": "colombia-27c99648ce14fae1187c"
+    },
+    {
+      "name": "Pollo tropical",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.4236436,
+      "lon": -75.5466978,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Cl. 32 #8A-29",
+      "id": "colombia-bb0c699a8f863dbe3250"
+    },
+    {
+      "name": "La Tertulia Restaurante-Bar",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.419093,
+      "lon": -75.546553,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "a 10-99, Cl. 25 #103",
+      "id": "colombia-86aea81cd18f3bc9d660"
+    },
+    {
+      "name": "Crepes & Waffles",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "price": "dishes around COP$25,000",
+      "url": "http://crepesywaffles.com.co/",
+      "id": "colombia-654894dd139680c9beae"
+    },
+    {
+      "name": "El Corral",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42177,
+      "lon": -75.55065,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "price": "Good quality hamburgers for COP$10,000-15,000 for a combo.",
+      "url": "http://www.elcorral.com/",
+      "id": "colombia-0c7ae5362a6baed996d5"
+    },
+    {
+      "name": "Atahualpa",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42615,
+      "lon": -75.54852,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Carrera 7",
+      "price": "Set dinner soup, main and juice for COP$12,000",
+      "id": "colombia-b4bfdf77a97802b767a7"
+    },
+    {
+      "name": "Juan Valdez University Square",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.4252557,
+      "lon": -75.5494511,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Cl. 36",
+      "id": "colombia-c55911f29c134ed7e845"
+    },
+    {
+      "name": "La Cevicheria",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42796,
+      "lon": -75.54818,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle Stuart 7",
+      "price": "around COP$25,000 a dish",
+      "url": "http://lacevicheriacartagena.com/en/",
+      "id": "colombia-25dca4450902cbcab207"
+    },
+    {
+      "name": "La Vitrola",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42349,
+      "lon": -75.55308,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle Baloco no. 33-201",
+      "url": "https://www.facebook.com/pages/La-Vitrola/121643297906535",
+      "id": "colombia-a993651b051faf08f0c4"
+    },
+    {
+      "name": "Restaurante Bar El Muelle",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.39691,
+      "lon": -75.56428,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Carrere 1 ra. No. 1A - 23",
+      "url": "http://restaurantebarelmuelle.com/",
+      "id": "colombia-b3d2bf7395b8cea21af9"
+    },
+    {
+      "name": "La Mulata",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.4262,
+      "lon": -75.5467,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle Quero 9-58",
+      "price": "mains COP$20,000-30,000",
+      "id": "colombia-3a245a9c4680ec7b49e9"
+    },
+    {
+      "name": "Otro Mundo",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42409,
+      "lon": -75.54861,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle San Agustin 6-68",
+      "price": "Croatian Cevapcici COP$18,000; Pasta frutos del mar $20,000; small pizza from $12,000, medium $25,000, large $35,000.",
+      "id": "colombia-7399230829db2cb32fb4"
+    },
+    {
+      "name": "El Balcón",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42791,
+      "lon": -75.54756,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle Tumbamuertos No. 28-85 2do. piso Esquina",
+      "price": "About COP$45,000 with drink",
+      "id": "colombia-383865924bf09c771bbd"
+    },
+    {
+      "name": "Restaurante La Casa de Socorro",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42029,
+      "lon": -75.5478,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Cl. Larga No. 8B-112",
+      "price": "COP$20,000-40,000",
+      "url": "https://www.facebook.com/pages/Restaurante-La-Casa-De-Socorro/282346761814061",
+      "id": "colombia-9a1ce712b5bf68ea3d2a"
+    },
+    {
+      "name": "Teriyaki",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42787,
+      "lon": -75.54744,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Plaza San Diego No. 8-28",
+      "price": "COP$10,000-30,000",
+      "url": "http://www.teriyaki.com.co/",
+      "id": "colombia-d791e57981a603c813cd"
+    },
+    {
+      "name": "Restaurante Zebra",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42789,
+      "lon": -75.54752,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Plaza San Diego No.8-34",
+      "id": "colombia-73715a0f636b011e0ddb"
+    },
+    {
+      "name": "Club de Pesca",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.41427,
+      "lon": -75.54428,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Avenida Miramar",
+      "price": "Mains COP$40,000-60,000",
+      "url": "http://www.clubdepesca.com/#1",
+      "id": "colombia-aa0d8759d14f87e92388"
+    },
+    {
+      "name": "Donde Olano",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42364,
+      "lon": -75.55223,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle Santo Domingo #33 - 81",
+      "price": "Mains COP$30,000-70,000, but does have some more affordable alternatives",
+      "url": "http://www.dondeolano.com/",
+      "id": "colombia-61b818edf565cb5095c0"
+    },
+    {
+      "name": "Quebracho",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42314,
+      "lon": -75.55258,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle Baloco 2-69",
+      "price": "Dishes around COP$55,000",
+      "id": "colombia-fb1ac0a2a9647e812e37"
+    },
+    {
+      "name": "Cafe El Santisimo",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42674,
+      "lon": -75.54748,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle del Torno 39 - 76",
+      "price": "Dishes around COP$50,000",
+      "url": "http://www.elsantisimo.com/",
+      "id": "colombia-179f8085566c31cc17e3"
+    },
+    {
+      "name": "Gelateria Paradiso",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.4252,
+      "lon": -75.55064,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "price": "COP$4,000 for small cup, $6,000 for medium",
+      "id": "colombia-8c3471038d38f4149f64"
+    },
+    {
+      "name": "Abaco",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42493,
+      "lon": -75.55137,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle de la Mantilla",
+      "price": "Hot beverage and cake around COP$9000",
+      "url": "http://www.abacolibros.com/menu/",
+      "id": "colombia-fbad11415949aabaf049"
+    },
+    {
+      "name": "La Avenida del Arsenal",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.41897,
+      "lon": -75.54717,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "id": "colombia-218ac0fcd502bf6b9eb5"
+    },
+    {
+      "name": "Mister Babilla",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.4199,
+      "lon": -75.5479,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "id": "colombia-7cd41db010f99c975a34"
+    },
+    {
+      "name": "Cafe del Mar",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42446,
+      "lon": -75.55408,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Baluarte de Santo Domingo",
+      "id": "colombia-b02804e284c95d9f5a85"
+    },
+    {
+      "name": "Salsa Donde Fidel",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42256,
+      "lon": -75.5499,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Plaza de la Aduana",
+      "id": "colombia-3ae9882bb87d51fe965d"
+    },
+    {
+      "name": "Otro Mundo",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.4251,
+      "lon": -75.54912,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle San Agustin 6-68",
+      "id": "colombia-b1a57af22874063778b2"
+    },
+    {
+      "name": "Zorba Wiskeria",
+      "kind": "eat",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42649,
+      "lon": -75.54824,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Plaza Fernandez de Madrid",
+      "id": "colombia-0238aa736e69e9d4cc97"
+    },
+    {
+      "name": "Casa Viena",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42277,
+      "lon": -75.54561,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle San Andrés No 30-53",
+      "price": "Dorms from COP$26,000, rooms from COP$35,000",
+      "url": "http://www.casaviena.com/",
+      "id": "colombia-78e8523960b18c6d52d6"
+    },
+    {
+      "name": "Hostal Real",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42303,
+      "lon": -75.54589,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle De La Magdalena No. 9-33",
+      "price": "dorms beds from COP$21,000, rooms from $40,000",
+      "id": "colombia-67ae6c8f370d93ec9a59"
+    },
+    {
+      "name": "Hotel Familiar",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42157,
+      "lon": -75.54552,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle El Guerrero No. 29-66",
+      "price": "Rooms are bright and clean and prices start from COP$18,000 per person",
+      "id": "colombia-a18bda25dd050613cc91"
+    },
+    {
+      "name": "Hotel Villa Colonial",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42308,
+      "lon": -75.54416,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle del las Maravillas No.30-60",
+      "price": "Doubles from COP$60,000",
+      "url": "http://hotelvillacolonial.com/",
+      "id": "colombia-c7a4ac962cc4d8422096"
+    },
+    {
+      "name": "Hostal La Casona",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42351,
+      "lon": -75.54571,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle Tripita y Media - Cra. 0 No. 31-32",
+      "price": "Air-conditioned rooms with cable TV and a private bathroom from COP$65,000",
+      "url": "http://www.hostallacasonacartagena.com.co/",
+      "id": "colombia-cb3cc78e6138040246f4"
+    },
+    {
+      "name": "Hotel Marlin",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42246,
+      "lon": -75.54503,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle de la Media Luna, Calle 35 No. 10–35",
+      "price": "From COP$75,000",
+      "id": "colombia-e9ebf443bd095ccd028b"
+    },
+    {
+      "name": "Hotel La Muralla",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42237,
+      "lon": -75.54465,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle de Media Luna",
+      "price": "From COP$65,000",
+      "url": "https://www.facebook.com/Hostal-la-Muralla-652806774745283/timeline/",
+      "id": "colombia-fb1fcc106bc92bfa4b8a"
+    },
+    {
+      "name": "Amber Hostel",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42318,
+      "lon": -75.54479,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle Pacoa N° 10-103",
+      "price": "dorm beds from COP$15,000, rooms from COP$40,000",
+      "url": "http://amberhostelcartagena.blogspot.com/",
+      "id": "colombia-54d84e893708ba9e8a6b"
+    },
+    {
+      "name": "Hotel La Espanola",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.4223,
+      "lon": -75.54473,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Media Luna 10 #10-58",
+      "price": "From COP$75,000",
+      "url": "http://www.hotelespanola.com/",
+      "id": "colombia-8e20c76eb4302a09b93c"
+    },
+    {
+      "name": "Hostel Mamallena",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.4225,
+      "lon": -75.54488,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle Media Luna",
+      "url": "http://www.hostelmamallenacartagena.com/",
+      "id": "colombia-b9787351958911e0dc34"
+    },
+    {
+      "name": "Hotel El Viajero",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42506,
+      "lon": -75.54934,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle del Porvenir No 35-68",
+      "price": "Without A/C: sgl COP$40,000, dbl $60,000, with A/C: sgl $50,000, dbl $70,000",
+      "url": "http://www.hotelelviajero.com/",
+      "id": "colombia-a0638e7c08444fb0b7dd"
+    },
+    {
+      "name": "Hotel Bellavista",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.4346,
+      "lon": -75.5391,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Av. Santander No. 46-50",
+      "price": "Without A/C: sgl COP$40,000, dbl $70,000, with A/C: sgl $60,000, dbl $80,000",
+      "url": "http://www.htbellavista.com/",
+      "id": "colombia-5d7e5dde12406918ac2c"
+    },
+    {
+      "name": "Hotel Cartagena Premium",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.4086,
+      "lon": -75.5511,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Bocagrande Av. San Martín No. 11-113",
+      "price": "From COP$145,000",
+      "id": "colombia-180cc173f3b3c06c438b"
+    },
+    {
+      "name": "Casa India Catalina",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42337,
+      "lon": -75.54981,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle del Coliseo No 5-67",
+      "price": "From COP$246,000",
+      "url": "http://www.hotelcasaindiacatalina.com/",
+      "id": "colombia-7bedd0f03c988f8abc49"
+    },
+    {
+      "name": "Casa Mara Hostal",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42165,
+      "lon": -75.54447,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle del Espiritu Santo No 29-139",
+      "url": "http://casamara.com.co/",
+      "id": "colombia-b2543dd6bb984f69523e"
+    },
+    {
+      "name": "Vista Heroica",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.3806,
+      "lon": -75.5752,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Isla de Tierra Bomba",
+      "price": "COP$100,000",
+      "id": "colombia-dfcc36499d22ae9f613b"
+    },
+    {
+      "name": "Hotel Bahia",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.3973,
+      "lon": -75.5586,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Cra 4a-Calle 4a",
+      "price": "From COP$176,000",
+      "url": "http://www.hotelbahiacartagena.com/en/",
+      "id": "colombia-b66dcbeeca6672eefe24"
+    },
+    {
+      "name": "Hotel 3 Banderas",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42689,
+      "lon": -75.5481,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle Cochera del Hobo #38-66",
+      "price": "From COP$200,000",
+      "url": "http://www.hotel3banderas.com/",
+      "id": "colombia-e213235f77ea4c1fd752"
+    },
+    {
+      "name": "Charleston Santa Teresa Cartagena",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.4221,
+      "lon": -75.55265,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Centro plaza de Santa Teresa Cra 3ª 31-23",
+      "price": "From COP$795,000",
+      "url": "http://www.hotelcharlestonsantateresa.com/",
+      "id": "colombia-e9244d2821f693313250"
+    },
+    {
+      "name": "La Passion Hotel Lounge",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42435,
+      "lon": -75.55036,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle del Estanco del tabaco # 38-81",
+      "price": "From COP$617,000",
+      "url": "http://www.lapassionhotel.com/",
+      "id": "colombia-43127e8684007315b3ae"
+    },
+    {
+      "name": "Hotel Ibatama and Hotel Ibatama Real",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.40258,
+      "lon": -75.55536,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Avenida San Martin 7",
+      "url": "http://hotelesibatama.com.co/index.html",
+      "id": "colombia-bd4c550b2a7f231c1230"
+    },
+    {
+      "name": "Casa Marta Cartagena",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.41994,
+      "lon": -75.54618,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle San Antonio # 25-165",
+      "price": "From US$125",
+      "url": "http://www.casamartacartagena.com/",
+      "id": "colombia-81ac9f5d168269c8b472"
+    },
+    {
+      "name": "Hotel Casa del Curato",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.4277,
+      "lon": -75.54839,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle del Curato Cra. 7 Nº 38-89",
+      "price": "From COP$250,000 (low season), COP$270,000 (high season)",
+      "url": "http://www.casacurato.com/",
+      "id": "colombia-05cf37b4864e932d14ce"
+    },
+    {
+      "name": "Hotel Cochera de Hobo",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42733,
+      "lon": -75.548,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle Cochera de Hobo No. 38-55",
+      "price": "From US$90",
+      "id": "colombia-5fe981f035f2101d889e"
+    },
+    {
+      "name": "Hilton Cartagena",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.39399,
+      "lon": -75.55963,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Avenida Almirante Brion",
+      "price": "From US$129",
+      "url": "https://www3.hilton.com/en/hotels/colombia/hilton-cartagena-hotel-CTGHIHH/index.html",
+      "id": "colombia-a9018387edf57b91d6dd"
+    },
+    {
+      "name": "Agua",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42409,
+      "lon": -75.55074,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle Ayos, No 4-29",
+      "url": "http://www.hotelagua.com.co/",
+      "id": "colombia-98296aa7992e137c2d88"
+    },
+    {
+      "name": "Hotel Alfiz",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42331,
+      "lon": -75.54986,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle Cochera del Gobernador, No 33-28",
+      "price": "From COP$550,000",
+      "url": "http://www.alfizhotel.com/",
+      "id": "colombia-9522de268b8a2134a7e3"
+    },
+    {
+      "name": "Hotel Casa la Fe",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42607,
+      "lon": -75.54833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle segunda de badillo #36-125",
+      "price": "From COP$265,000",
+      "url": "http://www.casalafe.com/",
+      "id": "colombia-6c362859f1fde72d2a7c"
+    },
+    {
+      "name": "Hotel Sofitel Santa Clara",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.4285,
+      "lon": -75.54799,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Cr 8 No 39-29, Calle del Tomo",
+      "price": "From COP$720,000",
+      "url": "https://all.accor.com/hotel/1871/index.en.shtml",
+      "id": "colombia-a8d15f45a0cebf35b502"
+    },
+    {
+      "name": "La Merced Hotel",
+      "kind": "stay",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.42641,
+      "lon": -75.55124,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "address": "Calle Don Sancho No 36-165 / Cra. 4",
+      "price": "from US$249",
+      "id": "colombia-c448c1681c8eb95c3e5c"
+    },
+    {
+      "name": "Cartagena (Colombia)",
+      "kind": "area",
+      "locality": "Cartagena (Colombia)",
+      "lat": 10.4,
+      "lon": -75.5,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cartagena_(Colombia)",
+      "id": "colombia-e33ada3eab1915f68fac"
+    }
+  ],
+  "status": "partial",
+  "note": "Fetched 9 distinct public Wikivoyage source pages; attempted 9 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Coverage cap: Bogotá: 4 additional linked subpages not fetched. Destination article routing (regional/landmark guides may use a nearby gateway): Cartagena → Cartagena (Colombia)."
+}

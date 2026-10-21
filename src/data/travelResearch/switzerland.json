@@ -1,0 +1,2362 @@
+{
+  "sources": [
+    {
+      "title": "Switzerland",
+      "url": "https://en.wikivoyage.org/wiki/Switzerland",
+      "checkedAt": "2026-10-21T08:00:13.444Z"
+    },
+    {
+      "title": "Bern",
+      "url": "https://en.wikivoyage.org/wiki/Bern",
+      "checkedAt": "2026-10-21T08:00:15.421Z"
+    },
+    {
+      "title": "Swiss Alps",
+      "url": "https://en.wikivoyage.org/wiki/Swiss_Alps",
+      "checkedAt": "2026-10-21T08:00:18.222Z"
+    },
+    {
+      "title": "Zurich",
+      "url": "https://en.wikivoyage.org/wiki/Zurich",
+      "checkedAt": "2026-10-21T08:00:21.776Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Bern",
+      "kind": "area",
+      "locality": "Switzerland",
+      "lat": 46.94723,
+      "lon": 7.45118,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Switzerland",
+      "id": "switzerland-49f7f4ef8b5871cf4597"
+    },
+    {
+      "name": "Basel",
+      "kind": "area",
+      "locality": "Switzerland",
+      "lat": 47.55635,
+      "lon": 7.59192,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Switzerland",
+      "id": "switzerland-108d45f07ef2c23f40d0"
+    },
+    {
+      "name": "Geneva",
+      "kind": "area",
+      "locality": "Switzerland",
+      "lat": 46.20117,
+      "lon": 6.14881,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Switzerland",
+      "id": "switzerland-cc9dad988d355ff8630e"
+    },
+    {
+      "name": "Interlaken",
+      "kind": "area",
+      "locality": "Switzerland",
+      "lat": 46.68756,
+      "lon": 7.86434,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Switzerland",
+      "id": "switzerland-bec318e18416f63a7ab3"
+    },
+    {
+      "name": "Lausanne",
+      "kind": "area",
+      "locality": "Switzerland",
+      "lat": 46.52242,
+      "lon": 6.63574,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Switzerland",
+      "id": "switzerland-65204e00cb338ae15688"
+    },
+    {
+      "name": "Lucerne",
+      "kind": "area",
+      "locality": "Switzerland",
+      "lat": 47.05259,
+      "lon": 8.30801,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Switzerland",
+      "id": "switzerland-525bc0a3ba8b73859715"
+    },
+    {
+      "name": "Lugano",
+      "kind": "area",
+      "locality": "Switzerland",
+      "lat": 46.00471,
+      "lon": 8.94848,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Switzerland",
+      "id": "switzerland-bfaed687ed60dd02a7fc"
+    },
+    {
+      "name": "Saint Gallen",
+      "kind": "area",
+      "locality": "Switzerland",
+      "lat": 47.42338,
+      "lon": 9.37731,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Switzerland",
+      "id": "switzerland-9daea87425f86782326f"
+    },
+    {
+      "name": "Zurich",
+      "kind": "area",
+      "locality": "Switzerland",
+      "lat": 47.37028,
+      "lon": 8.54383,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Switzerland",
+      "id": "switzerland-c6bff71ada5d0e96d56d"
+    },
+    {
+      "name": "Château Chillon",
+      "kind": "do",
+      "locality": "Switzerland",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Switzerland",
+      "id": "switzerland-0485710a1399b8105a1f"
+    },
+    {
+      "name": "Lavaux vineyards",
+      "kind": "do",
+      "locality": "Switzerland",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Switzerland",
+      "id": "switzerland-b0f9994303dd3d02fd16"
+    },
+    {
+      "name": "Castles of Bellinzona",
+      "kind": "do",
+      "locality": "Switzerland",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Switzerland",
+      "id": "switzerland-bd3290b0858739543494"
+    },
+    {
+      "name": "Abbey of St. Gallen",
+      "kind": "do",
+      "locality": "Switzerland",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Switzerland",
+      "id": "switzerland-f8077befc03604776b7e"
+    },
+    {
+      "name": "Top of Europe and the Sphinx observatory",
+      "kind": "do",
+      "locality": "Switzerland",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Switzerland",
+      "id": "switzerland-27978805acd48fd9e0d1"
+    },
+    {
+      "name": "Grande Dixence",
+      "kind": "do",
+      "locality": "Switzerland",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Switzerland",
+      "id": "switzerland-b8038855a6eb4bc828c4"
+    },
+    {
+      "name": "Landwasser viaduct",
+      "kind": "do",
+      "locality": "Switzerland",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Switzerland",
+      "id": "switzerland-04e88f0173d43a0dff1d"
+    },
+    {
+      "name": "Matterhorn",
+      "kind": "do",
+      "locality": "Switzerland",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Switzerland",
+      "id": "switzerland-4755cdf30be92a5caf20"
+    },
+    {
+      "name": "northern walls of the Jungfrau and Eiger",
+      "kind": "do",
+      "locality": "Switzerland",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Switzerland",
+      "id": "switzerland-88666a85af3251483c83"
+    },
+    {
+      "name": "Aletsch Glacier",
+      "kind": "do",
+      "locality": "Switzerland",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Switzerland",
+      "id": "switzerland-17818d0611fcb9990d0c"
+    },
+    {
+      "name": "lakes of the Upper Engadine",
+      "kind": "do",
+      "locality": "Switzerland",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Switzerland",
+      "id": "switzerland-2cf817cd8e60bf8c7709"
+    },
+    {
+      "name": "Lake Lucerne",
+      "kind": "do",
+      "locality": "Switzerland",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Switzerland",
+      "id": "switzerland-19ddbb8192248c1e639a"
+    },
+    {
+      "name": "Oeschinensee",
+      "kind": "do",
+      "locality": "Switzerland",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Switzerland",
+      "id": "switzerland-f7a2cb26e79079f45758"
+    },
+    {
+      "name": "Rhine Falls",
+      "kind": "do",
+      "locality": "Switzerland",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Switzerland",
+      "id": "switzerland-091037ed6c8f41e844ab"
+    },
+    {
+      "name": "Bern Historical Museum",
+      "kind": "do",
+      "locality": "Bern",
+      "lat": 46.943,
+      "lon": 7.44914,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Helvetiaplatz 5",
+      "price": "Adult Fr. 13; Fr. 18 including Einsteinhaus",
+      "url": "http://www.bhm.ch/",
+      "id": "switzerland-18abc8dec1ca769a8431"
+    },
+    {
+      "name": "Bundeshaus",
+      "kind": "do",
+      "locality": "Bern",
+      "lat": 46.94615,
+      "lon": 7.44435,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Bundesplatz 3",
+      "price": "Free",
+      "url": "http://www.parlament.ch/e/homepage/in-pg-fuehrungen.htm",
+      "id": "switzerland-2f63257a975eca46ba89"
+    },
+    {
+      "name": "Zytglogge",
+      "kind": "do",
+      "locality": "Bern",
+      "lat": 46.948,
+      "lon": 7.448,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "price": "Free",
+      "id": "switzerland-073f136f292ac0bc9c50"
+    },
+    {
+      "name": "Einsteinhaus",
+      "kind": "do",
+      "locality": "Bern",
+      "lat": 46.94786,
+      "lon": 7.44989,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Kramgasse 49",
+      "price": "Adult Fr. 6, concessions Fr. 4.50",
+      "url": "http://www.einstein-bern.ch/",
+      "id": "switzerland-38645e6676dc3764be71"
+    },
+    {
+      "name": "Invasion of Bern - successful!",
+      "kind": "do",
+      "locality": "Bern",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "url": "http://www.space-invaders.com/",
+      "id": "switzerland-3d50b5be2025b2cb20c2"
+    },
+    {
+      "name": "Kunstmuseum",
+      "kind": "do",
+      "locality": "Bern",
+      "lat": 46.95114,
+      "lon": 7.44304,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Hodlerstrasse 12",
+      "price": "Adult Fr. 10 permanent collection",
+      "url": "http://www.kunstmuseumbern.ch/",
+      "id": "switzerland-5eeca76f2f858a9b0cdc"
+    },
+    {
+      "name": "Swiss Alpine Museum",
+      "kind": "do",
+      "locality": "Bern",
+      "lat": 46.944167,
+      "lon": 7.448056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Helvetiaplatz 4",
+      "price": "Adult Fr. 16",
+      "url": "https://www.alpinesmuseum.ch/",
+      "id": "switzerland-8922190a8fb8146da3d3"
+    },
+    {
+      "name": "Zentrum Paul Klee",
+      "kind": "do",
+      "locality": "Bern",
+      "lat": 46.94915,
+      "lon": 7.47404,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Monument im Fruchtland 3",
+      "url": "http://www.zpk.org/",
+      "id": "switzerland-025f7a021333761438aa"
+    },
+    {
+      "name": "Bear Pit",
+      "kind": "do",
+      "locality": "Bern",
+      "lat": 46.948,
+      "lon": 7.46,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Grosser Murisalder 6",
+      "price": "Free",
+      "url": "http://www.baerenpark-bern.ch/",
+      "id": "switzerland-fc668a3d551f2adb4a4f"
+    },
+    {
+      "name": "Tierpark Dählhölzli (Zoo)",
+      "kind": "do",
+      "locality": "Bern",
+      "lat": 46.93404,
+      "lon": 7.44817,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Tierparkweg 1",
+      "price": "Adult Fr. 10, child 6-15 Fr. 6",
+      "url": "https://www.tierpark-bern.ch/en/",
+      "id": "switzerland-d8703bcb2e1d09f4f51a"
+    },
+    {
+      "name": "Gurten",
+      "kind": "do",
+      "locality": "Bern",
+      "lat": 46.9172,
+      "lon": 7.44361,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "price": "Free",
+      "url": "http://www.gurtenpark.ch/",
+      "id": "switzerland-dcd6e9513500c0249570"
+    },
+    {
+      "name": "Rosengarten",
+      "kind": "do",
+      "locality": "Bern",
+      "lat": 46.9519,
+      "lon": 7.46028,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "url": "https://www.bern.com/en/detail/the-rose-garden",
+      "id": "switzerland-bcbb3f976f9108b3dac5"
+    },
+    {
+      "name": "SC Bern",
+      "kind": "do",
+      "locality": "Bern",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "id": "switzerland-2cdc79616f4b742358c3"
+    },
+    {
+      "name": "Swimming in the river Aare",
+      "kind": "do",
+      "locality": "Bern",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "id": "switzerland-601071c595d37c5ad6bb"
+    },
+    {
+      "name": "Gurtenfestival",
+      "kind": "do",
+      "locality": "Bern",
+      "lat": 46.95,
+      "lon": 7.45,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "price": "1-day pass: Fr. 115, 2 days: Fr. 195, 3 days: Fr. 270, 4 days: Fr. 310",
+      "url": "https://www.gurtenfestival.ch/",
+      "id": "switzerland-df9fb78f51abd93bd727"
+    },
+    {
+      "name": "International Jazzfestival Bern",
+      "kind": "do",
+      "locality": "Bern",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "url": "https://www.jazzfestivalbern.ch/",
+      "id": "switzerland-17c20fb9931c097fdaf9"
+    },
+    {
+      "name": "Buskers Bern",
+      "kind": "do",
+      "locality": "Bern",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "url": "https://buskersbern.ch/",
+      "id": "switzerland-7fa8e6c42fa668c23fde"
+    },
+    {
+      "name": "Restaurant Zunft zu Webern",
+      "kind": "eat",
+      "locality": "Bern",
+      "lat": 46.9481793,
+      "lon": 7.4529881,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Gerechtigkeitsgasse 68",
+      "price": "Fr. 14-24 (Oct 2021)",
+      "url": "https://www.restwebern.ch/",
+      "id": "switzerland-2fc1d3a1f6857f7e2bf4"
+    },
+    {
+      "name": "Coop Restaurant Bern Ryfflihof",
+      "kind": "eat",
+      "locality": "Bern",
+      "lat": 46.9497521,
+      "lon": 7.4417705,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Aarbergergasse 53",
+      "id": "switzerland-af49724bb9e8daa8005f"
+    },
+    {
+      "name": "Lo stuzzichino da Mohan",
+      "kind": "eat",
+      "locality": "Bern",
+      "lat": 46.948428,
+      "lon": 7.4508766,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Rathausgasse 23",
+      "id": "switzerland-7512dcac876f2d1e6979"
+    },
+    {
+      "name": "Tong Fong",
+      "kind": "eat",
+      "locality": "Bern",
+      "lat": 46.9488933,
+      "lon": 7.4500957,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Brunngasse 9",
+      "id": "switzerland-2479ca43e3a7de56e37f"
+    },
+    {
+      "name": "Sous le Pont",
+      "kind": "eat",
+      "locality": "Bern",
+      "lat": 46.9528979,
+      "lon": 7.44037,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "url": "http://www.souslepont.ch/",
+      "id": "switzerland-7ba35b2a5e8765ebb2f8"
+    },
+    {
+      "name": "Beaulieu",
+      "kind": "eat",
+      "locality": "Bern",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Erlachstrasse 3",
+      "url": "http://www.restaurantbeaulieu.ch/",
+      "id": "switzerland-092a4435967f951258de"
+    },
+    {
+      "name": "Old Tram Depot",
+      "kind": "eat",
+      "locality": "Bern",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Grosser Muristalden",
+      "price": "Fr. 20-40",
+      "url": "http://www.altestramdepot.ch/",
+      "id": "switzerland-9f3e43b65be39634415a"
+    },
+    {
+      "name": "Café Fédéral",
+      "kind": "eat",
+      "locality": "Bern",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Bärenplatz 31",
+      "url": "http://www.entrecote.ch/",
+      "id": "switzerland-f229334399ac1e683f26"
+    },
+    {
+      "name": "Casino Restaurant",
+      "kind": "eat",
+      "locality": "Bern",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Herrengasse 25",
+      "price": "Fr. 25-45 a main dish",
+      "url": "http://www.casinobern.ch/",
+      "id": "switzerland-9845ead5c8f3fa770f4d"
+    },
+    {
+      "name": "Kornhaus",
+      "kind": "eat",
+      "locality": "Bern",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Kornhausplatz 18",
+      "price": "Fr. 26-45 for the main dish. Fr. 9-14 for appetizers.",
+      "url": "http://www.bindella.ch/de/kornhauskeller.html",
+      "id": "switzerland-d6eb2017ec7a395d7ba0"
+    },
+    {
+      "name": "Schmiedstube",
+      "kind": "eat",
+      "locality": "Bern",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Schmiedenplatz 5",
+      "url": "http://www.schmiedstube.com/",
+      "id": "switzerland-e7ce9f7743998a921e0b"
+    },
+    {
+      "name": "Schwellenmätteli",
+      "kind": "eat",
+      "locality": "Bern",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Dalmaziquai 11",
+      "price": "Fr. 20-40 for a main dish",
+      "url": "http://www.schwellenmaetteli.ch/",
+      "id": "switzerland-3e17377e4a913001fa71"
+    },
+    {
+      "name": "Bellevue Palace",
+      "kind": "eat",
+      "locality": "Bern",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Kochergasse 3-5",
+      "url": "http://www.bellevue-palace.ch/",
+      "id": "switzerland-ab4bd74b271788861f94"
+    },
+    {
+      "name": "Restaurant Rosengarten",
+      "kind": "eat",
+      "locality": "Bern",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Alter Aargauerstalden 31b",
+      "url": "http://www.rosengarten.be/",
+      "id": "switzerland-33cfa9f4a81d90cac23f"
+    },
+    {
+      "name": "Kursaal-Bern",
+      "kind": "eat",
+      "locality": "Bern",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Kornhausstrasse 3",
+      "price": "Fr. 20-76",
+      "url": "http://www.kursaal-bern.ch/Restaurants/Meridiano",
+      "id": "switzerland-a015a43052afaee5c83e"
+    },
+    {
+      "name": "Du Nord",
+      "kind": "eat",
+      "locality": "Bern",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Lorrainestrasse 2",
+      "id": "switzerland-0c5bf7d483c3337abae4"
+    },
+    {
+      "name": "Café Kairo",
+      "kind": "eat",
+      "locality": "Bern",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Dammweg 43, 3013 Bern",
+      "url": "http://www.cafe-kairo.ch/",
+      "id": "switzerland-39778ba5e01958981fd3"
+    },
+    {
+      "name": "Cuba",
+      "kind": "eat",
+      "locality": "Bern",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Kornhausplatz 14",
+      "id": "switzerland-8a1cbb462d16f7182ece"
+    },
+    {
+      "name": "Dampfzentrale",
+      "kind": "eat",
+      "locality": "Bern",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Marzilistrasse 47",
+      "url": "http://www.dampfzentrale.ch/",
+      "id": "switzerland-de3146248c4813608f75"
+    },
+    {
+      "name": "PROGR_centre for cultural production",
+      "kind": "eat",
+      "locality": "Bern",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Waisenhausplatz 30/ Speichergasse 4",
+      "url": "http://www.progr.ch/",
+      "id": "switzerland-c6bc99255c7f6d40638e"
+    },
+    {
+      "name": "Reitschule",
+      "kind": "eat",
+      "locality": "Bern",
+      "lat": 46.95299,
+      "lon": 7.44064,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Neubrückstrasse 8",
+      "url": "https://www.reitschule.ch/",
+      "id": "switzerland-4cfc9ac90916e1ba04d1"
+    },
+    {
+      "name": "Wasserwerk Club",
+      "kind": "eat",
+      "locality": "Bern",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "url": "http://www.wasserwerk.ch/",
+      "id": "switzerland-0e529619719fe21549e2"
+    },
+    {
+      "name": "Landhaus",
+      "kind": "stay",
+      "locality": "Bern",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Altenbergstrasse 4",
+      "price": "Fr. 90-160",
+      "url": "http://www.landhausbern.ch/",
+      "id": "switzerland-57849bc0630286cb391d"
+    },
+    {
+      "name": "Bern backpackers - Hotel Glocke",
+      "kind": "stay",
+      "locality": "Bern",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Rathausgasse 75",
+      "price": "Prices from Fr. 31 per person, per night",
+      "url": "http://www.bernbackpackers.com/",
+      "id": "switzerland-714c2c7cf3500a645e4a"
+    },
+    {
+      "name": "Youth Hostel",
+      "kind": "stay",
+      "locality": "Bern",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Weihergasse 4",
+      "url": "http://www.jugendherberge.ch/",
+      "id": "switzerland-8a771b3b25dd8677ad76"
+    },
+    {
+      "name": "Astoria Swiss Quality Hotel",
+      "kind": "stay",
+      "locality": "Bern",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Zieglerstrasse 66",
+      "url": "http://www.swissqualityhotels.com/Hotels/switzerland/Bern/Astoria/index.asp?_lang=en",
+      "id": "switzerland-dde4e722b7c8e22fc886"
+    },
+    {
+      "name": "Bern Swiss Quality Hotel",
+      "kind": "stay",
+      "locality": "Bern",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Zeughausgasse 9",
+      "price": "Single room from Fr. 245, double room from Fr. 280",
+      "url": "http://www.hotelbern.ch/",
+      "id": "switzerland-28a559a4b9b65357a2ba"
+    },
+    {
+      "name": "Kreuz",
+      "kind": "stay",
+      "locality": "Bern",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Zeughausgasse 41",
+      "price": "Double from Fr. 225",
+      "url": "http://www.kreuzbern.ch/",
+      "id": "switzerland-1f7ac02851c3c13fbe90"
+    },
+    {
+      "name": "Metropole",
+      "kind": "stay",
+      "locality": "Bern",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Zeughausgasse 26",
+      "price": "Double from Fr. 129",
+      "url": "http://www.hotelmetropole.ch/",
+      "id": "switzerland-7c1e66f111cb83d6da30"
+    },
+    {
+      "name": "Hotel Schweizerhof & The Spa",
+      "kind": "stay",
+      "locality": "Bern",
+      "lat": 46.9487,
+      "lon": 7.4409,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Bahnhofplatz 11",
+      "url": "https://www.schweizerhof-bern.ch/en",
+      "id": "switzerland-6c469e8a824fd384943c"
+    },
+    {
+      "name": "Bellevue Palace",
+      "kind": "stay",
+      "locality": "Bern",
+      "lat": 46.94672,
+      "lon": 7.44664,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Kochergasse 3-5",
+      "price": "Doubles from Fr. 350 per night, presidential suite from Fr. 2500 a night",
+      "url": "https://www.bellevue-palace.ch/en",
+      "id": "switzerland-134f25044fba83c65d87"
+    },
+    {
+      "name": "Hotel Bern",
+      "kind": "stay",
+      "locality": "Bern",
+      "lat": 46.94862,
+      "lon": 7.44626,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "address": "Zeughausgasse 9",
+      "price": "Doubles start at Fr. 180",
+      "url": "https://hotelbern.ch/",
+      "id": "switzerland-a30678b46fd14ff73ba3"
+    },
+    {
+      "name": "Bern",
+      "kind": "area",
+      "locality": "Bern",
+      "lat": 46.94821,
+      "lon": 7.45165,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bern",
+      "id": "switzerland-4df79f2cf43837bac3d5"
+    },
+    {
+      "name": "Thun",
+      "kind": "area",
+      "locality": "Swiss Alps",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Swiss_Alps",
+      "id": "switzerland-d5f97b51b267683e3c8f"
+    },
+    {
+      "name": "Davos",
+      "kind": "area",
+      "locality": "Swiss Alps",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Swiss_Alps",
+      "id": "switzerland-c2c4da1b403f97b425a1"
+    },
+    {
+      "name": "Chur",
+      "kind": "area",
+      "locality": "Swiss Alps",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Swiss_Alps",
+      "id": "switzerland-814e98179e937741e650"
+    },
+    {
+      "name": "Interlaken",
+      "kind": "area",
+      "locality": "Swiss Alps",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Swiss_Alps",
+      "id": "switzerland-8ce8f879e031e7c4fe35"
+    },
+    {
+      "name": "Lucerne",
+      "kind": "area",
+      "locality": "Swiss Alps",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Swiss_Alps",
+      "id": "switzerland-b310d42b8e58890d4feb"
+    },
+    {
+      "name": "Brig",
+      "kind": "area",
+      "locality": "Swiss Alps",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Swiss_Alps",
+      "id": "switzerland-1b7bd228e30b50dbf697"
+    },
+    {
+      "name": "St. Moritz",
+      "kind": "area",
+      "locality": "Swiss Alps",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Swiss_Alps",
+      "id": "switzerland-bd69a186e4449692561e"
+    },
+    {
+      "name": "Swiss Alps",
+      "kind": "area",
+      "locality": "Swiss Alps",
+      "lat": 46.559167,
+      "lon": 8.561389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Swiss_Alps",
+      "id": "switzerland-ac04c3183bbe7c56c460"
+    },
+    {
+      "name": "Bahnhofstrasse",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.37179,
+      "lon": 8.53852,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "id": "switzerland-681a61c625f5ea329a07"
+    },
+    {
+      "name": "Lindenhof",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.37297,
+      "lon": 8.54087,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "id": "switzerland-adabd7bb22795920f5e0"
+    },
+    {
+      "name": "Lake Promenade",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.3603,
+      "lon": 8.5474,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "id": "switzerland-4070a8ee07114a18d56f"
+    },
+    {
+      "name": "Grossmünster",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.37,
+      "lon": 8.5441,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Zwingliplatz",
+      "price": "Tower Fr. 4, Fr. 2 for students",
+      "url": "https://www.grossmuenster.ch/",
+      "id": "switzerland-a15a8c4602340c5973f7"
+    },
+    {
+      "name": "Fraumünster",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.369722,
+      "lon": 8.541111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Kämbelgasse 2",
+      "price": "Fr. 5",
+      "url": "http://www.fraumuenster.ch/en",
+      "id": "switzerland-323601c64ae553e6cfe9"
+    },
+    {
+      "name": "Schanzengraben",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.37009,
+      "lon": 8.53466,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "id": "switzerland-d7ef63d49dbca3bac407"
+    },
+    {
+      "name": "Langstrasse",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.37964,
+      "lon": 8.5277,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "id": "switzerland-802c3254a18aa5121ec5"
+    },
+    {
+      "name": "Friedhof Fluntern",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.383056,
+      "lon": 8.572222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "id": "switzerland-1ebeda8a2fecaf9a5f26"
+    },
+    {
+      "name": "Zoo",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.38571,
+      "lon": 8.57352,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Zürichbergstrasse 221",
+      "price": "Fr. 26 for adults (Fr. 19 for those under 25)",
+      "url": "http://www.zoo.ch/",
+      "id": "switzerland-d4f24d4c7ce27f1e5de1"
+    },
+    {
+      "name": "China Garden",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.354836,
+      "lon": 8.551802,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Bellerivestrasse 138",
+      "url": "https://www.zuerich.com/en/visit/attractions/chinese-garden",
+      "id": "switzerland-70add493970b8e180c49"
+    },
+    {
+      "name": "Niederdorf",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.373271,
+      "lon": 8.543772,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "id": "switzerland-7c08c1024d1312a60075"
+    },
+    {
+      "name": "Zurich West",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.38954,
+      "lon": 8.51711,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "id": "switzerland-dad94ec904949cc77d2b"
+    },
+    {
+      "name": "Landesmuseum",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.379167,
+      "lon": 8.539722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Museumstrasse 2",
+      "price": "Fr. 13/10 (free with Zürich Card)",
+      "url": "https://www.landesmuseum.ch/en",
+      "id": "switzerland-5600441e1b49faf2192d"
+    },
+    {
+      "name": "Kunsthaus",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.37028,
+      "lon": 8.54806,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Heimplatz 1",
+      "price": "Fr. 16/11 for the permanent collection. Free on Wednesdays",
+      "url": "http://www.kunsthaus.ch/",
+      "id": "switzerland-c79babd6205acad87aeb"
+    },
+    {
+      "name": "Johann Jacobs Museum",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.3597,
+      "lon": 8.54808,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Seefeldquai 17",
+      "price": "Fr. 7",
+      "url": "http://www.johannjacobs.com/",
+      "id": "switzerland-8765bac13646d1a38808"
+    },
+    {
+      "name": "Pavillon Le Corbusier",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.35611,
+      "lon": 8.55093,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Höschgasse 8",
+      "price": "Fr. 12/8 (free with Zürich Card)",
+      "url": "https://pavillon-le-corbusier.ch/en/",
+      "id": "switzerland-4e7ef2fb37c620f4454a"
+    },
+    {
+      "name": "Rietberg Museum",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.3589297,
+      "lon": 8.5214702,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Gablerstrasse 15",
+      "url": "http://rietberg.ch/en",
+      "id": "switzerland-3b3f93122c510f219022"
+    },
+    {
+      "name": "Zoological Museum",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.3752,
+      "lon": 8.5478,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Karl Schmid-Strasse 4",
+      "price": "Free",
+      "url": "http://www.zm.uzh.ch/en.html",
+      "id": "switzerland-e8bfca8ff998317f881f"
+    },
+    {
+      "name": "FIFA World Football Museum",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.363509,
+      "lon": 8.531749,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Seestrasse 27",
+      "price": "Fr. 24/14 (free with Zürich Card)",
+      "url": "https://www.fifamuseum.com/",
+      "id": "switzerland-1d1485a240333d642b15"
+    },
+    {
+      "name": "Villa Patumbah",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.356806,
+      "lon": 8.559722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Zollikerstrasse 128",
+      "price": "Fr. 10",
+      "url": "http://www.heimatschutzzentrum.ch/",
+      "id": "switzerland-820224209b4617dfd3ed"
+    },
+    {
+      "name": "Polybahn",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.37651,
+      "lon": 8.54407,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Central 1",
+      "price": "Fr. 1.20, free with Zürich Card or a valid ZVV ticket for Zone 110",
+      "url": "https://www.myswitzerland.com/en-au/experiences/the-polybahn/",
+      "id": "switzerland-f7b3befaae592fd13187"
+    },
+    {
+      "name": "Oberer/Unterer Letten",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.385653,
+      "lon": 8.534333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "price": "Free",
+      "url": "https://www.stadt-zuerich.ch/ssd/de/index/sport/schwimmen/sommerbaeder/flussbad_unterer_letten.html",
+      "id": "switzerland-c1bd8234637e1b014866"
+    },
+    {
+      "name": "trip on the Zürichsee",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.366003,
+      "lon": 8.540519,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "url": "https://www.zsg.ch/en/steamboat-schedule.html",
+      "id": "switzerland-82d487284a222f2d0cb3"
+    },
+    {
+      "name": "Limmat river cruise",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.379064,
+      "lon": 8.541509,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Landesmuseum Pier",
+      "price": "Fr. 4.30, free with Zürich Card or a valid ZVV ticket for Zone 110",
+      "url": "https://www.zuerich.com/en/visit/attractions/limmat-river-cruise",
+      "id": "switzerland-97fae53d2bab332b37ab"
+    },
+    {
+      "name": "Uetliberg",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.3495,
+      "lon": 8.49202,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "id": "switzerland-af093025bcc9a52dda78"
+    },
+    {
+      "name": "Street Parade",
+      "kind": "do",
+      "locality": "Zurich",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "price": "Free",
+      "url": "http://www.streetparade.ch/",
+      "id": "switzerland-5b3283ee0c361d8e43b4"
+    },
+    {
+      "name": "Swiss national day",
+      "kind": "do",
+      "locality": "Zurich",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "price": "Free",
+      "id": "switzerland-cd2a956a8898eb43b887"
+    },
+    {
+      "name": "Sechseläuten (Sächsilüüte)",
+      "kind": "do",
+      "locality": "Zurich",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "price": "Free",
+      "id": "switzerland-91a006cbacdc45f24125"
+    },
+    {
+      "name": "Caliente Festival",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.37606,
+      "lon": 8.52684,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "price": "Free",
+      "url": "http://www.caliente.ch/",
+      "id": "switzerland-df5ad7389c504603eea1"
+    },
+    {
+      "name": "Züri Fäscht",
+      "kind": "do",
+      "locality": "Zurich",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "price": "Free",
+      "url": "http://www.zuerifaescht.ch/",
+      "id": "switzerland-8e38776fce6593583970"
+    },
+    {
+      "name": "Zürcher Theater Spektakel",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.3503,
+      "lon": 8.53511,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Landiwiese",
+      "url": "https://www.theaterspektakel.ch/",
+      "id": "switzerland-79aa2c16a3ccfb2015a0"
+    },
+    {
+      "name": "Opernhaus",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.365,
+      "lon": 8.546944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Falkenstrasse 1",
+      "url": "http://www.opernhaus.ch/",
+      "id": "switzerland-0717dc934859a0b8c346"
+    },
+    {
+      "name": "Rote Fabrik",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.3433,
+      "lon": 8.53667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Seestrasse 395, Postfach 1073, 8038 Zürich",
+      "url": "http://www.rotefabrik.ch/",
+      "id": "switzerland-7cd5ca5f2c3cc664b44b"
+    },
+    {
+      "name": "Schauspielhaus",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.37,
+      "lon": 8.54917,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Rämistrasse 34",
+      "url": "http://www.schauspielhaus.ch/",
+      "id": "switzerland-d9df083b20d2bada2713"
+    },
+    {
+      "name": "Theater am Neumarkt",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.3725,
+      "lon": 8.54583,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Neumarkt 5",
+      "url": "http://www.theaterneumarkt.ch/",
+      "id": "switzerland-ee825b71d0518b279567"
+    },
+    {
+      "name": "Tonhalle Maag",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.38648,
+      "lon": 8.51612,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Zahnradstrasse 22",
+      "url": "https://www.tonhalle-maag.ch/",
+      "id": "switzerland-538ce216bd3f7f4d22b5"
+    },
+    {
+      "name": "Cinema Arthouse Le Paris",
+      "kind": "do",
+      "locality": "Zurich",
+      "lat": 47.36636,
+      "lon": 8.54742,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Gottfried-Keller Strasse 7",
+      "url": "http://www.arthouse.ch/",
+      "id": "switzerland-1382af0c703ec01ce60b"
+    },
+    {
+      "name": "Rheinfelder Bierhalle",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.375909,
+      "lon": 8.544138,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Niederdorfstrasse 76",
+      "id": "switzerland-819e8c1305c36f5b1c8c"
+    },
+    {
+      "name": "Pizzeria Molino",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.368996,
+      "lon": 8.543802,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Limmatquai 16",
+      "url": "http://molino.ch/restaurants/zuerich-limmatquai/",
+      "id": "switzerland-2fd45fd2b5fdfc681407"
+    },
+    {
+      "name": "Zurich Fried Chicken",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.3750461,
+      "lon": 8.5438311,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Niederdorfstrasse 41",
+      "id": "switzerland-d237e851586713aa497c"
+    },
+    {
+      "name": "Baba's take-away (Restaurant Pumpstation)",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.36375,
+      "lon": 8.54629,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Seeanlaga Utoquai",
+      "url": "http://www.pumpstation.ch/",
+      "id": "switzerland-6b7615ce538c18b1a041"
+    },
+    {
+      "name": "1001",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.3728,
+      "lon": 8.5438,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Niederdorfstrasse 4",
+      "id": "switzerland-f6c39d926a221fb0e31c"
+    },
+    {
+      "name": "Sternen Grill",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.367277,
+      "lon": 8.545559,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Theaterstrasse 22",
+      "url": "http://www.sternengrill.ch/",
+      "id": "switzerland-db162fe95c81a09cb524"
+    },
+    {
+      "name": "Gambrinus",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.378773,
+      "lon": 8.527066,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Langstrasse 103",
+      "price": "From Fr. 14 (Aug 2015)",
+      "url": "http://gambrinus-langstrasse.ch/",
+      "id": "switzerland-c1569ee62d4f73c4b6c9"
+    },
+    {
+      "name": "Ah-Hua",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.37616,
+      "lon": 8.527905,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Ankerstrasse 110",
+      "url": "http://www.ah-hua.ch/",
+      "id": "switzerland-0a4d0fdfc910adc518ac"
+    },
+    {
+      "name": "Bank",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.376503,
+      "lon": 8.52654,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Molkenstrasse 15",
+      "url": "http://www.bankzuerich.ch/",
+      "id": "switzerland-04a002cf5e834fce315f"
+    },
+    {
+      "name": "Millennium Restaurant",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.384225,
+      "lon": 8.531625,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Limmatplatz 1",
+      "url": "http://www.restaurantmillennium.ch/",
+      "id": "switzerland-81c3a2c4a30698aef75c"
+    },
+    {
+      "name": "Rosalys",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.367391,
+      "lon": 8.54594,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Freieckgasse 7",
+      "url": "http://www.rosalys.ch/",
+      "id": "switzerland-b652a813268dfa1fab34"
+    },
+    {
+      "name": "Swiss Chuchi",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.373178,
+      "lon": 8.543683,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Rosengasse 10",
+      "url": "http://www.hotel-adler.ch/index.php/en/restaurant",
+      "id": "switzerland-cb915c7da4bc39615af1"
+    },
+    {
+      "name": "Zeughauskeller",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.370374,
+      "lon": 8.539893,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Bahnhofstrasse 28a",
+      "url": "http://www.zeughauskeller.ch/",
+      "id": "switzerland-ae99e74fdbcb880e71ac"
+    },
+    {
+      "name": "Zum Kropf",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.370642,
+      "lon": 8.540248,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "In Gassen 16",
+      "url": "http://www.zumkropf.ch/en/",
+      "id": "switzerland-9140c9ccb57e62d04d15"
+    },
+    {
+      "name": "Hiltl",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.373178,
+      "lon": 8.53658,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Sihlstrasse 28",
+      "url": "http://www.hiltl.ch/",
+      "id": "switzerland-ffc642977c30a9e005f9"
+    },
+    {
+      "name": "Tibits",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.364976,
+      "lon": 8.547882,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Seefeldstrasse 2",
+      "price": "Buffet: 3.60 Fr for 100g",
+      "url": "http://www.tibits.ch/",
+      "id": "switzerland-a234c7e9b2d31d41427a"
+    },
+    {
+      "name": "Restaurant Eisenhof",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.383689,
+      "lon": 8.528688,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Gasometerstrasse 20",
+      "url": "http://www.restauranteisenhof.ch/",
+      "id": "switzerland-0aba607addce36220315"
+    },
+    {
+      "name": "Blinde Kuh",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.358303,
+      "lon": 8.557291,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Mühlebachstrasse 148",
+      "url": "http://www.blindekuh.ch/",
+      "id": "switzerland-5e4b5dfb891a9a14c2dc"
+    },
+    {
+      "name": "eCHo Restaurant",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.382439,
+      "lon": 8.540655,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Neumühlequai 42",
+      "url": "https://www.echorestaurant.ch/",
+      "id": "switzerland-23f40a09b6a1695c2f32"
+    },
+    {
+      "name": "Commercio",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.366021,
+      "lon": 8.548942,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Mühlebachstrasse 2",
+      "url": "http://www.commercio.ch/en/commercio/",
+      "id": "switzerland-e6864012cdf7e42267fd"
+    },
+    {
+      "name": "Commi-Halle",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.377719,
+      "lon": 8.543867,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Stampfenbachstrasse 8",
+      "url": "http://www.commercio.ch/en/commihalle/",
+      "id": "switzerland-0f6567f8b796fb4eba0b"
+    },
+    {
+      "name": "Globus Bellevue",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.366531,
+      "lon": 8.546496,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Theaterstrasse 12",
+      "url": "https://www.globus.ch/de/store/105/GLOBUS-Zuerich-Bellevue",
+      "id": "switzerland-36d233b9867462d4789f"
+    },
+    {
+      "name": "Sprüngli Paradeplatz",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.369522,
+      "lon": 8.539181,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Bahnhofstrasse 21",
+      "url": "http://www.spruengli.ch/service/restaurants-en.php",
+      "id": "switzerland-a72c3f38d0e1483b2c33"
+    },
+    {
+      "name": "Masala",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.373038,
+      "lon": 8.529013,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Stauffacherstrasse 27",
+      "url": "http://www.masala.ch/",
+      "id": "switzerland-9300825d2c60c8bae60f"
+    },
+    {
+      "name": "Outback Lodge",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.367054,
+      "lon": 8.547751,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Stadelhoferstasse 18",
+      "url": "http://www.outback-lodge.ch/",
+      "id": "switzerland-2c710754cce9030eef33"
+    },
+    {
+      "name": "Iroquois",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.358293,
+      "lon": 8.553761,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Seefeldstrasse 120",
+      "url": "http://www.iroquois.ch/",
+      "id": "switzerland-418f92d1bb951fd409f3"
+    },
+    {
+      "name": "Tiffin's",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.361876,
+      "lon": 8.551112,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Seefeldstrasse 61",
+      "url": "http://www.tiffins.ch/",
+      "id": "switzerland-e05b52060b3acf335710"
+    },
+    {
+      "name": "Lily's",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.382565,
+      "lon": 8.529672,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Langstrasse 197",
+      "url": "http://www.lilys.ch/restaurants/zuerich/",
+      "id": "switzerland-db7c0585a49538f61fd8"
+    },
+    {
+      "name": "Manzoni Bar",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.376478,
+      "lon": 8.53908,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Schützengasse 15",
+      "url": "http://www.manzonibar.ch/",
+      "id": "switzerland-a2fe6290a65c8a619e2e"
+    },
+    {
+      "name": "Nooba",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.365135,
+      "lon": 8.554576,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Kreuzplatz 5",
+      "url": "http://nooba.ch/",
+      "id": "switzerland-7aaab60594faead972e9"
+    },
+    {
+      "name": "Nooch",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.388689,
+      "lon": 8.521216,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Heinrichstrasse 267",
+      "url": "http://www.nooch.ch/",
+      "id": "switzerland-49f9e806672be4391e6b"
+    },
+    {
+      "name": "Ristorante Toscano",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.374757,
+      "lon": 8.54355,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Schmidgasse 3",
+      "url": "http://www.ristorante-toscano.ch/",
+      "id": "switzerland-17df943b52eb4cdeff26"
+    },
+    {
+      "name": "Bebek",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.374435,
+      "lon": 8.520731,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Badenerstrasse 171",
+      "url": "http://www.bebek.ch/",
+      "id": "switzerland-bcbb5da1f5e564984ac6"
+    },
+    {
+      "name": "White Elephant",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.382439,
+      "lon": 8.540655,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Neumühlequai 42",
+      "url": "https://www.whiteelephant.ch/",
+      "id": "switzerland-30e39d765d4f5095ca34"
+    },
+    {
+      "name": "Mesa Restaurant",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.38338,
+      "lon": 8.54319,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Weinbergstr. 75",
+      "url": "https://mesa-restaurant.ch/en/",
+      "id": "switzerland-9d9a454d165c596cc2b5"
+    },
+    {
+      "name": "Kronenhalle",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.3675,
+      "lon": 8.5457,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Rämistrasse 4",
+      "price": "Mains Fr. 30-65",
+      "url": "http://www.kronenhalle.ch/",
+      "id": "switzerland-16eede2c5c0e36addfa9"
+    },
+    {
+      "name": "Widder Hotel",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.37242,
+      "lon": 8.5399,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Rennweg 7",
+      "price": "Mains Fr. 20-50",
+      "id": "switzerland-1685373c5a24c3b8eb13"
+    },
+    {
+      "name": "Zunfthaus Zur Waag",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.3702,
+      "lon": 8.54028,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Münsterhof 8",
+      "price": "Mains Fr. 25-50",
+      "id": "switzerland-fc1672a181e63d3e1848"
+    },
+    {
+      "name": "Le Dezaley",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.37063,
+      "lon": 8.54379,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Römergasse 7",
+      "price": "Mains Fr. 25-40",
+      "url": "http://www.le-dezaley.ch/",
+      "id": "switzerland-c26806d0537754c5f6f6"
+    },
+    {
+      "name": "Blaue Ente",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.3519,
+      "lon": 8.56081,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Seefeldstrasse 223",
+      "url": "http://www.blaue-ente.ch/",
+      "id": "switzerland-8348203920c42a621290"
+    },
+    {
+      "name": "Coco Grill & Bar",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.36889,
+      "lon": 8.53851,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Bleicherweg 1A",
+      "url": "http://www.restaurant-coco.ch/",
+      "id": "switzerland-0a47cfc984d09bfa58d9"
+    },
+    {
+      "name": "Da Angela",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.387012,
+      "lon": 8.501464,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Hohlstrasse 449",
+      "url": "http://www.daangela.ch/",
+      "id": "switzerland-52d056e080be479ac116"
+    },
+    {
+      "name": "Bar & Lounge 42",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.382439,
+      "lon": 8.540655,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Neumühlequai 42",
+      "url": "https://www.lenoxbar.ch/",
+      "id": "switzerland-a7ae0a845c9e7edb6377"
+    },
+    {
+      "name": "Bierhalle Wolf",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.37585,
+      "lon": 8.5438,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Limmatquai 132",
+      "url": "http://www.bierhalle-wolf.ch/",
+      "id": "switzerland-3104f99b94c87bfc0ace"
+    },
+    {
+      "name": "Edi's Weinstube",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.372335,
+      "lon": 8.543461,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Stüssihofstatt 14",
+      "url": "http://www.weinstube.ch/",
+      "id": "switzerland-cc7a923d109cbc491bd6"
+    },
+    {
+      "name": "Federal",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.3781,
+      "lon": 8.5409,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Main Station",
+      "id": "switzerland-1a557ad9ce8b7343507e"
+    },
+    {
+      "name": "Nachtflug",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.3726,
+      "lon": 8.5434,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Stüssihofstatt 4",
+      "id": "switzerland-7458dbc76fc1cf869c0e"
+    },
+    {
+      "name": "James Joyce bar",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.3722,
+      "lon": 8.5372,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Pelikanstrasse 8",
+      "id": "switzerland-b71f3f3c9dabc503d4ef"
+    },
+    {
+      "name": "Oliver Twist",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.3723,
+      "lon": 8.5443,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Rindermarkt 6",
+      "url": "http://www.pickwick.ch/oliver-twist-pub-zuerich/",
+      "id": "switzerland-851f32d445c3551df9c5"
+    },
+    {
+      "name": "Öpfelchammer",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.3723,
+      "lon": 8.5446,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Rindermarkt 12",
+      "url": "http://www.oepfelchammer.ch/",
+      "id": "switzerland-d32aa6bb4f182e06ae8b"
+    },
+    {
+      "name": "Widder Garage",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.37223,
+      "lon": 8.53991,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Widdergasse 6",
+      "url": "https://www.widderhotel.com/essen-trinken/widder-bar/",
+      "id": "switzerland-64346a78f70df3d7626f"
+    },
+    {
+      "name": "Corazón",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.37345,
+      "lon": 8.5449,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Zähringerplatz 11",
+      "id": "switzerland-550869ec3d80e8507e08"
+    },
+    {
+      "name": "Bohemia",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.3648,
+      "lon": 8.5549,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Klosbachstrasse 2",
+      "url": "http://www.bohemia.ch/",
+      "id": "switzerland-e543c6cebd24cc725afb"
+    },
+    {
+      "name": "Barfussbar",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.36846,
+      "lon": 8.54202,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Stadthausquai 12",
+      "url": "http://www.barfussbar.ch/",
+      "id": "switzerland-c611c4cc28ef96600558"
+    },
+    {
+      "name": "Rimini",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.37154,
+      "lon": 8.5329,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Badweg 10",
+      "url": "http://www.rimini.ch/",
+      "id": "switzerland-cf17f86f7de314b8f904"
+    },
+    {
+      "name": "El Lokal",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.3744,
+      "lon": 8.5337,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Gessnerallee 11",
+      "url": "http://www.ellokal.ch/",
+      "id": "switzerland-59ae8f3787ccdd53ad72"
+    },
+    {
+      "name": "Shamrock Irish Pub",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.3389,
+      "lon": 8.5303,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Studackerstrasse 1",
+      "url": "http://www.shamrockirishpub-zurich.com/",
+      "id": "switzerland-65d37ad6d3dcf81d7e5d"
+    },
+    {
+      "name": "Xenix",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.37521,
+      "lon": 8.52607,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Kanzleistrasse 56",
+      "url": "http://www.xenix.ch/7_ueberuns/index.php",
+      "id": "switzerland-31ed25c91cb8fa7f4063"
+    },
+    {
+      "name": "Total Bar",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.37877,
+      "lon": 8.52882,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Tellstrasse 19",
+      "id": "switzerland-4b02fdd9829216828cfe"
+    },
+    {
+      "name": "Kasheme",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.38279,
+      "lon": 8.52959,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Neugasse 56",
+      "url": "https://kasheme.com/",
+      "id": "switzerland-a71731fbbca987fefca8"
+    },
+    {
+      "name": "Kanonaegass Bar",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.377304,
+      "lon": 8.529098,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Kanonengasse 9",
+      "url": "http://www.kanonaegass.ch/",
+      "id": "switzerland-ead8753631c8ea6f8856"
+    },
+    {
+      "name": "Mars Bar",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.3804468,
+      "lon": 8.5270054,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Neufrankengasse 15",
+      "url": "http://www.marsbar.ch/",
+      "id": "switzerland-abae7017cbb9cf6ad6a8"
+    },
+    {
+      "name": "Acid",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.377126,
+      "lon": 8.525964,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Langstrasse 67",
+      "id": "switzerland-26917715d0d29f90b720"
+    },
+    {
+      "name": "Gotthard Bar",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.376898,
+      "lon": 8.525775,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Langstrasse 63",
+      "url": "http://gotthard-bar.ch/",
+      "id": "switzerland-5bf2320d6f3d1620f050"
+    },
+    {
+      "name": "4. Akt",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.38949,
+      "lon": 8.52175,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Heinrichstrasse 262",
+      "id": "switzerland-f76b9ebcd749c11f126a"
+    },
+    {
+      "name": "Vineria Centrale",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.382556,
+      "lon": 8.530051,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Neugasse 42",
+      "url": "https://vineriacentrale.ch/",
+      "id": "switzerland-eabff3c8608f982e9c15"
+    },
+    {
+      "name": "Frau Gerolds Garten",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.385325,
+      "lon": 8.5191,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Geroldstrasse 23/23a",
+      "url": "https://www.fraugerold.ch/",
+      "id": "switzerland-1f91407f504e331c6114"
+    },
+    {
+      "name": "Aya Bar",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.38849,
+      "lon": 8.52067,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Hardstrasse 260",
+      "url": "http://www.aya-bar.ch/",
+      "id": "switzerland-b4d31c693d70aa2cb2b4"
+    },
+    {
+      "name": "Moods",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.38899,
+      "lon": 8.51835,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Schiffbaustrasse 6",
+      "url": "http://www.moods.ch/",
+      "id": "switzerland-abd7b9afd8152be77d08"
+    },
+    {
+      "name": "X-Tra",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.38407,
+      "lon": 8.53294,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Limmatstrasse 118",
+      "url": "http://www.x-tra.ch/",
+      "id": "switzerland-43f2c4c9f69f3e49f0ae"
+    },
+    {
+      "name": "Hive Club",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.3849,
+      "lon": 8.5203,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Geroldstrasse 5",
+      "url": "http://www.hiveclub.ch/",
+      "id": "switzerland-388c671d0148a76af55d"
+    },
+    {
+      "name": "Helsinki",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.385878,
+      "lon": 8.518157,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Geroldstrasse 35",
+      "url": "https://www.helsinkiklub.ch/",
+      "id": "switzerland-7878876c46eed7770b8f"
+    },
+    {
+      "name": "Gonzo",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.3800399,
+      "lon": 8.5277325,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Langstrasse 135",
+      "url": "http://www.gonzoclub.ch/",
+      "id": "switzerland-ea8e2eb2b895e24927d8"
+    },
+    {
+      "name": "Klaus",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.3789248,
+      "lon": 8.5273825,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Langstrasse 112",
+      "url": "https://hausvonklaus.ch/",
+      "id": "switzerland-0f405de5838eb94a56ae"
+    },
+    {
+      "name": "Kauz",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.381527,
+      "lon": 8.537093,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Ausstellungsstrasse 21",
+      "url": "http://www.kauzig.ch/",
+      "id": "switzerland-c2dc0fb27d68a451c4f5"
+    },
+    {
+      "name": "Exil",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.3883037,
+      "lon": 8.5193197,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Hardstrasse 245",
+      "url": "https://exil.cl/",
+      "id": "switzerland-0723ab9cbde9d0aec717"
+    },
+    {
+      "name": "Friedas Büxe",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.377349,
+      "lon": 8.510984,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Friedaustr. 23",
+      "url": "http://www.friedasbuexe.ch/",
+      "id": "switzerland-063ef58f4891df62b0f5"
+    },
+    {
+      "name": "Rathauscafé",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.37208,
+      "lon": 8.54259,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Limmatquai 61",
+      "id": "switzerland-ec1e2d6e49af81698a52"
+    },
+    {
+      "name": "Cranberry",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.37215,
+      "lon": 8.5432,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Metzgergasse 3",
+      "id": "switzerland-c5ac0e9e9a668123380a"
+    },
+    {
+      "name": "Barfüsser",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.37356,
+      "lon": 8.54463,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Spitalgasse 14",
+      "url": "http://www.barfuesser.ch/en/",
+      "id": "switzerland-47a471d80b412e74cb3f"
+    },
+    {
+      "name": "Heldenbar",
+      "kind": "eat",
+      "locality": "Zurich",
+      "lat": 47.387655,
+      "lon": 8.529941,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Sihlquai 240",
+      "url": "http://www.heldenbar.ch/",
+      "id": "switzerland-c4ae73415179142125fa"
+    },
+    {
+      "name": "Couchsurfing",
+      "kind": "stay",
+      "locality": "Zurich",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "url": "http://www.couchsurfing.org/",
+      "id": "switzerland-ea97afe162261a2f0700"
+    },
+    {
+      "name": "Youth hostel",
+      "kind": "stay",
+      "locality": "Zurich",
+      "lat": 47.34787,
+      "lon": 8.5278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Mutschellenstrasse 114",
+      "price": "From Fr. 42 for a dormitory bed with breakfast; Fr. 104 for a single room with shower",
+      "url": "http://www.youthhostel.ch/zuerich",
+      "id": "switzerland-0387878ea69fc068f706"
+    },
+    {
+      "name": "Hotel Marta",
+      "kind": "stay",
+      "locality": "Zurich",
+      "lat": 47.37597,
+      "lon": 8.5447,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Zähringerstrasse 36",
+      "url": "http://www.martahaus.ch/",
+      "id": "switzerland-e149e19f1d795faeffe2"
+    },
+    {
+      "name": "Otter",
+      "kind": "stay",
+      "locality": "Zurich",
+      "lat": 47.36855,
+      "lon": 8.54556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Oberdorfstrasse 7",
+      "url": "http://www.wueste.ch/",
+      "id": "switzerland-5892d18602a5844e7b01"
+    },
+    {
+      "name": "Hotel Splendid",
+      "kind": "stay",
+      "locality": "Zurich",
+      "lat": 47.37327,
+      "lon": 8.5433,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Rosengasse 5",
+      "url": "http://www.hotel-splendid-zuerich.ch/",
+      "id": "switzerland-5b85787a92cba24ce68c"
+    },
+    {
+      "name": "Etap Hotel",
+      "kind": "stay",
+      "locality": "Zurich",
+      "lat": 47.38895,
+      "lon": 8.51621,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Technoparkstrasse 2",
+      "url": "https://all.accor.com/hotel/3184/index.en.shtml",
+      "id": "switzerland-78173ee9a548e70ea7c9"
+    },
+    {
+      "name": "Hotel Schäfli",
+      "kind": "stay",
+      "locality": "Zurich",
+      "lat": 47.37381,
+      "lon": 8.54336,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Badergasse 6",
+      "id": "switzerland-f5901e8fdd923c5375e2"
+    },
+    {
+      "name": "Hotel Neufeld",
+      "kind": "stay",
+      "locality": "Zurich",
+      "lat": 47.36959,
+      "lon": 8.5137,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Friesenbergstrasse 15",
+      "url": "http://www.hotel-neufeld.ch/",
+      "id": "switzerland-8de2dca186cd390ce99a"
+    },
+    {
+      "name": "Hotel St. Georges",
+      "kind": "stay",
+      "locality": "Zurich",
+      "lat": 47.37072,
+      "lon": 8.52815,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Weberstrasse 11",
+      "url": "http://www.hotel-st-georges.ch/",
+      "id": "switzerland-2dba294dd0a5053712a7"
+    },
+    {
+      "name": "Hotel Adler",
+      "kind": "stay",
+      "locality": "Zurich",
+      "lat": 47.37332,
+      "lon": 8.54361,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Rosengasse 10",
+      "price": "Fr. 110-230 single room; Fr. 180-310 double",
+      "url": "http://www.hotel-adler.ch/",
+      "id": "switzerland-8dc8c56793a998783f33"
+    },
+    {
+      "name": "Ambassador à l'Opéra",
+      "kind": "stay",
+      "locality": "Zurich",
+      "lat": 47.3644,
+      "lon": 8.547,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Falkenstrasse 6, CH-8008",
+      "url": "http://www.ambassadorhotel.ch/",
+      "id": "switzerland-26878811f9d0907c7e1f"
+    },
+    {
+      "name": "Helmhaus",
+      "kind": "stay",
+      "locality": "Zurich",
+      "lat": 47.36987,
+      "lon": 8.54321,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Schifflände 30",
+      "url": "http://www.helmhaus.ch/",
+      "id": "switzerland-4b9d0ff306c978ea238b"
+    },
+    {
+      "name": "Sorell Hotel Rex",
+      "kind": "stay",
+      "locality": "Zurich",
+      "lat": 47.38481,
+      "lon": 8.54306,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Weinbergstrasse 92",
+      "price": "Single room from Fr. 140, twin room from Fr. 190",
+      "url": "https://sorellhotels.com/en/rex/zuerich",
+      "id": "switzerland-65515f06ea535e42b6f7"
+    },
+    {
+      "name": "Wellenberg",
+      "kind": "stay",
+      "locality": "Zurich",
+      "lat": 47.37305,
+      "lon": 8.54392,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Niederdorfstrasse 10",
+      "id": "switzerland-186da1919e74ea17e279"
+    },
+    {
+      "name": "Palais Kraft",
+      "kind": "stay",
+      "locality": "Zurich",
+      "lat": 47.37831,
+      "lon": 8.55913,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Kraftstrasse 33",
+      "url": "http://www.palaiskraft.com/",
+      "id": "switzerland-fb2a5ae24a8fbfb24b02"
+    },
+    {
+      "name": "Designer Hotel Greulich",
+      "kind": "stay",
+      "locality": "Zurich",
+      "lat": 47.3785,
+      "lon": 8.5206,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Herman-Greulich-Strasse 56",
+      "url": "http://www.greulich.ch/greulich/en.html",
+      "id": "switzerland-37a2ce6aef04a3ec6a7a"
+    },
+    {
+      "name": "Hotel St. Gotthard Zürich",
+      "kind": "stay",
+      "locality": "Zurich",
+      "lat": 47.3764,
+      "lon": 8.5393,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Bahnhofstrasse 87",
+      "url": "http://www.hotelstgotthard.ch/en/",
+      "id": "switzerland-3da778776ab1b49ab04c"
+    },
+    {
+      "name": "Crowne Plaza Zürich",
+      "kind": "stay",
+      "locality": "Zurich",
+      "lat": 47.3803,
+      "lon": 8.5064,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Badenerstrasse 420",
+      "price": "€150-300 per night depending on the room type and the season",
+      "url": "http://www.cpzurich.ch/en/",
+      "id": "switzerland-d0ed45ef9737e5cfa9bf"
+    },
+    {
+      "name": "Dorint Airport-Hotel Zürich",
+      "kind": "stay",
+      "locality": "Zurich",
+      "lat": 47.43880415883629,
+      "lon": 8.565376654492184,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Riethofstrasse 40, 8152 Opfikon-Glattbrugg",
+      "price": "from 160 CHF per room/night",
+      "url": "https://hotel-airport-zuerich.dorint.com/en/",
+      "id": "switzerland-f73a9409a70188f84d4d"
+    },
+    {
+      "name": "Hotel Widder",
+      "kind": "stay",
+      "locality": "Zurich",
+      "lat": 47.37315,
+      "lon": 8.54355,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Rennweg 7",
+      "price": "From Fr. 600 single room to Fr. 1500 for 1-bedroom suite",
+      "url": "http://www.widderhotel.ch/",
+      "id": "switzerland-a3d42dc11e316b943733"
+    },
+    {
+      "name": "Movenpick Zurich Airport Hotel",
+      "kind": "stay",
+      "locality": "Zurich",
+      "lat": 47.43946,
+      "lon": 8.56886,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "url": "http://www.moevenpick-hotels.com/en/pub/your_hotels/worldmap/zuerich_airport/overview.cfm",
+      "id": "switzerland-1a7c98cd2bcda0eb1884"
+    },
+    {
+      "name": "Hotel zum Storchen",
+      "kind": "stay",
+      "locality": "Zurich",
+      "lat": 47.37114,
+      "lon": 8.54183,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Am Weinplatz 2",
+      "url": "http://www.storchen.ch/",
+      "id": "switzerland-8f2c90fc23d924fd5410"
+    },
+    {
+      "name": "Baur au lac",
+      "kind": "stay",
+      "locality": "Zurich",
+      "lat": 47.36717,
+      "lon": 8.53943,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Talstrasse 1",
+      "url": "https://www.bauraulac.ch/",
+      "id": "switzerland-2069c26e53425b236adb"
+    },
+    {
+      "name": "Savoy Baur en Ville",
+      "kind": "stay",
+      "locality": "Zurich",
+      "lat": 47.36979,
+      "lon": 8.5397,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Paradeplatz",
+      "url": "http://www.savoy-baurenville.ch/",
+      "id": "switzerland-ee7a427947f000af99e3"
+    },
+    {
+      "name": "Park Hyatt Zurich",
+      "kind": "stay",
+      "locality": "Zurich",
+      "lat": 47.36636,
+      "lon": 8.53612,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Beethovenstrasse 21",
+      "price": "Fr. 1650",
+      "url": "https://zurich.park.hyatt.com/",
+      "id": "switzerland-d78d453b0bd08d6de4bf"
+    },
+    {
+      "name": "Dolder Grand",
+      "kind": "stay",
+      "locality": "Zurich",
+      "lat": 47.37301,
+      "lon": 8.57328,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "url": "http://www.thedoldergrand.com/en/",
+      "id": "switzerland-199c5b518c385e3e8f50"
+    },
+    {
+      "name": "ALDEN Hotel Splügenschloss",
+      "kind": "stay",
+      "locality": "Zurich",
+      "lat": 47.36457,
+      "lon": 8.53435,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Splügenstr. 2",
+      "url": "http://www.alden.ch/",
+      "id": "switzerland-a7af186af180337942e7"
+    },
+    {
+      "name": "Zurich Marriott Hotel",
+      "kind": "stay",
+      "locality": "Zurich",
+      "lat": 47.382439,
+      "lon": 8.540655,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Neumühlequai 42",
+      "url": "https://www.marriott.com/hotels/travel/zrhdt-zurich-marriott-hotel/",
+      "id": "switzerland-679da74b7885b6f2878b"
+    },
+    {
+      "name": "Fischer's Fritz Camping",
+      "kind": "stay",
+      "locality": "Zurich",
+      "lat": 47.3363,
+      "lon": 8.5411,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "address": "Seestrasse 559",
+      "url": "http://www.fischers-fritz.ch/en/camping",
+      "id": "switzerland-04019170844b6a85b198"
+    },
+    {
+      "name": "Zurich",
+      "kind": "area",
+      "locality": "Zurich",
+      "lat": 47.36842,
+      "lon": 8.54045,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Zurich",
+      "id": "switzerland-eaedd777419da1597a25"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 4 distinct public Wikivoyage source pages; attempted 4 article titles covering the country, capital(s), and 2 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

@@ -1,0 +1,274 @@
+{
+  "sources": [
+    {
+      "title": "Republic of the Congo",
+      "url": "https://en.wikivoyage.org/wiki/Republic_of_the_Congo",
+      "checkedAt": "2026-10-21T08:09:16.617Z"
+    },
+    {
+      "title": "Brazzaville",
+      "url": "https://en.wikivoyage.org/wiki/Brazzaville",
+      "checkedAt": "2026-10-21T08:09:19.204Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Brazzaville",
+      "kind": "area",
+      "locality": "Republic of the Congo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Republic_of_the_Congo",
+      "id": "republic-of-the-congo-b7f82e4e89f9f82e95d9"
+    },
+    {
+      "name": "Pointe Noire",
+      "kind": "area",
+      "locality": "Republic of the Congo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Republic_of_the_Congo",
+      "id": "republic-of-the-congo-b4db49a6837efcf1d540"
+    },
+    {
+      "name": "Dolisie",
+      "kind": "area",
+      "locality": "Republic of the Congo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Republic_of_the_Congo",
+      "id": "republic-of-the-congo-2f934050ab8dd9292aa0"
+    },
+    {
+      "name": "Mossendjo",
+      "kind": "area",
+      "locality": "Republic of the Congo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Republic_of_the_Congo",
+      "id": "republic-of-the-congo-12c4287c9d14cad4c0c4"
+    },
+    {
+      "name": "Djambala",
+      "kind": "area",
+      "locality": "Republic of the Congo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Republic_of_the_Congo",
+      "id": "republic-of-the-congo-77dac08b10aae68468ec"
+    },
+    {
+      "name": "Owando",
+      "kind": "area",
+      "locality": "Republic of the Congo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Republic_of_the_Congo",
+      "id": "republic-of-the-congo-c5a4b840c235c45c5ed2"
+    },
+    {
+      "name": "Ouésso",
+      "kind": "area",
+      "locality": "Republic of the Congo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Republic_of_the_Congo",
+      "id": "republic-of-the-congo-2e95a8aa2490a721f1c8"
+    },
+    {
+      "name": "Palais du Peuple",
+      "kind": "do",
+      "locality": "Brazzaville",
+      "lat": -4.282925,
+      "lon": 15.265085,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazzaville",
+      "id": "republic-of-the-congo-971f48a12795adc6ac35"
+    },
+    {
+      "name": "Pierre Savorgnan de Brazza Memorial",
+      "kind": "do",
+      "locality": "Brazzaville",
+      "lat": -4.27854,
+      "lon": 15.27938,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazzaville",
+      "id": "republic-of-the-congo-93f51579ce1519430421"
+    },
+    {
+      "name": "Le Palais des Congrès",
+      "kind": "do",
+      "locality": "Brazzaville",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazzaville",
+      "address": "Avenue Des Armees",
+      "id": "republic-of-the-congo-0ebb08c0a8b49879bd33"
+    },
+    {
+      "name": "Brazzaville Zoo",
+      "kind": "do",
+      "locality": "Brazzaville",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazzaville",
+      "id": "republic-of-the-congo-d241772cdc39c37fed56"
+    },
+    {
+      "name": "Basilique Sainte-Anne of the Congo",
+      "kind": "do",
+      "locality": "Brazzaville",
+      "lat": -4.268626,
+      "lon": 15.284171,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazzaville",
+      "id": "republic-of-the-congo-95e6c35a4b7b328b1ee4"
+    },
+    {
+      "name": "Sacred Heart Cathedral",
+      "kind": "do",
+      "locality": "Brazzaville",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazzaville",
+      "id": "republic-of-the-congo-b0a346f9c1ee43bd323d"
+    },
+    {
+      "name": "Corniche",
+      "kind": "do",
+      "locality": "Brazzaville",
+      "lat": -4.28207,
+      "lon": 15.27224,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazzaville",
+      "url": "http://www.brazzaville.cg/",
+      "id": "republic-of-the-congo-9f67fd2b2c6a1f8905ad"
+    },
+    {
+      "name": "Tennis Club",
+      "kind": "do",
+      "locality": "Brazzaville",
+      "lat": -4.269138,
+      "lon": 15.252073,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazzaville",
+      "id": "republic-of-the-congo-f3201bb97fec27897b3d"
+    },
+    {
+      "name": "Brazzaville Golf Club",
+      "kind": "do",
+      "locality": "Brazzaville",
+      "lat": -4.307243,
+      "lon": 15.20743,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazzaville",
+      "id": "republic-of-the-congo-2801d296fb44e629aa2b"
+    },
+    {
+      "name": "Hippocampe",
+      "kind": "eat",
+      "locality": "Brazzaville",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazzaville",
+      "id": "republic-of-the-congo-e6cb07deeca7550fcbf1"
+    },
+    {
+      "name": "Château Rouge",
+      "kind": "eat",
+      "locality": "Brazzaville",
+      "lat": -4.277176,
+      "lon": 15.277336,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazzaville",
+      "address": "Avenue Foch",
+      "id": "republic-of-the-congo-ac9c4099f665c2c3d16c"
+    },
+    {
+      "name": "No Stress",
+      "kind": "eat",
+      "locality": "Brazzaville",
+      "lat": -4.270697,
+      "lon": 15.288894,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazzaville",
+      "id": "republic-of-the-congo-4f9b16471f26034a7daa"
+    },
+    {
+      "name": "Hotel Hippocampe",
+      "kind": "stay",
+      "locality": "Brazzaville",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazzaville",
+      "address": "Rue Behangle",
+      "url": "https://m.facebook.com/pages/category/Hotel/Hippocampe-Brazzaville-197373833650923/",
+      "id": "republic-of-the-congo-9775051f952935a7b785"
+    },
+    {
+      "name": "Hotel Africa",
+      "kind": "stay",
+      "locality": "Brazzaville",
+      "lat": -4.26163,
+      "lon": 15.27948,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazzaville",
+      "address": "41 Rue Kouyou",
+      "price": "FCFA 37710",
+      "url": "https://m.facebook.com/H%C3%B4tel-Africa-185092984976958/",
+      "id": "republic-of-the-congo-640b14b2e6cf4ca76dbf"
+    },
+    {
+      "name": "Hotel Marina",
+      "kind": "stay",
+      "locality": "Brazzaville",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazzaville",
+      "address": "BP 1947",
+      "id": "republic-of-the-congo-73d94d12c2268f22f585"
+    },
+    {
+      "name": "Hotel du Boulevard",
+      "kind": "stay",
+      "locality": "Brazzaville",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazzaville",
+      "address": "C.J491-492 V Soprogi Moungali Centre-Ville",
+      "url": "https://m.facebook.com/hotelduboulevardBrazzaville/",
+      "id": "republic-of-the-congo-c810183767c023a32ad2"
+    },
+    {
+      "name": "Hotel Saphir",
+      "kind": "stay",
+      "locality": "Brazzaville",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazzaville",
+      "address": "BP 1307",
+      "url": "https://www.hotel-saphir-brazza.com/",
+      "id": "republic-of-the-congo-056de073d4661a08e148"
+    },
+    {
+      "name": "River Appart Hotel",
+      "kind": "stay",
+      "locality": "Brazzaville",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazzaville",
+      "url": "https://m.facebook.com/riverapparts/",
+      "id": "republic-of-the-congo-fb2e92ca37ddb1b6f0fd"
+    },
+    {
+      "name": "Ledger Hotel Maya Maya",
+      "kind": "stay",
+      "locality": "Brazzaville",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazzaville",
+      "price": "$148",
+      "url": "https://grandlancasterbrazzaville.com/",
+      "id": "republic-of-the-congo-e432dc38c1cd5e4f2bad"
+    },
+    {
+      "name": "Olympic Palace Hotel",
+      "kind": "stay",
+      "locality": "Brazzaville",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazzaville",
+      "address": "15 Avenue de l'Amitié B.P.: 1050",
+      "price": "FCFA 100,000 for old room, 150,000 for new room, 180,000 for double room",
+      "url": "https://www.olympic-palace-hotel.net/fr",
+      "id": "republic-of-the-congo-b10752196337a91b9820"
+    },
+    {
+      "name": "Mikhael's Hotel",
+      "kind": "stay",
+      "locality": "Brazzaville",
+      "lat": -4.27091,
+      "lon": 15.28124,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazzaville",
+      "price": "$166",
+      "url": "http://www.mikhaelshotel.com/",
+      "id": "republic-of-the-congo-5de24d206f564975c1ec"
+    },
+    {
+      "name": "Radisson Blu M'Bamou Palace Hotel, Brazzaville",
+      "kind": "stay",
+      "locality": "Brazzaville",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazzaville",
+      "address": "Centre-Ville, Corniche, Av. Amilcar Cabral",
+      "price": "$196",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-brazzaville-mbamou",
+      "id": "republic-of-the-congo-da452bd656da3709496a"
+    },
+    {
+      "name": "Brazzaville",
+      "kind": "area",
+      "locality": "Brazzaville",
+      "lat": -4.25,
+      "lon": 15.266667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brazzaville",
+      "id": "republic-of-the-congo-0353c9e6f2dcb53f45c6"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

@@ -1,0 +1,2318 @@
+{
+  "sources": [
+    {
+      "title": "Philippines",
+      "url": "https://en.wikivoyage.org/wiki/Philippines",
+      "checkedAt": "2026-10-21T08:06:01.540Z"
+    },
+    {
+      "title": "Manila",
+      "url": "https://en.wikivoyage.org/wiki/Manila",
+      "checkedAt": "2026-10-21T08:06:04.436Z"
+    },
+    {
+      "title": "Manila/Binondo",
+      "url": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "checkedAt": "2026-10-21T08:06:07.180Z"
+    },
+    {
+      "title": "Manila/Ermita",
+      "url": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "checkedAt": "2026-10-21T08:06:10.587Z"
+    },
+    {
+      "title": "Manila/Intramuros",
+      "url": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "checkedAt": "2026-10-21T08:06:13.186Z"
+    },
+    {
+      "title": "Manila/Malate",
+      "url": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "checkedAt": "2026-10-21T08:06:16.394Z"
+    },
+    {
+      "title": "Manila/Quiapo",
+      "url": "https://en.wikivoyage.org/wiki/Manila%2FQuiapo",
+      "checkedAt": "2026-10-21T08:06:19.347Z"
+    },
+    {
+      "title": "Manila/Santa Cruz",
+      "url": "https://en.wikivoyage.org/wiki/Manila%2FSanta_Cruz",
+      "checkedAt": "2026-10-21T08:06:22.189Z"
+    },
+    {
+      "title": "Palawan",
+      "url": "https://en.wikivoyage.org/wiki/Palawan",
+      "checkedAt": "2026-10-21T08:06:25.200Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Metro Manila",
+      "kind": "area",
+      "locality": "Philippines",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Philippines",
+      "id": "philippines-beccffb632fb28757c88"
+    },
+    {
+      "name": "Bacolod",
+      "kind": "area",
+      "locality": "Philippines",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Philippines",
+      "id": "philippines-dbe82d012c93f09896aa"
+    },
+    {
+      "name": "Baguio",
+      "kind": "area",
+      "locality": "Philippines",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Philippines",
+      "id": "philippines-7748d612613934abfc5d"
+    },
+    {
+      "name": "Cagayan de Oro",
+      "kind": "area",
+      "locality": "Philippines",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Philippines",
+      "id": "philippines-2eaaaa1614c5e0136c9e"
+    },
+    {
+      "name": "Cebu City",
+      "kind": "area",
+      "locality": "Philippines",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Philippines",
+      "id": "philippines-a6a390096220e9383e18"
+    },
+    {
+      "name": "Davao",
+      "kind": "area",
+      "locality": "Philippines",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Philippines",
+      "id": "philippines-827ccde952e01ec2c87b"
+    },
+    {
+      "name": "Tagbilaran",
+      "kind": "area",
+      "locality": "Philippines",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Philippines",
+      "id": "philippines-1a4167fc23f8e86e9735"
+    },
+    {
+      "name": "Vigan",
+      "kind": "area",
+      "locality": "Philippines",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Philippines",
+      "id": "philippines-4181f94d9f604c18de02"
+    },
+    {
+      "name": "Zamboanga",
+      "kind": "area",
+      "locality": "Philippines",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Philippines",
+      "id": "philippines-589e8f1b76b515d9cf80"
+    },
+    {
+      "name": "Mount Apo",
+      "kind": "do",
+      "locality": "Philippines",
+      "lat": 6.9875,
+      "lon": 125.270833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Philippines",
+      "id": "philippines-2d312416f98dc83b987d"
+    },
+    {
+      "name": "Mount Pinatubo",
+      "kind": "do",
+      "locality": "Philippines",
+      "lat": 15.141667,
+      "lon": 120.35,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Philippines",
+      "id": "philippines-20f230f4c9c86dd46298"
+    },
+    {
+      "name": "Mayon Volcano",
+      "kind": "do",
+      "locality": "Philippines",
+      "lat": 13.256667,
+      "lon": 123.685,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Philippines",
+      "id": "philippines-71f07e261246f298b3de"
+    },
+    {
+      "name": "Taal Volcano",
+      "kind": "do",
+      "locality": "Philippines",
+      "lat": 14,
+      "lon": 120.98,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Philippines",
+      "id": "philippines-6818c2ba7213ada78839"
+    },
+    {
+      "name": "University of Santo Tomas",
+      "kind": "do",
+      "locality": "Manila",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila",
+      "id": "philippines-7ad73172a1ca8b94b7e6"
+    },
+    {
+      "name": "National Museum of the Philippines",
+      "kind": "do",
+      "locality": "Manila",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila",
+      "address": "P. Burgos Ave",
+      "price": "Free",
+      "url": "http://www.nationalmuseum.gov.ph/",
+      "id": "philippines-272bb1ac4e5cc12044c6"
+    },
+    {
+      "name": "Bahay Tsinoy",
+      "kind": "do",
+      "locality": "Manila",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila",
+      "id": "philippines-167c12f39fdd40f606b3"
+    },
+    {
+      "name": "Museo Pambata",
+      "kind": "do",
+      "locality": "Manila",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila",
+      "address": "Roxas Boulevard cnr South Drive",
+      "price": "PHP 100",
+      "url": "http://www.museopambata.org/",
+      "id": "philippines-c3dacd19202673982601"
+    },
+    {
+      "name": "Manila Zoological and Botanical Garden",
+      "kind": "do",
+      "locality": "Manila",
+      "lat": 14.5647,
+      "lon": 120.9886,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila",
+      "id": "philippines-d76ce35622e476ff471c"
+    },
+    {
+      "name": "Manila",
+      "kind": "area",
+      "locality": "Manila",
+      "lat": 14.583333,
+      "lon": 120.966667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila",
+      "id": "philippines-6e2efda8abfe66954c83"
+    },
+    {
+      "name": "Binondo Church",
+      "kind": "do",
+      "locality": "Manila/Binondo",
+      "lat": 14.599967,
+      "lon": 120.974439,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "id": "philippines-f5daf7bde8d302908ddf"
+    },
+    {
+      "name": "Kuang Kong",
+      "kind": "do",
+      "locality": "Manila/Binondo",
+      "lat": 14.60168,
+      "lon": 120.97904,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "id": "philippines-3f56c1425971335180df"
+    },
+    {
+      "name": "Seng Guan Temple",
+      "kind": "do",
+      "locality": "Manila/Binondo",
+      "lat": 14.607869,
+      "lon": 120.974732,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "id": "philippines-7b928167eb72139090b2"
+    },
+    {
+      "name": "Chinatown Museum",
+      "kind": "do",
+      "locality": "Manila/Binondo",
+      "lat": 14.6038,
+      "lon": 120.97376,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "4th Floor North Wing, Lucky Chinatown Mall",
+      "price": "Regular ₱150, senior citizen or PWD ₱120, student ₱100",
+      "url": "https://www.chinatownmuseum.org/",
+      "id": "philippines-ebbf048c44504a97396a"
+    },
+    {
+      "name": "Filipino-Chinese Friendship Arch",
+      "kind": "do",
+      "locality": "Manila/Binondo",
+      "lat": 14.59628,
+      "lon": 120.97704,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "708-736 Ongpin Street",
+      "id": "philippines-cee03bea61b081145ef3"
+    },
+    {
+      "name": "Escolta Street",
+      "kind": "do",
+      "locality": "Manila/Binondo",
+      "lat": 14.59779,
+      "lon": 120.9785,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "Escolta Street",
+      "id": "philippines-7140e83ae7a3a29b5a2c"
+    },
+    {
+      "name": "Ongpin Street",
+      "kind": "do",
+      "locality": "Manila/Binondo",
+      "lat": 14.60039,
+      "lon": 120.97535,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "Ongpin Street",
+      "id": "philippines-483657d29f28fbff5f7a"
+    },
+    {
+      "name": "Arranque Market",
+      "kind": "do",
+      "locality": "Manila/Binondo",
+      "lat": 14.604,
+      "lon": 120.97961,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "Claro M. Recto Avenue",
+      "id": "philippines-41f10f57223ac708171e"
+    },
+    {
+      "name": "Carvajal Street",
+      "kind": "do",
+      "locality": "Manila/Binondo",
+      "lat": 14.59968,
+      "lon": 120.97561,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "Carvajal Street",
+      "id": "philippines-0bbff4e85dffe21ac555"
+    },
+    {
+      "name": "Dong Bei Dumplings",
+      "kind": "eat",
+      "locality": "Manila/Binondo",
+      "lat": 14.601191,
+      "lon": 120.975187,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "642 Yuchengco St",
+      "id": "philippines-78911224db9e53e43c18"
+    },
+    {
+      "name": "New Po Heng Lumpia House",
+      "kind": "eat",
+      "locality": "Manila/Binondo",
+      "lat": 14.5995113,
+      "lon": 120.9754824,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "621, 1006 Carvajal St",
+      "id": "philippines-353f1350dcdf043f7018"
+    },
+    {
+      "name": "Sincerity Restaurant",
+      "kind": "eat",
+      "locality": "Manila/Binondo",
+      "lat": 14.5991207,
+      "lon": 120.9752223,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "519 Quintin Paredes Rd",
+      "id": "philippines-cbfcd97e91fae597f30c"
+    },
+    {
+      "name": "Chowking",
+      "kind": "eat",
+      "locality": "Manila/Binondo",
+      "lat": 14.6027918,
+      "lon": 120.9709264,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "3/F Divimall Commercio Street, corner Tabora St",
+      "id": "philippines-b994b8b59a3d51addbf0"
+    },
+    {
+      "name": "Masuki",
+      "kind": "eat",
+      "locality": "Manila/Binondo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "931 Benavidez Street",
+      "id": "philippines-f2f684f4883f6e204e1b"
+    },
+    {
+      "name": "Ho-Land Hopia & Bakery",
+      "kind": "eat",
+      "locality": "Manila/Binondo",
+      "lat": 14.59993,
+      "lon": 120.97584,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "551 Yuchengco Street",
+      "url": "https://holandhopia.com/",
+      "id": "philippines-89caafcee297dd7024ef"
+    },
+    {
+      "name": "Big Bowl Noodles",
+      "kind": "eat",
+      "locality": "Manila/Binondo",
+      "lat": 14.60029,
+      "lon": 120.97553,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "517 Yuchengco Street",
+      "id": "philippines-8cd474f7ebc5ced888e0"
+    },
+    {
+      "name": "Lord Stow's Bakery - Ongpin",
+      "kind": "eat",
+      "locality": "Manila/Binondo",
+      "lat": 14.60147,
+      "lon": 120.97637,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "Ongpin Street",
+      "url": "https://www.facebook.com/LordStowsBakeryPH/",
+      "id": "philippines-deeb1c379f18acbbfa19"
+    },
+    {
+      "name": "Wai Ying Fastfood",
+      "kind": "eat",
+      "locality": "Manila/Binondo",
+      "lat": 14.601928,
+      "lon": 120.975999,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "810 Benavidez St",
+      "url": "https://www.facebook.com/waiyingfastfoodbinondo/",
+      "id": "philippines-4b3c6704c235137a2bb8"
+    },
+    {
+      "name": "Royal Garden",
+      "kind": "eat",
+      "locality": "Manila/Binondo",
+      "lat": 14.601595,
+      "lon": 120.977202,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "Ongpin St. corner Padilla St",
+      "id": "philippines-3d162bb2a108c92f0164"
+    },
+    {
+      "name": "Delicious Restaurant",
+      "kind": "eat",
+      "locality": "Manila/Binondo",
+      "lat": 14.60102,
+      "lon": 120.98039,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "580 F. Torres Street",
+      "url": "https://www.facebook.com/zctdeliciousrestaurant/",
+      "id": "philippines-11f53ba4ee4890d1d081"
+    },
+    {
+      "name": "LanZhou LaMien",
+      "kind": "eat",
+      "locality": "Manila/Binondo",
+      "lat": 14.60529,
+      "lon": 120.97219,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "5th Level, Food Center, 168 Shopping Mall, Recto Avenue",
+      "url": "https://www.facebook.com/officiallanzhoulamien/",
+      "id": "philippines-03565bf83b512613e4dc"
+    },
+    {
+      "name": "Eng Bee Tin Binondo",
+      "kind": "eat",
+      "locality": "Manila/Binondo",
+      "lat": 14.60045,
+      "lon": 120.97486,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "628 Ongpin Street",
+      "url": "https://www.engbeetin.com/",
+      "id": "philippines-d35c8cb71aac7ebd0e35"
+    },
+    {
+      "name": "Hap Chan - Tomas Mapua",
+      "kind": "eat",
+      "locality": "Manila/Binondo",
+      "lat": 14.60143,
+      "lon": 120.97981,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "Bellagio Bldg, Tomas Mapua Street",
+      "url": "http://www.hapchan.com.ph/",
+      "id": "philippines-1d457bb5bf0a4cc09ac6"
+    },
+    {
+      "name": "Kim Hiong Food Garden",
+      "kind": "eat",
+      "locality": "Manila/Binondo",
+      "lat": 14.60075,
+      "lon": 120.97977,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "1003 Ongpin Street",
+      "url": "https://www.facebook.com/beeffriednoodles/",
+      "id": "philippines-088ca5e67e65448d011f"
+    },
+    {
+      "name": "King Chef Seafood Restaurant",
+      "kind": "eat",
+      "locality": "Manila/Binondo",
+      "lat": 14.6033437,
+      "lon": 120.9729826,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "2/F Lucky Chinatown Mall, Reina Regente St",
+      "id": "philippines-5a21f39d33e34f6d05d0"
+    },
+    {
+      "name": "President's Teahouse",
+      "kind": "eat",
+      "locality": "Manila/Binondo",
+      "lat": 14.601399,
+      "lon": 120.975928,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "809 Salazar St",
+      "id": "philippines-5ee5d236d1728e323fee"
+    },
+    {
+      "name": "Ying Ying Teahouse",
+      "kind": "eat",
+      "locality": "Manila/Binondo",
+      "lat": 14.597971,
+      "lon": 120.976634,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "233-235 Dasmarinas Street corner Yuchengco St",
+      "price": "PHP 200-500",
+      "id": "philippines-f7273878342a10bbe0a1"
+    },
+    {
+      "name": "Ramada by Wyndham Manila Central",
+      "kind": "stay",
+      "locality": "Manila/Binondo",
+      "lat": 14.6,
+      "lon": 120.975,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "Ongpin Street corner Quintin Paredes Street",
+      "url": "https://www.ramadamanila.com/",
+      "id": "philippines-1363cea8279acef3501e"
+    },
+    {
+      "name": "Red Planet Manila Binondo",
+      "kind": "stay",
+      "locality": "Manila/Binondo",
+      "lat": 14.59817,
+      "lon": 120.97468,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "Juan Luna St",
+      "price": "₱1300",
+      "url": "https://www.redplanethotels.com/hotel/manila-binondo/",
+      "id": "philippines-5713c8eb7465d00289f6"
+    },
+    {
+      "name": "Hotel Lucky Chinatown",
+      "kind": "stay",
+      "locality": "Manila/Binondo",
+      "lat": 14.60374,
+      "lon": 120.97395,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "21 Reina Regente St",
+      "url": "https://hotelluckychinatown.com/",
+      "id": "philippines-5c37dbade200f10d7085"
+    },
+    {
+      "name": "ZEN Premium Binondo Manila",
+      "kind": "stay",
+      "locality": "Manila/Binondo",
+      "lat": 14.60332,
+      "lon": 120.9727,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "667-669 Plaza Lachambre Street",
+      "price": "₱2166",
+      "url": "https://www.zenrooms.com/id/hotel/21/zen-premium-binondo-manila-manila-2650",
+      "id": "philippines-c6b65ad24a9bcffddacb"
+    },
+    {
+      "name": "Swiss-Belhotel Blulane",
+      "kind": "stay",
+      "locality": "Manila/Binondo",
+      "lat": 14.60169,
+      "lon": 120.97966,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "609 Tomas Mapua Street",
+      "url": "https://www.swiss-belhotel.com/en-gb/swiss-belhotel-blulane",
+      "id": "philippines-98c4ad17148d793ef6dd"
+    },
+    {
+      "name": "Chinatown Lai Lai Hotel",
+      "kind": "stay",
+      "locality": "Manila/Binondo",
+      "lat": 14.60188,
+      "lon": 120.97748,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "801 Ongpin Street, Santa Cruz",
+      "url": "http://chinatownlailai.com/",
+      "id": "philippines-8a4fd185a486a20d9527"
+    },
+    {
+      "name": "Peace Hotel",
+      "kind": "stay",
+      "locality": "Manila/Binondo",
+      "lat": 14.60377,
+      "lon": 120.97743,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "address": "#1285 Soler Street",
+      "price": "₱1,779",
+      "url": "http://www.peacehotel.com.ph/",
+      "id": "philippines-83406e63064d6106be96"
+    },
+    {
+      "name": "Manila/Binondo",
+      "kind": "area",
+      "locality": "Manila/Binondo",
+      "lat": 14.6,
+      "lon": 120.966944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FBinondo",
+      "id": "philippines-36d4e9b8fc75a1033170"
+    },
+    {
+      "name": "Manila Ocean Park",
+      "kind": "do",
+      "locality": "Manila/Ermita",
+      "lat": 14.579306,
+      "lon": 120.972486,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "near Roxas Blvd",
+      "price": "From PHP 595 per person",
+      "url": "http://www.manilaoceanpark.com/",
+      "id": "philippines-50a7f10296eabb29831f"
+    },
+    {
+      "name": "Museo Pambata",
+      "kind": "do",
+      "locality": "Manila/Ermita",
+      "lat": 14.5791,
+      "lon": 120.977,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "Roxas Boulevard cor. South Dr",
+      "url": "http://www.museopambata.org/",
+      "id": "philippines-4e9a9928a105fbc86d88"
+    },
+    {
+      "name": "National Museum of Anthropology",
+      "kind": "do",
+      "locality": "Manila/Ermita",
+      "lat": 14.58514,
+      "lon": 120.98086,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "P. Burgos Drive",
+      "url": "http://www.nationalmuseum.gov.ph/",
+      "id": "philippines-9873592e35c27c7e92aa"
+    },
+    {
+      "name": "National Museum of Fine Arts",
+      "kind": "do",
+      "locality": "Manila/Ermita",
+      "lat": 14.587,
+      "lon": 120.9811,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "Padre Burgos Avenue",
+      "url": "http://www.nationalmuseum.gov.ph/",
+      "id": "philippines-f729ae701ca6814eea7c"
+    },
+    {
+      "name": "National Museum of Natural History",
+      "kind": "do",
+      "locality": "Manila/Ermita",
+      "lat": 14.5835,
+      "lon": 120.9822,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "Teodoro F. Valencia Circle",
+      "url": "https://www.nationalmuseum.gov.ph/",
+      "id": "philippines-6abffd1a733497a3eded"
+    },
+    {
+      "name": "National Planetarium Manila",
+      "kind": "do",
+      "locality": "Manila/Ermita",
+      "lat": 14.5839,
+      "lon": 120.9782,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "Padre Burgos Street",
+      "url": "https://www.nationalmuseum.gov.ph/our-museums/national-planetarium/",
+      "id": "philippines-02ee5870727194571795"
+    },
+    {
+      "name": "Rizal Park (Luneta)",
+      "kind": "do",
+      "locality": "Manila/Ermita",
+      "lat": 14.581667,
+      "lon": 120.976694,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "Roxas Blvd",
+      "id": "philippines-429ea08053da2bf1a062"
+    },
+    {
+      "name": "Mehan Garden",
+      "kind": "do",
+      "locality": "Manila/Ermita",
+      "lat": 14.5922,
+      "lon": 120.9806,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "id": "philippines-a4a4258cf2ced597c996"
+    },
+    {
+      "name": "Department of Tourism",
+      "kind": "do",
+      "locality": "Manila/Ermita",
+      "lat": 14.5851,
+      "lon": 120.981,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "T. M. Kalaw",
+      "id": "philippines-998122b60c1b4df51f9b"
+    },
+    {
+      "name": "Manila Central Post Office Building",
+      "kind": "do",
+      "locality": "Manila/Ermita",
+      "lat": 14.5955,
+      "lon": 120.9791,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "Liwasang Bonifacio",
+      "id": "philippines-794ac8b3e747ab20790f"
+    },
+    {
+      "name": "Manila City Hall",
+      "kind": "do",
+      "locality": "Manila/Ermita",
+      "lat": 14.5891,
+      "lon": 120.981,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "P. Gomez Street corner Natividad Street",
+      "id": "philippines-7aaa6c9f6252d1c801e8"
+    },
+    {
+      "name": "Supreme Court",
+      "kind": "do",
+      "locality": "Manila/Ermita",
+      "lat": 14.57986,
+      "lon": 120.98558,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "Padre Faura Street corner Taft Avenue",
+      "url": "http://sc.judiciary.gov.ph/",
+      "id": "philippines-3a50cd1d4ad41e84501e"
+    },
+    {
+      "name": "Metropolitan Theater",
+      "kind": "do",
+      "locality": "Manila/Ermita",
+      "lat": 14.594,
+      "lon": 120.9805,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "Padre Burgos",
+      "id": "philippines-a91b093319baeeccb6fb"
+    },
+    {
+      "name": "Kilometre Zero",
+      "kind": "do",
+      "locality": "Manila/Ermita",
+      "lat": 14.5813,
+      "lon": 120.9762,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "Roxas Boulevard",
+      "price": "Free",
+      "id": "philippines-d327c9a47a89fc4d7e83"
+    },
+    {
+      "name": "Dads Saisaki Kamayan",
+      "kind": "eat",
+      "locality": "Manila/Ermita",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "523 Merchant Building, Padre Faura St",
+      "id": "philippines-c348eeba2625a970afc4"
+    },
+    {
+      "name": "Pepper Lunch",
+      "kind": "eat",
+      "locality": "Manila/Ermita",
+      "lat": 14.5758,
+      "lon": 120.9836,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "located in Robinson's Place Manila",
+      "url": "https://www.facebook.com/pepperlunchphil/",
+      "id": "philippines-e066a64e4afee6dc1619"
+    },
+    {
+      "name": "Racks",
+      "kind": "eat",
+      "locality": "Manila/Ermita",
+      "lat": 14.5758,
+      "lon": 120.9836,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "Ground Floor, Padre Faura Wing, Robinson's Place Manila",
+      "url": "https://racks.ph/",
+      "id": "philippines-a901632f8081d2abbffe"
+    },
+    {
+      "name": "New Bombay",
+      "kind": "eat",
+      "locality": "Manila/Ermita",
+      "lat": 14.5758,
+      "lon": 120.9836,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "Robinson's Place Manila",
+      "url": "https://www.facebook.com/newbombayresturantmanila/",
+      "id": "philippines-c0f3132e5272f7fa458a"
+    },
+    {
+      "name": "Amber Food",
+      "kind": "eat",
+      "locality": "Manila/Ermita",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "1st Floor, De Leon Center, 1151 M. H. Del Pilar St, Ermita, Manila, 1000 Metro Manila",
+      "url": "https://amberfoodmenuph.com/locations/",
+      "id": "philippines-2fbf2f3678374f735c6a"
+    },
+    {
+      "name": "Starbucks",
+      "kind": "eat",
+      "locality": "Manila/Ermita",
+      "lat": 14.5758,
+      "lon": 120.9836,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "located in SM City Manila, U.N. Avenue, Robinson's Place Manila, Philippine General Hospital",
+      "url": "http://www.starbucks.ph/",
+      "id": "philippines-05d498f94334efd9afdc"
+    },
+    {
+      "name": "Sunny Bay Suites",
+      "kind": "stay",
+      "locality": "Manila/Ermita",
+      "lat": 14.57479,
+      "lon": 120.98084,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "1438 Roxas Blvd",
+      "price": "Rates start at PHP 1720",
+      "url": "http://www.sunnybaysuites.com/",
+      "id": "philippines-55ced0fa2c4cee59cdd7"
+    },
+    {
+      "name": "Cherry Blossoms Hotel",
+      "kind": "stay",
+      "locality": "Manila/Ermita",
+      "lat": 14.57721,
+      "lon": 120.98327,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "550 Jorge Bocobo Extension",
+      "price": "Best rates on official website start at PHP 1600",
+      "url": "https://www.facebook.com/Cherry-Blossoms-Hotel-573736889314254/",
+      "id": "philippines-99fb9cc271ac0ada5cf8"
+    },
+    {
+      "name": "Casa Bocobo Hotel",
+      "kind": "stay",
+      "locality": "Manila/Ermita",
+      "lat": 14.58101,
+      "lon": 120.981,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "Jorge Bocobo St. cor. T.M. Kalaw Ave.",
+      "price": "Rates start at PHP 2263 net single/double with breakfast",
+      "url": "https://casa-bocobo-hotel.business.site/",
+      "id": "philippines-60fb7f921e0b101a33d2"
+    },
+    {
+      "name": "Santos Pension House",
+      "kind": "stay",
+      "locality": "Manila/Ermita",
+      "lat": 14.5749,
+      "lon": 120.98261,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "1540 A Mabini Street",
+      "price": "PHP 560/PHP 690/PHP 990",
+      "id": "philippines-4e05cb9af7a52cbff0be"
+    },
+    {
+      "name": "Manila Lotus Hotel",
+      "kind": "stay",
+      "locality": "Manila/Ermita",
+      "lat": 14.5775,
+      "lon": 120.9811,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "1227 A. Mabini corner Padre Faura Streets",
+      "price": "₱1926",
+      "url": "https://www.manilalotus.com/",
+      "id": "philippines-77236d43960ee4932d21"
+    },
+    {
+      "name": "City Garden Suites Manila",
+      "kind": "stay",
+      "locality": "Manila/Ermita",
+      "lat": 14.57912,
+      "lon": 120.98076,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "1158 A. Mabini St",
+      "price": "₱1781",
+      "url": "https://www.citygardensuites.com/",
+      "id": "philippines-fba6910ac01b3fbdb774"
+    },
+    {
+      "name": "Midland Plaza Manila Hotel",
+      "kind": "stay",
+      "locality": "Manila/Ermita",
+      "lat": 14.57686,
+      "lon": 120.98277,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "M. Adriatico St",
+      "price": "Best rates on official website start at US$40",
+      "url": "https://midlandplaza.hotels-manila.com/en/",
+      "id": "philippines-ab5c73e9cf515ae1bfc8"
+    },
+    {
+      "name": "Pearl Manila",
+      "kind": "stay",
+      "locality": "Manila/Ermita",
+      "lat": 14.58179,
+      "lon": 120.98566,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "General Luna St. cor. Taft Ave. & United Nations Ave",
+      "price": "₱2118",
+      "url": "https://www.facebook.com/ThePearlManila/",
+      "id": "philippines-1f12c1f162732e081629"
+    },
+    {
+      "name": "Luneta Hotel",
+      "kind": "stay",
+      "locality": "Manila/Ermita",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "414 Kalaw Ave",
+      "id": "philippines-282bc7d6b4c5896ffc8a"
+    },
+    {
+      "name": "Red Planet Manila Bay",
+      "kind": "stay",
+      "locality": "Manila/Ermita",
+      "lat": 14.57761,
+      "lon": 120.97935,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "Arquiza corner Alhambra Streets",
+      "price": "PHP 2,022 / NIGHT",
+      "url": "https://www.redplanethotels.com/hotel/manila-bay-ermita",
+      "id": "philippines-781e8c272445733bd84a"
+    },
+    {
+      "name": "Mont Albo Massage Hut United Nations Avenue",
+      "kind": "stay",
+      "locality": "Manila/Ermita",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "GF Mayfair Tower United Nations Avenue st. Corner Mabini St",
+      "price": "Massage for PHP 350",
+      "url": "http://www.myfishnchips.blogspot.com/2012/03/mont-albo-massage-un-avenue-is-now-open.html",
+      "id": "philippines-c2aa4f13e291957632d5"
+    },
+    {
+      "name": "Hotel H2O",
+      "kind": "stay",
+      "locality": "Manila/Ermita",
+      "lat": 14.57874,
+      "lon": 120.97285,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "part of Manila Ocean Park",
+      "price": "Best rates on official website start at PHP 4758",
+      "url": "https://www.manilaoceanpark.com/hotel-h2o",
+      "id": "philippines-ad15e4ac14bc302dda97"
+    },
+    {
+      "name": "Rizal Park Hotel",
+      "kind": "stay",
+      "locality": "Manila/Ermita",
+      "lat": 14.57877,
+      "lon": 120.97625,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "South Road Drive, Kalaw Ave, Ext",
+      "url": "https://www.rizalparkhotelmanila.com/",
+      "id": "philippines-852f3f85f80828e95b87"
+    },
+    {
+      "name": "The Manila Hotel",
+      "kind": "stay",
+      "locality": "Manila/Ermita",
+      "lat": 14.58289,
+      "lon": 120.974,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "1 Rizal Park",
+      "url": "https://www.manila-hotel.com.ph/",
+      "id": "philippines-dcc2d776c55ff0977e0c"
+    },
+    {
+      "name": "Bayview Park Hotel Manila",
+      "kind": "stay",
+      "locality": "Manila/Ermita",
+      "lat": 14.5787,
+      "lon": 120.97838,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "address": "118 Roxas Boulevard, corner United Nations Avenue",
+      "url": "https://bayviewparkhotel.com/",
+      "id": "philippines-82c37a92b5a5ffa99fbf"
+    },
+    {
+      "name": "Manila/Ermita",
+      "kind": "area",
+      "locality": "Manila/Ermita",
+      "lat": 14.5833,
+      "lon": 120.9823,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FErmita",
+      "id": "philippines-2f1f1e66720094f834c2"
+    },
+    {
+      "name": "Fort Santiago",
+      "kind": "do",
+      "locality": "Manila/Intramuros",
+      "lat": 14.595,
+      "lon": 120.969444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "Santa Clara",
+      "id": "philippines-c302b6a4f46fc8f88451"
+    },
+    {
+      "name": "Postigo del Palacio",
+      "kind": "do",
+      "locality": "Manila/Intramuros",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "Santa Lucia",
+      "id": "philippines-b614e7a43ffd5abeaf34"
+    },
+    {
+      "name": "Baluarte de San Diego",
+      "kind": "do",
+      "locality": "Manila/Intramuros",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "Santa Lucia cor. Muralla",
+      "id": "philippines-a7f1658e68586e08aa10"
+    },
+    {
+      "name": "Puerta de Isabel II",
+      "kind": "do",
+      "locality": "Manila/Intramuros",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "Magallanes Drive",
+      "id": "philippines-43e94bb92da1cd5c8002"
+    },
+    {
+      "name": "Plaza de Roma",
+      "kind": "do",
+      "locality": "Manila/Intramuros",
+      "lat": 14.592118,
+      "lon": 120.973114,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "General Luna (Calle Real del Palacio) cor. Andres Soriano (Aduana)",
+      "id": "philippines-68497c244a7605f64b23"
+    },
+    {
+      "name": "Ayuntamiento",
+      "kind": "do",
+      "locality": "Manila/Intramuros",
+      "lat": 14.592192,
+      "lon": 120.974158,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "Andres Soriano (Aduana) cor. Cabildo",
+      "id": "philippines-4f461be60eab70be066b"
+    },
+    {
+      "name": "Palacio del Gobernador",
+      "kind": "do",
+      "locality": "Manila/Intramuros",
+      "lat": 14.5916,
+      "lon": 120.9725,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "General Luna (Calle Real del Palacio) cor. Andres Soriano (Aduana)",
+      "id": "philippines-c927008090e356a8eafa"
+    },
+    {
+      "name": "Minor Basilica of the Immaculate Conception (Manila Cathedral)",
+      "kind": "do",
+      "locality": "Manila/Intramuros",
+      "lat": 14.59147,
+      "lon": 120.97356,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "Cabildo cor. Beaterio",
+      "url": "https://manilacathedral.com.ph/",
+      "id": "philippines-3840146d0e05593a4154"
+    },
+    {
+      "name": "San Agustín Church",
+      "kind": "do",
+      "locality": "Manila/Intramuros",
+      "lat": 14.58886,
+      "lon": 120.97535,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "General Luna (Calle Real del Palacio) cor. Real",
+      "url": "http://sanagustinchurch.org/",
+      "id": "philippines-ad2f1878bb85d88cc774"
+    },
+    {
+      "name": "Bahay Tsinoy",
+      "kind": "do",
+      "locality": "Manila/Intramuros",
+      "lat": 14.590833,
+      "lon": 120.975,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "32 Anda cor. Cabildo",
+      "url": "http://www.bahaytsinoy.org/",
+      "id": "philippines-5fbad2da7c44d6d67f57"
+    },
+    {
+      "name": "Casa Manila",
+      "kind": "do",
+      "locality": "Manila/Intramuros",
+      "lat": 14.589733,
+      "lon": 120.975147,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "General Luna (Calle Real del Palacio) cor. Real",
+      "id": "philippines-2339c213ee111b7c4710"
+    },
+    {
+      "name": "Light and Sound Museum",
+      "kind": "do",
+      "locality": "Manila/Intramuros",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "Santa Lucia cor. Victoria",
+      "id": "philippines-cdc0fbff50b2af176dba"
+    },
+    {
+      "name": "Rizal Shrine",
+      "kind": "do",
+      "locality": "Manila/Intramuros",
+      "lat": 14.594477,
+      "lon": 120.969726,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "Fort Santiago",
+      "id": "philippines-de1ba0c1b0af425576cd"
+    },
+    {
+      "name": "San Agustín Museum",
+      "kind": "do",
+      "locality": "Manila/Intramuros",
+      "lat": 14.589068,
+      "lon": 120.975,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "General Luna (Calle Real del Palacio) cor. Real",
+      "price": "PHP 200/adult, PHP 100/college students, PHP 90/high-school students, PHP 40/elementary school students",
+      "id": "philippines-fadd347032fb16168373"
+    },
+    {
+      "name": "Intendencia (Aduana)",
+      "kind": "do",
+      "locality": "Manila/Intramuros",
+      "lat": 14.5939,
+      "lon": 120.975,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "Andres Soriano (Aduana) cor. Muralla",
+      "id": "philippines-0e06a249fe37effaceed"
+    },
+    {
+      "name": "San Ignacio Church",
+      "kind": "do",
+      "locality": "Manila/Intramuros",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "Arzobispo cor. Anda",
+      "id": "philippines-5b12266cea3cb6f046f9"
+    },
+    {
+      "name": "ECJ Building",
+      "kind": "do",
+      "locality": "Manila/Intramuros",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "Santa Lucia cor. Real",
+      "id": "philippines-bdf06c2810e2870ef041"
+    },
+    {
+      "name": "Club Intramuros Golf Course",
+      "kind": "do",
+      "locality": "Manila/Intramuros",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "Bonifacio Drive cor. Aduana Street, Port Area",
+      "id": "philippines-9d1ef840c7fcbf8cf4f0"
+    },
+    {
+      "name": "Bistro Marinero",
+      "kind": "eat",
+      "locality": "Manila/Intramuros",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "General Luna (Calle Real del Palacio) cor. Santa Potenciana",
+      "url": "http://www.casamarinero.com/BistroMarineroRestaurant/tabid/66/Default.aspx",
+      "id": "philippines-df888c51c535cf38171c"
+    },
+    {
+      "name": "Coco Bango Cafe and Restaurant",
+      "kind": "eat",
+      "locality": "Manila/Intramuros",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "Plaza San Luis Complex, General Luna (Calle Real del Palacio) cor. Urdaneta",
+      "url": "http://www.whiteknighthotelintramuros.com/Dining",
+      "id": "philippines-0a2922ad1ed3b2da7c43"
+    },
+    {
+      "name": "Ristorante delle Mitre",
+      "kind": "eat",
+      "locality": "Manila/Intramuros",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "CBCP Building, 470 General Luna (Calle Real del Palacio)",
+      "id": "philippines-c78c5694d7749fe01a72"
+    },
+    {
+      "name": "9 Spoons",
+      "kind": "eat",
+      "locality": "Manila/Intramuros",
+      "lat": 14.589948,
+      "lon": 120.978729,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "9th Floor, The Bayleaf Intramuros, Muralla cor. Victoria",
+      "url": "http://www.thebayleaf.com.ph/food-beverage/",
+      "id": "philippines-8e623ca3fa6e18be7bf0"
+    },
+    {
+      "name": "Barbara's",
+      "kind": "eat",
+      "locality": "Manila/Intramuros",
+      "lat": 14.589471,
+      "lon": 120.975235,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "Plaza San Luis, General Luna (Calle Real del Palacio)",
+      "url": "http://www.barbarasrestaurantandcatering.com/",
+      "id": "philippines-d1d77eb076a2ae9d74c3"
+    },
+    {
+      "name": "Ilustrado",
+      "kind": "eat",
+      "locality": "Manila/Intramuros",
+      "lat": 14.587537,
+      "lon": 120.977031,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "744 General Luna (Calle Real del Palacio)",
+      "url": "http://www.ilustradorestaurant.com.ph/",
+      "id": "philippines-3cd4eefafb68cb6c7a14"
+    },
+    {
+      "name": "Cioccolata – Churros Café",
+      "kind": "eat",
+      "locality": "Manila/Intramuros",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "Ground Floor, The Bayleaf Intramuros, Muralla cor. Victoria",
+      "url": "https://www.thebayleaf.com.ph/intramuros/restaurant/cioccolata-churros-cafe/",
+      "id": "philippines-b7e2a4ce1da2e494da32"
+    },
+    {
+      "name": "Starbucks",
+      "kind": "eat",
+      "locality": "Manila/Intramuros",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "15-A Puerta Isabel II, Muralla cor. Magallanes",
+      "url": "http://www.starbucks.com/default.asp",
+      "id": "philippines-38e1c1b490474ed000a0"
+    },
+    {
+      "name": "The Bayleaf Intramuros",
+      "kind": "stay",
+      "locality": "Manila/Intramuros",
+      "lat": 14.590147,
+      "lon": 120.978704,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "Muralla cor. Victoria",
+      "url": "http://www.thebayleaf.com.ph/",
+      "id": "philippines-e101c1da6cd1e7f9d975"
+    },
+    {
+      "name": "White Knight Hotel",
+      "kind": "stay",
+      "locality": "Manila/Intramuros",
+      "lat": 14.589657,
+      "lon": 120.975697,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "Plaza San Luis Complex, General Luna cor. Urdaneta",
+      "url": "http://www.whiteknighthotelintramuros.com/",
+      "id": "philippines-efdca0d3e3ae7955e7e7"
+    },
+    {
+      "name": "Manila Hotel",
+      "kind": "stay",
+      "locality": "Manila/Intramuros",
+      "lat": 14.582999,
+      "lon": 120.974052,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "address": "One Rizal Park, Roxas Blvd",
+      "url": "http://www.manila-hotel.com.ph/",
+      "id": "philippines-91737b54bb3f41c7742f"
+    },
+    {
+      "name": "Manila/Intramuros",
+      "kind": "area",
+      "locality": "Manila/Intramuros",
+      "lat": 14.590833,
+      "lon": 120.975,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FIntramuros",
+      "id": "philippines-2510dfbbf452592d6f38"
+    },
+    {
+      "name": "Malate Church",
+      "kind": "do",
+      "locality": "Manila/Malate",
+      "lat": 14.569127,
+      "lon": 120.984389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "2000 M.H. Del Pilar St., corner Remedios St.",
+      "url": "http://www.malatecatholicchurch.org/",
+      "id": "philippines-cee1d35a022361348fed"
+    },
+    {
+      "name": "Rajah Sulayman Park",
+      "kind": "do",
+      "locality": "Manila/Malate",
+      "lat": 14.56885,
+      "lon": 120.98363,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "Roxas Boulevard",
+      "id": "philippines-64c563885c9aca193a89"
+    },
+    {
+      "name": "Rizal Memorial Stadium",
+      "kind": "do",
+      "locality": "Manila/Malate",
+      "lat": 14.56273,
+      "lon": 120.98894,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "Rizal Memorial Sports Complex, M. Adriatico Street",
+      "id": "philippines-db4bb43e4d8ac13ad0cb"
+    },
+    {
+      "name": "De La Salle University Manila",
+      "kind": "do",
+      "locality": "Manila/Malate",
+      "lat": 14.56442,
+      "lon": 120.994,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "2401 Taft Avenue",
+      "url": "https://www.dlsu.edu.ph/",
+      "id": "philippines-0eb99955b898f78cd2c2"
+    },
+    {
+      "name": "Paraiso ng Batang Maynila",
+      "kind": "do",
+      "locality": "Manila/Malate",
+      "lat": 14.56636,
+      "lon": 120.98871,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "Quirino Avenue corner Adriatico Street",
+      "price": "Free",
+      "id": "philippines-cbf2f44522235a66bf5d"
+    },
+    {
+      "name": "Manila Zoo",
+      "kind": "do",
+      "locality": "Manila/Malate",
+      "lat": 14.56594,
+      "lon": 120.98869,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "M. Adriatico Street corner Quirino Avenue",
+      "price": "PHP300",
+      "url": "https://www.manilazoo.ph/",
+      "id": "philippines-0d15000bf2d9a02983d4"
+    },
+    {
+      "name": "Metropolitan Museum of Manila",
+      "kind": "do",
+      "locality": "Manila/Malate",
+      "lat": 14.56239,
+      "lon": 120.9865,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "Bangko Sentral ng Pilipinas Complex, Roxas Boulevard",
+      "url": "https://metmuseum.ph/",
+      "id": "philippines-982cf6184c0efc6f3cc2"
+    },
+    {
+      "name": "Bangko Sentral ng Pilipinas",
+      "kind": "do",
+      "locality": "Manila/Malate",
+      "lat": 14.56047,
+      "lon": 120.9876,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "A. Mabini Street, corner P. Ocampo Street",
+      "url": "https://www.bsp.gov.ph/",
+      "id": "philippines-eeec0252235f00d0c32d"
+    },
+    {
+      "name": "Fuerte de San Antonio Abad",
+      "kind": "do",
+      "locality": "Manila/Malate",
+      "lat": 14.56263,
+      "lon": 120.98685,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "Roxas Boulevard and A. Mabini Street",
+      "id": "philippines-9227a932a76b33b6d100"
+    },
+    {
+      "name": "De La Salle-College of Saint Benilde, Design and Arts Campus (D+A Campus)",
+      "kind": "do",
+      "locality": "Manila/Malate",
+      "lat": 14.56312,
+      "lon": 120.99711,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "950 Pablo Ocampo Street",
+      "url": "https://www.dlsu.edu.ph/",
+      "id": "philippines-ea897ae657a3d3c2dba7"
+    },
+    {
+      "name": "ASEAN Garden",
+      "kind": "do",
+      "locality": "Manila/Malate",
+      "lat": 14.55987,
+      "lon": 120.98664,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "Roxas Boulevard corner Pablo Ocampo Street",
+      "price": "Free",
+      "id": "philippines-92c7107616474858f1a3"
+    },
+    {
+      "name": "Yacht Club Historical Marker",
+      "kind": "do",
+      "locality": "Manila/Malate",
+      "lat": 14.56201,
+      "lon": 120.98556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "1004 Roxas Boulevard",
+      "price": "Free",
+      "id": "philippines-2fc222ead7d6c50454f4"
+    },
+    {
+      "name": "Manila Yacht Club",
+      "kind": "do",
+      "locality": "Manila/Malate",
+      "lat": 14.56186,
+      "lon": 120.98519,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "2351 Roxas Boulevard",
+      "url": "https://myc.org.ph/",
+      "id": "philippines-87d0e2163b3ff3e09894"
+    },
+    {
+      "name": "Aristocrat",
+      "kind": "eat",
+      "locality": "Manila/Malate",
+      "lat": 14.568362,
+      "lon": 120.983743,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "423 San Andres St",
+      "url": "https://aristocratph.com/",
+      "id": "philippines-9f9eb83c2d56dd6d6f9f"
+    },
+    {
+      "name": "Tambayan Express Cafe",
+      "kind": "eat",
+      "locality": "Manila/Malate",
+      "lat": 14.57386,
+      "lon": 120.98505,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "1622 Jorge Bocobo St, Malate",
+      "url": "https://radekstraveltips.com/birch-tower-manila123-philippines",
+      "id": "philippines-bc8210a0e444506817b4"
+    },
+    {
+      "name": "Al-Sham Middle East Cuisine",
+      "kind": "eat",
+      "locality": "Manila/Malate",
+      "lat": 14.57387,
+      "lon": 120.98411,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "1004 M. Adriatico Street",
+      "id": "philippines-10ebabf4048ed9e5bb06"
+    },
+    {
+      "name": "Becky's Kitchen",
+      "kind": "eat",
+      "locality": "Manila/Malate",
+      "lat": 14.56459,
+      "lon": 120.99894,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "1061 Pablo Ocampo Street corner Bautista Street",
+      "url": "http://facebook.com/beckyskitchenmanila",
+      "id": "philippines-ee832b861a31b32ab548"
+    },
+    {
+      "name": "Cafe Adriatico",
+      "kind": "eat",
+      "locality": "Manila/Malate",
+      "lat": 14.57039,
+      "lon": 120.986069,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "1790 Adriatico St. corner Remedios Circle",
+      "id": "philippines-901a40093ef4d23a0aac"
+    },
+    {
+      "name": "Casa Armas",
+      "kind": "eat",
+      "locality": "Manila/Malate",
+      "lat": 14.57446,
+      "lon": 120.990918,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "573 J. Nakpil St",
+      "id": "philippines-b24d0b2e5d5b988fbb70"
+    },
+    {
+      "name": "Korean Village Restaurant",
+      "kind": "eat",
+      "locality": "Manila/Malate",
+      "lat": 14.571471,
+      "lon": 120.985694,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "566 Nakpil St",
+      "url": "http://www.tsinoyfoodies.com/2013/11/korean-village-yakiniku-restaurant.html",
+      "id": "philippines-a36a565b51b1ef399d0d"
+    },
+    {
+      "name": "Tanabe Japanese Restaurant",
+      "kind": "eat",
+      "locality": "Manila/Malate",
+      "lat": 14.570583,
+      "lon": 120.987411,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "553 Remedios St",
+      "id": "philippines-bd3aeaf32152bff23ae5"
+    },
+    {
+      "name": "Market Café",
+      "kind": "eat",
+      "locality": "Manila/Malate",
+      "lat": 14.573439,
+      "lon": 120.98236,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "588 Pedro Gil St. corner M.H. del Pilar St",
+      "id": "philippines-e131d8cf3a047b5c238c"
+    },
+    {
+      "name": "Umimatsu Japanese Restaurant",
+      "kind": "eat",
+      "locality": "Manila/Malate",
+      "lat": 14.56997,
+      "lon": 120.98657,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "1st Floor, Chungdam Building, 560 Remedios Street",
+      "url": "https://www.facebook.com/umimatsurestaurant",
+      "id": "philippines-a778395fe6bbd53685c2"
+    },
+    {
+      "name": "Bedrock",
+      "kind": "eat",
+      "locality": "Manila/Malate",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "1782 M. Adriatico St",
+      "id": "philippines-eeab2442251fdf890f7f"
+    },
+    {
+      "name": "Leesons Residences",
+      "kind": "stay",
+      "locality": "Manila/Malate",
+      "lat": 14.573264,
+      "lon": 120.992144,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "944 Remedios Street",
+      "url": "http://www.leesonsresidences.com/",
+      "id": "philippines-3d0020e3be02dbc971ed"
+    },
+    {
+      "name": "Malate Pensionne",
+      "kind": "stay",
+      "locality": "Manila/Malate",
+      "lat": 14.570532,
+      "lon": 120.985742,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "1771 Adriatico St",
+      "price": "economy room from PHP 1100",
+      "url": "http://www.malatepensionne.com/",
+      "id": "philippines-3642dfaac8539a0dbc81"
+    },
+    {
+      "name": "Pension Natividad",
+      "kind": "stay",
+      "locality": "Manila/Malate",
+      "lat": 14.572115,
+      "lon": 120.982861,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "1690 MH del Pilar St",
+      "price": "fan room PHP 1400,",
+      "url": "https://m.facebook.com/pensionnatividad/",
+      "id": "philippines-4cbb8799bc719bdaedc5"
+    },
+    {
+      "name": "Pink Manila hostel",
+      "kind": "stay",
+      "locality": "Manila/Malate",
+      "lat": 14.565159,
+      "lon": 120.998627,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "2551 Don Pedro street cor. Bautista street",
+      "price": "Fan dorm PHP 450",
+      "url": "https://m.facebook.com/Pink.Manila/",
+      "id": "philippines-9a6d730d7b4b9eca067b"
+    },
+    {
+      "name": "Victoria Mansions",
+      "kind": "stay",
+      "locality": "Manila/Malate",
+      "lat": 14.571855,
+      "lon": 120.986323,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "600 J. Nakpil",
+      "price": "PHP 1200",
+      "id": "philippines-afd337090c3df0e66617"
+    },
+    {
+      "name": "Stay Malate Hostel",
+      "kind": "stay",
+      "locality": "Manila/Malate",
+      "lat": 14.571347,
+      "lon": 120.985483,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "Adriatico street",
+      "price": "A/C dorm from ₱450",
+      "url": "https://www.facebook.com/wanderersguesthouse/",
+      "id": "philippines-181a597127c3ad06c080"
+    },
+    {
+      "name": "Bahay Kubo Hostel",
+      "kind": "stay",
+      "locality": "Manila/Malate",
+      "lat": 14.57289,
+      "lon": 120.98616,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "1717 Maria Orosa Street",
+      "price": "from PHP 377 per person",
+      "url": "https://www.facebook.com/Humble-Hut-Hostel-Manila-660563337701135/",
+      "id": "philippines-e2b1a5af6c2b1c71cd27"
+    },
+    {
+      "name": "New Solanie Hotel",
+      "kind": "stay",
+      "locality": "Manila/Malate",
+      "lat": 14.57437,
+      "lon": 120.99179,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "1811 Leon Guinto St",
+      "price": "Rates start at PHP 2180",
+      "url": "http://www.solanie.com/",
+      "id": "philippines-e3bbeb1171e4c02c8dff"
+    },
+    {
+      "name": "Bay Area Suites-Manila",
+      "kind": "stay",
+      "locality": "Manila/Malate",
+      "lat": 14.5716,
+      "lon": 120.98716,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "1820 Maria Orosa Street",
+      "url": "http://bayareasuitesmanila.com/",
+      "id": "philippines-591f931e753d8ccb8f8c"
+    },
+    {
+      "name": "Hop Inn Hotel Ermita Manila",
+      "kind": "stay",
+      "locality": "Manila/Malate",
+      "lat": 14.57088,
+      "lon": 120.98456,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "1850 M. H. Del Pilar Street",
+      "url": "https://www.hopinnhotel.com/our-hotels/hop-inn-ermita-manila",
+      "id": "philippines-64aa77cf08677c4943f1"
+    },
+    {
+      "name": "Orchid Garden Suites - Manila",
+      "kind": "stay",
+      "locality": "Manila/Malate",
+      "lat": 14.56026,
+      "lon": 120.99146,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "620 P. Ocampo Street",
+      "url": "https://orchidgardensuites.com/",
+      "id": "philippines-09c319851d358db5c360"
+    },
+    {
+      "name": "Pearl Lane Hotel Manila",
+      "kind": "stay",
+      "locality": "Manila/Malate",
+      "lat": 14.57316,
+      "lon": 120.98636,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "1700 Maria Orosa St, Malate",
+      "url": "http://pearl-lane.manilahotelsweb.com/en/",
+      "id": "philippines-9c7d19e67a3f31815384"
+    },
+    {
+      "name": "lyf Malate Manila",
+      "kind": "stay",
+      "locality": "Manila/Malate",
+      "lat": 14.57374,
+      "lon": 120.98754,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "Malvar, corner Vasquez Streets",
+      "url": "https://www.discoverasr.com/en/lyf/philippines/lyf-malate-manila",
+      "id": "philippines-433e8fe7099bbcaa1585"
+    },
+    {
+      "name": "Aloha Hotel",
+      "kind": "stay",
+      "locality": "Manila/Malate",
+      "lat": 14.56485,
+      "lon": 120.98519,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "2150 Roxas Boulevard",
+      "url": "https://www.reddoorz.com/en-ph",
+      "id": "philippines-d5cb50af4e89cc429696"
+    },
+    {
+      "name": "Hotel Benilde",
+      "kind": "stay",
+      "locality": "Manila/Malate",
+      "lat": 14.56613,
+      "lon": 120.99772,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "Arellano Avenue Corner Estrada Streets",
+      "url": "http://www.hotelbenilde.com/",
+      "id": "philippines-398b4f90750c086735a6"
+    },
+    {
+      "name": "New Coast Hotel Manila",
+      "kind": "stay",
+      "locality": "Manila/Malate",
+      "lat": 14.57354,
+      "lon": 120.98268,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "1588 Pedro Gil Corner MH Del Pilar Streets",
+      "url": "https://www.newcoasthotels.com/",
+      "id": "philippines-5810ab55fc49a769af71"
+    },
+    {
+      "name": "Diamond Hotel Philippines",
+      "kind": "stay",
+      "locality": "Manila/Malate",
+      "lat": 14.57234,
+      "lon": 120.98205,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "Roxas Boulevard, Corner Dr. J. Quintos Street",
+      "url": "https://www.diamondhotel.com/",
+      "id": "philippines-27ce6158a3f71f3f0474"
+    },
+    {
+      "name": "Admiral Hotel Manila - MGallery",
+      "kind": "stay",
+      "locality": "Manila/Malate",
+      "lat": 14.56533,
+      "lon": 120.98507,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "2138 Roxas Boulevard",
+      "url": "https://www.admiralhotelmanila.com/",
+      "id": "philippines-5155239535d7d00a9634"
+    },
+    {
+      "name": "Century Park Hotel",
+      "kind": "stay",
+      "locality": "Manila/Malate",
+      "lat": 14.5614,
+      "lon": 120.9907,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "599 P. Ocampo Street",
+      "url": "https://centurypark.com.ph/",
+      "id": "philippines-0c1a0a3f0e3b3c48f5a7"
+    },
+    {
+      "name": "Sheraton Manila Bay",
+      "kind": "stay",
+      "locality": "Manila/Malate",
+      "lat": 14.57272,
+      "lon": 120.98427,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "address": "M. Adriatico, corner Gen. Malvar Streets",
+      "url": "https://www.marriott.com/en-us/hotels/mnlsb-sheraton-manila-bay/overview/",
+      "id": "philippines-fa2abf696e58e84a54e9"
+    },
+    {
+      "name": "Manila/Malate",
+      "kind": "area",
+      "locality": "Manila/Malate",
+      "lat": 14.567,
+      "lon": 120.983,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FMalate",
+      "id": "philippines-3a10cec86a1d526f049b"
+    },
+    {
+      "name": "Plaza Miranda",
+      "kind": "do",
+      "locality": "Manila/Quiapo",
+      "lat": 14.5984,
+      "lon": 120.98364,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FQuiapo",
+      "address": "Quezon Boulevard",
+      "price": "Free",
+      "id": "philippines-bfc471a1d4f878048265"
+    },
+    {
+      "name": "Golden Dome Mosque",
+      "kind": "do",
+      "locality": "Manila/Quiapo",
+      "lat": 14.595694,
+      "lon": 120.985139,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FQuiapo",
+      "address": "Globo de Oro Street",
+      "id": "philippines-1425afa7dfc808de5df6"
+    },
+    {
+      "name": "Ocampo Pagoda",
+      "kind": "do",
+      "locality": "Manila/Quiapo",
+      "lat": 14.59985,
+      "lon": 120.98583,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FQuiapo",
+      "address": "Gonzalo Puyat Street",
+      "id": "philippines-0dea88e1d62a9f00dbce"
+    },
+    {
+      "name": "Bahay Nakpil-Bautista",
+      "kind": "do",
+      "locality": "Manila/Quiapo",
+      "lat": 14.59843,
+      "lon": 120.9847,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FQuiapo",
+      "address": "A. Bautista Street",
+      "id": "philippines-35d661998b775b4467c5"
+    },
+    {
+      "name": "Boix House",
+      "kind": "do",
+      "locality": "Manila/Quiapo",
+      "lat": 14.59845,
+      "lon": 120.98476,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FQuiapo",
+      "address": "A. Bautista Street",
+      "id": "philippines-967b750392cadfdf42d7"
+    },
+    {
+      "name": "Paterno Mansion",
+      "kind": "do",
+      "locality": "Manila/Quiapo",
+      "lat": 14.59828,
+      "lon": 120.98614,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FQuiapo",
+      "address": "Hidalgo Street",
+      "id": "philippines-bd44e770c3d8e39c49b2"
+    },
+    {
+      "name": "San Sebastian Church",
+      "kind": "do",
+      "locality": "Manila/Quiapo",
+      "lat": 14.59983,
+      "lon": 120.98908,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FQuiapo",
+      "address": "Pasaje del Carmen Street",
+      "url": "https://www.rcam.org/sansebastianchurch/about-us/",
+      "id": "philippines-dee8fc8214424fba7099"
+    },
+    {
+      "name": "Quiapo Church",
+      "kind": "do",
+      "locality": "Manila/Quiapo",
+      "lat": 14.5987,
+      "lon": 120.98368,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FQuiapo",
+      "address": "Plaza Miranda",
+      "price": "Free",
+      "url": "https://quiapochurch.com.ph/",
+      "id": "philippines-436ca985e96cab08c07a"
+    },
+    {
+      "name": "Globe Lumpia House",
+      "kind": "eat",
+      "locality": "Manila/Quiapo",
+      "lat": 14.60059,
+      "lon": 120.98412,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FQuiapo",
+      "address": "740 Gonzalo Puyat St",
+      "price": "₱40",
+      "url": "https://www.facebook.com/GLOBELUMPIAHOUSE",
+      "id": "philippines-87c70f2d96c1d71798ce"
+    },
+    {
+      "name": "Pastora Special Palabok",
+      "kind": "eat",
+      "locality": "Manila/Quiapo",
+      "lat": 14.59617,
+      "lon": 120.9828,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FQuiapo",
+      "address": "Carlos Palanca St. cor. Quezon Blvd",
+      "id": "philippines-216c0313591f5221f607"
+    },
+    {
+      "name": "Excelente Chinese Cooked Ham",
+      "kind": "eat",
+      "locality": "Manila/Quiapo",
+      "lat": 14.59839,
+      "lon": 120.98265,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FQuiapo",
+      "address": "Carlos Palanca Sr. Street",
+      "id": "philippines-2f4ad64ab9c673789e65"
+    },
+    {
+      "name": "Jolli Dada’s Eatery The Original Palabok Pancit & Halo Halo",
+      "kind": "eat",
+      "locality": "Manila/Quiapo",
+      "lat": 14.59621,
+      "lon": 120.98273,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FQuiapo",
+      "address": "C. Palanca Street",
+      "id": "philippines-b0f78c75dd0b19b6560a"
+    },
+    {
+      "name": "Amis Restaurant",
+      "kind": "eat",
+      "locality": "Manila/Quiapo",
+      "lat": 14.59871,
+      "lon": 120.98267,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FQuiapo",
+      "address": "Carriedo Street",
+      "id": "philippines-ca10d01b1d1635ec204c"
+    },
+    {
+      "name": "Rosas Pancitan",
+      "kind": "eat",
+      "locality": "Manila/Quiapo",
+      "lat": 14.59817,
+      "lon": 120.98314,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FQuiapo",
+      "address": "R. Hidalgo Street",
+      "id": "philippines-4a6da8221d8938ede4db"
+    },
+    {
+      "name": "Kim Chong Tin Hopia Factory",
+      "kind": "eat",
+      "locality": "Manila/Quiapo",
+      "lat": 14.5977,
+      "lon": 120.98246,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FQuiapo",
+      "address": "Carlos Palanca Street corner Chica Street",
+      "url": "https://www.facebook.com/kimchongtin/",
+      "id": "philippines-bfec2f29cfa630f5edf0"
+    },
+    {
+      "name": "Palabok d'e Tisoy",
+      "kind": "eat",
+      "locality": "Manila/Quiapo",
+      "lat": 14.5961,
+      "lon": 120.98263,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FQuiapo",
+      "address": "Ducos Street",
+      "id": "philippines-7b477128ab04a9fc9ef3"
+    },
+    {
+      "name": "Globe Lumpia House",
+      "kind": "eat",
+      "locality": "Manila/Quiapo",
+      "lat": 14.60056,
+      "lon": 120.9843,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FQuiapo",
+      "address": "#740 Gonzalo Puyat Street",
+      "url": "https://www.facebook.com/p/GLOBE-Lumpia-House-Raon-100067160445933/",
+      "id": "philippines-1b9c4acf066b950a4d5a"
+    },
+    {
+      "name": "8Hostel",
+      "kind": "stay",
+      "locality": "Manila/Quiapo",
+      "lat": 14.59828,
+      "lon": 120.98614,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FQuiapo",
+      "address": "Isabelle de Hidalgo Condominium 811, Carcer, Hidalgo St",
+      "url": "https://live.ipms247.com/booking/book-rooms-8hostel",
+      "id": "philippines-b1f83a2b5e4d456fa89d"
+    },
+    {
+      "name": "Citystate Hotel-Quiapo Branch",
+      "kind": "stay",
+      "locality": "Manila/Quiapo",
+      "lat": 14.59924,
+      "lon": 120.98403,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FQuiapo",
+      "address": "475 Quezon Boulevard",
+      "url": "https://www.facebook.com/quiapocitystatehotel/",
+      "id": "philippines-4ccbf0c5b50b98dbe20a"
+    },
+    {
+      "name": "RedDoorz near Quiapo Church Manila",
+      "kind": "stay",
+      "locality": "Manila/Quiapo",
+      "lat": 14.60083,
+      "lon": 120.98479,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FQuiapo",
+      "address": "512 Quezon Blvd",
+      "url": "https://www.reddoorz.com/en-ph/hotel/philippines/manila/quiapo",
+      "id": "philippines-64f549d872ebbb91c530"
+    },
+    {
+      "name": "Citystate Hotel-Palanca Street Branch",
+      "kind": "stay",
+      "locality": "Manila/Quiapo",
+      "lat": 14.59805,
+      "lon": 120.98175,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FQuiapo",
+      "address": "#100 Carlos Palanca Street",
+      "url": "http://www.citystatetowerhotel.com.ph/",
+      "id": "philippines-20ed7220759a399f28d5"
+    },
+    {
+      "name": "Hotel 99 Quiapo Manila",
+      "kind": "stay",
+      "locality": "Manila/Quiapo",
+      "lat": 14.59767,
+      "lon": 120.98436,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FQuiapo",
+      "address": "361 Bautista Street corner FR Hidalgo Street",
+      "url": "http://www.hotel99.com.ph/",
+      "id": "philippines-d91b00db929dc491743e"
+    },
+    {
+      "name": "Manila/Quiapo",
+      "kind": "area",
+      "locality": "Manila/Quiapo",
+      "lat": 14.6,
+      "lon": 120.983,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FQuiapo",
+      "id": "philippines-48fd50f9bed2aea48d88"
+    },
+    {
+      "name": "Manila Chinese Cemetery",
+      "kind": "do",
+      "locality": "Manila/Santa Cruz",
+      "lat": 14.632514,
+      "lon": 120.984908,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FSanta_Cruz",
+      "id": "philippines-a9295c7e37c713e9b483"
+    },
+    {
+      "name": "Manila North Cemetery",
+      "kind": "do",
+      "locality": "Manila/Santa Cruz",
+      "lat": 14.633,
+      "lon": 120.989,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FSanta_Cruz",
+      "address": "Blumentritt Road",
+      "id": "philippines-a8e91dbf0eb253bc9eac"
+    },
+    {
+      "name": "Santa Cruz Church",
+      "kind": "do",
+      "locality": "Manila/Santa Cruz",
+      "lat": 14.5996,
+      "lon": 120.98,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FSanta_Cruz",
+      "address": "Bustos Street",
+      "id": "philippines-19cd28649d57b5f88776"
+    },
+    {
+      "name": "Don Roman Santos Building",
+      "kind": "do",
+      "locality": "Manila/Santa Cruz",
+      "lat": 14.59876,
+      "lon": 120.98021,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FSanta_Cruz",
+      "address": "Plaza Sta. Cruz",
+      "id": "philippines-e7d5e35e0430446a5deb"
+    },
+    {
+      "name": "Philippine Kiu Siao Grand Taoist Temple 菲律賓九霄大道觀",
+      "kind": "do",
+      "locality": "Manila/Santa Cruz",
+      "lat": 14.60686,
+      "lon": 120.98014,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FSanta_Cruz",
+      "address": "#1481 Severino Reyes Street",
+      "url": "https://zaubee.com/biz/kiu-siao-grand-taoist-temple-gitkps7d",
+      "id": "philippines-738a3708bfaab8c290ab"
+    },
+    {
+      "name": "Lola Ely's Tapsilog Atbp.",
+      "kind": "eat",
+      "locality": "Manila/Santa Cruz",
+      "lat": 14.61079,
+      "lon": 120.98437,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FSanta_Cruz",
+      "address": "#318 Bambang Street corner Felix Huertas Street",
+      "url": "https://www.facebook.com/lolaelystapsilog.atbp/",
+      "id": "philippines-068ab78145f35641f643"
+    },
+    {
+      "name": "Chades Tapsilog",
+      "kind": "eat",
+      "locality": "Manila/Santa Cruz",
+      "lat": 14.6095,
+      "lon": 120.98386,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FSanta_Cruz",
+      "address": "#315 Remigio Street",
+      "url": "https://www.facebook.com/chadesremigio/",
+      "id": "philippines-6742c55db7df0b6acbf0"
+    },
+    {
+      "name": "The Thai Plate - Fugoso St",
+      "kind": "eat",
+      "locality": "Manila/Santa Cruz",
+      "lat": 14.60795,
+      "lon": 120.98142,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FSanta_Cruz",
+      "address": "#1585 Fugoso Street corner Rizal Avenue",
+      "url": "http://www.facebook.com/TheThaiPlateFugoso/",
+      "id": "philippines-ac16fcf1703b38ff34e3"
+    },
+    {
+      "name": "Bakers' Fair - Oroquieta",
+      "kind": "eat",
+      "locality": "Manila/Santa Cruz",
+      "lat": 14.60701,
+      "lon": 120.98311,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FSanta_Cruz",
+      "address": "#1016-1020 Oroquieta Road",
+      "url": "http://www.bakersfair.com/",
+      "id": "philippines-f07ba04c2b79fda0686c"
+    },
+    {
+      "name": "Ambos Mundos Restaurant",
+      "kind": "eat",
+      "locality": "Manila/Santa Cruz",
+      "lat": 14.60341,
+      "lon": 120.98105,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FSanta_Cruz",
+      "address": "#750 F. Torres Street",
+      "url": "https://www.facebook.com/AmbosMundosRestaurant/",
+      "id": "philippines-b2f757b1d963803c2b87"
+    },
+    {
+      "name": "Delicious Restaurant",
+      "kind": "eat",
+      "locality": "Manila/Santa Cruz",
+      "lat": 14.60105,
+      "lon": 120.98039,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FSanta_Cruz",
+      "address": "#580 F. Torres Street corner Gonzalo Puyat Street",
+      "url": "https://www.facebook.com/zctdeliciousrestaurant/",
+      "id": "philippines-b9d537f20155e3094dc0"
+    },
+    {
+      "name": "Panulukan Grill & Restaurant",
+      "kind": "eat",
+      "locality": "Manila/Santa Cruz",
+      "lat": 14.61717,
+      "lon": 120.98484,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FSanta_Cruz",
+      "address": "#1702 Felix Huertas Road",
+      "url": "https://www.facebook.com/p/Panulukan-Dos-Manila-100064071491897/",
+      "id": "philippines-eb4e9b0e7d5ecf9e9434"
+    },
+    {
+      "name": "Padi's Point - San Lazaro Branch",
+      "kind": "eat",
+      "locality": "Manila/Santa Cruz",
+      "lat": 14.61768,
+      "lon": 120.98507,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FSanta_Cruz",
+      "address": "Lacson Avenue",
+      "url": "http://www.padispoint.com/",
+      "id": "philippines-9772227025163621eb70"
+    },
+    {
+      "name": "Swiss-Belhotel Blulane",
+      "kind": "stay",
+      "locality": "Manila/Santa Cruz",
+      "lat": 14.60166,
+      "lon": 120.97971,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FSanta_Cruz",
+      "address": "609 Tomas Mapua St",
+      "price": "₱1874",
+      "url": "https://www.swiss-belhotelblulane.com/",
+      "id": "philippines-5b66b409ed80c5517a56"
+    },
+    {
+      "name": "Manila Grand Opera Hotel",
+      "kind": "stay",
+      "locality": "Manila/Santa Cruz",
+      "lat": 14.605413,
+      "lon": 120.981559,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FSanta_Cruz",
+      "address": "925 Rizal Avenue corner Doroteo Jose Sts. Sta. Cruz",
+      "price": "PHP 2000",
+      "url": "http://www.manilagrandopera.com/",
+      "id": "philippines-6cdb12f44e212acdf36e"
+    },
+    {
+      "name": "Winford Resort and Casino Manila",
+      "kind": "stay",
+      "locality": "Manila/Santa Cruz",
+      "lat": 14.61745,
+      "lon": 120.98713,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FSanta_Cruz",
+      "address": "#1800 Consuelo Street",
+      "url": "https://www.winfordmanila.com/",
+      "id": "philippines-59c9300ea465664ceb47"
+    },
+    {
+      "name": "RedDoorz@Good 101 Quiricada Manila",
+      "kind": "stay",
+      "locality": "Manila/Santa Cruz",
+      "lat": 14.61323,
+      "lon": 120.98314,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FSanta_Cruz",
+      "address": "#1625 Quiricada Street",
+      "url": "https://www.reddoorz.com/en-ph",
+      "id": "philippines-45b2f1bc68bf1cabf265"
+    },
+    {
+      "name": "RedDoorz near Bambang Station",
+      "kind": "stay",
+      "locality": "Manila/Santa Cruz",
+      "lat": 14.61098,
+      "lon": 120.98442,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FSanta_Cruz",
+      "address": "#1705 Bambang Street corner Felix Huertas Street",
+      "url": "https://www.reddoorz.com/en-ph",
+      "id": "philippines-92409f5a86b26ad771f3"
+    },
+    {
+      "name": "Fersal Hotel Manila",
+      "kind": "stay",
+      "locality": "Manila/Santa Cruz",
+      "lat": 14.61173,
+      "lon": 120.9861,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FSanta_Cruz",
+      "address": "#1455 Alfonso Mendoza Street",
+      "url": "http://www.fersal.com.ph/",
+      "id": "philippines-453cded1d98c9cb1cc88"
+    },
+    {
+      "name": "RedDoorz @ Jardin LRT Tayuman Manila",
+      "kind": "stay",
+      "locality": "Manila/Santa Cruz",
+      "lat": 14.61653,
+      "lon": 120.98289,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FSanta_Cruz",
+      "address": "#1830 Rizal Avenue",
+      "url": "https://www.reddoorz.com/en-ph",
+      "id": "philippines-491d26b11e3cd2815fe2"
+    },
+    {
+      "name": "OYO 797 Brickwood Suites",
+      "kind": "stay",
+      "locality": "Manila/Santa Cruz",
+      "lat": 14.61604,
+      "lon": 120.98381,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FSanta_Cruz",
+      "address": "#1820 Oroquieta Road",
+      "url": "https://www.oyorooms.com/",
+      "id": "philippines-1cc003672f15bef66348"
+    },
+    {
+      "name": "Vista Hotel & Restaurant",
+      "kind": "stay",
+      "locality": "Manila/Santa Cruz",
+      "lat": 14.60398,
+      "lon": 120.98147,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FSanta_Cruz",
+      "address": "#1531 Recto Avenue",
+      "url": "https://www.facebook.com/profile.php?id=100064242662498",
+      "id": "philippines-99a543b022a41a71871f"
+    },
+    {
+      "name": "Manila/Santa Cruz",
+      "kind": "area",
+      "locality": "Manila/Santa Cruz",
+      "lat": 14.617,
+      "lon": 120.9847,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manila%2FSanta_Cruz",
+      "id": "philippines-ca3dd9c19ac18627c403"
+    },
+    {
+      "name": "Puerto Princesa",
+      "kind": "area",
+      "locality": "Palawan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Palawan",
+      "id": "philippines-60ef52113e0a258c2b30"
+    },
+    {
+      "name": "Quezon",
+      "kind": "area",
+      "locality": "Palawan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Palawan",
+      "id": "philippines-bbd31b499f1c2d15221b"
+    },
+    {
+      "name": "El Nido",
+      "kind": "area",
+      "locality": "Palawan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Palawan",
+      "id": "philippines-07daa04d106be2bde59a"
+    },
+    {
+      "name": "Port Barton",
+      "kind": "area",
+      "locality": "Palawan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Palawan",
+      "id": "philippines-0aec6f04a97a244bad84"
+    },
+    {
+      "name": "Sabang",
+      "kind": "area",
+      "locality": "Palawan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Palawan",
+      "id": "philippines-f1d2ac07999e578794a3"
+    },
+    {
+      "name": "San Jose",
+      "kind": "area",
+      "locality": "Palawan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Palawan",
+      "id": "philippines-36a9f6d0f938fc7137ea"
+    },
+    {
+      "name": "Brooke's Point",
+      "kind": "area",
+      "locality": "Palawan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Palawan",
+      "id": "philippines-9afcc6e00dfd4f816541"
+    },
+    {
+      "name": "Roxas",
+      "kind": "area",
+      "locality": "Palawan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Palawan",
+      "id": "philippines-0d18ef5a3bc0edee441e"
+    },
+    {
+      "name": "San Vicente",
+      "kind": "area",
+      "locality": "Palawan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Palawan",
+      "id": "philippines-e981d4e217763810a258"
+    },
+    {
+      "name": "Taytay",
+      "kind": "area",
+      "locality": "Palawan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Palawan",
+      "id": "philippines-76a5ae37fb7ef79770d3"
+    },
+    {
+      "name": "Busuanga",
+      "kind": "area",
+      "locality": "Palawan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Palawan",
+      "id": "philippines-1496a20ad5bf226f4c08"
+    },
+    {
+      "name": "Coron",
+      "kind": "area",
+      "locality": "Palawan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Palawan",
+      "id": "philippines-56a2c53b6026181dd112"
+    },
+    {
+      "name": "Palawan",
+      "kind": "area",
+      "locality": "Palawan",
+      "lat": 9.5275,
+      "lon": 118.3975,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Palawan",
+      "id": "philippines-a79d9219c59c210763f5"
+    }
+  ],
+  "status": "partial",
+  "note": "Fetched 9 distinct public Wikivoyage source pages; attempted 9 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Coverage cap: Manila: 4 additional linked subpages not fetched."
+}

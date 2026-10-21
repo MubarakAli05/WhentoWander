@@ -1,0 +1,4586 @@
+{
+  "sources": [
+    {
+      "title": "Peru",
+      "url": "https://en.wikivoyage.org/wiki/Peru",
+      "checkedAt": "2026-10-21T08:03:42.302Z"
+    },
+    {
+      "title": "Lima",
+      "url": "https://en.wikivoyage.org/wiki/Lima",
+      "checkedAt": "2026-10-21T08:03:45.616Z"
+    },
+    {
+      "title": "Lima/Barranco",
+      "url": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "checkedAt": "2026-10-21T08:03:48.213Z"
+    },
+    {
+      "title": "Callao",
+      "url": "https://en.wikivoyage.org/wiki/Callao",
+      "checkedAt": "2026-10-21T08:03:54.181Z"
+    },
+    {
+      "title": "Lima/Central Lima",
+      "url": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "checkedAt": "2026-10-21T08:03:57.225Z"
+    },
+    {
+      "title": "Lima/East",
+      "url": "https://en.wikivoyage.org/wiki/Lima%2FEast",
+      "checkedAt": "2026-10-21T08:04:00.519Z"
+    },
+    {
+      "title": "Lima/West",
+      "url": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "checkedAt": "2026-10-21T08:04:03.390Z"
+    },
+    {
+      "title": "Lima/Miraflores",
+      "url": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "checkedAt": "2026-10-21T08:04:06.207Z"
+    },
+    {
+      "title": "Machu Picchu",
+      "url": "https://en.wikivoyage.org/wiki/Machu_Picchu",
+      "checkedAt": "2026-10-21T08:04:09.210Z"
+    },
+    {
+      "title": "Cuzco",
+      "url": "https://en.wikivoyage.org/wiki/Cuzco",
+      "checkedAt": "2026-10-21T08:04:15.507Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Lima",
+      "kind": "area",
+      "locality": "Peru",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Peru",
+      "id": "peru-7a9c6799c98630a76710"
+    },
+    {
+      "name": "Arequipa",
+      "kind": "area",
+      "locality": "Peru",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Peru",
+      "id": "peru-a245834bf04e4b2959f4"
+    },
+    {
+      "name": "Ayacucho",
+      "kind": "area",
+      "locality": "Peru",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Peru",
+      "id": "peru-2e97f5e18e7395429c1d"
+    },
+    {
+      "name": "Cajamarca",
+      "kind": "area",
+      "locality": "Peru",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Peru",
+      "id": "peru-5f11e8dad9abef8dc20e"
+    },
+    {
+      "name": "Chiclayo",
+      "kind": "area",
+      "locality": "Peru",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Peru",
+      "id": "peru-44770f1f95cb552b5335"
+    },
+    {
+      "name": "Cuzco",
+      "kind": "area",
+      "locality": "Peru",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Peru",
+      "id": "peru-4dd97f39025bf12fafba"
+    },
+    {
+      "name": "Iquitos",
+      "kind": "area",
+      "locality": "Peru",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Peru",
+      "id": "peru-d6dc74d69fbfcea8f7af"
+    },
+    {
+      "name": "Puno",
+      "kind": "area",
+      "locality": "Peru",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Peru",
+      "id": "peru-597c561c5ad42884ffe0"
+    },
+    {
+      "name": "Trujillo",
+      "kind": "area",
+      "locality": "Peru",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Peru",
+      "id": "peru-14e12124b2d2c62d1069"
+    },
+    {
+      "name": "Bike Tours of Lima",
+      "kind": "do",
+      "locality": "Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima",
+      "address": "Calle Bolivar 150, Miraflores",
+      "price": "Biking tours US$35–US$90, other prices vary, pay in U.S. dollars",
+      "url": "http://www.biketoursoflima.com/",
+      "id": "peru-b63038e6d270ccf75f71"
+    },
+    {
+      "name": "The Lima Gourmet Company",
+      "kind": "do",
+      "locality": "Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima",
+      "address": "Miraflores, Lima, Peru",
+      "url": "http://www.limagourmetcompany.com/",
+      "id": "peru-b98f971b16cd1af9176c"
+    },
+    {
+      "name": "Exquisito Perú",
+      "kind": "do",
+      "locality": "Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima",
+      "address": "Av Grau 715, Barranco",
+      "price": "$59 to $159 depending on the food tour",
+      "url": "https://www.exquisitoperu.com/",
+      "id": "peru-dd58c294f1ec8219902a"
+    },
+    {
+      "name": "Folkloric dance shows",
+      "kind": "do",
+      "locality": "Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima",
+      "address": "Heroes de Tarapacá 168",
+      "price": "Range from S/39.50–68 per person",
+      "url": "http://www.brisasdeltiticaca.com/",
+      "id": "peru-7bd326142eeb7706d87c"
+    },
+    {
+      "name": "Mirabus bus and road train tours",
+      "kind": "do",
+      "locality": "Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima",
+      "address": "Tourist information booth in Parque Kenedy, Miraflores",
+      "url": "http://www.mirabusperu.com/",
+      "id": "peru-206e007e7a65b089512c"
+    },
+    {
+      "name": "Lima",
+      "kind": "area",
+      "locality": "Lima",
+      "lat": -12.043333,
+      "lon": -77.028333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima",
+      "id": "peru-c258b479aa1992ad96c4"
+    },
+    {
+      "name": "Biblioteca del Parque Municipal",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "lat": -12.150039,
+      "lon": -77.021258,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Parque Municipal",
+      "id": "peru-ffbb3955d47d94df52b9"
+    },
+    {
+      "name": "El Funicular",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Jr. Domeyer",
+      "id": "peru-cde4c2a8a2d5b95e1b81"
+    },
+    {
+      "name": "Feria Gastronomica",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Corner of Av. El Sol Oeste and Av. General Jose de San Martin",
+      "id": "peru-00122c82a0dabd5f2a3e"
+    },
+    {
+      "name": "Parque Municipal",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Corner of Av. Pedro de Osma and Av. Almirante Miguel Grau",
+      "id": "peru-5a61b61c72573dd4bd5d"
+    },
+    {
+      "name": "Paseo Chabuca Grande",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "id": "peru-b1d872bce55ac82dcb3f"
+    },
+    {
+      "name": "Paseo Saenz Pena",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Av Saenz Pena",
+      "id": "peru-041fd0df43cf273921ca"
+    },
+    {
+      "name": "Plazuela Chabuca Grande",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "id": "peru-0f447a2398e09022ecb5"
+    },
+    {
+      "name": "Puente de los Suspiros",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "lat": -12.149137,
+      "lon": -77.022524,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "id": "peru-ad541418da6362972908"
+    },
+    {
+      "name": "Sala de Exposicion del Patrimonio Industrial",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "id": "peru-060f08b95436c9414586"
+    },
+    {
+      "name": "Galeria de Arte 80m",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Malecón Pazos 252",
+      "url": "http://www.80m2galeria.com/",
+      "id": "peru-832868450dc72fad5423"
+    },
+    {
+      "name": "Galeria de Arte Amelia Pinzas",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Cajamarca 202",
+      "id": "peru-aec8e48bcf722f77199a"
+    },
+    {
+      "name": "Museo de Arte Contemporaneo",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "lat": -12.13693,
+      "lon": -77.02325,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Miguel Grau 1511",
+      "url": "http://www.maclima.pe/",
+      "id": "peru-bf536f55e9ef5408d261"
+    },
+    {
+      "name": "Dedalo Arte y Artesania",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "lat": -12.143599,
+      "lon": -77.023841,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Paseo Saenz Pena 295",
+      "id": "peru-165319f32335987b55e1"
+    },
+    {
+      "name": "Museo Galería Arte Popular de Ayacucho",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "lat": -12.149984,
+      "lon": -77.021829,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Av. Pedro de Osma 116",
+      "id": "peru-eaa9b30daffc36160538"
+    },
+    {
+      "name": "Galeria Lima",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Jirón Domeyer 301",
+      "id": "peru-9a6d3154b4c2a63fcf2e"
+    },
+    {
+      "name": "Lucía de la Puente",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Av. Saenz Peña 206",
+      "id": "peru-6194724b5b0255c3a51d"
+    },
+    {
+      "name": "Yvonne Sanguineti Galeria de Arte",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Av. Grau 810",
+      "id": "peru-bc5b8ae3595278ba0088"
+    },
+    {
+      "name": "Iglesia La Ermita",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "lat": -12.149142,
+      "lon": -77.02313,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "id": "peru-6d1920ae79b8bff79a89"
+    },
+    {
+      "name": "Iglesia San Francisco de Asis",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "lat": -12.149279,
+      "lon": -77.0215,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "id": "peru-eb26d0b3499a7c39e204"
+    },
+    {
+      "name": "Iglesia Santa Rosa de Barranco",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "lat": -12.141019,
+      "lon": -77.023441,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "id": "peru-b4484098eb0c21b2acfa"
+    },
+    {
+      "name": "Iglesia Santisima Cruz de Barranco",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "lat": -12.148844,
+      "lon": -77.021462,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "id": "peru-6f0049c0aa20f6bee7d2"
+    },
+    {
+      "name": "Museo de la Electricidad",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "lat": -12.150385,
+      "lon": -77.021724,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Av. Pedro de Osma 105, Barranco",
+      "url": "http://www.electroperu.com.pe/ElectroWebPublica/Index.aspx",
+      "id": "peru-a827e73a555d1098a49f"
+    },
+    {
+      "name": "Museo Pedro de Osma",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "lat": -12.154497,
+      "lon": -77.022709,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Av. Pedro de Osma 421",
+      "url": "http://www.museopedrodeosma.org/",
+      "id": "peru-b37cd56298e1d8ea804b"
+    },
+    {
+      "name": "MATE Asociación Mario Testino",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Avenida Pedro de Osma 409 Barranco",
+      "price": "S/20 tourists",
+      "id": "peru-8bee2beb52b6bbd46e46"
+    },
+    {
+      "name": "A Todo Tren",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "price": "Adults S/5, children S/3",
+      "url": "http://www.mirabusperu.com/",
+      "id": "peru-e6c5641d455ec906c489"
+    },
+    {
+      "name": "Sentidos Thai",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "price": "Traditional Thai massage: 1 hour S/75, 1½ hr S/105, 2 hr S/130. Therapeutic Thai massage: 1½ hr S/115",
+      "url": "http://www.sentidosthai.com/",
+      "id": "peru-30c672d272394446b1b3"
+    },
+    {
+      "name": "Playa el bananero",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "id": "peru-eaceb875510771b6746f"
+    },
+    {
+      "name": "Playa Barranquito",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "id": "peru-9067744969defc5e31b6"
+    },
+    {
+      "name": "Playa Los Pavos",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "id": "peru-9f2379c559968bce0ccf"
+    },
+    {
+      "name": "Playa Banos de Barranco",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "id": "peru-15a1054ba696e90b48e0"
+    },
+    {
+      "name": "Playa Los Yuyos",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "id": "peru-b3df2b243ad5bd53057a"
+    },
+    {
+      "name": "Playa Los Sombrillas",
+      "kind": "do",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "id": "peru-74eaed14f34b31452f8a"
+    },
+    {
+      "name": "Central Restaurante",
+      "kind": "eat",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Santa Isabel 376",
+      "url": "http://www.centralrestaurante.com.pe/",
+      "id": "peru-8efba7f59ffd2a6bb843"
+    },
+    {
+      "name": "Cala",
+      "kind": "eat",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Avenida Playa Barranquito, Costa Verde",
+      "url": "http://www.calarestaurante.com/",
+      "id": "peru-afc99a081d76a1f0bfe2"
+    },
+    {
+      "name": "El Hawaiano",
+      "kind": "eat",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Av. Paseo de la República 6500",
+      "url": "http://elhawaiano.net/",
+      "id": "peru-16fe1776eab4a26721db"
+    },
+    {
+      "name": "El Tío Mario",
+      "kind": "eat",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Jr. Zepita 214",
+      "id": "peru-690406efc1c8c77ef688"
+    },
+    {
+      "name": "La Doceava",
+      "kind": "eat",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Av Lima 901",
+      "id": "peru-cd5282ab3c2064e4a7fc"
+    },
+    {
+      "name": "Cevicheria Mi Peru 1972",
+      "kind": "eat",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Av. Lima 861 esq. Plaza Butters",
+      "url": "https://miperu1972-peruvianfood.negocio.site/",
+      "id": "peru-3354f4231b267898072c"
+    },
+    {
+      "name": "Puro Perú",
+      "kind": "eat",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Av. Republica de Panama 258",
+      "price": "Buffet S/55, S/60 on Sundays",
+      "url": "https://m.facebook.com/PuroPeruPollosalaBrasa/",
+      "id": "peru-7e76d88fd3c925a85cd4"
+    },
+    {
+      "name": "Sanguchería Refilo",
+      "kind": "eat",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Avenida Grau 393",
+      "id": "peru-b7daf1e7df4f9b2e2f91"
+    },
+    {
+      "name": "Viejo Fundo",
+      "kind": "eat",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Av. Republica de Panama 201",
+      "url": "http://www.viejofundo.com.pe/",
+      "id": "peru-d0358b83dbf4595d194e"
+    },
+    {
+      "name": "291 Barranco Bar",
+      "kind": "eat",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Plaza Butters 291",
+      "id": "peru-7415a66293ca69af7106"
+    },
+    {
+      "name": "Canta Rana",
+      "kind": "eat",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Genova 101",
+      "url": "http://www.cantarana.pe/",
+      "id": "peru-ff1b3f664898b1598c7e"
+    },
+    {
+      "name": "Damajuana",
+      "kind": "eat",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Av. Rep. De Panamá 240",
+      "url": "https://m.facebook.com/LaDamaJuanaRestauranteShow/",
+      "id": "peru-1b04ad65cbef6f904ad2"
+    },
+    {
+      "name": "El Tizon'",
+      "kind": "eat",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Nicolas de Pierola 148",
+      "url": "https://m.facebook.com/ElTizonBar/",
+      "id": "peru-22da87842d43d78f40c9"
+    },
+    {
+      "name": "Embarcadero 41",
+      "kind": "eat",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Catalino Miranda 154",
+      "id": "peru-1d3804193648cde9c36b"
+    },
+    {
+      "name": "El Dragón",
+      "kind": "eat",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Av. Nicolas de Pierola 168",
+      "url": "https://m.facebook.com/dragonbarranco/",
+      "id": "peru-c64e55c9868b7ba4b60c"
+    },
+    {
+      "name": "La Noche de Barranco",
+      "kind": "eat",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Sanchez Carrion 199",
+      "url": "https://www.lanoche.com.pe/",
+      "id": "peru-6f7ab355fdba16a885db"
+    },
+    {
+      "name": "La Candelaria",
+      "kind": "eat",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Av. Bolognesi 292",
+      "id": "peru-359495dff7c1de881406"
+    },
+    {
+      "name": "Pena del Carajo",
+      "kind": "eat",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Catalino Miranda 158",
+      "url": "http://www.delcarajo.com.pe/",
+      "id": "peru-55c6134f4edc68541c0a"
+    },
+    {
+      "name": "Picas Restobar",
+      "kind": "eat",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Bajada de baños 340",
+      "id": "peru-3a2bd5a8d6bde118ba84"
+    },
+    {
+      "name": "Sargento Pimienta",
+      "kind": "eat",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Av. Bolognesi 755",
+      "id": "peru-2bb997335bbb7ea2b07e"
+    },
+    {
+      "name": "Sóngoro Cosongo",
+      "kind": "eat",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Jr. Ayacucho 281",
+      "url": "https://m.facebook.com/RestauranteSongoroCosongo/",
+      "id": "peru-586e782d109127632659"
+    },
+    {
+      "name": "Taberna San Roque",
+      "kind": "eat",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Cl. Gonzales Prada 883",
+      "id": "peru-80afb49e766b7d0aa8e2"
+    },
+    {
+      "name": "3B, Barranco`s Bed & Breakfast",
+      "kind": "stay",
+      "locality": "Lima/Barranco",
+      "lat": -12.141244,
+      "lon": -77.02335,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Jr. Centenario 130",
+      "price": "From about S/140",
+      "url": "http://www.3bhostal.com/",
+      "id": "peru-2432fa072fb5db4c2b7c"
+    },
+    {
+      "name": "B Arts Boutique Hotel",
+      "kind": "stay",
+      "locality": "Lima/Barranco",
+      "lat": -12.143024973755777,
+      "lon": -77.02334407199173,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "San Martín 301",
+      "url": "http://hotelb.pe/",
+      "id": "peru-f66bdd8dc6bd380f05b0"
+    },
+    {
+      "name": "Barranco Backpackers Inn",
+      "kind": "stay",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Malecon Castilla 260",
+      "price": "From about S/28",
+      "url": "http://www.barrancobackpackersperu.com/",
+      "id": "peru-5e473473e3bc5f9289af"
+    },
+    {
+      "name": "Hostal Bohemia",
+      "kind": "stay",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Av. Francisco Bolognesi 707",
+      "id": "peru-9c298a2510df1cbf0529"
+    },
+    {
+      "name": "Hostal Domeyer",
+      "kind": "stay",
+      "locality": "Lima/Barranco",
+      "lat": -12.147947,
+      "lon": -77.022851,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Jr. Domeyer 296",
+      "id": "peru-6a737ec062a23303bda4"
+    },
+    {
+      "name": "Hotel Park Suites",
+      "kind": "stay",
+      "locality": "Lima/Barranco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Enrique Barrón y Medrano Silva",
+      "id": "peru-bde97246ad75a2096e4a"
+    },
+    {
+      "name": "The Point - Lima Hostel",
+      "kind": "stay",
+      "locality": "Lima/Barranco",
+      "lat": -12.147118,
+      "lon": -77.023409,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Malecon Junin 300",
+      "price": "From S/26",
+      "url": "http://www.thepointhostels.com/",
+      "id": "peru-2f698e92bd033f681ba5"
+    },
+    {
+      "name": "Second Home Peru",
+      "kind": "stay",
+      "locality": "Lima/Barranco",
+      "lat": -12.148004,
+      "lon": -77.023109,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "address": "Domeyer 366",
+      "price": "From about S/270",
+      "url": "http://secondhomeperu.com/",
+      "id": "peru-68bb0b04a4af9bab8d4d"
+    },
+    {
+      "name": "Lima/Barranco",
+      "kind": "area",
+      "locality": "Lima/Barranco",
+      "lat": -12.14322,
+      "lon": -77.02094,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FBarranco",
+      "id": "peru-c4242c99ce1bd241a8fc"
+    },
+    {
+      "name": "Fortaleza del Real Felipe",
+      "kind": "do",
+      "locality": "Callao",
+      "lat": -12.0627,
+      "lon": -77.1489,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Callao",
+      "address": "Av. Oscar R. Benavides",
+      "id": "peru-0420f80c658b43f04b43"
+    },
+    {
+      "name": "Museo de la Fuerza de Aviación Naval",
+      "kind": "do",
+      "locality": "Callao",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Callao",
+      "address": "Avenida Faucett 3479,",
+      "id": "peru-b35b5ecfce6442467db1"
+    },
+    {
+      "name": "Museo Naval",
+      "kind": "do",
+      "locality": "Callao",
+      "lat": -12.0605,
+      "lon": -77.1481,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Callao",
+      "address": "Jr. José Gálvez 123",
+      "price": "Adults S/3; students and children S/2",
+      "id": "peru-3467acc291685e701ea7"
+    },
+    {
+      "name": "Museo de Sitio Naval Submarino Abtao",
+      "kind": "do",
+      "locality": "Callao",
+      "lat": -12.0595,
+      "lon": -77.150642,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Callao",
+      "address": "Jorge Chavez 120-A",
+      "price": "S/10",
+      "url": "http://www.submarinoabtao.com/",
+      "id": "peru-609b72c5ab8ccf9671f9"
+    },
+    {
+      "name": "Callao Brewing Co",
+      "kind": "eat",
+      "locality": "Callao",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Callao",
+      "id": "peru-f6ec436e443db5c24ed2"
+    },
+    {
+      "name": "Villa La Punta",
+      "kind": "stay",
+      "locality": "Callao",
+      "lat": -12.07148,
+      "lon": -77.16563,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Callao",
+      "address": "Medina 560",
+      "price": "S/140",
+      "id": "peru-6c61e3905c902358951b"
+    },
+    {
+      "name": "Seamen's Club Perú",
+      "kind": "stay",
+      "locality": "Callao",
+      "lat": -12.06533,
+      "lon": -77.15505,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Callao",
+      "address": "Gamarra 486",
+      "url": "http://seamensclubcallao.com/",
+      "id": "peru-76d28ca6d1211ddac852"
+    },
+    {
+      "name": "Holiday Inn Lima Airport",
+      "kind": "stay",
+      "locality": "Callao",
+      "lat": -12.02196,
+      "lon": -77.105,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Callao",
+      "address": "Ave. Tomas Valle S/N Esq Ave",
+      "price": "S/291",
+      "url": "https://www.ihg.com/holidayinn/hotels/us/en/lima/limap/hoteldetail",
+      "id": "peru-0f8e40a14125da50d2b6"
+    },
+    {
+      "name": "Pay Purix",
+      "kind": "stay",
+      "locality": "Callao",
+      "lat": -12.00948,
+      "lon": -77.10604,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Callao",
+      "address": "Av. Bertello Bolatti (Intersections Avenues Japón and Bocanegra), Av. Japón (Ex Bertello), Mz. F, Lote 5, Urb. Los Jazmines, 1ra. Etapa",
+      "price": "Dorms range from S/32-40",
+      "url": "http://www.paypurix.com/",
+      "id": "peru-762e0b2008d762be8296"
+    },
+    {
+      "name": "Hotel Costa del Sol Lima Airport",
+      "kind": "stay",
+      "locality": "Callao",
+      "lat": -12.02306,
+      "lon": -77.10713,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Callao",
+      "address": "Av Elmer Faucett",
+      "url": "https://www.costadelsolperu.com/hoteles/hotel-costa-del-sol-wyndham-lima-aeropuerto/",
+      "id": "peru-94b1fabd5c4f44b6d542"
+    },
+    {
+      "name": "Callao",
+      "kind": "area",
+      "locality": "Callao",
+      "lat": -12.02,
+      "lon": -77.098,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Callao",
+      "id": "peru-ebfeb6699c5d79431d7a"
+    },
+    {
+      "name": "Congreso de la Republica",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Plaza Bolívar, Av. Abancay s/n",
+      "url": "http://www.congreso.gob.pe/",
+      "id": "peru-1177ee4e615c66a23039"
+    },
+    {
+      "name": "Correo Central",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Pasaje Piura, next to the Palacio de Gobierno",
+      "id": "peru-d95d8a64dd4be2efcdc5"
+    },
+    {
+      "name": "Facultad de Medicina \"San Fernando\"",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.0578,
+      "lon": -77.023,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Av. Grau between Huanta and Cangallo",
+      "id": "peru-646ba48f888550ce47e3"
+    },
+    {
+      "name": "Gran Biblioteca Pública de Lima",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Av. Abancay Cdra. 4",
+      "url": "http://www.bnp.gob.pe/",
+      "id": "peru-00dfef7345594c752b32"
+    },
+    {
+      "name": "Hotel Bolivar",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.0508,
+      "lon": -77.0354,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Plaza San Martín",
+      "url": "https://www.granhotelbolivar.pe/en/",
+      "id": "peru-87ce9b3b8d9401b1732c"
+    },
+    {
+      "name": "El Molino de Santa Clara",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Ancash",
+      "id": "peru-5eb3a06df3a763eb0d14"
+    },
+    {
+      "name": "Portada China",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "id": "peru-063cc2ac48be5d610073"
+    },
+    {
+      "name": "Quinta Heeren",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.049444,
+      "lon": -77.017778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Cuadra 12 del Jr. Junín",
+      "id": "peru-c376b4dddc73282092dc"
+    },
+    {
+      "name": "Teatro Felipe Pardo y Aliaga",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.053428,
+      "lon": -77.0306,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "cuadra 4 del Jr. Apurímac",
+      "id": "peru-216225e603c7e42b7eed"
+    },
+    {
+      "name": "Teatro Municipal",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.045385,
+      "lon": -77.034873,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Ica",
+      "id": "peru-5eb5cee3334d31c8fa0f"
+    },
+    {
+      "name": "Teatro Segura",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Huancavelica 261",
+      "id": "peru-7f7fbb946a3ce1f9f4a9"
+    },
+    {
+      "name": "Convento de San Francisco",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.0455,
+      "lon": -77.0272,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Plaza San Francisco",
+      "url": "http://www.museocatacumbas.com/",
+      "id": "peru-2f14d8e0444085f1fb37"
+    },
+    {
+      "name": "Catedral de Lima",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Plaza de Armas",
+      "id": "peru-f6035a49f1baac9bd756"
+    },
+    {
+      "name": "Convento de Santa Clara",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.048034,
+      "lon": -77.01993,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Huanuco",
+      "id": "peru-39368aa49993186a6098"
+    },
+    {
+      "name": "Convento de los Descalzos",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.033502,
+      "lon": -77.02453,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "id": "peru-bee8b07f517b7e6c95f1"
+    },
+    {
+      "name": "Convento de Santo Domingo",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.044086,
+      "lon": -77.031928,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Corner of Jr. Conde de Superunda and Camana",
+      "id": "peru-de18649a61c53c43cf30"
+    },
+    {
+      "name": "Santuario de Santa Rosa de Lima",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.042472,
+      "lon": -77.03525,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "id": "peru-a5273006a58059a7ce48"
+    },
+    {
+      "name": "Casa de Literaratura Peruviana",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Ancash 207",
+      "url": "http://www.casadelaliteratura.gob.pe/",
+      "id": "peru-eb366a5ccd561252c228"
+    },
+    {
+      "name": "Centro Cultural de la Escuela Nacional de Bellas Artes",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jirón Huallaga 402",
+      "url": "http://centroculturalbellasartes.pe/",
+      "id": "peru-e35774f3b862a7dfb59f"
+    },
+    {
+      "name": "Centro Cultural Español",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Natalio Sánchez, Cdra.1., Santa Beatriz",
+      "id": "peru-6744fa38ab2c7fdb36c9"
+    },
+    {
+      "name": "Centro Cultural Jose Pio Aza",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Callao 562",
+      "url": "http://www.selvasperu.org/",
+      "id": "peru-a6e74bae6ddd3a116afd"
+    },
+    {
+      "name": "Centro Cultural de la Universidad Nacional Mayor de San Marcos (La Casona)",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Av. Nicolás de Piérola 1222, Parque Universitario",
+      "url": "http://www.ccsm-unmsm.edu.pe/",
+      "id": "peru-98d20aedf6f50fdb0635"
+    },
+    {
+      "name": "Casa Aliaga",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.044416,
+      "lon": -77.030259,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jirón de la Unión 224",
+      "url": "http://casadealiaga.com/",
+      "id": "peru-4b8fdebd10336bc9cf0c"
+    },
+    {
+      "name": "Casa Barbieri",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Callao at Rufino Torrico",
+      "id": "peru-cf46ba00589b326ab442"
+    },
+    {
+      "name": "Casa Goyeneche",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.048756,
+      "lon": -77.029583,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Ucayali",
+      "id": "peru-7aadab70f88c3b450d89"
+    },
+    {
+      "name": "Casa Negreiros",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.050081,
+      "lon": -77.030062,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Azángaro 532",
+      "id": "peru-dbac4b40c15eb255ebb9"
+    },
+    {
+      "name": "Casa del Oidor",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.045722,
+      "lon": -77.0295,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Corner of Jr. Junin and Jr. Carabaya",
+      "id": "peru-e37265c1c7f5520487e9"
+    },
+    {
+      "name": "Casa Osambela",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.0439,
+      "lon": -77.0326,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Conde de Superunda 298",
+      "id": "peru-cdcbb48f6a318b4791db"
+    },
+    {
+      "name": "Casa Pilatos",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.046137,
+      "lon": -77.027267,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Ancash 390",
+      "id": "peru-514ae131f95b47e6ce61"
+    },
+    {
+      "name": "Casa la Riva",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.044893,
+      "lon": -77.035357,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Ica 426",
+      "id": "peru-8333f3ecebf3b77db8b9"
+    },
+    {
+      "name": "Casa de las Trece Monedas",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.0468,
+      "lon": -77.0258,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Ancash 536",
+      "id": "peru-98559ba2e3ebadab73f9"
+    },
+    {
+      "name": "La Casa Nacional de Moneda",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.048741,
+      "lon": -77.02392,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Corner of Jr. Junin and Paruro",
+      "url": "https://www.bcrp.gob.pe/billetes-y-monedas/casa-nacional-de-moneda/historia.html",
+      "id": "peru-faa201193d9a3a691157"
+    },
+    {
+      "name": "Palacio de Gobierno",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.0451,
+      "lon": -77.03,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Plaza Mayor",
+      "id": "peru-0ed790849703fc32dc7c"
+    },
+    {
+      "name": "Palacio de Justicia",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.0576,
+      "lon": -77.0354,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Av. Paseo de la República",
+      "url": "http://historico.pj.gob.pe/",
+      "id": "peru-146eaf2dbf0921c2cb72"
+    },
+    {
+      "name": "Palacio Municipal",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.0453,
+      "lon": -77.0311,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Cailloma 125",
+      "id": "peru-7410b6f357a961701b38"
+    },
+    {
+      "name": "Palacio Arzobispal",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Plaza de Armas",
+      "url": "https://limasabe.pe/",
+      "id": "peru-34e4fd3a122433d27dba"
+    },
+    {
+      "name": "Palacio de Torre Tagle",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.04884,
+      "lon": -77.02931,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Ucayali 363",
+      "id": "peru-41597e8e5298fd3ca7e1"
+    },
+    {
+      "name": "Casa de la Gastronomía",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Conde de Superunda, one block north west of the government palace (plaza de armas)",
+      "id": "peru-5cc0d05f10abb74497e0"
+    },
+    {
+      "name": "Casa Museo Jose Carlos Mariategui",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.0639,
+      "lon": -77.0391,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Washington near Plaza Jorge Chavez",
+      "id": "peru-2c0d4d5bfc8661c5a869"
+    },
+    {
+      "name": "Casa Museo Miguel Grau",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Huancavelica 172",
+      "id": "peru-f9c4cb17da1c5abdfa7e"
+    },
+    {
+      "name": "Galeria Juan Pardo Heeren",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Cusco 446",
+      "id": "peru-63c7bf03c00fef9eced9"
+    },
+    {
+      "name": "Galeria Pancho Fierro",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Pasaje Santa Rosa 114",
+      "id": "peru-e9639c37e7a74e782c0a"
+    },
+    {
+      "name": "Galería ICPNA San Miguel",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Av. La Marina 2469",
+      "url": "http://www6.icpna.edu.pe/",
+      "id": "peru-0cf1f96c7e1037d6a6eb"
+    },
+    {
+      "name": "Museo Andres del Castillo",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.052,
+      "lon": -77.036,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Corner Jiron de la Union and ?",
+      "id": "peru-0e12ea818287ef024931"
+    },
+    {
+      "name": "Museo de Arqueología y Antropología de la Universidad Nacional Mayor de San Marcos",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Av. Nicolás de Piérola 1222 (Centro Cultural de la UNMSM)",
+      "url": "http://centrocultural.unmsm.edu.pe/",
+      "id": "peru-c592005e21693b7af12d"
+    },
+    {
+      "name": "Museo Arqueológico Josefina Ramos de Cox del Instituto Riva Agüero (Pontificia Universidad Católica del Perú)",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. de La Unión Nº 554",
+      "url": "http://ira.pucp.edu.pe/",
+      "id": "peru-537819da75ac32c1b39c"
+    },
+    {
+      "name": "Museo de Arte Italiano",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.0584,
+      "lon": -77.0367,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Parque Juana Larco De Dammert. Paseo de la República 250",
+      "price": "S/4",
+      "id": "peru-193acaee746513b71714"
+    },
+    {
+      "name": "Museo de Arte de Lima",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.0606,
+      "lon": -77.0369,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Paseo Colón 125, Parque de Lima",
+      "price": "General entry S/30, children below 8 years free",
+      "url": "http://www.mali.pe/",
+      "id": "peru-aeb622b1960bb469ca85"
+    },
+    {
+      "name": "Museo de Arte de la Universidad Nacional Mayor de San Marcos",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Av. Nicolás de Piérola 1222 (Centro Cultural de la UNMSM)",
+      "url": "http://www.ccsm-unmsm.edu.pe/arte/",
+      "id": "peru-a0c801d108a4fa3cfeca"
+    },
+    {
+      "name": "Museo de Arte y Tradiciones Populares",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jirón Camaná 459",
+      "price": "Adults S/2, students and children S/1",
+      "url": "http://ira.pucp.edu.pe/",
+      "id": "peru-30158d070131e7c5b644"
+    },
+    {
+      "name": "Museo del Banco Central de Reserva",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.048213,
+      "lon": -77.030108,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Ucayali 271 (corner of Jr. Lampa and Ica)",
+      "price": "Free",
+      "url": "http://www.bcrp.gob.pe/museocentral",
+      "id": "peru-735bbb8e60ac7f8b1c4f"
+    },
+    {
+      "name": "Museo del Banco de Crédito del Perú",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Corner Jr. Lampa y Ucayali",
+      "id": "peru-a3ca2adde405628bd43a"
+    },
+    {
+      "name": "Museo del Banco Wiese",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Cusco 245",
+      "id": "peru-6e50de71237b61af5406"
+    },
+    {
+      "name": "Museo del Cementario Presbitero Matias Maestro",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Ancash, cuadra 17 (4a puerta)",
+      "price": "Adults S/5, students S/3, children S/2",
+      "id": "peru-8a479ff10fec6dc13ecc"
+    },
+    {
+      "name": "Museo del Cerebro",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.046176,
+      "lon": -77.01589,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Ancash 1271",
+      "url": "http://www.limaeasy.com/culture-guide/museums-lima/neuropathology-museum-the-brain-museum",
+      "id": "peru-4ac922c812ecf5518385"
+    },
+    {
+      "name": "Museo de los Combatientes de Arica",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.0445,
+      "lon": -77.0329,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Corner of Conde de Superunda and Cailloma",
+      "id": "peru-c9d1ba37baeacd52d347"
+    },
+    {
+      "name": "Museo del Convento de San Francisco",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Pza. San Francisco, Jirón Ancash",
+      "id": "peru-af243cdbe9d34cb367cd"
+    },
+    {
+      "name": "Museo de los Descalzos",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.03359,
+      "lon": -77.02429,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Calle Manco Cápac 202-A, Alameda de los Descalzos",
+      "price": "Adults S/7, seniors and students S/3, children S/2",
+      "url": "http://www.facebook.com/museodelosdescalzospaginaoficial",
+      "id": "peru-d7fd4f49dbde3304852b"
+    },
+    {
+      "name": "Museo de la Cultura Peruana",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.047878,
+      "lon": -77.043044,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Av. Alfonso Ugarte 650, corner of Sanchez Pinillos",
+      "id": "peru-5b33c2031b1a91860e8d"
+    },
+    {
+      "name": "Museo Grafico del Diario - El Peruano",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "id": "peru-29bdcee47d48777afa6b"
+    },
+    {
+      "name": "Museo del Hospital Santo Toribio de Mogrovejo",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jirón Ancash 1271",
+      "id": "peru-a6f9c901224bd636ca90"
+    },
+    {
+      "name": "Museo de la Inquisición y del Congreso",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.048,
+      "lon": -77.026,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Junín 548, opposite Plaza Bolivar",
+      "url": "http://www.congreso.gob.pe/museo.htm",
+      "id": "peru-18d79d2ffbee792f7873"
+    },
+    {
+      "name": "Museo Metropolitano de Lima",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.0633,
+      "lon": -77.0369,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Parque de Lima, Corner 28 de Julio and Garcilaso de la Vega",
+      "price": "8 S for adults",
+      "url": "https://www.museosdelima.com/museo-metropolitano-de-lima/",
+      "id": "peru-7a7a9ba2fc54b6a49127"
+    },
+    {
+      "name": "Museo Militar",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.0594,
+      "lon": -77.0372,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Parque Juana Larco De Dammert, 9 De Diciembre",
+      "id": "peru-8389c60b825e28a152b2"
+    },
+    {
+      "name": "Museo Municipal del Teatro",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Teatro Segura, Jirón Huancavelica 240",
+      "id": "peru-0b66371fc95d00152de2"
+    },
+    {
+      "name": "Museo Nacional Afroperuano",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.046749,
+      "lon": -77.025796,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Simon Rodrigez, opposite Plaza Bolivar",
+      "url": "https://web.archive.org/web/20140214113258/http://museoafroperuano.pe:80/",
+      "id": "peru-71a9a397809087bf85d2"
+    },
+    {
+      "name": "Museo Postal y Filatélico del Perú",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.0443,
+      "lon": -77.0307,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Pasaje Piura, next to the Palacio de Gobierno",
+      "id": "peru-170dd5d41a382920dd9d"
+    },
+    {
+      "name": "Museo de Sitio del Parque de la Muralla",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.044444,
+      "lon": -77.026111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Parque de la Muralla, Jr. Amazonas cdra. 1, on the south bank of Rio Rímac, just west of the Abancay Avenue bridge",
+      "id": "peru-f405e888d96a3bdbf3fe"
+    },
+    {
+      "name": "Museo Universitario de la Universidad Nacional Federico Villareal",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Cañete 697 esquina con Nicolás de Piérola",
+      "id": "peru-e7b0e980522a861fb8e2"
+    },
+    {
+      "name": "Sala de Exposiciones en el Colegio Real",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "id": "peru-bd9084b533d15bb9d13a"
+    },
+    {
+      "name": "Parque de la Exposicion",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.061389,
+      "lon": -77.036667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Bordered by the avenidas Paseo Colón, Garcilaso de la Vega, Paseo de la República y 28 de Julio, Santa Beatriz",
+      "id": "peru-0d97b33a139b32c61ad8"
+    },
+    {
+      "name": "Parque Juana Larco De Dammert",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.0585,
+      "lon": -77.0372,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Bordered by Garcilaso de la Vega, Paseo de la República and 9 De Diciembre",
+      "id": "peru-98555fb0f9c2b50ff902"
+    },
+    {
+      "name": "Parque de la Reserva",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.070833,
+      "lon": -77.033333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Bordered by Paseo de la República, Sanchez Cerro, Arequipa and Madre de Dios with Petit Thouars running right through the middle",
+      "price": "S/5/adult, S/2.5/concession",
+      "url": "https://circuitomagicodelagua.pe/",
+      "id": "peru-33253fdcc2dbff526874"
+    },
+    {
+      "name": "Parque Universitario",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.0541,
+      "lon": -77.0314,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Intersection of Abancay and Nicolás de Piérola",
+      "id": "peru-ffbe1bf5adb9ff3ce3df"
+    },
+    {
+      "name": "Parque de la Muralla",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.0447,
+      "lon": -77.02631,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "id": "peru-a4616cf89af9dabc050a"
+    },
+    {
+      "name": "Alameda Chabuca Granda",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.04354,
+      "lon": -77.03081,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "id": "peru-dab7a3a853c1181f571f"
+    },
+    {
+      "name": "Alameda de los Descalzos",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.0358,
+      "lon": -77.0259,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "id": "peru-8255b6b495503131a004"
+    },
+    {
+      "name": "Paseo de Aguas",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.0391,
+      "lon": -77.0248,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "id": "peru-43df6465112656137ee2"
+    },
+    {
+      "name": "Paseo de Nuestros Heroes Navales",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "id": "peru-be83434ccd022b5f78e3"
+    },
+    {
+      "name": "Plaza Mayor",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.0458,
+      "lon": -77.0306,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "id": "peru-efac9c767990172edcb5"
+    },
+    {
+      "name": "Plaza Bolivar",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.0477,
+      "lon": -77.026,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Corner of Abancay and Junin",
+      "id": "peru-ab8033a37e0108f83b78"
+    },
+    {
+      "name": "Plaza Bolognesi",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.0602,
+      "lon": -77.0416,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "id": "peru-5fcfdc37765a872aef87"
+    },
+    {
+      "name": "Plaza Carrion",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Corner Av. Grau and Huanuco",
+      "id": "peru-2dc7e3850d69b671890d"
+    },
+    {
+      "name": "Plaza Dos de Mayo",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.0463,
+      "lon": -77.0428,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "id": "peru-ff91dac0b89e9c546f12"
+    },
+    {
+      "name": "Plaza Francia",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.0532,
+      "lon": -77.0378,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Corner of Villaran and Camana, next to Iglesia de Recoleta",
+      "id": "peru-2182f6abcb7c8bf7b9e5"
+    },
+    {
+      "name": "Plaza Italia",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.0506,
+      "lon": -77.0227,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Corner of Huanta and Junin",
+      "id": "peru-d5826e04be5aecece266"
+    },
+    {
+      "name": "Plaza Peru",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.0448,
+      "lon": -77.0308,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "next to the Palacio de Gobierno, adjoining the north corner of Plaza Mayor",
+      "id": "peru-4d2ed9c6b986cd163ab0"
+    },
+    {
+      "name": "Plaza San Martín",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "lat": -12.0514,
+      "lon": -77.0347,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "9th block of Jirón de la Unión",
+      "id": "peru-9d9bef5c316ee46158c3"
+    },
+    {
+      "name": "Centro Cultural Peruano Japonés",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Av. Gregorio Escobedo 803, Jesús María",
+      "url": "http://www.apj.org.pe/",
+      "id": "peru-5bc0c550c97fedb8a61e"
+    },
+    {
+      "name": "Museo de Antropología y Agricultura Precolombina",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Calle Camilo Carrillo 300-A, Jesús María",
+      "url": "http://www.lamolina.edu.pe/ciza/",
+      "id": "peru-1906bc1d313b68d1d077"
+    },
+    {
+      "name": "Museo de Historia Natural de la Universidad Nacional Mayor de San Marcos",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Av. Arenales 1256, Jesús María",
+      "url": "http://museohn.unmsm.edu.pe/",
+      "id": "peru-f34382803a3484f7f276"
+    },
+    {
+      "name": "Museo Andrés Avelino Cáceres",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Avenida República de Portugal 258 - Breña",
+      "id": "peru-1d3e5a924ff5024514c3"
+    },
+    {
+      "name": "Museo Multidisciplinario del Colegio La Salle",
+      "kind": "do",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Av. Arica 601 - Breña",
+      "price": "Adults S/3, students S/2, children S/1",
+      "id": "peru-e0f84b292340ee4691ce"
+    },
+    {
+      "name": "Lima 141 Sanguchería",
+      "kind": "eat",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Huallaga 146",
+      "id": "peru-0cb511784f2f614eae41"
+    },
+    {
+      "name": "El Paisa Internacional",
+      "kind": "eat",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Apurímac 265",
+      "id": "peru-d03530f12f4d6cd70b18"
+    },
+    {
+      "name": "Salon Capón",
+      "kind": "eat",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Paruro 819",
+      "id": "peru-51d002f95ac590e4b189"
+    },
+    {
+      "name": "Salón China",
+      "kind": "eat",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Ucayali 727 (Calle Capón)",
+      "id": "peru-28404fecad3c8ed87509"
+    },
+    {
+      "name": "El Rinconcito de Chela",
+      "kind": "eat",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Chamaya 1208, Breña",
+      "id": "peru-339545318398a2399613"
+    },
+    {
+      "name": "Cebichería María",
+      "kind": "eat",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Av. Cuba 1200, Jesús María",
+      "url": "http://www.cebicheriamaria.com/",
+      "id": "peru-690c20ec1ac04bfd5e7c"
+    },
+    {
+      "name": "Don Fernando",
+      "kind": "eat",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Av. General Garzón 1788, Jesús María",
+      "url": "http://www.donfernando.com.pe/",
+      "id": "peru-e16d332351d965b08de4"
+    },
+    {
+      "name": "El Aguajal",
+      "kind": "eat",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Huiracocha 1498, Jesus Maria",
+      "url": "http://www.aguajal.com/",
+      "id": "peru-75be17125d62c7df29d6"
+    },
+    {
+      "name": "Oneeglio",
+      "kind": "eat",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Av. Santa Cruz 179, Jesús María",
+      "id": "peru-bc464eb4f9a49ea4de5d"
+    },
+    {
+      "name": "Huanca Huasi",
+      "kind": "eat",
+      "locality": "Lima/Central Lima",
+      "lat": -12.08908,
+      "lon": -77.01288,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Av. Javier Prado Este 1405, Urb. Santa Catalina, La Victoria",
+      "url": "http://huancahuasi.com/",
+      "id": "peru-dcfe9e4c11de9440d007"
+    },
+    {
+      "name": "Trattoria El Italiano",
+      "kind": "eat",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Enrique León García S/N Urb. Santa Catalina - La Victoria",
+      "id": "peru-d6e89178d60c24f0fbc3"
+    },
+    {
+      "name": "Norkys",
+      "kind": "eat",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jirón de la Unión 748, Cercado de Lima",
+      "id": "peru-84029d9c38f695ef5d56"
+    },
+    {
+      "name": "Roky's",
+      "kind": "eat",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jirón de la Unión 800, Cercado de Lima",
+      "url": "https://rokys.com/",
+      "id": "peru-a5a8f9da6c46a8afe6c2"
+    },
+    {
+      "name": "Rústica",
+      "kind": "eat",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Civic Center, CC Real Plaza, Garcilaso de la Vega 1337",
+      "url": "http://www.rustica.com.pe/",
+      "id": "peru-48db51e3aabe3eecc166"
+    },
+    {
+      "name": "1900 Backpackers Hostel",
+      "kind": "stay",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Av. Garcilazo de la Vega 1588",
+      "price": "dorms from S/26",
+      "url": "http://www.1900hostel.com/",
+      "id": "peru-bd00b813af5f187d9b91"
+    },
+    {
+      "name": "Gran Hotel Bolivar",
+      "kind": "stay",
+      "locality": "Lima/Central Lima",
+      "lat": -12.050908,
+      "lon": -77.035103,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. De La Union 958, Centro Histórico",
+      "url": "https://www.granhotelbolivar.pe/en/",
+      "id": "peru-0cc747811aa44f937ee2"
+    },
+    {
+      "name": "Hotel Continental",
+      "kind": "stay",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Jr. Puno 196 Centro Histórico",
+      "price": "Single about S/100, double about S/140",
+      "url": "http://www.hotelcontinentallima.com/",
+      "id": "peru-c81be0e5432624a42fb2"
+    },
+    {
+      "name": "Hotel España",
+      "kind": "stay",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Corner of Ancash and Azangaro (across from San Francisco Convent)",
+      "url": "http://www.hotelespanaperu.com/",
+      "id": "peru-c718478b3b284ce912a9"
+    },
+    {
+      "name": "Hotel Mandarin",
+      "kind": "stay",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Av. Petit Thouars 1301 esq. Teodoro Cárdenas, Urb. Santa Beatriz",
+      "id": "peru-77d2f264728dfd70fc97"
+    },
+    {
+      "name": "El Sol",
+      "kind": "stay",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Av. Rep. de Portugal 169-171, Breña",
+      "price": "S/35",
+      "id": "peru-4fa6bbce1a9c0b594a7a"
+    },
+    {
+      "name": "Hostal Rey",
+      "kind": "stay",
+      "locality": "Lima/Central Lima",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "address": "Av. Canada 1485, La Victoria",
+      "id": "peru-457223a8ef26ff867a19"
+    },
+    {
+      "name": "Lima/Central Lima",
+      "kind": "area",
+      "locality": "Lima/Central Lima",
+      "lat": -12.04478,
+      "lon": -77.03158,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FCentral_Lima",
+      "id": "peru-4e1a7a3f4f8a84f29d2d"
+    },
+    {
+      "name": "El Parque Zoológico de Huachipa",
+      "kind": "do",
+      "locality": "Lima/East",
+      "lat": -12.0144,
+      "lon": -76.8986,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FEast",
+      "address": "Av. Las Torres, Ate Vitarte",
+      "price": "Adults S/10, children S/6",
+      "url": "http://www.zoohuachipa.com.pe/",
+      "id": "peru-5aebadf2160d50195397"
+    },
+    {
+      "name": "Puruchuco",
+      "kind": "do",
+      "locality": "Lima/East",
+      "lat": -12.0489,
+      "lon": -76.9344,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FEast",
+      "address": "Carretera Central Km 4.5, Ate Vitarte. A short distance north of Estadio Monumental. The entrance is to the right of the park inbetween Paris and Helsinki.",
+      "price": "Tickets grant you entry to the ruins, the museum and include a small booklet. Adults S/5, students S/2, children S/1",
+      "url": "http://museopuruchuco.perucultural.org.pe/",
+      "id": "peru-19d9273c7e7d0fa50ea5"
+    },
+    {
+      "name": "Asociación Museo del Automóvil - Colección Nicolini Peru",
+      "kind": "do",
+      "locality": "Lima/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FEast",
+      "address": "Av. La Molina cuadra 9, Urb. Sol, La Molina",
+      "url": "https://www.museodeautosnicolini.com/",
+      "id": "peru-ce992a37ba2ccad6c638"
+    },
+    {
+      "name": "Galería de Arte UNIFE Universidad Femenina del Sagrado Corazón",
+      "kind": "do",
+      "locality": "Lima/East",
+      "lat": -12.071595,
+      "lon": -76.965197,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FEast",
+      "address": "Avenida Los Frutales 954, Urb. Camacho, La Molina",
+      "id": "peru-6853ab325c50d9b4342d"
+    },
+    {
+      "name": "Museo Antonio Raimondi",
+      "kind": "do",
+      "locality": "Lima/East",
+      "lat": -12.073966,
+      "lon": -76.951055,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FEast",
+      "address": "Av. La Fontana 755, La Molina",
+      "price": "Free",
+      "id": "peru-e62a03476c04bf082d73"
+    },
+    {
+      "name": "Museo de Entomología \"Klaus Raven Büller\"",
+      "kind": "do",
+      "locality": "Lima/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FEast",
+      "address": "Av. La Universidad, La Molina",
+      "url": "http://www.museoentomologiaunalm.com.pe/",
+      "id": "peru-2535bf9b002942e8b3f5"
+    },
+    {
+      "name": "Museo de Platería Peruana Vittorio Azzariti",
+      "kind": "do",
+      "locality": "Lima/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FEast",
+      "address": "Av. La Fontana 755. La Molina",
+      "price": "Free",
+      "id": "peru-827c2a58fdc47358adb2"
+    },
+    {
+      "name": "Cajamarquilla",
+      "kind": "do",
+      "locality": "Lima/East",
+      "lat": -11.9853,
+      "lon": -76.9064,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FEast",
+      "price": "Free",
+      "url": "http://www.arqueologiadelperu.com.ar/cajamarquilla.htm",
+      "id": "peru-25bca9e8a90e20207384"
+    },
+    {
+      "name": "Zona Arqueológica Huaycan de Cieneguilla",
+      "kind": "do",
+      "locality": "Lima/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FEast",
+      "id": "peru-465ca417455701287cf4"
+    },
+    {
+      "name": "Country Club La Planicie",
+      "kind": "do",
+      "locality": "Lima/East",
+      "lat": -12.075141,
+      "lon": -76.91151,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FEast",
+      "address": "José León Barandiarán, Av. Planicie 457, La Molina",
+      "url": "https://www.cclp.pe/",
+      "id": "peru-8058856d54bab7ef7a39"
+    },
+    {
+      "name": "Granja Azul Golf",
+      "kind": "do",
+      "locality": "Lima/East",
+      "lat": -12.0339,
+      "lon": -76.887,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FEast",
+      "address": "Carretera central Km. 14 - Valle Santa Clara, Ate Vitarte",
+      "price": "M-F S/90, Sa Su and public holidays S/150",
+      "url": "https://m.facebook.com/golfgranjaazul/",
+      "id": "peru-21bf869bcdcfe74d7c4e"
+    },
+    {
+      "name": "Los Andes Golf Club",
+      "kind": "do",
+      "locality": "Lima/East",
+      "lat": -11.971843,
+      "lon": -76.793579,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FEast",
+      "address": "Carretera Central Km. 23 Hacienda Huampani, Lurigancho, Chosica",
+      "price": "US$50 for foreigners",
+      "id": "peru-618df388d8de4f11393e"
+    },
+    {
+      "name": "Hikari",
+      "kind": "eat",
+      "locality": "Lima/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FEast",
+      "address": "Av. Flora Tristán 439, La Molina",
+      "url": "http://www.hikari.com.pe/",
+      "id": "peru-f93241454c40bc8691b5"
+    },
+    {
+      "name": "Kintaro Restaurant",
+      "kind": "eat",
+      "locality": "Lima/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FEast",
+      "address": "Av. La Molina 1111 cruce con Javier Prado, La Molina",
+      "id": "peru-770e35b9f644962c93d5"
+    },
+    {
+      "name": "Puerto Mancora",
+      "kind": "eat",
+      "locality": "Lima/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FEast",
+      "address": "Av. Javier Prado Este 6768, La Molina",
+      "url": "http://www.puertomancora.com/",
+      "id": "peru-71648a37d2105488b11f"
+    },
+    {
+      "name": "Las Canastas",
+      "kind": "eat",
+      "locality": "Lima/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FEast",
+      "address": "Flora Tristan 682, La Molina",
+      "url": "http://www.lascanastas.com/",
+      "id": "peru-6d1c96b763557ffc1299"
+    },
+    {
+      "name": "Punta Sal",
+      "kind": "eat",
+      "locality": "Lima/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FEast",
+      "address": "Av. El Golf Los Incas 376, La Molina",
+      "url": "https://puntasal.com/",
+      "id": "peru-20e48e8e5d70c50e033f"
+    },
+    {
+      "name": "Rodizio",
+      "kind": "eat",
+      "locality": "Lima/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FEast",
+      "address": "Av. La Molina cuadra 11, La Molina",
+      "id": "peru-82092b943e47560a951b"
+    },
+    {
+      "name": "Señor Limón - Camacho",
+      "kind": "eat",
+      "locality": "Lima/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FEast",
+      "address": "Av. Javier Prado Este 5335 Urb. Camacho, La Molina",
+      "id": "peru-3f37a7283487613ddb95"
+    },
+    {
+      "name": "Corazon Criollo",
+      "kind": "eat",
+      "locality": "Lima/East",
+      "lat": -12.080476,
+      "lon": -76.993553,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FEast",
+      "address": "Av. Rosa Toro 971, San Luis",
+      "url": "https://m.facebook.com/corazoncriollolimaperu/",
+      "id": "peru-af98c88be4810b4d7497"
+    },
+    {
+      "name": "El Muellecito",
+      "kind": "eat",
+      "locality": "Lima/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FEast",
+      "address": "Av. Rosa Toro 960-962, San Luis",
+      "url": "https://www.facebook.com/elmuellecito/",
+      "id": "peru-90a1907a2e0d0990de5f"
+    },
+    {
+      "name": "El Rincon del Gordo",
+      "kind": "eat",
+      "locality": "Lima/East",
+      "lat": -12.078367,
+      "lon": -76.994224,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FEast",
+      "address": "Av. Rosa Toro 809, San Luis",
+      "id": "peru-be58306b15430b360b2f"
+    },
+    {
+      "name": "Hotel La Molina",
+      "kind": "stay",
+      "locality": "Lima/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FEast",
+      "address": "Av. Los Constructores 1027, La Molina",
+      "url": "http://www.hotellamolina.com.pe/",
+      "id": "peru-e68157e986fd6d9a03a2"
+    },
+    {
+      "name": "Monte Mar",
+      "kind": "stay",
+      "locality": "Lima/East",
+      "lat": -12.080596,
+      "lon": -76.993768,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FEast",
+      "address": "980 Av Rosa Toro, San Luis",
+      "id": "peru-0f1835d348fa071266ed"
+    },
+    {
+      "name": "Lima/East",
+      "kind": "area",
+      "locality": "Lima/East",
+      "lat": -12.08397,
+      "lon": -76.96695,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FEast",
+      "id": "peru-d10e022a0884347aa2fe"
+    },
+    {
+      "name": "Museo Memoria Coronel Leoncio Prado",
+      "kind": "do",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Avenida Costanera 1545 La Perla",
+      "id": "peru-f6c74197aef38285f8ee"
+    },
+    {
+      "name": "Museo Andrés Avelino Cáceres",
+      "kind": "do",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Avenida República de Portugal 258, Breña",
+      "id": "peru-501c3631c34b33e2de92"
+    },
+    {
+      "name": "Museo Multidisciplinario del Colegio La Salle",
+      "kind": "do",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Arica 601, Breña",
+      "price": "Adults S/3, students S/2, children S/1",
+      "id": "peru-32120d1505977accae3e"
+    },
+    {
+      "name": "Centro Cultural Peruano Japonésa",
+      "kind": "do",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Gregorio Escobedo 803, Jesús María",
+      "url": "http://www.apj.org.pe/",
+      "id": "peru-25458c947e1d721238d6"
+    },
+    {
+      "name": "Museo de Antropología y Agricultura Precolombina",
+      "kind": "do",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Calle Camilo Carrillo 300-A, Jesús María",
+      "url": "http://www.lamolina.edu.pe/ciza/",
+      "id": "peru-31d03be04469dead70d0"
+    },
+    {
+      "name": "Museo de Historia Natural UNMSM",
+      "kind": "do",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Arenales 1256, Jesús María",
+      "url": "http://museohn.unmsm.edu.pe/",
+      "id": "peru-4bd97a5206e387a521ec"
+    },
+    {
+      "name": "Casa Museo Julia Codesido",
+      "kind": "do",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Paso de los Andes 500, Pueblo Libre",
+      "id": "peru-21209b19dbaabc7e1fde"
+    },
+    {
+      "name": "National Museum of Archaeology and History",
+      "kind": "do",
+      "locality": "Lima/West",
+      "lat": -12.07725,
+      "lon": -77.062139,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Plaza Bolívar, Pueblo Libre",
+      "url": "http://mnaahp.cultura.pe/",
+      "id": "peru-a80d4b50e838a66fe115"
+    },
+    {
+      "name": "Antigua Taberna Queirolo",
+      "kind": "do",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Corner Av. Vivianco and Av. San Martín, Pueblo Libre.",
+      "url": "http://antiguatabernaqueirolo.com/",
+      "id": "peru-4408a5be8cd78597fef3"
+    },
+    {
+      "name": "Santiago Queirolo",
+      "kind": "do",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. San Martín 1062, Pueblo Libre.",
+      "url": "http://www.santiagoqueirolo.com/",
+      "id": "peru-f47b3e9e5bda41a76bf3"
+    },
+    {
+      "name": "Museo Larco",
+      "kind": "do",
+      "locality": "Lima/West",
+      "lat": -12.072496,
+      "lon": -77.070862,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Bolívar 1515, Pueblo Libre",
+      "price": "Adult S/30, over 65 S/25, students and children (under 15) S/15",
+      "url": "http://www.museolarco.org/",
+      "id": "peru-69031970f642c4580524"
+    },
+    {
+      "name": "ARTCO",
+      "kind": "do",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Roaud y Paz Soldan 325 San Isidro (alt cdra 10 de Camino Real)",
+      "id": "peru-79149fdeafe9508eaa9b"
+    },
+    {
+      "name": "Cafae-se Centro Cultural - ­­Galería No Galería",
+      "kind": "do",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Arequipa 2985, San Isidro",
+      "url": "http://www.cafae-se.com.pe/cultural/inicio.htm",
+      "id": "peru-18d2d281d93df76fb618"
+    },
+    {
+      "name": "Camino Brent",
+      "kind": "do",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Burgos 170, San Isidro",
+      "id": "peru-4cc107ddaccbc5a515e3"
+    },
+    {
+      "name": "Centro Cultural Pontificia Universidad Católica del Perú",
+      "kind": "do",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Camino Real 1075, San Isidro",
+      "url": "http://www.centroculturalpucp.com/",
+      "id": "peru-f4e5e03c8cd1c8f643b0"
+    },
+    {
+      "name": "Enlace Arte Contemporáneo",
+      "kind": "do",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Pardo y Aliaga 676, San Isidro",
+      "url": "https://www.facebook.com/enlaceart/",
+      "id": "peru-48dccc61eba3df59ab4a"
+    },
+    {
+      "name": "La Galería",
+      "kind": "do",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Conde de la Monclova 255, San Isidro",
+      "id": "peru-33c1f27a20c3f9fd8b73"
+    },
+    {
+      "name": "Museo de la Identificación RENIEC",
+      "kind": "do",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Paseo de la República 3505, San Isidro",
+      "id": "peru-6e161b96a819384959df"
+    },
+    {
+      "name": "Museo Marina Núñez del Prado - Biblioteca Falcón",
+      "kind": "do",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Calle Antero Aspíllaga 300, San Isidro",
+      "id": "peru-b73c111608fded0ebc49"
+    },
+    {
+      "name": "Museo de Sitio de Huallamarca",
+      "kind": "do",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Nicolás de Rivera 201, San Isidro",
+      "url": "http://www.sanisidrolima.com/distrito/huallamarca/",
+      "id": "peru-c20d2325c09d1561c4ec"
+    },
+    {
+      "name": "Oleos Peruanos, Club Empresarial",
+      "kind": "do",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Principal 165 , Torre Real III, San Isidro",
+      "id": "peru-0d6313c01c1a3a19e59b"
+    },
+    {
+      "name": "Vertice",
+      "kind": "do",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Plascencia 350, San Isidro",
+      "url": "http://www.galeria-vertice.com/",
+      "id": "peru-f9d2fee7eb32c5f20e10"
+    },
+    {
+      "name": "Museo George Petersen de Ingeniería de Minas de la PUCP",
+      "kind": "do",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Universitaria cuadra 18, San Miguel",
+      "id": "peru-838386aaaafb2050cc60"
+    },
+    {
+      "name": "Museo Interactivo de Lima",
+      "kind": "do",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. José de la Riva Agüero cdra 8, San Miguel",
+      "id": "peru-f434687575cc22ee8165"
+    },
+    {
+      "name": "Parque de las Leyendas",
+      "kind": "do",
+      "locality": "Lima/West",
+      "lat": -12.067314,
+      "lon": -77.086669,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Las Leyendas 580-586, San Miguel",
+      "price": "Adults S/9, children S/4.50, S/0.50 less on weekdays, S/1 more on holidays",
+      "url": "http://leyendas.gob.pe/",
+      "id": "peru-6945ef3aa9d83ca5ba33"
+    },
+    {
+      "name": "Cruise",
+      "kind": "do",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "id": "peru-14e042707f24be9d8182"
+    },
+    {
+      "name": "Surfing",
+      "kind": "do",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "id": "peru-196bebdeb36dfbd678ec"
+    },
+    {
+      "name": "Lima Golf Club",
+      "kind": "do",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Camino Real 770, San Isidro",
+      "url": "http://www.limagolfclub.org.pe/",
+      "id": "peru-dbd378b2b19eaa31dac7"
+    },
+    {
+      "name": "El Rinconcito de Chela",
+      "kind": "eat",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Jr. Chamaya 1208, Breña",
+      "id": "peru-5b20788dff90b100f7da"
+    },
+    {
+      "name": "Cebicheria María",
+      "kind": "eat",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Cuba 1200, Jesús María",
+      "url": "http://www.cebicheriamaria.com/",
+      "id": "peru-5806eb082d52171b07ea"
+    },
+    {
+      "name": "Don Fernando",
+      "kind": "eat",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. General Garzón 1788, Jesús María",
+      "url": "http://www.donfernando.com.pe/",
+      "id": "peru-08b32da7c7a754e6fac6"
+    },
+    {
+      "name": "El Aguajal",
+      "kind": "eat",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Jr. Huiracocha 1498, Jesus Maria",
+      "url": "http://www.aguajal.com/",
+      "id": "peru-04401302bdcc0f62a7df"
+    },
+    {
+      "name": "Oneeglio",
+      "kind": "eat",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Santa Cruz 179, Jesús María",
+      "id": "peru-cdc095f2408b9ac672df"
+    },
+    {
+      "name": "Cafe del Museo (Museo Larco)",
+      "kind": "eat",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Bolívar 1515, Pueblo Libre",
+      "url": "http://www.museolarco.org/cafedelmuseo/",
+      "id": "peru-56493d091750512e1048"
+    },
+    {
+      "name": "El Bolivariano",
+      "kind": "eat",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Psje. Santa Rosa 291, Pueblo Libre",
+      "url": "http://www.elbolivariano.com/",
+      "id": "peru-3242666a52aa9bbfcd17"
+    },
+    {
+      "name": "Ku Mar",
+      "kind": "eat",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. La Alborada 1263, Magdalena Vieja",
+      "id": "peru-7dec6bd168b0dfba35fa"
+    },
+    {
+      "name": "Astrid & Gastón",
+      "kind": "eat",
+      "locality": "Lima/West",
+      "lat": -12.096566,
+      "lon": -77.034735,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Paz Soldán 290",
+      "url": "http://www.astridygaston.com/",
+      "id": "peru-0e362a7dcdfcfb98fa19"
+    },
+    {
+      "name": "Edo sushi bar",
+      "kind": "eat",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "id": "peru-d7eff10eaf74f7f95a00"
+    },
+    {
+      "name": "El Escondite del Gordo",
+      "kind": "eat",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Calle Armando Blondet 216-218, San Isidro",
+      "url": "http://www.elesconditedelgordo.com/",
+      "id": "peru-ddb6c8910a9d42759989"
+    },
+    {
+      "name": "Malabar",
+      "kind": "eat",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Camino Real 101, San Isidro",
+      "id": "peru-ee6ec954b4e8bde7adf5"
+    },
+    {
+      "name": "José Antonio",
+      "kind": "eat",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Jr. Bernardo Monteagudo 200 Orrantia del Mar, San Isidro",
+      "url": "http://www.joseantonio.com.pe/",
+      "id": "peru-0a2faf700aa62d7a0b7c"
+    },
+    {
+      "name": "Hikari",
+      "kind": "eat",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. La Mar 2339, San Miguel",
+      "url": "http://www.hikari.com.pe/",
+      "id": "peru-cd9cf8143502088bac04"
+    },
+    {
+      "name": "Mi Propiedad Privada",
+      "kind": "eat",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Costanera 1010, San Miguel",
+      "id": "peru-cb8f31b713cf481eb656"
+    },
+    {
+      "name": "Señor Limón - Camacho",
+      "kind": "eat",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. La Mar 2311, San Miguel",
+      "id": "peru-c463d35251088ed27fc6"
+    },
+    {
+      "name": "Pizzería Zarelle",
+      "kind": "eat",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Ave Brigida Silva de Ochoa 390, San Miguel",
+      "id": "peru-2bf9edb661823b9da86e"
+    },
+    {
+      "name": "Corazon Criollo",
+      "kind": "eat",
+      "locality": "Lima/West",
+      "lat": -12.080476,
+      "lon": -76.993553,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Rosa Toro 971, San Luis",
+      "url": "http://www.corazoncriollo.com/",
+      "id": "peru-fd4efd70209d8f88656a"
+    },
+    {
+      "name": "El Muellecito",
+      "kind": "eat",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Rosa Toro 960-962, San Luis",
+      "url": "https://www.facebook.com/elmuellecito/",
+      "id": "peru-135f9aff75bb01b9870c"
+    },
+    {
+      "name": "El Rincon del Gordo",
+      "kind": "eat",
+      "locality": "Lima/West",
+      "lat": -12.078367,
+      "lon": -76.994224,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Rosa Toro 809, San Luis",
+      "id": "peru-a808f71ddf8187c80ca0"
+    },
+    {
+      "name": "Hostal Restaurant Mauro Inn",
+      "kind": "stay",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av La Marina 1640 Lt. 12 - Pueblo Libre",
+      "id": "peru-4662a287fb6bd7c6111f"
+    },
+    {
+      "name": "Hostal El Bouquet",
+      "kind": "stay",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "San José 463 (Cdra 11 De Sucre Y 4 De La Marina) - Pueblo Libre",
+      "id": "peru-321514e447ca781b6160"
+    },
+    {
+      "name": "Hotel Pueblo Libre",
+      "kind": "stay",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. San Martín 294, Pueblo Libre",
+      "id": "peru-4f8082edce7baee6eda0"
+    },
+    {
+      "name": "Hotel Mamatila",
+      "kind": "stay",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Antonio Arrieta 110 Esq. Cdra 16 Av. Brasil",
+      "url": "https://m.facebook.com/pages/category/Hotel-Resort/HOTEL-Mamatila-LIMA-366090400491610/",
+      "id": "peru-9defb16837248b7fd70c"
+    },
+    {
+      "name": "Basadre Suites Hotel",
+      "kind": "stay",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Jorge Basadre 1310, San Isidro",
+      "price": "From S/280, weekend specials S/226",
+      "url": "http://www.hotelbasadre.com/",
+      "id": "peru-66ff7e6d2adad7509f53"
+    },
+    {
+      "name": "Blue Star Hotel",
+      "kind": "stay",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Calle Luis Aldana 303 (antes calle 7), San Isidro",
+      "price": "From about S/210",
+      "url": "https://m.facebook.com/pages/category/Hotel---Lodging/Bluestar-Hotel-1604808396441254/",
+      "id": "peru-cc341c2ffbd1eafca57e"
+    },
+    {
+      "name": "Country Club Lima Hotel",
+      "kind": "stay",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Los Eucaliptos 590, San Isidro",
+      "url": "http://www.hotelcountry.com/",
+      "id": "peru-cd1c70c48e018f25711f"
+    },
+    {
+      "name": "Daniels Hotel",
+      "kind": "stay",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Las Castañitas 152, San Isidro",
+      "url": "http://www.danielshotel.com/",
+      "id": "peru-8c5ebae86ec603a706f0"
+    },
+    {
+      "name": "Manto Hotel Lima MGallery",
+      "kind": "stay",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Calle Los libertadores 490, San Isidro",
+      "url": "https://www.mantohotellima.com/",
+      "id": "peru-19b848cef61a35540fa1"
+    },
+    {
+      "name": "Garden Hotel",
+      "kind": "stay",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. R. Rivera Navarrete 450, San Isidro",
+      "price": "From about S/260",
+      "url": "http://www.gardenhotel.com.pe/",
+      "id": "peru-8819c862ada820c01c1e"
+    },
+    {
+      "name": "Del Prado Hotel",
+      "kind": "stay",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Pablo Carriquiry 298, San Isidro",
+      "price": "From about S/170",
+      "url": "http://www.delpradohotel.com/",
+      "id": "peru-02e17b44109693c3857a"
+    },
+    {
+      "name": "Hotel El Marques",
+      "kind": "stay",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Chinchón 461, San Isidro",
+      "price": "From about S/225",
+      "url": "http://www.hotelmarques.com/",
+      "id": "peru-fdf182dcdf8c6bf3f4cd"
+    },
+    {
+      "name": "Hotel Hong Kon",
+      "kind": "stay",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Aramburú 488, San Isidro",
+      "url": "https://hongkonhotel.com/",
+      "id": "peru-00046fe8ffd170ec0234"
+    },
+    {
+      "name": "Radisson Hotel San Isidro",
+      "kind": "stay",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Las Palmeras 240, San Isidro",
+      "price": "From S/50",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-san-isidro",
+      "id": "peru-57f96c280ea4983ff957"
+    },
+    {
+      "name": "Hostal Martinika",
+      "kind": "stay",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Arequipa 3701, San Isidro",
+      "price": "From S/120",
+      "url": "https://www.hotelmartinika.com/",
+      "id": "peru-010056ad686a5f631b7a"
+    },
+    {
+      "name": "Hotel Roosevelt",
+      "kind": "stay",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Calle Alvarez Calderón 194, San Isidro",
+      "url": "http://www.hotelroosevelt.com/",
+      "id": "peru-cd39807df43aeec68255"
+    },
+    {
+      "name": "Hotel San Isidro Inn",
+      "kind": "stay",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Juan Pezet 1765, San Isidro",
+      "price": "From about S/230",
+      "url": "http://www.sanisidroinn.com.pe/",
+      "id": "peru-39e555c3e055db6c8209"
+    },
+    {
+      "name": "Hotel Suites Plaza Las Flores",
+      "kind": "stay",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Camino Real 1121, San Isidro",
+      "price": "From about S/200",
+      "url": "http://www.suiteslasflores.net/",
+      "id": "peru-89a5a1da9e58f1fd2c33"
+    },
+    {
+      "name": "Los Delfines Hotel",
+      "kind": "stay",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Calle los Eucaliptos 555, San Isidro",
+      "id": "peru-53b4888e9d4dd8b58d07"
+    },
+    {
+      "name": "Los Tallanes Hotel",
+      "kind": "stay",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Jorge Basadre 325, San Isidro",
+      "price": "From about S/800",
+      "url": "http://www.hoteltallanes.com.pe/",
+      "id": "peru-b86e32a9ab97b5d545fc"
+    },
+    {
+      "name": "Meliá Lima",
+      "kind": "stay",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Salaverry, 2599, San Isidro",
+      "price": "From about S/500",
+      "url": "https://www.melia.com/en/hotels/peru/lima/melia-lima/index.htm",
+      "id": "peru-fe417d5c3937d775b69d"
+    },
+    {
+      "name": "Plaza del Bosque Apart Hotel",
+      "kind": "stay",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Paz Soldán 190, San Isidro",
+      "price": "From about S/750",
+      "url": "http://www.plazadelbosque.com/",
+      "id": "peru-8ead6397d6beb0723e91"
+    },
+    {
+      "name": "Sonesta Posada del Inca",
+      "kind": "stay",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Pancho Fierro 194, San Isidro",
+      "id": "peru-00534b97f969ac5f2182"
+    },
+    {
+      "name": "Suites Del Bosque",
+      "kind": "stay",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Paz Soldán 165, San Isidro",
+      "price": "From about S/750",
+      "url": "http://www.suitesdelbosque.com/",
+      "id": "peru-bddcb64a8c54b72fe7cc"
+    },
+    {
+      "name": "Suites Hotel Inkari",
+      "kind": "stay",
+      "locality": "Lima/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "Av. Del Ejército 1147, San Isidro",
+      "url": "https://hotelesinkari.com/alojamiento-san-isidro/",
+      "id": "peru-29d2650aac34cdedb8c4"
+    },
+    {
+      "name": "Monte Mar",
+      "kind": "stay",
+      "locality": "Lima/West",
+      "lat": -12.080596,
+      "lon": -76.993768,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "address": "980 Av Rosa Toro, San Luis",
+      "id": "peru-1bfa920d9b8cd879bab4"
+    },
+    {
+      "name": "Lima/West",
+      "kind": "area",
+      "locality": "Lima/West",
+      "lat": -12.08381,
+      "lon": -77.07184,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FWest",
+      "id": "peru-c247480ea4f6f0bbf59c"
+    },
+    {
+      "name": "Iglesia Matriz",
+      "kind": "do",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Calle Lima 345",
+      "id": "peru-4ee9c13920a458822dcb"
+    },
+    {
+      "name": "La Tarumba",
+      "kind": "do",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Leoncio Prado 225",
+      "url": "http://www.latarumba.com/",
+      "id": "peru-20b11106f77b9dcada14"
+    },
+    {
+      "name": "Luis Miro Quesada Garland Hall",
+      "kind": "do",
+      "locality": "Lima/Miraflores",
+      "lat": -12.1219,
+      "lon": -77.0292,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Municipality building, corner of calle Virgen Milagrosa and avenida Larco, opposite Parque Central",
+      "id": "peru-6f8af39e8d0150f218e0"
+    },
+    {
+      "name": "Palacio Municipal",
+      "kind": "do",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Av. Larco 400",
+      "id": "peru-66a4c7cb33adc94869ae"
+    },
+    {
+      "name": "Parque John. F. Kennedy",
+      "kind": "do",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "id": "peru-b2077a8f55e1b2d2b1bd"
+    },
+    {
+      "name": "Pucllana",
+      "kind": "do",
+      "locality": "Lima/Miraflores",
+      "lat": -12.1108,
+      "lon": -77.0336,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "General Borgoño cuadra 8",
+      "url": "http://huacapucllanamiraflores.pe/",
+      "id": "peru-7f5ed9414b14c0e289ef"
+    },
+    {
+      "name": "Centro Cultural Casa Abierta",
+      "kind": "do",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Av. Petit Thouars 5390",
+      "id": "peru-ba4d71997b7682121bd1"
+    },
+    {
+      "name": "Centro Cultural de la Universidad Cayetano Heredia",
+      "kind": "do",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Av. Armendáriz 445",
+      "id": "peru-f67a2d98228bd9cda61f"
+    },
+    {
+      "name": "Centro Cultural de la Municipalidad de Miraflores",
+      "kind": "do",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Corner of Larco and Diez Canseco",
+      "id": "peru-88384d7dcc08f53d43e1"
+    },
+    {
+      "name": "Centro Cultural Ricardo Palma",
+      "kind": "do",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Av. Larco 770",
+      "id": "peru-1b416aa590f22c9928ef"
+    },
+    {
+      "name": "Casa Museo Ricardo Palma",
+      "kind": "do",
+      "locality": "Lima/Miraflores",
+      "lat": -12.118485,
+      "lon": -77.027688,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Belisario Suarez 189",
+      "id": "peru-89d1a48097e7c9bb7213"
+    },
+    {
+      "name": "Museo Amano",
+      "kind": "do",
+      "locality": "Lima/Miraflores",
+      "lat": -12.114112,
+      "lon": -77.040719,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Retiro 160",
+      "url": "http://www.museoamano.org/",
+      "id": "peru-65da567806e52c691d73"
+    },
+    {
+      "name": "Museo Enrico Poli",
+      "kind": "do",
+      "locality": "Lima/Miraflores",
+      "lat": -12.110396,
+      "lon": -77.041431,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Calle Almirante Lord Cochrane 466",
+      "id": "peru-4cd7ade0669b01f820da"
+    },
+    {
+      "name": "Fly Adventure",
+      "kind": "do",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Calle Alfredo León 234, Oficina 202",
+      "url": "http://www.flyadventure.net/",
+      "id": "peru-38c4a4bc058308b8f82b"
+    },
+    {
+      "name": "AeroXtreme",
+      "kind": "do",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Tripoli 345 Dpto 503",
+      "url": "http://www.aeroxtreme.com/",
+      "id": "peru-751693a14363c0d59d4e"
+    },
+    {
+      "name": "PeryFly",
+      "kind": "do",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "url": "http://www.perufly.com/",
+      "id": "peru-b19bbdaa6f39487b2283"
+    },
+    {
+      "name": "Infinity Paragliding School",
+      "kind": "do",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "url": "http://www.infinitycross.com/",
+      "id": "peru-813476f067f3f4cddb3b"
+    },
+    {
+      "name": "Parapente Paragliding Peru",
+      "kind": "do",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "url": "http://www.parapente.pe/",
+      "id": "peru-9b5e2890f431c63c1076"
+    },
+    {
+      "name": "Team Surf Peru",
+      "kind": "do",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Mahaka Beach, Via de las Playas",
+      "id": "peru-58d40cc4742b3782eacb"
+    },
+    {
+      "name": "Pukana Surf school",
+      "kind": "do",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Makaha Beach",
+      "id": "peru-14a728e3777445f63edf"
+    },
+    {
+      "name": "Skate Park",
+      "kind": "do",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Av. La Marina block 4",
+      "url": "http://www.mirafloreslima.com/miraflores/parques.html",
+      "id": "peru-ae2e05aba2138860fc2c"
+    },
+    {
+      "name": "BMX and Mountain Bike Track",
+      "kind": "do",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Av. La Marina block 4",
+      "url": "http://www.mirafloreslima.com/miraflores/parques.html",
+      "id": "peru-39fed56fd2b9d3b51402"
+    },
+    {
+      "name": "EDO sushi bar",
+      "kind": "eat",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "id": "peru-6438f5b1523bb5a027cd"
+    },
+    {
+      "name": "GianFranco Caffe",
+      "kind": "eat",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Angamos Oeste 598",
+      "id": "peru-bcfaa8e736447bf93d62"
+    },
+    {
+      "name": "La Lucha Sangucheria",
+      "kind": "eat",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Av. Benavides 308",
+      "id": "peru-ab5d422ab27da93e9f3f"
+    },
+    {
+      "name": "Te Burbuja",
+      "kind": "eat",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Pasaje Los Pinos 118",
+      "id": "peru-23f7e1e2a2adcff149ea"
+    },
+    {
+      "name": "Fuzions",
+      "kind": "eat",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Calle San Martin 465",
+      "price": "S/10-15",
+      "id": "peru-f5059c352d0a011f00d8"
+    },
+    {
+      "name": "El Estragon",
+      "kind": "eat",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Calle San Martin 467",
+      "price": "S/10-15",
+      "id": "peru-1e99ec26b4ecf07a809b"
+    },
+    {
+      "name": "Mama Olla Restaurant",
+      "kind": "eat",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Calle Tarata 248",
+      "id": "peru-7ddac15243f7c68bc7ba"
+    },
+    {
+      "name": "Punto Azul",
+      "kind": "eat",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Calle San Martin 595",
+      "id": "peru-95e29ccfe9382c92710d"
+    },
+    {
+      "name": "Tanta",
+      "kind": "eat",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Av. 28 de Julio 888",
+      "id": "peru-af1f9fce90aca014c005"
+    },
+    {
+      "name": "Tierra Santa",
+      "kind": "eat",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Calle Shell 354",
+      "id": "peru-227b16163df5fdb153e2"
+    },
+    {
+      "name": "Rustica",
+      "kind": "eat",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Calle de las Pizzas 104",
+      "id": "peru-1fbb020e2997d86d9849"
+    },
+    {
+      "name": "Bembos",
+      "kind": "eat",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Av Jose Larco 1080",
+      "id": "peru-5a0a8aa8ef087675976a"
+    },
+    {
+      "name": "Alfresco",
+      "kind": "eat",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Av 28 de Julio 331",
+      "url": "https://restaurantealfresco.com/",
+      "id": "peru-597c075bba3ca852ccbb"
+    },
+    {
+      "name": "Costanera 700",
+      "kind": "eat",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Av. El Ejército 421",
+      "id": "peru-9ccce6f525279660b3c1"
+    },
+    {
+      "name": "La Gloria",
+      "kind": "eat",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Jr. Atahualpa 201",
+      "url": "https://m.facebook.com/LaGloriaLima/",
+      "id": "peru-f3ccf4eebbc4321066c7"
+    },
+    {
+      "name": "La Rosa Nautica",
+      "kind": "eat",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Espigón de Playas",
+      "id": "peru-a6477b56e2e122679402"
+    },
+    {
+      "name": "Las Brujas de Cachiche",
+      "kind": "eat",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Calle Bolognesi 472",
+      "id": "peru-7e2e4b36b98135778185"
+    },
+    {
+      "name": "La Trattoria de Mambrino",
+      "kind": "eat",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Av. Malecón de la Reserva 610, Int. 102",
+      "url": "https://www.latrattoriadimambrino.com/",
+      "id": "peru-66cfdec921cbacd13bb7"
+    },
+    {
+      "name": "Mangos",
+      "kind": "eat",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Larcomar, Malecón de la Reserva 610",
+      "id": "peru-5a06cbe9f20305036fb3"
+    },
+    {
+      "name": "Rafael",
+      "kind": "eat",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Calle San Martín 300",
+      "url": "http://www.rafaelosterling.pe/",
+      "id": "peru-e79b081a39cce834bb5a"
+    },
+    {
+      "name": "Café de la Paz",
+      "kind": "eat",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "url": "http://www.cafedelapazperu.com/",
+      "id": "peru-1de6221ea2fee797c8cc"
+    },
+    {
+      "name": "Downtown",
+      "kind": "eat",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Los Pinos 168",
+      "price": "S/50 to get in. Some days of the week it's free entrance",
+      "url": "http://mundovaletodo.com/",
+      "id": "peru-14d9587ecaffc6a4baf8"
+    },
+    {
+      "name": "Coffee time Miraflores",
+      "kind": "eat",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Calle Colon 122",
+      "id": "peru-9d4472804eba2e64797e"
+    },
+    {
+      "name": "La Postreria Café",
+      "kind": "eat",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Calle Enrique Palacios 1008",
+      "id": "peru-f9c70ddff8da8144d448"
+    },
+    {
+      "name": "True Artisan café",
+      "kind": "eat",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Calle Bolivar 153",
+      "id": "peru-237940356b36a79e4e2e"
+    },
+    {
+      "name": "Arabica",
+      "kind": "eat",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Calle Gral Recavarren 269",
+      "id": "peru-dcefdf991fb4d6e71be8"
+    },
+    {
+      "name": "Cirque Hostel",
+      "kind": "stay",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Av. Gral. Córdova 681",
+      "price": "Dorms US$12/person, private suites US$26-30/room",
+      "url": "https://m.facebook.com/cirque.hostel/",
+      "id": "peru-7e6bb2350cab2dcb492e"
+    },
+    {
+      "name": "Pariwana Backpacker Hostel",
+      "kind": "stay",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "url": "http://www.pariwana-hostel.com/",
+      "id": "peru-1fcdd772237cc3283d1e"
+    },
+    {
+      "name": "Pirwa Hostel",
+      "kind": "stay",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "url": "http://www.pirwahostelscusco.com/hostels-lima-peru.html",
+      "id": "peru-e047af9b0b69f1c18a50"
+    },
+    {
+      "name": "151 Backpackers Hostel B&B",
+      "kind": "stay",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Calle Colon 151",
+      "url": "http://www.151backpacker.com/",
+      "id": "peru-ceabd5de9d6342240d47"
+    },
+    {
+      "name": "Red Llama Eco Hostel",
+      "kind": "stay",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Ca. Narciso de la Colina 183",
+      "url": "https://m.facebook.com/redllamahostel/",
+      "id": "peru-9d2ebff9e0d192b62da1"
+    },
+    {
+      "name": "Casa del Mochilero",
+      "kind": "stay",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Chacaltana 130a, 2nd floor",
+      "id": "peru-5ca693f4b2d2387c97b8"
+    },
+    {
+      "name": "Flying Dog Hostel",
+      "kind": "stay",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "url": "http://www.flyingdogperu.com/",
+      "id": "peru-c62f16b680db70b99c26"
+    },
+    {
+      "name": "Loki Backpackers Hostel",
+      "kind": "stay",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Av. Jose Galvez 576",
+      "url": "http://www.lokihostel.com/lima",
+      "id": "peru-e041b859bf2dcfd52f4a"
+    },
+    {
+      "name": "Kokopelli Backpackers Hostel",
+      "kind": "stay",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Calle Berlin 259",
+      "price": "From S/41 per person in 8-bed dorm to S/65 per person in double room.",
+      "url": "https://www.hostelkokopelli.com/",
+      "id": "peru-a3104dec8ae6c86b576f"
+    },
+    {
+      "name": "JW Marriott Hotel Lima",
+      "kind": "stay",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Malecón de la Reserva 615",
+      "url": "https://www.marriott.com/hotels/travel/limdt-jw-marriott-hotel-",
+      "id": "peru-618c84739eab4eb5e1dc"
+    },
+    {
+      "name": "Thunderbird Hotel Suites & Casino",
+      "kind": "stay",
+      "locality": "Lima/Miraflores",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Av. Alcanfores 475",
+      "price": "US$170",
+      "url": "https://m.facebook.com/thunderbirdhotels/",
+      "id": "peru-ed997b12a7dcf56e1a88"
+    },
+    {
+      "name": "Belmond Miraflores Park",
+      "kind": "stay",
+      "locality": "Lima/Miraflores",
+      "lat": -12.135278,
+      "lon": -77.027222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "address": "Av. Malecón de la Reserva, 1035",
+      "url": "http://www.belmond.com/miraflores-park-lima/",
+      "id": "peru-1d99590929c26c9ef1cf"
+    },
+    {
+      "name": "Lima/Miraflores",
+      "kind": "area",
+      "locality": "Lima/Miraflores",
+      "lat": -12.1175,
+      "lon": -77.043,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lima%2FMiraflores",
+      "id": "peru-b6e772f81b793b66d206"
+    },
+    {
+      "name": "Salkantay Trek",
+      "kind": "do",
+      "locality": "Machu Picchu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Machu_Picchu",
+      "id": "peru-0c46e556a7a60856fa18"
+    },
+    {
+      "name": "Inca Jungle Trek",
+      "kind": "do",
+      "locality": "Machu Picchu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Machu_Picchu",
+      "id": "peru-dff24c3667f4f16022a2"
+    },
+    {
+      "name": "Sun Gate",
+      "kind": "do",
+      "locality": "Machu Picchu",
+      "lat": -13.1696372,
+      "lon": -72.5339293,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Machu_Picchu",
+      "id": "peru-1bde734a4092af771b2b"
+    },
+    {
+      "name": "Temple of the Sun",
+      "kind": "do",
+      "locality": "Machu Picchu",
+      "lat": -13.1640873,
+      "lon": 72.5447471,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Machu_Picchu",
+      "id": "peru-37e05cb54e2785f58807"
+    },
+    {
+      "name": "Intihuatana",
+      "kind": "do",
+      "locality": "Machu Picchu",
+      "lat": -13.1630701,
+      "lon": -72.5455788,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Machu_Picchu",
+      "id": "peru-d7ec8996aa70e1970b9a"
+    },
+    {
+      "name": "Temple of the Three Windows",
+      "kind": "do",
+      "locality": "Machu Picchu",
+      "lat": -13.1635251,
+      "lon": -72.5453379,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Machu_Picchu",
+      "id": "peru-f6800dd70a816c7f19c3"
+    },
+    {
+      "name": "Main Temple",
+      "kind": "do",
+      "locality": "Machu Picchu",
+      "lat": -13.1634929,
+      "lon": -72.5454509,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Machu_Picchu",
+      "id": "peru-f6190816d2d3d4056531"
+    },
+    {
+      "name": "Temple of the Condor",
+      "kind": "do",
+      "locality": "Machu Picchu",
+      "lat": -13.1635769,
+      "lon": -72.5445436,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Machu_Picchu",
+      "id": "peru-b5307180ac781d3a0379"
+    },
+    {
+      "name": "Fountains",
+      "kind": "do",
+      "locality": "Machu Picchu",
+      "lat": -13.1633067,
+      "lon": -72.5445452,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Machu_Picchu",
+      "id": "peru-8fac141cb9b67ba38e08"
+    },
+    {
+      "name": "Huayna Picchu",
+      "kind": "do",
+      "locality": "Machu Picchu",
+      "lat": -13.156083,
+      "lon": -72.545465,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Machu_Picchu",
+      "price": "S/48, added to the price of your ticket",
+      "id": "peru-8969ce543bd3a5b2b830"
+    },
+    {
+      "name": "Moon Temple",
+      "kind": "do",
+      "locality": "Machu Picchu",
+      "lat": -13.152142,
+      "lon": -72.546479,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Machu_Picchu",
+      "id": "peru-f835fc7d2a3999628146"
+    },
+    {
+      "name": "Great Cave",
+      "kind": "do",
+      "locality": "Machu Picchu",
+      "lat": -13.1514715,
+      "lon": -72.5462289,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Machu_Picchu",
+      "id": "peru-47351ec0bae7c1db7401"
+    },
+    {
+      "name": "Machu Picchu Mountain",
+      "kind": "do",
+      "locality": "Machu Picchu",
+      "lat": -13.1747287,
+      "lon": -72.5418769,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Machu_Picchu",
+      "id": "peru-a5f4760f114a956c9fd8"
+    },
+    {
+      "name": "Inca Bridge",
+      "kind": "do",
+      "locality": "Machu Picchu",
+      "lat": -13.1707774,
+      "lon": -72.5438285,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Machu_Picchu",
+      "id": "peru-bd1254f82e8a8db71e6b"
+    },
+    {
+      "name": "Concession stand",
+      "kind": "eat",
+      "locality": "Machu Picchu",
+      "lat": -13.16573,
+      "lon": -72.54311,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Machu_Picchu",
+      "id": "peru-3ee35e922f572e30b5e9"
+    },
+    {
+      "name": "Tinkuy Buffet Restaurant",
+      "kind": "eat",
+      "locality": "Machu Picchu",
+      "lat": -13.165974,
+      "lon": -72.5431033,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Machu_Picchu",
+      "price": "US$40",
+      "url": "http://www.belmond.com/sanctuary-lodge-machu-picchu/dining_machu_picchu",
+      "id": "peru-9665c9366e06e6de47e9"
+    },
+    {
+      "name": "Tampu Restaurant Bar",
+      "kind": "eat",
+      "locality": "Machu Picchu",
+      "lat": -13.165974,
+      "lon": -72.5431033,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Machu_Picchu",
+      "id": "peru-5f16db1ddb365c1f590b"
+    },
+    {
+      "name": "Machu Picchu Sanctuary Lodge",
+      "kind": "stay",
+      "locality": "Machu Picchu",
+      "lat": -13.16606,
+      "lon": -72.5428,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Machu_Picchu",
+      "address": "KM 7.5, Carretera Hiram Bingham",
+      "price": "$2000+",
+      "url": "http://www.belmond.com/sanctuary-lodge-machu-picchu/",
+      "id": "peru-97f9a8c731fb439cb4b0"
+    },
+    {
+      "name": "Machu Picchu",
+      "kind": "area",
+      "locality": "Machu Picchu",
+      "lat": -13.163056,
+      "lon": -72.545556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Machu_Picchu",
+      "id": "peru-a831d8e39d65b73ef8ec"
+    },
+    {
+      "name": "Museo Municipal de Arte Contemporáneo",
+      "kind": "do",
+      "locality": "Cuzco",
+      "lat": -13.516604,
+      "lon": -71.980392,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "id": "peru-9cda19128b5a912cfcd2"
+    },
+    {
+      "name": "Museo Histórico Regional",
+      "kind": "do",
+      "locality": "Cuzco",
+      "lat": -13.517601,
+      "lon": -71.980376,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Calle Garcilaso",
+      "url": "https://museos.cultura.pe/museos/museo-historico-regional-de-cusco",
+      "id": "peru-afe769ddc263fa2d34f1"
+    },
+    {
+      "name": "Machu Picchu Museum",
+      "kind": "do",
+      "locality": "Cuzco",
+      "lat": -13.516841,
+      "lon": -71.977052,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "320 Santa Catalina Ancha",
+      "price": "Foreigners S/20, international students and Peruvians with ID S/10, Peruvian students S/5",
+      "url": "http://www.museomachupicchu.com/",
+      "id": "peru-e510e33a2e814c4aeaff"
+    },
+    {
+      "name": "Museo del Centro de Textiles Tradicionales de Cusco",
+      "kind": "do",
+      "locality": "Cuzco",
+      "lat": -13.521209,
+      "lon": -71.975458,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Av Sol. No. 603",
+      "price": "Free",
+      "url": "http://www.textilescusco.org/",
+      "id": "peru-c55a4db344d49c3b7d1a"
+    },
+    {
+      "name": "Museo del Sitio del Qoricancha",
+      "kind": "do",
+      "locality": "Cuzco",
+      "lat": -13.520822,
+      "lon": -71.97593,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Av El Sol",
+      "url": "http://cosituc.gob.pe/museo-de-sitio-qorikancha/",
+      "id": "peru-16a9bdff52c4045d5066"
+    },
+    {
+      "name": "Museo de Arte Popular",
+      "kind": "do",
+      "locality": "Cuzco",
+      "lat": -13.517608,
+      "lon": -71.978165,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Av. El Sol 103",
+      "id": "peru-ad2c949d2cd2fda3ffb4"
+    },
+    {
+      "name": "Santa Catalina Convent",
+      "kind": "do",
+      "locality": "Cuzco",
+      "lat": -13.517344,
+      "lon": -71.977252,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Santa Catalina Angosta 401",
+      "id": "peru-0cc4885fed8603331765"
+    },
+    {
+      "name": "Qoricancha",
+      "kind": "do",
+      "locality": "Cuzco",
+      "lat": -13.520111,
+      "lon": -71.975722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "price": "S/20",
+      "id": "peru-2001655549153dc78eb3"
+    },
+    {
+      "name": "ChocoMuseo",
+      "kind": "do",
+      "locality": "Cuzco",
+      "lat": -13.516557,
+      "lon": -71.980079,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Calle Garcilaso 210",
+      "price": "Free",
+      "url": "https://www.chocomuseo.com/peru/cusco/",
+      "id": "peru-aceb3e3f44e126f81d3f"
+    },
+    {
+      "name": "Museo Inka",
+      "kind": "do",
+      "locality": "Cuzco",
+      "lat": -13.515697,
+      "lon": -71.978142,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Cuesta del Almirante 103",
+      "price": "S/20",
+      "url": "http://museoinka.unsaac.edu.pe/",
+      "id": "peru-b2315f092646032de195"
+    },
+    {
+      "name": "Natural History Museum",
+      "kind": "do",
+      "locality": "Cuzco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "id": "peru-987b136054e9769de21b"
+    },
+    {
+      "name": "Piedra de los doce ángulos",
+      "kind": "do",
+      "locality": "Cuzco",
+      "lat": -13.515938,
+      "lon": -71.976188,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Hatun Rumiyoc",
+      "id": "peru-2ab934cbf3b3655086b9"
+    },
+    {
+      "name": "Monumento Pachacuteq",
+      "kind": "do",
+      "locality": "Cuzco",
+      "lat": 13.53167,
+      "lon": 71.96833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Av. Peru 4",
+      "id": "peru-501fab94b8a3221b8a52"
+    },
+    {
+      "name": "Cusco Cathedral",
+      "kind": "do",
+      "locality": "Cuzco",
+      "lat": -13.5164,
+      "lon": -71.978,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "price": "S/40; morning mass free",
+      "id": "peru-8d5fbe78efdc0f5ed17b"
+    },
+    {
+      "name": "Palacio Inka del Kusikancha",
+      "kind": "do",
+      "locality": "Cuzco",
+      "lat": -13.518711,
+      "lon": -71.97582,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Calle Maruri 324",
+      "price": "No admission fee, but the attendant who lets you in and shows you where to go expects a S/5 tip",
+      "id": "peru-41fb958766bc743bc0e1"
+    },
+    {
+      "name": "Plaza de Armas",
+      "kind": "do",
+      "locality": "Cuzco",
+      "lat": -13.516754,
+      "lon": -71.978882,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "id": "peru-9f9f0edb229808902347"
+    },
+    {
+      "name": "Plaza de San Francisco,",
+      "kind": "do",
+      "locality": "Cuzco",
+      "lat": -13.518445,
+      "lon": -71.981475,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "id": "peru-169d4c1c0428b12dc76d"
+    },
+    {
+      "name": "Salseros Cusco",
+      "kind": "do",
+      "locality": "Cuzco",
+      "lat": -13.518583,
+      "lon": -71.973299,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "url": "https://m.facebook.com/salseroscuzco/",
+      "id": "peru-f91a40407674eecd278c"
+    },
+    {
+      "name": "Planetario Cuzco",
+      "kind": "do",
+      "locality": "Cuzco",
+      "lat": -13.5068,
+      "lon": -71.986206,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "price": "S/75",
+      "url": "http://planetariumcusco.com/en/",
+      "id": "peru-420499c1ed1cf49f219e"
+    },
+    {
+      "name": "Sacsayhuamán",
+      "kind": "do",
+      "locality": "Cuzco",
+      "lat": -13.509054,
+      "lon": -71.981273,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "id": "peru-1f0a22f27677e84b5165"
+    },
+    {
+      "name": "Qenko",
+      "kind": "do",
+      "locality": "Cuzco",
+      "lat": -13.508926,
+      "lon": -71.970603,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "id": "peru-8d0c77404b2d69b10b3b"
+    },
+    {
+      "name": "Pukapukara",
+      "kind": "do",
+      "locality": "Cuzco",
+      "lat": -13.483522,
+      "lon": -71.962595,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "id": "peru-0fa06f13f69b18b0d52f"
+    },
+    {
+      "name": "Tambomachay",
+      "kind": "do",
+      "locality": "Cuzco",
+      "lat": -13.480912,
+      "lon": -71.964604,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "id": "peru-795ef899ac67be8c30a2"
+    },
+    {
+      "name": "Amaru Markawasi/Templo de la Luna",
+      "kind": "do",
+      "locality": "Cuzco",
+      "lat": -13.505811,
+      "lon": -71.964636,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "id": "peru-850f98f8f505984657c3"
+    },
+    {
+      "name": "Chuspiyoq",
+      "kind": "do",
+      "locality": "Cuzco",
+      "lat": -13.497977,
+      "lon": -71.963203,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "id": "peru-c6d08151a9449096de7a"
+    },
+    {
+      "name": "Cochahuasi Animal Sanctuary",
+      "kind": "do",
+      "locality": "Cuzco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "id": "peru-b8865f572f2e5498cd6f"
+    },
+    {
+      "name": "Rainbow Mountain",
+      "kind": "do",
+      "locality": "Cuzco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "price": "from US$25 including breakfast, lunch and entrance fee",
+      "id": "peru-6bf20afd25cbf6cb75d5"
+    },
+    {
+      "name": "Los Angeles",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "lat": -13.525375204803401,
+      "lon": -71.98032649013368,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Jerusalen",
+      "id": "peru-136b0ba5fbe49c053964"
+    },
+    {
+      "name": "Chifa Status",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "lat": -13.5224,
+      "lon": -71.952,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Av. La Cultura",
+      "id": "peru-b89c8997ca919c837e53"
+    },
+    {
+      "name": "El Encuentro",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "lat": -13.514421245470784,
+      "lon": -71.98083285962436,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Tigre 130",
+      "price": "S/20",
+      "id": "peru-12270cc7ab727edf7fb0"
+    },
+    {
+      "name": "El Fogon",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "lat": -13.51568166250302,
+      "lon": -71.98032613246221,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Calle Plateros 365",
+      "price": "S/20",
+      "id": "peru-cd0e83a10ffaf84ed08a"
+    },
+    {
+      "name": "Victor Victoria",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "lat": -13.513727253492796,
+      "lon": -71.98053225134124,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Calle Tsesequocha 474",
+      "id": "peru-261c3557954e972fd447"
+    },
+    {
+      "name": "Chia Vegan Kitchen",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "lat": -13.51472,
+      "lon": -71.98063,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Calle Tecsicocha 466",
+      "url": "https://www.facebook.com/chiarestaurant/",
+      "id": "peru-93696b8f83ea0f967d01"
+    },
+    {
+      "name": "Bagdad Cafe",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "lat": -13.515789516198556,
+      "lon": -71.97863493246217,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Portal de Carnes 154",
+      "id": "peru-71910c27746fa9832021"
+    },
+    {
+      "name": "Jack's Cafe",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "lat": -13.515899357822521,
+      "lon": -71.97546289198473,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Ruinas 493",
+      "price": "S/30",
+      "id": "peru-6abb652a282ef1a39c72"
+    },
+    {
+      "name": "Cicciolinia",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "lat": -13.515723928630223,
+      "lon": -71.97657835338697,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Palacio 110",
+      "price": "S/100",
+      "url": "http://www.cicciolinacuzco.com/",
+      "id": "peru-081ada23797525b1b4ee"
+    },
+    {
+      "name": "Emperador",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "lat": -13.51824,
+      "lon": -71.981079,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "172 Granada",
+      "id": "peru-b18b22b499e17949c44b"
+    },
+    {
+      "name": "Encantasq'a",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "lat": -13.515563,
+      "lon": -71.975938,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Choquechaca 131",
+      "id": "peru-04096333f62dce069ef1"
+    },
+    {
+      "name": "Green Point",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "lat": -13.515882,
+      "lon": -71.973846,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "235 Calle Carmen Bajo",
+      "price": "S/35–50",
+      "url": "https://greenpointcusco.com/",
+      "id": "peru-66c23675ff0215f43237"
+    },
+    {
+      "name": "Inka Grill",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "lat": -13.516044126283317,
+      "lon": -71.97940517479059,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Portal de Panes 115",
+      "id": "peru-c675de1d71896decf734"
+    },
+    {
+      "name": "Restaurant Inkazuela",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "lat": -13.51531445723427,
+      "lon": -71.97707673246225,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Plazoleta Nazarenas N 167",
+      "price": "Appetizers around S/15, mains around S/28",
+      "id": "peru-9e573942947d26aeeaf5"
+    },
+    {
+      "name": "Tunupa",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "lat": -13.516638790225375,
+      "lon": -71.9794335478055,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "233 Portal Confituría",
+      "price": "Lunch entrées US$9–17",
+      "url": "https://tunuparestaurantes.com/",
+      "id": "peru-6644ba0d2c818eb3948f"
+    },
+    {
+      "name": "Morena Peruvian Kitchen",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "lat": -13.515714,
+      "lon": -71.978989,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Portal de Harinas 181",
+      "price": "S/100",
+      "url": "https://grupomorena.com/en/morena-peruvian-kitchen/",
+      "id": "peru-43d28b95ccccbf6b217d"
+    },
+    {
+      "name": "Gato's Market",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "lat": -13.516698456359823,
+      "lon": -71.97653991105855,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Plaza de Armas",
+      "id": "peru-1ef9ce761fe6a65d80ea"
+    },
+    {
+      "name": "La Canasta",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Av La Cultura 2000-block",
+      "id": "peru-6748983a00b775ef5d11"
+    },
+    {
+      "name": "Mega",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "id": "peru-469eb98a9c015e4b7368"
+    },
+    {
+      "name": "Mama Africa",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "lat": -13.516133853103618,
+      "lon": -71.97951811896978,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Portal de Panes 109",
+      "id": "peru-4a00f56e1eb0505419b4"
+    },
+    {
+      "name": "El Muki",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "lat": -13.516768437134552,
+      "lon": -71.977658261298,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Santa Catalina Angosta 116",
+      "id": "peru-73bf1f733e7262a27315"
+    },
+    {
+      "name": "Caos",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "lat": -13.522450161880633,
+      "lon": -71.97481870920707,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Av El Sol 948",
+      "price": "S/100",
+      "id": "peru-797fa70efc9ca550d896"
+    },
+    {
+      "name": "Paddy's Irish Pub",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "lat": -13.516498451166841,
+      "lon": -71.97752959571513,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Calle Triunfo 140",
+      "url": "http://www.paddysirishbarcusco.com/",
+      "id": "peru-26c3644ef097b3b6cd51"
+    },
+    {
+      "name": "Mythology",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "lat": -13.515825784530533,
+      "lon": -71.97936172082036,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Portal de Panes 151",
+      "price": "S/20",
+      "id": "peru-e5164bd8c2e78852c27b"
+    },
+    {
+      "name": "Ukuku's",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "lat": -13.515998408743426,
+      "lon": -71.97976800010287,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Calle Plateros 316",
+      "id": "peru-e3d100aaa2f17870d07f"
+    },
+    {
+      "name": "Los Perros",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "lat": -13.514780847147755,
+      "lon": -71.9803106017757,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Tecsecocha 436, San Blas",
+      "id": "peru-ab455be041e73d1ff5fe"
+    },
+    {
+      "name": "Le Nomade",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "lat": -13.515495282046944,
+      "lon": -71.97586594174516,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "C. Hatunrumiyoc 120",
+      "id": "peru-38ab295d27499cae04ea"
+    },
+    {
+      "name": "The Lost City Roasters",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "lat": -13.515159472940356,
+      "lon": -71.97952085965541,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "C. Procuradores 365",
+      "url": "https://www.lostcityroasters.com/",
+      "id": "peru-830d3ffe5c4ac3f5614d"
+    },
+    {
+      "name": "Organika Bakery y Cafe",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "lat": -13.514802,
+      "lon": -71.98099,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Plaza Regocijo 209",
+      "price": "S/20",
+      "id": "peru-48a05b7d7bb2ebfe6d8c"
+    },
+    {
+      "name": "Three Monkeys",
+      "kind": "eat",
+      "locality": "Cuzco",
+      "lat": -13.516136,
+      "lon": -71.97531,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Pje. Pampa de la Alianza 474",
+      "price": "S/20",
+      "id": "peru-ad5c750d487473e5217b"
+    },
+    {
+      "name": "Hospedaje Amanecer",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.514413,
+      "lon": -71.976334,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "216 Choquechaca, San Blas District",
+      "price": "Twins S/40",
+      "id": "peru-bab9f171f89c261a0021"
+    },
+    {
+      "name": "Hostal El Arcano",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.51338161889365,
+      "lon": -71.97625274813214,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Carmen Alto 288, San Blas District",
+      "price": "~S/30",
+      "url": "https://www.facebook.com/HostalElArcano/",
+      "id": "peru-9c545efcf9ca3fd81028"
+    },
+    {
+      "name": "Pisko and Soul",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.513368646097428,
+      "lon": -71.97622673278566,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Calle Carmen Alto 294, San Blas District",
+      "price": "~S/35",
+      "id": "peru-dff3aeba193f083d929a"
+    },
+    {
+      "name": "Hospedaje El Artesano de San Blas",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.51413795211502,
+      "lon": -71.97354835830369,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Suytucato 790",
+      "price": "S/75 (Feb 2025)",
+      "id": "peru-638883dad7aa3dae8652"
+    },
+    {
+      "name": "Taita Home",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.514322378569455,
+      "lon": -71.97383381743936,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Calle Hatunrumiyoc 759",
+      "price": "S/15",
+      "id": "peru-ba00373274bf418edb09"
+    },
+    {
+      "name": "Hostels Cusco Samanapata",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.517815317791722,
+      "lon": -71.98492783278562,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Nueva Alta 575",
+      "price": "from S/25 per person",
+      "id": "peru-05a9689da98b9c706189"
+    },
+    {
+      "name": "La Casa de mi Abuelo",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.518842250164964,
+      "lon": -71.98677566162212,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Nueva Alta 785",
+      "price": "US$20 double, US$13 single",
+      "url": "http://www.lacasademiabuelo.com/",
+      "id": "peru-09f25018e4c2f146b7bc"
+    },
+    {
+      "name": "Pirwa Hostel Colonial Cusco",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.5180522183775,
+      "lon": -71.98204100131989,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "San Francisco #360",
+      "price": "From S/35 (US$10/person) (Feb 2025)",
+      "url": "https://www.pirwahostelscusco.com/eng/pirwa-hostel-colonial-3",
+      "id": "peru-3149e451791ac8133705"
+    },
+    {
+      "name": "Pirwa Bed&Breakfast Posada del Corregidor Cusco",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.516305613097275,
+      "lon": -71.97949290275574,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Portal De Panes #151",
+      "price": "From S/35 (US$10/person) (Feb 2025)",
+      "url": "https://www.pirwahostels.com/es/hostels-cusco-1/bb-pirwa-posada-del-corregidor-2/",
+      "id": "peru-08e292480e8e387530fa"
+    },
+    {
+      "name": "Hogar Clinica San Juan de Dios",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.521773452343778,
+      "lon": -71.95370557511237,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Avenida Manzanares 264",
+      "url": "https://www.facebook.com/clinicasanjuandedioscusco/",
+      "id": "peru-d989364d20d30f2bb587"
+    },
+    {
+      "name": "Pariwana Hostel Cusco",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.519525619137681,
+      "lon": -71.97962867511234,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Meson de la Estrella 136",
+      "price": "S/80 (Feb 2025)",
+      "url": "http://www.pariwana-hostel.com/",
+      "id": "peru-a3536b0e3856655b4efa"
+    },
+    {
+      "name": "Flying Dog Hostel",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.512526758897229,
+      "lon": -71.97766090063077,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Choquechaca 469",
+      "price": "S/55 (Feb 2025)",
+      "url": "https://m.facebook.com/FlyingDogHostelAQP/",
+      "id": "peru-015d66e41a8d6b5e55d0"
+    },
+    {
+      "name": "Hospedaje Estrellita",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.518462949882935,
+      "lon": -71.97385636162217,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Avenida Tullumayo 445",
+      "price": "S/70 (Feb 2025)",
+      "id": "peru-53fdacb57b2d7015332c"
+    },
+    {
+      "name": "Loki Cusco",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.514731342556876,
+      "lon": -71.98444391929537,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Cuesta Santa Ana #601, Centro Historico",
+      "price": "S/50 (Feb 2025)",
+      "url": "https://www.lokihostel.com/en/cusco",
+      "id": "peru-13768c0181d7dfa8b64d"
+    },
+    {
+      "name": "Saqray Hostel",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.513268148443085,
+      "lon": -71.9809057769685,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Calle Suecia 504",
+      "price": "S/75 (Feb 2025)",
+      "url": "https://www.facebook.com/Saqrayhostel/",
+      "id": "peru-4333cce9df82ac92193c"
+    },
+    {
+      "name": "Casona Rimacpampa",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.519215687345511,
+      "lon": -71.97419874627587,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Limacpampa Chico # 493",
+      "url": "http://www.rimacpampahostal.com/",
+      "id": "peru-59866ea545667f264c85"
+    },
+    {
+      "name": "Welcome Cusco Hostal",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.512694865793078,
+      "lon": -71.97485800394914,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Asociacion San marcos A-3, San Blas",
+      "price": "S/35 (Feb 2025)",
+      "url": "https://www.facebook.com/welcomecuscoBAB/",
+      "id": "peru-2a4ec1bbd71f86a603ad"
+    },
+    {
+      "name": "Hospedaje Corona Real",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.523260122077362,
+      "lon": -71.97203237511238,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Ave Huascar 226",
+      "id": "peru-e6f7c90da8db8949e34e"
+    },
+    {
+      "name": "Cusco Central Hostel",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.51692448038907,
+      "lon": -71.98653098860272,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Calle, Av Alta 506",
+      "url": "https://cusco-central-hostel.negocio.site/",
+      "id": "peru-2291b94c6cd4d96f7a1f"
+    },
+    {
+      "name": "Hostal Mirador De San Blas",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.516373624373578,
+      "lon": -71.9746104141205,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Calle Chihuampata 515",
+      "url": "https://www.facebook.com/hostalmiradordesanblasboutique/",
+      "id": "peru-78a8959b9df2b1db827f"
+    },
+    {
+      "name": "Mirador del Inka",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.513876095026355,
+      "lon": -71.97440288860275,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Tandapata 160, San Blas",
+      "price": "S/65 (Feb 2025)",
+      "url": "http://www.elmiradordelinka.com/",
+      "id": "peru-700c39959f49b9a31178"
+    },
+    {
+      "name": "The Grasshopper Hostel",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.521553989288414,
+      "lon": -71.98599126162202,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Calle interior 3, Hospital 842",
+      "url": "https://www.facebook.com/TheGrasshopperHostel/",
+      "id": "peru-4e6b2d931b883a42d0d7"
+    },
+    {
+      "name": "VIP House Garden Hostel",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.515316,
+      "lon": -71.983071,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Meloc 422",
+      "price": "S/60 (Feb 2025)",
+      "url": "https://www.facebook.com/viphousehostels/",
+      "id": "peru-c645fb38f7286eea2450"
+    },
+    {
+      "name": "Amaru Hostal I",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.515306579257617,
+      "lon": -71.97542036162223,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Cuesta San Blas 541",
+      "price": "S/220 (Feb 2025)",
+      "id": "peru-9ecba513de1f33bdb9e3"
+    },
+    {
+      "name": "Amaru Colonial Hotel",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.515803257724869,
+      "lon": -71.97302063278565,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Chihuampata 642",
+      "price": "S/130 (Feb 2025)",
+      "url": "https://www.amarucolonial.com/en-us",
+      "id": "peru-b7258b556ed10dc9a0ac"
+    },
+    {
+      "name": "El Balcón Cusco Hotel",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.514750069523341,
+      "lon": -71.9831502346417,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Tambo De Montero 222",
+      "price": "S/205 (Feb 2025)",
+      "url": "http://www.balconcusco.com/",
+      "id": "peru-6cbef52a2c65368ccd2b"
+    },
+    {
+      "name": "Hostal Frankenstein",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.51679,
+      "lon": -71.981255,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "San Juan de Dios 260",
+      "price": "S/75 (Feb 2025)",
+      "url": "http://www.hostal-frankenstein.net/",
+      "id": "peru-4ba10c7b99593a64f873"
+    },
+    {
+      "name": "Orquidea del Cusco",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.516014648063527,
+      "lon": -71.97501424627595,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Alabado 520",
+      "id": "peru-869a262fd00a1ef8f0b0"
+    },
+    {
+      "name": "Ninos Hotel Meloc",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.516156453122457,
+      "lon": -71.98336382115143,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Calle Meloc 442",
+      "price": "S/220 (Feb 2025)",
+      "url": "http://www.ninoshotel.com/",
+      "id": "peru-837bef36087fcf84a2d1"
+    },
+    {
+      "name": "Gran Hostal Machu Picchu",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.519875371584394,
+      "lon": -71.97968120394893,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Calle Quera 282",
+      "price": "S/200",
+      "id": "peru-914bb4280e47098dea78"
+    },
+    {
+      "name": "Hostal Rumi Punku",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.51369068275607,
+      "lon": -71.97694440394915,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Calle Choqechaka 339",
+      "url": "https://www.rumipunku.com/",
+      "id": "peru-62d25b35f9152330bfbc"
+    },
+    {
+      "name": "Casa San Blas Boutique Inn",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.515401052461934,
+      "lon": -71.97480914627592,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Tucoyeros 566, San Blas",
+      "url": "https://www.casasanblas.com/",
+      "id": "peru-1d151a284c1bf0dfd77b"
+    },
+    {
+      "name": "Koyllur Hostal",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.514513499124554,
+      "lon": -71.9729425849039,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Pumapaccha Nº 243",
+      "price": "S/190 (Feb 2025)",
+      "url": "http://www.koyllurhostal-peru.com/",
+      "id": "peru-ac8019394b8b17ad968a"
+    },
+    {
+      "name": "La Posada del Viajero",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.51718,
+      "lon": -71.97672,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Santa Catalina Ancha 366",
+      "price": "S/190 (Feb 2025)",
+      "url": "https://www.laposadadelviajeroperu.com/",
+      "id": "peru-b271ad85082f902ba1ec"
+    },
+    {
+      "name": "Hotel Golden Inca",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": 13.51845,
+      "lon": 71.96887,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Calle Retiro N° 435",
+      "price": "S/125 (Feb 2025)",
+      "url": "https://www.facebook.com/HotelGoldenIncaCusco/",
+      "id": "peru-1d645890aa54fedd4be0"
+    },
+    {
+      "name": "Tierra Viva Cusco Centro",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.520523156941245,
+      "lon": -71.98071469045871,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Cruz Verde 390",
+      "price": "S/250 (Feb 2025)",
+      "id": "peru-7f908c842e0ff8ae396a"
+    },
+    {
+      "name": "Tierra Viva Cusco Saphi",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.512431101645864,
+      "lon": -71.98313159231488,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Calle Saphi 766",
+      "price": "S/250",
+      "id": "peru-c65cfbd0afaad083e525"
+    },
+    {
+      "name": "Palacio del Inka",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.519449550616287,
+      "lon": -71.97497843278562,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Santo Domingo 259",
+      "price": "S/1100 (Feb 2025)",
+      "url": "http://www.palaciodelinkahotel.com/",
+      "id": "peru-49f367f2a004bbcc7f49"
+    },
+    {
+      "name": "Amerinka Boutique Hotel",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.518440286701397,
+      "lon": -71.98053080394895,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Calle Marquez Nº 272",
+      "price": "S/190 (Feb 2025)",
+      "url": "http://www.amerinka.com/",
+      "id": "peru-fca18edac7c53f19d019"
+    },
+    {
+      "name": "Hotel Monasterio",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.5154,
+      "lon": -71.9768,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Calle, Nazarenas 337",
+      "url": "https://www.belmond.com/hotels/south-america/peru/cusco/belmond-hotel-monasterio/",
+      "id": "peru-8259d1db774ef7b460fa"
+    },
+    {
+      "name": "Hotel Marqueses",
+      "kind": "stay",
+      "locality": "Cuzco",
+      "lat": -13.517504820374032,
+      "lon": -71.98095111412037,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "address": "Calle Garcilaso 256",
+      "price": "S/380 (Feb 2025)",
+      "url": "http://www.hotelmarqueses.com/",
+      "id": "peru-ef587a7eb18facebea90"
+    },
+    {
+      "name": "Cuzco",
+      "kind": "area",
+      "locality": "Cuzco",
+      "lat": -13.525,
+      "lon": -71.972222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cuzco",
+      "id": "peru-88afd100335dde5941b7"
+    }
+  ],
+  "status": "partial",
+  "note": "Fetched 10 distinct public Wikivoyage source pages; attempted 10 article titles covering the country, capital(s), and 2 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Coverage cap: Lima: 4 additional linked subpages not fetched. Destination article routing (regional/landmark guides may use a nearby gateway): Cusco → Cuzco."
+}

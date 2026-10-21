@@ -1,0 +1,720 @@
+{
+  "sources": [
+    {
+      "title": "Bahrain",
+      "url": "https://en.wikivoyage.org/wiki/Bahrain",
+      "checkedAt": "2026-10-21T08:08:25.338Z"
+    },
+    {
+      "title": "Manama",
+      "url": "https://en.wikivoyage.org/wiki/Manama",
+      "checkedAt": "2026-10-21T08:08:28.277Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Manama",
+      "kind": "area",
+      "locality": "Bahrain",
+      "lat": 26.216667,
+      "lon": 50.583333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bahrain",
+      "id": "bahrain-a23a2c9b9c793aa41907"
+    },
+    {
+      "name": "Hamad Town",
+      "kind": "area",
+      "locality": "Bahrain",
+      "lat": 26.112778,
+      "lon": 50.513889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bahrain",
+      "id": "bahrain-7bb2249bfc66cca19212"
+    },
+    {
+      "name": "Isa Town",
+      "kind": "area",
+      "locality": "Bahrain",
+      "lat": 26.173611,
+      "lon": 50.547778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bahrain",
+      "id": "bahrain-95a3080f5299e0ddc122"
+    },
+    {
+      "name": "Muharraq",
+      "kind": "area",
+      "locality": "Bahrain",
+      "lat": 26.25,
+      "lon": 50.616667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bahrain",
+      "id": "bahrain-cb3e51a0ad22b394b5c6"
+    },
+    {
+      "name": "Riffa",
+      "kind": "area",
+      "locality": "Bahrain",
+      "lat": 26.13,
+      "lon": 50.555,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bahrain",
+      "id": "bahrain-d677edaa092b6dc95394"
+    },
+    {
+      "name": "Sitra",
+      "kind": "area",
+      "locality": "Bahrain",
+      "lat": 26.12,
+      "lon": 50.65,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bahrain",
+      "id": "bahrain-e28cbdf7c811b89f6546"
+    },
+    {
+      "name": "Qala'at al-Bahrain",
+      "kind": "do",
+      "locality": "Bahrain",
+      "lat": 26.23334,
+      "lon": 50.52021,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bahrain",
+      "id": "bahrain-e4ae2ab5fe3b71094e95"
+    },
+    {
+      "name": "Qal'at Al-Bahrain Site Museum",
+      "kind": "do",
+      "locality": "Bahrain",
+      "lat": 26.23515,
+      "lon": 50.52238,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bahrain",
+      "price": "2.2BHD",
+      "url": "https://culture.gov.bh/en/authority/cultural_sites/QalatAl-BahrainSiteMuseum/",
+      "id": "bahrain-cc2f1ad39fa8cf95c6f7"
+    },
+    {
+      "name": "Tree of Life",
+      "kind": "do",
+      "locality": "Bahrain",
+      "lat": 25.99408,
+      "lon": 50.58293,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bahrain",
+      "id": "bahrain-b7dfd79eec7b02c0b2b2"
+    },
+    {
+      "name": "Dilmun Burial Mounds",
+      "kind": "do",
+      "locality": "Bahrain",
+      "lat": 26.14816,
+      "lon": 50.51168,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bahrain",
+      "id": "bahrain-eb27010e2ae8e8dd5d1b"
+    },
+    {
+      "name": "Bab Al Bahrain",
+      "kind": "do",
+      "locality": "Manama",
+      "lat": 26.23403,
+      "lon": 50.57561,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "id": "bahrain-248e10badb7357f82530"
+    },
+    {
+      "name": "Manama Souq",
+      "kind": "do",
+      "locality": "Manama",
+      "lat": 26.231252,
+      "lon": 50.576961,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "id": "bahrain-e7c9e003847030d4a2f2"
+    },
+    {
+      "name": "Al Fateh Grand Mosque",
+      "kind": "do",
+      "locality": "Manama",
+      "lat": 26.218889,
+      "lon": 50.598056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Jufair",
+      "id": "bahrain-ac35e442b26849ef95e2"
+    },
+    {
+      "name": "Corniche al-Fateh",
+      "kind": "do",
+      "locality": "Manama",
+      "lat": 26.232221,
+      "lon": 50.599246,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "id": "bahrain-8ca0ea289fa8e1be8041"
+    },
+    {
+      "name": "Bahrain National Museum",
+      "kind": "do",
+      "locality": "Manama",
+      "lat": 26.2415,
+      "lon": 50.5975,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Al Fateh Highway",
+      "price": "BHD1.1",
+      "id": "bahrain-4542af72aa73c268b099"
+    },
+    {
+      "name": "Bahrain Fort",
+      "kind": "do",
+      "locality": "Manama",
+      "lat": 26.233355,
+      "lon": 50.520018,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "id": "bahrain-2be92b2e19812f14cbfa"
+    },
+    {
+      "name": "Bahrain Fort Museum",
+      "kind": "do",
+      "locality": "Manama",
+      "lat": 26.235222,
+      "lon": 50.522829,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "url": "https://culture.gov.bh/en/authority/cultural_sites/QalatAl-BahrainSiteMuseum/",
+      "id": "bahrain-eeb65d0bb796ee51886c"
+    },
+    {
+      "name": "Barbar Temple",
+      "kind": "do",
+      "locality": "Manama",
+      "lat": 26.22612,
+      "lon": 50.484154,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "id": "bahrain-a053cf6d15e21b3abc8f"
+    },
+    {
+      "name": "Bait al Quran",
+      "kind": "do",
+      "locality": "Manama",
+      "lat": 26.2398,
+      "lon": 50.5915,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "id": "bahrain-a74b894aa9d44c16fd96"
+    },
+    {
+      "name": "Manama Synagogue",
+      "kind": "do",
+      "locality": "Manama",
+      "lat": 26.2305,
+      "lon": 50.5744,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "id": "bahrain-0d9198180fd9b3c22fb3"
+    },
+    {
+      "name": "Council of Representatives Building",
+      "kind": "do",
+      "locality": "Manama",
+      "lat": 26.226615,
+      "lon": 50.602759,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "url": "https://www.nuwab.bh/en/",
+      "id": "bahrain-5778eed6be5b7c11d432"
+    },
+    {
+      "name": "Khamis Mosque",
+      "kind": "do",
+      "locality": "Manama",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "id": "bahrain-040a68caa97f13e6b9a8"
+    },
+    {
+      "name": "Al-Qudaibiya Palace",
+      "kind": "do",
+      "locality": "Manama",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "id": "bahrain-e7e4db2085642c824fdb"
+    },
+    {
+      "name": "Bahrain World Trade Center",
+      "kind": "do",
+      "locality": "Manama",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "id": "bahrain-0b6720097dcbe3ad618b"
+    },
+    {
+      "name": "Bahrain Financial Harbour",
+      "kind": "do",
+      "locality": "Manama",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "id": "bahrain-9872f62afd9a8bcec3c5"
+    },
+    {
+      "name": "National Theatre of Bahrain",
+      "kind": "do",
+      "locality": "Manama",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "url": "https://www.culture.gov.bh/en/authority/cultural_sites/BahrainNationalTheatre/",
+      "id": "bahrain-b259137d003afab2e80c"
+    },
+    {
+      "name": "Dolphin Watching",
+      "kind": "do",
+      "locality": "Manama",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "price": "BD 6 for adults, BD 3 for children under 12 years.",
+      "id": "bahrain-b5e4aa5bde9639431f67"
+    },
+    {
+      "name": "Scuba Diving",
+      "kind": "do",
+      "locality": "Manama",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Bahrain Yacht Club & Al Bandar resort",
+      "id": "bahrain-470501b69c1ae439c335"
+    },
+    {
+      "name": "Horse riding",
+      "kind": "do",
+      "locality": "Manama",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Saar",
+      "id": "bahrain-0a590bc667124f046037"
+    },
+    {
+      "name": "Horse racing",
+      "kind": "do",
+      "locality": "Manama",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "id": "bahrain-582a756ac19400e1a2ac"
+    },
+    {
+      "name": "Pearl Diving",
+      "kind": "do",
+      "locality": "Manama",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "id": "bahrain-073aca1fecbf79d81d70"
+    },
+    {
+      "name": "Bird Watching",
+      "kind": "do",
+      "locality": "Manama",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Hawar Islands, Boats depart from Ad Dur Jetty",
+      "id": "bahrain-7f26b4d633ff7127f2b6"
+    },
+    {
+      "name": "Adhari Park",
+      "kind": "do",
+      "locality": "Manama",
+      "lat": 26.198258,
+      "lon": 50.545853,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "url": "https://adharipark.com.bh/",
+      "id": "bahrain-862374f07223bffd6106"
+    },
+    {
+      "name": "Al-Abraaj",
+      "kind": "eat",
+      "locality": "Manama",
+      "lat": 26.21491,
+      "lon": 50.58753,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Adliya St",
+      "url": "http://al-abraaj.com/",
+      "id": "bahrain-e044cbba800a37afdfce"
+    },
+    {
+      "name": "Al-Suraj",
+      "kind": "eat",
+      "locality": "Manama",
+      "lat": 26.21525,
+      "lon": 50.59051,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "id": "bahrain-75e87ae827ba3dc26043"
+    },
+    {
+      "name": "Habara Snacks & Fish",
+      "kind": "eat",
+      "locality": "Manama",
+      "lat": 26.21438,
+      "lon": 50.58763,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Osama bin Zaid Ave, Adliya",
+      "id": "bahrain-04ad277c99de49d7d939"
+    },
+    {
+      "name": "Bahay Kubo",
+      "kind": "eat",
+      "locality": "Manama",
+      "lat": 26.228516,
+      "lon": 50.582626,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Bldg 822, Rd 723, Area 307, Gudiyabia",
+      "price": "less than BD 5",
+      "url": "http://www.bahaykubobahrain.com/",
+      "id": "bahrain-90640f405c624951b372"
+    },
+    {
+      "name": "Café Lilou's",
+      "kind": "eat",
+      "locality": "Manama",
+      "lat": 26.2148,
+      "lon": 50.59273,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "price": "BD 5-10",
+      "url": "https://linktr.ee/cafelilou",
+      "id": "bahrain-fc7a5e3a8465b907dac6"
+    },
+    {
+      "name": "Lanterns",
+      "kind": "eat",
+      "locality": "Manama",
+      "lat": 26.21385,
+      "lon": 50.59246,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "url": "https://www.lanternsrestaurant.com/",
+      "id": "bahrain-1ad8678372511eb10629"
+    },
+    {
+      "name": "Nando's (Portuguese)",
+      "kind": "eat",
+      "locality": "Manama",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Adliya",
+      "url": "https://www.nandos.com.bh/",
+      "id": "bahrain-8c546c700e76ffdaef62"
+    },
+    {
+      "name": "Senor Pacos",
+      "kind": "eat",
+      "locality": "Manama",
+      "lat": 26.2164,
+      "lon": 50.5976,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Um Al Hassam",
+      "url": "http://www.senor-pacos.com/",
+      "id": "bahrain-81cd07794b0dfd565de5"
+    },
+    {
+      "name": "Trader Vic's",
+      "kind": "eat",
+      "locality": "Manama",
+      "lat": 26.24396,
+      "lon": 50.53856,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "url": "http://www.tradervics.com.bh/",
+      "id": "bahrain-82ade261d3b47a1f0b0a"
+    },
+    {
+      "name": "Zahle",
+      "kind": "eat",
+      "locality": "Manama",
+      "lat": 26.21637,
+      "lon": 50.59459,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Gulf Hotel, Al Juffair Street",
+      "url": "https://www.gulfhotelbahrain.com/Zahle",
+      "id": "bahrain-4e28716570457739b1d1"
+    },
+    {
+      "name": "Digger's",
+      "kind": "eat",
+      "locality": "Manama",
+      "lat": 26.23307,
+      "lon": 50.57216,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Delmont Hotel",
+      "id": "bahrain-9aaa9f84699c173d9909"
+    },
+    {
+      "name": "Golden Club",
+      "kind": "eat",
+      "locality": "Manama",
+      "lat": 26.2439,
+      "lon": 50.5901,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "id": "bahrain-0fe32f86d4de58f712aa"
+    },
+    {
+      "name": "Harvesters",
+      "kind": "eat",
+      "locality": "Manama",
+      "lat": 26.24381,
+      "lon": 50.59028,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "King Faisal Highway",
+      "id": "bahrain-cca45561f63341d9f0c3"
+    },
+    {
+      "name": "JJ's",
+      "kind": "eat",
+      "locality": "Manama",
+      "lat": 26.2193,
+      "lon": 50.58878,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Building 581, Road 1807",
+      "url": "https://linktr.ee/jjsbahrain",
+      "id": "bahrain-4ffa44200d0a3f39ff37"
+    },
+    {
+      "name": "Sherlock Holmes",
+      "kind": "eat",
+      "locality": "Manama",
+      "lat": 26.2164,
+      "lon": 50.5949,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "id": "bahrain-28340338cded47320667"
+    },
+    {
+      "name": "Warbler's",
+      "kind": "eat",
+      "locality": "Manama",
+      "lat": 26.23281,
+      "lon": 50.5968,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "id": "bahrain-f6192c46019581fc6df2"
+    },
+    {
+      "name": "Club Wrangler",
+      "kind": "eat",
+      "locality": "Manama",
+      "lat": 26.21299,
+      "lon": 50.60506,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Best Western Juffair Hotel",
+      "url": "https://clubwranglerbh.com/",
+      "id": "bahrain-3df806f8be22a04ae812"
+    },
+    {
+      "name": "Buffalo Bar",
+      "kind": "eat",
+      "locality": "Manama",
+      "lat": 26.21673,
+      "lon": 50.61099,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Avenue 22, Juffair",
+      "id": "bahrain-68cde368b8b07a5503ae"
+    },
+    {
+      "name": "Al Burge Hotel",
+      "kind": "stay",
+      "locality": "Manama",
+      "lat": 26.2327,
+      "lon": 50.57382,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Municipality Road",
+      "price": "BD 10",
+      "id": "bahrain-19c71446e1ec67de758d"
+    },
+    {
+      "name": "Awal Hotel",
+      "kind": "stay",
+      "locality": "Manama",
+      "lat": 26.23245,
+      "lon": 50.5741,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Al Khalifa Rd",
+      "id": "bahrain-a4fb8ff34ab3fb3dc867"
+    },
+    {
+      "name": "Bahrain International Hotel",
+      "kind": "stay",
+      "locality": "Manama",
+      "lat": 26.23328,
+      "lon": 50.5738,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Government Avenue Road، Block 304, Building 187",
+      "price": "BD 30 single room",
+      "url": "http://www.bahraininternationalhotel.com/",
+      "id": "bahrain-4fecba0ecf86d06da9c8"
+    },
+    {
+      "name": "Gulf Gate Hotel",
+      "kind": "stay",
+      "locality": "Manama",
+      "lat": 26.2335,
+      "lon": 50.5713,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Manama",
+      "url": "http://www.gulfgatebahrain.com/",
+      "id": "bahrain-ffebf50e3bf506d55b21"
+    },
+    {
+      "name": "Al Safir Hotel",
+      "kind": "stay",
+      "locality": "Manama",
+      "lat": 26.2171,
+      "lon": 50.6045,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Building 670, Road 2411, Block 324",
+      "url": "http://alsafirhotel.com/",
+      "id": "bahrain-ea4d080ca378baf28d71"
+    },
+    {
+      "name": "Best Western Olive Hotel",
+      "kind": "stay",
+      "locality": "Manama",
+      "lat": 26.2195,
+      "lon": 50.6061,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Building No 507, Rd No 2408",
+      "url": "http://www.bestwesternolive.com/",
+      "id": "bahrain-c82530eebe7de2827cef"
+    },
+    {
+      "name": "Golden Tulip Bahrain",
+      "kind": "stay",
+      "locality": "Manama",
+      "lat": 26.2401,
+      "lon": 50.5848,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Old Palace Rd",
+      "url": "http://www.goldentulipbahrain.com/",
+      "id": "bahrain-080e92491934079c3730"
+    },
+    {
+      "name": "Mashtan Hotel",
+      "kind": "stay",
+      "locality": "Manama",
+      "lat": 26.23318,
+      "lon": 50.57431,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Bldg 3578, Rd. 471, Blk. 304",
+      "id": "bahrain-ba0cbb11b346404db2c1"
+    },
+    {
+      "name": "Mercure Grand Hotel",
+      "kind": "stay",
+      "locality": "Manama",
+      "lat": 26.232,
+      "lon": 50.541,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Road No 2827",
+      "url": "https://all.accor.com/hotel/5685/index.en.shtml",
+      "id": "bahrain-28ca5f658e504fc52a11"
+    },
+    {
+      "name": "Novotel Al Dana Resort",
+      "kind": "stay",
+      "locality": "Manama",
+      "lat": 26.2444,
+      "lon": 50.6018,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Shaikh Hamad Causeway",
+      "url": "https://all.accor.com/hotel/3600/index.en.shtml",
+      "id": "bahrain-030b716771e69071dfab"
+    },
+    {
+      "name": "Pars International Hotel",
+      "kind": "stay",
+      "locality": "Manama",
+      "lat": 26.2204,
+      "lon": 50.6043,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Juffair",
+      "url": "https://www.parsbahrain.net/",
+      "id": "bahrain-a2ab125337fa659feb5f"
+    },
+    {
+      "name": "Phoenicia Tower Hotel",
+      "kind": "stay",
+      "locality": "Manama",
+      "lat": 26.23616,
+      "lon": 50.59697,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Building no. 299, Road no. 1910, Block 319, City Center",
+      "price": "From US$94",
+      "url": "https://www.phoeniciatowerhotel.com/",
+      "id": "bahrain-c5dc842c9968033912ba"
+    },
+    {
+      "name": "Ramada Bahrain",
+      "kind": "stay",
+      "locality": "Manama",
+      "lat": 26.21737,
+      "lon": 50.59054,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Building 88 Road 351",
+      "url": "https://www.wyndhamhotels.com/en-uk/ramada/manama-bahrain/ramada-hotel-bahrain/overview",
+      "id": "bahrain-7e6c63706f55eb000512"
+    },
+    {
+      "name": "Somerset Al Fateh Bahrain",
+      "kind": "stay",
+      "locality": "Manama",
+      "lat": 26.223602,
+      "lon": 50.607975,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Juffair",
+      "url": "http://www.somerset.com/en/bahrain/bahrain/somerset-al-fateh-bahrain/index.html",
+      "id": "bahrain-3cd65059b178dffeac0b"
+    },
+    {
+      "name": "Swiss International Palace Hotel",
+      "kind": "stay",
+      "locality": "Manama",
+      "lat": 26.22719,
+      "lon": 50.58962,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Gudaibiya Avenue",
+      "price": "From BD 24 per night",
+      "url": "https://swissinternationalhotels.com/palace-manama",
+      "id": "bahrain-f07616cb234207251a31"
+    },
+    {
+      "name": "Crowne Plaza Bahrain",
+      "kind": "stay",
+      "locality": "Manama",
+      "lat": 26.2437,
+      "lon": 50.5905,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "King Faisal Highway",
+      "price": "BD 100",
+      "url": "http://www.ichotelsgroup.com/h/d/cp/1/en/hotel/mnaba",
+      "id": "bahrain-5a1326a79adc861bd950"
+    },
+    {
+      "name": "Ritz-Carlton Bahrain",
+      "kind": "stay",
+      "locality": "Manama",
+      "lat": 26.2442,
+      "lon": 50.5383,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Bldg 112, King Mohammed VI Ave, Block 428",
+      "url": "https://www.ritzcarlton.com/en/hotels/middle-east/bahrain",
+      "id": "bahrain-a86493435b9469d6702f"
+    },
+    {
+      "name": "The Regency InterContinental",
+      "kind": "stay",
+      "locality": "Manama",
+      "lat": 26.23493,
+      "lon": 50.57381,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "King Faisal Highway",
+      "url": "https://www.ihg.com/intercontinental/hotels/gb/en/manama/bahha/hoteldetail",
+      "id": "bahrain-74b60d404d0d76a2e7c3"
+    },
+    {
+      "name": "The Gulf Hotel",
+      "kind": "stay",
+      "locality": "Manama",
+      "lat": 26.21625,
+      "lon": 50.59438,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Aliya",
+      "url": "https://www.gulfhotelbahrain.com/",
+      "id": "bahrain-a03a30caaa912c475605"
+    },
+    {
+      "name": "The Diplomat Radisson Blu Hotel, Residence & Spa",
+      "kind": "stay",
+      "locality": "Manama",
+      "lat": 26.242,
+      "lon": 50.5917,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "address": "Road 1701",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-bahrain-diplomat-spa",
+      "id": "bahrain-206b65df0ba87ce9f17f"
+    },
+    {
+      "name": "Manama",
+      "kind": "area",
+      "locality": "Manama",
+      "lat": 26.2167,
+      "lon": 50.5833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Manama",
+      "id": "bahrain-1aeba575c17c76eaef3f"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

@@ -1,0 +1,1056 @@
+{
+  "sources": [
+    {
+      "title": "Uzbekistan",
+      "url": "https://en.wikivoyage.org/wiki/Uzbekistan",
+      "checkedAt": "2026-10-21T08:13:07.275Z"
+    },
+    {
+      "title": "Tashkent",
+      "url": "https://en.wikivoyage.org/wiki/Tashkent",
+      "checkedAt": "2026-10-21T08:13:10.454Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Tashkent",
+      "kind": "area",
+      "locality": "Uzbekistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uzbekistan",
+      "id": "uzbekistan-ee2f3bccf47711e6f62e"
+    },
+    {
+      "name": "Andijan",
+      "kind": "area",
+      "locality": "Uzbekistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uzbekistan",
+      "id": "uzbekistan-cf31a2fff33df4da054d"
+    },
+    {
+      "name": "Bukhara",
+      "kind": "area",
+      "locality": "Uzbekistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uzbekistan",
+      "id": "uzbekistan-213ef6498df19d0e21b7"
+    },
+    {
+      "name": "Khiva",
+      "kind": "area",
+      "locality": "Uzbekistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uzbekistan",
+      "id": "uzbekistan-39d8abc4dc03981e89b7"
+    },
+    {
+      "name": "Namangan",
+      "kind": "area",
+      "locality": "Uzbekistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uzbekistan",
+      "id": "uzbekistan-61af056c4b539610dd04"
+    },
+    {
+      "name": "Nukus",
+      "kind": "area",
+      "locality": "Uzbekistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uzbekistan",
+      "id": "uzbekistan-e2e298fe00407268bdc4"
+    },
+    {
+      "name": "Samarkand",
+      "kind": "area",
+      "locality": "Uzbekistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uzbekistan",
+      "id": "uzbekistan-afa050ce9c07758a0d0b"
+    },
+    {
+      "name": "Shakhrisabz",
+      "kind": "area",
+      "locality": "Uzbekistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uzbekistan",
+      "id": "uzbekistan-7639ea391d75ba35466d"
+    },
+    {
+      "name": "Termez",
+      "kind": "area",
+      "locality": "Uzbekistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uzbekistan",
+      "id": "uzbekistan-c40d54b0307d46f522cf"
+    },
+    {
+      "name": "Jeyran Ecological Centre",
+      "kind": "do",
+      "locality": "Uzbekistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uzbekistan",
+      "id": "uzbekistan-9dc7159e79e5f5743224"
+    },
+    {
+      "name": "Kitab State Geological Reserve",
+      "kind": "do",
+      "locality": "Uzbekistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uzbekistan",
+      "id": "uzbekistan-68ef78e650cf59909150"
+    },
+    {
+      "name": "Kyzylkum Tugai and Sand Reserve",
+      "kind": "do",
+      "locality": "Uzbekistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uzbekistan",
+      "id": "uzbekistan-80dc827933a919ed9e4f"
+    },
+    {
+      "name": "Nuratau-Kyzylkum Biospheric Reserve",
+      "kind": "do",
+      "locality": "Uzbekistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uzbekistan",
+      "id": "uzbekistan-d8d0f841d16e208cb109"
+    },
+    {
+      "name": "Ugam-Chatkal National Park",
+      "kind": "do",
+      "locality": "Uzbekistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uzbekistan",
+      "id": "uzbekistan-204338c871a1a011b99f"
+    },
+    {
+      "name": "Camel trekking",
+      "kind": "do",
+      "locality": "Uzbekistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uzbekistan",
+      "id": "uzbekistan-82b96244dc11e9644845"
+    },
+    {
+      "name": "Bird watching",
+      "kind": "do",
+      "locality": "Uzbekistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uzbekistan",
+      "url": "http://www.birdwatching-uzbekistan.com/",
+      "id": "uzbekistan-4cfc031c5f71fbab8470"
+    },
+    {
+      "name": "Trekking",
+      "kind": "do",
+      "locality": "Uzbekistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uzbekistan",
+      "id": "uzbekistan-cb8bdf6d55aafc6d97da"
+    },
+    {
+      "name": "Rafting",
+      "kind": "do",
+      "locality": "Uzbekistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uzbekistan",
+      "id": "uzbekistan-af0a179e26898cf2fe91"
+    },
+    {
+      "name": "Skiing",
+      "kind": "do",
+      "locality": "Uzbekistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uzbekistan",
+      "id": "uzbekistan-c410a75320beeb4b5948"
+    },
+    {
+      "name": "Yillar",
+      "kind": "do",
+      "locality": "Uzbekistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uzbekistan",
+      "id": "uzbekistan-963d5cdfe32042ca512f"
+    },
+    {
+      "name": "Mastava",
+      "kind": "eat",
+      "locality": "Uzbekistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uzbekistan",
+      "id": "uzbekistan-1083c900759f468a12d6"
+    },
+    {
+      "name": "Shurpa",
+      "kind": "eat",
+      "locality": "Uzbekistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uzbekistan",
+      "id": "uzbekistan-809cddb1873fc369bfa5"
+    },
+    {
+      "name": "Bechbarmak",
+      "kind": "eat",
+      "locality": "Uzbekistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uzbekistan",
+      "id": "uzbekistan-890a77fd6cad22850506"
+    },
+    {
+      "name": "Khazret Imam Complex",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3375,
+      "lon": 69.2401,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "id": "uzbekistan-000b4822e41ba992d179"
+    },
+    {
+      "name": "Moyi Mubarek Madrasah",
+      "kind": "do",
+      "locality": "Tashkent",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "price": "Adult 40,000 som",
+      "id": "uzbekistan-82dac568004d953ca613"
+    },
+    {
+      "name": "Kukeldash Madrasah",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3233,
+      "lon": 69.2361,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Navio Prospect",
+      "price": "Adult 15,000 som",
+      "url": "https://kukaldosh.uz/",
+      "id": "uzbekistan-f433c1c2b9cc4097a6be"
+    },
+    {
+      "name": "Shayhantaur",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.323,
+      "lon": 69.2589,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "id": "uzbekistan-f9d2d36bff60578f937d"
+    },
+    {
+      "name": "Abdulkasim Madrassa",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3068,
+      "lon": 69.2402,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Bunyodkor",
+      "id": "uzbekistan-f085539a258616a9e57d"
+    },
+    {
+      "name": "Kukcha Mosque",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3228,
+      "lon": 69.2048,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Mannon Uygur",
+      "id": "uzbekistan-7aaa21a314f0e2287b66"
+    },
+    {
+      "name": "Holy Assumption Cathedral",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.2909,
+      "lon": 69.2787,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Avliyuata 91",
+      "url": "https://pravoslavie.uz/",
+      "id": "uzbekistan-ce71a940d9590583f097"
+    },
+    {
+      "name": "St Alexander Nevsky Church",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3075,
+      "lon": 69.3145,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "id": "uzbekistan-072fb6d21efa2e830dfd"
+    },
+    {
+      "name": "Evangelical Lutheran Church",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3109,
+      "lon": 69.2924,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Sadyk Azimov 37",
+      "url": "https://www.facebook.com/luthertashkent",
+      "id": "uzbekistan-56f57f8bc9921210d7f7"
+    },
+    {
+      "name": "Sacred Heart Cathedral",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3056,
+      "lon": 69.2958,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Taraqqiyot ko'chasi",
+      "price": "Free",
+      "url": "http://www.catholic.uz/",
+      "id": "uzbekistan-5823d2338f9e517b76c3"
+    },
+    {
+      "name": "Mirzo-Yusuf Mosque",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3399,
+      "lon": 69.2924,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Bogyshamol 98",
+      "id": "uzbekistan-15f85d8e6d7b82ef8d6d"
+    },
+    {
+      "name": "Minor Mosque",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3354,
+      "lon": 69.2753,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Kichik Xalqa Yo'li (Little Ring Road)",
+      "price": "Free",
+      "id": "uzbekistan-0f199b2674a22f4dc51e"
+    },
+    {
+      "name": "State Museum of the Temurids",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3136,
+      "lon": 69.2789,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Amur Timur 1",
+      "price": "Adult 40,000 soʻm",
+      "url": "https://temurid.uz/en/",
+      "id": "uzbekistan-1bc576a01d6a413aed01"
+    },
+    {
+      "name": "Tashkent Polytechnic Museum",
+      "kind": "do",
+      "locality": "Tashkent",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "AK UzAuto, Amir Temur 13",
+      "price": "Adult 20,000 soʻm",
+      "id": "uzbekistan-8f233b38e8780075be54"
+    },
+    {
+      "name": "Museum of Applied Arts",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3011,
+      "lon": 69.2595,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Rakatboshi 15",
+      "price": "Adult 25,000 soʻm",
+      "url": "https://artmuseum.uz/en/index.html",
+      "id": "uzbekistan-5262d21553960607f802"
+    },
+    {
+      "name": "Art Gallery of Uzbekistan",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3157,
+      "lon": 69.2711,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Buyuk Turon 2",
+      "price": "Adult 50,000 soʻm",
+      "id": "uzbekistan-878094682cce34ea9840"
+    },
+    {
+      "name": "State Museum of Arts",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3026,
+      "lon": 69.2778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Shakhrisabz, corner of Amir Temur",
+      "url": "https://www.stateartmuseum.uz/",
+      "id": "uzbekistan-47a7726161256f9790d6"
+    },
+    {
+      "name": "State Museum of the History of Uzbekistan",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3118,
+      "lon": 69.2693,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Sharaf Rashidova 3",
+      "price": "Adult 50,000 soʻm",
+      "url": "https://www.history-museum.uz/",
+      "id": "uzbekistan-6880e0821a0d6cb54c61"
+    },
+    {
+      "name": "Alisher Navoy Public Museum of Literature",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3194,
+      "lon": 69.2595,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Navoi 69",
+      "url": "https://www.navoimuseum.uz/en",
+      "id": "uzbekistan-cb4b42ae6a127ac27cfe"
+    },
+    {
+      "name": "Hirayama Ikuo Cultural Caravanserai",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3028,
+      "lon": 69.2642,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Yusufa Khos Khodzhiba 37",
+      "price": "Free",
+      "url": "https://caravanserai.uz/",
+      "id": "uzbekistan-b107f5151914b4f43861"
+    },
+    {
+      "name": "Museum of Telecommunication of Uzbekistan",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3231,
+      "lon": 69.2529,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Abay 5",
+      "price": "Free",
+      "id": "uzbekistan-382c5521c863037d1157"
+    },
+    {
+      "name": "House of Photography",
+      "kind": "do",
+      "locality": "Tashkent",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Istikbol 4",
+      "price": "Free",
+      "id": "uzbekistan-c4a3159d196d64f71dda"
+    },
+    {
+      "name": "Ming O'rik Museum",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.2982,
+      "lon": 69.2858,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Moshtabib 6",
+      "price": "Adult 10,000 som",
+      "id": "uzbekistan-7a0b4cd69680884dcb75"
+    },
+    {
+      "name": "Railway Museum",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.2953,
+      "lon": 69.2905,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Turkiston 6",
+      "price": "Adult 30,000 soʻm",
+      "id": "uzbekistan-0f3e608247550e52bb58"
+    },
+    {
+      "name": "Museum of Victims of Repressions",
+      "kind": "do",
+      "locality": "Tashkent",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Amir Temur",
+      "price": "Adult 25,000 soʻm",
+      "url": "http://muzey-xotira.uz/",
+      "id": "uzbekistan-024eaab317c5bcdb8016"
+    },
+    {
+      "name": "Amir Temur Square",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3111,
+      "lon": 69.2797,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "id": "uzbekistan-65c2b123f093ae21f834"
+    },
+    {
+      "name": "Mustakillik Maydoni",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3151,
+      "lon": 69.2672,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "id": "uzbekistan-96eb2a1bc9ddcc8022b1"
+    },
+    {
+      "name": "Monument of Courage",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3237,
+      "lon": 69.2725,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "id": "uzbekistan-53dd99f377e6e8b38e42"
+    },
+    {
+      "name": "Bonum Factum",
+      "kind": "do",
+      "locality": "Tashkent",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Sadik Azimov 20",
+      "url": "https://vkartfact.wixsite.com/bonafact/exhibition",
+      "id": "uzbekistan-08e82d0c52bd838a2186"
+    },
+    {
+      "name": "Tashkent TV Tower",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3456,
+      "lon": 69.2847,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Amir Temur St 109",
+      "price": "Adult 50,000 som",
+      "url": "http://tv-tower.uz/",
+      "id": "uzbekistan-09d90bfa2fa4d180c6cc"
+    },
+    {
+      "name": "Oqsaroy Presidential Palace",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3083,
+      "lon": 69.2599,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Afrosiyob",
+      "id": "uzbekistan-059cfbf1cb601d157c85"
+    },
+    {
+      "name": "Magic Aquarium",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3032,
+      "lon": 69.2462,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Yoshlik",
+      "price": "Adult or child 100,000 Ssʻm",
+      "url": "https://magiccity.uz/aquarium",
+      "id": "uzbekistan-b5f5cf4e4248226c9a7b"
+    },
+    {
+      "name": "Tashkent Botanical Garden",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3439,
+      "lon": 69.3153,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Bogishamol 232в",
+      "price": "Adult 15,000 soʻm",
+      "url": "https://uzbbg.uz/en",
+      "id": "uzbekistan-036e1bf610e7d12f43d9"
+    },
+    {
+      "name": "Tashkent Zoo",
+      "kind": "do",
+      "locality": "Tashkent",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Bogishamol 232A",
+      "price": "Adult 50,000 soʻm",
+      "url": "https://www.tashkentzoo.uz/",
+      "id": "uzbekistan-cac2e70e26e3a100b978"
+    },
+    {
+      "name": "Oqtepa Yunusobod",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.362,
+      "lon": 69.3126,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Otaboy ota Tursunov",
+      "id": "uzbekistan-7b40e30889fb70a55069"
+    },
+    {
+      "name": "Yakkasaroy Cemetery",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.2702,
+      "lon": 69.2334,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "id": "uzbekistan-7b71c6a7e43afff6dfc9"
+    },
+    {
+      "name": "Zengi-Ata",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.1971,
+      "lon": 69.1581,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Zangiota, M-34 Hwy",
+      "id": "uzbekistan-88d4b5825a63e73d36e4"
+    },
+    {
+      "name": "Alisher Navoiy Park",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3017,
+      "lon": 69.2407,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "id": "uzbekistan-a59d0a90c1523c8694ff"
+    },
+    {
+      "name": "Do’stlik Recreation Park",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.2901,
+      "lon": 69.2536,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Bobur",
+      "id": "uzbekistan-cf7e8140288c63cd03fb"
+    },
+    {
+      "name": "Aqua Park",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3419,
+      "lon": 69.2853,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Amir Temur 100",
+      "price": "Adult 100,000 som, child 50,000 som",
+      "url": "https://uzexpocentre.uz/en/park/akvapark",
+      "id": "uzbekistan-0167d6c8948fc7d25c55"
+    },
+    {
+      "name": "Japanese Garden",
+      "kind": "do",
+      "locality": "Tashkent",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "price": "Adult 30,000 som, child 20,000 som",
+      "url": "https://uzexpocentre.uz/en/park/japonskij-sad",
+      "id": "uzbekistan-46a948ff81cb256e79c8"
+    },
+    {
+      "name": "Mirzo Ulugbek Recreation Park",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3125,
+      "lon": 69.2981,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Hamidulla Oripov 21",
+      "id": "uzbekistan-3b07aa1f21c62800d598"
+    },
+    {
+      "name": "FC Bunyodkor",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.2797,
+      "lon": 69.2125,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Bunyodkor 47",
+      "url": "https://www.fcbunyodkor.com/",
+      "id": "uzbekistan-0a88ba81b695ba3b356e"
+    },
+    {
+      "name": "FC Pakhtakor",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3154,
+      "lon": 69.2603,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "url": "http://www.pakhtakor.uz/",
+      "id": "uzbekistan-51a0427a662b60c08f5c"
+    },
+    {
+      "name": "FC Olympic",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.322,
+      "lon": 69.2298,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "JAR Stadium",
+      "id": "uzbekistan-87f7532d78d2fdcfaeeb"
+    },
+    {
+      "name": "Alisher Navoi Theatre",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3093,
+      "lon": 69.2715,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Atatürk 28",
+      "url": "https://gabt.uz/en/",
+      "id": "uzbekistan-8daf857b7c2ea637d180"
+    },
+    {
+      "name": "Russian Drama Theatre",
+      "kind": "do",
+      "locality": "Tashkent",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Atatürk 24",
+      "id": "uzbekistan-3166e8f4069dffc5ecdd"
+    },
+    {
+      "name": "Ilkhom Theatre",
+      "kind": "do",
+      "locality": "Tashkent",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Pakhator 5",
+      "url": "https://ilkhom.com/",
+      "id": "uzbekistan-109b56482f17dcde5195"
+    },
+    {
+      "name": "Musical Comedy Theatre",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.2833,
+      "lon": 69.2071,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Chapanata",
+      "url": "http://operetta.uz/en/home/",
+      "id": "uzbekistan-b72062280c8e1d9af97f"
+    },
+    {
+      "name": "Uzbek National Academic Drama Theatre",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3226,
+      "lon": 69.2454,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Navoi 34",
+      "id": "uzbekistan-ef398c7f9655779c1702"
+    },
+    {
+      "name": "State Circus",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3244,
+      "lon": 69.2429,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Zarqaynar 1",
+      "url": "https://www.cirk.uz/",
+      "id": "uzbekistan-c3cd13f1381e686f76ad"
+    },
+    {
+      "name": "City Planetarium",
+      "kind": "do",
+      "locality": "Tashkent",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Zarqaynar",
+      "id": "uzbekistan-c32099a2f598d26dea95"
+    },
+    {
+      "name": "Turkiston Concert Hall",
+      "kind": "do",
+      "locality": "Tashkent",
+      "lat": 41.3207,
+      "lon": 69.2695,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Navoi 2",
+      "id": "uzbekistan-ea0f9dd25f796ee692c0"
+    },
+    {
+      "name": "Youth Theatre",
+      "kind": "do",
+      "locality": "Tashkent",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Navoiy 55",
+      "url": "https://en.mtu.uz/",
+      "id": "uzbekistan-d38f6254695be643d559"
+    },
+    {
+      "name": "Bravissimo",
+      "kind": "eat",
+      "locality": "Tashkent",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "id": "uzbekistan-611b496f9f8b03ed827d"
+    },
+    {
+      "name": "Cafe Bukhara",
+      "kind": "eat",
+      "locality": "Tashkent",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Abdulla Kadiry 18",
+      "id": "uzbekistan-36fd7258472a8ecd1cc0"
+    },
+    {
+      "name": "Besh Qozon",
+      "kind": "eat",
+      "locality": "Tashkent",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Guards Colonel Khodjaev 1",
+      "url": "https://www.beshqozon.uz/",
+      "id": "uzbekistan-00907ebfb4035011edff"
+    },
+    {
+      "name": "Ariston Park",
+      "kind": "eat",
+      "locality": "Tashkent",
+      "lat": 41.3145,
+      "lon": 69.2977,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Gandhi",
+      "id": "uzbekistan-2d70d4d3a1b8b91908a8"
+    },
+    {
+      "name": "Caravan",
+      "kind": "eat",
+      "locality": "Tashkent",
+      "lat": 41.2852,
+      "lon": 69.2577,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Abdulla Khalkat 22",
+      "url": "https://caravangroup.uz/",
+      "id": "uzbekistan-85c3b0849ae8f110ec74"
+    },
+    {
+      "name": "Jumanji",
+      "kind": "eat",
+      "locality": "Tashkent",
+      "lat": 41.2957,
+      "lon": 69.2552,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Yunus Khos Khodjib 62",
+      "url": "https://jumanji.uz/",
+      "id": "uzbekistan-b5f164c38c319fb907a9"
+    },
+    {
+      "name": "Khangan",
+      "kind": "eat",
+      "locality": "Tashkent",
+      "lat": 41.2935,
+      "lon": 69.2462,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Urikzor 153",
+      "id": "uzbekistan-d873001099a9be218b67"
+    },
+    {
+      "name": "Bella Napoli",
+      "kind": "eat",
+      "locality": "Tashkent",
+      "lat": 41.2796,
+      "lon": 69.2476,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Shota Rustaveli 63",
+      "url": "https://www.abnmbgroup.com/",
+      "id": "uzbekistan-4e94a52464f6f0711b32"
+    },
+    {
+      "name": "Pro.Khinkali",
+      "kind": "eat",
+      "locality": "Tashkent",
+      "lat": 41.322,
+      "lon": 69.2831,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "60 Amir Temur",
+      "url": "https://www.instagram.com/prokhinkali.tashkent/",
+      "id": "uzbekistan-cb787efe885aa6c959f6"
+    },
+    {
+      "name": "Shashleek",
+      "kind": "eat",
+      "locality": "Tashkent",
+      "lat": 41.3119,
+      "lon": 69.2942,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Uzbekiston Ovozi 49",
+      "url": "https://www.instagram.com/shashleek.uz/",
+      "id": "uzbekistan-b2d8ebdd2209f0efe33d"
+    },
+    {
+      "name": "Ye Old Chelsea Arms",
+      "kind": "eat",
+      "locality": "Tashkent",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Abdulla Kakhar 25",
+      "id": "uzbekistan-33e58eb3709f86530b09"
+    },
+    {
+      "name": "Pelican",
+      "kind": "eat",
+      "locality": "Tashkent",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Sadik Azimov 47",
+      "id": "uzbekistan-fdc26c76c3589282c214"
+    },
+    {
+      "name": "Gulnara Guesthouse",
+      "kind": "stay",
+      "locality": "Tashkent",
+      "lat": 41.3277,
+      "lon": 69.2298,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Ozod 40",
+      "price": "B&B double $40",
+      "id": "uzbekistan-f7147203c45edede90f4"
+    },
+    {
+      "name": "Jahongir B&B",
+      "kind": "stay",
+      "locality": "Tashkent",
+      "lat": 41.3356,
+      "lon": 69.2224,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Chirokchi 4",
+      "price": "B&B double US$45",
+      "id": "uzbekistan-c626c39e0d334dc890c6"
+    },
+    {
+      "name": "Orzu Hotel",
+      "kind": "stay",
+      "locality": "Tashkent",
+      "lat": 41.2919,
+      "lon": 69.2642,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Kichik Mirobod 14",
+      "price": "B&B double US$70",
+      "url": "https://orzu.hotelrunner.com/",
+      "id": "uzbekistan-d94c5e25218d6ce0a38b"
+    },
+    {
+      "name": "Asia Tashkent Hotel",
+      "kind": "stay",
+      "locality": "Tashkent",
+      "lat": 41.2625,
+      "lon": 69.2292,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Usman Nasir 111",
+      "price": "B&B double US$70",
+      "url": "https://tashkent.asiahotels.uz/",
+      "id": "uzbekistan-b735670d4471e36bc3fa"
+    },
+    {
+      "name": "Oasis Asaka Hotel",
+      "kind": "stay",
+      "locality": "Tashkent",
+      "lat": 41.2878,
+      "lon": 69.3108,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Fargon Yuli 23",
+      "price": "B&B double US$75",
+      "url": "https://www.advantour.com/uzbekistan/hotels/tashkent/oazis-asaka.htm",
+      "id": "uzbekistan-9ae459ce3589e295bdd9"
+    },
+    {
+      "name": "Retro Palace",
+      "kind": "stay",
+      "locality": "Tashkent",
+      "lat": 41.2962,
+      "lon": 69.2645,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Vakhidov 65",
+      "price": "B&B double US$55",
+      "url": "https://retropalace.uz/",
+      "id": "uzbekistan-de053fe782eb0b39bb3d"
+    },
+    {
+      "name": "Shodlik Palace Hotel",
+      "kind": "stay",
+      "locality": "Tashkent",
+      "lat": 41.3181,
+      "lon": 69.2611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Pakhtakor 5",
+      "price": "B&B double US$60",
+      "id": "uzbekistan-9eed9ce3db7d531e6ee3"
+    },
+    {
+      "name": "Uzbekistan Hotel",
+      "kind": "stay",
+      "locality": "Tashkent",
+      "lat": 41.3115,
+      "lon": 69.2826,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Mirzamakhmud Musakhanov 45",
+      "price": "B&B double US$65",
+      "url": "https://hotel-uz.com/",
+      "id": "uzbekistan-82b8419bdfce1d4dfb8b"
+    },
+    {
+      "name": "Hotel City Palace",
+      "kind": "stay",
+      "locality": "Tashkent",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Amir Temur 15",
+      "price": "B&B double $110",
+      "url": "https://citypalace.uz/",
+      "id": "uzbekistan-c5c9173e9431f1fdbe91"
+    },
+    {
+      "name": "Wyndham Hotel",
+      "kind": "stay",
+      "locality": "Tashkent",
+      "lat": 41.3175,
+      "lon": 69.2801,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Amir Temur 7",
+      "price": "B&B double US$160",
+      "url": "https://wyndhamtashkent.com/",
+      "id": "uzbekistan-24e90c388a2aa2eedf62"
+    },
+    {
+      "name": "Grand Mir Hotel",
+      "kind": "stay",
+      "locality": "Tashkent",
+      "lat": 41.2962,
+      "lon": 69.2678,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Mirabad 2",
+      "price": "B&B double US$130",
+      "url": "https://grandmirhotel.uz/",
+      "id": "uzbekistan-4d156352b052299c486e"
+    },
+    {
+      "name": "Le Grande Plaza Hotel",
+      "kind": "stay",
+      "locality": "Tashkent",
+      "lat": 41.3109,
+      "lon": 69.2859,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Uzbekiston Ovozi 2",
+      "price": "B&B double US$150",
+      "url": "https://www.legrandeplaza.com/",
+      "id": "uzbekistan-5893f3b7e8d16736a4a5"
+    },
+    {
+      "name": "Hotel Ichan Qala",
+      "kind": "stay",
+      "locality": "Tashkent",
+      "lat": 41.2925,
+      "lon": 69.2577,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Tafakkur 24",
+      "price": "B&B double USD$100",
+      "url": "https://ichanqala.uz/",
+      "id": "uzbekistan-41194383ff9e3ed6d9e7"
+    },
+    {
+      "name": "Ramada Tashkent",
+      "kind": "stay",
+      "locality": "Tashkent",
+      "lat": 41.3248,
+      "lon": 69.2639,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Abdulla Qodiriy 1",
+      "price": "B&B double US$120",
+      "url": "https://www.wyndhamhotels.com/ramada/tashkent-uzbekistan/ramada-tashkent/",
+      "id": "uzbekistan-305596cb5b732559c160"
+    },
+    {
+      "name": "International Hotel Tashkent",
+      "kind": "stay",
+      "locality": "Tashkent",
+      "lat": 41.3378,
+      "lon": 69.2835,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Amir Temur 107A",
+      "price": "B&B double US$120",
+      "url": "https://ihthotel.uz/",
+      "id": "uzbekistan-b97e4a51159e307edec8"
+    },
+    {
+      "name": "Radisson Blu Hotel",
+      "kind": "stay",
+      "locality": "Tashkent",
+      "lat": 41.3347,
+      "lon": 69.2851,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Amir Temur 88",
+      "price": "B&B double $120",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-tashkent",
+      "id": "uzbekistan-43e28796829ba6eedab3"
+    },
+    {
+      "name": "Lotte City Tashkent Palace Hotel",
+      "kind": "stay",
+      "locality": "Tashkent",
+      "lat": 41.3095,
+      "lon": 69.2686,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "address": "Buyuk Turon 56",
+      "price": "B&B double US$160",
+      "url": "https://www.lottehotel.com/tashkentpalace-city/en.html/en",
+      "id": "uzbekistan-73a18d232fff7747d915"
+    },
+    {
+      "name": "Tashkent",
+      "kind": "area",
+      "locality": "Tashkent",
+      "lat": 41.31192,
+      "lon": 69.27876,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tashkent",
+      "id": "uzbekistan-df4e08118222396e256f"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

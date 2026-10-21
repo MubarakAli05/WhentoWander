@@ -1,0 +1,422 @@
+{
+  "sources": [
+    {
+      "title": "Democratic Republic of the Congo",
+      "url": "https://en.wikivoyage.org/wiki/Democratic_Republic_of_the_Congo",
+      "checkedAt": "2026-10-21T08:09:16.053Z"
+    },
+    {
+      "title": "Kinshasa",
+      "url": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "checkedAt": "2026-10-21T08:09:18.225Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Kinshasa",
+      "kind": "area",
+      "locality": "Democratic Republic of the Congo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Democratic_Republic_of_the_Congo",
+      "id": "democratic-republic-of-the-congo-3848eb7d2b5b1b8859e2"
+    },
+    {
+      "name": "Bukavu",
+      "kind": "area",
+      "locality": "Democratic Republic of the Congo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Democratic_Republic_of_the_Congo",
+      "id": "democratic-republic-of-the-congo-19e15fa2d7c795756eb7"
+    },
+    {
+      "name": "Goma",
+      "kind": "area",
+      "locality": "Democratic Republic of the Congo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Democratic_Republic_of_the_Congo",
+      "id": "democratic-republic-of-the-congo-1500f3fa5cc215f54dfd"
+    },
+    {
+      "name": "Kananga",
+      "kind": "area",
+      "locality": "Democratic Republic of the Congo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Democratic_Republic_of_the_Congo",
+      "id": "democratic-republic-of-the-congo-d5b1b3835d59045ed2a4"
+    },
+    {
+      "name": "Kisangani",
+      "kind": "area",
+      "locality": "Democratic Republic of the Congo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Democratic_Republic_of_the_Congo",
+      "id": "democratic-republic-of-the-congo-8e91b8fbd299064e73e4"
+    },
+    {
+      "name": "Lubumbashi",
+      "kind": "area",
+      "locality": "Democratic Republic of the Congo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Democratic_Republic_of_the_Congo",
+      "id": "democratic-republic-of-the-congo-be7aac631c26ea37e83d"
+    },
+    {
+      "name": "Matadi",
+      "kind": "area",
+      "locality": "Democratic Republic of the Congo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Democratic_Republic_of_the_Congo",
+      "id": "democratic-republic-of-the-congo-117bc9a6bd4e9c957d6a"
+    },
+    {
+      "name": "Mbandaka",
+      "kind": "area",
+      "locality": "Democratic Republic of the Congo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Democratic_Republic_of_the_Congo",
+      "id": "democratic-republic-of-the-congo-82001cc6e376de03c07e"
+    },
+    {
+      "name": "Mbuji-Mayi",
+      "kind": "area",
+      "locality": "Democratic Republic of the Congo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Democratic_Republic_of_the_Congo",
+      "id": "democratic-republic-of-the-congo-8ddbeed5f5ea2a9ff799"
+    },
+    {
+      "name": "National Museum of the Democratic Republic of Congo",
+      "kind": "do",
+      "locality": "Kinshasa",
+      "lat": -4.3351,
+      "lon": 15.2994,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "id": "democratic-republic-of-the-congo-42eb02066dbdc08e4da5"
+    },
+    {
+      "name": "Lola ya Bonobo",
+      "kind": "do",
+      "locality": "Kinshasa",
+      "lat": -4.489766,
+      "lon": 15.268443,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "url": "http://www.lolayabonobo.org/",
+      "id": "democratic-republic-of-the-congo-d112090945ce58aba9a9"
+    },
+    {
+      "name": "Kinkole",
+      "kind": "do",
+      "locality": "Kinshasa",
+      "lat": -4.32633,
+      "lon": 15.514315,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "id": "democratic-republic-of-the-congo-65ed2dfa8a6ecffd1bd9"
+    },
+    {
+      "name": "Jardin d'Eden",
+      "kind": "do",
+      "locality": "Kinshasa",
+      "lat": -4.25399,
+      "lon": 15.5754,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "url": "http://www.jardin-eden.populus.ch/",
+      "id": "democratic-republic-of-the-congo-4b97259bf76014a67ac9"
+    },
+    {
+      "name": "Parc de la Vallée de la N'Sele",
+      "kind": "do",
+      "locality": "Kinshasa",
+      "lat": -4.2601,
+      "lon": 15.647,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "url": "https://parcdelavalleedelansele.com/",
+      "id": "democratic-republic-of-the-congo-0da69c65513c43a90165"
+    },
+    {
+      "name": "Mbudi Nature",
+      "kind": "do",
+      "locality": "Kinshasa",
+      "lat": -4.349341,
+      "lon": 15.208938,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "id": "democratic-republic-of-the-congo-4f4d39b9eaa9f5d3ddaf"
+    },
+    {
+      "name": "Limete Tower",
+      "kind": "do",
+      "locality": "Kinshasa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "id": "democratic-republic-of-the-congo-d949e57d7db548154141"
+    },
+    {
+      "name": "Our Lady of the Congo Cathedral",
+      "kind": "do",
+      "locality": "Kinshasa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "id": "democratic-republic-of-the-congo-2b91e969bad8cda73027"
+    },
+    {
+      "name": "Café Conc",
+      "kind": "eat",
+      "locality": "Kinshasa",
+      "lat": -4.301194,
+      "lon": 15.311346,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "address": "Av. de la Nation",
+      "id": "democratic-republic-of-the-congo-fa918e7ebf587f058800"
+    },
+    {
+      "name": "Le Cercle Gourmand",
+      "kind": "eat",
+      "locality": "Kinshasa",
+      "lat": -4.312423,
+      "lon": 15.293313,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "address": "Av. Du Cercle",
+      "url": "https://m.facebook.com/lecerclegourmand.net/",
+      "id": "democratic-republic-of-the-congo-0aa918e0c4b785e8fd1b"
+    },
+    {
+      "name": "La Brasserie",
+      "kind": "eat",
+      "locality": "Kinshasa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "address": "5, Avenue Rep Du Tchad",
+      "id": "democratic-republic-of-the-congo-ff9eec928b9d6df9dc2b"
+    },
+    {
+      "name": "Chacha Bar",
+      "kind": "eat",
+      "locality": "Kinshasa",
+      "lat": -4.30096,
+      "lon": 15.30871,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "address": "4 Avenue du Port (top of Immeuble Forescom building)",
+      "url": "https://m.facebook.com/ChachaKinshasa/",
+      "id": "democratic-republic-of-the-congo-db3ba18f3c78f61689e6"
+    },
+    {
+      "name": "Village of Chez Ntemba",
+      "kind": "eat",
+      "locality": "Kinshasa",
+      "lat": -4.30163,
+      "lon": 15.30851,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "address": "Ave du Port",
+      "url": "https://m.facebook.com/villagechezntemba/",
+      "id": "democratic-republic-of-the-congo-a2a1c202c3f9d20ee422"
+    },
+    {
+      "name": "Spirit Club & Bar B Q",
+      "kind": "eat",
+      "locality": "Kinshasa",
+      "lat": -4.3158,
+      "lon": 15.2856,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "address": "Ave Kauka",
+      "url": "https://m.facebook.com/spiritclubkin",
+      "id": "democratic-republic-of-the-congo-a7a4769b8587ecc1fe20"
+    },
+    {
+      "name": "K Lounge",
+      "kind": "eat",
+      "locality": "Kinshasa",
+      "lat": -4.31271,
+      "lon": 15.28506,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "address": "124 Bd Du 30 Juin",
+      "url": "https://m.facebook.com/kloungekin/",
+      "id": "democratic-republic-of-the-congo-d8f12afa818eec5ade29"
+    },
+    {
+      "name": "New Standing Club",
+      "kind": "eat",
+      "locality": "Kinshasa",
+      "lat": -4.30659,
+      "lon": 15.32334,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "address": "Av du Syndicats 315",
+      "url": "https://m.facebook.com/StandingClubrdc/",
+      "id": "democratic-republic-of-the-congo-9c1b0112b2f71f9db0b1"
+    },
+    {
+      "name": "Coco Jambo Lounge & Lounge",
+      "kind": "eat",
+      "locality": "Kinshasa",
+      "lat": -4.30323,
+      "lon": 15.31294,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "address": "11 Av. De La Presse",
+      "url": "https://m.facebook.com/pages/category/Sports-Bar/COCO-JAMBO-Kinshasa-Bowling-Live-Music-Lounge-bar-sports-bar-175875693308606/",
+      "id": "democratic-republic-of-the-congo-7a1ec7a8f1f8900ec63e"
+    },
+    {
+      "name": "Millionaire Club",
+      "kind": "eat",
+      "locality": "Kinshasa",
+      "lat": -4.30716,
+      "lon": 15.2961,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "address": "95 Bd Du 30 Juin",
+      "url": "https://m.facebook.com/Millionaireclub243/",
+      "id": "democratic-republic-of-the-congo-6caacd128ad52c78e1e9"
+    },
+    {
+      "name": "New Savanana",
+      "kind": "eat",
+      "locality": "Kinshasa",
+      "lat": -4.30303,
+      "lon": 15.31076,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "url": "https://m.facebook.com/NewSavanana/",
+      "id": "democratic-republic-of-the-congo-cd69dbb754e80783d019"
+    },
+    {
+      "name": "Bar of Sultani Hotel",
+      "kind": "eat",
+      "locality": "Kinshasa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "id": "democratic-republic-of-the-congo-4c9592c8b24356564e64"
+    },
+    {
+      "name": "Cockpit Bar",
+      "kind": "eat",
+      "locality": "Kinshasa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "address": "5 Avenue Rep Du Tchad",
+      "id": "democratic-republic-of-the-congo-6562b7433cb8a1329c4e"
+    },
+    {
+      "name": "Bar La Piscine",
+      "kind": "eat",
+      "locality": "Kinshasa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "address": "5 Avenue Rep Du Tchad",
+      "id": "democratic-republic-of-the-congo-be3b0b73a7999c2f6a43"
+    },
+    {
+      "name": "Hotel Pour Vous",
+      "kind": "stay",
+      "locality": "Kinshasa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "address": "22 Av. Rep Du Tchad",
+      "price": "59 USD",
+      "url": "http://www.hotelpourvous.com/en/",
+      "id": "democratic-republic-of-the-congo-c0904019204bd46ee2b3"
+    },
+    {
+      "name": "Léon Hôtel Kinshasa",
+      "kind": "stay",
+      "locality": "Kinshasa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "address": "41 Av. Luambo Makiadi",
+      "price": "US$60 (Mar 2022)",
+      "url": "https://en.leonhotel-kinshasa.com/",
+      "id": "democratic-republic-of-the-congo-f8ef4def9b08ecd6ffdf"
+    },
+    {
+      "name": "Hotel Platinum",
+      "kind": "stay",
+      "locality": "Kinshasa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "address": "Avenue Du Commerce 32",
+      "price": "US$99",
+      "id": "democratic-republic-of-the-congo-4682923ca5c8e6f4a47b"
+    },
+    {
+      "name": "Residence Marika",
+      "kind": "stay",
+      "locality": "Kinshasa",
+      "lat": -4.30649,
+      "lon": 15.302322,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "id": "democratic-republic-of-the-congo-82d8f7db018d1110da29"
+    },
+    {
+      "name": "Hotel Memling",
+      "kind": "stay",
+      "locality": "Kinshasa",
+      "lat": -4.304272,
+      "lon": 15.312298,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "address": "5, Avenue Rep Du Tchad",
+      "url": "http://www.memling.net/",
+      "id": "democratic-republic-of-the-congo-c51bf5b93edf1b8a906f"
+    },
+    {
+      "name": "Pullman Kinshasa Grand Hotel",
+      "kind": "stay",
+      "locality": "Kinshasa",
+      "lat": -4.312708,
+      "lon": 15.273264,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "address": "4 Av. des Batetela",
+      "url": "http://https//all.accor.com/hotel/9635/index.en.shtml",
+      "id": "democratic-republic-of-the-congo-dac6af525ab660e62831"
+    },
+    {
+      "name": "Hotel Royal",
+      "kind": "stay",
+      "locality": "Kinshasa",
+      "lat": -4.305976,
+      "lon": 15.305874,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "url": "http://www.hotelroyaldrc.com/",
+      "id": "democratic-republic-of-the-congo-d6cf811f7213f009b56a"
+    },
+    {
+      "name": "Sultani Hotel",
+      "kind": "stay",
+      "locality": "Kinshasa",
+      "lat": -4.308152,
+      "lon": 15.289853,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "address": "30, Avenue de la Justice",
+      "url": "http://www.sultanihotel.com/",
+      "id": "democratic-republic-of-the-congo-f50a2c7e60890cd31f44"
+    },
+    {
+      "name": "Fleuve Congo Hotel",
+      "kind": "stay",
+      "locality": "Kinshasa",
+      "lat": -4.312616,
+      "lon": 15.270354,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "address": "119, Boulevard Colonel",
+      "url": "http://www.fleuvecongohotel.net/",
+      "id": "democratic-republic-of-the-congo-c2f4e064966a84d645db"
+    },
+    {
+      "name": "Ledya Pyramide Hotel",
+      "kind": "stay",
+      "locality": "Kinshasa",
+      "lat": -4.342646,
+      "lon": 15.253422,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "id": "democratic-republic-of-the-congo-0469ac7cd8f6b220e91b"
+    },
+    {
+      "name": "Faden House",
+      "kind": "stay",
+      "locality": "Kinshasa",
+      "lat": -4.311537,
+      "lon": 15.272404,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "address": "117, Avenue des Batetela",
+      "url": "https://m.facebook.com/anthonymulmba/",
+      "id": "democratic-republic-of-the-congo-5976e86a277443f35d85"
+    },
+    {
+      "name": "Hotel Elais",
+      "kind": "stay",
+      "locality": "Kinshasa",
+      "lat": -4.304052,
+      "lon": 15.303424,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "url": "http://hotelelais.com/en/",
+      "id": "democratic-republic-of-the-congo-52990c65b96f053e13e1"
+    },
+    {
+      "name": "Kinshasa",
+      "kind": "area",
+      "locality": "Kinshasa",
+      "lat": -4.325,
+      "lon": 15.322222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kinshasa",
+      "id": "democratic-republic-of-the-congo-1bb51c041243b08e5566"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

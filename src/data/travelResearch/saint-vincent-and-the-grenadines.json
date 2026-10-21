@@ -1,0 +1,134 @@
+{
+  "sources": [
+    {
+      "title": "Saint Vincent and the Grenadines",
+      "url": "https://en.wikivoyage.org/wiki/Saint_Vincent_and_the_Grenadines",
+      "checkedAt": "2026-10-21T08:12:01.191Z"
+    },
+    {
+      "title": "Kingstown",
+      "url": "https://en.wikivoyage.org/wiki/Kingstown",
+      "checkedAt": "2026-10-21T08:12:04.175Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Kingstown",
+      "kind": "area",
+      "locality": "Saint Vincent and the Grenadines",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saint_Vincent_and_the_Grenadines",
+      "id": "saint-vincent-and-the-grenadines-0ff3a0d58eb69c96b8db"
+    },
+    {
+      "name": "Barrouallie",
+      "kind": "area",
+      "locality": "Saint Vincent and the Grenadines",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saint_Vincent_and_the_Grenadines",
+      "id": "saint-vincent-and-the-grenadines-8abfb4fc47697624f373"
+    },
+    {
+      "name": "Chateaubelair",
+      "kind": "area",
+      "locality": "Saint Vincent and the Grenadines",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saint_Vincent_and_the_Grenadines",
+      "id": "saint-vincent-and-the-grenadines-91df5741088257759f31"
+    },
+    {
+      "name": "Georgetown",
+      "kind": "area",
+      "locality": "Saint Vincent and the Grenadines",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saint_Vincent_and_the_Grenadines",
+      "id": "saint-vincent-and-the-grenadines-cc8a869115e5ace9f37c"
+    },
+    {
+      "name": "Botanic Gardens",
+      "kind": "do",
+      "locality": "Kingstown",
+      "lat": 13.166667,
+      "lon": -61.233333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingstown",
+      "address": "on the town's northern outskirts",
+      "price": "EC$13.5/foreigner, EC$5/local",
+      "url": "http://www.botanicalgarden.gov.vc/botanicalgarden/",
+      "id": "saint-vincent-and-the-grenadines-fa1199bb5ba2fd72fd4b"
+    },
+    {
+      "name": "SVG National Trust",
+      "kind": "do",
+      "locality": "Kingstown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingstown",
+      "address": "Halifax St",
+      "price": "EC$5",
+      "id": "saint-vincent-and-the-grenadines-500443876b55899ea055"
+    },
+    {
+      "name": "Arnos Vale Stadium",
+      "kind": "do",
+      "locality": "Kingstown",
+      "lat": 13.1419,
+      "lon": -61.2118,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingstown",
+      "id": "saint-vincent-and-the-grenadines-b83be1e31565fde65e8d"
+    },
+    {
+      "name": "Veejays",
+      "kind": "eat",
+      "locality": "Kingstown",
+      "lat": 13.15572,
+      "lon": -61.22798,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingstown",
+      "address": "Bay St",
+      "url": "https://www.facebook.com/veejaysrestaurantandbar/",
+      "id": "saint-vincent-and-the-grenadines-9dd05a77977c0006d18c"
+    },
+    {
+      "name": "Kye’s Vegetarian Cuisine",
+      "kind": "eat",
+      "locality": "Kingstown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingstown",
+      "address": "Paul’s Avenue, Kingstown",
+      "id": "saint-vincent-and-the-grenadines-4f2b4804df4c912e5d99"
+    },
+    {
+      "name": "Flow Wine Bar and Kitchen",
+      "kind": "eat",
+      "locality": "Kingstown",
+      "lat": 13.15242,
+      "lon": -61.22309,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingstown",
+      "address": "James St",
+      "url": "http://www.flowwinebar.com/",
+      "id": "saint-vincent-and-the-grenadines-bad4c4ad90e734d62dc9"
+    },
+    {
+      "name": "Beachcombers Hotel",
+      "kind": "stay",
+      "locality": "Kingstown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingstown",
+      "price": "Doubles $90 summer, $99 winter",
+      "url": "http://www.beachcombershotel.com/",
+      "id": "saint-vincent-and-the-grenadines-64df42271770b7eb6f0d"
+    },
+    {
+      "name": "Villa Lodge Hotel",
+      "kind": "stay",
+      "locality": "Kingstown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingstown",
+      "address": "Indian Bay",
+      "price": "Doubles $115 dummer, $130 winter",
+      "url": "http://www.villalodgehotel.com/",
+      "id": "saint-vincent-and-the-grenadines-6e40c4fd072616407110"
+    },
+    {
+      "name": "Kingstown",
+      "kind": "area",
+      "locality": "Kingstown",
+      "lat": 13.1667,
+      "lon": -61.2333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingstown",
+      "id": "saint-vincent-and-the-grenadines-7e73aab49098d486b117"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

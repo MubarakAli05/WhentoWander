@@ -1,0 +1,691 @@
+{
+  "sources": [
+    {
+      "title": "Dominican Republic",
+      "url": "https://en.wikivoyage.org/wiki/Dominican_Republic",
+      "checkedAt": "2026-10-21T08:09:29.705Z"
+    },
+    {
+      "title": "Santo Domingo",
+      "url": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "checkedAt": "2026-10-21T08:09:33.102Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Santo Domingo",
+      "kind": "area",
+      "locality": "Dominican Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominican_Republic",
+      "id": "dominican-republic-de5b91d2e012ace5af2d"
+    },
+    {
+      "name": "Juan Dolio",
+      "kind": "area",
+      "locality": "Dominican Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominican_Republic",
+      "id": "dominican-republic-635c2a02fef3de9901ef"
+    },
+    {
+      "name": "Puerto Plata",
+      "kind": "area",
+      "locality": "Dominican Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominican_Republic",
+      "id": "dominican-republic-d566a8aef3f8b09c8a0a"
+    },
+    {
+      "name": "Punta Cana",
+      "kind": "area",
+      "locality": "Dominican Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominican_Republic",
+      "id": "dominican-republic-0287bc36c441eaa0f4c6"
+    },
+    {
+      "name": "San Pedro de Macoris",
+      "kind": "area",
+      "locality": "Dominican Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominican_Republic",
+      "id": "dominican-republic-1854316ac3001b820290"
+    },
+    {
+      "name": "Santa Barbara De Samana",
+      "kind": "area",
+      "locality": "Dominican Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominican_Republic",
+      "id": "dominican-republic-9496b3afad7b755ed939"
+    },
+    {
+      "name": "Santiago de los Caballeros",
+      "kind": "area",
+      "locality": "Dominican Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominican_Republic",
+      "id": "dominican-republic-f5f37b81ac44480c43b2"
+    },
+    {
+      "name": "Sosua",
+      "kind": "area",
+      "locality": "Dominican Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominican_Republic",
+      "id": "dominican-republic-e1896ef5185c1371f83d"
+    },
+    {
+      "name": "La Romana",
+      "kind": "area",
+      "locality": "Dominican Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominican_Republic",
+      "id": "dominican-republic-280e587ae0cbdb9cac4e"
+    },
+    {
+      "name": "Colonial Zone",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "id": "dominican-republic-5c4ce9d4dc19bd2ea0da"
+    },
+    {
+      "name": "Basilica Cathedral of Santa María la Menor",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "lat": 18.4727777878,
+      "lon": -69.8838888989,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "id": "dominican-republic-85dc2d4f24a13ef64715"
+    },
+    {
+      "name": "Fortaleza Ozama",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "lat": 18.4732,
+      "lon": -69.88171,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "id": "dominican-republic-b7a262327ae6963552bb"
+    },
+    {
+      "name": "Malecon",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "id": "dominican-republic-f5bad55dd134598382d5"
+    },
+    {
+      "name": "Plaza de la Cultura",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "id": "dominican-republic-0575793ea6d8796634b7"
+    },
+    {
+      "name": "Eco-tourism",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "id": "dominican-republic-8608b58a21a1bf4f4545"
+    },
+    {
+      "name": "Eastern Santo Domingo",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "id": "dominican-republic-23d3a6a10f48ab4ecff8"
+    },
+    {
+      "name": "Faro a Colon",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Calle Luperón 2",
+      "id": "dominican-republic-96af288e1f6399146ccb"
+    },
+    {
+      "name": "Sundial",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "id": "dominican-republic-45e9c62df037f41b461c"
+    },
+    {
+      "name": "Upscale Santo Domingo",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "id": "dominican-republic-0dcd1f9acad929a43e2f"
+    },
+    {
+      "name": "Presidencia de la República Dominicana",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "lat": 18.47456,
+      "lon": -69.89779,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Av México",
+      "url": "http://presidencia.gob.do/",
+      "id": "dominican-republic-29729a5f93b706eb3563"
+    },
+    {
+      "name": "Alcázar de Colón",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "lat": 18.477929,
+      "lon": -69.882721,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Plaza España, Zona Colonial",
+      "id": "dominican-republic-27f0e3f7150e44ce257b"
+    },
+    {
+      "name": "Naval Museum of the Atarazanas",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "lat": 18.4780874,
+      "lon": -69.8853687,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Calle La Atarazana, Zona Colonial",
+      "id": "dominican-republic-4645ff1ca6ae2280cff3"
+    },
+    {
+      "name": "Museum of the Casas Reales",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "lat": 18.475924,
+      "lon": -69.885475,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Calle Las Damas, Zona Colonial",
+      "id": "dominican-republic-e61d7d4293b87a6ac764"
+    },
+    {
+      "name": "World of Ambar Museum",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "lat": 18.477664,
+      "lon": -69.88522,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "id": "dominican-republic-c5338e2a863fb02e57ef"
+    },
+    {
+      "name": "Museum of Dominican Rum",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "lat": 18.477871,
+      "lon": -69.884065,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Isabel la Catolica #261, Zona Colonial",
+      "price": "Free",
+      "url": "https://www.barymuseodelrondominicano.com/",
+      "id": "dominican-republic-b2f81d1265163e864c13"
+    },
+    {
+      "name": "Museo Memorial de la Resistencia Dominicana",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "lat": 18.4716864,
+      "lon": -69.8877359,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Calle Arzobispo Nouel #210, Zona Colonial",
+      "price": "RD$150",
+      "url": "http://www.museodelaresistencia.org/",
+      "id": "dominican-republic-8917a9a51e830432fdaf"
+    },
+    {
+      "name": "Wax Museum Juan Pablo Duarte",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "lat": 18.47774,
+      "lon": -69.88434,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Calle Isabel La Católica # 304",
+      "id": "dominican-republic-f6fd585550f876468ea1"
+    },
+    {
+      "name": "Museum of Dominican Man",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "lat": 18.472225,
+      "lon": -69.908061,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Avenida Pedro Henríquez Ureña, Plaza de la Cultura, Gazcue",
+      "price": "DOP300",
+      "id": "dominican-republic-1f1e777adcbf65448b81"
+    },
+    {
+      "name": "Modern Art Museum",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "lat": 18.471636,
+      "lon": -69.909731,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Avenida Pedro Henríquez Ureña, Plaza de la Cultura, Gazcue",
+      "price": "Adults: RD$50, students/children: RD$20, children age 5 and under: Free",
+      "url": "https://m.facebook.com/pages/category/Nonprofit-Organization/Museo-de-Arte-Moderno-RD-230940860301268/",
+      "id": "dominican-republic-40043b66f269ffe70cda"
+    },
+    {
+      "name": "National Museum of History and Geography",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "lat": 18.472071,
+      "lon": -69.909094,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Avenida Pedro Henríquez Ureña, Plaza de la Cultura, Gazcue",
+      "id": "dominican-republic-1d5b304a1eec0dd5eb90"
+    },
+    {
+      "name": "Mirador Sur Park",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "lat": 18.437864,
+      "lon": -69.970653,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Av. Anacaona",
+      "id": "dominican-republic-01fea3beb96352bd8535"
+    },
+    {
+      "name": "Enriquillo Park",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "lat": 18.4809136,
+      "lon": -69.890371,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Av. Duarte and Calle Ravelo, Villa Francisca",
+      "id": "dominican-republic-ea496e1db176830daa00"
+    },
+    {
+      "name": "Columbus Park",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "lat": 18.4733798,
+      "lon": -69.8844969,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "id": "dominican-republic-a431376e71c8d82ef352"
+    },
+    {
+      "name": "Independencia Park",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "lat": 18.4713021,
+      "lon": -69.8941294,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "id": "dominican-republic-c17e5d6324da4f5cc846"
+    },
+    {
+      "name": "The Malecón",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "id": "dominican-republic-f9dd1a41527a7f1d49aa"
+    },
+    {
+      "name": "Dominican Republic National Zoo",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "lat": 18.505098,
+      "lon": -69.932645,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Av. La Vega Real, Arroyo Hondo",
+      "url": "http://www.zoodom.gov.do/",
+      "id": "dominican-republic-43e2a6259682d277d82e"
+    },
+    {
+      "name": "Dr. Rafael Ma. Moscoso National Botanical Garden",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "lat": 18.490559,
+      "lon": -69.958829,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Av. Republica de Colombia",
+      "price": "Adults: RD$220 (7$US)",
+      "url": "http://www.jbn.gob.do/",
+      "id": "dominican-republic-44ebe33272a54e8976b1"
+    },
+    {
+      "name": "Parque Ambiental Núñez de Cáceres",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "lat": 18.4637903,
+      "lon": -69.9611308,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Av. Núñez de Cáceres",
+      "id": "dominican-republic-ed50bbea15c123a22a76"
+    },
+    {
+      "name": "Iberoamérica Park",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "lat": 18.46647,
+      "lon": -69.91962,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Calle César Nicolás Penson",
+      "id": "dominican-republic-d3d48e669a7221ef3883"
+    },
+    {
+      "name": "Kahkow Experience",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "lat": 18.47347,
+      "lon": -69.88271,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Calle Las Damas 102",
+      "url": "http://www.cacaotour.com/",
+      "id": "dominican-republic-6f43b120bec6ce6bc001"
+    },
+    {
+      "name": "AquaMundo",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "lat": 18.48294,
+      "lon": -69.91113,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Av. John F. Kennedy",
+      "url": "https://aquamundosambil.com/",
+      "id": "dominican-republic-3d0470b8e12e20d5f0fb"
+    },
+    {
+      "name": "Playa Boca Chica/Playa San Andres",
+      "kind": "do",
+      "locality": "Santo Domingo",
+      "lat": 18.44718,
+      "lon": -69.61396,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "id": "dominican-republic-a7d717615e52f893c94b"
+    },
+    {
+      "name": "Adrian Tropical Food",
+      "kind": "eat",
+      "locality": "Santo Domingo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Avenida 27 de Febrero",
+      "id": "dominican-republic-260d754891b1f53e82fd"
+    },
+    {
+      "name": "TGI Fridays",
+      "kind": "eat",
+      "locality": "Santo Domingo",
+      "lat": 18.469484,
+      "lon": -69.939011,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Av. Winston Churchill, Acropolis Center",
+      "url": "http://www.fridaysdr.com.do/",
+      "id": "dominican-republic-bd76c8e3c20f87860a26"
+    },
+    {
+      "name": "Tony Roma's",
+      "kind": "eat",
+      "locality": "Santo Domingo",
+      "lat": 18.4582881,
+      "lon": -69.9356667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Av. Sarasota #29, Bella Vista",
+      "url": "https://locations.tonyromas.com/dominican-republic/santo-domingo/ave.-sarasota-29,-bella-vista",
+      "id": "dominican-republic-851551497c1082ebe80a"
+    },
+    {
+      "name": "Outback Steak House",
+      "kind": "eat",
+      "locality": "Santo Domingo",
+      "lat": 18.469486,
+      "lon": -69.939013,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Av. Winston Churchill, Acropolis Center",
+      "id": "dominican-republic-a6157b0e505d10bb25ce"
+    },
+    {
+      "name": "Hard Rock Cafe",
+      "kind": "eat",
+      "locality": "Santo Domingo",
+      "lat": 18.472726,
+      "lon": -69.9432566,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Av. Winston Churchill, Blue Mall",
+      "url": "http://www.hardrock.com/cafes/santo-domingo/",
+      "id": "dominican-republic-29b868ffe7b8be81147b"
+    },
+    {
+      "name": "Meringue Bar",
+      "kind": "eat",
+      "locality": "Santo Domingo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Ave. Independencia & Abraham Lincoln",
+      "id": "dominican-republic-2b1bde3d0ed26a517549"
+    },
+    {
+      "name": "Cacibajagua",
+      "kind": "eat",
+      "locality": "Santo Domingo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "url": "http://www.colonialzone-dr.com/cacibajagua.html",
+      "id": "dominican-republic-47d99459e43c794739c3"
+    },
+    {
+      "name": "Encuentro Artesanal",
+      "kind": "eat",
+      "locality": "Santo Domingo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "id": "dominican-republic-1ca8bc4eda7d47627bd8"
+    },
+    {
+      "name": "Museo del Ron",
+      "kind": "eat",
+      "locality": "Santo Domingo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "id": "dominican-republic-79f76f02eda1718d12ce"
+    },
+    {
+      "name": "Island Life Hostel",
+      "kind": "stay",
+      "locality": "Santo Domingo",
+      "lat": 18.47836,
+      "lon": -69.88442,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Calle Isabel La Católica 356",
+      "price": "RD$1580",
+      "url": "https://islandlifehostel.com/",
+      "id": "dominican-republic-d302860902ec4df119d0"
+    },
+    {
+      "name": "Mauad Hotel Boutique",
+      "kind": "stay",
+      "locality": "Santo Domingo",
+      "lat": 18.46127,
+      "lon": -69.90395,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Calle José Maria Heredia No. 6",
+      "price": "RD$1580",
+      "url": "https://www.instagram.com/mauadhotel/",
+      "id": "dominican-republic-db644f5d6bb80e5df498"
+    },
+    {
+      "name": "Jaguar Aparta Hotel",
+      "kind": "stay",
+      "locality": "Santo Domingo",
+      "lat": 18.46653,
+      "lon": -69.90231,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Calle Hermanos Deligne 59",
+      "price": "RD$2629",
+      "url": "http://jaguar59.com/",
+      "id": "dominican-republic-4f0d908a1a07cdc1aa90"
+    },
+    {
+      "name": "Hotel Conde De Peñalba",
+      "kind": "stay",
+      "locality": "Santo Domingo",
+      "lat": 18.47371,
+      "lon": -69.88446,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "price": "DOP 2808",
+      "url": "https://www.condepenalba.com/en",
+      "id": "dominican-republic-c95b02895d51881a3dc1"
+    },
+    {
+      "name": "Hotel W&P",
+      "kind": "stay",
+      "locality": "Santo Domingo",
+      "lat": 18.4569,
+      "lon": -69.93678,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Sarasota #53 in Bella Vista area",
+      "price": "RD$3042",
+      "url": "http://workandpleasurehotels.com/es/",
+      "id": "dominican-republic-60f9b9e400fb14b16f2c"
+    },
+    {
+      "name": "El Beaterio Guest Houseo",
+      "kind": "stay",
+      "locality": "Santo Domingo",
+      "lat": 18.47183,
+      "lon": -69.8858,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Calle Duarte nº8 Ciudad Colonial",
+      "price": "RD$3452",
+      "url": "http://www.elbeaterio.com/",
+      "id": "dominican-republic-1cf82699f683f93b8e41"
+    },
+    {
+      "name": "Holiday Inn Santo Domingo",
+      "kind": "stay",
+      "locality": "Santo Domingo",
+      "lat": 18.47613,
+      "lon": -69.93671,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Av. Abraham Lincoln 856",
+      "price": "RD$4149",
+      "url": "https://www.ihg.com/holidayinn/hotels/us/en/santo-domingo/sdqex/hoteldetail",
+      "id": "dominican-republic-178bcc06d5fe94396ad1"
+    },
+    {
+      "name": "Hotel Luca",
+      "kind": "stay",
+      "locality": "Santo Domingo",
+      "lat": 18.47183,
+      "lon": -69.88663,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Calle 19 de Marzo #164",
+      "price": "RD$4739",
+      "url": "http://lucahotel.do/",
+      "id": "dominican-republic-96ab6817029e64243506"
+    },
+    {
+      "name": "Catalonia Santo Domingo",
+      "kind": "stay",
+      "locality": "Santo Domingo",
+      "lat": 18.4578,
+      "lon": -69.90998,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "price": "RD$4973",
+      "url": "https://www.cataloniahotels.com/es/hotel/catalonia-santo-domingo",
+      "id": "dominican-republic-0e62cde7af51529a585c"
+    },
+    {
+      "name": "Renaissance Jaragua Hotel & Casino",
+      "kind": "stay",
+      "locality": "Santo Domingo",
+      "lat": 18.46193,
+      "lon": -69.89979,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "price": "RD$6143",
+      "url": "https://www.marriott.com/sdqgw",
+      "id": "dominican-republic-95158d468546be96bd73"
+    },
+    {
+      "name": "Courtyard by Marriott Santo Domingo Hotel",
+      "kind": "stay",
+      "locality": "Santo Domingo",
+      "lat": 18.46803,
+      "lon": -69.91192,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Avenida Maximo Gomez",
+      "url": "https://www.marriott.com/sdqcy",
+      "id": "dominican-republic-f04e56ff6061e37b3df2"
+    },
+    {
+      "name": "Sheraton Santo Domingo Hotel",
+      "kind": "stay",
+      "locality": "Santo Domingo",
+      "lat": 18.46283,
+      "lon": -69.8979,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Av. George Washington 365",
+      "price": "RD$6067",
+      "url": "https://www.marriott.com/hotels/travel/sdqds-sheraton-santo-domingo-hotel/",
+      "id": "dominican-republic-6e32aafe63066061abed"
+    },
+    {
+      "name": "Hodelpa Nicolás de Ovando",
+      "kind": "stay",
+      "locality": "Santo Domingo",
+      "lat": 18.47508,
+      "lon": -69.88272,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Calle Las Damas",
+      "price": "RD$6369",
+      "url": "https://www.facebook.com/HodelpaNicolasdeOvando/",
+      "id": "dominican-republic-af81b40b60a9152da570"
+    },
+    {
+      "name": "Embassy Suites by Hilton Santo Domingo",
+      "kind": "stay",
+      "locality": "Santo Domingo",
+      "lat": 18.47561,
+      "lon": -69.92721,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Silver Sun, Av. Tiradentes 32",
+      "price": "RD$6369",
+      "url": "https://www.hilton.com/en/hotels/sdqsdes-embassy-suites-santo-domingo/",
+      "id": "dominican-republic-3c98a3c7619c0d3703fa"
+    },
+    {
+      "name": "InterContinental Real Santo Domingo",
+      "kind": "stay",
+      "locality": "Santo Domingo",
+      "lat": 18.4683,
+      "lon": -69.9389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Av. Winston Churchill",
+      "price": "RD$5492",
+      "url": "https://www.ihg.com/intercontinental/hotels/us/en/santo-domingo/sdqic/hoteldetail",
+      "id": "dominican-republic-d3cd15a8b579581a5909"
+    },
+    {
+      "name": "JW Marriott Hotel Santo Domingo",
+      "kind": "stay",
+      "locality": "Santo Domingo",
+      "lat": 18.47264,
+      "lon": -69.9411,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Winston Churchill Avenue No. 93",
+      "price": "RD$9758",
+      "url": "https://www.marriott.com/hotels/travel/sdqjw-jw-marriott-hotel-santo-domingo/",
+      "id": "dominican-republic-eda5831315b4bba67b87"
+    },
+    {
+      "name": "Residencial Lucía III",
+      "kind": "stay",
+      "locality": "Santo Domingo",
+      "lat": 18.44849,
+      "lon": -69.61095,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Calle San Rafael B1",
+      "id": "dominican-republic-15da10bcc3b872b0145c"
+    },
+    {
+      "name": "Boca del Mar Residence",
+      "kind": "stay",
+      "locality": "Santo Domingo",
+      "lat": 18.45164,
+      "lon": -69.60564,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "address": "Calle José Francisco Peña Goméz",
+      "url": "http://residencebocadelmar.com/",
+      "id": "dominican-republic-ccb867f0edf32fb60b1a"
+    },
+    {
+      "name": "Santo Domingo",
+      "kind": "area",
+      "locality": "Santo Domingo",
+      "lat": 18.47188,
+      "lon": -69.891418,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Santo_Domingo",
+      "id": "dominican-republic-8384f76a7bde65984136"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

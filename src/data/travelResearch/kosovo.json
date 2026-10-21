@@ -1,0 +1,1236 @@
+{
+  "sources": [
+    {
+      "title": "Kosovo",
+      "url": "https://en.wikivoyage.org/wiki/Kosovo",
+      "checkedAt": "2026-10-21T08:10:15.203Z"
+    },
+    {
+      "title": "Pristina",
+      "url": "https://en.wikivoyage.org/wiki/Pristina",
+      "checkedAt": "2026-10-21T08:10:18.871Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Pristina",
+      "kind": "area",
+      "locality": "Kosovo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kosovo",
+      "id": "kosovo-4bb46f7ae1f0f398bc17"
+    },
+    {
+      "name": "Podujeva",
+      "kind": "area",
+      "locality": "Kosovo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kosovo",
+      "id": "kosovo-670ef2b1ce2860c7402a"
+    },
+    {
+      "name": "Gjakova",
+      "kind": "area",
+      "locality": "Kosovo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kosovo",
+      "id": "kosovo-c6967c884158a61ccc17"
+    },
+    {
+      "name": "Junik",
+      "kind": "area",
+      "locality": "Kosovo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kosovo",
+      "id": "kosovo-8881c98a9d8ce0f4c6fd"
+    },
+    {
+      "name": "Klinë",
+      "kind": "area",
+      "locality": "Kosovo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kosovo",
+      "id": "kosovo-0ef17bf24c276eefc72d"
+    },
+    {
+      "name": "Peja",
+      "kind": "area",
+      "locality": "Kosovo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kosovo",
+      "id": "kosovo-a47b539e1408d31fd77c"
+    },
+    {
+      "name": "Prizren",
+      "kind": "area",
+      "locality": "Kosovo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kosovo",
+      "id": "kosovo-b65d5180764506b40d64"
+    },
+    {
+      "name": "Suhareka",
+      "kind": "area",
+      "locality": "Kosovo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kosovo",
+      "id": "kosovo-06deb357774358b7531c"
+    },
+    {
+      "name": "Mitrovica",
+      "kind": "area",
+      "locality": "Kosovo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kosovo",
+      "id": "kosovo-1acf2e78e0fabc2170b4"
+    },
+    {
+      "name": "Ferizaj",
+      "kind": "area",
+      "locality": "Kosovo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kosovo",
+      "id": "kosovo-24803dd94d66cca1f646"
+    },
+    {
+      "name": "Gjilani",
+      "kind": "area",
+      "locality": "Kosovo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kosovo",
+      "id": "kosovo-f87a8179b5dfec1b96e3"
+    },
+    {
+      "name": "Kacanik",
+      "kind": "area",
+      "locality": "Kosovo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kosovo",
+      "id": "kosovo-c502b5c361711dd8cac9"
+    },
+    {
+      "name": "Kamenica",
+      "kind": "area",
+      "locality": "Kosovo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kosovo",
+      "id": "kosovo-fdbdf4755595c5a701aa"
+    },
+    {
+      "name": "Novo Brdo",
+      "kind": "area",
+      "locality": "Kosovo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kosovo",
+      "id": "kosovo-6dbc79874279908137e7"
+    },
+    {
+      "name": "Viti",
+      "kind": "area",
+      "locality": "Kosovo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kosovo",
+      "id": "kosovo-de8e3cc3c9d020fc9bc7"
+    },
+    {
+      "name": "GuideKS",
+      "kind": "do",
+      "locality": "Kosovo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kosovo",
+      "address": "guidesinkosovo@gmail.com",
+      "url": "https://guideks.org/",
+      "id": "kosovo-2d981c6ff10ab2d5da96"
+    },
+    {
+      "name": "The National Gallery of Kosovo",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.657134241822106,
+      "lon": 21.16391927581043,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "price": "free",
+      "url": "https://www.galeriakombetare-rks.com/al",
+      "id": "kosovo-f52ded271cb702cf68b4"
+    },
+    {
+      "name": "Kosovo National Museum",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.665679,
+      "lon": 21.166275,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Ibrahim Lutfiu St",
+      "price": "Free",
+      "url": "http://muzeu.rks-gov.net/",
+      "id": "kosovo-33ea024700ed69c63028"
+    },
+    {
+      "name": "Pristina Ethnographic Museum",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.6685,
+      "lon": 21.168106,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Henrik Baric nr 5",
+      "price": "by donation (2022)",
+      "id": "kosovo-227b368c5e89bdb05429"
+    },
+    {
+      "name": "Independence Museum",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.66428,
+      "lon": 21.15822,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Rr. Enver Zymberi",
+      "price": "free",
+      "id": "kosovo-a72380b1a3dd4fb1d434"
+    },
+    {
+      "name": "Pristina Prison Museum",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.66296,
+      "lon": 21.15992,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Rr. Luan Haradinaj",
+      "price": "free",
+      "url": "https://www.facebook.com/muzeuiburgut/",
+      "id": "kosovo-b5bff10dbbe4a112c537"
+    },
+    {
+      "name": "Museum of American Art",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.66828,
+      "lon": 21.16785,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Zija Prishtina St.",
+      "url": "https://stacion.org/en/Museum-of-American-Art",
+      "id": "kosovo-2f927c3346a96e6d1957"
+    },
+    {
+      "name": "Galeria 17",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.66782,
+      "lon": 21.16739,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Henrik Baric nr 10",
+      "price": "free",
+      "url": "https://galeria17.org/",
+      "id": "kosovo-02cf0163f0fcc1e9fd2a"
+    },
+    {
+      "name": "Ulpiana Archeological Park",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.596746,
+      "lon": 21.176351,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "id": "kosovo-558a22c9c22ec9859e97"
+    },
+    {
+      "name": "Mausoleum of Sultan Murat I",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.70204,
+      "lon": 21.10474,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Afrim Zhitia 337, Mazgit village",
+      "id": "kosovo-05f6306644d432d030d4"
+    },
+    {
+      "name": "Cathedral of Saint Mother Teresa",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.656343,
+      "lon": 21.159358,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "price": "€1.50 for climbing to the tower",
+      "id": "kosovo-e69675cd53fea6b13238"
+    },
+    {
+      "name": "Saint Saviour Serbian Orthodox Church",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.6585,
+      "lon": 21.1636,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Agim Ramadani St.",
+      "id": "kosovo-4063a0750f8192bff48a"
+    },
+    {
+      "name": "Saint Nicholas Church",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.668,
+      "lon": 21.1721,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Shkodra St",
+      "id": "kosovo-4e61403bfbc659ad7fd1"
+    },
+    {
+      "name": "Old Hamam remains",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.6667,
+      "lon": 21.1664,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Agim Ramadani Street (Агим Рамадани)",
+      "id": "kosovo-1073c0d06300b74a7916"
+    },
+    {
+      "name": "Shadërvani Fountain",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.6658,
+      "lon": 21.16596,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Nazim Gafurri",
+      "id": "kosovo-950e0ac8113001e93200"
+    },
+    {
+      "name": "Clock Tower",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.666622,
+      "lon": 21.167046,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Rr. Ylfete Humolli",
+      "url": "http://dtk.rks-gov.net/tkk_objekti_en.aspx?id=8620",
+      "id": "kosovo-6ce6703b4605c4eebffc"
+    },
+    {
+      "name": "Academy Building",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.66647,
+      "lon": 21.16689,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Rr. Nazim Gafurri",
+      "url": "http://www.ashak.org/",
+      "id": "kosovo-f581bf3b677c0baaa114"
+    },
+    {
+      "name": "Association of Political Prisoners",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.66674,
+      "lon": 21.16672,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "id": "kosovo-9cffb4df39418bc84237"
+    },
+    {
+      "name": "Former Hotel Union building",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.6638,
+      "lon": 21.1645,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Bulevardi Nënë Tereza",
+      "id": "kosovo-3fbc5215ea56b9817edc"
+    },
+    {
+      "name": "Heroinat Memorial",
+      "kind": "do",
+      "locality": "Pristina",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "id": "kosovo-52a258ed312b2ec972a0"
+    },
+    {
+      "name": "Monument of Brotherhood and Unity",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.66594,
+      "lon": 21.16387,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Rr. Agim Ramadani",
+      "id": "kosovo-fd79894a22d5868c46b6"
+    },
+    {
+      "name": "Palace of Youth & Sports",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.6611,
+      "lon": 21.1572,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Rr. Luan Haradinaj",
+      "url": "http://www.pallatirinise.com/",
+      "id": "kosovo-187773076e4d6d3764a4"
+    },
+    {
+      "name": "Taukbashçe Park",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.66503,
+      "lon": 21.18188,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Nazim Gafurri Street",
+      "id": "kosovo-2c1bd5c9cceaa473d415"
+    },
+    {
+      "name": "Gërmia Park",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.673,
+      "lon": 21.195,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Dr. Shpëtim Robaj,",
+      "id": "kosovo-0a0bf92d362b68bbf698"
+    },
+    {
+      "name": "City Park",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.661831,
+      "lon": 21.168999,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "id": "kosovo-80d6f9f07cfe146e5353"
+    },
+    {
+      "name": "Arbëria Park",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.6674,
+      "lon": 21.151,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Street Stambolli and Tony Blair",
+      "id": "kosovo-1c2f52022ec084a430fd"
+    },
+    {
+      "name": "Independence Park",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.664,
+      "lon": 21.1648,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Agim Ramadani Street and Bulevardi Nënë Tereza",
+      "id": "kosovo-7b6a69bd5af25767c5bd"
+    },
+    {
+      "name": "Park of Martyrs",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.6585,
+      "lon": 21.1754,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Rr. Isa Kastrati (Mahalla e Muhaxherëve)",
+      "id": "kosovo-22912e8f1e0a94608628"
+    },
+    {
+      "name": "Jewish Cemetery",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.663196,
+      "lon": 21.180126,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "id": "kosovo-a1bab26b647017740de6"
+    },
+    {
+      "name": "Tjerrtorja Archeological Site",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.643741,
+      "lon": 21.140882,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "id": "kosovo-d9c07c6050cc9f9e3d94"
+    },
+    {
+      "name": "Bear Sanctuary Pristina",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.637948,
+      "lon": 21.260015,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Mramor village, near Badovc lake",
+      "price": "€2",
+      "url": "https://www.bearsanctuary-prishtina.org/",
+      "id": "kosovo-414b6d9c0d1e9ae4a1de"
+    },
+    {
+      "name": "Climb the Mother Teresa Cathedral",
+      "kind": "do",
+      "locality": "Pristina",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "price": "€1.50",
+      "id": "kosovo-9206afee8fb5a311d94a"
+    },
+    {
+      "name": "Walking tour",
+      "kind": "do",
+      "locality": "Pristina",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "id": "kosovo-cf38668cf97d77897252"
+    },
+    {
+      "name": "Korza",
+      "kind": "do",
+      "locality": "Pristina",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "id": "kosovo-6ff4e0b1c25af329c525"
+    },
+    {
+      "name": "National Theater of Kosovo",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.6633,
+      "lon": 21.1645,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Mother Theresa Square. (Sheshi Nëna Terezë) nr.21,",
+      "url": "http://www.teatrikombetar.eu/",
+      "id": "kosovo-61ac60e818da471a200d"
+    },
+    {
+      "name": "Dodona Theatre",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.65566,
+      "lon": 21.1661,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Rruga Xh. Mitrovica, pn",
+      "url": "http://www.dodona.org/",
+      "id": "kosovo-a8cd60bcae7403b467f1"
+    },
+    {
+      "name": "ODA Theatre",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.66116,
+      "lon": 21.15723,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Pallati i Rinisë dhe i Sporteve nr. 111 (Luan Haradinaj?)",
+      "url": "http://www.teatrioda.com/",
+      "id": "kosovo-b797d2094cc401f8a1f3"
+    },
+    {
+      "name": "National University Library of Kosovo",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.6575,
+      "lon": 21.1626,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "url": "https://biblioteka-ks.org/",
+      "id": "kosovo-96dd0d7d21497a32a814"
+    },
+    {
+      "name": "Sunny Hill Festival",
+      "kind": "do",
+      "locality": "Pristina",
+      "lat": 42.70652,
+      "lon": 21.124649,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Bërnicë e Poshtme village",
+      "url": "https://www.sunnyhillfestival.com/",
+      "id": "kosovo-bd0bb0897a8be6947cd0"
+    },
+    {
+      "name": "FemArt",
+      "kind": "do",
+      "locality": "Pristina",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "url": "http://femart-ks.com/",
+      "id": "kosovo-7e8cab802de149b09548"
+    },
+    {
+      "name": "Meeting of Styles",
+      "kind": "do",
+      "locality": "Pristina",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "url": "https://meetingofstyles.com/",
+      "id": "kosovo-8dd46793b2d5724a53a7"
+    },
+    {
+      "name": "ReMusica",
+      "kind": "do",
+      "locality": "Pristina",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "url": "http://www.remusicafestival.com/",
+      "id": "kosovo-65dd4b6ec410671f6e77"
+    },
+    {
+      "name": "Polip International Literature Festival Pristina",
+      "kind": "do",
+      "locality": "Pristina",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Sadik Bekteshi 53",
+      "url": "http://www.polipfestival.wordpress.com/",
+      "id": "kosovo-522b117284c8ffea16c7"
+    },
+    {
+      "name": "Aurora",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.65886,
+      "lon": 21.16016,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Xhorxh Bush",
+      "id": "kosovo-2851dbbc71f8fc5080a3"
+    },
+    {
+      "name": "City Bakery",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.66269,
+      "lon": 21.16263,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Përmendorja e Nënës Terezë?, Bulevardi Nënë Tereza, 41",
+      "url": "http://www.city-bakery.com/",
+      "id": "kosovo-5d22966a5ffcd63531e0"
+    },
+    {
+      "name": "Sarajevo Fast Food",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.66529,
+      "lon": 21.16224,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Andrea Grupa Street",
+      "id": "kosovo-8c42819067a268e03479"
+    },
+    {
+      "name": "Piccadilly – Burektore",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.66204825972081,
+      "lon": 21.165194,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "price": "€1.20",
+      "id": "kosovo-d64a6115f73d2d9c3a4f"
+    },
+    {
+      "name": "Burektore Dini",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.66687,
+      "lon": 21.16383,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "UÇK St.",
+      "price": "€2.3",
+      "id": "kosovo-ded369fee0159ba8bd14"
+    },
+    {
+      "name": "Qebaptore Tara",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.66614,
+      "lon": 21.166148,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Ibrahim Lutfiu St",
+      "price": "€3.0",
+      "id": "kosovo-7ce0e1697de36a0acf67"
+    },
+    {
+      "name": "Burektore Destan",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.661092,
+      "lon": 21.161484,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "id": "kosovo-6a89a87a2862a8c4c0e4"
+    },
+    {
+      "name": "Amadeus",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.66368,
+      "lon": 21.15367,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Ahmet Krasniqi",
+      "id": "kosovo-2ca754532465e44bd0da"
+    },
+    {
+      "name": "Liburnia Restaurant",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.66667,
+      "lon": 21.1634,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Rr.Meto Bajraktari",
+      "id": "kosovo-9e7d88d85487e035a4f2"
+    },
+    {
+      "name": "Gagi Restaurant",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.66351,
+      "lon": 21.1622,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "XK, 5 Fazli Grajqevci",
+      "url": "http://www.gagirestaurant.com/",
+      "id": "kosovo-abe72e3f5e69da6914e1"
+    },
+    {
+      "name": "Ciao",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.612,
+      "lon": 21.14194,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "price": "~€10",
+      "url": "https://www.tripadvisor.co.uk/Restaurant_Review-g295385-d1389864-Reviews-Ciao-Pristina.html",
+      "id": "kosovo-093263b95bc3ae284f41"
+    },
+    {
+      "name": "Princesha Gresa Restaurant",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.66515,
+      "lon": 21.15746,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Fehmi Agani 77, Te Qafa",
+      "id": "kosovo-4386af5366f687159f42"
+    },
+    {
+      "name": "Pinocchio restaurant and hotel",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.67047,
+      "lon": 21.15552,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Dragodan/Arberia neighbourhood, Rr.24 maj 115",
+      "id": "kosovo-a906e67f030fc6cbcba5"
+    },
+    {
+      "name": "Pi Shat",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.6647,
+      "lon": 21.146,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Dragodan neighbourhood",
+      "price": "A meal for two ~€30",
+      "id": "kosovo-0662570c2a20ee4d844c"
+    },
+    {
+      "name": "Rron Restaurant",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.62953,
+      "lon": 21.1574,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Veternik or Ravine district",
+      "url": "http://www.rron-ks.com/",
+      "id": "kosovo-e5845b5022fdcd2eab5d"
+    },
+    {
+      "name": "Restaurant Perla - Te Linda",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.6458,
+      "lon": 21.12438,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Lidhja e Pejes, nr, 177",
+      "url": "https://www.facebook.com/RestaurantPerla",
+      "id": "kosovo-fc385d7c3f0885acaaa4"
+    },
+    {
+      "name": "Tiffany Restaurant",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.66419,
+      "lon": 21.15783,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Enver Zymberi",
+      "id": "kosovo-7b9b15ee2f8249ed5666"
+    },
+    {
+      "name": "Rostiçeria Thana",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.66365,
+      "lon": 21.1645,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Scanderbeg Sq., Center",
+      "id": "kosovo-af510a4956ff003421ac"
+    },
+    {
+      "name": "Crust n Crumb",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.66513,
+      "lon": 21.16241,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Rr. Andrea Gropa",
+      "url": "http://www.crustandcrumb-ks.com/",
+      "id": "kosovo-b2d4f076a2c27cba2ad5"
+    },
+    {
+      "name": "Baba Ganoush",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.659947,
+      "lon": 21.159522,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "1000 Johan V. Hahn",
+      "id": "kosovo-18c5b530c7e5c22b2600"
+    },
+    {
+      "name": "Renaissance Restaurant",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.653767,
+      "lon": 21.157773,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "url": "https://www.facebook.com/Renaissancepristina/",
+      "id": "kosovo-3fa9487a7d738e8b023e"
+    },
+    {
+      "name": "Tartine Deli",
+      "kind": "eat",
+      "locality": "Pristina",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Fehmi Agani 87",
+      "url": "https://www.tartinedeli.com/",
+      "id": "kosovo-ee194e8556b1bcd54b39"
+    },
+    {
+      "name": "Matcha Coffee and Eatery",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.66464,
+      "lon": 21.15964,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Rr. Fazli Grajqevci 104",
+      "url": "https://matchacoffeeandeatery.business.site/",
+      "id": "kosovo-ad03d97081c8fdd17eee"
+    },
+    {
+      "name": "Soma Slow Food",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.668705711416024,
+      "lon": 21.218164,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Shpëtim Robaj st",
+      "id": "kosovo-8b26c61ea70d9efb9fe8"
+    },
+    {
+      "name": "Soma Book Station",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.66407,
+      "lon": 21.16256,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Rr. Fazli Grajçevci",
+      "url": "https://www.facebook.com/somabookstation",
+      "id": "kosovo-842277ec65dcb8f678f8"
+    },
+    {
+      "name": "Marcus Coffee Shop",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.66399,
+      "lon": 21.16614,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Rr. Bajram Kelmendi",
+      "url": "https://www.facebook.com/marcuscoffeekosova",
+      "id": "kosovo-d1805a14e5194acb6047"
+    },
+    {
+      "name": "Tillt Radio / Vinyl Bar",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.658,
+      "lon": 21.14753,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "url": "https://tilltradio.com/",
+      "id": "kosovo-1e13d97e8e8e17200107"
+    },
+    {
+      "name": "Pijetore Ulpianë",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.65293,
+      "lon": 21.16067,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "id": "kosovo-7e9ae237de19c278451b"
+    },
+    {
+      "name": "Miqt Pub",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.66483,
+      "lon": 21.15848,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Rr. Fehmi Agani",
+      "url": "https://www.facebook.com/MiqtPub/",
+      "id": "kosovo-bc7d9a17016ab3ef94ce"
+    },
+    {
+      "name": "Pristina Hackerspace Bar",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.65606,
+      "lon": 21.16963,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Rr. Ganimete Terbeshi No. 61 Aktash neighborhood",
+      "id": "kosovo-b7b655880c99e430e877"
+    },
+    {
+      "name": "Servis",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.66132,
+      "lon": 21.157055,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "url": "https://www.facebook.com/servisorg/",
+      "id": "kosovo-18e62475fc9e15846ff8"
+    },
+    {
+      "name": "Rockuzinë",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.66096,
+      "lon": 21.15255,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "url": "https://www.rockuzine.com/",
+      "id": "kosovo-0d5e1f05487f006f7965"
+    },
+    {
+      "name": "Zanzi Jazz Bar",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.66249,
+      "lon": 21.1625,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Fehmi Agani",
+      "url": "https://www.facebook.com/zanzijazzbar",
+      "id": "kosovo-882b8f0d4c2cd11f115a"
+    },
+    {
+      "name": "Zone Club",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.65133,
+      "lon": 21.12483,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "url": "https://www.facebook.com/zoneclubpr",
+      "id": "kosovo-fe9c70d72378d4e5872f"
+    },
+    {
+      "name": "Summer Warehouse",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.65107,
+      "lon": 21.12496,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Fushe Kosovo Industrial zone",
+      "id": "kosovo-575a8a54e285de022fb2"
+    },
+    {
+      "name": "13 Rooftop",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.65993,
+      "lon": 21.15989,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "url": "https://www.facebook.com/13rooftop/",
+      "id": "kosovo-3ef9425a5a94ed8ef76c"
+    },
+    {
+      "name": "Duplex Premium",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.66201,
+      "lon": 21.15623,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Luan Haradinaj",
+      "url": "https://www.facebook.com/DuplexClubPrishtinaOFFICIAL/",
+      "id": "kosovo-1918fd1b7b16b429ede4"
+    },
+    {
+      "name": "Defy Them",
+      "kind": "eat",
+      "locality": "Pristina",
+      "lat": 42.65015049386877,
+      "lon": 21.169995382402654,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "id": "kosovo-a8860e90f6ad6fbd8c89"
+    },
+    {
+      "name": "Hostel Pristina",
+      "kind": "stay",
+      "locality": "Pristina",
+      "lat": 42.662,
+      "lon": 21.16216,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Rexhep Luci?",
+      "price": "€8-12 per person per night",
+      "id": "kosovo-ae828d90f7045a0e4126"
+    },
+    {
+      "name": "Prishtina Center Hostel",
+      "kind": "stay",
+      "locality": "Pristina",
+      "lat": 42.66301,
+      "lon": 21.1631,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Boulevard Mother Theresa 18A/7",
+      "url": "https://www.prishtinacenterhostel.com/",
+      "id": "kosovo-0b315252704a5311afcd"
+    },
+    {
+      "name": "Oda Hostel",
+      "kind": "stay",
+      "locality": "Pristina",
+      "lat": 42.66284,
+      "lon": 21.16557,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "url": "https://www.facebook.com/hosteloda/",
+      "id": "kosovo-a5a67885ab0be947d5e2"
+    },
+    {
+      "name": "Velania Guesthouse",
+      "kind": "stay",
+      "locality": "Pristina",
+      "lat": 42.66109,
+      "lon": 21.17657,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "(Velania 4/34), 34 Emrush Miftari, Prishtinë",
+      "price": "€13-30",
+      "url": "http://www.guesthouse-ks.net/eng/vlersimet.html",
+      "id": "kosovo-d238be05e56c27c9ad84"
+    },
+    {
+      "name": "Hotel Afa",
+      "kind": "stay",
+      "locality": "Pristina",
+      "lat": 42.65707,
+      "lon": 21.16953,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Ali Kelmendi Nr. 15",
+      "price": "sgl €45-75, dbl €75-112",
+      "url": "http://www.hotelafa.com/",
+      "id": "kosovo-557dbb4615cae2601683"
+    },
+    {
+      "name": "Hotel Begolli",
+      "kind": "stay",
+      "locality": "Pristina",
+      "lat": 42.67106,
+      "lon": 21.16462,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Maliq Pashë Gjinolli",
+      "price": "sgl €50, dbl €65, apt €85-90 (2025)",
+      "url": "http://www.hotelbegolli.com/",
+      "id": "kosovo-a183f6690d39541bbc18"
+    },
+    {
+      "name": "Hotel Aldi",
+      "kind": "stay",
+      "locality": "Pristina",
+      "lat": 42.61602,
+      "lon": 21.14825,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Cagllavica nr. 303",
+      "price": "sgl €25-35 and dbl €45-55",
+      "url": "http://www.hotelaldi.com/",
+      "id": "kosovo-165052e157c42c9e17d4"
+    },
+    {
+      "name": "Hotel Princi i Arberit",
+      "kind": "stay",
+      "locality": "Pristina",
+      "lat": 42.7002,
+      "lon": 21.1635,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "27 Nëntori,",
+      "price": "sgl/dbl €40/50 suite €80-100",
+      "url": "http://www.hotelprinciiarberit.com/",
+      "id": "kosovo-253504e1a64001f64ac2"
+    },
+    {
+      "name": "Chalet Denis and Mumtaz Mahal",
+      "kind": "stay",
+      "locality": "Pristina",
+      "lat": 42.660474,
+      "lon": 21.148819,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Ahmet Krasniqi",
+      "url": "http://www.hotel-denis.com/",
+      "id": "kosovo-7c292dfacd9ab9412ec3"
+    },
+    {
+      "name": "Hotel Sara",
+      "kind": "stay",
+      "locality": "Pristina",
+      "lat": 42.6697,
+      "lon": 21.1639,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Maliq Pashë Gjinolli St",
+      "price": "Single €25; Double/twin €35; Triple €45; Suite €55",
+      "url": "http://hotel-sara.com/en/",
+      "id": "kosovo-ef6d0319dc4d3f998118"
+    },
+    {
+      "name": "Hotel Victory",
+      "kind": "stay",
+      "locality": "Pristina",
+      "lat": 42.64749,
+      "lon": 21.1553,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Mother Teresa, p.n",
+      "price": "€80",
+      "url": "http://www.hotel-victory.com/",
+      "id": "kosovo-9715cf0e780d8caf1509"
+    },
+    {
+      "name": "Hotel Sirius",
+      "kind": "stay",
+      "locality": "Pristina",
+      "lat": 42.6617,
+      "lon": 21.1652,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Agim Ramadani,",
+      "price": "sgl./dbl. €85/110",
+      "url": "http://www.hotelsirius.net/",
+      "id": "kosovo-fd7333f9e23f4e9a56e5"
+    },
+    {
+      "name": "Emerald Hotel",
+      "kind": "stay",
+      "locality": "Pristina",
+      "lat": 42.6197,
+      "lon": 21.1438,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "price": "€89 to 395",
+      "url": "http://www.emeraldhotel.info/",
+      "id": "kosovo-26dd2378eaec96922cf8"
+    },
+    {
+      "name": "Swiss Diamond Hotel Prishtina",
+      "kind": "stay",
+      "locality": "Pristina",
+      "lat": 42.66268,
+      "lon": 21.16386,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Mother Teresa Sq",
+      "url": "https://www.swissdiamondgroup.com/en/prishtina/index",
+      "id": "kosovo-1a3a70928f8ef5314871"
+    },
+    {
+      "name": "Four Points by Sheraton Prishtina City",
+      "kind": "stay",
+      "locality": "Pristina",
+      "lat": 42.584653,
+      "lon": 21.108735,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "California Street Nr 52, Marigona Residence, Preoc",
+      "url": "https://www.marriott.com/en-us/hotels/prnfp-four-points-prishtina-city/overview/",
+      "id": "kosovo-6de9c596c1c7c8f06898"
+    },
+    {
+      "name": "The White Tree",
+      "kind": "stay",
+      "locality": "Pristina",
+      "lat": 42.657095,
+      "lon": 21.154912,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Mujo Ulqinaku No. 59 (Peyton Neighborhood)",
+      "url": "https://ibe.channex.io/thewhitetree",
+      "id": "kosovo-dfe2bd73bc9795da6884"
+    },
+    {
+      "name": "Grand Hotel Pristina Unio Commerce",
+      "kind": "stay",
+      "locality": "Pristina",
+      "lat": 42.65987,
+      "lon": 21.16002,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Garibaldi",
+      "url": "http://www.grandhotel-pr.com/",
+      "id": "kosovo-7ce40af0613e386348b2"
+    },
+    {
+      "name": "City Inn",
+      "kind": "stay",
+      "locality": "Pristina",
+      "lat": 42.66393,
+      "lon": 21.16196,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Fazli Greiçevci 55",
+      "url": "http://cityinn-ks.com/",
+      "id": "kosovo-66a09f80490b07210c1d"
+    },
+    {
+      "name": "Mercure Prishtina City",
+      "kind": "stay",
+      "locality": "Pristina",
+      "lat": 42.66099,
+      "lon": 21.14119,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "15 Agron Berisha",
+      "url": "https://all.accor.com/hotel/B762/index.en.shtml",
+      "id": "kosovo-9429931cb6bdcaa5e964"
+    },
+    {
+      "name": "Hotel Garden",
+      "kind": "stay",
+      "locality": "Pristina",
+      "lat": 42.64859,
+      "lon": 21.14994,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Agim Çela No.1, Kalabria Neighbhorhood",
+      "url": "https://hotelgarden-ks.com/",
+      "id": "kosovo-c6e26334ab52b5d2d655"
+    },
+    {
+      "name": "Hotel Opera",
+      "kind": "stay",
+      "locality": "Pristina",
+      "lat": 42.66324,
+      "lon": 21.16186,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "5 Rrugë Fehmi Agani St",
+      "url": "https://hoteloperapr.com/",
+      "id": "kosovo-e536c47371809a85ea88"
+    },
+    {
+      "name": "Hotel Manami",
+      "kind": "stay",
+      "locality": "Pristina",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Fehmi Agani St. no. 2",
+      "id": "kosovo-443c02174ef840daa835"
+    },
+    {
+      "name": "Nartel Hotel",
+      "kind": "stay",
+      "locality": "Pristina",
+      "lat": 42.64859,
+      "lon": 21.14994,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Kalabria Bll B2 Llam B Prishtinë",
+      "url": "https://www.hotelnartel.com/en/Home",
+      "id": "kosovo-e32d8671befd73ccebc7"
+    },
+    {
+      "name": "Hotel Prishtina",
+      "kind": "stay",
+      "locality": "Pristina",
+      "lat": 42.65849,
+      "lon": 21.15659,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Rr. “Pashko Vasa” nr.20-Qyteza Pejton",
+      "url": "http://www.hotelprishtina.com/",
+      "id": "kosovo-4fff685f49ca115422bb"
+    },
+    {
+      "name": "Hotel Ora",
+      "kind": "stay",
+      "locality": "Pristina",
+      "lat": 42.66718,
+      "lon": 21.16248,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "address": "Rruga Anton Zako Çajupi 4",
+      "id": "kosovo-16d9062b72d4586e9883"
+    },
+    {
+      "name": "Hotel Ambassador",
+      "kind": "stay",
+      "locality": "Pristina",
+      "lat": 42.6596,
+      "lon": 21.1684,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "url": "http://www.hotel-ambasador.com/",
+      "id": "kosovo-bd627f85184b84b5995e"
+    },
+    {
+      "name": "Pristina",
+      "kind": "area",
+      "locality": "Pristina",
+      "lat": 42.6667,
+      "lon": 21.1667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pristina",
+      "id": "kosovo-0b571bc92e48b4377707"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

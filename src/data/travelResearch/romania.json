@@ -1,0 +1,1645 @@
+{
+  "sources": [
+    {
+      "title": "Romania",
+      "url": "https://en.wikivoyage.org/wiki/Romania",
+      "checkedAt": "2026-10-21T08:11:50.915Z"
+    },
+    {
+      "title": "Bucharest",
+      "url": "https://en.wikivoyage.org/wiki/Bucharest",
+      "checkedAt": "2026-10-21T08:11:53.436Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Bucharest",
+      "kind": "area",
+      "locality": "Romania",
+      "lat": 44.4325,
+      "lon": 26.103889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Romania",
+      "id": "romania-7e80a0f858f049d815e8"
+    },
+    {
+      "name": "Brașov",
+      "kind": "area",
+      "locality": "Romania",
+      "lat": 45.666667,
+      "lon": 25.616667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Romania",
+      "id": "romania-0c476dc406891e15dfab"
+    },
+    {
+      "name": "Cluj-Napoca",
+      "kind": "area",
+      "locality": "Romania",
+      "lat": 46.766667,
+      "lon": 23.583333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Romania",
+      "id": "romania-85787990b34448c858a6"
+    },
+    {
+      "name": "Constanța",
+      "kind": "area",
+      "locality": "Romania",
+      "lat": 44.166667,
+      "lon": 28.633333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Romania",
+      "id": "romania-4e2b300b0dc1262a2d60"
+    },
+    {
+      "name": "Iași",
+      "kind": "area",
+      "locality": "Romania",
+      "lat": 47.156944,
+      "lon": 27.590278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Romania",
+      "id": "romania-a1e8557570c68e9de533"
+    },
+    {
+      "name": "Sibiu",
+      "kind": "area",
+      "locality": "Romania",
+      "lat": 45.792778,
+      "lon": 24.151944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Romania",
+      "id": "romania-b459dc78d3741c9cf8ce"
+    },
+    {
+      "name": "Sighișoara",
+      "kind": "area",
+      "locality": "Romania",
+      "lat": 46.216944,
+      "lon": 24.791111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Romania",
+      "id": "romania-9d68506c21ad1a6e17e8"
+    },
+    {
+      "name": "Suceava",
+      "kind": "area",
+      "locality": "Romania",
+      "lat": 47.651389,
+      "lon": 26.255556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Romania",
+      "id": "romania-6d0911abf2518e22f85c"
+    },
+    {
+      "name": "Timișoara",
+      "kind": "area",
+      "locality": "Romania",
+      "lat": 45.759722,
+      "lon": 21.23,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Romania",
+      "id": "romania-5b75e5ae86e86160c5d3"
+    },
+    {
+      "name": "Palace of the Parliament",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.4275,
+      "lon": 26.0875,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "strada Izvor 2-4",
+      "url": "http://cic.cdep.ro/en/opening-hours-and-tariffs",
+      "id": "romania-ef11729ff890038aa7e1"
+    },
+    {
+      "name": "Old City",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.43123,
+      "lon": 26.10085,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "id": "romania-25876bddade8a08d85be"
+    },
+    {
+      "name": "Revolution Square",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.43856,
+      "lon": 26.0975,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "id": "romania-961428749d9e1caa144d"
+    },
+    {
+      "name": "Arch of Triumph",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.467278,
+      "lon": 26.078361,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Piața Arcul de Triumf",
+      "id": "romania-046297a8d66887cb4e75"
+    },
+    {
+      "name": "Romanian Atheneum",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.4414,
+      "lon": 26.0971,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "strada Benjamin Franklin, 1-3",
+      "url": "http://www.hotel-bucuresti.com/blog/2015/05/14/ateneul-roman-un-simbol-al-culturii-romanesti/",
+      "id": "romania-502217fb66004bc02efe"
+    },
+    {
+      "name": "Victory Square",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.4529,
+      "lon": 26.0858,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "id": "romania-89ea8e4e470962e33ca1"
+    },
+    {
+      "name": "National Art Museum",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.43978,
+      "lon": 26.09598,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Calea Victoriei, 49-53",
+      "url": "http://www.mnar.arts.ro/",
+      "id": "romania-c3b71d2e4f12407ed285"
+    },
+    {
+      "name": "Aviation Museum",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.4775,
+      "lon": 26.111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Fabrica de Glucoza (Șoseaua Fabrica de Glucoză) street, 4, in District 2",
+      "url": "http://www.roaf.ro/?page_id=854",
+      "id": "romania-7b5cf55bbf7f99cc4dcc"
+    },
+    {
+      "name": "National Museum of Contemporary Art",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.4284,
+      "lon": 26.0864,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Strada Izvor",
+      "price": "10 lei",
+      "url": "http://www.mnac.ro/",
+      "id": "romania-b3a5187b8cb042234757"
+    },
+    {
+      "name": "Curtea Veche Museum",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.430139,
+      "lon": 26.100944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Strada Franceză, nr. 25-31",
+      "url": "http://museum.ici.ro/mbucur/romanian/curteaveche.htm",
+      "id": "romania-248af994d4d2670635f2"
+    },
+    {
+      "name": "Cotroceni Palace Museum",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.434108,
+      "lon": 26.061669,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Bulevardul Geniului 1",
+      "url": "http://www.muzeulcotroceni.ro/",
+      "id": "romania-7d07030eca5d5fcfa326"
+    },
+    {
+      "name": "Firefighters Museum",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.4403,
+      "lon": 26.1205,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Bd. Ferdinand I, nr. 33 (Foișorul de Foc), sector 2",
+      "price": "Tram 14 to 'Bd. Pache Protopopescu'",
+      "url": "https://www.facebook.com/muzeulnationalalpompierilor/",
+      "id": "romania-4371b838ea91d46cbd03"
+    },
+    {
+      "name": "Village Museum",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.473361,
+      "lon": 26.076556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Șoseaua Pavel Dimitrievici Kiseleff, 28-30",
+      "price": "Adult 15 lei; pupils and students (with valid cards) 4 lei; pensioners and Euro 26 card holders 8 lei",
+      "url": "http://www.muzeul-satului.ro/",
+      "id": "romania-8ef7f3f992c557076afd"
+    },
+    {
+      "name": "Museum of the Romanian Peasant",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.454383,
+      "lon": 26.083678,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Șoseaua Kiseleff, 3",
+      "price": "12 lei for adults",
+      "url": "http://www.muzeultaranuluiroman.ro/",
+      "id": "romania-83953a18245306220ce3"
+    },
+    {
+      "name": "Geology Museum",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.454853,
+      "lon": 26.085411,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Șoseaua Pavel Dimitrievici Kiseleff, 2",
+      "price": "10 lei",
+      "url": "http://www.geology.ro/",
+      "id": "romania-16d44d5d6fd2937eeedd"
+    },
+    {
+      "name": "National History Museum",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.431531,
+      "lon": 26.097225,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Calea Victoriei, nr. 12",
+      "price": "10 lei",
+      "url": "http://www.mnir.ro/",
+      "id": "romania-35400bc4e5e693332168"
+    },
+    {
+      "name": "Nicolae Minovici Folk Art Museum",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.48417,
+      "lon": 26.07444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Strada dr. Nicolae Minovici 3",
+      "url": "http://www.minovici.ro/index.php?option=com_content&task=view&id=4",
+      "id": "romania-6304a7b9a83720b5ca36"
+    },
+    {
+      "name": "Military History Museum",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.441364,
+      "lon": 26.076393,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Strada Mircea Vulcănescu, 125-127",
+      "price": "20 lei",
+      "url": "http://muzeumilitar.defense.ro/",
+      "id": "romania-1955c77535331aabbdba"
+    },
+    {
+      "name": "National Museum of Romanian Literature",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.446099,
+      "lon": 26.093099,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Bulevardul Dacia nr. 12, sector 1",
+      "url": "http://mnlr.ro/",
+      "id": "romania-535fb4e442ca106fa236"
+    },
+    {
+      "name": "D. Minovici Western European Arts Museum",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.484256,
+      "lon": 26.074651,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "strada N. Minovici, nr.3",
+      "id": "romania-09eed812f255dde1cd5d"
+    },
+    {
+      "name": "Frederic and Cecilia Cuțescu-Storck Art Museum",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.451,
+      "lon": 26.094,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Str. Vasile Alecsandri nr.16, sector 1",
+      "url": "https://muzeulbucurestiului.ro/en/the-frederic-storck-and-cecilia-cutescu-storck-museum.html",
+      "id": "romania-a8df66e601655ce95e09"
+    },
+    {
+      "name": "Railways Museum",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.44836,
+      "lon": 26.072965,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Calea Griviței, nr. 139B",
+      "url": "http://www.cenafer.ro/",
+      "id": "romania-c53e389b5863198c34e5"
+    },
+    {
+      "name": "National Museum of \"George Enescu\"",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.4488,
+      "lon": 26.0884,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Strada Gheorghe Manu, 141",
+      "price": "Adults 6 lei, seniors 2 lei, students 1.5 lei",
+      "url": "http://www.georgeenescu.ro/",
+      "id": "romania-e4212fd0c50891df48d0"
+    },
+    {
+      "name": "National Philatelic Museum",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.4325,
+      "lon": 26.0974,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Calea Victoriei, nr. 12",
+      "url": "https://www.facebook.com/MNFilatelic/",
+      "id": "romania-0a59509fcc25009e624a"
+    },
+    {
+      "name": "Museum of Mary and Dr. G. Severeanu",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.447315,
+      "lon": 26.092963,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Strada Henri Coandă (fostă I.C. Frimu) nr. 26, sector 1",
+      "price": "6 lei",
+      "id": "romania-2b0a40569ae6ea2d4279"
+    },
+    {
+      "name": "Bucharest History Museum",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.4348,
+      "lon": 26.1022,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Bulevardul Ion C. Brătianu. 2",
+      "price": "10 lei and 15 lei extra to take photos (not worth it)",
+      "url": "http://www.muzeulbucurestiului.ro/",
+      "id": "romania-e22bc3d3e40153281210"
+    },
+    {
+      "name": "National Museum of Antiquities",
+      "kind": "do",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "url": "http://www.instarhparvan.ro/mna.htm",
+      "id": "romania-e20408d0c261be55ce04"
+    },
+    {
+      "name": "National Museum of Old Maps and Books",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.456947,
+      "lon": 26.092831,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Str. Londra nr. 39, sector 1",
+      "price": "10 lei / 2,5 lei for students",
+      "url": "http://www.muzeulhartilor.ro/",
+      "id": "romania-36517e1d2c96f3dfcaeb"
+    },
+    {
+      "name": "Jewish Community History Museum",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.428492,
+      "lon": 26.108089,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Strada Mămulari, nr. 3",
+      "price": "Donation",
+      "id": "romania-ccbc4a4b1109967f4ab5"
+    },
+    {
+      "name": "Grigore Antipa Natural History Museum",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.4531,
+      "lon": 26.0846,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Șoseaua Kiseleff, nr. 1",
+      "url": "http://www.antipa.ro/",
+      "id": "romania-dad8fa52dc6252b8606b"
+    },
+    {
+      "name": "“Dimitrie Leonida” Technology Museum",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.41769,
+      "lon": 26.09617,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "url": "http://www.mnt-leonida.ro/_start0.html",
+      "id": "romania-59430172965485387213"
+    },
+    {
+      "name": "Primăveri Palace",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.46917,
+      "lon": 26.09241,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "price": "50 lei",
+      "url": "http://casaceausescu.ro/",
+      "id": "romania-a86df7a2d44a69914239"
+    },
+    {
+      "name": "Museum of Recent Art (MARe)",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.46784,
+      "lon": 26.08919,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Bulevardul Primăverii 15",
+      "url": "http://www.mare.ro/",
+      "id": "romania-f085d3c2f80ca95688e8"
+    },
+    {
+      "name": "Sala Dalles",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.438315,
+      "lon": 26.101302,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "url": "http://www.dallesrevolution.ro/",
+      "id": "romania-71525984b08e2881a60d"
+    },
+    {
+      "name": "Curtea Veche Church",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.430133,
+      "lon": 26.102014,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Strada Covaci and Strada Franceză, sector 3",
+      "id": "romania-d1bfb31a6119b1e8bb45"
+    },
+    {
+      "name": "Patriarchal Cathedral",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.42457,
+      "lon": 26.09782,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Strada Patriarhiei",
+      "id": "romania-be66b8ffb37ba877500a"
+    },
+    {
+      "name": "Stavropoleos Church",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.431742,
+      "lon": 26.098789,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Strada Stavropoleo/Strada Poștei nr. 6, sector 3",
+      "url": "http://www.stavropoleos.ro/en",
+      "id": "romania-f9861ade606de95fb087"
+    },
+    {
+      "name": "Colțea Church",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.434658,
+      "lon": 26.102556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Bulevardul Ion C. Brătianu 1",
+      "id": "romania-9b6f527bfe80880d4d9c"
+    },
+    {
+      "name": "New St. George Church",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.4327,
+      "lon": 26.1037,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Bulevardul Brătianu I. C. 49, sector 3",
+      "id": "romania-373de3fb20cbca4ba76f"
+    },
+    {
+      "name": "Kretzulescu Church",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.438086,
+      "lon": 26.096639,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Calea Victoriei, 45",
+      "url": "http://www.stavropoleos.ro/",
+      "id": "romania-26c0ba74964182511182"
+    },
+    {
+      "name": "Plumbuita Monastery",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.47223,
+      "lon": 26.13521,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "off Șoseaua Colentina, Str. Plumbuita nr. 58, sector 2",
+      "url": "http://www.manastirea-plumbuita.ro/",
+      "id": "romania-0d4f2c89313038c33310"
+    },
+    {
+      "name": "Oțetari Church",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.447411,
+      "lon": 26.107204,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "4, Strada Oțetari",
+      "url": "http://urbo.ro/biserici/biserica-otetari-69107",
+      "id": "romania-d14c179eb9da9a862c1a"
+    },
+    {
+      "name": "Great Synagogue of Bucharest",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.42952,
+      "lon": 26.10861,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Strada Vasile Adamache 11",
+      "url": "http://www.biserici.org/index.php?menu=BIB3&code=4143&criteria=&quick=&order=P.TOWN,C.NAME,P.NAME",
+      "id": "romania-1768078bbe12ee4766f7"
+    },
+    {
+      "name": "All Saints' Antim Monastery",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.42629,
+      "lon": 26.09402,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Strada Mitropolit Antim Ivireanul 29, București 030167",
+      "price": "Free",
+      "url": "http://manastireaantim.ro/",
+      "id": "romania-5f44a93697d605165aac"
+    },
+    {
+      "name": "Therme București",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.6046379,
+      "lon": 26.0825427,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "url": "http://www.therme.ro/",
+      "id": "romania-baa0eac37d47c54a1d39"
+    },
+    {
+      "name": "Cișmigiu Garden",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.437136,
+      "lon": 26.090597,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "id": "romania-a506ee50e01c5aaa2e55"
+    },
+    {
+      "name": "Herăstrău Park",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.47921,
+      "lon": 26.08169,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "url": "http://www.herastrauparc.ro/",
+      "id": "romania-3b517b4576d7d5dede55"
+    },
+    {
+      "name": "Botanical Gardens",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.4379,
+      "lon": 26.063647,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "price": "10 Lei",
+      "id": "romania-cbf80f9cc81e02b01457"
+    },
+    {
+      "name": "Carol Park",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.4275,
+      "lon": 26.087222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "id": "romania-f29b366464dc0be2aba3"
+    },
+    {
+      "name": "Tineretului Park",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.4075,
+      "lon": 26.1056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "id": "romania-dcb05783a2976bca82a3"
+    },
+    {
+      "name": "Titan Park",
+      "kind": "do",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "id": "romania-3fcf820ad015a7d7b9b2"
+    },
+    {
+      "name": "Opera Națională",
+      "kind": "do",
+      "locality": "Bucharest",
+      "lat": 44.436046,
+      "lon": 26.07958,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Bulevardul Mihail Kogălniceanu nr. 70-72",
+      "price": "5-64 lei",
+      "url": "http://operanb.ro/",
+      "id": "romania-9a619071995fa107dbcb"
+    },
+    {
+      "name": "Filarmonica George Enescu",
+      "kind": "do",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Strada B. Franklin nr. 1-3",
+      "url": "http://fge.org.ro/en/",
+      "id": "romania-bec970c2901f2a30a3b7"
+    },
+    {
+      "name": "Teatrul Național de Operetă Ion Dacian",
+      "kind": "do",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Bulevardul Nicolae Bălcescu nr.2",
+      "url": "http://www.opereta.ro/",
+      "id": "romania-ef89a3d5a7a641fb6a8d"
+    },
+    {
+      "name": "Sala Radio",
+      "kind": "do",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Str. General Berthelot, Nr. 60-64",
+      "price": "Price is around EUR 7",
+      "url": "http://www.orchestreradio.ro/",
+      "id": "romania-fe5a2f39b13d7e3e2e3e"
+    },
+    {
+      "name": "Cinemateca Română",
+      "kind": "do",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "strada Eforie nr. 2",
+      "id": "romania-de316ea9e1ccc8261f3c"
+    },
+    {
+      "name": "Noul cinematograf al regizorului roman",
+      "kind": "do",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "strada Intrarea Monetăriei nr. 3",
+      "price": "10 lei",
+      "url": "https://m.facebook.com/AsociatiaMacondo/",
+      "id": "romania-601abe47a365208046c7"
+    },
+    {
+      "name": "Eurocinema",
+      "kind": "do",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "strada Johann Gutenberg nr. 19",
+      "price": "10 lei",
+      "id": "romania-9f6842eefe37f746aa29"
+    },
+    {
+      "name": "Europa",
+      "kind": "do",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Calea Moșilor nr. 127",
+      "id": "romania-81ad7f163a78691dfafa"
+    },
+    {
+      "name": "Cinema Elvira Popescu",
+      "kind": "do",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Bulevardul Dacia nr. 77",
+      "price": "20 lei, carnet of 5 tickets: 70 lei, children under 12: 10 lei",
+      "url": "https://eventbook.ro/hall/cinema-elvire-popesco",
+      "id": "romania-26910319de64299e3c7e"
+    },
+    {
+      "name": "Cinema City",
+      "kind": "do",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Bulevardul Vasile Milea nr. 4",
+      "price": "21-60 lei",
+      "url": "http://www.cinemacity.ro/",
+      "id": "romania-43ba6e75ddf94fb989e5"
+    },
+    {
+      "name": "Hollywood Multiplex",
+      "kind": "do",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Calea Vitan nr. 55-59",
+      "price": "22-35 lei",
+      "url": "http://www.hmultiplex.ro/",
+      "id": "romania-dfa4663c5aa35fe3f51a"
+    },
+    {
+      "name": "Movieplex",
+      "kind": "do",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Bulevardul Timișoara nr. 26",
+      "price": "15-45 lei",
+      "url": "http://www.movieplex.ro/?visLang=2",
+      "id": "romania-f5f2e9b7ebcdf8eade63"
+    },
+    {
+      "name": "Patria",
+      "kind": "do",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Bulevardul Gh. Magheru nr. 12-14",
+      "id": "romania-7c35a602b857d9806383"
+    },
+    {
+      "name": "Scala",
+      "kind": "do",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Bulevardul Gh. Magheru nr. 2-4",
+      "id": "romania-ec538cb15252ac2c0d0e"
+    },
+    {
+      "name": "CinemaPro",
+      "kind": "do",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "strada Ion Ghica nr. 3",
+      "price": "14-24 lei",
+      "url": "http://www.cinemapro.ro/",
+      "id": "romania-984b55fc205b8e0789b2"
+    },
+    {
+      "name": "Kanteen 162",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "lat": 44.432736,
+      "lon": 26.097828,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Strada Lipscani 19",
+      "id": "romania-7e348a2d143250fba276"
+    },
+    {
+      "name": "LUCA",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "id": "romania-cabc896fce6e1df0e592"
+    },
+    {
+      "name": "SC Argentin Impex LLC",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "lat": 44.4324818,
+      "lon": 26.1020562,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Strada Blănari nr 11-13",
+      "id": "romania-ec290aace3aaf951791b"
+    },
+    {
+      "name": "Bodega \"La Mahala\"",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "lat": 44.430556,
+      "lon": 26.10173,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Strada Covaci 8",
+      "id": "romania-f2f479f3eecc506a54f8"
+    },
+    {
+      "name": "Cuptorul cu lemne",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "lat": 44.4398521,
+      "lon": 26.1253089,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Bulevardul Pache Protopopescu 63",
+      "url": "http://www.cuptorulculemne.com/",
+      "id": "romania-e18c25cfc74d3f431b3e"
+    },
+    {
+      "name": "Locanta Jaristea",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "lat": 44.4236939,
+      "lon": 26.0919664,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Strada George Georgescu 50-52",
+      "url": "http://www.jaristea.ro/",
+      "id": "romania-f31c5e6f5683fbf89de8"
+    },
+    {
+      "name": "Rossetya 2.0",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "lat": 44.4361475,
+      "lon": 26.1062528,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "9 Str Dimitrie Bolintineanu",
+      "id": "romania-77c38ea03694496c1fe2"
+    },
+    {
+      "name": "Trattoria Il Calcio Universitate",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "lat": 44.434299,
+      "lon": 26.101919,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Strada Ion Ghica 6",
+      "url": "http://trattoriailcalcio.ro/centrul-vechi-2/",
+      "id": "romania-72d78e4830709b425405"
+    },
+    {
+      "name": "Restaurant Hanu' lui Manuc",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "lat": 44.429556,
+      "lon": 26.10205,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Str. Franceza nr. 62-64",
+      "url": "http://www.hanulluimanuc.ro/",
+      "id": "romania-affeb6b840485ddbf054"
+    },
+    {
+      "name": "Caru' cu Bere",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "lat": 44.4321,
+      "lon": 26.0981,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Strada Stavropoleos 5",
+      "price": "Student menu for 14,50 lei (Aug 2018)",
+      "id": "romania-e1e00caf70c093fa530b"
+    },
+    {
+      "name": "Trattoria Buongiorno",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Str Franceza 52",
+      "url": "http://www.trattoriabuongiorno.ro/",
+      "id": "romania-353fc80e42297db8b3ef"
+    },
+    {
+      "name": "Taj Indian Cuisine",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Sector 5, București",
+      "url": "http://www.tajrestaurant.ro/",
+      "id": "romania-5cc8ad348a712c36471c"
+    },
+    {
+      "name": "Il Bocconcino - Restaurant si livrare Popesti-Leordeni",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "lat": 44.377767,
+      "lon": 26.164556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Strada Mirăslău nr. 26, Popești-Leordeni 077160",
+      "price": "20 - 80",
+      "url": "http://www.ilbocconcino.ro/",
+      "id": "romania-96b0106aca63e25a3b1b"
+    },
+    {
+      "name": "Kanpai",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "lat": 44.462138,
+      "lon": 26.0992797,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "str. George Călinescu 49",
+      "id": "romania-8bf2c633eb7b14e86690"
+    },
+    {
+      "name": "Lacrimi și Sfinți",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "lat": 44.4305697,
+      "lon": 26.1028954,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Șepcari 16",
+      "url": "http://www.lacrimisisfinti.com/",
+      "id": "romania-48a4641235cae54ff39a"
+    },
+    {
+      "name": "Pâine și Vin",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "lat": 44.4333624,
+      "lon": 26.09487,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "url": "http://www.painesivin.ro/",
+      "id": "romania-f7658f12ff54e40d3f07"
+    },
+    {
+      "name": "Beca's Kitchen",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "lat": 44.447688,
+      "lon": 26.1037267,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "url": "http://www.becaskitchen.ro/",
+      "id": "romania-7cf5aa6c69dc09d6ea77"
+    },
+    {
+      "name": "Casa di David",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Soseaua Nordului nr. 7-9",
+      "id": "romania-ce336b1b3dde3112a93d"
+    },
+    {
+      "name": "Mahala",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "lat": 44.4217675,
+      "lon": 26.0876499,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Calea Rahovei 147-153",
+      "url": "http://www.restaurant-mahala.ro/",
+      "id": "romania-6433e17d330ed9f96834"
+    },
+    {
+      "name": "Red Angus Steakhouse",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "87th Nicolae Caramfil Blvd",
+      "url": "http://www.redangus.ro/",
+      "id": "romania-48a566c5f522966e3772"
+    },
+    {
+      "name": "the ARTIST Restaurant",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "lat": 44.4300155,
+      "lon": 26.097585,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Calea Victoriei 147",
+      "url": "http://theartist.ro/",
+      "id": "romania-0203f9afa87f90f4df47"
+    },
+    {
+      "name": "1974 Niște Domni și Fiii",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "lat": 44.4307844,
+      "lon": 26.1019034,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "id": "romania-40bd656909cbe1fc7214"
+    },
+    {
+      "name": "Absintherie Sixtină",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Covaci 6, 1st floor",
+      "id": "romania-468c2927fd140cc6937d"
+    },
+    {
+      "name": "Beer O'Clock",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Gabroveni 4 and Villacrosse passage (near Police Department)",
+      "id": "romania-7bdc14fd8d122c166828"
+    },
+    {
+      "name": "Camera din Față",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "lat": 44.4442369,
+      "lon": 26.0966255,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "url": "http://cameradinfata.ro/",
+      "id": "romania-f1d2862760b8b6b729ed"
+    },
+    {
+      "name": "Curtea berarilor",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Selari 9-11",
+      "url": "http://curteaberarilor.com/",
+      "id": "romania-af28a77ee820ee37075f"
+    },
+    {
+      "name": "Energiea",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "lat": 44.4332904,
+      "lon": 26.094903,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "url": "http://energiea.ro/",
+      "id": "romania-ac7f3018bd663db65f59"
+    },
+    {
+      "name": "Ganesha Cafe",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "lat": 44.4569453,
+      "lon": 26.105714,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "id": "romania-8aac0fde7595da713034"
+    },
+    {
+      "name": "Green Hours",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Calea Victoriei 120",
+      "id": "romania-59fbdb10fc343cefce8a"
+    },
+    {
+      "name": "Interbelic",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Intrarea Selari 1A",
+      "url": "http://www.interbelic.ro/",
+      "id": "romania-02502310a8170c3795da"
+    },
+    {
+      "name": "Origo",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "lat": 44.4332107,
+      "lon": 26.0952613,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "url": "http://origocoffee.ro/",
+      "id": "romania-b3c29e74a399b8c31adc"
+    },
+    {
+      "name": "Piua Book Bar",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "lat": 44.4444205,
+      "lon": 26.101118,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "id": "romania-27533daecaf04a7d27b6"
+    },
+    {
+      "name": "BEAT bar umanist",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Strada Robescu F. Constantin 14",
+      "id": "romania-f9b1353557fb8e845b23"
+    },
+    {
+      "name": "Hard Rock Cafe",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "32 Kiseleff Avenue",
+      "id": "romania-3269bb27990c0ada157b"
+    },
+    {
+      "name": "Mancave",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Economu Cezarescu 61",
+      "url": "https://themancave.ro/",
+      "id": "romania-dc34b74c340ecd2a5463"
+    },
+    {
+      "name": "Bamboo",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Str. Ramuri Tei 39",
+      "id": "romania-cf221cae5a8a556b91fa"
+    },
+    {
+      "name": "Cafe Hazard",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Barației",
+      "id": "romania-deceb320474f2b04d8cb"
+    },
+    {
+      "name": "Gaia",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Strada Tarmului, nr. 19",
+      "id": "romania-a24bfa0b1342dd237a68"
+    },
+    {
+      "name": "Club A",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Strada Blănari 14",
+      "url": "https://www.facebook.com/ClubA.Bucuresti/",
+      "id": "romania-a9f88fb4c220d484fcd1"
+    },
+    {
+      "name": "Control Club",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Str. Academiei nr.19",
+      "url": "http://www.control-club.ro/",
+      "id": "romania-144c3586952c01dab2a1"
+    },
+    {
+      "name": "Expirat/OtherSide",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Str. Lipscani nr. 5/Str. Brezoianu nr. 4",
+      "url": "http://www.expirat.org/",
+      "id": "romania-882af9a6211f8786f50c"
+    },
+    {
+      "name": "Fire Club",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "url": "http://www.fire.ro/",
+      "id": "romania-4cf49131fcd632fa4056"
+    },
+    {
+      "name": "Fratelli",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Str. Nicolae Golescu 5",
+      "url": "http://www.fratelli.ro/",
+      "id": "romania-a9daa415ab378abd7c0b"
+    },
+    {
+      "name": "Kulturhaus",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Str. Sf. Vineri nr.4",
+      "url": "http://www.kulturhaus.ro/",
+      "id": "romania-55f814e531fe196092ef"
+    },
+    {
+      "name": "Queen’s Club",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Be. Carol I, nr. 61",
+      "price": "Entry 20 lei, but that includes 10 lei worth of drinks at the bar",
+      "url": "http://www.facebook.com/queensclubbucharest.ro",
+      "id": "romania-fcf13fb0670cd23a3e43"
+    },
+    {
+      "name": "Underworld",
+      "kind": "eat",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Str. Colței, nr. 48",
+      "url": "http://www.facebook.com/underworld.ro/",
+      "id": "romania-caa758e3c86acd3e84df"
+    },
+    {
+      "name": "Apartamente Regim Hotelier Bucuresti",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "lat": 44.434515,
+      "lon": 26.099674,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Strada Academiei 4, Bucuresti",
+      "price": "EUR 40",
+      "url": "https://www.apartamente-hotelier-bucuresti.ro/",
+      "id": "romania-5fa8c3fe5aa9c7fd43a0"
+    },
+    {
+      "name": "Short Term Apartments Rental",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "lat": 44.433811,
+      "lon": 26.099421,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Strada Doamnei 7-9",
+      "price": "EUR 40",
+      "url": "https://www.short-term-apartments.ro/",
+      "id": "romania-b05c4ce82a8696ec2742"
+    },
+    {
+      "name": "Camping Casa Alba",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "lat": 44.5174134,
+      "lon": 26.0921666,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Aleea Privighetorilor 1-3",
+      "id": "romania-1b7baf8b8edb814636e3"
+    },
+    {
+      "name": "Butterfly Villa Hostel",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Str. Știrbei Vodă 96",
+      "price": "From EUR 12/night",
+      "id": "romania-14378d7e9d1937003f7a"
+    },
+    {
+      "name": "Midland Hostel",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Str Biserica Amzei no 22",
+      "price": "from EUR 8/night",
+      "url": "http://www.themidlandhostel.com/",
+      "id": "romania-86c48cde67c8f5596bdc"
+    },
+    {
+      "name": "Vila Gabriela",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Str. Mărgăritarului 18, Vila A 104, Otopeni",
+      "price": "B&B double room (shared toilet) EUR 25/night; en suite EUR 35",
+      "id": "romania-7698eda9fa1fb2450d91"
+    },
+    {
+      "name": "Zen Tribe Hostel",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "lat": 44.4493764,
+      "lon": 26.1147372,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Strada Radu de la Afumați 12B, București 020667",
+      "price": "From EUR 9/night",
+      "id": "romania-ac0613c2f037e80d2c61"
+    },
+    {
+      "name": "Carpați",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "str. Matei Millo nr. 16",
+      "price": "EUR 40-85/night",
+      "url": "http://www.bucuresti.imparatulromanilor.ro/",
+      "id": "romania-53d2822dc23ce2fa14f4"
+    },
+    {
+      "name": "Hotel Andy",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "2 Witting St, district 1",
+      "price": "From EUR 48/night",
+      "url": "http://www.andyhotels.ro/",
+      "id": "romania-c8a1ac9cfe90cb9c34c9"
+    },
+    {
+      "name": "Hello Hotels",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "lat": 44.44608,
+      "lon": 26.078528,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Calea Grivitei 143, district 1",
+      "price": "EUR 33/night",
+      "url": "http://www.continentalhotels.ro/",
+      "id": "romania-c8f92b931ef03dbcc5d4"
+    },
+    {
+      "name": "Vienna House Easy",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "lat": 44.56787,
+      "lon": 26.06907,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "283 Calea Bucurestilor",
+      "price": "from EUR 95/night",
+      "url": "https://www.wyndhamhotels.com/vienna-house/otopeni-romania/vienna-house-easy-airport-bucharest/overview",
+      "id": "romania-bbac7c4e84440c273e32"
+    },
+    {
+      "name": "Hilton Garden Inn Bucharest Airport",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "lat": 44.57422,
+      "lon": 26.0761,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "price": "€80",
+      "url": "https://www.hilton.com/en/hotels/buhchgi-hilton-garden-inn-bucharest-airport/",
+      "id": "romania-95517a073e8975e81ce5"
+    },
+    {
+      "name": "Ambasador",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "8 Bvd General Gheorghe Magheru",
+      "price": "Single from EUR 50, double from EUR 60/night, breakfast included",
+      "url": "http://www.ambasador.ro/",
+      "id": "romania-f39ea83c385e7cbb5fd4"
+    },
+    {
+      "name": "Alia Accommodation Bucharest",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "18 Nicolae Balcescu",
+      "price": "EUR 30-65/night",
+      "id": "romania-5482084a1c30883f071c"
+    },
+    {
+      "name": "Arkadia Apartments",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "lat": 44.50176,
+      "lon": 26.058018,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Strada Petre S. Aurelian 10, Sector 1",
+      "price": "from 356 lei/night, plus tourist tax",
+      "url": "https://arkadia.apartments/en/",
+      "id": "romania-c7915a6b32ba584f7cde"
+    },
+    {
+      "name": "Capitol",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Calea Victoriei 29",
+      "price": "EUR 55-75/night",
+      "url": "http://www.hotelcapitol.ro/",
+      "id": "romania-31e7dcd8ce61bde0ae74"
+    },
+    {
+      "name": "Casa Victor",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Str. Emanoil Porumbaru nr. 44",
+      "price": "EUR 55-140/night",
+      "url": "https://www.hotelcasavictor.ro/",
+      "id": "romania-68acf60d96a1eab6fe14"
+    },
+    {
+      "name": "Class Hotel",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "30A Garlei St.",
+      "price": "EUR 60",
+      "url": "http://www.class-hotel.ro/",
+      "id": "romania-6f1691bceccbe19356ff"
+    },
+    {
+      "name": "Crowne Plaza",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Bvd Poligrafiei nr. 1",
+      "price": "from EUR 80/night",
+      "url": "http://www.ihg.com/",
+      "id": "romania-6ab28698c2202c0e69cd"
+    },
+    {
+      "name": "Dalin Hotel",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "70 Bvd Marasesti",
+      "price": "EUR 50-60/night",
+      "url": "http://www.hoteldalin.ro/",
+      "id": "romania-3840defc5770826e8d0a"
+    },
+    {
+      "name": "Ibis Gara de Nord",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Calea Grivitei nr. 143",
+      "price": "from EUR 45/night",
+      "url": "http://www.accorhotels.com/",
+      "id": "romania-87305809116e0ea882d0"
+    },
+    {
+      "name": "K+K Hotel Elisabeta",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Str. Slanic 26",
+      "url": "http://www.kkhotels.com/",
+      "id": "romania-f718888caa08359ad22b"
+    },
+    {
+      "name": "Le Boutique Hotel Moxa",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "4 Mihail Moxa St",
+      "price": "EUR 80-110/night",
+      "url": "http://www.hotelmoxa.ro/",
+      "id": "romania-86e0faffa080a84a9314"
+    },
+    {
+      "name": "NH Bucharest",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Bulevardul Mircea Voda, 21",
+      "price": "Rooms from EUR 65/night",
+      "url": "http://www.nh-hotels.com/",
+      "id": "romania-213dd1633d32b2b8f581"
+    },
+    {
+      "name": "Novotel",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Calea Victoriei nr. 37B",
+      "price": "From EUR 60/night",
+      "url": "http://www.accorhotels.com/",
+      "id": "romania-d8dcd94665f944de9d9a"
+    },
+    {
+      "name": "Ramada Majestic",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Calea Victoriei nr. 38-40",
+      "price": "EUR 80-180/night",
+      "url": "http://www.wyndhamhotels.com/",
+      "id": "romania-c2aa5b4bbd7c4b574e6e"
+    },
+    {
+      "name": "Rin Airport Hotel",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Calea Bucurestilor 255A Otopeni",
+      "url": "http://airport.rinhotels.ro/",
+      "id": "romania-5bdb4715ea1393fe1d42"
+    },
+    {
+      "name": "Rin Central",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "lat": 44.430035,
+      "lon": 26.120161,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Str Traian 55",
+      "price": "EUR 60/night",
+      "url": "http://rinhotels.ro/",
+      "id": "romania-49f8eacd764f4571c275"
+    },
+    {
+      "name": "Hotel Siqua",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Calea Plevnei nr. 59A",
+      "price": "from EUR 75/night (tax and breakfast included)",
+      "url": "http://www.hotelsiqua.ro/",
+      "id": "romania-c9c99551b60fa8dd51c1"
+    },
+    {
+      "name": "Hotel Corvaris",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "lat": 44.389265,
+      "lon": 26.132225,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Soseaua Oltenitei 125",
+      "price": "from EUR 50/night",
+      "url": "https://www.hotelcorvaris.ro/",
+      "id": "romania-95df6415498f2bccc004"
+    },
+    {
+      "name": "Carol Parc Hotel",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Str. Aleea Suter 23-25",
+      "id": "romania-3730fe3c56f7dce7634e"
+    },
+    {
+      "name": "Epoque",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "17C Intrarea Aurora 010213",
+      "url": "http://www.epoque.ro/",
+      "id": "romania-87aa93f247bfb7b80e6a"
+    },
+    {
+      "name": "Europa Royale",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Str Franceza 60",
+      "url": "http://www.europaroyalebucharest.com/",
+      "id": "romania-5105ef419074cdb648f0"
+    },
+    {
+      "name": "Intercontinental Athénée Palace",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "str. Episcopiei nr. 1-3",
+      "url": "https://atheneepalace.intercontinental.com/",
+      "id": "romania-b06d7d2678399b01296c"
+    },
+    {
+      "name": "Sheraton Bucharest Hotel",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "lat": 44.4464349,
+      "lon": 26.0967259,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Calea Dorobanților 5-7",
+      "url": "https://www.marriott.com/hotels/travel/buhsi-sheraton-bucharest-hotel/",
+      "id": "romania-7d944b130e656a6e9160"
+    },
+    {
+      "name": "Grand Hotel Bucharest",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Blvd. Nicolae Bălcescu nr. 4",
+      "url": "http://www.ihg.com/",
+      "id": "romania-81825e127717b55de41d"
+    },
+    {
+      "name": "JW Marriott Bucharest Grand",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Calea 13 Septembrie nr. 90",
+      "url": "https://www.marriott.com/BUHRO",
+      "id": "romania-65789b52d01431f0068c"
+    },
+    {
+      "name": "Opera",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "str. Actor Ion Brezoianu nr. 37",
+      "price": "EUR 35/night",
+      "url": "http://www.hotelopera.ro/",
+      "id": "romania-9b1549ecb3ef5468fe29"
+    },
+    {
+      "name": "Phoenicia Grand Hotel",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "87 Bvd Aerogarii",
+      "url": "http://www.phoeniciahotels.ro/",
+      "id": "romania-520cd8e75bef7dbae7b7"
+    },
+    {
+      "name": "Parliament",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Strada Izvor nr. 106",
+      "url": "http://www.parliament-hotel.ro/",
+      "id": "romania-dc00a53a97545101a399"
+    },
+    {
+      "name": "Radisson Blu Hotel",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Calea Victoriei No. 63-81",
+      "price": "EUR 100-150/night",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-bucharest",
+      "id": "romania-b6081c311032511fba70"
+    },
+    {
+      "name": "Rin Grand Hotel",
+      "kind": "stay",
+      "locality": "Bucharest",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "address": "Sos Vitan Barzesti 7D",
+      "url": "http://grand.rinhotels.ro/",
+      "id": "romania-cd4e34efe1d31d6a38ee"
+    },
+    {
+      "name": "Bucharest",
+      "kind": "area",
+      "locality": "Bucharest",
+      "lat": 44.4325,
+      "lon": 26.1039,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bucharest",
+      "id": "romania-cfc5d7c9c8ed96af59ec"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

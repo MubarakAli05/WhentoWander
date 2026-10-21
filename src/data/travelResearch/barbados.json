@@ -1,0 +1,232 @@
+{
+  "sources": [
+    {
+      "title": "Barbados",
+      "url": "https://en.wikivoyage.org/wiki/Barbados",
+      "checkedAt": "2026-10-21T08:08:30.483Z"
+    },
+    {
+      "title": "Bridgetown",
+      "url": "https://en.wikivoyage.org/wiki/Bridgetown",
+      "checkedAt": "2026-10-21T08:08:33.262Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "The Careenage",
+      "kind": "do",
+      "locality": "Bridgetown",
+      "lat": 13.096,
+      "lon": -59.614,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bridgetown",
+      "id": "barbados-564e695357fa4ee7e812"
+    },
+    {
+      "name": "St Michael's Cathedral",
+      "kind": "do",
+      "locality": "Bridgetown",
+      "lat": 13.0978,
+      "lon": -59.6124,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bridgetown",
+      "address": "St Michael's Row",
+      "url": "https://saintmichaelscathedral.bb/",
+      "id": "barbados-f6cb0ae3819ec5c6fc27"
+    },
+    {
+      "name": "Exchange Museum",
+      "kind": "do",
+      "locality": "Bridgetown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bridgetown",
+      "address": "Spry Street",
+      "price": "Adult B$20, child B$12",
+      "url": "https://exchangemuseum.bb/",
+      "id": "barbados-5f3ca29471efd985a2bd"
+    },
+    {
+      "name": "St Mary's Church",
+      "kind": "do",
+      "locality": "Bridgetown",
+      "lat": 13.0987,
+      "lon": -59.6188,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bridgetown",
+      "address": "Suttle St",
+      "id": "barbados-6b9b795b82a400fd599a"
+    },
+    {
+      "name": "Nidhe Israel Synagogue",
+      "kind": "do",
+      "locality": "Bridgetown",
+      "lat": 13.0994,
+      "lon": -59.6152,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bridgetown",
+      "address": "Synagogue Lane",
+      "url": "https://synagoguehistoricdistrict.com/",
+      "id": "barbados-0628f4e9755c9d044055"
+    },
+    {
+      "name": "Parliament",
+      "kind": "do",
+      "locality": "Bridgetown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bridgetown",
+      "address": "Broad Street",
+      "url": "https://www.barbadosparliament.com/",
+      "id": "barbados-18ec01421b6d65c1fdb8"
+    },
+    {
+      "name": "Ilaro Court",
+      "kind": "do",
+      "locality": "Bridgetown",
+      "lat": 13.1036,
+      "lon": -59.5858,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bridgetown",
+      "address": "Two Mile Hill, Saint Michael",
+      "id": "barbados-caaeccd536938d509952"
+    },
+    {
+      "name": "Garrison Savannah",
+      "kind": "do",
+      "locality": "Bridgetown",
+      "lat": 13.08,
+      "lon": -59.607,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bridgetown",
+      "id": "barbados-697794fb65dce9100bb5"
+    },
+    {
+      "name": "George Washington House",
+      "kind": "do",
+      "locality": "Bridgetown",
+      "lat": 13.0819,
+      "lon": -59.6067,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bridgetown",
+      "address": "Bush Hill",
+      "price": "Adult $20, child $10",
+      "url": "https://georgewashingtonbarbados.com/",
+      "id": "barbados-29d5b7073b5d66019a39"
+    },
+    {
+      "name": "Barbados Museum",
+      "kind": "do",
+      "locality": "Bridgetown",
+      "lat": 13.0834,
+      "lon": -59.6022,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bridgetown",
+      "address": "Dalkeith Rd",
+      "url": "https://www.barbmuse.org.bb/",
+      "id": "barbados-5888991b72341c2b802d"
+    },
+    {
+      "name": "Wildey Great House",
+      "kind": "do",
+      "locality": "Bridgetown",
+      "lat": 13.0919,
+      "lon": -59.5822,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bridgetown",
+      "id": "barbados-28a849281697078a97a2"
+    },
+    {
+      "name": "Mount Gay Rum",
+      "kind": "do",
+      "locality": "Bridgetown",
+      "lat": 13.1127,
+      "lon": -59.6264,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bridgetown",
+      "address": "Spring Garden Hwy",
+      "price": "Basic tour $27.50",
+      "url": "https://www.mountgayrum.com/visitor-centre/",
+      "id": "barbados-c4130ca1eb8d9b3aed75"
+    },
+    {
+      "name": "Atlantis Submarines",
+      "kind": "do",
+      "locality": "Bridgetown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bridgetown",
+      "address": "Shallow Draught",
+      "price": "Adult $120, child $60",
+      "url": "https://www.barbados.atlantissubmarines.com/",
+      "id": "barbados-eaf9fadccb4a9fd6bf85"
+    },
+    {
+      "name": "Kensington Oval",
+      "kind": "do",
+      "locality": "Bridgetown",
+      "lat": 13.105,
+      "lon": -59.6226,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bridgetown",
+      "address": "President Kennedy Drive",
+      "url": "https://www.kensingtonoval.org/",
+      "id": "barbados-112e50b1563998676306"
+    },
+    {
+      "name": "Garrison Savannah Racetrack",
+      "kind": "do",
+      "locality": "Bridgetown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bridgetown",
+      "id": "barbados-5e3bfa46aeef42a18b31"
+    },
+    {
+      "name": "Harbour Lights",
+      "kind": "eat",
+      "locality": "Bridgetown",
+      "lat": 13.0899,
+      "lon": -59.6092,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bridgetown",
+      "address": "Marine Villa, Bay Street",
+      "url": "https://www.harbourlightsbarbados.com/",
+      "id": "barbados-97251b87412377bd2be8"
+    },
+    {
+      "name": "Radisson Aquatica Resort Barbados",
+      "kind": "stay",
+      "locality": "Bridgetown",
+      "lat": 13.0823,
+      "lon": -59.6092,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bridgetown",
+      "address": "Aquatic Gap",
+      "url": "https://www.choicehotels.com/barbados/st-michael/radisson-hotels/bb002",
+      "id": "barbados-75069b383666a7f5d075"
+    },
+    {
+      "name": "Island Inn Hotel",
+      "kind": "stay",
+      "locality": "Bridgetown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bridgetown",
+      "address": "Bay St, Aquatic Gap",
+      "id": "barbados-71690413b16f07d83391"
+    },
+    {
+      "name": "Hilton Barbados",
+      "kind": "stay",
+      "locality": "Bridgetown",
+      "lat": 13.079,
+      "lon": -59.6117,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bridgetown",
+      "address": "Needham's Point, St Michael",
+      "price": "B&B double $500",
+      "url": "https://www.hilton.com/en/hotels/bgihihh-hilton-barbados-resort/",
+      "id": "barbados-b55adf8e2d1e8dc6168a"
+    },
+    {
+      "name": "Sweetfield Manor",
+      "kind": "stay",
+      "locality": "Bridgetown",
+      "lat": 13.086,
+      "lon": -59.5975,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bridgetown",
+      "address": "Brittons Ridge, Upper Garrison",
+      "price": "B&B double $350",
+      "url": "https://sweetfieldmanor.com/",
+      "id": "barbados-88741f50ad459ec26415"
+    },
+    {
+      "name": "Bridgetown",
+      "kind": "area",
+      "locality": "Bridgetown",
+      "lat": 13.1,
+      "lon": -59.6,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bridgetown",
+      "id": "barbados-16ab847204b1042269b9"
+    }
+  ],
+  "status": "partial",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. No extractable structured facts: Barbados."
+}

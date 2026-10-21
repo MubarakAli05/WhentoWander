@@ -1,0 +1,698 @@
+{
+  "sources": [
+    {
+      "title": "Moldova",
+      "url": "https://en.wikivoyage.org/wiki/Moldova",
+      "checkedAt": "2026-10-21T08:11:09.491Z"
+    },
+    {
+      "title": "Chișinău",
+      "url": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "checkedAt": "2026-10-21T08:11:12.332Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Chișinău",
+      "kind": "area",
+      "locality": "Moldova",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moldova",
+      "id": "moldova-9d0a3c78837d0173cdeb"
+    },
+    {
+      "name": "Bălţi",
+      "kind": "area",
+      "locality": "Moldova",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moldova",
+      "id": "moldova-a239154f07dbda9afecf"
+    },
+    {
+      "name": "Soroca",
+      "kind": "area",
+      "locality": "Moldova",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moldova",
+      "id": "moldova-bc6ba5d38eb43b382bb5"
+    },
+    {
+      "name": "Ungheni",
+      "kind": "area",
+      "locality": "Moldova",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moldova",
+      "id": "moldova-f75bbf82cd26cc07269c"
+    },
+    {
+      "name": "Comrat",
+      "kind": "area",
+      "locality": "Moldova",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moldova",
+      "id": "moldova-957f5306b2c35128d3ea"
+    },
+    {
+      "name": "Cahul",
+      "kind": "area",
+      "locality": "Moldova",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moldova",
+      "id": "moldova-e766b189a7151aae60a7"
+    },
+    {
+      "name": "Orhei",
+      "kind": "area",
+      "locality": "Moldova",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moldova",
+      "id": "moldova-58a4abf0e03866a0b030"
+    },
+    {
+      "name": "Mileștii Mici",
+      "kind": "do",
+      "locality": "Moldova",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moldova",
+      "url": "https://www.milestii-mici.md/en/",
+      "id": "moldova-37782e8bc560ddeec3a7"
+    },
+    {
+      "name": "Cricova",
+      "kind": "do",
+      "locality": "Moldova",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moldova",
+      "id": "moldova-984094224890804e4107"
+    },
+    {
+      "name": "Purcari",
+      "kind": "do",
+      "locality": "Moldova",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moldova",
+      "id": "moldova-e9ef919c8cfa2f8f405b"
+    },
+    {
+      "name": "Orheiul Vechi",
+      "kind": "do",
+      "locality": "Moldova",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moldova",
+      "id": "moldova-3d7c005805e64146495b"
+    },
+    {
+      "name": "Căpriana Monastery",
+      "kind": "do",
+      "locality": "Moldova",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moldova",
+      "id": "moldova-388b6adaed20088bef66"
+    },
+    {
+      "name": "Bender",
+      "kind": "do",
+      "locality": "Moldova",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moldova",
+      "id": "moldova-f007285f8c91cb218b62"
+    },
+    {
+      "name": "Tipova Monastery",
+      "kind": "do",
+      "locality": "Moldova",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moldova",
+      "id": "moldova-61473c47be0e366b6696"
+    },
+    {
+      "name": "Saharna Monastery",
+      "kind": "do",
+      "locality": "Moldova",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moldova",
+      "id": "moldova-c357d7e1dccefe4f1ac5"
+    },
+    {
+      "name": "Orhei National Park",
+      "kind": "do",
+      "locality": "Moldova",
+      "lat": 47.3,
+      "lon": 28.966667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moldova",
+      "url": "https://www.facebook.com/ParculNationalOrhei",
+      "id": "moldova-69ca3b39590dc2cbfffc"
+    },
+    {
+      "name": "Cathedral Park",
+      "kind": "do",
+      "locality": "Chișinău",
+      "lat": 47.02591,
+      "lon": 28.8343,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "id": "moldova-a3bfba23fef8102d0e45"
+    },
+    {
+      "name": "Ștefan cel Mare Monument",
+      "kind": "do",
+      "locality": "Chișinău",
+      "lat": 47.0255,
+      "lon": 28.8303,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "address": "Boulevard Ștefan cel Mare",
+      "price": "Free",
+      "id": "moldova-6667a23f4bd501eb16c5"
+    },
+    {
+      "name": "Rose Valley",
+      "kind": "do",
+      "locality": "Chișinău",
+      "lat": 47.004167,
+      "lon": 28.852222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "id": "moldova-b3cbdde8ee379975d4ce"
+    },
+    {
+      "name": "Râşcani Park",
+      "kind": "do",
+      "locality": "Chișinău",
+      "lat": 47.05033,
+      "lon": 28.877236,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "id": "moldova-ebda9804fad8f73a39d8"
+    },
+    {
+      "name": "Chișinău Botanical Garden",
+      "kind": "do",
+      "locality": "Chișinău",
+      "lat": 46.975833,
+      "lon": 28.883333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "price": "10 lei (including students), 5 lei for children and retired people",
+      "url": "http://gradinabotanica.asm.md/",
+      "id": "moldova-68a30c704a8895ecf03e"
+    },
+    {
+      "name": "Village Museum",
+      "kind": "do",
+      "locality": "Chișinău",
+      "lat": 46.972879,
+      "lon": 28.874299,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "id": "moldova-192b42202a6b1aa67737"
+    },
+    {
+      "name": "Valea Morilor Park",
+      "kind": "do",
+      "locality": "Chișinău",
+      "lat": 47.021324,
+      "lon": 28.815175,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "id": "moldova-18ad671be0ef80d8ed6b"
+    },
+    {
+      "name": "Parcul Dendrariu",
+      "kind": "do",
+      "locality": "Chișinău",
+      "lat": 47.032849,
+      "lon": 28.810009,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "address": "Strada Ion Creangă 1",
+      "url": "http://www.dendrariu.md/",
+      "id": "moldova-c25c78947c66d0670023"
+    },
+    {
+      "name": "Alunelul Park",
+      "kind": "do",
+      "locality": "Chișinău",
+      "lat": 47.036968,
+      "lon": 28.804069,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "id": "moldova-ecdcd1f0bea80757dd2f"
+    },
+    {
+      "name": "Jewish Cemetery",
+      "kind": "do",
+      "locality": "Chișinău",
+      "lat": 47.035278,
+      "lon": 28.797222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "id": "moldova-152be56f13bcf453bde0"
+    },
+    {
+      "name": "Memorial Park",
+      "kind": "do",
+      "locality": "Chișinău",
+      "lat": 47.050036,
+      "lon": 28.864046,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "id": "moldova-9241d3f1f1cec80f6875"
+    },
+    {
+      "name": "Pushkin Museum",
+      "kind": "do",
+      "locality": "Chișinău",
+      "lat": 47.0318,
+      "lon": 28.8367,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "address": "Str Anton Pann 19",
+      "id": "moldova-035d0df684252a77d02f"
+    },
+    {
+      "name": "National Archaeology & History Museum",
+      "kind": "do",
+      "locality": "Chișinău",
+      "lat": 47.023542,
+      "lon": 28.826778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "address": "Str 31 August 1989, 121A",
+      "price": "10 lei (5 students), 10 lei (or 5) more for temporary exhibitions, 15 lei extra fee for photos or video",
+      "id": "moldova-9c7ce405460a31d6cda7"
+    },
+    {
+      "name": "National Ethnographic and Natural History Museum",
+      "kind": "do",
+      "locality": "Chișinău",
+      "lat": 47.0234,
+      "lon": 28.8201,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "address": "Str. M. Kogălniceanu 82",
+      "price": "10 lei",
+      "url": "http://www.muzeu.md/",
+      "id": "moldova-588c763e1e85d05baf5f"
+    },
+    {
+      "name": "National Museum of Fine Arts",
+      "kind": "do",
+      "locality": "Chișinău",
+      "lat": 47.028333,
+      "lon": 28.825556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "address": "115, 31 August 1989 St",
+      "price": "10 lei",
+      "url": "http://www.artmuseum.md/ro/index.php",
+      "id": "moldova-892d46aa3534b1210063"
+    },
+    {
+      "name": "Chișinău Water Tower",
+      "kind": "do",
+      "locality": "Chișinău",
+      "lat": 47.019306,
+      "lon": 28.822222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "url": "https://www.facebook.com/Muzeul-de-Istorie-a-Ora%C5%9Fului-Chi%C5%9Fin%C4%83u-Turnul-de-Ap%C4%83-1484254125148413/",
+      "id": "moldova-0ea0a05c01264d70d2e2"
+    },
+    {
+      "name": "Military Museum",
+      "kind": "do",
+      "locality": "Chișinău",
+      "lat": 47.015775,
+      "lon": 28.840607,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "address": "Strada Tighina 47",
+      "price": "10 lei",
+      "id": "moldova-cc75742adcefe818e415"
+    },
+    {
+      "name": "Old Town",
+      "kind": "do",
+      "locality": "Chișinău",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "id": "moldova-67e5c784499030bdba3c"
+    },
+    {
+      "name": "Opera and Ballet Theatre",
+      "kind": "do",
+      "locality": "Chișinău",
+      "lat": 47.027649,
+      "lon": 28.829981,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "address": "152 Ștefan cel Mare și Sfînt Blvd., MD-2012, Chișinău, Republic of Moldova",
+      "price": "150-400",
+      "url": "http://www.tnob.md/",
+      "id": "moldova-f64938e386c882a1960e"
+    },
+    {
+      "name": "Mihai Eminescu Theatre",
+      "kind": "do",
+      "locality": "Chișinău",
+      "lat": 47.021729,
+      "lon": 28.836193,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "address": "Stefan cel Mare si Sfant Blvd 79",
+      "url": "http://tnme.md/",
+      "id": "moldova-287c35ab078f8d54969a"
+    },
+    {
+      "name": "The National Philharmonic",
+      "kind": "do",
+      "locality": "Chișinău",
+      "lat": 47.023075,
+      "lon": 28.838464,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "address": "Str. Mihai Eminescu",
+      "url": "http://www.filarmonica.md/",
+      "id": "moldova-17248669c2ed28dfafe4"
+    },
+    {
+      "name": "Cineplex",
+      "kind": "do",
+      "locality": "Chișinău",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "url": "https://cineplex.md/",
+      "id": "moldova-c63f592bfdf8c6207dc8"
+    },
+    {
+      "name": "Gălbenuș",
+      "kind": "eat",
+      "locality": "Chișinău",
+      "lat": 47.022046,
+      "lon": 28.831647,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "address": "Alexander Pushkin St 22",
+      "id": "moldova-f8b46e269cb477e7e14d"
+    },
+    {
+      "name": "Foișor",
+      "kind": "eat",
+      "locality": "Chișinău",
+      "lat": 47.026559,
+      "lon": 28.836064,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "address": "Strada Columna 102, behind the Cathedral",
+      "id": "moldova-6f50d43de91d62c1cf10"
+    },
+    {
+      "name": "Cantină",
+      "kind": "eat",
+      "locality": "Chișinău",
+      "lat": 47.0310422,
+      "lon": 28.8389289,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "address": "Strada Petru Rareș 18",
+      "id": "moldova-3c7fbedaca42e6de78a4"
+    },
+    {
+      "name": "Star Kebab",
+      "kind": "eat",
+      "locality": "Chișinău",
+      "lat": 47.01613,
+      "lon": 28.84699,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "address": "str. Ismail 84",
+      "price": "30-40 lei",
+      "url": "http://starkebab.md/",
+      "id": "moldova-c83002c1a8905ff0d8e4"
+    },
+    {
+      "name": "Nr1 Supermarket",
+      "kind": "eat",
+      "locality": "Chișinău",
+      "lat": 47.022595,
+      "lon": 28.835646,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "address": "Stefan cel Mare si Sfant Boulevard 132",
+      "url": "http://www.nr1.md/",
+      "id": "moldova-fbe1aca1c48a9b5f8465"
+    },
+    {
+      "name": "Andy's Pizza",
+      "kind": "eat",
+      "locality": "Chișinău",
+      "lat": 47.02562,
+      "lon": 28.83705,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "address": "Alexander Pushkin St 32",
+      "url": "http://www.andys.md/",
+      "id": "moldova-02d5b597fb612cc0b422"
+    },
+    {
+      "name": "Pizza House",
+      "kind": "eat",
+      "locality": "Chișinău",
+      "lat": 47.052,
+      "lon": 28.8649,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "address": "Bulevardul Moscova 14/1",
+      "url": "http://www.pizzahouse.md/",
+      "id": "moldova-a3b161643720164600ec"
+    },
+    {
+      "name": "La Placinte",
+      "kind": "eat",
+      "locality": "Chișinău",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "address": "Bd Moscova 9 1",
+      "url": "http://www.laplacinte.md/",
+      "id": "moldova-a091572b9a1f897d87da"
+    },
+    {
+      "name": "Tbilisi",
+      "kind": "eat",
+      "locality": "Chișinău",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "address": "Bulevard Stefan Cel Mare, nr.69",
+      "id": "moldova-2e8781d4ac6d1fcd01c5"
+    },
+    {
+      "name": "La Taifas",
+      "kind": "eat",
+      "locality": "Chișinău",
+      "lat": 47.020521,
+      "lon": 28.829773,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "address": "Str. Bucuresti, 67",
+      "url": "https://m.facebook.com/lataifas.restorator.md/",
+      "id": "moldova-38494cf33150422c5592"
+    },
+    {
+      "name": "Sălcioara",
+      "kind": "eat",
+      "locality": "Chișinău",
+      "lat": 47.027839,
+      "lon": 28.839765,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "address": "Str. Pushkin, 39",
+      "id": "moldova-94ad6a82b225bdddd11e"
+    },
+    {
+      "name": "Wines",
+      "kind": "eat",
+      "locality": "Chișinău",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "id": "moldova-8c30c8f19ff2ccd185a1"
+    },
+    {
+      "name": "Beer",
+      "kind": "eat",
+      "locality": "Chișinău",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "id": "moldova-09a5def7d0c30ce31050"
+    },
+    {
+      "name": "Beer House",
+      "kind": "eat",
+      "locality": "Chișinău",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "id": "moldova-802e16454bb27d32778c"
+    },
+    {
+      "name": "Keller Holz Gastropub",
+      "kind": "eat",
+      "locality": "Chișinău",
+      "lat": 47.0181,
+      "lon": 28.8417,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "address": "Stefan cel Mare si Sfant Boulevard 71",
+      "url": "https://kh.md/",
+      "id": "moldova-08f7c644e72e24dc9fbe"
+    },
+    {
+      "name": "Hotel Chișinău",
+      "kind": "stay",
+      "locality": "Chișinău",
+      "lat": 47.0133,
+      "lon": 28.8493,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "address": "7 Negruzzi blvd.",
+      "price": "Rooms from about €28",
+      "url": "http://www.chisinau-hotel.md/",
+      "id": "moldova-dfae65a98a9ddc6c3392"
+    },
+    {
+      "name": "Retro Moldova Hostel",
+      "kind": "stay",
+      "locality": "Chișinău",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "address": "Strada George Cosbuc 3, Apartment 24",
+      "id": "moldova-8e3f1bbcab7f30245824"
+    },
+    {
+      "name": "Tapok Hostel",
+      "kind": "stay",
+      "locality": "Chișinău",
+      "lat": 47.016,
+      "lon": 28.8276,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "address": "27a Armeneasca Street, Chisinau",
+      "price": "From €8 for basic dorm to €11.50 p.p. for twin private",
+      "url": "https://m.facebook.com/tapokhostel/",
+      "id": "moldova-211bf240de92ac0414bc"
+    },
+    {
+      "name": "Hotel Bella Donna",
+      "kind": "stay",
+      "locality": "Chișinău",
+      "lat": 47.012506,
+      "lon": 28.841546,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "address": "Strada București 9",
+      "price": "€60",
+      "url": "https://m.facebook.com/pages/category/Hotel/Bella-Donna-110755533958451/",
+      "id": "moldova-479f00523f6966ddcb3f"
+    },
+    {
+      "name": "Hotel Cosmos",
+      "kind": "stay",
+      "locality": "Chișinău",
+      "lat": 47.0143,
+      "lon": 28.8534,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "url": "http://hotel-cosmos.com/",
+      "id": "moldova-98841782509b8379902e"
+    },
+    {
+      "name": "Hotel Edem",
+      "kind": "stay",
+      "locality": "Chișinău",
+      "lat": 47.0109,
+      "lon": 28.8516,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "url": "https://m.facebook.com/pages/category/Hotel/Edem-Hotel-109428524319731/",
+      "id": "moldova-e09607cf753a0015d6f2"
+    },
+    {
+      "name": "Hotel Luna",
+      "kind": "stay",
+      "locality": "Chișinău",
+      "lat": 47.0278,
+      "lon": 28.8195,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "price": "From €75 twin",
+      "url": "http://lunahotelchisnau.ratedotels.com/",
+      "id": "moldova-d6ab1203202d2b5abcfc"
+    },
+    {
+      "name": "Hotel Stella De Lux",
+      "kind": "stay",
+      "locality": "Chișinău",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "id": "moldova-8e2ed82522f44d22c32c"
+    },
+    {
+      "name": "Hotel Vila Iris",
+      "kind": "stay",
+      "locality": "Chișinău",
+      "lat": 46.9774,
+      "lon": 28.8707,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "url": "https://vilairis.md/",
+      "id": "moldova-57310e21a5afaae09968"
+    },
+    {
+      "name": "Hotel Villa Muntenia",
+      "kind": "stay",
+      "locality": "Chișinău",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "price": "Prices from €40/night",
+      "url": "http://www.stayinstant.com/Hotel/Villa_Muntenia_Hotel.htm",
+      "id": "moldova-1be528c7151c33c7e77f"
+    },
+    {
+      "name": "Wine Hotel",
+      "kind": "stay",
+      "locality": "Chișinău",
+      "lat": 47.0383,
+      "lon": 28.8582,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "price": "€50/night",
+      "url": "https://www.wine-hotel-chisinau.com/",
+      "id": "moldova-ad3bf091271b303843d7"
+    },
+    {
+      "name": "Club Royal Park 5* Hotel",
+      "kind": "stay",
+      "locality": "Chișinău",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "url": "http://clubroyalpark.md/",
+      "id": "moldova-47a2f1028bbb0b136f54"
+    },
+    {
+      "name": "Flowers Hotel 4*",
+      "kind": "stay",
+      "locality": "Chișinău",
+      "lat": 47.015918,
+      "lon": 28.849338,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "address": "Str. N. Anestiade 7",
+      "url": "http://www.hotelflowers.md/index.php/en/",
+      "id": "moldova-9e99cf0b498b01927cbb"
+    },
+    {
+      "name": "Hotel VisPas",
+      "kind": "stay",
+      "locality": "Chișinău",
+      "lat": 47.0322,
+      "lon": 28.8191,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "url": "http://vispas.com/",
+      "id": "moldova-e3ef00e2684f53271d27"
+    },
+    {
+      "name": "Jolly Alon Hotel 4*",
+      "kind": "stay",
+      "locality": "Chișinău",
+      "lat": 47.0263,
+      "lon": 28.8256,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "url": "https://m.facebook.com/HotelJollyAlon/",
+      "id": "moldova-9d0bd040cc66c3e8ebbe"
+    },
+    {
+      "name": "Leogrand Hotel & Conventions Center 4*",
+      "kind": "stay",
+      "locality": "Chișinău",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "url": "http://leograndhotels.com/",
+      "id": "moldova-396cdcbddfb54b9f29fa"
+    },
+    {
+      "name": "Manhattan Hotel",
+      "kind": "stay",
+      "locality": "Chișinău",
+      "lat": 47.0121,
+      "lon": 28.8442,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "url": "http://www.manhattan-hotel.md/en/page/12",
+      "id": "moldova-ca73dbc9fb7fbe5a43e4"
+    },
+    {
+      "name": "Hotel President",
+      "kind": "stay",
+      "locality": "Chișinău",
+      "lat": 46.9636,
+      "lon": 28.8908,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "url": "http://www.hotelpresident.md/",
+      "id": "moldova-1d8df9bb160d12cf1c93"
+    },
+    {
+      "name": "Weekend Boutique Hotel",
+      "kind": "stay",
+      "locality": "Chișinău",
+      "lat": 47.0034,
+      "lon": 28.8404,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "address": "Strada Arborilor 7",
+      "url": "https://m.facebook.com/WeekendBoutiqueHotel/",
+      "id": "moldova-c71153f0f1ed28ca2d46"
+    },
+    {
+      "name": "Chișinău",
+      "kind": "area",
+      "locality": "Chișinău",
+      "lat": 47.013889,
+      "lon": 28.85,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Chi%C8%99in%C4%83u",
+      "id": "moldova-d09a050f08e0bd1f9430"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

@@ -1,0 +1,1679 @@
+{
+  "sources": [
+    {
+      "title": "Bangladesh",
+      "url": "https://en.wikivoyage.org/wiki/Bangladesh",
+      "checkedAt": "2026-10-21T08:08:27.269Z"
+    },
+    {
+      "title": "Dhaka",
+      "url": "https://en.wikivoyage.org/wiki/Dhaka",
+      "checkedAt": "2026-10-21T08:08:29.446Z"
+    },
+    {
+      "title": "Dhaka/Central",
+      "url": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "checkedAt": "2026-10-21T08:08:32.247Z"
+    },
+    {
+      "title": "Dhaka/North",
+      "url": "https://en.wikivoyage.org/wiki/Dhaka%2FNorth",
+      "checkedAt": "2026-10-21T08:08:35.216Z"
+    },
+    {
+      "title": "Dhaka/Old Dhaka",
+      "url": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "checkedAt": "2026-10-21T08:08:38.261Z"
+    },
+    {
+      "title": "Dhaka/Outer",
+      "url": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "checkedAt": "2026-10-21T08:08:41.221Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Dhaka",
+      "kind": "area",
+      "locality": "Bangladesh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bangladesh",
+      "id": "bangladesh-4fe82d5c975a8c52a562"
+    },
+    {
+      "name": "Barisal",
+      "kind": "area",
+      "locality": "Bangladesh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bangladesh",
+      "id": "bangladesh-c6e0bc97fc908367bc8b"
+    },
+    {
+      "name": "Chittagong",
+      "kind": "area",
+      "locality": "Bangladesh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bangladesh",
+      "id": "bangladesh-086fa664142126c199e7"
+    },
+    {
+      "name": "Jessore",
+      "kind": "area",
+      "locality": "Bangladesh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bangladesh",
+      "id": "bangladesh-6ed694ab76030a20a59f"
+    },
+    {
+      "name": "Khulna",
+      "kind": "area",
+      "locality": "Bangladesh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bangladesh",
+      "id": "bangladesh-8519164be6ee36c248d7"
+    },
+    {
+      "name": "Mymensingh",
+      "kind": "area",
+      "locality": "Bangladesh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bangladesh",
+      "id": "bangladesh-a70808236b8f69c34da8"
+    },
+    {
+      "name": "Rajshahi",
+      "kind": "area",
+      "locality": "Bangladesh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bangladesh",
+      "id": "bangladesh-83f6268f6b3e3b5609e3"
+    },
+    {
+      "name": "Rangpur",
+      "kind": "area",
+      "locality": "Bangladesh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bangladesh",
+      "id": "bangladesh-b3dbaec15a2a15c89ab0"
+    },
+    {
+      "name": "Sylhet",
+      "kind": "area",
+      "locality": "Bangladesh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bangladesh",
+      "id": "bangladesh-540b48df8d11b579e7b8"
+    },
+    {
+      "name": "Dhaka",
+      "kind": "area",
+      "locality": "Dhaka",
+      "lat": 23.702,
+      "lon": 90.37,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka",
+      "id": "bangladesh-976f7c9552d90d569455"
+    },
+    {
+      "name": "Baitul Mukarram Mosque",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.72944444,
+      "lon": 90.41222222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "id": "bangladesh-9bdbedeb02e50b1b03c3"
+    },
+    {
+      "name": "Banga Bhaban",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.723302,
+      "lon": 90.41782,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "url": "http://www.bangabhaban.gov.bd/",
+      "id": "bangladesh-9c6e497d8f7f9e57206f"
+    },
+    {
+      "name": "Ramakrishna Mission",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.720867,
+      "lon": 90.423388,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "27 R K Mission Road, Gopibag, Dhaka",
+      "url": "http://www.dhakarkmm.org/",
+      "id": "bangladesh-2bca5f5c91cc9f0d86e4"
+    },
+    {
+      "name": "National Museum",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.73755,
+      "lon": 90.39492,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "Shahbag Rd",
+      "price": "Foreigners: Tk 75, locals and SAARC citizens: Tk 10, disabled persons: free",
+      "url": "http://bangladeshmuseum.gov.bd/",
+      "id": "bangladesh-0098f37940a54dc02e2e"
+    },
+    {
+      "name": "Liberation War Museum",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.7755945,
+      "lon": 90.369509,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "Civic Centre, Plot : F11/A & F11/B",
+      "url": "http://www.liberationwarmuseumbd.org/",
+      "id": "bangladesh-e877ddbaab4c84db951a"
+    },
+    {
+      "name": "Musa Khan Mosque",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.7268,
+      "lon": 90.4007,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "University of Dhaka",
+      "id": "bangladesh-e270ca8c11ac691e5466"
+    },
+    {
+      "name": "Greek Memorial",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.7318,
+      "lon": 90.3963,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "id": "bangladesh-85a75f5790c94a68e53e"
+    },
+    {
+      "name": "Old High Court Building",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.730756,
+      "lon": 90.402513,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "Kazi Nazrul Islam Ave, Ramna",
+      "url": "http://www.supremecourt.gov.bd/",
+      "id": "bangladesh-fc62ae6c38046c871791"
+    },
+    {
+      "name": "Curzon Hall",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.727353,
+      "lon": 90.401852,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "University of Dhaka",
+      "id": "bangladesh-22634809dd57ff236b7f"
+    },
+    {
+      "name": "Gurdwara Nanak Shahi",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.733794,
+      "lon": 90.393408,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "id": "bangladesh-18609cfebbb53b182123"
+    },
+    {
+      "name": "Aparajeya Bangla",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.733621,
+      "lon": 90.392766,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "University of Dhaka, in front of the Faculty of Arts",
+      "id": "bangladesh-6db1ef20c2dc253d36e5"
+    },
+    {
+      "name": "Central Shaheed Minar",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.727222,
+      "lon": 90.396667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "In front of the Dhaka Medical College, University of Dhaka",
+      "id": "bangladesh-a6d21ff471cfae06d7ed"
+    },
+    {
+      "name": "National Poet's Graveyard",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.735,
+      "lon": 90.394722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "University of Dhaka",
+      "id": "bangladesh-86cacd288b6dea26aa40"
+    },
+    {
+      "name": "Suhrawardi Udyan",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.731619,
+      "lon": 90.399633,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "Suhrawardi Uddan Rd",
+      "id": "bangladesh-d909d421e90a9cc26bce"
+    },
+    {
+      "name": "Ramna Green",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.73818,
+      "lon": 90.401371,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "Ramna",
+      "id": "bangladesh-487c4e84ce068ecad5e4"
+    },
+    {
+      "name": "Museum of Independence",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.733066,
+      "lon": 90.3985,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "Suhrawardy Uddyan",
+      "id": "bangladesh-7ee95e0afa5bd10b1c2d"
+    },
+    {
+      "name": "Eternal Flame (শিখা চিরন্তন)",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.735555,
+      "lon": 90.398055,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "Northern end of Suhrawardy Uddyan",
+      "id": "bangladesh-4afb0a210bed5f0c2318"
+    },
+    {
+      "name": "Mausoleum of Three Leaders (তিন নেতার মাজার)",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.728889,
+      "lon": 90.399722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "Southwestern corner of Suhrawardy Uddyan",
+      "id": "bangladesh-4fe109fb752d57989513"
+    },
+    {
+      "name": "Shahbaz Khan Mosque and Dargah",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.7293,
+      "lon": 90.40057,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "Suhrawardy Uddyan, behind Mausoleum of Three Leaders",
+      "id": "bangladesh-131def936d903cf4fdf6"
+    },
+    {
+      "name": "Ramna Kali Mandir",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.7312,
+      "lon": 90.3995,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "Suhrawardy Uddyan",
+      "id": "bangladesh-e60a6629348535c67fde"
+    },
+    {
+      "name": "Jatiya Sangsad Bhaban",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.7625,
+      "lon": 90.3785,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "Sher-e-Bangla Nagar",
+      "price": "Tk 500 for advanced bookings, Tk 600 for on arrival visits",
+      "url": "http://www.parliament.gov.bd/",
+      "id": "bangladesh-d11cfad02ac1fdd11348"
+    },
+    {
+      "name": "National Museum of Science and Technology",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.778823,
+      "lon": 90.37161,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "Agargaon, Sher-E-Bangla Nagar",
+      "price": "Tk 5",
+      "url": "http://www.nmst.gov.bd/",
+      "id": "bangladesh-556562584b702571f010"
+    },
+    {
+      "name": "Bangladesh Air Force Museum",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.7789,
+      "lon": 90.38089,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "BAF Base Bashar",
+      "url": "https://baf.mil.bd/website/",
+      "id": "bangladesh-ae4e71258607183960d2"
+    },
+    {
+      "name": "Holy Rosary Church",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.759399,
+      "lon": 90.392322,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "Holycross College Rd",
+      "url": "http://churchbd.wordpress.com/",
+      "id": "bangladesh-f72bccc28dd933e7b540"
+    },
+    {
+      "name": "Novo Theatre (Planetarium)",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.759814,
+      "lon": 90.391317,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "Bijoy Sharani, Tejgaon",
+      "price": "Tk 50 for Planetarium; Tk 20 for Space Ride Simulator",
+      "url": "http://www.novotheatre.gov.bd/",
+      "id": "bangladesh-2ce0c9bef5c9c0853cce"
+    },
+    {
+      "name": "International Buddhist Monastery",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.776098,
+      "lon": 90.425635,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "Merul Badda, Gulshan, Dhaka",
+      "id": "bangladesh-28fa29b94a6d9e8787b5"
+    },
+    {
+      "name": "Hatirjheel",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.760652,
+      "lon": 90.408876,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "id": "bangladesh-bbc1bb30eb05177b7dec"
+    },
+    {
+      "name": "Institute of Arts and Crafts",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.7357,
+      "lon": 90.3947,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "University of Dhaka, Shahbag",
+      "url": "https://m.facebook.com/charukola",
+      "id": "bangladesh-960292aff4a9693a8959"
+    },
+    {
+      "name": "Shahbag Shishu Park",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.737091,
+      "lon": 90.39738,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "id": "bangladesh-8efe6bb4fbc54779bc73"
+    },
+    {
+      "name": "Shyamoli Shishu Mela",
+      "kind": "do",
+      "locality": "Dhaka/Central",
+      "lat": 23.773203,
+      "lon": 90.367825,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "id": "bangladesh-ae2ed2006bc994c92f61"
+    },
+    {
+      "name": "New Café Jheel",
+      "kind": "eat",
+      "locality": "Dhaka/Central",
+      "lat": 23.730165,
+      "lon": 90.407814,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "18/1 Topkhana Road",
+      "id": "bangladesh-b5d95468da08f194403d"
+    },
+    {
+      "name": "Jharna Grill",
+      "kind": "eat",
+      "locality": "Dhaka/Central",
+      "lat": 23.74957,
+      "lon": 90.39437,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "107 Kazi Nazrul Islam Ave",
+      "id": "bangladesh-5e796b7f18196ad4b8a1"
+    },
+    {
+      "name": "The Amber Room",
+      "kind": "eat",
+      "locality": "Dhaka/Central",
+      "lat": 23.74134,
+      "lon": 90.39711,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "1 Minto Road",
+      "price": "Tk 3000",
+      "url": "https://www.ihg.com/intercontinental/hotels/us/en/dhaka/dachb/hoteldetail",
+      "id": "bangladesh-8eebcfb9c46a270f4dad"
+    },
+    {
+      "name": "Elements",
+      "kind": "eat",
+      "locality": "Dhaka/Central",
+      "lat": 23.74134,
+      "lon": 90.39711,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "1 Minto Road",
+      "price": "Tk 4000",
+      "url": "https://www.ihg.com/intercontinental/hotels/us/en/dhaka/dachb/hoteldetail",
+      "id": "bangladesh-944356bd504e78a77f3c"
+    },
+    {
+      "name": "Aqua Deck",
+      "kind": "eat",
+      "locality": "Dhaka/Central",
+      "lat": 23.74134,
+      "lon": 90.39711,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "1 Minto Road",
+      "price": "Tk 1200",
+      "url": "https://www.ihg.com/intercontinental/hotels/us/en/dhaka/dachb/hoteldetail",
+      "id": "bangladesh-38fa8a543892c2d46d5d"
+    },
+    {
+      "name": "Mama Halim",
+      "kind": "eat",
+      "locality": "Dhaka/Central",
+      "lat": 23.748084,
+      "lon": 90.380211,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "6 Mirpur Road",
+      "id": "bangladesh-8a21d696bcd462f462ee"
+    },
+    {
+      "name": "Coopers Bakery",
+      "kind": "eat",
+      "locality": "Dhaka/Central",
+      "lat": 23.746846,
+      "lon": 90.380951,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "Mirpur Road, Kalabagan",
+      "id": "bangladesh-05670e53954ffef24397"
+    },
+    {
+      "name": "Red Tomato",
+      "kind": "eat",
+      "locality": "Dhaka/Central",
+      "lat": 23.752857,
+      "lon": 90.369431,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "46 Road No. 27",
+      "id": "bangladesh-79e1d04313091ae90528"
+    },
+    {
+      "name": "Voot",
+      "kind": "eat",
+      "locality": "Dhaka/Central",
+      "lat": 23.738698,
+      "lon": 90.378094,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "House 36 Road No. 2",
+      "url": "http://www.ultavoot.com/",
+      "id": "bangladesh-bb30f62d68ee5d4ea402"
+    },
+    {
+      "name": "Bashudhara City Food Court",
+      "kind": "eat",
+      "locality": "Dhaka/Central",
+      "lat": 23.7512,
+      "lon": 90.3909,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "Pantha Path",
+      "url": "http://www.bashundhara-city.com/",
+      "id": "bangladesh-9c9d13507f0f62a6eaef"
+    },
+    {
+      "name": "Bella Italia",
+      "kind": "eat",
+      "locality": "Dhaka/Central",
+      "lat": 23.784296,
+      "lon": 90.417285,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "Gulshan 2",
+      "price": "Mains are around Tk 300-600",
+      "id": "bangladesh-131b137a5ff550667323"
+    },
+    {
+      "name": "El Toro",
+      "kind": "eat",
+      "locality": "Dhaka/Central",
+      "lat": 23.79271,
+      "lon": 90.41425,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "House 9/A Rd 36, Dhaka 1212, Bangladesh",
+      "price": "Mains around Tk 250-300",
+      "url": "https://eltorobd.com/",
+      "id": "bangladesh-27477d70aab77e68e2ca"
+    },
+    {
+      "name": "Sura",
+      "kind": "eat",
+      "locality": "Dhaka/Central",
+      "lat": 23.791811,
+      "lon": 90.412658,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "House 32, Road 43",
+      "id": "bangladesh-5beab84fa22fe6f6f181"
+    },
+    {
+      "name": "La Diplomat",
+      "kind": "eat",
+      "locality": "Dhaka/Central",
+      "lat": 23.781592,
+      "lon": 90.417803,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "Road 20, House number 7",
+      "id": "bangladesh-01bd6273de2081e6f44f"
+    },
+    {
+      "name": "H. Kabir and Company, Ltd.",
+      "kind": "eat",
+      "locality": "Dhaka/Central",
+      "lat": 23.777986,
+      "lon": 90.394962,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "12 Abbas Garden, New Airport Road, Mohakhali",
+      "id": "bangladesh-69f587f166111bcd688e"
+    },
+    {
+      "name": "North End Coffee",
+      "kind": "eat",
+      "locality": "Dhaka/Central",
+      "lat": 23.79098243,
+      "lon": 90.41939287,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "Kha-47-1 Pragati Sarani, Shahzadpur, North Badda",
+      "price": "Cappuccino Tk 125",
+      "url": "http://northendcoffee.com/",
+      "id": "bangladesh-c3be5ac1b52bd8c42b6b"
+    },
+    {
+      "name": "Hotel Motijheel",
+      "kind": "stay",
+      "locality": "Dhaka/Central",
+      "lat": 23.73071,
+      "lon": 90.41622,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "28/i Toyenbee Circular Road",
+      "price": "Tk 300-600",
+      "id": "bangladesh-f4d064b2986a29d2fa4f"
+    },
+    {
+      "name": "White House Hotel",
+      "kind": "stay",
+      "locality": "Dhaka/Central",
+      "lat": 23.738827,
+      "lon": 90.416478,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "155 Shanti Nagar Road",
+      "price": "Tk 2,500-5,000",
+      "url": "http://www.whitehousehotelbd.com/",
+      "id": "bangladesh-bb28d860f96015c23c33"
+    },
+    {
+      "name": "Grand Azad Hotel",
+      "kind": "stay",
+      "locality": "Dhaka/Central",
+      "lat": 23.730652,
+      "lon": 90.412082,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "55 Purana Paltan",
+      "price": "Prices from US$37-106",
+      "id": "bangladesh-08dae0740cedd8dc5b55"
+    },
+    {
+      "name": "Amari Dhaka",
+      "kind": "stay",
+      "locality": "Dhaka/Central",
+      "lat": 23.790595,
+      "lon": 90.412671,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "Road No. 41, near Banani Bridge",
+      "url": "https://www.amari.com/dhaka/special-offers",
+      "id": "bangladesh-55bc5f78f37734e807d5"
+    },
+    {
+      "name": "Renaissance Dhaka Gulshan Hotel",
+      "kind": "stay",
+      "locality": "Dhaka/Central",
+      "lat": 23.784363,
+      "lon": 90.417138,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "78 Gulshan Avenue",
+      "url": "https://www.marriott.com/hotels/travel/dacbr-renaissance-dhaka-gulshan-hotel/",
+      "id": "bangladesh-cbc291427e4f8e5abd2b"
+    },
+    {
+      "name": "Holiday Inn Dhaka City Centre",
+      "kind": "stay",
+      "locality": "Dhaka/Central",
+      "lat": 23.754045,
+      "lon": 90.400228,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "23 Shaheed Tajuddin Ahmed Avenue",
+      "url": "https://www.ihg.com/holidayinn/hotels/us/en/dhaka/dachi/hoteldetail",
+      "id": "bangladesh-a70ef57f4bc43ceb22fa"
+    },
+    {
+      "name": "Pan Pacific Sonargaon Dhaka",
+      "kind": "stay",
+      "locality": "Dhaka/Central",
+      "lat": 23.749587,
+      "lon": 90.394542,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "107 Kazi Nazrul Islam Avenue",
+      "url": "http://panpacific.com/Dhaka/Overview.html",
+      "id": "bangladesh-94d638e1d4d75a72e44a"
+    },
+    {
+      "name": "InterContinental Dhaka",
+      "kind": "stay",
+      "locality": "Dhaka/Central",
+      "lat": 23.74134,
+      "lon": 90.39711,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "1 Minto Road",
+      "price": "From US$150 per night",
+      "url": "https://www.ihg.com/intercontinental/hotels/us/en/dhaka/dachb/hoteldetail",
+      "id": "bangladesh-a54424e28654029e2bff"
+    },
+    {
+      "name": "Hotel Sarina",
+      "kind": "stay",
+      "locality": "Dhaka/Central",
+      "lat": 23.793337,
+      "lon": 90.40463,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "Plot # 27, Road # 17, Banani",
+      "price": "$110-450",
+      "url": "http://sarinahotel.com/",
+      "id": "bangladesh-8825d1abb58b478d8d76"
+    },
+    {
+      "name": "Lakeshore Hotel",
+      "kind": "stay",
+      "locality": "Dhaka/Central",
+      "lat": 23.79038,
+      "lon": 90.412444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "Gulshan 2",
+      "price": "US$100-220",
+      "url": "http://lakeshorehotel.com.bd/",
+      "id": "bangladesh-705231213be96d4e3bef"
+    },
+    {
+      "name": "The Westin",
+      "kind": "stay",
+      "locality": "Dhaka/Central",
+      "lat": 23.793163,
+      "lon": 90.414517,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "Plot-01, Road 45, Gulshan-2",
+      "price": "US$200-240 in winter, varies seasonally up to $1,100",
+      "url": "http://starwoodhotels.com/westin/property/overview/index.html?propertyID=1394",
+      "id": "bangladesh-5b2dfab91bfa07c6378d"
+    },
+    {
+      "name": "Six Seasons Hotel",
+      "kind": "stay",
+      "locality": "Dhaka/Central",
+      "lat": 23.7945233,
+      "lon": 90.4174264,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "address": "Road 96, House 19, Gulshan 2",
+      "url": "https://sixseasonshotel.com/",
+      "id": "bangladesh-dfbac96dfe80d1553b32"
+    },
+    {
+      "name": "Dhaka/Central",
+      "kind": "area",
+      "locality": "Dhaka/Central",
+      "lat": 23.7381,
+      "lon": 90.3951,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FCentral",
+      "id": "bangladesh-cdb754bbf2695b82d1f4"
+    },
+    {
+      "name": "National Botanical Gardens",
+      "kind": "do",
+      "locality": "Dhaka/North",
+      "lat": 23.812901,
+      "lon": 90.347574,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FNorth",
+      "address": "Mirpur",
+      "url": "http://www.bgci.org/garden.php?id=863",
+      "id": "bangladesh-ff2ed2c1107d95543749"
+    },
+    {
+      "name": "Dhaka Zoo",
+      "kind": "do",
+      "locality": "Dhaka/North",
+      "lat": 23.812674,
+      "lon": 90.34461,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FNorth",
+      "address": "Mirpur",
+      "price": "Tk 10; 0-2 years, school and University students are free with ID",
+      "url": "https://bnzoo.org/",
+      "id": "bangladesh-69b8f935c7ab751be6eb"
+    },
+    {
+      "name": "National Martyrs Memorial (Jatiyo Smriti Soudho)",
+      "kind": "do",
+      "locality": "Dhaka/North",
+      "lat": 23.912386,
+      "lon": 90.255807,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FNorth",
+      "id": "bangladesh-9a984e31a4bcb2c229ac"
+    },
+    {
+      "name": "Kurmitola Golf Club",
+      "kind": "do",
+      "locality": "Dhaka/North",
+      "lat": 23.7993,
+      "lon": 90.395569,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FNorth",
+      "address": "Shaheed Sharani",
+      "url": "http://kgc-bd.com/",
+      "id": "bangladesh-23f9f44a5cbfb638fc51"
+    },
+    {
+      "name": "Sher-e-Bangla",
+      "kind": "do",
+      "locality": "Dhaka/North",
+      "lat": 23.8069,
+      "lon": 90.3636,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FNorth",
+      "address": "Mirpur Rd",
+      "id": "bangladesh-ef98bf4eed516cbacf34"
+    },
+    {
+      "name": "A&W",
+      "kind": "eat",
+      "locality": "Dhaka/North",
+      "lat": 23.782048,
+      "lon": 90.416083,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FNorth",
+      "address": "northeast corner of Gulshan 1 Circle",
+      "id": "bangladesh-26f33d288bffeb3c1c13"
+    },
+    {
+      "name": "Bamboo Shoot",
+      "kind": "eat",
+      "locality": "Dhaka/North",
+      "lat": 23.788744,
+      "lon": 90.416445,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FNorth",
+      "address": "Gulshan Avenue",
+      "url": "https://bamboo-shoot.business.site/",
+      "id": "bangladesh-6f11331d55f9df5b827c"
+    },
+    {
+      "name": "Bittersweet Cafe",
+      "kind": "eat",
+      "locality": "Dhaka/North",
+      "lat": 23.795571,
+      "lon": 90.413302,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FNorth",
+      "address": "House 10, Road 53, near Gulshan North Avenue",
+      "price": "Food items Tk 200-300, Cupcakes around Tk 160",
+      "id": "bangladesh-2015fa75b5c8e85f242a"
+    },
+    {
+      "name": "CoFi 11 Express",
+      "kind": "eat",
+      "locality": "Dhaka/North",
+      "lat": 23.790326,
+      "lon": 90.403224,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FNorth",
+      "address": "House 66, Ground Floor, Road No 9, Block F, Banani",
+      "price": "Tk 150-300",
+      "id": "bangladesh-383b9329fd6f2366755c"
+    },
+    {
+      "name": "Spaghetti Jazz",
+      "kind": "eat",
+      "locality": "Dhaka/North",
+      "lat": 23.795209,
+      "lon": 90.414287,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FNorth",
+      "address": "Gulshan-2 Circle",
+      "id": "bangladesh-64ee922f6276454d94f3"
+    },
+    {
+      "name": "Steakhouse",
+      "kind": "eat",
+      "locality": "Dhaka/North",
+      "lat": 23.793842,
+      "lon": 90.413145,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FNorth",
+      "address": "House 8, Road 53, Gulshan-2",
+      "price": "Tk 800-1800",
+      "id": "bangladesh-83f4afd064d52a55beee"
+    },
+    {
+      "name": "American Club",
+      "kind": "eat",
+      "locality": "Dhaka/North",
+      "lat": 23.802342,
+      "lon": 90.410356,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FNorth",
+      "address": "House No. 13, Road No 69",
+      "url": "https://www.aeeadhaka.org/",
+      "id": "bangladesh-7eb8d74a21137f9eea52"
+    },
+    {
+      "name": "Sabrina's Home (Home Stay)",
+      "kind": "stay",
+      "locality": "Dhaka/North",
+      "lat": 23.798326,
+      "lon": 90.402425,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FNorth",
+      "address": "C1, House 137, Road 4, Blk A，Banani",
+      "price": "US$30/head/bed/night",
+      "id": "bangladesh-e6355fd52762e72f565c"
+    },
+    {
+      "name": "Space Apartments",
+      "kind": "stay",
+      "locality": "Dhaka/North",
+      "lat": 23.799317,
+      "lon": 90.409971,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FNorth",
+      "address": "Corner of Road 57 and Road 59",
+      "url": "http://www.spaceapartments.com/",
+      "id": "bangladesh-6c7e73a6e50ba57fcae4"
+    },
+    {
+      "name": "Green House Guesthouse",
+      "kind": "stay",
+      "locality": "Dhaka/North",
+      "lat": 23.800918,
+      "lon": 90.40793,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FNorth",
+      "address": "House 6B Road No. 68",
+      "price": "US$50-75",
+      "id": "bangladesh-936d1a6b46b74a013dd9"
+    },
+    {
+      "name": "Eastern House",
+      "kind": "stay",
+      "locality": "Dhaka/North",
+      "lat": 23.783812,
+      "lon": 90.416081,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FNorth",
+      "address": "House 4, Road 24",
+      "price": "Tk 3,420-6,156",
+      "url": "http://www.eghousedhaka.com/",
+      "id": "bangladesh-94f4153b0e7e8f13d747"
+    },
+    {
+      "name": "BRAC Centre Inn",
+      "kind": "stay",
+      "locality": "Dhaka/North",
+      "lat": 23.780112,
+      "lon": 90.41027,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FNorth",
+      "address": "75 Mohakhali",
+      "price": "Tk 4,100-5,460",
+      "url": "http://bracinn.com/",
+      "id": "bangladesh-60e8ec05079abe299c6a"
+    },
+    {
+      "name": "Hotel de Crystal Crown",
+      "kind": "stay",
+      "locality": "Dhaka/North",
+      "lat": 23.781541,
+      "lon": 90.414241,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FNorth",
+      "address": "House 5 Road 23/A",
+      "price": "US$50-80",
+      "url": "http://crystalcrownhotelbd.com/",
+      "id": "bangladesh-7cbfbb919634e9879683"
+    },
+    {
+      "name": "Radisson Blu Dhaka Water Garden",
+      "kind": "stay",
+      "locality": "Dhaka/North",
+      "lat": 23.816046,
+      "lon": 90.408752,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FNorth",
+      "address": "Airport Road",
+      "price": "$255-900",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-dhaka",
+      "id": "bangladesh-b2afeb76ff177194ac10"
+    },
+    {
+      "name": "Grand Prince Hotel",
+      "kind": "stay",
+      "locality": "Dhaka/North",
+      "lat": 23.798652,
+      "lon": 90.353931,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FNorth",
+      "address": "Mirpur Road",
+      "price": "Tk 1,368-6,840",
+      "url": "http://www.grandprince-dhaka.com/",
+      "id": "bangladesh-d059d41409dc48ea0325"
+    },
+    {
+      "name": "Le Méridien Dhaka",
+      "kind": "stay",
+      "locality": "Dhaka/North",
+      "lat": 23.835993,
+      "lon": 90.417645,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FNorth",
+      "address": "79/A Commercial Area Airport Road",
+      "url": "https://www.marriott.com/hotels/travel/dacmd-le-meridien-dhaka/",
+      "id": "bangladesh-5bd1cfd9f5f67e0285ab"
+    },
+    {
+      "name": "Dhaka/North",
+      "kind": "area",
+      "locality": "Dhaka/North",
+      "lat": 23.7927,
+      "lon": 90.4184,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FNorth",
+      "id": "bangladesh-ea6a59ea1b70e14df8ab"
+    },
+    {
+      "name": "Armenian Church of the Holy Resurrection",
+      "kind": "do",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.712667,
+      "lon": 90.403167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "address": "Armanitola Rd",
+      "id": "bangladesh-7d31d74ab570974dbf72"
+    },
+    {
+      "name": "St Thomas Church",
+      "kind": "do",
+      "locality": "Dhaka/Old Dhaka",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "id": "bangladesh-2d3b13d823ec9865b73f"
+    },
+    {
+      "name": "Chawk Mosque",
+      "kind": "do",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.716045,
+      "lon": 90.39571,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "address": "Chowk Bazaar",
+      "id": "bangladesh-39ad4014b71a245f99fa"
+    },
+    {
+      "name": "Sitara Mosque",
+      "kind": "do",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.715629,
+      "lon": 90.401728,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "address": "Armanitola Rd",
+      "id": "bangladesh-321d1b11d910e0791bac"
+    },
+    {
+      "name": "Dhakeshwari Temple",
+      "kind": "do",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.723056,
+      "lon": 90.389722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "address": "Dhakeswari Rd",
+      "id": "bangladesh-d20f16782e5008671425"
+    },
+    {
+      "name": "Hussaini Dalan Mosque",
+      "kind": "do",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.722419,
+      "lon": 90.397911,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "url": "http://hussainidalan.com/",
+      "id": "bangladesh-f0e796dadb143b0514e0"
+    },
+    {
+      "name": "Saat Masjid",
+      "kind": "do",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.757736,
+      "lon": 90.358956,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "id": "bangladesh-50294524cdbefb988efc"
+    },
+    {
+      "name": "Dhanmondi Eidgah",
+      "kind": "do",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.743055,
+      "lon": 90.373888,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "id": "bangladesh-19fe550302ef2be65bbb"
+    },
+    {
+      "name": "Khan Mohammad Mridha Mosque",
+      "kind": "do",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.720794,
+      "lon": 90.383973,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "id": "bangladesh-b7d78993fd85d815d92a"
+    },
+    {
+      "name": "Star Mosque",
+      "kind": "do",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.715779,
+      "lon": 90.401816,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "id": "bangladesh-f03a1030859e5230a4c1"
+    },
+    {
+      "name": "Binat Bibi Mosque",
+      "kind": "do",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.711109,
+      "lon": 90.418013,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "id": "bangladesh-8021b5b6f4497d025da8"
+    },
+    {
+      "name": "Kartalab Khan Mosque",
+      "kind": "do",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.71714,
+      "lon": 90.398573,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "id": "bangladesh-3ff3b72657c2c4670230"
+    },
+    {
+      "name": "Ahsan Manzil",
+      "kind": "do",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.708611,
+      "lon": 90.406111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "address": "Ahsanullah Rd",
+      "price": "Foreigners: Tk 75, under-12s: Tk 2, locals and SAARC citizens: Tk 5, disabled persons: free",
+      "url": "http://www.bangladeshmuseum.gov.bd/",
+      "id": "bangladesh-0e6d373b8b19eb799fcf"
+    },
+    {
+      "name": "Lalbagh Fort",
+      "kind": "do",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.719033,
+      "lon": 90.388058,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "address": "Lalbagh",
+      "id": "bangladesh-7ab3c5394fc942d92501"
+    },
+    {
+      "name": "Bangabandhu Memorial Museum",
+      "kind": "do",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.751599,
+      "lon": 90.376724,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "address": "Road #32, Dhanmondi",
+      "id": "bangladesh-720f9665f0d3482b8b59"
+    },
+    {
+      "name": "Bara and Choto Katras",
+      "kind": "do",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.71457,
+      "lon": 90.395306,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "id": "bangladesh-639722d53d4bf1228145"
+    },
+    {
+      "name": "Baldha Garden",
+      "kind": "do",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.71704,
+      "lon": 90.41942,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "address": "Wari",
+      "id": "bangladesh-ee0a2deb336ee3a59594"
+    },
+    {
+      "name": "Bahadur Shah Park",
+      "kind": "do",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.709357,
+      "lon": 90.412379,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "address": "Sadarghat",
+      "id": "bangladesh-19e93cd1679034710e53"
+    },
+    {
+      "name": "Sadarghat River Front",
+      "kind": "do",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.705251,
+      "lon": 90.409778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "id": "bangladesh-435fa56091ad568fd77c"
+    },
+    {
+      "name": "Bismillah Kabab",
+      "kind": "eat",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.720292,
+      "lon": 90.406217,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "address": "104 Kazi Alauddin Rd",
+      "id": "bangladesh-4000f550821061d32478"
+    },
+    {
+      "name": "Hajjee Beryani",
+      "kind": "eat",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.72066,
+      "lon": 90.405892,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "address": "70 Kazi Alauddin Road",
+      "id": "bangladesh-d96748ca8a4e204c47b0"
+    },
+    {
+      "name": "Hotel Al-Razzaque",
+      "kind": "eat",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.718263,
+      "lon": 90.408855,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "address": "29/1 North South Road",
+      "price": "Tk 50-150",
+      "id": "bangladesh-745998f674c6a3351f01"
+    },
+    {
+      "name": "Hotel Star",
+      "kind": "eat",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.720914,
+      "lon": 90.413308,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "address": "Taher Bagh Lane",
+      "id": "bangladesh-52e2dc41a9e132408fc5"
+    },
+    {
+      "name": "Beauty laccha faluda",
+      "kind": "eat",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.72144,
+      "lon": 90.40578,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "address": "30, 1 Kazi Alauddin Road",
+      "id": "bangladesh-b1273c4ebe290f60b3e1"
+    },
+    {
+      "name": "Xindian Restaurant",
+      "kind": "eat",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.75192,
+      "lon": 90.36815,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "address": "Road No 16 (old 27)",
+      "id": "bangladesh-56c13f204d7317c07950"
+    },
+    {
+      "name": "BBQ Tonight",
+      "kind": "eat",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.75222,
+      "lon": 90.36789,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "address": "Road No 16 (old 27)",
+      "id": "bangladesh-d0bda0671f0afe5d16ad"
+    },
+    {
+      "name": "Star Hotel and Restaurant",
+      "kind": "eat",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.73932,
+      "lon": 90.38101,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "address": "Dhanmondi Road 2",
+      "price": "Tk. 50-300",
+      "id": "bangladesh-f35bb0d9d7cce5f03f91"
+    },
+    {
+      "name": "Star Kabab",
+      "kind": "eat",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.74739,
+      "lon": 90.37032,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "address": "Shat Maszid Road",
+      "id": "bangladesh-f613ec0997acc1701a0b"
+    },
+    {
+      "name": "Haji Biryani",
+      "kind": "eat",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.717876,
+      "lon": 90.407066,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "id": "bangladesh-d66fa1713e5648b989ee"
+    },
+    {
+      "name": "Nanna Biryani",
+      "kind": "eat",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.722404,
+      "lon": 90.39568,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "id": "bangladesh-d4cfee6126bea56ab2c3"
+    },
+    {
+      "name": "Hotel Al-Razzaque",
+      "kind": "stay",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.718316,
+      "lon": 90.408645,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "address": "29/1 North South Rd (Nazira Bazaar)",
+      "price": "From Tk 160",
+      "id": "bangladesh-137959531838b2ffa659"
+    },
+    {
+      "name": "Hotel Grameen",
+      "kind": "stay",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.716364,
+      "lon": 90.411292,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "address": "22 Nawabpur Rd",
+      "price": "Tk 60-150",
+      "id": "bangladesh-f5e998e26c8ad95964e9"
+    },
+    {
+      "name": "Hotel Sugandha",
+      "kind": "stay",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.716401,
+      "lon": 90.41098,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "address": "24 Nawabpur Rd",
+      "price": "Tk 100-350",
+      "id": "bangladesh-fb32f389577054c98dcd"
+    },
+    {
+      "name": "Ambrosia Guest House",
+      "kind": "stay",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.739908,
+      "lon": 90.38097,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "id": "bangladesh-11d196f53843049392a9"
+    },
+    {
+      "name": "Renaissance Dhaka Gulshan Hotel",
+      "kind": "stay",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.79318941,
+      "lon": 90.41461206,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "address": "78 Gulshan Ave",
+      "url": "https://www.renaissancedhakagulshan.com/",
+      "id": "bangladesh-ff65e58d54ba6177cc03"
+    },
+    {
+      "name": "Radisson Blu Dhaka Water Garden",
+      "kind": "stay",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.81593,
+      "lon": 90.40888,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "address": "Airport Rd",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-dhaka",
+      "id": "bangladesh-9aa000d9a747def986cb"
+    },
+    {
+      "name": "Dhaka/Old Dhaka",
+      "kind": "area",
+      "locality": "Dhaka/Old Dhaka",
+      "lat": 23.7183,
+      "lon": 90.4049,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOld_Dhaka",
+      "id": "bangladesh-a25736edbac3f9bd9dbe"
+    },
+    {
+      "name": "Zinda Park",
+      "kind": "do",
+      "locality": "Dhaka/Outer",
+      "lat": 23.8656,
+      "lon": 90.5183,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "address": "Zinda Park Road",
+      "url": "http://zindapark.com/",
+      "id": "bangladesh-0d9f9384f985fe76e738"
+    },
+    {
+      "name": "Dharmarajika Buddhist Monastery Complex (Kamalapur Buddhist Monastery)",
+      "kind": "do",
+      "locality": "Dhaka/Outer",
+      "lat": 23.735529,
+      "lon": 90.429335,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "address": "Atisha Dipankar Sarak, Kamalapur",
+      "url": "http://www.dharmarajikatrustfoundation.org/",
+      "id": "bangladesh-130979c39ee2c2952036"
+    },
+    {
+      "name": "Uttara Lake",
+      "kind": "do",
+      "locality": "Dhaka/Outer",
+      "lat": 23.8719655,
+      "lon": 90.3938448,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "id": "bangladesh-881dd442e6817997cb80"
+    },
+    {
+      "name": "Sector 7 Park",
+      "kind": "do",
+      "locality": "Dhaka/Outer",
+      "lat": 23.8699734,
+      "lon": 90.3971376,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "address": "Road 1, Sector 7",
+      "id": "bangladesh-18bba9905a0d5a2fe8bb"
+    },
+    {
+      "name": "Dhaka Metro Rail Exhibition and Information Center",
+      "kind": "do",
+      "locality": "Dhaka/Outer",
+      "lat": 23.8760749,
+      "lon": 90.3661138,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "address": "Diabari Depot, Sonargaon Janapath",
+      "price": "10",
+      "id": "bangladesh-05bde84ffd0cf1e8a00c"
+    },
+    {
+      "name": "RAJUK Uttara Apartment Project",
+      "kind": "do",
+      "locality": "Dhaka/Outer",
+      "lat": 23.857115,
+      "lon": 90.352928,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "address": "Sector 18",
+      "id": "bangladesh-560f07c5d139926fc0a0"
+    },
+    {
+      "name": "Diabari Lake",
+      "kind": "do",
+      "locality": "Dhaka/Outer",
+      "lat": 23.8563355,
+      "lon": 90.3690611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "id": "bangladesh-e1f28596b344335dd1be"
+    },
+    {
+      "name": "Varsity Square",
+      "kind": "do",
+      "locality": "Dhaka/Outer",
+      "lat": 23.8517131,
+      "lon": 90.3715914,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "id": "bangladesh-05e0a18038cd5dae5036"
+    },
+    {
+      "name": "Uttara Sarbojonin Puja Temple",
+      "kind": "do",
+      "locality": "Dhaka/Outer",
+      "lat": 23.8447151,
+      "lon": 90.3694105,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "address": "Plot 1, Road 2, Block E, Sector 17",
+      "id": "bangladesh-39d99bb7ffc527f521e8"
+    },
+    {
+      "name": "Vrindavan",
+      "kind": "do",
+      "locality": "Dhaka/Outer",
+      "lat": 23.8395107,
+      "lon": 90.3683868,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "address": "Road 16, Avenue 6, Sector 17",
+      "id": "bangladesh-464c0c02b74b4e6af980"
+    },
+    {
+      "name": "Mugdho Mancha",
+      "kind": "do",
+      "locality": "Dhaka/Outer",
+      "lat": 23.8672649,
+      "lon": 90.3933674,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "address": "Sangam square, Rabindra Sarani, Sector 7",
+      "id": "bangladesh-507c6ee71dba91741ec2"
+    },
+    {
+      "name": "Fantasy Island",
+      "kind": "do",
+      "locality": "Dhaka/Outer",
+      "lat": 23.8736826,
+      "lon": 90.3726339,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "address": "Sector 15, Sonargaon Janapath",
+      "price": "200",
+      "id": "bangladesh-d7875e3800828a81a6ae"
+    },
+    {
+      "name": "Pyramid Point Resort",
+      "kind": "do",
+      "locality": "Dhaka/Outer",
+      "lat": 23.8776185,
+      "lon": 90.3663802,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "address": "North Point Road, Diabari",
+      "url": "https://www.pyramidpointbd.com/",
+      "id": "bangladesh-0b1944d2512bc3eb4778"
+    },
+    {
+      "name": "BD Kayaking Zone",
+      "kind": "do",
+      "locality": "Dhaka/Outer",
+      "lat": 23.8480954,
+      "lon": 90.3631153,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "price": "100–150",
+      "id": "bangladesh-836a09fe9f826f5cfb8a"
+    },
+    {
+      "name": "Sea Shell Restaurant and Party Palace",
+      "kind": "eat",
+      "locality": "Dhaka/Outer",
+      "lat": 23.864183,
+      "lon": 90.400403,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "address": "House 113/B, Road 7, Sector 4",
+      "id": "bangladesh-be23a13306d07a453905"
+    },
+    {
+      "name": "Harfi",
+      "kind": "eat",
+      "locality": "Dhaka/Outer",
+      "lat": 23.8693288,
+      "lon": 90.3893963,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "address": "29 Gausul Azam Avenue, Sector 14",
+      "id": "bangladesh-ba7e18cb3746d73b832d"
+    },
+    {
+      "name": "Mumbai Express",
+      "kind": "eat",
+      "locality": "Dhaka/Outer",
+      "lat": 23.8588802,
+      "lon": 90.4029684,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "address": "House 16/A, Road 4, Sector 4",
+      "id": "bangladesh-445f5eef55e62c358abe"
+    },
+    {
+      "name": "Gusto Bistro and Coffee House",
+      "kind": "eat",
+      "locality": "Dhaka/Outer",
+      "lat": 23.8558725,
+      "lon": 90.4035662,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "address": "Road 2, Sector 1",
+      "id": "bangladesh-e58496c886e732a07e40"
+    },
+    {
+      "name": "Uttara Biryani House",
+      "kind": "eat",
+      "locality": "Dhaka/Outer",
+      "lat": 23.8649308,
+      "lon": 90.3938182,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "address": "House 1, Road 14, Sector 1",
+      "id": "bangladesh-26f2428f57526c9f78bb"
+    },
+    {
+      "name": "Kebab Factory",
+      "kind": "eat",
+      "locality": "Dhaka/Outer",
+      "lat": 23.8681826,
+      "lon": 90.393932,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "address": "Lake Drive Road, Sector 7",
+      "id": "bangladesh-b44de53a3a0930c0a730"
+    },
+    {
+      "name": "Oven Pizza",
+      "kind": "eat",
+      "locality": "Dhaka/Outer",
+      "lat": 23.8787713,
+      "lon": 90.3903744,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "address": "Garibe Newaz Avenue, Sector 13",
+      "id": "bangladesh-1103bde0fc8f01997c24"
+    },
+    {
+      "name": "Bismillah Mistimukh and Bakery",
+      "kind": "eat",
+      "locality": "Dhaka/Outer",
+      "lat": 23.8747094,
+      "lon": 90.3997913,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "address": "House Building, Sector 9, Sonargaon Janapath",
+      "id": "bangladesh-9582cc53a35657cccc08"
+    },
+    {
+      "name": "Cheers",
+      "kind": "eat",
+      "locality": "Dhaka/Outer",
+      "lat": 23.8747094,
+      "lon": 90.3997913,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "address": "House Building, Sector 9, Sonargaon Janapath",
+      "id": "bangladesh-250536725bcbb912a9ea"
+    },
+    {
+      "name": "Kuwait Bangladesh Friendship Government Hospital",
+      "kind": "do",
+      "locality": "Dhaka/Outer",
+      "lat": 23.870432,
+      "lon": 90.403647,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "address": "Sector 6, Isha Khan Avenue",
+      "url": "http://kuwaitmoitreehospital.gov.bd/",
+      "id": "bangladesh-5ab8ea60a127c55b8263"
+    },
+    {
+      "name": "Uttara Adhunik Medical College and Hospital",
+      "kind": "do",
+      "locality": "Dhaka/Outer",
+      "lat": 23.874854,
+      "lon": 90.3968001,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "address": "House 34, Road 4, Sector 9, Sonargaon Janapath",
+      "url": "http://uamcedu.org/",
+      "id": "bangladesh-253d1cce8cee28ca29fb"
+    },
+    {
+      "name": "MCW Hospital",
+      "kind": "do",
+      "locality": "Dhaka/Outer",
+      "lat": 23.8582252,
+      "lon": 90.4009001,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "address": "House 4, Road 8, Sector 1",
+      "url": "http://mcwhospital.com/",
+      "id": "bangladesh-d19260b7c9b81bf6da04"
+    },
+    {
+      "name": "Shaheed Monsur Ali Medical College Hospital",
+      "kind": "do",
+      "locality": "Dhaka/Outer",
+      "lat": 23.8788209,
+      "lon": 90.3928528,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "address": "House 26, Road 10, Sector 11",
+      "url": "http://smamedicalcollege-bd.com/",
+      "id": "bangladesh-884fda6775b01605702c"
+    },
+    {
+      "name": "Best Western Plus Maple Leaf",
+      "kind": "stay",
+      "locality": "Dhaka/Outer",
+      "lat": 23.8552426,
+      "lon": 90.404097,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "address": "Plot 1B, Road 1, Sector 1",
+      "url": "https://www.mapleleafhotels.com/",
+      "id": "bangladesh-f87cdf1edff23496ea8b"
+    },
+    {
+      "name": "Hotel De Meridian",
+      "kind": "stay",
+      "locality": "Dhaka/Outer",
+      "lat": 23.8723245,
+      "lon": 90.4009253,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "address": "Plot 12, Road 12, Sector 6",
+      "id": "bangladesh-5cc421f9b13911e96ccb"
+    },
+    {
+      "name": "Grand Plaza Hotel",
+      "kind": "stay",
+      "locality": "Dhaka/Outer",
+      "lat": 23.8770286,
+      "lon": 90.3970711,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "address": "Plot 29, Road 3/B, Sector 9",
+      "id": "bangladesh-5d6a1df7dc976e65350b"
+    },
+    {
+      "name": "Platinum Hotel Limited",
+      "kind": "stay",
+      "locality": "Dhaka/Outer",
+      "lat": 23.8789356,
+      "lon": 90.390183,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "address": "Plot 44, Road 10, Sector 11",
+      "id": "bangladesh-0094759c875f7828133b"
+    },
+    {
+      "name": "Marino Royal Hotel",
+      "kind": "stay",
+      "locality": "Dhaka/Outer",
+      "lat": 23.8616407,
+      "lon": 90.3965425,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "address": "Plot 25, Road 3, Sector 3",
+      "url": "http://www.marinoroyal.com/",
+      "id": "bangladesh-85c05dde2813842104a2"
+    },
+    {
+      "name": "Dhaka/Outer",
+      "kind": "area",
+      "locality": "Dhaka/Outer",
+      "lat": 23.804,
+      "lon": 90.423,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dhaka%2FOuter",
+      "id": "bangladesh-bcbad245af72814f5ca1"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 6 distinct public Wikivoyage source pages; attempted 6 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

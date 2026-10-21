@@ -22,6 +22,24 @@ Every country includes highlights and a seasonal travel window. These are broad 
 
 The country explorer supports text, region, month, travel-style and A–Z filters. Filters are retained in the URL; results load in batches of 24.
 
+## Country travel guides
+
+Each country page now opens a travel guide immediately below its cover: **Where to Stay**, **Where to Eat**, **Travel Budget**, **Things to Do** and **Trip Planning**. The shared layout uses compact headings, horizontally scrollable section navigation on small screens, touch-sized save controls, grouped filters with a clear action, and consistent listing and budget cards across all countries. Search by destination/locality, name or address. Source-labelled mid-range/premium filters never infer a hotel's standard from its name. Food highlights and existing seasonal destination guides remain available alongside researched listings.
+
+[travelResearch.json](src/data/travelResearch.json) stores public-source listing facts, retrieval dates, provenance and explicit per-country coverage status. Refresh with `node scripts/research-travel-guides.mjs` (network required); review the resulting coverage and source changes before publishing. Retrieval does not verify that a venue remains open or a quoted price is current. Missing prices, coordinates and tiers are not fabricated; partial coverage is visibly labelled in a compact notice, with research notes available by expanding **Details**. Country/destination coverage is not a guarantee of complete venue coverage.
+
+The researched snapshot contains 27,396 places across 195 country records, with 20,007 sourced coordinate pairs and 8,469 source-listed prices. Coverage is marked researched for 148 countries and partial for 47; these labels describe retrieval coverage, not a verification of business status or safety. The importer targets all 91 existing destinations plus countries and capitals, with bounded district follow-up.
+
+The browser loads only the selected country's generated chunk from [travelResearch/](src/data/travelResearch), not the complete research catalog. Loading failures offer a page reload without erasing saved trips (a failed module import can remain cached until reload). Regenerate the per-country chunks offline with `node scripts/research-travel-guides.mjs --split` after changing the aggregate. Existing country content and the budget calculator remain available; the new researched listings load after the prerendered page mounts.
+
+The interactive Leaflet map uses OpenStreetMap tiles and visible attribution. Red numbered markers correspond to the visible filtered results; only sourced coordinates are plotted. Map search links and the full place list remain usable if tiles fail. Leaflet loads only in the browser, preserving prerendering. Map providers receive normal public tile/search requests; no API key or browser geolocation is used.
+
+The USD budget comparison is an **editable illustrative calculator, not country-specific market-price research**. Accommodation uses rooms × nights (days minus one); other categories use travellers × days, plus a 10% contingency. International flights, intercity transfers, visas, insurance and exceptional activities are excluded. Local-currency listing prices are not silently converted to USD.
+
+Add places to a per-country shortlist saved in browser storage. A 3/5/7/10/14-day draft groups saved places by locality without claiming to optimize travel times. Storage failures fall back to the current visit. Confirm distances, reservations and seasonal access before using the draft as an itinerary.
+
+Validate with `node --test tests/travel-guide.test.mjs`, `npm run typecheck` and `npm run build`.
+
 ## Navigation and saved destinations
 
 Desktop and mobile navigation expose Explore, By Month, Experiences, Countries, World, Events, Phenomena and Wanderlist, including active states for detail pages. Site search covers countries, destinations, events and phenomena. Search and mobile menus close on navigation, Escape or outside interaction.
@@ -48,7 +66,7 @@ After deploying content changes, verify the live homepage title and description,
 
 The production origin defaults to **https://whentowander.vercel.app**, matching the GitHub repository's configured homepage. Change [site.json](src/data/site.json), or set `VITE_SITE_URL` to a public HTTP(S) origin before building; do not include a path or trailing query. Both prerendered and client metadata use that origin. After deployment, submit `/sitemap.xml` in Google Search Console and Bing Webmaster Tools. No ranking or indexing guarantee is implied.
 
-The original amber compass-and-sun mark is used in navigation, the footer, browser icons, touch icons and social cards. Regenerate these assets with `powershell -NoProfile -File scripts/generate-brand-assets.ps1` on Windows. The manifest provides browser branding, not offline functionality. The original homepage background remains unchanged.
+An original dimensional metallic compass with an amber sun accent and subtle landscape engravings is used in navigation, the footer, browser icons, touch icons and social cards. The supplied visual reference informs the design; the reference image itself is not embedded. Artwork simplifies at small sizes to keep favicons readable. Regenerate these assets with `powershell -NoProfile -File scripts/generate-brand-assets.ps1` on Windows. The manifest provides browser branding, not offline functionality. The original homepage background remains unchanged.
 
 ## Photography
 

@@ -1,0 +1,587 @@
+{
+  "sources": [
+    {
+      "title": "El Salvador",
+      "url": "https://en.wikivoyage.org/wiki/El_Salvador",
+      "checkedAt": "2026-10-21T08:09:31.334Z"
+    },
+    {
+      "title": "San Salvador",
+      "url": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "checkedAt": "2026-10-21T08:09:34.717Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "San Salvador",
+      "kind": "area",
+      "locality": "El Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/El_Salvador",
+      "id": "el-salvador-e0d2b9d162f30a0301a0"
+    },
+    {
+      "name": "La Libertad",
+      "kind": "area",
+      "locality": "El Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/El_Salvador",
+      "id": "el-salvador-3b9f46b0b28bfc2a3387"
+    },
+    {
+      "name": "Santa Ana",
+      "kind": "area",
+      "locality": "El Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/El_Salvador",
+      "id": "el-salvador-e724d2da05b1d631e138"
+    },
+    {
+      "name": "San Miguel",
+      "kind": "area",
+      "locality": "El Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/El_Salvador",
+      "id": "el-salvador-7f8e0c40f368f51ad6cd"
+    },
+    {
+      "name": "Acajutla",
+      "kind": "area",
+      "locality": "El Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/El_Salvador",
+      "id": "el-salvador-411a7dca15d57de34317"
+    },
+    {
+      "name": "Ahuachapán",
+      "kind": "area",
+      "locality": "El Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/El_Salvador",
+      "id": "el-salvador-9488d79fd1d0d4fa7c82"
+    },
+    {
+      "name": "Santa Tecla",
+      "kind": "area",
+      "locality": "El Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/El_Salvador",
+      "id": "el-salvador-b3526326fb6941f48d8b"
+    },
+    {
+      "name": "Suchitoto",
+      "kind": "area",
+      "locality": "El Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/El_Salvador",
+      "id": "el-salvador-6d4a83a68d587d773290"
+    },
+    {
+      "name": "San Francisco Gotera",
+      "kind": "area",
+      "locality": "El Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/El_Salvador",
+      "id": "el-salvador-d7f02654fb2ea22a781c"
+    },
+    {
+      "name": "Metropolitan Cathedral Of San Salvador",
+      "kind": "do",
+      "locality": "San Salvador",
+      "lat": 13.69859,
+      "lon": -89.191094,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Calle Ruben Dario",
+      "id": "el-salvador-d6c4c859e1af008b65aa"
+    },
+    {
+      "name": "National Palace",
+      "kind": "do",
+      "locality": "San Salvador",
+      "lat": 13.697686,
+      "lon": -89.192057,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Avenida Cuscatlan",
+      "url": "http://www.cultura.gob.sv/palacio-nacional/",
+      "id": "el-salvador-e2a7e8dd3da66720a0df"
+    },
+    {
+      "name": "Monument to the Divine Savior of the World",
+      "kind": "do",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "id": "el-salvador-54896031ae1f41f3fae0"
+    },
+    {
+      "name": "Monument of Memory and Truth",
+      "kind": "do",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "id": "el-salvador-7de079943704fee642d6"
+    },
+    {
+      "name": "Rosario Church",
+      "kind": "do",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "id": "el-salvador-dc6f8fbaebc633c7fc54"
+    },
+    {
+      "name": "Dr. David J. Guzmán National Museum",
+      "kind": "do",
+      "locality": "San Salvador",
+      "lat": 13.686988,
+      "lon": -89.238804,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Avenida De La Revolucion",
+      "url": "https://www.cultura.gob.sv/marco-institucional/direccion-nacional-de-museos-y-salas-de-exposicion/museo-nacional-de-antropologia-muna/",
+      "id": "el-salvador-373b3f75efe7cfa56ce7"
+    },
+    {
+      "name": "Museum of Art of El Salvador",
+      "kind": "do",
+      "locality": "San Salvador",
+      "lat": 13.692644,
+      "lon": -89.24198,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Colonia San Benito",
+      "url": "https://museomarte.org/",
+      "id": "el-salvador-193ebd3977e34ef60a86"
+    },
+    {
+      "name": "Monseñor Romero Center",
+      "kind": "do",
+      "locality": "San Salvador",
+      "lat": 13.67889,
+      "lon": -89.23573,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "url": "http://www.uca.edu.sv/cmr",
+      "id": "el-salvador-232e10315e66f0824267"
+    },
+    {
+      "name": "Railway Museum and Theme Park",
+      "kind": "do",
+      "locality": "San Salvador",
+      "lat": 13.70067,
+      "lon": -89.17749,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Av. Peralta 903",
+      "id": "el-salvador-bbb3b5fe8897e4c7a9e1"
+    },
+    {
+      "name": "Cinemark",
+      "kind": "do",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "url": "https://www.cinemarkca.com/el-salvador/cine",
+      "id": "el-salvador-76be78a3623b411e64d3"
+    },
+    {
+      "name": "Multicinema",
+      "kind": "do",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "url": "http://www.multicinema.com.sv/",
+      "id": "el-salvador-3b9af0d0caa42ca5c497"
+    },
+    {
+      "name": "Cinepolis",
+      "kind": "do",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "url": "http://www.cinepolis.com.sv/",
+      "id": "el-salvador-cf1bf8c37acedf579097"
+    },
+    {
+      "name": "Jugueton San Salvador",
+      "kind": "do",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Boulevard de los proceres #2000",
+      "url": "https://jugueton.com.sv/",
+      "id": "el-salvador-afcf2ffe6da2e479aa1e"
+    },
+    {
+      "name": "National Theatre of El Salvador",
+      "kind": "do",
+      "locality": "San Salvador",
+      "lat": 13.698653,
+      "lon": -89.190378,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Calle Delgado",
+      "url": "http://www.cultura.gob.sv/teatro-nacional-de-san-salvador/",
+      "id": "el-salvador-ea31239f2d6bc8a61306"
+    },
+    {
+      "name": "Teatro Presidente",
+      "kind": "do",
+      "locality": "San Salvador",
+      "lat": 13.6934,
+      "lon": -89.241491,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "33 Ave Norte",
+      "url": "http://www.cultura.gob.sv/tag/teatro-presidente/",
+      "id": "el-salvador-44df98ac349cf36504eb"
+    },
+    {
+      "name": "La Panetière",
+      "kind": "eat",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "url": "http://www.lapanetiere.com.sv/",
+      "id": "el-salvador-046229db296367d766af"
+    },
+    {
+      "name": "Sal y pimienta",
+      "kind": "eat",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Bulevar Del Hipodromo 572",
+      "url": "https://www.facebook.com/salypimientasv/",
+      "id": "el-salvador-402996d06c9cae2b8438"
+    },
+    {
+      "name": "Restaurante Pasquale",
+      "kind": "eat",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "CP 1101, Paseo General Escalón #3931",
+      "url": "https://www.facebook.com/Pasquale.sv/",
+      "id": "el-salvador-804a5850f1af1f19230a"
+    },
+    {
+      "name": "Tre fratelli",
+      "kind": "eat",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Km. 15.5 Carretera a El Salvador",
+      "url": "https://www.facebook.com/Tre-Fratelli-1814648055439757/",
+      "id": "el-salvador-2116cc31d5cfdb844da2"
+    },
+    {
+      "name": "Al Pomodoro",
+      "kind": "eat",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Ave. La Revolución y, Calle Circunvalacion 184",
+      "url": "https://otromedio.info/alpomodoro/menu-principal/",
+      "id": "el-salvador-6fcec189ad9db7ef5f86"
+    },
+    {
+      "name": "Dynasty",
+      "kind": "eat",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Bulevar del Hipódromo 738-B",
+      "url": "http://dynastyrestaurante.com/",
+      "id": "el-salvador-9a21b4f8b09710ecee25"
+    },
+    {
+      "name": "Sushi-Itto",
+      "kind": "eat",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Bulevar Del Hipodromo 407",
+      "url": "https://www.sushi-itto.com.sv/",
+      "id": "el-salvador-3045340da2c17ff27a86"
+    },
+    {
+      "name": "Restaurante Pueblo Viejo",
+      "kind": "eat",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "CC Metrosur, Boulevard de los Heroes y, Avenida Los Andes",
+      "url": "https://www.facebook.com/Restaurante.PuebloViejo/",
+      "id": "el-salvador-dc7efe207a7af75cc5f1"
+    },
+    {
+      "name": "Los Balcones Buffet",
+      "kind": "eat",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "R-5 at km 40.5, south of San Salvador towards airport",
+      "id": "el-salvador-c0fbadf35e65aedfb9a7"
+    },
+    {
+      "name": "Restaurante Club Campestre",
+      "kind": "eat",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "id": "el-salvador-a3ac3573d27d0e14a561"
+    },
+    {
+      "name": "168 Chinese Restaurant",
+      "kind": "eat",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "url": "http://restaurante168.com/",
+      "id": "el-salvador-bbf4b5a9d66a0eec4d47"
+    },
+    {
+      "name": "Cervecería La 20 Zona Rosa",
+      "kind": "eat",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Calle La Reforma local #225",
+      "url": "https://www.instagram.com/cerveceriala20zonarosa/?hl=es",
+      "id": "el-salvador-75a15cbe0d372eeb7332"
+    },
+    {
+      "name": "La Pampa Argentina",
+      "kind": "eat",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "id": "el-salvador-523fb632390afb52dfaa"
+    },
+    {
+      "name": "Hacienda de los Miranda",
+      "kind": "eat",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Final calle las Rosas y, C. Antigua Ferrocarril",
+      "url": "https://www.hdalosmiranda.com/",
+      "id": "el-salvador-9ef767978241cb484e59"
+    },
+    {
+      "name": "Faisca do Brasil",
+      "kind": "eat",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Boulevard De Los Heroes y, C. Los Sisimiles",
+      "url": "https://www.ihg.com/intercontinental/hotels/us/en/san-salvador/sslhb/hoteldetail",
+      "id": "el-salvador-f4d6203d8ae6a3db7b50"
+    },
+    {
+      "name": "Jeques",
+      "kind": "eat",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "url": "https://m.facebook.com/JequesGourmet/",
+      "id": "el-salvador-61ea5e14fb1ab9b1c972"
+    },
+    {
+      "name": "Hostal Esencia Nativa",
+      "kind": "stay",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "price": "Doubles from $15",
+      "url": "http://www.esencianativa.com/",
+      "id": "el-salvador-51cd0d574d82e61cd8f0"
+    },
+    {
+      "name": "International Guest House",
+      "kind": "stay",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "35 Avenida Norte 9",
+      "price": "$16-26",
+      "id": "el-salvador-628e71b022ecac4d208a"
+    },
+    {
+      "name": "Hotel Tazumal House",
+      "kind": "stay",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "url": "http://www.hoteltazumalhouse.com/",
+      "id": "el-salvador-6c5699051e9a6eafee45"
+    },
+    {
+      "name": "Ximenas Guest House",
+      "kind": "stay",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Calle San Salvador 202",
+      "price": "Dorms $7, $9 w/hot shower, privates $18-35, varying by AC, number of beds, hot water, TV",
+      "id": "el-salvador-32089731f7aad7a511fb"
+    },
+    {
+      "name": "Hostal Cumbres Del Volcan Flor Blanca",
+      "kind": "stay",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "6-10 Calle Poniente #1937 Colonia Flor Blanca",
+      "price": "$8 per person",
+      "url": "https://www.cumbresdelvolcan.com/",
+      "id": "el-salvador-accdc42cf37d0918542f"
+    },
+    {
+      "name": "Ramada Inn",
+      "kind": "stay",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "85 Av. Sur y calle Juan Jose Cañas",
+      "id": "el-salvador-78afef2f742066409f1b"
+    },
+    {
+      "name": "Quality Real Hotel Aeropuerto San Salvador",
+      "kind": "stay",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "url": "https://www.choicehotels.com/el-salvador/san-salvador/quality-inn-hotels/sv002",
+      "id": "el-salvador-07d3a518ecffb911768b"
+    },
+    {
+      "name": "Hotel Happy House",
+      "kind": "stay",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Avenida Los Sisimiles, #2951, Colonia Miramontes",
+      "url": "https://www.facebook.com/Hotel-Happy-House-1266744446790218/",
+      "id": "el-salvador-7c29acc723a60a62d596"
+    },
+    {
+      "name": "Holiday Inn",
+      "kind": "stay",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Urbanización y Boulevard Santa Elena a 400 m de la Embajada Americana.",
+      "url": "https://www.ihg.com/holidayinn/hotels/us/en/san-salvador/sslrc/hoteldetail",
+      "id": "el-salvador-0945b88e69d6d4fdde7a"
+    },
+    {
+      "name": "Best Western Plus Hotel Terraza",
+      "kind": "stay",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "85 Ave. Sur y Calle Padres Aguilar Colonia Escalón",
+      "url": "https://www.bestwestern.com/en_US/book/hotels-in-san-salvador/best-western-plus-hotel-terraza/propertyCode.70702.html",
+      "id": "el-salvador-4340cd21d04bb9d312d8"
+    },
+    {
+      "name": "Hotel Alicante",
+      "kind": "stay",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Col. La Sultana Calle las Rosas Â·1",
+      "price": "$56",
+      "id": "el-salvador-f5883a3a28138020b2ec"
+    },
+    {
+      "name": "Hotel Casa Berlin",
+      "kind": "stay",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Avenida El Espino Lote No 62-64, Santa Elena, Madreselva, Antiguo Cuscatlán.",
+      "url": "http://hotelberlin.com.sv/",
+      "id": "el-salvador-725c8c1eebc8ee604703"
+    },
+    {
+      "name": "Hotel Capital",
+      "kind": "stay",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Autopista Sur, Boulevard La Sultana y Pasaje Monelca.",
+      "url": "https://www.hoteleselsalvador.com/sv/hotel-capital/",
+      "id": "el-salvador-48b7bea2679bbf9f84bc"
+    },
+    {
+      "name": "Hotel Manantiales",
+      "kind": "stay",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Avenida Los Sisimiles Pje. #5 casa 2943, Colonia Miramonte",
+      "url": "https://www.hotelmanantiales.com.sv/",
+      "id": "el-salvador-5584279d0527fd66f68b"
+    },
+    {
+      "name": "Hotel Grecia Inn",
+      "kind": "stay",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Avenida Sisimiles 2922, Colonia Miramonte",
+      "url": "https://www.hotelgreciarealelsalvador.com/",
+      "id": "el-salvador-a30976fb465e158d96e2"
+    },
+    {
+      "name": "Hotel Mediterraneo Plaza",
+      "kind": "stay",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "15 Calle Pte. No. 4319, Col. Escalón",
+      "url": "http://www.hotelmedplaz.com.sv/",
+      "id": "el-salvador-994e711ea7c25bc97a7e"
+    },
+    {
+      "name": "Hotel Mirador Plaza",
+      "kind": "stay",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Calle El Mirador y 95 Ave. Norte Col. Escalón",
+      "url": "http://www.miradorplaza.com/",
+      "id": "el-salvador-38b67ddff57026614d9c"
+    },
+    {
+      "name": "Novo Aparthotel",
+      "kind": "stay",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Final 61 Ave. Nte. Col. Escalon",
+      "url": "http://novosuitehotel.com/",
+      "id": "el-salvador-c6eb379409da4e87615b"
+    },
+    {
+      "name": "Hotel Merliot",
+      "kind": "stay",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Col. Jardines de cuscatlan, Polígono G, No. 24, Av. L-A, Ciudad Merliot.",
+      "url": "http://www.hotelmerliot.com/",
+      "id": "el-salvador-bc6a1cc345d88efc4068"
+    },
+    {
+      "name": "Courtyard San Salvador",
+      "kind": "stay",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Esquina Calle 2 y calle 3, Centro de Estilo de Vida La Gran Via",
+      "url": "https://www.marriott.com/hotels/travel/salcy-courtyard-san-salvador/",
+      "id": "el-salvador-a1c6f67d8ef0705bc4f2"
+    },
+    {
+      "name": "InterContinental San Salvador-Metrocentro Mall",
+      "kind": "stay",
+      "locality": "San Salvador",
+      "lat": 13.707302,
+      "lon": -89.213391,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Boulevard de Los Héroes",
+      "price": "$100-450",
+      "url": "https://www.ihg.com/intercontinental/hotels/us/en/san-salvador/sslhb/hoteldetail",
+      "id": "el-salvador-9256757c8ec46a04713e"
+    },
+    {
+      "name": "Crowne Plaza Hotel",
+      "kind": "stay",
+      "locality": "San Salvador",
+      "lat": 13.709544,
+      "lon": -89.241263,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "89 Avenida Norte",
+      "price": "Rooms from $139 per person, per night",
+      "url": "https://www.ihg.com/crowneplaza/hotels/us/en/san-salvador/sslcp/hoteldetail",
+      "id": "el-salvador-a1b027b00149a3ec9a17"
+    },
+    {
+      "name": "Sheraton Presidente",
+      "kind": "stay",
+      "locality": "San Salvador",
+      "lat": 13.691375,
+      "lon": -89.241719,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Avenida De La Revolucion",
+      "url": "https://www.marriott.com/hotels/travel/salsi-sheraton-presidente-san-salvador-hotel/",
+      "id": "el-salvador-f4a5aadae527b976ed9d"
+    },
+    {
+      "name": "China",
+      "kind": "do",
+      "locality": "San Salvador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "address": "Avenida Olímpica #3742, Entre 71 y 73 Avenida S",
+      "url": "http://sv.china-embassy.gov.cn/",
+      "id": "el-salvador-6de756d7cdd83be9cbee"
+    },
+    {
+      "name": "San Salvador",
+      "kind": "area",
+      "locality": "San Salvador",
+      "lat": 13.69,
+      "lon": -89.19,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Salvador",
+      "id": "el-salvador-a61b779b0a79097269e7"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

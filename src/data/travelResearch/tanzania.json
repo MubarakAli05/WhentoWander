@@ -1,0 +1,231 @@
+{
+  "sources": [
+    {
+      "title": "Tanzania",
+      "url": "https://en.wikivoyage.org/wiki/Tanzania",
+      "checkedAt": "2026-10-21T08:06:34.261Z"
+    },
+    {
+      "title": "Dodoma",
+      "url": "https://en.wikivoyage.org/wiki/Dodoma",
+      "checkedAt": "2026-10-21T08:06:37.754Z"
+    },
+    {
+      "title": "Serengeti National Park",
+      "url": "https://en.wikivoyage.org/wiki/Serengeti_National_Park",
+      "checkedAt": "2026-10-21T08:06:43.195Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Dodoma",
+      "kind": "area",
+      "locality": "Tanzania",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tanzania",
+      "id": "tanzania-e436367fb72d41c3babd"
+    },
+    {
+      "name": "Arusha",
+      "kind": "area",
+      "locality": "Tanzania",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tanzania",
+      "id": "tanzania-ec569a85c2fe3f47658a"
+    },
+    {
+      "name": "Dar es Salaam",
+      "kind": "area",
+      "locality": "Tanzania",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tanzania",
+      "id": "tanzania-4a9b525845397933485a"
+    },
+    {
+      "name": "Kigoma",
+      "kind": "area",
+      "locality": "Tanzania",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tanzania",
+      "id": "tanzania-2429586ecea0a1b4cef5"
+    },
+    {
+      "name": "Mbeya",
+      "kind": "area",
+      "locality": "Tanzania",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tanzania",
+      "id": "tanzania-67fa775303cc3c2a4a9e"
+    },
+    {
+      "name": "Morogoro",
+      "kind": "area",
+      "locality": "Tanzania",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tanzania",
+      "id": "tanzania-03c1f010efb1669491a6"
+    },
+    {
+      "name": "Moshi",
+      "kind": "area",
+      "locality": "Tanzania",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tanzania",
+      "id": "tanzania-f6c6854912357591b920"
+    },
+    {
+      "name": "Mtwara",
+      "kind": "area",
+      "locality": "Tanzania",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tanzania",
+      "id": "tanzania-57ebcd91234a2b8d2bd5"
+    },
+    {
+      "name": "Mwanza",
+      "kind": "area",
+      "locality": "Tanzania",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tanzania",
+      "id": "tanzania-8994990852c4524e96d1"
+    },
+    {
+      "name": "Bunge la Tanzania",
+      "kind": "do",
+      "locality": "Dodoma",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dodoma",
+      "url": "http://www.parliament.go.tz/",
+      "id": "tanzania-d7ba84d724d3a4116671"
+    },
+    {
+      "name": "Ismaili Mosque",
+      "kind": "do",
+      "locality": "Dodoma",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dodoma",
+      "id": "tanzania-fdd0d8ade2067ac43182"
+    },
+    {
+      "name": "Lion Rock",
+      "kind": "do",
+      "locality": "Dodoma",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dodoma",
+      "id": "tanzania-6b09907afb50993579d6"
+    },
+    {
+      "name": "Excursions",
+      "kind": "do",
+      "locality": "Dodoma",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dodoma",
+      "id": "tanzania-36197616615e57f3c91c"
+    },
+    {
+      "name": "Swimming Pool",
+      "kind": "do",
+      "locality": "Dodoma",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dodoma",
+      "id": "tanzania-b1222bc6f0528c7d0bb0"
+    },
+    {
+      "name": "Gym",
+      "kind": "do",
+      "locality": "Dodoma",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dodoma",
+      "id": "tanzania-ca42bbf424383e171935"
+    },
+    {
+      "name": "Acacia Bar and Restaurant",
+      "kind": "eat",
+      "locality": "Dodoma",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dodoma",
+      "address": "PO Box 1521",
+      "price": "TSh 3,000-8,000",
+      "id": "tanzania-acb582134bea76cd1b48"
+    },
+    {
+      "name": "Kidia Vision Hotel",
+      "kind": "stay",
+      "locality": "Dodoma",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dodoma",
+      "price": "30,000 Tsh",
+      "id": "tanzania-356a1fa74e3e28ae4b21"
+    },
+    {
+      "name": "Kilondoma Inn",
+      "kind": "stay",
+      "locality": "Dodoma",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dodoma",
+      "address": "off Ndovu Road",
+      "price": "TSh 25,000",
+      "id": "tanzania-d1b9fdd10f10363a6e55"
+    },
+    {
+      "name": "Golden Rose Guest House",
+      "kind": "stay",
+      "locality": "Dodoma",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dodoma",
+      "address": "Umoja Road",
+      "price": "15,000 Tzs",
+      "id": "tanzania-687611d52f8bd844fad3"
+    },
+    {
+      "name": "Calman Lodge",
+      "kind": "stay",
+      "locality": "Dodoma",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dodoma",
+      "price": "from 25,000Tsh",
+      "id": "tanzania-1d30f28d01a580b8a61c"
+    },
+    {
+      "name": "New Dodoma Hotel",
+      "kind": "stay",
+      "locality": "Dodoma",
+      "lat": -6.1848,
+      "lon": 35.7488,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dodoma",
+      "url": "https://www.dodomahotel.info/",
+      "id": "tanzania-c413c259510bddcf3d71"
+    },
+    {
+      "name": "Dodoma",
+      "kind": "area",
+      "locality": "Dodoma",
+      "lat": -6.173056,
+      "lon": 35.741944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dodoma",
+      "id": "tanzania-9690a4d100fea81c5ce1"
+    },
+    {
+      "name": "Mapito Tented Camp",
+      "kind": "stay",
+      "locality": "Serengeti National Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Serengeti_National_Park",
+      "url": "http://www.mapito-camp-serengeti.com/",
+      "id": "tanzania-92e46d08bfe4d58a2cdd"
+    },
+    {
+      "name": "Mwanga Moto Mobile Luxury Camp",
+      "kind": "stay",
+      "locality": "Serengeti National Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Serengeti_National_Park",
+      "url": "http://www.firelightexpeditions.com/",
+      "id": "tanzania-2e3a7358f36d0d17da75"
+    },
+    {
+      "name": "Serengeti Migration Camp",
+      "kind": "stay",
+      "locality": "Serengeti National Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Serengeti_National_Park",
+      "url": "http://www.elewana.com/smc/serengeti-migration-camp.html",
+      "id": "tanzania-ba5821c640e33557bb67"
+    },
+    {
+      "name": "Kensington Camps",
+      "kind": "stay",
+      "locality": "Serengeti National Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Serengeti_National_Park",
+      "id": "tanzania-7c6bb1ce23bd5be6af4c"
+    },
+    {
+      "name": "Serengeti National Park",
+      "kind": "area",
+      "locality": "Serengeti National Park",
+      "lat": -2.332778,
+      "lon": 34.566667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Serengeti_National_Park",
+      "id": "tanzania-c82819a1a124665f160e"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 3 distinct public Wikivoyage source pages; attempted 3 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Destination article routing (regional/landmark guides may use a nearby gateway): Serengeti → Serengeti National Park."
+}

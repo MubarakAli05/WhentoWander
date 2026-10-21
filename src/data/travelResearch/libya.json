@@ -1,0 +1,231 @@
+{
+  "sources": [
+    {
+      "title": "Libya",
+      "url": "https://en.wikivoyage.org/wiki/Libya",
+      "checkedAt": "2026-10-21T08:10:40.475Z"
+    },
+    {
+      "title": "Tripoli",
+      "url": "https://en.wikivoyage.org/wiki/Tripoli",
+      "checkedAt": "2026-10-21T08:10:43.261Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Tripoli",
+      "kind": "area",
+      "locality": "Libya",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libya",
+      "id": "libya-21eb51c788f53dd4fad6"
+    },
+    {
+      "name": "Benghazi",
+      "kind": "area",
+      "locality": "Libya",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libya",
+      "id": "libya-8cc6dd5e337e9a72614b"
+    },
+    {
+      "name": "Ghadamis",
+      "kind": "area",
+      "locality": "Libya",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libya",
+      "id": "libya-3154bc544bf06b7fe195"
+    },
+    {
+      "name": "Sabha",
+      "kind": "area",
+      "locality": "Libya",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libya",
+      "id": "libya-962424b01c9986539dd4"
+    },
+    {
+      "name": "Shahhat",
+      "kind": "area",
+      "locality": "Libya",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libya",
+      "id": "libya-2992183eef71804ac354"
+    },
+    {
+      "name": "Sirte",
+      "kind": "area",
+      "locality": "Libya",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libya",
+      "id": "libya-4d76c75767c9a156aba9"
+    },
+    {
+      "name": "Tobruk",
+      "kind": "area",
+      "locality": "Libya",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libya",
+      "id": "libya-b45444c6c4c0223404a7"
+    },
+    {
+      "name": "Zuwara",
+      "kind": "area",
+      "locality": "Libya",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libya",
+      "id": "libya-1414b93a4f1b5298b1cb"
+    },
+    {
+      "name": "Misrata",
+      "kind": "area",
+      "locality": "Libya",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Libya",
+      "id": "libya-de4862121a483a025d04"
+    },
+    {
+      "name": "Gurgi Mosque",
+      "kind": "do",
+      "locality": "Tripoli",
+      "lat": 32.899444,
+      "lon": 13.175556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tripoli",
+      "id": "libya-618a2d434d1a99865a32"
+    },
+    {
+      "name": "Karamanli Mosque",
+      "kind": "do",
+      "locality": "Tripoli",
+      "lat": 32.8953,
+      "lon": 13.1796,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tripoli",
+      "id": "libya-1fca0818f11c06ad6b00"
+    },
+    {
+      "name": "Arch of Marcus Aurelius",
+      "kind": "do",
+      "locality": "Tripoli",
+      "lat": 32.8999,
+      "lon": 13.1757,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tripoli",
+      "id": "libya-c7d5775b724937f840ad"
+    },
+    {
+      "name": "Martyrs' Square",
+      "kind": "do",
+      "locality": "Tripoli",
+      "lat": 32.895,
+      "lon": 13.1811,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tripoli",
+      "id": "libya-854542962f054913921b"
+    },
+    {
+      "name": "Jamal Abdul Nasser Mosque",
+      "kind": "do",
+      "locality": "Tripoli",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tripoli",
+      "address": "Algeria Square",
+      "id": "libya-cecbc6228233f361f983"
+    },
+    {
+      "name": "Anglican Church of Christ The King",
+      "kind": "do",
+      "locality": "Tripoli",
+      "lat": 32.8982,
+      "lon": 13.1758,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tripoli",
+      "id": "libya-a147fcf8d21d7c05b4ed"
+    },
+    {
+      "name": "Red Castle Museum",
+      "kind": "do",
+      "locality": "Tripoli",
+      "lat": 32.895833,
+      "lon": 13.180278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tripoli",
+      "id": "libya-1df19ead86f9f711f6a0"
+    },
+    {
+      "name": "Museum of Libya",
+      "kind": "do",
+      "locality": "Tripoli",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tripoli",
+      "id": "libya-ae7bb8737bf051df563c"
+    },
+    {
+      "name": "Karamanly House Museum",
+      "kind": "do",
+      "locality": "Tripoli",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tripoli",
+      "id": "libya-6db3da0da81d50689596"
+    },
+    {
+      "name": "Darghouth Turkish Bath",
+      "kind": "do",
+      "locality": "Tripoli",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tripoli",
+      "id": "libya-ebc37fa3d9b98e0e8e15"
+    },
+    {
+      "name": "Radisson Blu",
+      "kind": "do",
+      "locality": "Tripoli",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tripoli",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-tripoli-al-mahary",
+      "id": "libya-a997ce348613ad179d93"
+    },
+    {
+      "name": "Corinthia",
+      "kind": "do",
+      "locality": "Tripoli",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tripoli",
+      "url": "http://www.corinthia.com/home?c=8",
+      "id": "libya-d194c40d9c1f54617eee"
+    },
+    {
+      "name": "Radisson Blu Al Mahary Hotel",
+      "kind": "stay",
+      "locality": "Tripoli",
+      "lat": 32.896177,
+      "lon": 13.199859,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tripoli",
+      "address": "Al Fatah St, Corniche",
+      "price": "Rooms from €235",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-tripoli-al-mahary",
+      "id": "libya-b68afb9825e773844c76"
+    },
+    {
+      "name": "Al Waddan Hotel",
+      "kind": "stay",
+      "locality": "Tripoli",
+      "lat": 32.893189,
+      "lon": 13.191156,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tripoli",
+      "url": "https://m.facebook.com/AlWaddanHotel/",
+      "id": "libya-a10692c85c1443942243"
+    },
+    {
+      "name": "Corinthia's Bab Africa",
+      "kind": "stay",
+      "locality": "Tripoli",
+      "lat": 32.897169,
+      "lon": 13.170183,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tripoli",
+      "url": "http://www.corinthia.com/hotels/tripoli",
+      "id": "libya-f718b442747c77840e18"
+    },
+    {
+      "name": "Thobacts Hotel",
+      "kind": "stay",
+      "locality": "Tripoli",
+      "lat": 32.886244,
+      "lon": 13.164693,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tripoli",
+      "url": "http://www.hotel-thobacts.ly/",
+      "id": "libya-0d73a5f0c89194035ecd"
+    },
+    {
+      "name": "Tripoli",
+      "kind": "area",
+      "locality": "Tripoli",
+      "lat": 32.683333,
+      "lon": 13.166667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tripoli",
+      "id": "libya-9d52eb769cfeb423dd23"
+    }
+  ],
+  "status": "partial",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Missing categories: eat."
+}

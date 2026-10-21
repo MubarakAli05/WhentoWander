@@ -1,0 +1,500 @@
+{
+  "sources": [
+    {
+      "title": "Comoros",
+      "url": "https://en.wikivoyage.org/wiki/Comoros",
+      "checkedAt": "2026-10-21T08:14:52.513Z"
+    },
+    {
+      "title": "Moroni (Comoros)",
+      "url": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "checkedAt": "2026-10-21T08:14:58.544Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Moroni",
+      "kind": "area",
+      "locality": "Comoros",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Comoros",
+      "id": "comoros-0e3e1682398067f176fe"
+    },
+    {
+      "name": "Domoni",
+      "kind": "area",
+      "locality": "Comoros",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Comoros",
+      "id": "comoros-ae9ee86e0e50970ee878"
+    },
+    {
+      "name": "Fomboni",
+      "kind": "area",
+      "locality": "Comoros",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Comoros",
+      "id": "comoros-91e9da124cb666703fd4"
+    },
+    {
+      "name": "Nioumachoua",
+      "kind": "area",
+      "locality": "Comoros",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Comoros",
+      "id": "comoros-ba72a4afa2c844cdd443"
+    },
+    {
+      "name": "Moutsamoudou",
+      "kind": "area",
+      "locality": "Comoros",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Comoros",
+      "id": "comoros-39b9e8b0f726f1ee32b7"
+    },
+    {
+      "name": "Volo Volo Market",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "lat": -11.6984085,
+      "lon": 43.2548963,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "id": "comoros-adf3ad2a3652c26f6a8c"
+    },
+    {
+      "name": "Public Beach",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "north of the city",
+      "id": "comoros-2749ac3c5e2f7490f03f"
+    },
+    {
+      "name": "Old Friday Mosque",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "lat": -11.7047151,
+      "lon": 43.2511547,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "id": "comoros-94d5bc01cb8ac92d4f88"
+    },
+    {
+      "name": "Medina",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "id": "comoros-fbd05f60b0147c72e457"
+    },
+    {
+      "name": "National Museum of the Comoros",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "lat": -11.7020689,
+      "lon": 43.2567186,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "url": "http://www.cndrs.km/musee.php",
+      "id": "comoros-3c7f8e1548db8f9efe3a"
+    },
+    {
+      "name": "Itsandra",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "lat": -11.676306,
+      "lon": 43.265306,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "id": "comoros-f355929ad5af368e2e86"
+    },
+    {
+      "name": "Wasta fast food",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "in the neighbourhood of Asgaraly",
+      "id": "comoros-4960389712741733f336"
+    },
+    {
+      "name": "Coraya Express",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "price": "Hamburgers around CF3000",
+      "id": "comoros-ce062a7806f50e0f5b4e"
+    },
+    {
+      "name": "Le Coraya Express",
+      "kind": "eat",
+      "locality": "Moroni (Comoros)",
+      "lat": -11.716047,
+      "lon": 43.246022,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Boulevard de la République Populaire de China, Moroni",
+      "price": "€4-9",
+      "id": "comoros-aa68e49c0a116c00fef5"
+    },
+    {
+      "name": "Le Coraya",
+      "kind": "eat",
+      "locality": "Moroni (Comoros)",
+      "lat": -11.671408,
+      "lon": 43.265869,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Bandamadji, Itsandra, Grande Comore",
+      "price": "€6-20 for a main",
+      "id": "comoros-595ba3c10691ccc8d252"
+    },
+    {
+      "name": "New Mumbai",
+      "kind": "eat",
+      "locality": "Moroni (Comoros)",
+      "lat": -11.68902,
+      "lon": 43.253015,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Rue de la Corniche, Hankounou, Moroni",
+      "price": "Mains €6-10",
+      "id": "comoros-18222add34955357f841"
+    },
+    {
+      "name": "L'Escale",
+      "kind": "eat",
+      "locality": "Moroni (Comoros)",
+      "lat": -11.69101,
+      "lon": 43.252678,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Rue de la Corniche, Moroni",
+      "price": "€6-12",
+      "id": "comoros-9a0e7c74e86dece58aed"
+    },
+    {
+      "name": "Wasta",
+      "kind": "eat",
+      "locality": "Moroni (Comoros)",
+      "lat": -11.709701,
+      "lon": 43.249436,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Caltex, Moroni",
+      "price": "€3-10",
+      "id": "comoros-8cb83925a0d49f52ac9a"
+    },
+    {
+      "name": "MoCafe",
+      "kind": "eat",
+      "locality": "Moroni (Comoros)",
+      "lat": -11.688847,
+      "lon": 43.255646,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Matelec Oasis, Moroni",
+      "price": "€2-6 for bread or a sandwich",
+      "id": "comoros-575c24f47589e72642ac"
+    },
+    {
+      "name": "Nassib",
+      "kind": "eat",
+      "locality": "Moroni (Comoros)",
+      "lat": -11.693094,
+      "lon": 43.256204,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Volovolo Market, Moroni",
+      "id": "comoros-64c453434b92fad3bcb5"
+    },
+    {
+      "name": "Tennis Club",
+      "kind": "eat",
+      "locality": "Moroni (Comoros)",
+      "lat": -11.689669,
+      "lon": 43.254034,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Rue de la Corniche, Moroni",
+      "id": "comoros-385363ce73936a2e836d"
+    },
+    {
+      "name": "The New Select",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Place des Banques",
+      "price": "Around CF1500, and keeps open for lunch/dinner mains from CF4000",
+      "id": "comoros-697262139312f8c98bb2"
+    },
+    {
+      "name": "Cafe de la Medina",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Badjanani",
+      "price": "CF1500",
+      "id": "comoros-05ef70c4ae08c385b440"
+    },
+    {
+      "name": "Zara Restaurant",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Rue de l'Union Africaine",
+      "price": "Mains around CF3000",
+      "id": "comoros-c747f02173da68c53192"
+    },
+    {
+      "name": "Le Jardin de la Paix",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "price": "Mains from CF4500",
+      "id": "comoros-fbdbe664ee627c8c9d34"
+    },
+    {
+      "name": "Le Lagon Blue",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Rue Ahmed Djoumoi",
+      "price": "Mains from CF4500",
+      "id": "comoros-e7a0ef7bc12234be4fdb"
+    },
+    {
+      "name": "VIP club",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Route de la Corniche",
+      "price": "Entrance fee KMF5000",
+      "id": "comoros-6b51ba20a9f711189dff"
+    },
+    {
+      "name": "Le Rose Noir",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Route de la Corniche",
+      "id": "comoros-25a5057812ee19cab31e"
+    },
+    {
+      "name": "Karthala International Hotel",
+      "kind": "stay",
+      "locality": "Moroni (Comoros)",
+      "lat": -11.732143,
+      "lon": 43.275926,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Mvouni, Grande Comore",
+      "price": "USD60",
+      "url": "https://www.facebook.com/karthala.hotel/",
+      "id": "comoros-550b56f37655bd26b076"
+    },
+    {
+      "name": "Golden Tulip Resort",
+      "kind": "stay",
+      "locality": "Moroni (Comoros)",
+      "lat": -11.655921,
+      "lon": 43.264969,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "RN 1, Voidjou, Moroni",
+      "price": "US$104 for a double room",
+      "url": "https://grande-comore-moroni.goldentulip.com/",
+      "id": "comoros-8b9f8253c6ee7a006bef"
+    },
+    {
+      "name": "Retaj",
+      "kind": "stay",
+      "locality": "Moroni (Comoros)",
+      "lat": -11.718792,
+      "lon": 43.241136,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Avenue Soilihi, Moroni",
+      "price": "US$60 for a double room",
+      "url": "https://www.retajmoroniresort.com/",
+      "id": "comoros-929ce8fe828a66a00cd2"
+    },
+    {
+      "name": "Moifaka Hotel",
+      "kind": "stay",
+      "locality": "Moroni (Comoros)",
+      "lat": -11.717039,
+      "lon": 43.250831,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Zilimadjou, Moroni",
+      "price": "US$26 for a double room",
+      "id": "comoros-7d90c0701f86e9cb4875"
+    },
+    {
+      "name": "Hôtel Les Arcades",
+      "kind": "stay",
+      "locality": "Moroni (Comoros)",
+      "lat": -11.695991,
+      "lon": 43.251995,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Rue de la Corniche, Moroni",
+      "price": "US$40-50 for a double room",
+      "id": "comoros-6ea1f88d1409cdd626f3"
+    },
+    {
+      "name": "Pension Faida",
+      "kind": "stay",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "price": "Rooms CF12,500 fan, CF15,000 air-conditioned",
+      "id": "comoros-fdb591907eb823668828"
+    },
+    {
+      "name": "Pension Le Gambussi",
+      "kind": "stay",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "price": "Rooms CF10, 000 shared toilet, CF12,500 en suite",
+      "id": "comoros-0c76e5ff122a4515f458"
+    },
+    {
+      "name": "Farida Lodge",
+      "kind": "stay",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "price": "Rooms €30-44",
+      "id": "comoros-08c65c4dcdd4c33ed27f"
+    },
+    {
+      "name": "Retaj Moroni Hotel",
+      "kind": "stay",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "price": "Rooms €40",
+      "url": "http://www.retajmoroniresort.com/",
+      "id": "comoros-d18bfd8114cfa20732c2"
+    },
+    {
+      "name": "Jardin de la Paix",
+      "kind": "stay",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "price": "Rooms from €30",
+      "url": "http://comores-jardindelapaix.com/",
+      "id": "comoros-3d4dbc8dc8bb3e6b1194"
+    },
+    {
+      "name": "Embassy of France",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Boulevard de Strasbourg, BP 465, Moroni",
+      "url": "https://km.ambafrance.org/",
+      "id": "comoros-0bc0b215ee72ebac797b"
+    },
+    {
+      "name": "Embassy of the People's Republic of China",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Coulée de Lave No. C109, Moroni",
+      "url": "https://www.fmprc.gov.cn/fra/wjb/zwjg/620/623/t1233.shtml",
+      "id": "comoros-306bdd2b161ee9197147"
+    },
+    {
+      "name": "Embassy of Libya",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Rue de la Corniche, BP 1787, Moroni",
+      "id": "comoros-72425a187244c917dbe8"
+    },
+    {
+      "name": "Embassy of Saudi Arabia",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Cable De Leon, Moroni",
+      "id": "comoros-a938dfc85b5a9dc4aaf7"
+    },
+    {
+      "name": "Embassy of South Africa",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Voidjou, Moroni",
+      "url": "http://www.dirco.gov.za/comoros/",
+      "id": "comoros-bbf0ca08ae40e07d86d7"
+    },
+    {
+      "name": "Embassy of Sudan",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Zilimadjou, Moroni",
+      "id": "comoros-bce4eb7f6b532293a7d5"
+    },
+    {
+      "name": "Embassy of Tanzania",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Oasis, BP 8141, Moroni",
+      "url": "http://www.dirco.gov.za/comoros/",
+      "id": "comoros-7d8753b8c66e99c46223"
+    },
+    {
+      "name": "Honorary Consulate of Turkey",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Paramboini, Route Beit Salam, BP 2492, Moroni",
+      "url": "https://www.tika.gov.tr/en",
+      "id": "comoros-9ea8c2807bc253bb654f"
+    },
+    {
+      "name": "Embassy of the United States of America in Madagascar",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Lot 207 A - Andranoro - Antehiroka, 105 Antananarivo",
+      "url": "https://mg.usembassy.gov/",
+      "id": "comoros-ff7c635468e24b58ad1a"
+    },
+    {
+      "name": "British High Commission to Mauritius",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "7th floor, Cascades Building, Edith Cavell Street, P.O. box 1063, Port Louis",
+      "url": "https://www.gov.uk/world/organisations/british-high-commission-port-louis",
+      "id": "comoros-2da9c80216984fbcc247"
+    },
+    {
+      "name": "Australian High Commission to Mauritius",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "2nd Floor, Rogers House, 5 President Kennedy Street, Port Louis",
+      "url": "https://mauritius.embassy.gov.au/",
+      "id": "comoros-d187837a2ea50ae3b146"
+    },
+    {
+      "name": "High Commission of Canada to Tanzania",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "38 Mirambo Street / Garden Avenue, Dar es Salaam",
+      "url": "https://www.canadainternational.gc.ca/tanzania-tanzanie/index.aspx?lang=eng",
+      "id": "comoros-c070e0b60c944c63324a"
+    },
+    {
+      "name": "Embassy of Brazil in Tanzania",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Coco Plaza Office Complex - 2nd Floor - Rooms 201/202 Plot nr. 254, Toure Drive, Msasani Peninsula PO Box 105818 - 14111, Dar es Salaam",
+      "url": "http://daressalam.itamaraty.gov.br/en-us/",
+      "id": "comoros-69611af327b06f7ec3f1"
+    },
+    {
+      "name": "Embassy of Japan in Madagascar",
+      "kind": "do",
+      "locality": "Moroni (Comoros)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "address": "Villa Chrysanthème III, Ambohijatovo-Analamahitsy, 101 Antananarivo (B.P.3863)",
+      "url": "https://www.mg.emb-japan.go.jp/itprtop_fr/index.html",
+      "id": "comoros-9ef190439b1d9564093c"
+    },
+    {
+      "name": "Moroni (Comoros)",
+      "kind": "area",
+      "locality": "Moroni (Comoros)",
+      "lat": -11.7036111,
+      "lon": 43.2536111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Moroni_(Comoros)",
+      "id": "comoros-9e824ad2fe5ae0d2f1bd"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 3 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Title resolution: Moroni → Moroni (Comoros) (linked by Comoros)."
+}

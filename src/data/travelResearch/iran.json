@@ -1,0 +1,1168 @@
+{
+  "sources": [
+    {
+      "title": "Iran",
+      "url": "https://en.wikivoyage.org/wiki/Iran",
+      "checkedAt": "2026-10-21T08:10:07.844Z"
+    },
+    {
+      "title": "Tehran",
+      "url": "https://en.wikivoyage.org/wiki/Tehran",
+      "checkedAt": "2026-10-21T08:10:11.399Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Tehran",
+      "kind": "area",
+      "locality": "Iran",
+      "lat": 35.696111,
+      "lon": 51.423056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Iran",
+      "id": "iran-b06404f01773f086d5c2"
+    },
+    {
+      "name": "Hamedan",
+      "kind": "area",
+      "locality": "Iran",
+      "lat": 34.8,
+      "lon": 48.516667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Iran",
+      "id": "iran-06212c29db9f9fa5fd71"
+    },
+    {
+      "name": "Isfahan",
+      "kind": "area",
+      "locality": "Iran",
+      "lat": 32.633333,
+      "lon": 51.65,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Iran",
+      "id": "iran-6e98f1c279fd10e0d859"
+    },
+    {
+      "name": "Kerman",
+      "kind": "area",
+      "locality": "Iran",
+      "lat": 30.17,
+      "lon": 57.05,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Iran",
+      "id": "iran-67a543c3a5d1b1df4855"
+    },
+    {
+      "name": "Mashad",
+      "kind": "area",
+      "locality": "Iran",
+      "lat": 36.3,
+      "lon": 59.6,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Iran",
+      "id": "iran-0aecabfb72b1274a5c87"
+    },
+    {
+      "name": "Qom",
+      "kind": "area",
+      "locality": "Iran",
+      "lat": 34.64,
+      "lon": 50.876389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Iran",
+      "id": "iran-9e52860a049330de30a7"
+    },
+    {
+      "name": "Shiraz",
+      "kind": "area",
+      "locality": "Iran",
+      "lat": 29.616667,
+      "lon": 52.533333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Iran",
+      "id": "iran-d3abcdffa9b513d1de74"
+    },
+    {
+      "name": "Tabriz",
+      "kind": "area",
+      "locality": "Iran",
+      "lat": 38.066667,
+      "lon": 46.3,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Iran",
+      "id": "iran-72499c2008d0b49b6728"
+    },
+    {
+      "name": "Yazd",
+      "kind": "area",
+      "locality": "Iran",
+      "lat": 31.897222,
+      "lon": 54.367778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Iran",
+      "id": "iran-455f7f660188da9ccb12"
+    },
+    {
+      "name": "Meymand",
+      "kind": "do",
+      "locality": "Iran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Iran",
+      "address": "Kerman province, Shahr-e-Babak",
+      "id": "iran-75baf450c0149b374f59"
+    },
+    {
+      "name": "The Azadi Tower",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.699444,
+      "lon": 51.337778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Kuy-e-Mehr Abad",
+      "url": "http://www.azadi-tower.com/",
+      "id": "iran-df4b47bcdcca00d9aa3e"
+    },
+    {
+      "name": "Mausoleum of Ayatollah Khomeini",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.54899,
+      "lon": 51.36636,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "near to Behesht-e Zahra, Cemetery Highway (بزرگراه بهشت زهرا)",
+      "id": "iran-b676382a29cbc6ed41b5"
+    },
+    {
+      "name": "Milad Tower",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.744444,
+      "lon": 51.375,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "price": "2 viewing decks exist: indoor sky dome at 305 m - 350,000 rials, outdoor viewing deck at 250 m - 120,000 rials",
+      "url": "http://tehranmiladtower.ir/en/",
+      "id": "iran-3cdb148a69c3cd6a80a8"
+    },
+    {
+      "name": "Golestan Palace",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.67992,
+      "lon": 51.41984,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Khordad Sq. 15, Pamenar (پامنار)",
+      "url": "http://www.golestanpalace.ir/",
+      "id": "iran-acda5df1915479dfa2f2"
+    },
+    {
+      "name": "Takht Marmar",
+      "kind": "do",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "id": "iran-095556fa312515b79b64"
+    },
+    {
+      "name": "Khalvat Karim Khani",
+      "kind": "do",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "id": "iran-29a7666ab202079da1d7"
+    },
+    {
+      "name": "Hoze Khaneh",
+      "kind": "do",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "id": "iran-d9f6b9d0c2649daf11f0"
+    },
+    {
+      "name": "Negar Khaneh",
+      "kind": "do",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "id": "iran-a2327cf7e763f167257d"
+    },
+    {
+      "name": "Talar Berelian",
+      "kind": "do",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "id": "iran-152a40f648f528e68573"
+    },
+    {
+      "name": "Niavaran Palace",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.81092,
+      "lon": 51.47189,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Pourebtehaj/Pvrabthaj (پورابتهاج)",
+      "url": "http://niavaranmu.ir/#",
+      "id": "iran-2b38b31b75be978e6674"
+    },
+    {
+      "name": "Masoudieh Palace",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.690068,
+      "lon": 51.42848,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "price": "200,000 rials",
+      "id": "iran-12e39579fd6378c423a0"
+    },
+    {
+      "name": "Saadabad Palace",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.81729,
+      "lon": 51.42348,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Vali Asr Ave",
+      "url": "http://www.caroun.com/Museums/IranMuseum/TehranMuseum/SadAbadMuseum.htm",
+      "id": "iran-2b1cc5f4679836499e31"
+    },
+    {
+      "name": "Green Palace",
+      "kind": "do",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "id": "iran-f2fd9ca4c744a0cb99df"
+    },
+    {
+      "name": "National Arts Museum",
+      "kind": "do",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "id": "iran-5df6677b42b1350e56c8"
+    },
+    {
+      "name": "Den of Espionage",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.708,
+      "lon": 51.424,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "price": "200,000 rials (Mar 2019)",
+      "id": "iran-94338ef69347e6e12184"
+    },
+    {
+      "name": "Azadi Museum",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.69967,
+      "lon": 51.33759,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Azadi Square (Persian: میدانِ آزادی)",
+      "id": "iran-c814a9430b5d95edce22"
+    },
+    {
+      "name": "Treasury of the National Jewels",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.68938,
+      "lon": 51.4197,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Ferdosi St (فردوسی), near the corner of Jomhuriyeh Eslami Ave",
+      "price": "200,000 rials admission fee. An informative 6,000 rials information book is available",
+      "id": "iran-d4de386520c1a7dec1be"
+    },
+    {
+      "name": "National Museum of Iran",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.687044,
+      "lon": 51.414611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "30th Tir (سی تیر)",
+      "price": "200,000 rials, 300,000 rials",
+      "url": "http://www.nationalmuseumofiran.ir/",
+      "id": "iran-b7a08a5edb83e46fe459"
+    },
+    {
+      "name": "Safir Office Machines Museum",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.70876,
+      "lon": 51.41958,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "No. 232, Kalantari? Cross, North Iranshahr street?, (خیابان ایرانشهر)",
+      "id": "iran-e8b4af579fb41f76e864"
+    },
+    {
+      "name": "Saad Abad Fine Arts Museum",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.81287,
+      "lon": 51.42297,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Darband, Zafaraniyeh, Tajrish, Valiasr St",
+      "id": "iran-4e2c9a5eb9db760b943d"
+    },
+    {
+      "name": "Glassware Museum of Tehran",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.69106,
+      "lon": 51.41456,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Behjat Abad.- Jomhoori (or Jomhouri?) Ave., or Republic Street?, Sytyr (30th Tir) St, No. 55-75?;",
+      "price": "25,000 rials for foreign tourists, 2,500 rials for Iranian adults",
+      "id": "iran-363af4d17a8413c067b6"
+    },
+    {
+      "name": "Iran's National Rug Gallery & Carpet Museum",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.71411,
+      "lon": 51.39078,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Dr Fatemi (دکتر فاطمی)",
+      "id": "iran-2fb9d44167aa2a77eaa7"
+    },
+    {
+      "name": "Reza Abbasi Museum",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.63376,
+      "lon": 51.42041,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Seyed Khandan, 972 Shariati Ave",
+      "price": "25,000 rials for foreign tourists, 2,500 rials for Iranian adults",
+      "id": "iran-86d47657f4d4fc40138c"
+    },
+    {
+      "name": "Tehran Museum of Contemporary Art",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.71068,
+      "lon": 51.39022,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "North Kargar Ave. (کارگر شمالی)",
+      "url": "http://www.tmoca.com/",
+      "id": "iran-f1230c0c322f665d3e3d"
+    },
+    {
+      "name": "Darabad Museum of Natural History",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.8167,
+      "lon": 51.48974,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Muzeh, Dar-abad",
+      "url": "http://www.caroun.com/Museums/IranMuseum/TehranMuseum/Darabad.htm",
+      "id": "iran-716fe9ce265b93818417"
+    },
+    {
+      "name": "Former Qasr Prison",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.723611,
+      "lon": 51.448333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Marvdasht? Qelichkhani?",
+      "id": "iran-7de4d9b9c4275fff16d2"
+    },
+    {
+      "name": "Time Museum",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.80521,
+      "lon": 51.41953,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Asad Abad? No. 12, Baqdadi St. (Baghdadi Bahar),",
+      "id": "iran-8f505bca2dd529251b7a"
+    },
+    {
+      "name": "Money Museum",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.76208,
+      "lon": 51.41423,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "No.1, Daman Afshar (نبش کوچه دفینه), Mirdamad Street (Mirdamad Blvd?), Vali Asr Ave",
+      "id": "iran-c8303c7938ab2759b21b"
+    },
+    {
+      "name": "Former Towhid Prison, now the Edification Museum (Ebrat Museum)",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.686944,
+      "lon": 51.418611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "11, Martyr Yarjani St, - Kushk Mesri St.",
+      "url": "http://www.ebratmuseum.ir/Portal/Home/",
+      "id": "iran-dc8828f251f22c3bb89f"
+    },
+    {
+      "name": "13 (Martyrs?) Aban Museum",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.70632,
+      "lon": 51.44094,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Imam (Sepah) Sq.",
+      "id": "iran-27188b52b1c12b879d51"
+    },
+    {
+      "name": "Air Force Museum",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.70021,
+      "lon": 51.29216,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Karaj Highway (جاده مخصوص کرج)",
+      "id": "iran-0b4652349e3f20e0a943"
+    },
+    {
+      "name": "Akskhaneh Shahr",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.71783,
+      "lon": 51.43188,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Bahar-e-Shiraz Ave",
+      "id": "iran-4a277d3c643a98510419"
+    },
+    {
+      "name": "Coin Museum",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.68644,
+      "lon": 51.41934,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Imam Khomeini Avenue, Amnar (امنار)",
+      "id": "iran-8a4a264b32dfc70ad28e"
+    },
+    {
+      "name": "Dr. Hesabi Memorial Museum",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.79888,
+      "lon": 51.4252,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "8 Hesabi St., Zaferanieh, Vali Asr Ave",
+      "id": "iran-537df314f8d7d331e9ff"
+    },
+    {
+      "name": "Ethnological Museum",
+      "kind": "do",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "15 Khordad Sq",
+      "id": "iran-065637b7edbd92305e93"
+    },
+    {
+      "name": "Geology Museum",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.69685,
+      "lon": 51.33102,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Meraj Blvd?., Azadi Ave",
+      "id": "iran-a60349d61830c88faf77"
+    },
+    {
+      "name": "Haft-Chenar Wildlife Museum",
+      "kind": "do",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "id": "iran-53f1f39e70581156fcf9"
+    },
+    {
+      "name": "History Museum",
+      "kind": "do",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Afrouz St., Pirouzi Ave., Shohada Square",
+      "id": "iran-ae0aa331e8c9f7e06290"
+    },
+    {
+      "name": "Iran Historical Car Museum",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.713652,
+      "lon": 51.221727,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Lashkary Expressway, Karaj Highway",
+      "id": "iran-2349476efaaee2378b73"
+    },
+    {
+      "name": "Iranian Electrical Industry Museum ?",
+      "kind": "do",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Afrouz St., Pirouzi Ave., Shohada Square ?",
+      "id": "iran-163241f844225b848a53"
+    },
+    {
+      "name": "History Museum",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.7635,
+      "lon": 51.4147,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Qobadian St., Vali Asr Ave",
+      "id": "iran-b5ae45df9aa4f68084fa"
+    },
+    {
+      "name": "Malek National Museum and Library",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.687033,
+      "lon": 51.415394,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Baq Melli, Imam Sq",
+      "url": "http://www.malekmuseum.org/",
+      "id": "iran-4ed6f2434c2ae74ec9dd"
+    },
+    {
+      "name": "Natural History Museum",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.72181,
+      "lon": 51.42066,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "9 9 Qaem Maqam-e-Farahani Ave",
+      "id": "iran-19caefc637858859f6ec"
+    },
+    {
+      "name": "Rassam Arab-zadeh Carpet (فرش) Museum",
+      "kind": "do",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "7 First Boustan, Pasdaran Ave",
+      "id": "iran-332539489e2b7a0a8de2"
+    },
+    {
+      "name": "Saba House",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.711814,
+      "lon": 51.371828,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "No. 92, Zahiro-Islam St., Baharestan",
+      "id": "iran-444e2c361a7907b01cf6"
+    },
+    {
+      "name": "Stained Glass Painting Museum",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.699279,
+      "lon": 51.430734,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "No.348, Hedayat St., (Sadi Ave.)",
+      "id": "iran-45dba8028240c36ff614"
+    },
+    {
+      "name": "Tehran University Science Museum",
+      "kind": "do",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "id": "iran-d1b58ff880fbec4407d9"
+    },
+    {
+      "name": "Telephone, Post & Telegraph Museum",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.68625,
+      "lon": 51.417958,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Imam khomeini Ave",
+      "id": "iran-ba09cee3634351cc8b8d"
+    },
+    {
+      "name": "Zoological Museum",
+      "kind": "do",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "id": "iran-072bd70d0ec7f33cf6cb"
+    },
+    {
+      "name": "National Museum of the Holy Quran",
+      "kind": "do",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "id": "iran-b01ecda2cfec548fb270"
+    },
+    {
+      "name": "Cinema Museum",
+      "kind": "do",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Valiasr St, Ferdows Bagh",
+      "price": "1000000IRR",
+      "id": "iran-ef7b2092c6ca380cecd7"
+    },
+    {
+      "name": "National Botanical Garden of Iran",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.772143,
+      "lon": 51.179595,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Boulevard Goudarzi St",
+      "price": "US$3",
+      "url": "https://nbgi.rifr-ac.ir/",
+      "id": "iran-e6d16388ba944a21c866"
+    },
+    {
+      "name": "Ab-o-Atesh Park and the Tabiat Bridge",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.7541,
+      "lon": 51.4188,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "id": "iran-f962e55905be2e0ef703"
+    },
+    {
+      "name": "Chitgar Lake",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.744765,
+      "lon": 51.21412,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "id": "iran-a1fe06307273b7bf63a5"
+    },
+    {
+      "name": "Jamshidieh Park",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.82634,
+      "lon": 51.46528,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Niavaran district, Omidvar",
+      "id": "iran-ea135490fd930243b9ca"
+    },
+    {
+      "name": "Paradise Garden, Baq-e Ferdous Park?",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.8017,
+      "lon": 51.42078,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Delbar",
+      "id": "iran-848fe86f033eea834748"
+    },
+    {
+      "name": "Tochal Complex",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.8568,
+      "lon": 51.4008,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "end of Velenjak St, Zafaraniyeh",
+      "url": "http://www.tochal.org/en/",
+      "id": "iran-2c6a6d150e7185c39667"
+    },
+    {
+      "name": "gondola lifts' 1st station",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.8202,
+      "lon": 51.4063,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "id": "iran-b61206a341107678eb99"
+    },
+    {
+      "name": "Darband",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.8294,
+      "lon": 51.4265,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Darband",
+      "id": "iran-494d1a24a37925f5d3ae"
+    },
+    {
+      "name": "Darake",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.8096,
+      "lon": 51.3825,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Darakeh",
+      "id": "iran-ef3302e341d3edee6545"
+    },
+    {
+      "name": "Tehran City Theater",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.700078,
+      "lon": 51.405619,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Enghelab és Vali Cross Street (تقاطع خیابان انقلاب و ولی‌عصر)",
+      "url": "http://www.teatreshahr.com/",
+      "id": "iran-bbd7038b5df1b8434034"
+    },
+    {
+      "name": "Talar Vahdat Theater",
+      "kind": "do",
+      "locality": "Tehran",
+      "lat": 35.699592,
+      "lon": 51.411725,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "url": "http://www.talarvahdat.com/",
+      "id": "iran-04e058bce2839eeb7fca"
+    },
+    {
+      "name": "Delsin Sandwiches",
+      "kind": "eat",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Jordan Blvd, in Golfam St",
+      "price": "andwiches priced between US$2-4",
+      "id": "iran-99826fdd34bd018d6538"
+    },
+    {
+      "name": "Dizi Sara",
+      "kind": "eat",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Jordan Blvd",
+      "price": "Abgosht (meat stew) 400,000 rials",
+      "id": "iran-0f37f49af845b1b9b889"
+    },
+    {
+      "name": "Falafel Stalls",
+      "kind": "eat",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "15 Khordad Ave",
+      "price": "10,000-25,000 rials",
+      "id": "iran-188f45b8d0bd82e3f780"
+    },
+    {
+      "name": "Food Court at Jaam-e-Jam Mini Mall",
+      "kind": "eat",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Corner of Vali Asr Ave & Taheri Street",
+      "id": "iran-703b6a54c24ebb515c6e"
+    },
+    {
+      "name": "Iranian Traditional Restaurant",
+      "kind": "eat",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "28 Keshavarz Blvd",
+      "price": "Dizi: 55,000 rials",
+      "id": "iran-5820ee64e82c7e76eb5e"
+    },
+    {
+      "name": "Super Star Fried Chicken (SFC)",
+      "kind": "eat",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "id": "iran-8a116da2e4e6e2df8a5c"
+    },
+    {
+      "name": "Traditional Restaurant Karimkhan",
+      "kind": "eat",
+      "locality": "Tehran",
+      "lat": 35.715084,
+      "lon": 51.419255,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Karim Khan Bridge/Blvd",
+      "price": "Dizi: 170,000 rials",
+      "id": "iran-2ccab901bd9f3acce247"
+    },
+    {
+      "name": "Restaurant Moslem",
+      "kind": "eat",
+      "locality": "Tehran",
+      "lat": 35.677579,
+      "lon": 51.419572,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Bazar, District 12",
+      "id": "iran-a2e4d9ea5a0207943ae2"
+    },
+    {
+      "name": "Barbod Restaurant",
+      "kind": "eat",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "87 Seoul St.; Vanak Square",
+      "id": "iran-49d528f28b6200bd7396"
+    },
+    {
+      "name": "Coffee Shop & Veggie Restaurant at Iranian Artists' Forum",
+      "kind": "eat",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Baghe Honarmandan, Moosavie Str, Taleghani Ave.",
+      "id": "iran-9bc3d972544e08754cae"
+    },
+    {
+      "name": "Dizi",
+      "kind": "eat",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "near Karimkhane-e Zand St. downtown",
+      "id": "iran-2730ca3c6c5e31ab5568"
+    },
+    {
+      "name": "Farid",
+      "kind": "eat",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "39 Shahid Sereni St",
+      "id": "iran-5ab5bbdea9a7514cf32e"
+    },
+    {
+      "name": "Hani",
+      "kind": "eat",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Corner of Vali Asr Street & Motahari Street",
+      "url": "http://hanitarighat.com/",
+      "id": "iran-f63ccc660ca95ebabb35"
+    },
+    {
+      "name": "Iran Tak",
+      "kind": "eat",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "431 Vali Asr Street",
+      "price": "Complete meal with drink: 250,000 rials",
+      "id": "iran-2bc53df67c8307a1e006"
+    },
+    {
+      "name": "Khayyam Restaurant",
+      "kind": "eat",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "id": "iran-e3ad326b4eb26325b3d2"
+    },
+    {
+      "name": "SPU Restaurant",
+      "kind": "eat",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Darakeh Square",
+      "id": "iran-5dbfdb2b64a9db068498"
+    },
+    {
+      "name": "Alborz Restaurant",
+      "kind": "eat",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Nikoo Ghadam Alley & North Sohrevardi Avenue",
+      "url": "https://www.facebook.com/Alborz.Restaurant",
+      "id": "iran-637f31c5d9cfa58df0a4"
+    },
+    {
+      "name": "Divan",
+      "kind": "eat",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Fayazi Blvd (Fereshteh)",
+      "url": "https://www.facebook.com/divantehran/",
+      "id": "iran-3e95b36ce92e3cc6dcfe"
+    },
+    {
+      "name": "Monsoon",
+      "kind": "eat",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "8 Gandhi Street",
+      "id": "iran-d8db49f264ada930a9ca"
+    },
+    {
+      "name": "Nayeb",
+      "kind": "eat",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "2220 Vali Asr Street",
+      "url": "http://nayebsaei.com/",
+      "id": "iran-b09c8be6b412b2c2e208"
+    },
+    {
+      "name": "Bahar Confectionary",
+      "kind": "eat",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Sarcheshmeh Crossroad",
+      "id": "iran-80d4306253769ff6f581"
+    },
+    {
+      "name": "Gramophone Cafe",
+      "kind": "eat",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Charrahe Vali-e Asr",
+      "id": "iran-0483af03421b3d280c7e"
+    },
+    {
+      "name": "Chai bar",
+      "kind": "eat",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "145 North Salimi Blvd",
+      "id": "iran-dd6b47c93e587fa4b3d3"
+    },
+    {
+      "name": "Tehran Heritage Hostel",
+      "kind": "stay",
+      "locality": "Tehran",
+      "lat": 35.691702,
+      "lon": 51.431485,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "No. 22, Kamal-ol-Molk, Baharestan Square",
+      "price": "Dorms from €5; yurts from €15; private rooms from €25, accepts payment in euros. Payment with card for a fee",
+      "url": "http://heritage-hostel.com/",
+      "id": "iran-6249771d08f5ca8f4b9d"
+    },
+    {
+      "name": "Firouzeh Hotel",
+      "kind": "stay",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Dolat Abadi Alley, Amir Kabir St",
+      "price": "Single: US$28 (870 000 rials, Sep 2016); double: US$30",
+      "url": "http://www.firouzehhotel.com/",
+      "id": "iran-5196a990d6de282bbf7e"
+    },
+    {
+      "name": "Hotel Hafez",
+      "kind": "stay",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Bank Alley, off Ferdowsi Street",
+      "price": "Double: US$74",
+      "id": "iran-ae6b1184042cc1c001fe"
+    },
+    {
+      "name": "See You in Iran Hostel in Tehran",
+      "kind": "stay",
+      "locality": "Tehran",
+      "lat": 35.712455,
+      "lon": 51.422152,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "No. 2, Vahdati-Manesh (3rd) Dead End, South Kheradmand St., KarimKhan Ave",
+      "url": "https://seeyouiniran.org/hostel-in-tehran-see-you-in-iran/",
+      "id": "iran-87bc3cd5f08a949d8d49"
+    },
+    {
+      "name": "Mashhad Hostel",
+      "kind": "stay",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "#388 Amir Kabir Street, Opposite Seraj Mosque",
+      "price": "Dorm beds, single or double. Price for double Dec 2016 500 000 rials",
+      "url": "https://www.facebook.com/mashhadhostel",
+      "id": "iran-97b0425d40ef98e37362"
+    },
+    {
+      "name": "Hotel Naderi",
+      "kind": "stay",
+      "locality": "Tehran",
+      "lat": 35.69488,
+      "lon": 51.41624,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "520, Jomhouri Ave",
+      "price": "300,000 rials for a single",
+      "id": "iran-694ade2ca3bc7db30006"
+    },
+    {
+      "name": "Hotel Saadi",
+      "kind": "stay",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "375 Laleh Zarno St",
+      "price": "Single: 850,000 rials; double: 1,240,000 rials",
+      "url": "http://hotelsaadi.com/en/default.aspx",
+      "id": "iran-0ff459a76a3041b657bc"
+    },
+    {
+      "name": "7 Hostel",
+      "kind": "stay",
+      "locality": "Tehran",
+      "lat": 35.697962,
+      "lon": 51.396477,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "No 5, Dideh Baan Alley, Fakhr-e-Razi St, Enghelab St, Enghelab Sq",
+      "price": "Dorm US$10; single/double starting from US$40; includes bread, butter, cheese, and jam breakfast",
+      "url": "http://sevenhostels.com/",
+      "id": "iran-bce2731ff2062b3d7d0e"
+    },
+    {
+      "name": "Tehran Hostel",
+      "kind": "stay",
+      "locality": "Tehran",
+      "lat": 35.708293,
+      "lon": 51.427651,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Malekoshoara bahar St. Gohar Alley . N.2",
+      "price": "Double €35, dorm €12.50",
+      "url": "http://www.hosteltehran.com/",
+      "id": "iran-8fa3fdc46f08370b13b2"
+    },
+    {
+      "name": "HI Tehran Hostel I (Bahar St. Branch",
+      "kind": "stay",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "#2, Corner of Firooz Abadi Dead End., Tabatabaei Alley, Bahar Shomali Street",
+      "price": "€11-100",
+      "url": "https://www.hitehranhostel.com/hi-tehran-hostel-i/",
+      "id": "iran-809fbef02a307c0b223e"
+    },
+    {
+      "name": "Hi Tehran Hostel II (Enghelab St. Branch)",
+      "kind": "stay",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "#854, beside Abiverd Alley, Between college crossroad and Ferdowsi square, Enghelab St.",
+      "price": "£9-100",
+      "url": "https://www.hitehranhostel.com/hi-tehran-hostel-ii/",
+      "id": "iran-301160f88c2642c13c41"
+    },
+    {
+      "name": "Bibi Hostel",
+      "kind": "stay",
+      "locality": "Tehran",
+      "lat": 35.7027235,
+      "lon": 51.4231663,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "No. 13 Ramsar Street, Ferdowsi Square",
+      "url": "https://m.facebook.com/bibihostel/",
+      "id": "iran-b5cf75d17d4e0aae3a67"
+    },
+    {
+      "name": "Amir Hotel",
+      "kind": "stay",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "325 Taleghani Ave. Between Iranshahr and Forsat",
+      "price": "Double: US$83",
+      "url": "http://amirhotel.ir/",
+      "id": "iran-aa1b061da77fd8b2068e"
+    },
+    {
+      "name": "Atlas Hotel",
+      "kind": "stay",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "#206 Taleghaani Ave",
+      "price": "Single: $48; double:$76; triple: $97",
+      "url": "http://www.atlas-hotel.com/",
+      "id": "iran-977f03757a4bad87e18c"
+    },
+    {
+      "name": "Ferdowsi International Grand Hotel",
+      "kind": "stay",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "No. 20, Kooshk e Mesri street, Ferdowsi Ave",
+      "price": "Single US$99; double $140",
+      "url": "http://www.ferdowsihotel.com/en",
+      "id": "iran-9f7a2b73354291ba53e3"
+    },
+    {
+      "name": "Ideal Apartment Hotel",
+      "kind": "stay",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Fatemi Sq Kamran Alley, No. 10",
+      "price": "US$80 including buffet breakfast",
+      "id": "iran-69dc7db8403956494b49"
+    },
+    {
+      "name": "Iranshahr Hotel",
+      "kind": "stay",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "No 81, South Iranshahr Street",
+      "price": "Single US$70; double $98",
+      "url": "http://www.hotel-iranshahr.com/index/index/lang/en",
+      "id": "iran-93a71b42d4c49600e1d1"
+    },
+    {
+      "name": "Hotel Mashad",
+      "kind": "stay",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "190 Mofatteh St, near Talequani ave.",
+      "price": "Single US$59; double $84",
+      "url": "http://hotelmashad.ir/en/",
+      "id": "iran-e1794a39dca236236e1d"
+    },
+    {
+      "name": "Hotel New Naderi",
+      "kind": "stay",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "off Jomhuri-ye Eslami Ave #53, Gohar Shad Alley",
+      "price": "Single US$44; double $63",
+      "url": "https://m.facebook.com/pages/category/Hotel-Resort/New-Naderi-Hotel-598499750222833/",
+      "id": "iran-53426dff1c4b2fc59720"
+    },
+    {
+      "name": "Parasto Hotel (Parastoo Hotel)",
+      "kind": "stay",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Mohammad Buyk Alley, off Jomhuri-ye Eslami Ave",
+      "price": "Single US$25; double $39",
+      "id": "iran-a4e4e76a0a3db1fe8349"
+    },
+    {
+      "name": "Perspolis Traditional Hotel",
+      "kind": "stay",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Tehran Railway Station, 45 km away from the IKA",
+      "id": "iran-35016f075fa1e25998e6"
+    },
+    {
+      "name": "Espinas Persian Gulf Hotel",
+      "kind": "stay",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "126 Keshavarz Blvd",
+      "price": "Single US$168; double $224",
+      "url": "http://www.espinashotels.com/",
+      "id": "iran-1feb18e3249f21d67b17"
+    },
+    {
+      "name": "Esteghlal Hotel",
+      "kind": "stay",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "Crossroads of Dr. Chamran Experessway & Valie-Asr Ave.",
+      "url": "http://esteghlalhotel.ir/",
+      "id": "iran-60b0be83e4a1e7f476ac"
+    },
+    {
+      "name": "Homa Hotel Tehran",
+      "kind": "stay",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "#51, Shahid Khodami St., Vali-e-Asr Ave., Vanak Square",
+      "price": "Double: 3,700,000 rials",
+      "url": "http://www.homahotels.com/",
+      "id": "iran-7744960b5eaa7eecc1c9"
+    },
+    {
+      "name": "Raamtin Residence Hotel",
+      "kind": "stay",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "2153 Valiasr Ave",
+      "price": "Single 3,200,000 rials; double 3,900,000 rials",
+      "url": "http://raamtinhotel.com/en/",
+      "id": "iran-df72a18c9f462a146971"
+    },
+    {
+      "name": "Simorgh Hotel",
+      "kind": "stay",
+      "locality": "Tehran",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "address": "1069 Vali Asr",
+      "price": "Single US$168; double $205",
+      "url": "http://www.simorghhotel.ir/",
+      "id": "iran-e9bc2422f02dc92d8c43"
+    },
+    {
+      "name": "Tehran",
+      "kind": "area",
+      "locality": "Tehran",
+      "lat": 35.701,
+      "lon": 51.378,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tehran",
+      "id": "iran-78940304086b0ada1075"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

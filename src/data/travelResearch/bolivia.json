@@ -1,0 +1,1566 @@
+{
+  "sources": [
+    {
+      "title": "Bolivia",
+      "url": "https://en.wikivoyage.org/wiki/Bolivia",
+      "checkedAt": "2026-10-21T08:08:44.528Z"
+    },
+    {
+      "title": "Sucre",
+      "url": "https://en.wikivoyage.org/wiki/Sucre",
+      "checkedAt": "2026-10-21T08:08:47.712Z"
+    },
+    {
+      "title": "La Paz",
+      "url": "https://en.wikivoyage.org/wiki/La_Paz",
+      "checkedAt": "2026-10-21T08:08:50.315Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "La Paz",
+      "kind": "area",
+      "locality": "Bolivia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bolivia",
+      "id": "bolivia-af5cefb556a45cb23401"
+    },
+    {
+      "name": "Cochabamba",
+      "kind": "area",
+      "locality": "Bolivia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bolivia",
+      "id": "bolivia-e9fe8fea9ed48c660c54"
+    },
+    {
+      "name": "Oruro",
+      "kind": "area",
+      "locality": "Bolivia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bolivia",
+      "id": "bolivia-f774568525523cfbd619"
+    },
+    {
+      "name": "Potosí",
+      "kind": "area",
+      "locality": "Bolivia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bolivia",
+      "id": "bolivia-8eb552428e014d327a5a"
+    },
+    {
+      "name": "Quime",
+      "kind": "area",
+      "locality": "Bolivia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bolivia",
+      "id": "bolivia-cd42e5a1e9e5afbd1852"
+    },
+    {
+      "name": "Santa Cruz",
+      "kind": "area",
+      "locality": "Bolivia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bolivia",
+      "id": "bolivia-a791e93e16b64fb34fc2"
+    },
+    {
+      "name": "Sorata",
+      "kind": "area",
+      "locality": "Bolivia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bolivia",
+      "id": "bolivia-52702f4c83730b57d0f8"
+    },
+    {
+      "name": "Sucre",
+      "kind": "area",
+      "locality": "Bolivia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bolivia",
+      "id": "bolivia-44a4dadf28b707dd6bfd"
+    },
+    {
+      "name": "Tarija",
+      "kind": "area",
+      "locality": "Bolivia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bolivia",
+      "id": "bolivia-4042ec583effa705b162"
+    },
+    {
+      "name": "Cal Orck'o",
+      "kind": "do",
+      "locality": "Sucre",
+      "lat": -19.00278,
+      "lon": -65.23722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "price": "Foreigners Bs. 30, plus an extra Bs. 5 if you want to take pictures",
+      "url": "https://www.facebook.com/ParqueCretacicoSucre/",
+      "id": "bolivia-c31eea85ddf1325f8455"
+    },
+    {
+      "name": "Casa de la Libertad",
+      "kind": "do",
+      "locality": "Sucre",
+      "lat": -19.047471,
+      "lon": -65.260385,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Aniceto Arce",
+      "price": "Bs. 30 foreigners, Bs. 20 for Bolivianos",
+      "url": "https://www.casadelalibertad.org.bo/",
+      "id": "bolivia-22e5e8a7ce4e8927b1e3"
+    },
+    {
+      "name": "Plaza 25 de Mayo",
+      "kind": "do",
+      "locality": "Sucre",
+      "lat": -19.047932,
+      "lon": -65.259644,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "id": "bolivia-964ec1825f9651d8dcdd"
+    },
+    {
+      "name": "Glorieta Castle",
+      "kind": "do",
+      "locality": "Sucre",
+      "lat": -19.08466,
+      "lon": -65.26861,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Carr. Sucre-Potosi",
+      "price": "Bs. 29 (foreigners), Bs. 10 (Bolivians), Bs. 10 (photo permit)",
+      "id": "bolivia-0264448e6d9f08f420fc"
+    },
+    {
+      "name": "National Military History Museum",
+      "kind": "do",
+      "locality": "Sucre",
+      "lat": -19.045865,
+      "lon": -65.259168,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Ravelo 1",
+      "id": "bolivia-192bf5003fc319075b22"
+    },
+    {
+      "name": "Museo del Tesoro",
+      "kind": "do",
+      "locality": "Sucre",
+      "lat": -19.04718,
+      "lon": -65.25946,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Plaza 25 de mayo # 59 (north corner)",
+      "price": "US$4",
+      "url": "http://museodeltesoro.com/",
+      "id": "bolivia-58b82b51dea8844160ae"
+    },
+    {
+      "name": "Cathedral Basilica of Our Lady of Guadalupe",
+      "kind": "do",
+      "locality": "Sucre",
+      "lat": -19.0486,
+      "lon": -65.2603,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "on Plaza 25 de Mayo",
+      "price": "Bs. 30 foreigners, Bs. 20 for Bolivianos",
+      "id": "bolivia-b249c7d5c07f317e8ef0"
+    },
+    {
+      "name": "Basílica de San Francisco",
+      "kind": "do",
+      "locality": "Sucre",
+      "lat": -19.045922,
+      "lon": -65.261189,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "id": "bolivia-c4f1a799186aa96129b3"
+    },
+    {
+      "name": "Fuente del Bicentenario",
+      "kind": "do",
+      "locality": "Sucre",
+      "lat": -19.041145,
+      "lon": -65.265285,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "id": "bolivia-b6549d09cf31684d9df4"
+    },
+    {
+      "name": "Iglesia de San Lázaro",
+      "kind": "do",
+      "locality": "Sucre",
+      "lat": -19.050956,
+      "lon": -65.254666,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Calvo 449",
+      "id": "bolivia-f4a59981faaac9c57be8"
+    },
+    {
+      "name": "Cementerio General",
+      "kind": "do",
+      "locality": "Sucre",
+      "lat": -19.053307,
+      "lon": -65.267176,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "id": "bolivia-3011c3895669ba19af84"
+    },
+    {
+      "name": "Iglesia de la Merced",
+      "kind": "do",
+      "locality": "Sucre",
+      "lat": -19.050763,
+      "lon": -65.261,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Ortiz and Azurduy",
+      "price": "Bs. 10",
+      "id": "bolivia-54ae53da61716ce9e82f"
+    },
+    {
+      "name": "Museo de Arte Indígena ASUR",
+      "kind": "do",
+      "locality": "Sucre",
+      "lat": -19.0539,
+      "lon": -65.25379,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Pasaje Iturricha 314",
+      "price": "Bs. 30",
+      "id": "bolivia-50fbedc76fbc3fd55de4"
+    },
+    {
+      "name": "La Recoleta",
+      "kind": "do",
+      "locality": "Sucre",
+      "lat": -19.054687,
+      "lon": -65.25343,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "id": "bolivia-be1db092684f160e2352"
+    },
+    {
+      "name": "Parque Simón Bolívar",
+      "kind": "do",
+      "locality": "Sucre",
+      "lat": -19.041897,
+      "lon": -65.264373,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "id": "bolivia-4acada2eab21a3b6e12d"
+    },
+    {
+      "name": "Independence Day",
+      "kind": "do",
+      "locality": "Sucre",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "id": "bolivia-644827588ecdded8e0c8"
+    },
+    {
+      "name": "International Human Rights Film Festival",
+      "kind": "do",
+      "locality": "Sucre",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "url": "https://cinetecadederechoshumanos.org/",
+      "id": "bolivia-6e2b38ee47f2d603fa3c"
+    },
+    {
+      "name": "7 Cascadas",
+      "kind": "do",
+      "locality": "Sucre",
+      "lat": -18.969751,
+      "lon": -65.273259,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "id": "bolivia-430125e1ae205ffba917"
+    },
+    {
+      "name": "Maragua (crater and village)",
+      "kind": "do",
+      "locality": "Sucre",
+      "lat": -19.05171,
+      "lon": -65.43292,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "id": "bolivia-c43a59a33424cd8d5052"
+    },
+    {
+      "name": "Centro Ecológico San Antonio de Aritumayu (Resort)",
+      "kind": "do",
+      "locality": "Sucre",
+      "lat": -18.9718,
+      "lon": -65.3633,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Aritumayu",
+      "url": "https://www.facebook.com/centro.sanantoniodearitumayu",
+      "id": "bolivia-e51151d599836f8bd354"
+    },
+    {
+      "name": "CEMVA",
+      "kind": "do",
+      "locality": "Sucre",
+      "lat": -19.02277,
+      "lon": -65.26387,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "url": "http://www.cemva-sucre.org/",
+      "id": "bolivia-8a56ca902eb7b59dd0c5"
+    },
+    {
+      "name": "Centro de Salud Sagrada Familia",
+      "kind": "do",
+      "locality": "Sucre",
+      "lat": -19.02358,
+      "lon": -65.24719,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Barrio Alto Mesa Verde, Bolivar 716",
+      "id": "bolivia-a1ad909f466ab136a6ad"
+    },
+    {
+      "name": "Clinica Juan de Dios",
+      "kind": "do",
+      "locality": "Sucre",
+      "lat": -19.04614,
+      "lon": -65.26997,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Av Japon 46",
+      "id": "bolivia-cd0a115a84958766c1bd"
+    },
+    {
+      "name": "Escuela Movil",
+      "kind": "do",
+      "locality": "Sucre",
+      "lat": -19.0368,
+      "lon": -65.2525,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "560 Nataniel Aguirre",
+      "id": "bolivia-3181d328a7e6d9c9ee78"
+    },
+    {
+      "name": "Escuela Taller ETI",
+      "kind": "do",
+      "locality": "Sucre",
+      "lat": -19.0424,
+      "lon": -65.2385,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "id": "bolivia-902f1c44d0cfea80de48"
+    },
+    {
+      "name": "Hogar Tata Juan de Dios",
+      "kind": "do",
+      "locality": "Sucre",
+      "lat": -19.04795,
+      "lon": -65.27115,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Avenida Japon #46",
+      "id": "bolivia-b451e38809ad4ade01ec"
+    },
+    {
+      "name": "Hogar 25 de Mayo",
+      "kind": "do",
+      "locality": "Sucre",
+      "lat": -19.04797,
+      "lon": -65.25446,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Grau St",
+      "url": "http://www.fenixbolivia.com/",
+      "id": "bolivia-0258a0ad0db8d974202c"
+    },
+    {
+      "name": "Realidades",
+      "kind": "do",
+      "locality": "Sucre",
+      "lat": -19.04056,
+      "lon": -65.24175,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Calle Cuba 24",
+      "url": "http://www.realidadesbolivia.org/",
+      "id": "bolivia-d3e9e0e64c675aab77b6"
+    },
+    {
+      "name": "Patio de Comidas",
+      "kind": "eat",
+      "locality": "Sucre",
+      "lat": -19.04563,
+      "lon": -65.25763,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Camargo 582-526",
+      "id": "bolivia-8c56287aa517be1b7cf6"
+    },
+    {
+      "name": "Condor Cafe",
+      "kind": "eat",
+      "locality": "Sucre",
+      "lat": -19.04852,
+      "lon": -65.25766,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "on the corner of Bolivar and Calvo streets",
+      "id": "bolivia-0ddda0da49a4318dd025"
+    },
+    {
+      "name": "Bohemio's",
+      "kind": "eat",
+      "locality": "Sucre",
+      "lat": -19.04459,
+      "lon": -65.25926,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Junin 433",
+      "price": "4-course lunch Bs. 15",
+      "id": "bolivia-a9337476cd6b2bbbb291"
+    },
+    {
+      "name": "Florin",
+      "kind": "eat",
+      "locality": "Sucre",
+      "lat": -19.04923,
+      "lon": -65.25847,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Bolivar 567",
+      "url": "https://www.facebook.com/Cafe.Florin?ref=ts&fref=ts",
+      "id": "bolivia-1745ab70613e18aad095"
+    },
+    {
+      "name": "El Germen",
+      "kind": "eat",
+      "locality": "Sucre",
+      "lat": -19.04813,
+      "lon": -65.2566,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "San Alberto 231",
+      "url": "https://el-germen.negocio.site/",
+      "id": "bolivia-c442b0e2c653c6c14954"
+    },
+    {
+      "name": "Pizzaría Napolitana",
+      "kind": "eat",
+      "locality": "Sucre",
+      "lat": -19.04831,
+      "lon": -65.25903,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "25 de Mayo #30",
+      "id": "bolivia-bcf6cbbea865c35bea98"
+    },
+    {
+      "name": "Pizzeria Napoli",
+      "kind": "eat",
+      "locality": "Sucre",
+      "lat": -19.04803,
+      "lon": -65.26064,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Calle Argentina 27",
+      "id": "bolivia-33904a145822d95a81a6"
+    },
+    {
+      "name": "Typica Cafe",
+      "kind": "eat",
+      "locality": "Sucre",
+      "lat": -19.051513,
+      "lon": -65.259865,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Azurduy 118",
+      "price": "Bs. 45 for American breakfast",
+      "url": "http://typicabolivia.com/",
+      "id": "bolivia-23ad0a9b8d40fdeee955"
+    },
+    {
+      "name": "Cafe Monterosso",
+      "kind": "eat",
+      "locality": "Sucre",
+      "lat": -19.04958,
+      "lon": -65.25371,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Padilla 70",
+      "price": "Bs. 35",
+      "id": "bolivia-77c538d37f5a4453f99a"
+    },
+    {
+      "name": "Restaurante New Hong Kong",
+      "kind": "eat",
+      "locality": "Sucre",
+      "lat": -19.0425,
+      "lon": -65.2649,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Rosendo Villa 132",
+      "price": "Bs. 30",
+      "id": "bolivia-05b5f7e37071ab24d344"
+    },
+    {
+      "name": "Novelle Cuisine",
+      "kind": "eat",
+      "locality": "Sucre",
+      "lat": -19.05149,
+      "lon": -65.25883,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Avaroa 537",
+      "id": "bolivia-6cf7e9fda9fcfe994466"
+    },
+    {
+      "name": "La Taverna",
+      "kind": "eat",
+      "locality": "Sucre",
+      "lat": -19.04677,
+      "lon": -65.25933,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Aniceto Arce 835",
+      "url": "http://lataverne.com.bo/",
+      "id": "bolivia-ec563ffa916144a158a2"
+    },
+    {
+      "name": "El Alfarero",
+      "kind": "eat",
+      "locality": "Sucre",
+      "lat": -19.04712,
+      "lon": -65.25507,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Arce 262",
+      "id": "bolivia-970fa4ab6d61953e6d32"
+    },
+    {
+      "name": "Bibliocafe",
+      "kind": "eat",
+      "locality": "Sucre",
+      "lat": -19.04928,
+      "lon": -65.25988,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "id": "bolivia-f4280f45c76f5e0c17ca"
+    },
+    {
+      "name": "Menfis",
+      "kind": "eat",
+      "locality": "Sucre",
+      "lat": -19.04971,
+      "lon": -65.25872,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Bolivar 650",
+      "price": "Large beer Bs. 12",
+      "id": "bolivia-a11431d5db53c007012d"
+    },
+    {
+      "name": "Stigma",
+      "kind": "eat",
+      "locality": "Sucre",
+      "lat": -19.04652,
+      "lon": -65.25589,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Calle Bolivar",
+      "price": "Entry Bs. 10, small beer Bs. 10",
+      "id": "bolivia-490ea7547b609ba0ee37"
+    },
+    {
+      "name": "Tabacos Soul Anexo",
+      "kind": "eat",
+      "locality": "Sucre",
+      "lat": -19.04372,
+      "lon": -65.25247,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Boquerón 51",
+      "price": "Drinks Bs. 15, 0.6 l beer Bs. 11.50",
+      "id": "bolivia-b748ff49c29441012bff"
+    },
+    {
+      "name": "La Posada",
+      "kind": "eat",
+      "locality": "Sucre",
+      "lat": -19.04922,
+      "lon": -65.25878,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Audiencia 92",
+      "id": "bolivia-4a4b6cf942f756b57d9a"
+    },
+    {
+      "name": "Goblin Bar y Cerveceria",
+      "kind": "eat",
+      "locality": "Sucre",
+      "lat": -19.050331,
+      "lon": -65.257146,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Grau 246",
+      "url": "http://www.goblin.soysucre.info/",
+      "id": "bolivia-3207ee28304f68e74541"
+    },
+    {
+      "name": "Hostal Pachamama",
+      "kind": "stay",
+      "locality": "Sucre",
+      "lat": -19.04266,
+      "lon": -65.25605,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Calle Aniceto Arce 599",
+      "price": "Double/Matrimonial Bs. 90",
+      "id": "bolivia-fdb849647621ac6d1165"
+    },
+    {
+      "name": "Amigo Hostel",
+      "kind": "stay",
+      "locality": "Sucre",
+      "lat": -19.04912,
+      "lon": -65.26227,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Calle Colon 125",
+      "price": "Single, shared bath Bs. 45, double shared bath Bs. 70, dorm bed shared bath Bs. 30, breakfast included",
+      "id": "bolivia-47e467e735b039c47cec"
+    },
+    {
+      "name": "Hostal Austria",
+      "kind": "stay",
+      "locality": "Sucre",
+      "lat": -19.03882,
+      "lon": -65.2463,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Av. Ostria Gutierrez",
+      "price": "Single with shared bathroom Bs. 35, with private bathroom Bs. 60",
+      "id": "bolivia-8261f3fa379560338e7f"
+    },
+    {
+      "name": "Kultur Berlin Hostal",
+      "kind": "stay",
+      "locality": "Sucre",
+      "lat": -19.049465,
+      "lon": -65.257109,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Avaroa 326",
+      "price": "Bs 60",
+      "url": "http://www.kulturberlin.com/",
+      "id": "bolivia-6e70875d5abf63f70917"
+    },
+    {
+      "name": "Hotel Parador Santa Maria la Real",
+      "kind": "stay",
+      "locality": "Sucre",
+      "lat": -19.04989,
+      "lon": -65.25908,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Bolivar 625",
+      "url": "http://www.parador.com.bo/",
+      "id": "bolivia-59f87431027645586fd8"
+    },
+    {
+      "name": "Santa Cecilia",
+      "kind": "stay",
+      "locality": "Sucre",
+      "lat": -19.05187,
+      "lon": -65.25738,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Calle Potosi 386",
+      "id": "bolivia-7aed153beeb57cc72a0e"
+    },
+    {
+      "name": "Honorary French Consulate",
+      "kind": "stay",
+      "locality": "Sucre",
+      "lat": -19.05176,
+      "lon": -65.25782,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Calle Dalence 383",
+      "id": "bolivia-2b5bec25d309c4433ca5"
+    },
+    {
+      "name": "Casa Verde B&B",
+      "kind": "stay",
+      "locality": "Sucre",
+      "lat": -19.05159,
+      "lon": -65.25717,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Calle Potosi 374",
+      "price": "US$27",
+      "url": "https://www.casaverdesucre.com/",
+      "id": "bolivia-831f242fd7131f4ea296"
+    },
+    {
+      "name": "Hotel Villa Antigua",
+      "kind": "stay",
+      "locality": "Sucre",
+      "lat": -19.04986,
+      "lon": -65.25635,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "address": "Calle Calvo 237",
+      "price": "From US$50",
+      "url": "http://www.villaantiguahotel.com/",
+      "id": "bolivia-da923f2e1e8a3a043cf3"
+    },
+    {
+      "name": "Sucre",
+      "kind": "area",
+      "locality": "Sucre",
+      "lat": -19.0339,
+      "lon": -65.2626,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sucre",
+      "id": "bolivia-92e8e9d88d4a95e367c1"
+    },
+    {
+      "name": "Sagarnaga Street",
+      "kind": "do",
+      "locality": "La Paz",
+      "lat": -16.49739,
+      "lon": -68.138415,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "id": "bolivia-385225de72aa2e3814a2"
+    },
+    {
+      "name": "The Witches' Market",
+      "kind": "do",
+      "locality": "La Paz",
+      "lat": -16.496238,
+      "lon": -68.139201,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle Linares between Sagarnaga and Santa Cruz",
+      "id": "bolivia-58f6e5c2c6b64d602dd5"
+    },
+    {
+      "name": "Eloy Salmon",
+      "kind": "do",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "id": "bolivia-4823423f24faf4b0971a"
+    },
+    {
+      "name": "Calle Jaen",
+      "kind": "do",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "id": "bolivia-a8a5d5d8ae5b708c5be1"
+    },
+    {
+      "name": "Plaza Murillo",
+      "kind": "do",
+      "locality": "La Paz",
+      "lat": -16.495716,
+      "lon": -68.133582,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "price": "free",
+      "id": "bolivia-6298bb9923c6fd0cab5f"
+    },
+    {
+      "name": "Palacio Quemado",
+      "kind": "do",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "price": "free",
+      "id": "bolivia-1f77bed9b8f97284c776"
+    },
+    {
+      "name": "Main cemetery",
+      "kind": "do",
+      "locality": "La Paz",
+      "lat": -16.496878,
+      "lon": -68.151762,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "id": "bolivia-53ae08e63d42ad5bbf48"
+    },
+    {
+      "name": "Valle de La Luna",
+      "kind": "do",
+      "locality": "La Paz",
+      "lat": -16.567138,
+      "lon": -68.093908,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "price": "20 Bs",
+      "id": "bolivia-47e3873753c790fe2912"
+    },
+    {
+      "name": "Valle de las Ánimas",
+      "kind": "do",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "id": "bolivia-d339ec0be5f961934426"
+    },
+    {
+      "name": "Estación Teleférico Central",
+      "kind": "do",
+      "locality": "La Paz",
+      "lat": -16.491,
+      "lon": -68.1445,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "id": "bolivia-20d8d819aa1f71e0cc59"
+    },
+    {
+      "name": "Estación Teleférico 16 de Julio",
+      "kind": "do",
+      "locality": "La Paz",
+      "lat": -16.498,
+      "lon": -68.165,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "id": "bolivia-7c526d5cdd17d9e8cfa9"
+    },
+    {
+      "name": "parking lot at the nearby autopista",
+      "kind": "do",
+      "locality": "La Paz",
+      "lat": -16.4882,
+      "lon": -68.144,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "id": "bolivia-078b57639519c19c5b9e"
+    },
+    {
+      "name": "Mercado Uruguay",
+      "kind": "do",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "id": "bolivia-dd7320200427b2e6c403"
+    },
+    {
+      "name": "Museo San Francisco",
+      "kind": "do",
+      "locality": "La Paz",
+      "lat": -16.4962,
+      "lon": -68.1369,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Plaza San Francisco",
+      "price": "Bs. 40",
+      "url": "https://m.facebook.com/CCMSFLP/",
+      "id": "bolivia-27782d1f8178d7ba9ad0"
+    },
+    {
+      "name": "National Ethnographic and Folk Museum",
+      "kind": "do",
+      "locality": "La Paz",
+      "lat": -16.494147,
+      "lon": -68.13515,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Ingavi 916, corner of Jenaro Sanjinés",
+      "price": "Bs. 35",
+      "url": "http://www.musef.org.bo/",
+      "id": "bolivia-d80384b635b16cd02e52"
+    },
+    {
+      "name": "National Museum of Art",
+      "kind": "do",
+      "locality": "La Paz",
+      "lat": -16.495822,
+      "lon": -68.134432,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle Comercio, corner of Socabaya",
+      "id": "bolivia-139c2097c4a58e46ac23"
+    },
+    {
+      "name": "Tiwanaku Museum",
+      "kind": "do",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "id": "bolivia-ed35be1caac7ad16d41c"
+    },
+    {
+      "name": "Coca Museum",
+      "kind": "do",
+      "locality": "La Paz",
+      "lat": -16.497389,
+      "lon": -68.13825,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle Linares 906",
+      "price": "Bs. 18",
+      "url": "http://www.cocamuseum.com/",
+      "id": "bolivia-0bb772f55424fc74ec49"
+    },
+    {
+      "name": "Musical Instrument Museum",
+      "kind": "do",
+      "locality": "La Paz",
+      "lat": -16.49262,
+      "lon": -68.136106,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle Jaen 711",
+      "id": "bolivia-24265dd38b624793c2ef"
+    },
+    {
+      "name": "Museum of Precious Metals",
+      "kind": "do",
+      "locality": "La Paz",
+      "lat": -16.492018,
+      "lon": -68.135722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle Jaen 777",
+      "id": "bolivia-04871f85167b4073ce81"
+    },
+    {
+      "name": "Submerged Museum",
+      "kind": "do",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "in front of the city stadium",
+      "id": "bolivia-cf0d9c0bc9ea78e1775c"
+    },
+    {
+      "name": "Crazy Dave",
+      "kind": "do",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Plaza San Pedro (Plaza Sucre)",
+      "id": "bolivia-93c069fb69f4692a2663"
+    },
+    {
+      "name": "Bolivian wrestling cholitas",
+      "kind": "do",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "id": "bolivia-669ab7fefb231ab77da9"
+    },
+    {
+      "name": "Monje Campero",
+      "kind": "do",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "url": "http://monjecampero.com.bo/",
+      "id": "bolivia-ea256c56c5fd5ee2ef3e"
+    },
+    {
+      "name": "Instituto Exclusivo",
+      "kind": "do",
+      "locality": "La Paz",
+      "lat": -16.50900990542171,
+      "lon": -68.12729358673096,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Avenida 20 de Octubre #2315",
+      "url": "http://www.instituto-exclusivo.com/",
+      "id": "bolivia-6e93a5905ef4aaa6b8c9"
+    },
+    {
+      "name": "Pico Verde Languages",
+      "kind": "do",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "363 Sagarnaga St",
+      "price": "US$4.50-8 per hour depending on class size and hours taken",
+      "url": "http://www.pico-verde.com/",
+      "id": "bolivia-aa7e1881d9ead052d37d"
+    },
+    {
+      "name": "ABC Spanish Tuition",
+      "kind": "do",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Miraflores, Avenida Simon Bolivar, Pasaje 1880, house Nº 1785",
+      "url": "https://abc-spanishtuition.business.site/",
+      "id": "bolivia-0f704be384c667316f7e"
+    },
+    {
+      "name": "Rita Clavijo",
+      "kind": "do",
+      "locality": "La Paz",
+      "lat": -16.503692,
+      "lon": -68.123592,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Pasaje José Manuel Loza Nº 420 (Calle Prudencio esq. Juan de Vargas)",
+      "url": "http://www.ritaclavijo.com/",
+      "id": "bolivia-30e43b28e929b8d87f1d"
+    },
+    {
+      "name": "Chifa Puerta del Sol",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Av. Ballivian #503 (Calacoto, Calle 11)",
+      "id": "bolivia-40fec004e2d6c6b18839"
+    },
+    {
+      "name": "El Consulado",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle Bravo 299",
+      "id": "bolivia-6d4909ca3701b49c6b8a"
+    },
+    {
+      "name": "Angelo Colonial",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle Linares 922",
+      "id": "bolivia-127262759ab698c4e259"
+    },
+    {
+      "name": "Tambo Colonial",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "in Hotel Rosario",
+      "id": "bolivia-f49798d2b5a9f30e849a"
+    },
+    {
+      "name": "Naira",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle Sagarnaga 161",
+      "id": "bolivia-0a5fde5a5b717dde4692"
+    },
+    {
+      "name": "Alo Cubano",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Av. Aniceto de Arce",
+      "id": "bolivia-33028b3b4eda8701b0f3"
+    },
+    {
+      "name": "Contigo Peru",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "second floor of Edificio Alameda (on the Prado)",
+      "id": "bolivia-02dffd4e3b228869f34b"
+    },
+    {
+      "name": "Eli's New York Deli",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "id": "bolivia-eec3e69d1fad427c33ca"
+    },
+    {
+      "name": "Sultan",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "San Miguel, Zona Sur",
+      "id": "bolivia-8f8375987ce25800b01b"
+    },
+    {
+      "name": "Pizzeria Italia",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle Ilampu 809",
+      "id": "bolivia-5ff348e553ba393f0ad5"
+    },
+    {
+      "name": "La Mia Pizzeria",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle Ilampu",
+      "id": "bolivia-aef0f778d4f3af985929"
+    },
+    {
+      "name": "Al amir",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Murillo 824",
+      "id": "bolivia-192141a8647df0a26dae"
+    },
+    {
+      "name": "The Star of India",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "id": "bolivia-25293c1ae8ba7a48afa6"
+    },
+    {
+      "name": "Café Ciudad",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Plaza Estudiantes",
+      "price": "Burgers Bs. 15-20, main courses Bs. 30-40",
+      "id": "bolivia-fe9d9d1ad525c72809b0"
+    },
+    {
+      "name": "Cafe Karlovy",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Av. Claudio Aliaga Nº 1182 - Bloque J-47, San Miguel",
+      "id": "bolivia-0c36b7f1f62589ec5fbd"
+    },
+    {
+      "name": "Sol y Luna",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle Murillo and Cochabamba",
+      "id": "bolivia-a8c8bbe65033021fd93c"
+    },
+    {
+      "name": "Namas Te",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Zoilo Flores #1334",
+      "price": "Bs. 20",
+      "url": "http://www.namastebolivia.com/",
+      "id": "bolivia-863ccf1d7fb9cddfb4c2"
+    },
+    {
+      "name": "La Terraza Cafe",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Ave 16 de Julio 1615",
+      "id": "bolivia-5c24eab1ef8003126d95"
+    },
+    {
+      "name": "Ken Chan",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Batallon Colorados No.98. Esq.Federico Suazo",
+      "price": "Set meal main Bs. 40~50",
+      "id": "bolivia-d5c288be7f9fe14a6505"
+    },
+    {
+      "name": "La Coca",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Rosendo Gutiérrez Nº 482",
+      "price": "Bs. 20",
+      "id": "bolivia-7b9da06a90a81b4d9c89"
+    },
+    {
+      "name": "Glam",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Sanchez Lima Nº 2237",
+      "price": "Bs. 85",
+      "id": "bolivia-42666a7c642e6aac9f37"
+    },
+    {
+      "name": "Marrakech",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle Jimenez 774",
+      "id": "bolivia-588528fa41a8bc0c670d"
+    },
+    {
+      "name": "Paladar-Cozinha Brasileira",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "C. Ferrecio #B-28, San Miguel",
+      "price": "US$5-15 with drinks",
+      "id": "bolivia-4ee5c868f90f4ee19450"
+    },
+    {
+      "name": "Popular Cocina Boliviana",
+      "kind": "eat",
+      "locality": "La Paz",
+      "lat": -16.496016,
+      "lon": -68.138348,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle Murillo 826",
+      "price": "Bs. 60",
+      "id": "bolivia-106df0fe8b7bd37841a4"
+    },
+    {
+      "name": "Café Vida",
+      "kind": "eat",
+      "locality": "La Paz",
+      "lat": -16.497096,
+      "lon": -68.137749,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle Sagarnaga 213, esquina Murillo",
+      "price": "Bs. 32 for the lunch combo",
+      "id": "bolivia-70f0787741572bd3ce78"
+    },
+    {
+      "name": "La Gabriela",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Casa Matriz or Sucursal",
+      "price": "Menus are 25Bs, comes with a lemonade",
+      "id": "bolivia-8fee6684841860d8301f"
+    },
+    {
+      "name": "Cafe del Mundo",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Sagarnaga 324",
+      "id": "bolivia-4bd38c355b613c23aced"
+    },
+    {
+      "name": "Gustu",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "No. 300 Calle 10, Calacoto",
+      "url": "http://www.gustu.bo/en",
+      "id": "bolivia-a6083fcff3c72aa19a8c"
+    },
+    {
+      "name": "Alexander The Great",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Av. 16 de Julio 1832 and other locations",
+      "id": "bolivia-318c06234a17b90f62d0"
+    },
+    {
+      "name": "Blueberries",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Av. 20 de Octubre 2475",
+      "id": "bolivia-a52fe694f92de1cbaf2d"
+    },
+    {
+      "name": "Cafe Confiteria La Paz",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Avenida Camacho & Ayacucho",
+      "id": "bolivia-35cdbbfc5a37a4a1d29b"
+    },
+    {
+      "name": "Pepe's Coffee Bar",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Jimenez 894",
+      "id": "bolivia-1b271eec87fa26ad3a4e"
+    },
+    {
+      "name": "Oliver's Travels",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle Murillo (opposite Sol y Luna)",
+      "id": "bolivia-5db697d9850f3e065b8a"
+    },
+    {
+      "name": "Sol Y Luna",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle Murillo",
+      "id": "bolivia-8b1455446a13e64f3a3c"
+    },
+    {
+      "name": "Irish",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Plaza Avoroa",
+      "id": "bolivia-93242ab8ff0cdb345943"
+    },
+    {
+      "name": "Traffic",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "San Jorge",
+      "id": "bolivia-8e38b55d8d7cb504fb76"
+    },
+    {
+      "name": "Antique Pub",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Pichincha 662",
+      "id": "bolivia-3577dfc00c528c9875e9"
+    },
+    {
+      "name": "Pomp Pomp Salty Man",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Loayza and Comerceo",
+      "id": "bolivia-1b7992e3904f939f4fe9"
+    },
+    {
+      "name": "Hard Rock Cafe",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle santa-cruz #399 esq. illampu",
+      "id": "bolivia-736bebacb49868052bc0"
+    },
+    {
+      "name": "BackStage",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "La Florida, Calacoto",
+      "id": "bolivia-c088e07f665b725c6315"
+    },
+    {
+      "name": "Mongo's",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Hermanos Manchego 2444",
+      "id": "bolivia-d8e9aec60f82268a3369"
+    },
+    {
+      "name": "Forum",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "id": "bolivia-19c4a675cbdeeaa74308"
+    },
+    {
+      "name": "La Gitana",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Zona Sur, Calle 8 de Calacoto",
+      "id": "bolivia-5ac6f7840e49cf601981"
+    },
+    {
+      "name": "Dry Law",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Zona Sur, Cota Cota",
+      "id": "bolivia-5cb780a137ec36c21bd2"
+    },
+    {
+      "name": "Malegria",
+      "kind": "eat",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Sopocachi, Pasaje Medinacelli #2282",
+      "id": "bolivia-1e8c3630caa7d4eff221"
+    },
+    {
+      "name": "Hostel Maya",
+      "kind": "stay",
+      "locality": "La Paz",
+      "lat": -16.4978384,
+      "lon": -68.1387949,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle Sagarnaga 339",
+      "url": "https://m.facebook.com/hostalmayainn/",
+      "id": "bolivia-bca9ede8379207046e2b"
+    },
+    {
+      "name": "Loki Backpackers Hostel",
+      "kind": "stay",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "price": "Dorm beds from Bs. 40",
+      "url": "http://www.lokihostel.com/la_paz",
+      "id": "bolivia-9ba8d57a30e2e15da0af"
+    },
+    {
+      "name": "Hostel Pirwa La Paz",
+      "kind": "stay",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle Ricardo Mujía 766",
+      "url": "https://www.pirwahostels.com/es/hostels-la-paz-8/hostel-pirwa-la-paz-9/",
+      "id": "bolivia-b2578ac9a88ba5d0dfe9"
+    },
+    {
+      "name": "Perla Negra Hostal",
+      "kind": "stay",
+      "locality": "La Paz",
+      "lat": -16.4894744,
+      "lon": -68.1392099,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "P. Kramer #775",
+      "price": "Bs. 120 for double with shared bathroom",
+      "id": "bolivia-8365639357c1abb16ef8"
+    },
+    {
+      "name": "Adventure Brew Hostel and Brew Too",
+      "kind": "stay",
+      "locality": "La Paz",
+      "lat": -16.49043,
+      "lon": -68.140572,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Avenida Montes 533",
+      "url": "http://www.theadventurebrewhostel.com/",
+      "id": "bolivia-9a32055f832a636dcbfa"
+    },
+    {
+      "name": "Wild Rover Backpackers Hostel",
+      "kind": "stay",
+      "locality": "La Paz",
+      "lat": -16.497731,
+      "lon": -68.131124,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle Comercio 1476 (esquina Bueno)",
+      "url": "http://wildroverhostel.com/",
+      "id": "bolivia-535731ec77ba03ad70b1"
+    },
+    {
+      "name": "Inti Wasi",
+      "kind": "stay",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle Murillo 776",
+      "price": "Singles Bs. 35, Doubles Bs. 60, Triples Bs. 90, 4 bed dorm Bs. 30, 6 bed dorm Bs. 20",
+      "id": "bolivia-45834f64d9769450aab7"
+    },
+    {
+      "name": "Bacoo Hostel",
+      "kind": "stay",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "693 Alto de la Alianza St.",
+      "id": "bolivia-1b839c2b0d45deecc721"
+    },
+    {
+      "name": "Hotel la Valle",
+      "kind": "stay",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "id": "bolivia-a6dff9bda6167fdc023c"
+    },
+    {
+      "name": "Inkaterra Backpackers Home",
+      "kind": "stay",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "price": "Singles from Bs. 30",
+      "id": "bolivia-c74d524b7f4821db092a"
+    },
+    {
+      "name": "Hostal Illimani",
+      "kind": "stay",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle Illimani #1817, Barrio Miraflores",
+      "id": "bolivia-191061850c688d092ed5"
+    },
+    {
+      "name": "El Carretero",
+      "kind": "stay",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "price": "Dorm for Bs. 20",
+      "id": "bolivia-552c1a1a92ef520ee2d6"
+    },
+    {
+      "name": "Hostal Austria",
+      "kind": "stay",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle Yanacocha",
+      "price": "Singles Bs. 35, shared room Bs. 30",
+      "id": "bolivia-5cb71cf0c1a05ba495b4"
+    },
+    {
+      "name": "Hosteria Blanquita",
+      "kind": "stay",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Santa Cruz 242",
+      "id": "bolivia-8a1495346fc4899bb86b"
+    },
+    {
+      "name": "Hotel Continental",
+      "kind": "stay",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "id": "bolivia-0ba013e8f99b49006683"
+    },
+    {
+      "name": "Hostal Cactus",
+      "kind": "stay",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle Jimenez",
+      "id": "bolivia-c32897e17194fea172f9"
+    },
+    {
+      "name": "Hotel Majestic",
+      "kind": "stay",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle Santa Cruz",
+      "id": "bolivia-958afb97909300b51852"
+    },
+    {
+      "name": "Hostal Lobo",
+      "kind": "stay",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "c/Illampu esq Santa Cruz",
+      "id": "bolivia-8ab9c1b05c7b50f88475"
+    },
+    {
+      "name": "Hotel Savoy",
+      "kind": "stay",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle Chuquisaca 675",
+      "price": "Doubles from Bs. 160",
+      "id": "bolivia-3a05f46b279969ba2726"
+    },
+    {
+      "name": "Hotel Milton",
+      "kind": "stay",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle Illampu #1126-1130",
+      "id": "bolivia-405d387e92d3863f1c69"
+    },
+    {
+      "name": "Colibri Camping",
+      "kind": "stay",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle 4, Jupapina",
+      "price": "US$7 per person",
+      "url": "http://www.colibricamping.com/",
+      "id": "bolivia-e55d810937d36c879460"
+    },
+    {
+      "name": "Apartment Collita",
+      "kind": "stay",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "url": "http://www.gratis-webserver.de/bolivia-apartment/",
+      "id": "bolivia-f4e904b166734259b273"
+    },
+    {
+      "name": "Hotel España",
+      "kind": "stay",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Av. 6 de Agosto 2074",
+      "price": "Singles US$24, doubles $34",
+      "id": "bolivia-2c1ccaa21fd22fdc1793"
+    },
+    {
+      "name": "Hotel Gloria",
+      "kind": "stay",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle Potosí # 909",
+      "price": "Simple rooms US$50, double rooms US$56 including breakfast buffet",
+      "url": "http://www.hotelglorialapaz.com/",
+      "id": "bolivia-ae5001eb1fb2eead0e92"
+    },
+    {
+      "name": "Hostal Naira",
+      "kind": "stay",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Calle Sagarnaga 161",
+      "url": "http://www.hostalnaira.com/",
+      "id": "bolivia-ece217571529895e20e9"
+    },
+    {
+      "name": "Hotel Rosario",
+      "kind": "stay",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Av. Illampu 704",
+      "url": "http://www.hotelrosario.com/",
+      "id": "bolivia-d804dc701c10542836c8"
+    },
+    {
+      "name": "La Posada en La Paz",
+      "kind": "stay",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "url": "http://www.laposadaenlapaz.com/",
+      "id": "bolivia-2fe88505f1c6550fbe7e"
+    },
+    {
+      "name": "Apart'Hotel A La Maison",
+      "kind": "stay",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Pasaje Muñoz Cornejo nº15",
+      "price": "Bs. 280-630 for 40-120m²",
+      "id": "bolivia-8e14c0320d9c03907e1c"
+    },
+    {
+      "name": "Ritz Apart Hotel",
+      "kind": "stay",
+      "locality": "La Paz",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "address": "Plaza Isabel La Catolica 2478",
+      "id": "bolivia-d39bdf2ae631dc5a292b"
+    },
+    {
+      "name": "La Paz",
+      "kind": "area",
+      "locality": "La Paz",
+      "lat": -16.4951,
+      "lon": -68.0474,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Paz",
+      "id": "bolivia-d0a0c921577ed3ed02c8"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 3 distinct public Wikivoyage source pages; attempted 3 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

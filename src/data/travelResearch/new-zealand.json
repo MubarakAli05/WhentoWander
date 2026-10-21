@@ -1,0 +1,2088 @@
+{
+  "sources": [
+    {
+      "title": "New Zealand",
+      "url": "https://en.wikivoyage.org/wiki/New_Zealand",
+      "checkedAt": "2026-10-21T08:14:25.014Z"
+    },
+    {
+      "title": "Wellington",
+      "url": "https://en.wikivoyage.org/wiki/Wellington",
+      "checkedAt": "2026-10-21T08:14:27.319Z"
+    },
+    {
+      "title": "Wellington/City",
+      "url": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "checkedAt": "2026-10-21T08:14:31.211Z"
+    },
+    {
+      "title": "Wellington/Porirua",
+      "url": "https://en.wikivoyage.org/wiki/Wellington%2FPorirua",
+      "checkedAt": "2026-10-21T08:14:33.543Z"
+    },
+    {
+      "title": "Wellington/Lower Hutt",
+      "url": "https://en.wikivoyage.org/wiki/Wellington%2FLower_Hutt",
+      "checkedAt": "2026-10-21T08:14:36.505Z"
+    },
+    {
+      "title": "Wellington/Upper Hutt",
+      "url": "https://en.wikivoyage.org/wiki/Wellington%2FUpper_Hutt",
+      "checkedAt": "2026-10-21T08:14:39.318Z"
+    },
+    {
+      "title": "Milford Sound",
+      "url": "https://en.wikivoyage.org/wiki/Milford_Sound",
+      "checkedAt": "2026-10-21T08:14:42.518Z"
+    },
+    {
+      "title": "Queenstown (New Zealand)",
+      "url": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "checkedAt": "2026-10-21T08:14:48.349Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Wellington",
+      "kind": "area",
+      "locality": "New Zealand",
+      "lat": -41.29,
+      "lon": 174.78,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Zealand",
+      "id": "new-zealand-2d19514f7ccfd0a99b4f"
+    },
+    {
+      "name": "Auckland",
+      "kind": "area",
+      "locality": "New Zealand",
+      "lat": -36.85,
+      "lon": 174.75,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Zealand",
+      "id": "new-zealand-606816a0b31ce75acbea"
+    },
+    {
+      "name": "Christchurch",
+      "kind": "area",
+      "locality": "New Zealand",
+      "lat": -43.53,
+      "lon": 172.64,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Zealand",
+      "id": "new-zealand-1f80642f1c34ed64ddbb"
+    },
+    {
+      "name": "Dunedin",
+      "kind": "area",
+      "locality": "New Zealand",
+      "lat": -45.87,
+      "lon": 170.5,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Zealand",
+      "id": "new-zealand-58594367ca9ccc07f4f9"
+    },
+    {
+      "name": "Hamilton",
+      "kind": "area",
+      "locality": "New Zealand",
+      "lat": -37.78,
+      "lon": 175.28,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Zealand",
+      "id": "new-zealand-a2081aab38a9d563a87f"
+    },
+    {
+      "name": "Napier",
+      "kind": "area",
+      "locality": "New Zealand",
+      "lat": -39.49,
+      "lon": 176.92,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Zealand",
+      "id": "new-zealand-b49ae19fd5237a8f7275"
+    },
+    {
+      "name": "Nelson",
+      "kind": "area",
+      "locality": "New Zealand",
+      "lat": -41.27,
+      "lon": 173.28,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Zealand",
+      "id": "new-zealand-e96df1a9c4d94fc9a42c"
+    },
+    {
+      "name": "Queenstown",
+      "kind": "area",
+      "locality": "New Zealand",
+      "lat": -45.03,
+      "lon": 168.66,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Zealand",
+      "id": "new-zealand-3051843e185eae50a92c"
+    },
+    {
+      "name": "Rotorua",
+      "kind": "area",
+      "locality": "New Zealand",
+      "lat": -38.13,
+      "lon": 176.25,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/New_Zealand",
+      "id": "new-zealand-ce6a488dae176805e3a5"
+    },
+    {
+      "name": "Wellington",
+      "kind": "area",
+      "locality": "Wellington",
+      "lat": -41.288889,
+      "lon": 174.777222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington",
+      "id": "new-zealand-dc09098b7e4daa653c14"
+    },
+    {
+      "name": "Museum of New Zealand Te Papa Tongarewa",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.2905,
+      "lon": 174.7821,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "55 Cable St",
+      "price": "Free for NZ citizens (except for the occasional special presentation), $35 for 48hr international visitor ticket",
+      "url": "https://www.tepapa.govt.nz/",
+      "id": "new-zealand-7a0f9825829918741cf8"
+    },
+    {
+      "name": "Cable Car Museum",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.2853,
+      "lon": 174.7673,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "1A Upland Road, Kelburn",
+      "price": "Free",
+      "url": "http://www.museumswellington.org.nz/cable-car-museum/",
+      "id": "new-zealand-53a46a165cf0a31cbedf"
+    },
+    {
+      "name": "Carter Observatory",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.284444,
+      "lon": 174.766944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "40 Salamanca Rd, Kelburn",
+      "price": "$18",
+      "url": "http://www.museumswellington.org.nz/space-place/",
+      "id": "new-zealand-04e74b4999a049459f44"
+    },
+    {
+      "name": "City Gallery",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.28838,
+      "lon": 174.77744,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "Temporarily located in the National Library at 70 Molesworth Street during building works",
+      "url": "https://citygallery.org.nz/",
+      "id": "new-zealand-8679f4dd83379753798d"
+    },
+    {
+      "name": "Holocaust Centre of New Zealand",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.29723,
+      "lon": 174.77236,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "80 Webb St",
+      "price": "Free",
+      "url": "http://www.holocaustcentre.org.nz/",
+      "id": "new-zealand-3834c25a031aabf55ace"
+    },
+    {
+      "name": "Katherine Mansfield Birthplace",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.27015,
+      "lon": 174.77986,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "25 Tinakori Rd",
+      "price": "$10",
+      "url": "https://www.katherinemansfield.com/",
+      "id": "new-zealand-18f189ad2905d7aa4613"
+    },
+    {
+      "name": "Nairn Street Cottage",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.2994,
+      "lon": 174.76996,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "68 Nairn St",
+      "price": "$8",
+      "url": "http://www.museumswellington.org.nz/nairn-street-cottage/",
+      "id": "new-zealand-3deead54e7b7f6bc0375"
+    },
+    {
+      "name": "National Tattoo Museum of New Zealand",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.29416,
+      "lon": 174.77248,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "187 Vivian St",
+      "url": "https://www.mokomuseum.org.nz/",
+      "id": "new-zealand-fbbb43fbaebb407042aa"
+    },
+    {
+      "name": "New Zealand Portrait Gallery",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.283475,
+      "lon": 174.77824,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "Shed 11, Customhouse Quay",
+      "price": "free",
+      "url": "http://www.nzportraitgallery.org.nz/",
+      "id": "new-zealand-97740aa49f34fe369c9b"
+    },
+    {
+      "name": "Wellington Museum",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.28517,
+      "lon": 174.7781,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "Queens Wharf, 3 Jervois Quay",
+      "price": "Free for NZ residents, $16 for international visitors",
+      "url": "https://www.museumswellington.org.nz/wellington-museum/",
+      "id": "new-zealand-947539488d2cf86945d8"
+    },
+    {
+      "name": "Parliament Buildings",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.278,
+      "lon": 174.7768,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "Molesworth St, Thorndon",
+      "url": "http://www.parliament.nz/en-nz/about-parliament/visiting/",
+      "id": "new-zealand-a7ae6a4097f6d61a4c4a"
+    },
+    {
+      "name": "Old Government Buildings",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.2795,
+      "lon": 174.778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "15 Lambton Quay",
+      "url": "https://www.visitheritage.co.nz/visit/wellington/old-government-buildings",
+      "id": "new-zealand-468d4a06142825ddaf89"
+    },
+    {
+      "name": "National Library of New Zealand",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.276614,
+      "lon": 174.778372,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "corner of Aitken and Molesworth Sts",
+      "url": "http://www.natlib.govt.nz/",
+      "id": "new-zealand-fbd66f74c91ba5f812af"
+    },
+    {
+      "name": "Supreme Court",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.280044,
+      "lon": 174.776849,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "85 Lambton Quay",
+      "url": "https://www.courtsofnz.govt.nz/the-courts/supreme-court",
+      "id": "new-zealand-1eccecbc0e8b0f2ca0fe"
+    },
+    {
+      "name": "Turnbull House",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.2791,
+      "lon": 174.77643,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "25 Bowen St",
+      "id": "new-zealand-0bbadbb170c8aef89a2e"
+    },
+    {
+      "name": "Plimmer's Ark",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "url": "https://oldbank.co.nz/showcase/",
+      "id": "new-zealand-d99341bcff55d5f97a71"
+    },
+    {
+      "name": "Old St Paul's",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.27625,
+      "lon": 174.780417,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "price": "Donation, tours $5",
+      "url": "http://www.heritage.org.nz/places/places-to-visit/wellington-region/old-st-pauls",
+      "id": "new-zealand-03d009f3c597009a27ba"
+    },
+    {
+      "name": "Pukeahu National War Memorial Park",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.29903,
+      "lon": 174.77712,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "price": "Free",
+      "url": "https://mch.govt.nz/pukeahu-national-war-memorial-park",
+      "id": "new-zealand-d0eaba64ecec55817c49"
+    },
+    {
+      "name": "Cathedral of St Paul",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.276333,
+      "lon": 174.777444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "Corner of Molesworth St and Hill St",
+      "url": "https://www.wellingtoncathedral.org.nz/",
+      "id": "new-zealand-a6c4ffcde1c096f98d47"
+    },
+    {
+      "name": "St Mary of the Angels, Wellington",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "url": "https://smoa.org.nz/",
+      "id": "new-zealand-6512b85d63b83b196566"
+    },
+    {
+      "name": "Central Fire Station",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.29335,
+      "lon": 174.78477,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "Kent Terrace",
+      "id": "new-zealand-6c388ba2882612fd24ac"
+    },
+    {
+      "name": "Elmscourt",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.29451,
+      "lon": 174.76918,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "id": "new-zealand-69fea4b4d7dc32fb74fb"
+    },
+    {
+      "name": "Hotel St George",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "Willis and Boulcott Streets",
+      "id": "new-zealand-3cd45d0d80904cdeaa26"
+    },
+    {
+      "name": "Bucket Fountain",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "Cuba Mall",
+      "id": "new-zealand-0412c4f2218485fd5b6e"
+    },
+    {
+      "name": "Wellington Cable Car",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.2852,
+      "lon": 174.7678,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "price": "Adult $4 one way, $7.50 return. Concession prices are available for children, students and senior citizens over 65",
+      "url": "http://www.wellingtoncablecar.co.nz/",
+      "id": "new-zealand-7f25ca3d13b91d4c644c"
+    },
+    {
+      "name": "Mount Victoria",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.2984,
+      "lon": 174.786,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "off Lookout Rd",
+      "id": "new-zealand-242e54b91e98c33535f5"
+    },
+    {
+      "name": "Mount Kaukau",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.2332,
+      "lon": 174.7776,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "off Woodmancote Road, Khandallah",
+      "id": "new-zealand-c6fe1ce53f3d2638966b"
+    },
+    {
+      "name": "Wrights Hill",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.2961,
+      "lon": 174.739,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "price": "$10",
+      "url": "http://wrightshillfortress.org.nz/",
+      "id": "new-zealand-61ef0d8802932060817a"
+    },
+    {
+      "name": "Brooklyn Wind Turbine",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.311,
+      "lon": 174.7451,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "off Ashton Fitchett Dr, Brooklyn",
+      "id": "new-zealand-e273aa34b5a3e51f7447"
+    },
+    {
+      "name": "Massey Memorial",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.285278,
+      "lon": 174.826111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "Massey Road, Miramar",
+      "id": "new-zealand-508b07cbc9676a2b157b"
+    },
+    {
+      "name": "Zealandia",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.2906,
+      "lon": 174.753,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "Waiapu Rd, Karori",
+      "price": "Adult $26, child (5-17) $10, more for guided day tours & night tours",
+      "url": "http://www.visitzealandia.com/",
+      "id": "new-zealand-4485d0e78ef2338737a6"
+    },
+    {
+      "name": "Matiu/Somes Island",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.25825,
+      "lon": 174.865389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "price": "Ferry $25",
+      "url": "http://eastbywest.co.nz/",
+      "id": "new-zealand-db8af8e4b16cda40d46f"
+    },
+    {
+      "name": "Weta Workshop",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.305822,
+      "lon": 174.823465,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "1 Weka Street, Miramar",
+      "url": "https://www.wetaworkshop.com/tours/wellington",
+      "id": "new-zealand-b6eae2358c4d4e094614"
+    },
+    {
+      "name": "Wellington Botanic Garden ki Paekākā",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "101 Glenmore St, Kelburn",
+      "url": "https://wellingtongardens.nz/",
+      "id": "new-zealand-6b04de1476b8a7dea9f0"
+    },
+    {
+      "name": "Bolton Street Memorial Park",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.2793,
+      "lon": 174.774,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "url": "https://boltoncemetery.org.nz/",
+      "id": "new-zealand-9f4e35aab38d50e122e5"
+    },
+    {
+      "name": "Karori Cemetery",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.275,
+      "lon": 174.75,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "id": "new-zealand-eeeda8f277b966331675"
+    },
+    {
+      "name": "Frank Kitts Park",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.2872,
+      "lon": 174.779,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "id": "new-zealand-797772fdb604b948e1bf"
+    },
+    {
+      "name": "Otari-Wilton's Bush",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.2673,
+      "lon": 174.759,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "160 Wilton Road",
+      "url": "https://wellingtongardens.nz/our-gardens/otari-wiltons-bush/",
+      "id": "new-zealand-c41b0e2d2ec69280bcd9"
+    },
+    {
+      "name": "Art Deco Heritage Trail",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "url": "https://wellington.govt.nz/recreation/enjoy-the-outdoors/walks-and-walkways/across-the-city/art-deco-heritage-trail",
+      "id": "new-zealand-5b750ba3fb3c43049e72"
+    },
+    {
+      "name": "Pariwhero/Red Rocks Seal Colony",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.3484,
+      "lon": 174.7492,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "url": "https://wellington.govt.nz/recreation/enjoy-the-outdoors/beaches-and-coast/southern-suburbs/red-rocks-pariwhero",
+      "id": "new-zealand-e3a195a1afb1267a6364"
+    },
+    {
+      "name": "Skyline Walkway",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.2723,
+      "lon": 174.7048,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "url": "https://wellington.govt.nz/recreation/enjoy-the-outdoors/walks-and-walkways/beyond-the-city/skyline-walkway",
+      "id": "new-zealand-ba7087fa75bf7fd7c787"
+    },
+    {
+      "name": "The Enormous Crocodile",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.290656,
+      "lon": 174.782922,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "5/22 Herd Street",
+      "price": "$18+",
+      "url": "http://www.crocbikes.co.nz/",
+      "id": "new-zealand-1f95bc175f9fe9202d58"
+    },
+    {
+      "name": "Hnry Stadium",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "url": "https://www.hnrystadium.co.nz/",
+      "id": "new-zealand-58c2db5350468ec58d38"
+    },
+    {
+      "name": "Basin Reserve",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.3003,
+      "lon": 174.7803,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "Mount Cook",
+      "url": "https://basinreserve.nz/",
+      "id": "new-zealand-8b6ef8dd0765358a512e"
+    },
+    {
+      "name": "Dive the frigate Wellington (F69)",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.354444,
+      "lon": 174.779444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "id": "new-zealand-74eba2ec131ea9e22ecf"
+    },
+    {
+      "name": "Oriental Bay",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "Oriental Parade",
+      "id": "new-zealand-7f10b3d6031f00201b20"
+    },
+    {
+      "name": "Makara Peak Mountain Bike Park",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "id": "new-zealand-d3d78c5f30da12de764e"
+    },
+    {
+      "name": "Karori Cemetery",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "id": "new-zealand-8676ad603c3adcfba47b"
+    },
+    {
+      "name": "Aro Street Fish and Chips",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "Aro St",
+      "id": "new-zealand-b3501c442d5b90ce381c"
+    },
+    {
+      "name": "Little Penang",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "40 Dixon St",
+      "id": "new-zealand-9198e831de11beb987d5"
+    },
+    {
+      "name": "The Backbencher",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "lat": -41.27763,
+      "lon": 174.7779,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "34 Molesworth St, Thorndon",
+      "price": "$23-33",
+      "url": "http://www.backbencher.co.nz/",
+      "id": "new-zealand-ad1af05f12528cf8a2a8"
+    },
+    {
+      "name": "Fisherman's Plate",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "lat": -41.28912,
+      "lon": 174.77541,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "12 Bond St",
+      "price": "$5-15",
+      "url": "https://www.facebook.com/pages/Fishermans-Plate/172072822839933",
+      "id": "new-zealand-3a907e5f24cb1664cac8"
+    },
+    {
+      "name": "The Green Parrot",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "lat": -41.29123,
+      "lon": 174.77928,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "16 Taranaki St",
+      "price": "mains from $24",
+      "url": "http://www.greenparrot.co.nz/",
+      "id": "new-zealand-9a7ba1373dc6333ec2b4"
+    },
+    {
+      "name": "Harbourside Market",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "id": "new-zealand-77bedbc73abd80dde3c5"
+    },
+    {
+      "name": "Aunty Mena's Vegetarian Restaurant and Cafe",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "167 Cuba St, Te Aro",
+      "price": "$10-20",
+      "id": "new-zealand-1822a96f43652791c920"
+    },
+    {
+      "name": "Satay Palace",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "Cuba St",
+      "id": "new-zealand-f0b057cea83fb3f2052d"
+    },
+    {
+      "name": "Satay Kingdom",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "lat": -41.2926,
+      "lon": 174.77563,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "Left-Bank (off Cuba Mall)",
+      "id": "new-zealand-112b35f66ac502ecd0c8"
+    },
+    {
+      "name": "Great India",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "id": "new-zealand-5bb2d3048564c34e9183"
+    },
+    {
+      "name": "Tulsi",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "135 Cuba St",
+      "id": "new-zealand-55309df6daa931bb33b4"
+    },
+    {
+      "name": "Curry Heaven",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "id": "new-zealand-e5bb4fe1b651e851c7df"
+    },
+    {
+      "name": "Planet Spice",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "id": "new-zealand-f4e16a2ed862cf812b2a"
+    },
+    {
+      "name": "Indian Sweets and Snacks",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "176 Riddiford St",
+      "id": "new-zealand-ba8688987698c0d427bb"
+    },
+    {
+      "name": "California Sushi",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "Left Bank off Cuba St",
+      "id": "new-zealand-c83f14a856c887c4286a"
+    },
+    {
+      "name": "Kazu Yakitori & Sake Bar",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "Level 1, 43 Courtenay Pl",
+      "url": "https://www.fpcnz.co.nz/our-restaurants/",
+      "id": "new-zealand-cd95bd2494e9b5eb63cd"
+    },
+    {
+      "name": "Domo Sushi",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "22 Brandon St",
+      "id": "new-zealand-0cce0e29680b4b1fa46a"
+    },
+    {
+      "name": "Flying Burritto Brothers",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "182 Cuba St",
+      "url": "http://www.flyingburritobrothers.co.nz/",
+      "id": "new-zealand-9b8e408a7f758030db4a"
+    },
+    {
+      "name": "Viva Mexico",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "161 Riddiford St, Newtown",
+      "url": "https://vivamexico.co.nz/",
+      "id": "new-zealand-080f5a0e828ccde7fa66"
+    },
+    {
+      "name": "Boulcott Street Bistro",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "99 Boulcott St",
+      "price": "Starters $14-21, mains $29-35",
+      "url": "http://www.boulcottstreetbistro.co.nz/",
+      "id": "new-zealand-597d10bafb11835f47af"
+    },
+    {
+      "name": "Logan Brown",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "192 Cuba St (corner of Vivian St)",
+      "price": "Mains around $40, early bird dinner special $45 per person",
+      "url": "http://www.loganbrown.co.nz/",
+      "id": "new-zealand-741f19aaeaaff6747628"
+    },
+    {
+      "name": "Pravda Café & Grill",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "107 Customhouse Quay",
+      "price": "$8-40",
+      "url": "http://www.pravdacafe.co.nz/",
+      "id": "new-zealand-37d29cdaaf412d6cebb8"
+    },
+    {
+      "name": "Havana Bar",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "32a Wigan St",
+      "url": "http://www.havana.co.nz/barmain.html",
+      "id": "new-zealand-22c6683dc65483b9db04"
+    },
+    {
+      "name": "Hummingbird",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "22 Courtenay Pl",
+      "url": "http://www.hummingbird.net.nz/",
+      "id": "new-zealand-a37b118aec0560bf2672"
+    },
+    {
+      "name": "S&M's Cocktail lounge",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "Cuba St",
+      "id": "new-zealand-9bdbfca94f8c52c0af42"
+    },
+    {
+      "name": "The Southern Cross",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "39 Abel Smith St, Te Aro",
+      "url": "http://www.thecross.co.nz/",
+      "id": "new-zealand-282cfea89d687acc71d9"
+    },
+    {
+      "name": "Valhalla Tavern",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "154 Vivian St",
+      "url": "http://www.valhallatavern.com/",
+      "id": "new-zealand-1422092397666c57c2dd"
+    },
+    {
+      "name": "Aro Café",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "Aro St",
+      "id": "new-zealand-80e5b4d91720bb54e1f7"
+    },
+    {
+      "name": "Beach Babylon",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "232 Oriental Parade, Oriental Bay",
+      "price": "$10-30",
+      "url": "http://www.beachbabylon.co.nz/",
+      "id": "new-zealand-7e4aa84ff99b83dc4f53"
+    },
+    {
+      "name": "Caffe L’affare",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "27 College St",
+      "url": "http://www.laffare.co.nz/",
+      "id": "new-zealand-aaead0f355082191e24d"
+    },
+    {
+      "name": "Deluxe",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "id": "new-zealand-138f70c5b5ae4bd8870b"
+    },
+    {
+      "name": "Fidel's Café",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "234 Cuba St",
+      "url": "http://www.fidelscafe.com/",
+      "id": "new-zealand-dadd2ebc0bb439464bc0"
+    },
+    {
+      "name": "Floriditas",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "Cuba St on Marion Sq",
+      "id": "new-zealand-d3c8bf0b05797834fb12"
+    },
+    {
+      "name": "Maranui",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "url": "http://www.maranuicafe.co.nz/",
+      "id": "new-zealand-080b20edb27c99367f5e"
+    },
+    {
+      "name": "Midnight Espresso",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "id": "new-zealand-2b092a91ac3e62fd30f4"
+    },
+    {
+      "name": "Neo Cafe & Eatery",
+      "kind": "eat",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "132 Willis St",
+      "url": "http://www.neocafe.co.nz/",
+      "id": "new-zealand-1cc59f79ebc26ee54295"
+    },
+    {
+      "name": "Hotel Waterloo & Backpackers",
+      "kind": "stay",
+      "locality": "Wellington/City",
+      "lat": -41.2803,
+      "lon": 174.78,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "1 Bunny St",
+      "url": "https://www.hotelwaterloo.co.nz/",
+      "id": "new-zealand-a41b3746c43f0a369ee7"
+    },
+    {
+      "name": "Rowena's Lodge",
+      "kind": "stay",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "115 Brougham St",
+      "url": "https://www.quayside.co.nz/rowenas/",
+      "id": "new-zealand-7f4502baa31b45a5bf82"
+    },
+    {
+      "name": "Worldwide Backpackers",
+      "kind": "stay",
+      "locality": "Wellington/City",
+      "lat": -41.29121,
+      "lon": 174.77102,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "291 The Terrace",
+      "price": "Queen, double, twin, double + single, 3 share, 4 share and 6 share",
+      "url": "http://worldwidenz.co.nz/",
+      "id": "new-zealand-2a00ec9b26a6cf5ef348"
+    },
+    {
+      "name": "Haka House",
+      "kind": "stay",
+      "locality": "Wellington/City",
+      "lat": -41.2932,
+      "lon": 174.7839,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "292 Wakefield St",
+      "price": "Dorm beds from $40, double/twin rooms from $99",
+      "url": "https://hakahouse.com/wellington/",
+      "id": "new-zealand-70d7f8b8fa8286c769ef"
+    },
+    {
+      "name": "The Setup on Manners",
+      "kind": "stay",
+      "locality": "Wellington/City",
+      "lat": -41.2907,
+      "lon": 174.77616,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "57 Manners St, CBD",
+      "price": "From $105",
+      "url": "http://www.setupmanners.co.nz/",
+      "id": "new-zealand-3b209cfd36cd8ff846ba"
+    },
+    {
+      "name": "Oaks Wellington Hotel",
+      "kind": "stay",
+      "locality": "Wellington/City",
+      "lat": -41.293355,
+      "lon": 174.779022,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "89, Courtenay Place, Te Aro",
+      "price": "Starting from $145",
+      "url": "https://www.oakshotels.com/en/oaks-wellington-hotel",
+      "id": "new-zealand-456ab6a8173b4ce0798f"
+    },
+    {
+      "name": "CityLife Wellington",
+      "kind": "stay",
+      "locality": "Wellington/City",
+      "lat": -41.2848,
+      "lon": 174.7754,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "300 Lambton Quay (vehicle entrance: 14 Gilmer Terrace)",
+      "url": "http://www.heritagehotels.co.nz/hotels/citylife-wellington",
+      "id": "new-zealand-adc00bd9b8e5afc1df87"
+    },
+    {
+      "name": "InterContinental Hotel Wellington",
+      "kind": "stay",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "2 Grey St",
+      "url": "http://www.ichotelsgroup.com/intercontinental/hotels/gb/en/wellington/wlggs/hoteldetail",
+      "id": "new-zealand-9dfc528c16a3780caadd"
+    },
+    {
+      "name": "Museum Hotel - Hotel de Wheels",
+      "kind": "stay",
+      "locality": "Wellington/City",
+      "lat": -41.2918,
+      "lon": 174.7827,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "90 Cable St",
+      "price": "From $149",
+      "url": "http://www.museumhotel.co.nz/",
+      "id": "new-zealand-02547aca17464bf23275"
+    },
+    {
+      "name": "Park Hotel Lambton Quay",
+      "kind": "stay",
+      "locality": "Wellington/City",
+      "lat": -41.282324,
+      "lon": 174.774992,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "101 The Terrace",
+      "price": "from $149",
+      "url": "http://www.parkhotel.nz/",
+      "id": "new-zealand-0d71d98318d0916e1e2c"
+    },
+    {
+      "name": "Wellington Central Police Station",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "41 Victoria St",
+      "id": "new-zealand-586a0fcab5767abe454d"
+    },
+    {
+      "name": "Wellington Accident and Urgent Medical Centre",
+      "kind": "area",
+      "locality": "Wellington/City",
+      "lat": -41.3019,
+      "lon": 174.7798,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "17 Adelaide Rd, Mount Cook",
+      "url": "https://www.wamc.co.nz/",
+      "id": "new-zealand-403cb697c005a6b12665"
+    },
+    {
+      "name": "Te Matapihi ki te Ao Nui",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.2881,
+      "lon": 174.7763,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "65 Victoria Street",
+      "url": "https://www.wcl.govt.nz/",
+      "id": "new-zealand-4cabaa946a8f5c307bef"
+    },
+    {
+      "name": "Wellington iSite Visitor Information Centre",
+      "kind": "do",
+      "locality": "Wellington/City",
+      "lat": -41.2911,
+      "lon": 174.7812,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "address": "50 Cable Street",
+      "url": "https://www.isite.nz/find-an-isite/listing/wellington-i-site-visitor-information-centre",
+      "id": "new-zealand-9d1317a181b6656c8b98"
+    },
+    {
+      "name": "Wellington/City",
+      "kind": "area",
+      "locality": "Wellington/City",
+      "lat": -41.2938,
+      "lon": 174.777,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FCity",
+      "id": "new-zealand-a534abfdadc3cc1e9270"
+    },
+    {
+      "name": "Colonial Knob",
+      "kind": "do",
+      "locality": "Wellington/Porirua",
+      "lat": -41.143662,
+      "lon": 174.811438,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FPorirua",
+      "id": "new-zealand-427f9d7ae5576b7bed6a"
+    },
+    {
+      "name": "Gear Homestead",
+      "kind": "do",
+      "locality": "Wellington/Porirua",
+      "lat": -41.123917,
+      "lon": 174.853807,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FPorirua",
+      "address": "1 Okowai Rd",
+      "url": "https://www.geareateryandbar.co.nz/",
+      "id": "new-zealand-5bc97cfa3ad4c3bbfca1"
+    },
+    {
+      "name": "New Zealand Police Museum",
+      "kind": "do",
+      "locality": "Wellington/Porirua",
+      "lat": -41.11937,
+      "lon": 174.85969,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FPorirua",
+      "address": "Royal New Zealand Police College, Papakowhai Rd",
+      "price": "General admission is free. Pre-planned tours cost as much as $5",
+      "url": "http://www.police.govt.nz/service/museum",
+      "id": "new-zealand-e9ef8ea5f877dd186dd4"
+    },
+    {
+      "name": "Pataka Art + Museum",
+      "kind": "do",
+      "locality": "Wellington/Porirua",
+      "lat": -41.1314,
+      "lon": 174.8393,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FPorirua",
+      "address": "cnr Norrie St & Parumoana St",
+      "price": "Free",
+      "url": "http://www.pataka.org.nz/",
+      "id": "new-zealand-28118bf4c4cb5e9f2566"
+    },
+    {
+      "name": "Pauatahanui Inlet",
+      "kind": "do",
+      "locality": "Wellington/Porirua",
+      "lat": -41.1,
+      "lon": 174.9,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FPorirua",
+      "id": "new-zealand-769a7052a69369c17b6a"
+    },
+    {
+      "name": "Plimmerton Beach",
+      "kind": "do",
+      "locality": "Wellington/Porirua",
+      "lat": -41.086554,
+      "lon": 174.86715,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FPorirua",
+      "id": "new-zealand-09639af556597af6f96d"
+    },
+    {
+      "name": "Takapuwahia Marae",
+      "kind": "do",
+      "locality": "Wellington/Porirua",
+      "lat": -41.124438,
+      "lon": 174.83517,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FPorirua",
+      "id": "new-zealand-b34edbbb9ffc07216d78"
+    },
+    {
+      "name": "Adrenalin Forest",
+      "kind": "do",
+      "locality": "Wellington/Porirua",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FPorirua",
+      "address": "Okowai Road",
+      "price": "$52 adults, $37 under 18 (height restriction)",
+      "url": "http://www.adrenalin-forest.co.nz/wellington",
+      "id": "new-zealand-97bd4ab6a9f95376fdcf"
+    },
+    {
+      "name": "Battle Hill Farm Forest Park",
+      "kind": "do",
+      "locality": "Wellington/Porirua",
+      "lat": -41.0599,
+      "lon": 174.9365,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FPorirua",
+      "address": "610 Paekakariki Hill Rd, Pauatahanui",
+      "url": "https://www.gw.govt.nz/parks/battle-hill-farm-forest-park/",
+      "id": "new-zealand-a67eac43928954cd3708"
+    },
+    {
+      "name": "Curry Village",
+      "kind": "eat",
+      "locality": "Wellington/Porirua",
+      "lat": -41.136,
+      "lon": 174.8406,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FPorirua",
+      "address": "19 Hartham Place North",
+      "url": "http://www.curryvillage.co.nz/",
+      "id": "new-zealand-3085be206b3ed13c8886"
+    },
+    {
+      "name": "Supply Room",
+      "kind": "eat",
+      "locality": "Wellington/Porirua",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FPorirua",
+      "address": "105 Mana Esplanade",
+      "url": "http://supplyroom.co.nz/",
+      "id": "new-zealand-64100432732b0ebc0368"
+    },
+    {
+      "name": "Top Taste Restaurant",
+      "kind": "eat",
+      "locality": "Wellington/Porirua",
+      "lat": -41.134189,
+      "lon": 174.839378,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FPorirua",
+      "address": "1 Hagley St",
+      "url": "https://www.toptaste.co.nz/",
+      "id": "new-zealand-c7a5942fe5188c3e646c"
+    },
+    {
+      "name": "Local Authority",
+      "kind": "eat",
+      "locality": "Wellington/Porirua",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FPorirua",
+      "address": "1 Walton Leigh",
+      "id": "new-zealand-d5238bdaaf2b10620aeb"
+    },
+    {
+      "name": "Belmont Motorlodge",
+      "kind": "stay",
+      "locality": "Wellington/Porirua",
+      "lat": -41.1381,
+      "lon": 174.8463,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FPorirua",
+      "address": "1 Mungavin Ave",
+      "url": "http://www.belmontmotorlodge.co.nz/",
+      "id": "new-zealand-b050f631547222006673"
+    },
+    {
+      "name": "Moana Lodge Hostel",
+      "kind": "stay",
+      "locality": "Wellington/Porirua",
+      "lat": -41.07386,
+      "lon": 174.85845,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FPorirua",
+      "address": "49 Moana Rd, Plimmerton",
+      "url": "https://moana-lodge-accommodation.co.nz/",
+      "id": "new-zealand-87c0d312eb2918db7d25"
+    },
+    {
+      "name": "Wellington/Porirua",
+      "kind": "area",
+      "locality": "Wellington/Porirua",
+      "lat": -41.1333,
+      "lon": 174.85,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FPorirua",
+      "id": "new-zealand-5f24934b060f48d7f115"
+    },
+    {
+      "name": "Dowse Art Gallery",
+      "kind": "do",
+      "locality": "Wellington/Lower Hutt",
+      "lat": -41.2118,
+      "lon": 174.904,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FLower_Hutt",
+      "address": "45 Laings Rd",
+      "url": "http://dowse.org.nz/",
+      "id": "new-zealand-36ddad025a6c99250920"
+    },
+    {
+      "name": "Matiu/Somes Island",
+      "kind": "do",
+      "locality": "Wellington/Lower Hutt",
+      "lat": -41.25825,
+      "lon": 174.865389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FLower_Hutt",
+      "price": "$22",
+      "url": "http://eastbywest.co.nz/",
+      "id": "new-zealand-f8b754a666bfc2207f2d"
+    },
+    {
+      "name": "So Fine Seafoods",
+      "kind": "eat",
+      "locality": "Wellington/Lower Hutt",
+      "lat": -41.1937,
+      "lon": 174.9434,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FLower_Hutt",
+      "address": "2 Tennyson Ave, Avalon",
+      "id": "new-zealand-cd155f651c1967bff078"
+    },
+    {
+      "name": "Taste of Europe",
+      "kind": "eat",
+      "locality": "Wellington/Lower Hutt",
+      "lat": -41.2117,
+      "lon": 174.9325,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FLower_Hutt",
+      "address": "213 Waiwhetu Rd, Fairfield",
+      "id": "new-zealand-be71d62328d143b6fe54"
+    },
+    {
+      "name": "Wellington Top 10 Holiday Park",
+      "kind": "stay",
+      "locality": "Wellington/Lower Hutt",
+      "lat": -41.2353,
+      "lon": 174.9104,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FLower_Hutt",
+      "address": "95 Hutt Park Road, Seaview",
+      "price": "$50-185",
+      "url": "http://www.wellingtontop10.co.nz/",
+      "id": "new-zealand-2d109793e3de83f0ed96"
+    },
+    {
+      "name": "83 by the Sea Motor Lodge",
+      "kind": "stay",
+      "locality": "Wellington/Lower Hutt",
+      "lat": -41.22622,
+      "lon": 174.87032,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FLower_Hutt",
+      "address": "83 The Esplanade, Petone",
+      "price": "$135",
+      "url": "http://www.83bythesea.co.nz/",
+      "id": "new-zealand-48208edee454fe31e2ec"
+    },
+    {
+      "name": "Settlers Motor Lodge",
+      "kind": "stay",
+      "locality": "Wellington/Lower Hutt",
+      "lat": -41.22,
+      "lon": 174.8768,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FLower_Hutt",
+      "address": "83-85 Hutt Rd, Petone",
+      "price": "$140-220",
+      "url": "http://www.settlersmotel.co.nz/",
+      "id": "new-zealand-f93916f4e9863c910df5"
+    },
+    {
+      "name": "Wellington/Lower Hutt",
+      "kind": "area",
+      "locality": "Wellington/Lower Hutt",
+      "lat": -41.21,
+      "lon": 174.91,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FLower_Hutt",
+      "id": "new-zealand-7a6274aff155c3715803"
+    },
+    {
+      "name": "Hutt Valley Clay Target Club",
+      "kind": "do",
+      "locality": "Wellington/Upper Hutt",
+      "lat": -41.1366,
+      "lon": 175.08243,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FUpper_Hutt",
+      "address": "280 Wallaceville Rd, Whitemans Valley",
+      "url": "http://www.huttvalleyclaytargetclub.org.nz/",
+      "id": "new-zealand-0ffa81671d9d0b2863a3"
+    },
+    {
+      "name": "Bristol Motel",
+      "kind": "stay",
+      "locality": "Wellington/Upper Hutt",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FUpper_Hutt",
+      "address": "8 Bristol Street, Trentham",
+      "id": "new-zealand-ef9d0454ea2080e85121"
+    },
+    {
+      "name": "Hawks Inn Motel",
+      "kind": "stay",
+      "locality": "Wellington/Upper Hutt",
+      "lat": -41.12602,
+      "lon": 175.05705,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FUpper_Hutt",
+      "address": "704-706 Fergusson Drive, Wallaceville",
+      "url": "http://www.hawksinnmotel.co.nz/",
+      "id": "new-zealand-00a78d42a4e4c4b6c0eb"
+    },
+    {
+      "name": "Trentham Motel on the Park",
+      "kind": "stay",
+      "locality": "Wellington/Upper Hutt",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FUpper_Hutt",
+      "address": "438 Fergusson Drive",
+      "url": "http://www.trenthammotel.co.nz/",
+      "id": "new-zealand-72be4f6b00fa565cfff0"
+    },
+    {
+      "name": "Totara Lodge Motor Inn & Carvery",
+      "kind": "stay",
+      "locality": "Wellington/Upper Hutt",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FUpper_Hutt",
+      "address": "68 Ararino Street, Trentham",
+      "id": "new-zealand-c60afaddb18d2e2489a0"
+    },
+    {
+      "name": "Wellington's Kiwi Holiday Park",
+      "kind": "stay",
+      "locality": "Wellington/Upper Hutt",
+      "lat": -41.0997,
+      "lon": 175.0948,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FUpper_Hutt",
+      "address": "45 Akatarawa Rd, Birchville",
+      "url": "http://www.wellingtonsholidaypark.co.nz/",
+      "id": "new-zealand-39b6ae0c1d053a0e0e85"
+    },
+    {
+      "name": "Wellington/Upper Hutt",
+      "kind": "area",
+      "locality": "Wellington/Upper Hutt",
+      "lat": -41.126,
+      "lon": 175.07,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Wellington%2FUpper_Hutt",
+      "id": "new-zealand-12b86a1eaf7ddb47f7b1"
+    },
+    {
+      "name": "Mitre Peak",
+      "kind": "do",
+      "locality": "Milford Sound",
+      "lat": -44.633333,
+      "lon": 167.85,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Milford_Sound",
+      "id": "new-zealand-0f41d9e1c1b4f5a8fb73"
+    },
+    {
+      "name": "Lady Bowen Falls",
+      "kind": "do",
+      "locality": "Milford Sound",
+      "lat": -44.66528,
+      "lon": 167.925251,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Milford_Sound",
+      "id": "new-zealand-c3e74c440e0c90b04a96"
+    },
+    {
+      "name": "Stirling Falls",
+      "kind": "do",
+      "locality": "Milford Sound",
+      "lat": -44.6101,
+      "lon": 167.871,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Milford_Sound",
+      "id": "new-zealand-9c40a797117072fe4b09"
+    },
+    {
+      "name": "Mitre Peak Cruises",
+      "kind": "do",
+      "locality": "Milford Sound",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Milford_Sound",
+      "price": "From $70",
+      "url": "http://www.mitrepeak.com/",
+      "id": "new-zealand-7befc1d02ae4b972314e"
+    },
+    {
+      "name": "Southern Discoveries",
+      "kind": "do",
+      "locality": "Milford Sound",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Milford_Sound",
+      "price": "From $70",
+      "url": "http://www.southerndiscoveries.co.nz/",
+      "id": "new-zealand-7812ebd8c4a2024908a0"
+    },
+    {
+      "name": "Milford Deep Underwater Observatory",
+      "kind": "do",
+      "locality": "Milford Sound",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Milford_Sound",
+      "price": "$36/18 as an add-on",
+      "url": "http://www.milforddeep.co.nz/",
+      "id": "new-zealand-1e6c97c3f56d0200e1dd"
+    },
+    {
+      "name": "Cruise Milford NZ",
+      "kind": "do",
+      "locality": "Milford Sound",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Milford_Sound",
+      "price": "From $65",
+      "url": "http://www.cruisemilfordnz.com/",
+      "id": "new-zealand-88402f470b3a3c08fdf0"
+    },
+    {
+      "name": "Milford Sound Lodge",
+      "kind": "stay",
+      "locality": "Milford Sound",
+      "lat": -44.677373,
+      "lon": 167.937895,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Milford_Sound",
+      "url": "http://www.milfordlodge.com/",
+      "id": "new-zealand-7f22504dd97edb148954"
+    },
+    {
+      "name": "Real Journeys",
+      "kind": "stay",
+      "locality": "Milford Sound",
+      "lat": -44.668173,
+      "lon": 167.927101,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Milford_Sound",
+      "url": "http://www.realjourneys.co.nz/",
+      "id": "new-zealand-2ca49d3275686a177e01"
+    },
+    {
+      "name": "Milford Sound",
+      "kind": "area",
+      "locality": "Milford Sound",
+      "lat": -44.675,
+      "lon": 167.929444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Milford_Sound",
+      "id": "new-zealand-8504ea87291263d47fb1"
+    },
+    {
+      "name": "Skyline Gondola",
+      "kind": "do",
+      "locality": "Queenstown (New Zealand)",
+      "lat": -45.0284,
+      "lon": 168.656,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "price": "Adult $39, child $24, family of 4 $113, family of 5 $135",
+      "url": "http://www.skyline.co.nz/",
+      "id": "new-zealand-6ebbbebc995d857faa77"
+    },
+    {
+      "name": "Queenstown Gardens",
+      "kind": "do",
+      "locality": "Queenstown (New Zealand)",
+      "lat": -45.0377,
+      "lon": 168.66,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "id": "new-zealand-e132f48c7e00cb28dacc"
+    },
+    {
+      "name": "Kiwi Park Queenstown",
+      "kind": "do",
+      "locality": "Queenstown (New Zealand)",
+      "lat": -45.0282,
+      "lon": 168.6569,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "51 Brecon Street",
+      "price": "$50",
+      "url": "https://www.kiwibird.co.nz/",
+      "id": "new-zealand-e19db050c0171bb0f175"
+    },
+    {
+      "name": "Queenstown Arts Centre",
+      "kind": "do",
+      "locality": "Queenstown (New Zealand)",
+      "lat": -45.03079,
+      "lon": 168.66272,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "Corner of Stanley and Ballarat Streets",
+      "price": "free",
+      "url": "http://www.queenstownartscentre.co.nz/",
+      "id": "new-zealand-a88d76b566e62548ddbe"
+    },
+    {
+      "name": "Ivan Clarke Gallery",
+      "kind": "do",
+      "locality": "Queenstown (New Zealand)",
+      "lat": -45.031151,
+      "lon": 168.661074,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "39 Camp Street",
+      "url": "https://www.ivanclarkeartist.com/",
+      "id": "new-zealand-42d7bace28dd11920f1f"
+    },
+    {
+      "name": "Kawarau Bridge Bungy",
+      "kind": "do",
+      "locality": "Queenstown (New Zealand)",
+      "lat": -45.0092,
+      "lon": 168.9002,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "Gibbston Hwy (SH 6), Gibbston Valley",
+      "price": "Adult $205, youth (10-14) $145",
+      "url": "http://www.bungy.co.nz/kawarau-bungy-centre/kawarau-bungy",
+      "id": "new-zealand-a7c87344bfdf74a16b8e"
+    },
+    {
+      "name": "The Ledge Bungy",
+      "kind": "do",
+      "locality": "Queenstown (New Zealand)",
+      "lat": -45.0265,
+      "lon": 168.6493,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "Brecon St",
+      "price": "Adult $205, child $155",
+      "url": "http://www.bungy.co.nz/the-ledge/the-ledge-bungy",
+      "id": "new-zealand-30cfa69b3fea8f341748"
+    },
+    {
+      "name": "Nevis Bungy",
+      "kind": "do",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "price": "$275",
+      "url": "http://www.bungy.co.nz/the-ledge/the-ledge-bungy",
+      "id": "new-zealand-d5be66dd9de42f181076"
+    },
+    {
+      "name": "Nevis Catapult",
+      "kind": "do",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "price": "$255",
+      "url": "https://www.bungy.co.nz/queenstown/nevis/nevis-catapult/",
+      "id": "new-zealand-03de584361faed88aa1b"
+    },
+    {
+      "name": "Shotover Jet",
+      "kind": "do",
+      "locality": "Queenstown (New Zealand)",
+      "lat": -44.98698,
+      "lon": 168.67137,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "Gorge Road, Arthurs Point",
+      "price": "Adult $129, child (5-15) $69; minimum height 120 cm (3ft 11in)",
+      "url": "http://www.shotoverjet.com/",
+      "id": "new-zealand-f737094383a7741ac38f"
+    },
+    {
+      "name": "Luge",
+      "kind": "do",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "url": "http://www.skyline.co.nz/queenstown/luge/",
+      "id": "new-zealand-dfbfad55d518c357f432"
+    },
+    {
+      "name": "Mad Dog Riverboarding",
+      "kind": "do",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "37 Shotover Street",
+      "url": "http://www.riverboarding.co.nz/",
+      "id": "new-zealand-6873b17a7025c491e474"
+    },
+    {
+      "name": "NZONE Skydive",
+      "kind": "do",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "35 Shotover St",
+      "id": "new-zealand-1fa83790352f1472936d"
+    },
+    {
+      "name": "Cruise on the TSS Earnslaw",
+      "kind": "do",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "price": "$70",
+      "url": "https://www.realjourneys.co.nz/en/experiences/cruises/tss-earnslaw-steamship-cruises/",
+      "id": "new-zealand-c54b3dc90d92d9e0da15"
+    },
+    {
+      "name": "Cycling",
+      "kind": "do",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "id": "new-zealand-278de338069309a38443"
+    },
+    {
+      "name": "Off the Rails",
+      "kind": "do",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "url": "http://www.offtherails.co.nz/",
+      "id": "new-zealand-4de9f8c987512a5e5a59"
+    },
+    {
+      "name": "Horseback riding",
+      "kind": "do",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "id": "new-zealand-c989cae98cef4a5df4a5"
+    },
+    {
+      "name": "Fishing and flyfishing",
+      "kind": "do",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "id": "new-zealand-729522d2607121c1dfb4"
+    },
+    {
+      "name": "Queenstown Garden Tours",
+      "kind": "do",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "url": "http://www.queenstowngardentours.co.nz/",
+      "id": "new-zealand-92b44dadf09ca955aa94"
+    },
+    {
+      "name": "Glenorchy Air",
+      "kind": "do",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "Queenstown Airport",
+      "url": "https://www.glenorchyair.co.nz/",
+      "id": "new-zealand-e36352470c2f9c018e12"
+    },
+    {
+      "name": "HeliWorks",
+      "kind": "do",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "Queenstown Airport",
+      "url": "http://www.heliworks.co.nz/",
+      "id": "new-zealand-99ca229c0a164f23c6db"
+    },
+    {
+      "name": "Glacier Southern Lakes Helicopters",
+      "kind": "do",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "35 Lucas Place, Queenstown Airport",
+      "url": "http://www.glaciersouthernlakes.co.nz/",
+      "id": "new-zealand-a4d8107a582742e990d9"
+    },
+    {
+      "name": "Appellation Central Wine Tours",
+      "kind": "do",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "url": "http://www.appellationcentral.co.nz/",
+      "id": "new-zealand-476b222cc818b504d31d"
+    },
+    {
+      "name": "Queenstown Wine Trail",
+      "kind": "do",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "url": "http://www.queenstownwinetrail.co.nz/",
+      "id": "new-zealand-fd11380f3dfd4beedb6c"
+    },
+    {
+      "name": "Fergburger",
+      "kind": "eat",
+      "locality": "Queenstown (New Zealand)",
+      "lat": -45.0317,
+      "lon": 168.66,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "42 Shotover St, Queenstown Central",
+      "url": "http://www.fergburger.com/",
+      "id": "new-zealand-b2e366b0da70b7f1d2a3"
+    },
+    {
+      "name": "Night n' Day",
+      "kind": "eat",
+      "locality": "Queenstown (New Zealand)",
+      "lat": -45.03227,
+      "lon": 168.66217,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "Church St",
+      "id": "new-zealand-359d2b02e689e6cc31b1"
+    },
+    {
+      "name": "Devil Burger",
+      "kind": "eat",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "5/11 Church St",
+      "price": "$13 For the Classic Devil Burger",
+      "url": "https://www.devilburger.com/",
+      "id": "new-zealand-fab346f95b91dfac8a41"
+    },
+    {
+      "name": "Erik's Fish and Chips",
+      "kind": "eat",
+      "locality": "Queenstown (New Zealand)",
+      "lat": 45.033316,
+      "lon": 168.662074,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "13 Earl St",
+      "price": "$13.50 for a piece of Hoki & a scoop of chips",
+      "url": "https://www.eriksfishandchips.co.nz/",
+      "id": "new-zealand-749cc74fad5f7d628284"
+    },
+    {
+      "name": "Hell Pizza",
+      "kind": "eat",
+      "locality": "Queenstown (New Zealand)",
+      "lat": -45.032516,
+      "lon": 168.659272,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "3B Searle Ln",
+      "price": "Double pizza $24, snack pizza $12",
+      "url": "https://hellpizza.nz/",
+      "id": "new-zealand-6aa53f0797d9d43c8fa4"
+    },
+    {
+      "name": "At Thai",
+      "kind": "eat",
+      "locality": "Queenstown (New Zealand)",
+      "lat": -45.03289,
+      "lon": 168.66181,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "Church Street",
+      "url": "https://atthai.co.nz/",
+      "id": "new-zealand-2b0dbdf81765fb5a1a4e"
+    },
+    {
+      "name": "The Cow Restaurant",
+      "kind": "eat",
+      "locality": "Queenstown (New Zealand)",
+      "lat": -45.03208,
+      "lon": 168.66027,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "Cow Lane",
+      "url": "http://www.thecowpizza.co.nz/queenstown.html",
+      "id": "new-zealand-e6d41a66d681a79f6a47"
+    },
+    {
+      "name": "The Lone Star",
+      "kind": "eat",
+      "locality": "Queenstown (New Zealand)",
+      "lat": -45.0314,
+      "lon": 168.65843,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "14 Brecon St",
+      "url": "http://www.lonestar.co.nz/",
+      "id": "new-zealand-9bd2ac668301dbab87c1"
+    },
+    {
+      "name": "Skyline Queenstown Restaurant",
+      "kind": "eat",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "id": "new-zealand-8394f3d03aab3aa2f92e"
+    },
+    {
+      "name": "Winnies Gourmet Pizza bar",
+      "kind": "eat",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "Upstairs, 7-9 The Mall",
+      "url": "http://www.winnies.co.nz/",
+      "id": "new-zealand-da1c3efa48886051ce90"
+    },
+    {
+      "name": "Surreal Bar & Restaurant",
+      "kind": "eat",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "7 Rees Street",
+      "price": "$15 steak/fish & chips/curry deals",
+      "url": "http://www.surrealbar.co.nz/",
+      "id": "new-zealand-b53ac1d90c1a011c006d"
+    },
+    {
+      "name": "Botswana Butchery",
+      "kind": "eat",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "17 Marine Parade",
+      "url": "http://www.botswanabutchery.co.nz/queenstown/",
+      "id": "new-zealand-cb8a5f139d4c90d78dba"
+    },
+    {
+      "name": "Bar Up",
+      "kind": "eat",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "Upstairs, Cnr Searle Lane & Eureka Arcade",
+      "url": "http://www.barup.co.nz/",
+      "id": "new-zealand-615ad104d5c3182be44f"
+    },
+    {
+      "name": "Bunker Bar",
+      "kind": "eat",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "Cow Lane",
+      "id": "new-zealand-fc43419b6cc3e1cb59b7"
+    },
+    {
+      "name": "The Find",
+      "kind": "eat",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "53 Shotover St",
+      "id": "new-zealand-e4dd116cfb18c2db1ad0"
+    },
+    {
+      "name": "Loco",
+      "kind": "eat",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "Shotover St, attached to the base backpackers",
+      "id": "new-zealand-48190ca7ab8bb52a3e35"
+    },
+    {
+      "name": "Red Rocks",
+      "kind": "eat",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "48 Camp St",
+      "id": "new-zealand-c6874af000b556aaf838"
+    },
+    {
+      "name": "Tardis",
+      "kind": "eat",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "Cow Lane",
+      "id": "new-zealand-67c8f082807ca66290c2"
+    },
+    {
+      "name": "Winnies",
+      "kind": "eat",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "The Mall, 7 Ballarat St",
+      "url": "http://www.winnies.co.nz/",
+      "id": "new-zealand-269cf18621b99242ff98"
+    },
+    {
+      "name": "The World Bar",
+      "kind": "eat",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "Central, 12 Church Street",
+      "url": "https://www.theworldbar.co.nz/",
+      "id": "new-zealand-ba7ffe5fd9fb85398112"
+    },
+    {
+      "name": "Cowboy Qt Ltd",
+      "kind": "eat",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "7 Searle Lane",
+      "url": "https://www.facebook.com/pages/Cowboys/147691695293157",
+      "id": "new-zealand-a4d71bae782ff434ed2d"
+    },
+    {
+      "name": "1876",
+      "kind": "eat",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "45 Ballarat Street",
+      "url": "https://www.1876.co.nz/",
+      "id": "new-zealand-cddc3e43f419de7b06a3"
+    },
+    {
+      "name": "Heartland Hotel Queenstown",
+      "kind": "stay",
+      "locality": "Queenstown (New Zealand)",
+      "lat": -45.03234,
+      "lon": 168.66488,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "27 Stanley Street",
+      "url": "https://www.scenichotelgroup.co.nz/locations/new-zealand/queenstown/heartland-hotel-queenstown",
+      "id": "new-zealand-7a01d67747a6c2aff298"
+    },
+    {
+      "name": "Nomads Queenstown",
+      "kind": "stay",
+      "locality": "Queenstown (New Zealand)",
+      "lat": -45.03253,
+      "lon": 168.66169,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "5-11 Church St",
+      "price": "Bed/12 NZ$53, Bed/4 NZ$74, Private Ensuite NZ$259",
+      "url": "https://nomadsworld.com/new-zealand/nomads-queenstown/",
+      "id": "new-zealand-006062085e21b0a32cf6"
+    },
+    {
+      "name": "Haka House Queenstown",
+      "kind": "stay",
+      "locality": "Queenstown (New Zealand)",
+      "lat": -45.03017,
+      "lon": 168.66259,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "6 Henry Street",
+      "price": "Beds $62 NZD, rooms $274",
+      "url": "https://hakahouse.com/queenstown/",
+      "id": "new-zealand-9d6b9c674e1b52351bcd"
+    },
+    {
+      "name": "Tahuna Pod Hostel",
+      "kind": "stay",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "11 Henry Street",
+      "url": "https://www.tahunapodhostel.co.nz/",
+      "id": "new-zealand-f7401a2aa4ebaf340005"
+    },
+    {
+      "name": "Scenic Suites Queenstown",
+      "kind": "stay",
+      "locality": "Queenstown (New Zealand)",
+      "lat": -45.03262,
+      "lon": 168.66534,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "27 Stanley Street",
+      "url": "https://www.scenichotelgroup.co.nz/locations/new-zealand/queenstown/scenic-suites-queenstown",
+      "id": "new-zealand-f9f482d202e462bc4539"
+    },
+    {
+      "name": "Amity Serviced Apartments",
+      "kind": "stay",
+      "locality": "Queenstown (New Zealand)",
+      "lat": -45.03311,
+      "lon": 168.66788,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "7 Melbourne St",
+      "price": "From $165",
+      "url": "https://www.amityqueenstownaccommodation.co.nz/",
+      "id": "new-zealand-c35677345dca0bd814bd"
+    },
+    {
+      "name": "Crowne Plaza Queenstown",
+      "kind": "stay",
+      "locality": "Queenstown (New Zealand)",
+      "lat": -45.0332,
+      "lon": 168.6569,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "93 Beach St",
+      "price": "from $450",
+      "url": "http://www.crowneplazaqueenstown.co.nz/",
+      "id": "new-zealand-1777d193ec382c41df7f"
+    },
+    {
+      "name": "Heritage Queenstown",
+      "kind": "stay",
+      "locality": "Queenstown (New Zealand)",
+      "lat": -45.03794,
+      "lon": 168.6424,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "91 Fernhill Rd, Fernhill",
+      "price": "from $204",
+      "url": "http://www.heritagehotels.co.nz/",
+      "id": "new-zealand-2c01ec5fec795476fb81"
+    },
+    {
+      "name": "The Rees Hotel",
+      "kind": "stay",
+      "locality": "Queenstown (New Zealand)",
+      "lat": -45.028114,
+      "lon": 168.687822,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "370 Frankton Rd",
+      "price": "from $245",
+      "url": "http://www.therees.co.nz/",
+      "id": "new-zealand-b51ba7b09881d5c44fdb"
+    },
+    {
+      "name": "Hidden Lodge",
+      "kind": "stay",
+      "locality": "Queenstown (New Zealand)",
+      "lat": -45.04639,
+      "lon": 168.62286,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "28 Evergreen Pl, Sunshine Bay",
+      "price": "from $595",
+      "url": "https://hiddenlodgequeenstown.co.nz/",
+      "id": "new-zealand-7d1f155d8c5df6c2c5b0"
+    },
+    {
+      "name": "The Spire Hotel",
+      "kind": "stay",
+      "locality": "Queenstown (New Zealand)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "3-5 Church Lane",
+      "url": "http://www.thespirehotel.com/",
+      "id": "new-zealand-9a82d574bf4d4b09492b"
+    },
+    {
+      "name": "Eichard's Private Hotel",
+      "kind": "stay",
+      "locality": "Queenstown (New Zealand)",
+      "lat": -45.0328,
+      "lon": 168.661,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "address": "2 Marine Parade",
+      "url": "http://www.eichardts.com/",
+      "id": "new-zealand-75f4ef28e724f4dad393"
+    },
+    {
+      "name": "Queenstown (New Zealand)",
+      "kind": "area",
+      "locality": "Queenstown (New Zealand)",
+      "lat": -45.031111,
+      "lon": 168.6625,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Queenstown_(New_Zealand)",
+      "id": "new-zealand-c1eedf143f243dcfcab4"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 8 distinct public Wikivoyage source pages; attempted 9 article titles covering the country, capital(s), and 2 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Destination article routing (regional/landmark guides may use a nearby gateway): Queenstown → Queenstown (New Zealand). Title resolution: Queenstown → Queenstown (New Zealand) (linked by New Zealand)."
+}

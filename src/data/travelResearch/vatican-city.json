@@ -1,0 +1,330 @@
+{
+  "sources": [
+    {
+      "title": "Rome/Vatican",
+      "url": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "checkedAt": "2026-10-21T08:13:15.634Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "St. Peter's Basilica",
+      "kind": "do",
+      "locality": "Rome/Vatican",
+      "lat": 41.902222,
+      "lon": 12.453333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "price": "Free",
+      "url": "https://www.vatican.va/various/basiliche/san_pietro/index_it.htm",
+      "id": "vatican-city-dc01d23370ba1c9c9082"
+    },
+    {
+      "name": "St. Peter's Square",
+      "kind": "do",
+      "locality": "Rome/Vatican",
+      "lat": 41.902222,
+      "lon": 12.457265,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "price": "Free admission",
+      "url": "https://www.vaticanstate.va/it/monumenti/basilica-di-san-pietro/la-piazza.html",
+      "id": "vatican-city-f9617b6d9388db75f80f"
+    },
+    {
+      "name": "The Vatican Museum",
+      "kind": "do",
+      "locality": "Rome/Vatican",
+      "lat": 41.90655,
+      "lon": 12.45363,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "address": "Viale Vaticano",
+      "url": "https://www.museivaticani.va/",
+      "id": "vatican-city-24c02aa958ceef57c92a"
+    },
+    {
+      "name": "Swiss Papal Guards",
+      "kind": "do",
+      "locality": "Rome/Vatican",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "url": "https://schweizergarde.ch/",
+      "id": "vatican-city-bfe03a4e7fd64b484c64"
+    },
+    {
+      "name": "Castel Sant'Angelo",
+      "kind": "do",
+      "locality": "Rome/Vatican",
+      "lat": 41.903064,
+      "lon": 12.466355,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "address": "Lungotevere Castello 50",
+      "price": "€10, with reductions. Roma Pass accepted",
+      "url": "https://www.castelsantangelo.com/",
+      "id": "vatican-city-afd26907e61b3b40661b"
+    },
+    {
+      "name": "Passetto di Borgo",
+      "kind": "do",
+      "locality": "Rome/Vatican",
+      "lat": 41.903333,
+      "lon": 12.461667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "id": "vatican-city-f371c0d7954808d4f642"
+    },
+    {
+      "name": "Palazzo di Giustizia",
+      "kind": "do",
+      "locality": "Rome/Vatican",
+      "lat": 41.904097,
+      "lon": 12.470447,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "id": "vatican-city-b8baac9aed4a4a705452"
+    },
+    {
+      "name": "Ponte Sant'Angelo",
+      "kind": "do",
+      "locality": "Rome/Vatican",
+      "lat": 41.901803,
+      "lon": 12.46645,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "id": "vatican-city-b44dd4aa2b4976bafa8f"
+    },
+    {
+      "name": "Vatican Gardens",
+      "kind": "do",
+      "locality": "Rome/Vatican",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "url": "https://www.vaticanstate.va/it/monumenti/altri-monumenti/giardini-vaticani.html",
+      "id": "vatican-city-426c47c3db2027bead1a"
+    },
+    {
+      "name": "Pastasciutta",
+      "kind": "eat",
+      "locality": "Rome/Vatican",
+      "lat": 41.904642,
+      "lon": 12.458047,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "address": "Via delle Grazie, 5",
+      "id": "vatican-city-9622eb86d68b70d7847f"
+    },
+    {
+      "name": "Old Bridge Gelateria",
+      "kind": "eat",
+      "locality": "Rome/Vatican",
+      "lat": 41.90643,
+      "lon": 12.45628,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "address": "Viale dei Bastioni di Michelangelo, 5",
+      "url": "https://gelateriaoldbridge.com/",
+      "id": "vatican-city-bda80cecd8a551a6e202"
+    },
+    {
+      "name": "L'Insalata Ricca",
+      "kind": "eat",
+      "locality": "Rome/Vatican",
+      "lat": 41.90657,
+      "lon": 12.45652,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "address": "Piazza del Risorgimento, 5",
+      "url": "https://www.insalataricca.it/",
+      "id": "vatican-city-5ba57bf3fad9e8f97d49"
+    },
+    {
+      "name": "Be.Re",
+      "kind": "eat",
+      "locality": "Rome/Vatican",
+      "lat": 41.906728,
+      "lon": 12.456563,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "address": "Via Vespasiano, 2",
+      "id": "vatican-city-9050021f684606fb07d0"
+    },
+    {
+      "name": "Catone District Hotel",
+      "kind": "stay",
+      "locality": "Rome/Vatican",
+      "lat": 41.907515,
+      "lon": 12.458739,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "address": "Via Catone, 34",
+      "price": "From €63",
+      "url": "https://www.catonedistricthotel.it/en/",
+      "id": "vatican-city-27588b3a72197b1d481b"
+    },
+    {
+      "name": "Hotel Colors",
+      "kind": "stay",
+      "locality": "Rome/Vatican",
+      "lat": 41.906502,
+      "lon": 12.463345,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "address": "Via Boezio, 31",
+      "url": "http://www.colorshotel.com/",
+      "id": "vatican-city-7186b40366b015475fe7"
+    },
+    {
+      "name": "B&B Eldorado Rome",
+      "kind": "stay",
+      "locality": "Rome/Vatican",
+      "lat": 41.909425,
+      "lon": 12.462237,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "address": "Via Fabio Massimo, 72",
+      "price": "Breakfast included. Rates change according to the season. Single: €50–100 Double: €60–140 Triple: €80–160",
+      "url": "http://www.bbeldoradoroma.com/",
+      "id": "vatican-city-86bb66ca5fd0c5a8e21e"
+    },
+    {
+      "name": "B&B Gli Artisti",
+      "kind": "stay",
+      "locality": "Rome/Vatican",
+      "lat": 41.908485,
+      "lon": 12.457285,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "address": "Via degli Scipioni, 53",
+      "price": "From €99",
+      "url": "http://www.bbgliartisti.com/",
+      "id": "vatican-city-042ff0c761fef69bff55"
+    },
+    {
+      "name": "Prati BB",
+      "kind": "stay",
+      "locality": "Rome/Vatican",
+      "lat": 41.909049,
+      "lon": 12.459638,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "address": "Via degli Scipioni, 135",
+      "price": "From €49",
+      "url": "https://www.pratibb.it/en/",
+      "id": "vatican-city-00d9d365ba3cefed554a"
+    },
+    {
+      "name": "Amor Bed & Breakfast",
+      "kind": "stay",
+      "locality": "Rome/Vatican",
+      "lat": 41.908988,
+      "lon": 12.45733,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "address": "Viale Giulio Cesare, 183",
+      "price": "From €80",
+      "url": "http://www.amor-bed-breakfast.com/",
+      "id": "vatican-city-190c32126500993c8092"
+    },
+    {
+      "name": "Atlante Star Hotel",
+      "kind": "stay",
+      "locality": "Rome/Vatican",
+      "lat": 41.90471,
+      "lon": 12.46201,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "address": "Via Giovanni Vitelleschi, 34",
+      "price": "From €52",
+      "url": "http://www.atlantestarhotel.com/",
+      "id": "vatican-city-177ceda0a36788d2320d"
+    },
+    {
+      "name": "B&B Sistine",
+      "kind": "stay",
+      "locality": "Rome/Vatican",
+      "lat": 41.910319,
+      "lon": 12.464264,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "address": "Via Duilio, 6",
+      "price": "From €120",
+      "url": "http://www.bestbb.it/",
+      "id": "vatican-city-4fd8b6ff6495ab1721b7"
+    },
+    {
+      "name": "Best Vatican",
+      "kind": "stay",
+      "locality": "Rome/Vatican",
+      "lat": 41.909049,
+      "lon": 12.459554,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "address": "Via degli Scipioni, 135",
+      "price": "From €120",
+      "url": "http://www.bestbb.it/",
+      "id": "vatican-city-c8e9e4aa71afed3d3478"
+    },
+    {
+      "name": "Hotel Joli Rome",
+      "kind": "stay",
+      "locality": "Rome/Vatican",
+      "lat": 41.907405,
+      "lon": 12.462217,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "address": "Via Cola di Rienzo, 243",
+      "price": "€109, single €99",
+      "url": "http://www.hoteljoliroma.com/",
+      "id": "vatican-city-6419874b2cdbbab5859f"
+    },
+    {
+      "name": "Leone B&B",
+      "kind": "stay",
+      "locality": "Rome/Vatican",
+      "lat": 41.909486,
+      "lon": 12.45543,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "address": "Via Leone IV, 109",
+      "price": "€90, single €70",
+      "id": "vatican-city-3e69d64bea84d213d763"
+    },
+    {
+      "name": "Hotel Silla Rome",
+      "kind": "stay",
+      "locality": "Rome/Vatican",
+      "lat": 41.90935,
+      "lon": 12.45911,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "address": "Via Silla 3",
+      "price": "Change seasonally: single €70-110, double €85-150, triple €120-175, quadruple €140-200",
+      "url": "http://www.hotelsillaroma.it/",
+      "id": "vatican-city-ebd9a514679b12cd8929"
+    },
+    {
+      "name": "Maison Vaticana Rome",
+      "kind": "stay",
+      "locality": "Rome/Vatican",
+      "lat": 41.907495,
+      "lon": 12.458074,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "address": "Via Ottaviano, 42",
+      "price": "Double bedrooms €85",
+      "url": "http://www.maisonvaticana.com/",
+      "id": "vatican-city-761a62e34057ca00d621"
+    },
+    {
+      "name": "Rome Armony Suites B&B",
+      "kind": "stay",
+      "locality": "Rome/Vatican",
+      "lat": 41.90846,
+      "lon": 12.4659,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "address": "Via Orazio, 3",
+      "price": "From €80",
+      "url": "http://www.romearmonysuites.com/",
+      "id": "vatican-city-0d142aa7894061b6cce0"
+    },
+    {
+      "name": "Residenza dei Gracchi Rome",
+      "kind": "stay",
+      "locality": "Rome/Vatican",
+      "lat": 41.90798,
+      "lon": 12.46185,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "address": "Via dei Gracchi, 84",
+      "price": "€80-180",
+      "url": "https://www.residenzadeigracchi.it/",
+      "id": "vatican-city-9b2ac27e63bf897fab30"
+    },
+    {
+      "name": "Rome/Vatican",
+      "kind": "area",
+      "locality": "Rome/Vatican",
+      "lat": 41.904,
+      "lon": 12.453,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rome%2FVatican",
+      "id": "vatican-city-f3fb980a94af54326574"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 1 distinct public Wikivoyage source pages; attempted 1 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

@@ -1,0 +1,1259 @@
+{
+  "sources": [
+    {
+      "title": "Qatar",
+      "url": "https://en.wikivoyage.org/wiki/Qatar",
+      "checkedAt": "2026-10-21T08:11:49.264Z"
+    },
+    {
+      "title": "Doha",
+      "url": "https://en.wikivoyage.org/wiki/Doha",
+      "checkedAt": "2026-10-21T08:11:52.947Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Doha",
+      "kind": "area",
+      "locality": "Qatar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Qatar",
+      "id": "qatar-294669181174ab2e529d"
+    },
+    {
+      "name": "Al Khor",
+      "kind": "area",
+      "locality": "Qatar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Qatar",
+      "id": "qatar-7ef92bf37bbfa7cfd835"
+    },
+    {
+      "name": "Al Shamal",
+      "kind": "area",
+      "locality": "Qatar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Qatar",
+      "id": "qatar-e0ef5fa57a1c8bf56488"
+    },
+    {
+      "name": "Al Shahaniyah",
+      "kind": "area",
+      "locality": "Qatar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Qatar",
+      "id": "qatar-0483c0deb8c514b4e91f"
+    },
+    {
+      "name": "Al Wakrah",
+      "kind": "area",
+      "locality": "Qatar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Qatar",
+      "id": "qatar-fa90d7a820e1a0c8a2d4"
+    },
+    {
+      "name": "Dukhan",
+      "kind": "area",
+      "locality": "Qatar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Qatar",
+      "id": "qatar-8a423012c2ac74ce0444"
+    },
+    {
+      "name": "Mesaieed",
+      "kind": "area",
+      "locality": "Qatar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Qatar",
+      "id": "qatar-5737346575615bcf1ee9"
+    },
+    {
+      "name": "Umm Salal Mohammed",
+      "kind": "area",
+      "locality": "Qatar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Qatar",
+      "id": "qatar-b876a85e620f2fb2525d"
+    },
+    {
+      "name": "Museum of Islamic Arts",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.295278,
+      "lon": 51.539167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Next to Doha Port, on the Corniche",
+      "price": "Free",
+      "url": "http://www.mia.org.qa/",
+      "id": "qatar-6f181d5f90103e9720ae"
+    },
+    {
+      "name": "Mathaf: Arab Museum of Modern Art",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.310556,
+      "lon": 51.419722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Al Luqta St, Education City",
+      "price": "QR 50, or QR 85 for a museum pass",
+      "url": "http://www.mathaf.org.qa/",
+      "id": "qatar-3ebf67ba3fb3ffb9463f"
+    },
+    {
+      "name": "National Museum of Qatar",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.2868,
+      "lon": 51.549728,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "End of Al Muthaf St",
+      "url": "http://www.qm.org.qa/en/project/national-museum-qatar",
+      "id": "qatar-50f688b3395a9a0fc013"
+    },
+    {
+      "name": "Orientalist Museum",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.287,
+      "lon": 51.544,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Off Al Muthaf St",
+      "id": "qatar-2c162970256b8a42972e"
+    },
+    {
+      "name": "Arab Postal Stamp Museum",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.359522,
+      "lon": 51.525704,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "off of Lusail St",
+      "url": "http://www.katara.net/en/communities/arab-postal-stamp-museum",
+      "id": "qatar-696baf5e97e75b5ba9a9"
+    },
+    {
+      "name": "Sheikh Faisal bin Qassim Museum: West Bay Branch",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.32537,
+      "lon": 51.52807,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "City Tower, 6th Floor, Omar Al Mukhtar St",
+      "id": "qatar-7aa0e779e920498c5798"
+    },
+    {
+      "name": "VCUQatar Gallery",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.3144209,
+      "lon": 51.43328,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Virginia Commonwealth University in Qatar, Al Luqta Street, Education City",
+      "url": "http://www.qatar.vcu.edu/events",
+      "id": "qatar-2eddf1dd30e6560cd252"
+    },
+    {
+      "name": "Msheireb Museums",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.28689,
+      "lon": 51.52889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "price": "Free",
+      "url": "http://www.msheireb.com/msheireb-downtown-doha/msheireb-museums/about-msheireb-museums/",
+      "id": "qatar-69e34ab8d59ece4be242"
+    },
+    {
+      "name": "Firestation Artist in Residence",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.302606,
+      "lon": 51.507642,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Mohammed Bin Thani St",
+      "price": "Free",
+      "url": "http://www.firestation.org.qa/",
+      "id": "qatar-82c137f9e61b4c396d7f"
+    },
+    {
+      "name": "Al Koot Fort",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.286654,
+      "lon": 51.531006,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Jassim Bin Mohammed St",
+      "id": "qatar-a25fd730ef659e8b9b8b"
+    },
+    {
+      "name": "Fanar Qatar Islamic Cultural Center",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.2889,
+      "lon": 51.53564,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Abdullah Bin Jassim St",
+      "price": "Free",
+      "url": "http://www.fanar.gov.qa/",
+      "id": "qatar-e9ffc48b37c3fd7e45e4"
+    },
+    {
+      "name": "Clock Tower",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.290016,
+      "lon": 51.528968,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "id": "qatar-8848f52e1c25230a7a30"
+    },
+    {
+      "name": "Windtower House",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.285539,
+      "lon": 51.53333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Grand Hamad St & Ali bin Abdulla St",
+      "id": "qatar-3ab02d1953d6af7f33dd"
+    },
+    {
+      "name": "Souq Waqif",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.2884,
+      "lon": 51.5329,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "id": "qatar-4948693427140c26b613"
+    },
+    {
+      "name": "Msheireb Enrichment Centre",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.31601,
+      "lon": 51.531564,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "barge docked off the Corniche, next to the Sheraton",
+      "price": "Free",
+      "url": "http://mec.msheireb.com/",
+      "id": "qatar-ffda0488960fec36f89d"
+    },
+    {
+      "name": "Heritage Library",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.314764,
+      "lon": 51.466204,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "price": "Free",
+      "url": "http://www.qnl.qa/news-events/news-details?item=7&backArt=76",
+      "id": "qatar-ef0442241f99b15678b6"
+    },
+    {
+      "name": "Qatar National Library",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.282542,
+      "lon": 51.540271,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "url": "http://www.qnl.qa/",
+      "id": "qatar-fddf77745dd5241e8cf9"
+    },
+    {
+      "name": "Virginia Commonwealth University Gallery",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.3146,
+      "lon": 51.4335,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Al Luqta St, Education City",
+      "price": "Free",
+      "url": "https://qatar.vcu.edu/mfa/gallery",
+      "id": "qatar-ed3740b62cc1eecf683a"
+    },
+    {
+      "name": "Heritage Village",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.299522,
+      "lon": 51.518084,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "id": "qatar-96e7b0c24e720edf4a24"
+    },
+    {
+      "name": "Al Najada",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.283526,
+      "lon": 51.533514,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "id": "qatar-394ec40dbbf628ea20d8"
+    },
+    {
+      "name": "House of Sheikh Abdullah bin Thani Al-Thani",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.321468,
+      "lon": 51.442786,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Al Luqta St",
+      "id": "qatar-4be51fd3602857dce3e4"
+    },
+    {
+      "name": "Corniche",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.2945,
+      "lon": 51.5239,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "id": "qatar-04f527a42e692075282c"
+    },
+    {
+      "name": "Al Bidda Park",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.30087,
+      "lon": 51.51738,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "The Corniche",
+      "id": "qatar-f2e1e3d80ef37cff97f8"
+    },
+    {
+      "name": "Katara Cultural Village",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.360326,
+      "lon": 51.526363,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "off of Lusail St",
+      "url": "http://www.katara.net/en/",
+      "id": "qatar-c2f4aac6ebf20909f8cb"
+    },
+    {
+      "name": "Al Jazeera Studios",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.312684,
+      "lon": 51.499504,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Wadi Al Sail West",
+      "url": "http://www.aljazeera.com/aboutus/",
+      "id": "qatar-1d0ee994e61f1c7d975e"
+    },
+    {
+      "name": "Doha Zoo",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.2473,
+      "lon": 51.4348,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Al Rayyan",
+      "id": "qatar-b20631807a73cc9335bf"
+    },
+    {
+      "name": "MIA Park",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.294701,
+      "lon": 51.543106,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Corniche",
+      "price": "Free",
+      "url": "http://www.mia.org.qa/en/mia-park",
+      "id": "qatar-8224ba6844e29a729256"
+    },
+    {
+      "name": "Calligraffiti Murals",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.232934,
+      "lon": 51.444762,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "four underground tunnels on Salwa Rd",
+      "id": "qatar-bdcb46fcd897c9eeff90"
+    },
+    {
+      "name": "The Miraculous Journey",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.320923,
+      "lon": 51.444656,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Sidra Medical and Research Center",
+      "price": "Free",
+      "id": "qatar-fd4aae37cf2120c83e39"
+    },
+    {
+      "name": "Ministry of Interior building",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.30539,
+      "lon": 51.50409,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "id": "qatar-e489b121d77ecec647b2"
+    },
+    {
+      "name": "Asian Town",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.189972,
+      "lon": 51.460025,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "355، 100 Asian Town, St",
+      "url": "http://www.ibnajayan.com/",
+      "id": "qatar-43fa2b555fb1531b86a0"
+    },
+    {
+      "name": "Beaches",
+      "kind": "do",
+      "locality": "Doha",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "id": "qatar-9fb71aa9aae2c96b1f99"
+    },
+    {
+      "name": "Dhow tour",
+      "kind": "do",
+      "locality": "Doha",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "id": "qatar-af913424a36592397bfd"
+    },
+    {
+      "name": "Doha Film Institute",
+      "kind": "do",
+      "locality": "Doha",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "url": "http://www.dohafilminstitute.com/",
+      "id": "qatar-c7b2bde6a60b6e5c797d"
+    },
+    {
+      "name": "Doha Golf Club",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.381874,
+      "lon": 51.505272,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "West Bay",
+      "price": "QR 590 weekdays, QR 795 weekends (nonmembers)",
+      "url": "http://dohagolfclub.com/",
+      "id": "qatar-8cc5be9fe0ad25fa473b"
+    },
+    {
+      "name": "Drag racing",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.174728,
+      "lon": 51.47609,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "52nd St",
+      "url": "http://qrczone.com/",
+      "id": "qatar-370921b56b7f31e591db"
+    },
+    {
+      "name": "Jungle Zone",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.2558,
+      "lon": 51.4369,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Hyatt Plaza",
+      "url": "https://hyattplaza.com/Shopping-Mall-Doha/Jungle-Zone",
+      "id": "qatar-960ba3982934d3f876b8"
+    },
+    {
+      "name": "Kayaking",
+      "kind": "do",
+      "locality": "Doha",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "id": "qatar-9c6eb863623b5c021fff"
+    },
+    {
+      "name": "Qatar Racing and Equestrian Club",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.27847,
+      "lon": 51.4272,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Al Rayyan",
+      "price": "Free",
+      "url": "http://www.qrec.gov.qa/",
+      "id": "qatar-7268da9a9566dfcfd9f5"
+    },
+    {
+      "name": "Sailing",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.349572,
+      "lon": 51.531602,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Al Isteqlal Rd",
+      "url": "http://regattasailingacademy.com/",
+      "id": "qatar-9aac88d419e9173ead76"
+    },
+    {
+      "name": "Sheesha",
+      "kind": "do",
+      "locality": "Doha",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "id": "qatar-de6d9a90b9b3968cd8f2"
+    },
+    {
+      "name": "Al Shaqab Horse Centre",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.306261,
+      "lon": 51.439936,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Al Shaqab",
+      "url": "http://doha.frasershospitality.com/en/attractions/hotels-near-al-shaqab-horse-centre.html",
+      "id": "qatar-c28587ee43efc3681aef"
+    },
+    {
+      "name": "Aspire Park",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.261,
+      "lon": 51.436,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "price": "Free",
+      "id": "qatar-60fa4fe590ee6e3ed3b0"
+    },
+    {
+      "name": "Ric's Kountry Kitchen",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.282388,
+      "lon": 51.545526,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Sana Complex, Ras Abu Abboud St",
+      "id": "qatar-e70cd19149976d54e051"
+    },
+    {
+      "name": "Yellow Cab Pizza",
+      "kind": "eat",
+      "locality": "Doha",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "several branches",
+      "url": "https://www.facebook.com/pages/Yellow-Cab-Pizza-Qatar/212812342074693",
+      "id": "qatar-96b58b5a9716e96deee2"
+    },
+    {
+      "name": "Noodle House",
+      "kind": "eat",
+      "locality": "Doha",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "three locations",
+      "url": "http://www.thenoodlehouse.com/",
+      "id": "qatar-13691f700c981ce72296"
+    },
+    {
+      "name": "Oishi Sushi",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.281518,
+      "lon": 51.501684,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Al Sadd St",
+      "id": "qatar-b53e8785998a4d479d4f"
+    },
+    {
+      "name": "Royal Bafilyon",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.242027,
+      "lon": 51.46262,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Salwa Rd",
+      "id": "qatar-4546d19202d9bd7be5ab"
+    },
+    {
+      "name": "Shanghai Garden",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.324702,
+      "lon": 51.529507,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "City Centre Mall",
+      "id": "qatar-b4b96e8207aa7fdde13a"
+    },
+    {
+      "name": "Thai Corner",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.274816,
+      "lon": 51.515571,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "The Centre, Salwa Rd",
+      "url": "https://www.facebook.com/ThaiCornerAtDoha/",
+      "id": "qatar-72b153b81799385adff1"
+    },
+    {
+      "name": "Thai Smile",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.302063,
+      "lon": 51.517041,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Al Corniche",
+      "id": "qatar-24f1be24bf46fdbfd7cf"
+    },
+    {
+      "name": "Thai Snack",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.274513,
+      "lon": 51.506534,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Al-Mirqab St",
+      "id": "qatar-e6d9361edeba54e0a484"
+    },
+    {
+      "name": "Yee Hwa Restaurant",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.2774,
+      "lon": 51.50046,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Al-Kinana St",
+      "url": "https://www.facebook.com/YeeHwaDoha",
+      "id": "qatar-00eb1e631be194e0fcb1"
+    },
+    {
+      "name": "Ciao",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.257738,
+      "lon": 51.485554,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Salwa Rd",
+      "id": "qatar-6767b900d1273e6292c6"
+    },
+    {
+      "name": "J&G Sandwich Cellar",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.283223,
+      "lon": 51.549281,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Ras Abu Aboud St",
+      "url": "http://sandwichcellar.weebly.com/",
+      "id": "qatar-4c999c5540428b29f029"
+    },
+    {
+      "name": "Lo Spaghetto",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.282648,
+      "lon": 51.502672,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "corner of Al Difaaf and Al Hamdani St",
+      "id": "qatar-ad15b296765b6f229435"
+    },
+    {
+      "name": "Mykonos",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.348152,
+      "lon": 51.529982,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Al Isteqlal Rd, West Bay",
+      "id": "qatar-2340bd79af725abe6431"
+    },
+    {
+      "name": "Aalishan",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.268423,
+      "lon": 51.519326,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Ibn Seena St",
+      "id": "qatar-02e3123e73784476075f"
+    },
+    {
+      "name": "Al Zarka",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.286722,
+      "lon": 51.546073,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Al Mahtuf St",
+      "id": "qatar-e92cad3116eb82a4d7ab"
+    },
+    {
+      "name": "Anjappar Chettinad",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.280722,
+      "lon": 51.518528,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Al Khaleej St",
+      "id": "qatar-ad0210a873c4d3838867"
+    },
+    {
+      "name": "Bukhara",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.313256,
+      "lon": 51.513833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Khalifa St",
+      "id": "qatar-c58b6988b435787a9f85"
+    },
+    {
+      "name": "Chingari",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.27282,
+      "lon": 51.514066,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Radisson Blu",
+      "id": "qatar-507564da4d2daab6f57d"
+    },
+    {
+      "name": "Garden Annapoorna",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.271389,
+      "lon": 51.537382,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Najma St",
+      "id": "qatar-6e3bc967aaec72710b1a"
+    },
+    {
+      "name": "The Garden Village Restaurant Doha",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.311549,
+      "lon": 51.494978,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Fereej Kulaib St",
+      "id": "qatar-3233db76769c54bc00af"
+    },
+    {
+      "name": "Spice and Sizzles",
+      "kind": "eat",
+      "locality": "Doha",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Salwa Road, Building 158 , Street No 340 , Zone 55",
+      "id": "qatar-25b5787a613e3320d46e"
+    },
+    {
+      "name": "Al Shami Home Restaurant",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.275221,
+      "lon": 51.509022,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "C-Ring Rd",
+      "id": "qatar-ac18c68efec948e5e378"
+    },
+    {
+      "name": "Al Hamra",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.288548,
+      "lon": 51.521726,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Al Rayan Rd",
+      "id": "qatar-a3960a92533a95eb056a"
+    },
+    {
+      "name": "Al Mourjan",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.307471,
+      "lon": 51.519645,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Al Corniche",
+      "url": "http://www.almourjan.com/",
+      "id": "qatar-515572c86165359d4c39"
+    },
+    {
+      "name": "Ankara Pastry Restaurant",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.30635,
+      "lon": 51.498385,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Ahmed Bin Ali St",
+      "id": "qatar-daf84cd532896a764263"
+    },
+    {
+      "name": "Istanbul Sultan",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.23874,
+      "lon": 51.499561,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Mesaimeer Rd",
+      "id": "qatar-c8aee79a9c9434c63725"
+    },
+    {
+      "name": "Layali",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.269594,
+      "lon": 51.505499,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Salwa",
+      "url": "http://www.layalirestaurantqatar.com/",
+      "id": "qatar-bcba3596bffa7f6f60b9"
+    },
+    {
+      "name": "Shebestan Palace Restaurant",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.280877,
+      "lon": 51.504076,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Al-Sadd St",
+      "id": "qatar-b4f5d77b1fc0bb42e11f"
+    },
+    {
+      "name": "Turkey Central",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.273853,
+      "lon": 51.501405,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Al Mirqhab Al Jadeed St",
+      "id": "qatar-22f87bcf633ec3b45f45"
+    },
+    {
+      "name": "Shay Al Shoomos",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.289651283853335,
+      "lon": 51.532728926368335,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Souq Waqif",
+      "id": "qatar-047b4470c3d8d8edec32"
+    },
+    {
+      "name": "Parisa",
+      "kind": "eat",
+      "locality": "Doha",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Al Souq Street",
+      "url": "https://parisarestaurants.com/souq-waqif/",
+      "id": "qatar-722c74aaca3edffb175b"
+    },
+    {
+      "name": "Best Fish",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.274872,
+      "lon": 51.506432,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Al Mirqab Al Jadeed St",
+      "id": "qatar-42b51efdb81a0ef77418"
+    },
+    {
+      "name": "Fish Market",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.349451,
+      "lon": 51.53106,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Al Isteqlal Rd, West Bay",
+      "id": "qatar-d63ebace22a6e8c673cb"
+    },
+    {
+      "name": "L'wzaar Seafood Market",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.35849,
+      "lon": 51.526479,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Katara Cultural Village, Bldg 27",
+      "url": "http://www.lwzaar.com/",
+      "id": "qatar-2018289a3700e749c3dd"
+    },
+    {
+      "name": "Carrefour",
+      "kind": "eat",
+      "locality": "Doha",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "id": "qatar-64275f535d675e644780"
+    },
+    {
+      "name": "Family Food Centre",
+      "kind": "eat",
+      "locality": "Doha",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "url": "http://family.com.qa/",
+      "id": "qatar-d1ec8281759132b2cdcd"
+    },
+    {
+      "name": "LuLu",
+      "kind": "eat",
+      "locality": "Doha",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "url": "http://qatar.luluhypermarket.com/",
+      "id": "qatar-d65c066cd871adec1a2c"
+    },
+    {
+      "name": "Mega Mart",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.274756,
+      "lon": 51.516082,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "The Centre, Salwa Rd",
+      "id": "qatar-eea1f83d84f528a2f18a"
+    },
+    {
+      "name": "Quality Hypermarket",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.242255,
+      "lon": 51.458732,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Salwa Rd",
+      "id": "qatar-7232e0f3171dcaed7852"
+    },
+    {
+      "name": "PappaRoti",
+      "kind": "eat",
+      "locality": "Doha",
+      "lat": 25.26249,
+      "lon": 51.52892,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "C Ring Rd",
+      "url": "http://www.papparoti.ae/index.php",
+      "id": "qatar-32bd0fc7f07e7ad898a4"
+    },
+    {
+      "name": "Doha B - Qatar Youth Hostels Association",
+      "kind": "stay",
+      "locality": "Doha",
+      "lat": 25.316767,
+      "lon": 51.464332,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "17 Al Rayyan St",
+      "url": "https://www.hostelz.com/hostels/Qatar/Doha",
+      "id": "qatar-ed3efe2cea5c2d27d887"
+    },
+    {
+      "name": "Al Madina Suites",
+      "kind": "stay",
+      "locality": "Doha",
+      "lat": 25.277128,
+      "lon": 51.534073,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Al Nada St #42",
+      "price": "Rates on official website start at QR 450",
+      "url": "http://www.almadinasuites.com/",
+      "id": "qatar-292a71d63b0164b457ec"
+    },
+    {
+      "name": "Al Muntazah Plaza Hotel",
+      "kind": "stay",
+      "locality": "Doha",
+      "lat": 25.272752,
+      "lon": 51.527857,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Al Mansoora",
+      "url": "http://www.almuntazahplaza.com/home/",
+      "id": "qatar-1e5934d31a13f37168f2"
+    },
+    {
+      "name": "Hotel Crystal Palace",
+      "kind": "stay",
+      "locality": "Doha",
+      "lat": 25.287615,
+      "lon": 51.519242,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "corner of Al Fairouz St and Al Fayaa St",
+      "price": "Rates on official website start at QR 239",
+      "url": "http://www.crystalpalacedoha.com/",
+      "id": "qatar-5090a5704eaf61bde265"
+    },
+    {
+      "name": "Doha Marriott Hotel",
+      "kind": "stay",
+      "locality": "Doha",
+      "lat": 25.286766,
+      "lon": 51.562268,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Ras Abu Aboud St",
+      "url": "https://www.marriott.com/hotels/travel/dohmc-doha-marriott-hotel/",
+      "id": "qatar-1902d2abe328e9478694"
+    },
+    {
+      "name": "Mercure Doha",
+      "kind": "stay",
+      "locality": "Doha",
+      "lat": 25.283409,
+      "lon": 51.527883,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Wadi Musherib St",
+      "url": "http://www.mercuredoha.com/",
+      "id": "qatar-a3d9acf9402193ce2b36"
+    },
+    {
+      "name": "Mövenpick Hotel Doha",
+      "kind": "stay",
+      "locality": "Doha",
+      "lat": 25.290229,
+      "lon": 51.544641,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "The Corniche",
+      "url": "http://www.moevenpick-doha.com/",
+      "id": "qatar-92aee3cd5b3f0768b2fc"
+    },
+    {
+      "name": "Ramada Encore Doha",
+      "kind": "stay",
+      "locality": "Doha",
+      "lat": 25.280446,
+      "lon": 51.53025,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Ahmed Bin Mohammed Bin Thani St",
+      "url": "http://www.ramadaencoredoha.com/",
+      "id": "qatar-52528ee270e1ab7096d0"
+    },
+    {
+      "name": "Somerset West Bay Doha",
+      "kind": "stay",
+      "locality": "Doha",
+      "lat": 25.329158,
+      "lon": 51.531472,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Diplomatic Area",
+      "url": "https://www.somerset.com/en/qatar/doha/somerset-west-bay-doha/index.html",
+      "id": "qatar-c78b50ae5ff9c0392bdc"
+    },
+    {
+      "name": "Banana Island Resort Doha by Anantara",
+      "kind": "stay",
+      "locality": "Doha",
+      "lat": 25.298547,
+      "lon": 51.642228,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "price": "starting from US$305",
+      "url": "http://doha.anantara.com/",
+      "id": "qatar-de749428d7d4a2a4442b"
+    },
+    {
+      "name": "Four Seasons",
+      "kind": "stay",
+      "locality": "Doha",
+      "lat": 25.3243,
+      "lon": 51.5391,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "The Corniche",
+      "url": "http://www.fourseasons.com/doha/",
+      "id": "qatar-c95e0211e726875fe27c"
+    },
+    {
+      "name": "Grand Hyatt Doha",
+      "kind": "stay",
+      "locality": "Doha",
+      "lat": 25.3757,
+      "lon": 51.5277,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "City Center",
+      "url": "https://doha.grand.hyatt.com/",
+      "id": "qatar-a0a57bdc812fdf5799e8"
+    },
+    {
+      "name": "Imperial Suites Hotels Doha",
+      "kind": "stay",
+      "locality": "Doha",
+      "lat": 25.283628,
+      "lon": 51.542588,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Old - Al Hitmi",
+      "url": "http://imperialsuites.com.qa/",
+      "id": "qatar-746f7573b5944c10b9a5"
+    },
+    {
+      "name": "InterContinental Doha",
+      "kind": "stay",
+      "locality": "Doha",
+      "lat": 25.3489,
+      "lon": 51.5284,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Al Isteqlal Rd",
+      "url": "https://www.ihg.com/hotels/us/en/doha/dohha/hoteldetail",
+      "id": "qatar-8d028b90506a86af8f50"
+    },
+    {
+      "name": "InterContinental Doha - The City",
+      "kind": "stay",
+      "locality": "Doha",
+      "lat": 25.32631,
+      "lon": 51.524633,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Off Al Wahda Rd, City Center",
+      "url": "https://www.ihg.com/hotels/us/en/doha/dohwb/hoteldetail",
+      "id": "qatar-f23a4a52e0f4873ca8d4"
+    },
+    {
+      "name": "Kempinski Residences & Suites",
+      "kind": "stay",
+      "locality": "Doha",
+      "lat": 25.328569,
+      "lon": 51.530877,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "West Bay",
+      "url": "http://www.kempinski.com/en/doha/residences/welcome/",
+      "id": "qatar-5de07337755944c61f9f"
+    },
+    {
+      "name": "La Cigale Hotel",
+      "kind": "stay",
+      "locality": "Doha",
+      "lat": 25.2801,
+      "lon": 51.5078,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "60 Suhaim Bin Hamad St",
+      "url": "http://www.lacigalehotel.com/",
+      "id": "qatar-7a3b8fa6bdb55044c41c"
+    },
+    {
+      "name": "Merwebhotel Central Doha",
+      "kind": "stay",
+      "locality": "Doha",
+      "lat": 25.282109,
+      "lon": 51.542497,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Ras Abu Abboud",
+      "url": "http://merweb.com/index.php?option=com_content&view=article&id=14&Itemid=13",
+      "id": "qatar-5dca0cacd7baad3a227a"
+    },
+    {
+      "name": "Mövenpick Tower & Suites",
+      "kind": "stay",
+      "locality": "Doha",
+      "lat": 25.325136,
+      "lon": 51.537806,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "West Bay",
+      "url": "http://www.moevenpick-doha-tower.com/",
+      "id": "qatar-47f761abc17053cf9748"
+    },
+    {
+      "name": "The Ritz-Carlton",
+      "kind": "stay",
+      "locality": "Doha",
+      "lat": 25.3794,
+      "lon": 51.5318,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Isteqlal St",
+      "url": "http://www.ritzcarlton.com/en/hotels/qatar/doha",
+      "id": "qatar-2a17873abb8bfb641ad8"
+    },
+    {
+      "name": "St Regis Doha",
+      "kind": "stay",
+      "locality": "Doha",
+      "lat": 25.350353,
+      "lon": 51.529274,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "West Bay",
+      "url": "http://www.stregisdoha.com/",
+      "id": "qatar-996570d690965ed9760f"
+    },
+    {
+      "name": "Sheraton Grand Doha",
+      "kind": "stay",
+      "locality": "Doha",
+      "lat": 25.3194,
+      "lon": 51.5369,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "West Bay",
+      "url": "http://www.sheratongranddoha.com/",
+      "id": "qatar-a011bb3683d6633fea89"
+    },
+    {
+      "name": "The Torch Doha",
+      "kind": "stay",
+      "locality": "Doha",
+      "lat": 25.261803,
+      "lon": 51.446441,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Al Waab St",
+      "url": "http://www.thetorchdoha.com/",
+      "id": "qatar-bbda657ad2b8415415d4"
+    },
+    {
+      "name": "W Doha Hotel",
+      "kind": "stay",
+      "locality": "Doha",
+      "lat": 25.328899,
+      "lon": 51.530073,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "West Bay",
+      "url": "http://www.whoteldoha.com/",
+      "id": "qatar-763fdcc8fb44b91b46f5"
+    },
+    {
+      "name": "Singing Sand Dunes",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.037802,
+      "lon": 51.406227,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "price": "Free",
+      "id": "qatar-460904d92ff9f932f2ca"
+    },
+    {
+      "name": "Dhal Al Misfir",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.175153,
+      "lon": 51.211711,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "id": "qatar-9e963b505c1a4d6abc51"
+    },
+    {
+      "name": "Mudhlem Cave",
+      "kind": "do",
+      "locality": "Doha",
+      "lat": 25.122724,
+      "lon": 51.228212,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Mukaynis",
+      "id": "qatar-050d2cf14ee7757fe6b3"
+    },
+    {
+      "name": "Qatar Marine",
+      "kind": "do",
+      "locality": "Doha",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Villagio & City Center Mall",
+      "url": "http://www.qatarmarine.net/",
+      "id": "qatar-0fac6755b70af1bbb21b"
+    },
+    {
+      "name": "Doha Sub Aqua Club",
+      "kind": "do",
+      "locality": "Doha",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "off Ras Abu Abboud",
+      "id": "qatar-d90897839730eb79a4a1"
+    },
+    {
+      "name": "Q-Dive Marine Center",
+      "kind": "do",
+      "locality": "Doha",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Souq Al Najada",
+      "url": "http://www.qdive.net/",
+      "id": "qatar-1571951a7a6382740c04"
+    },
+    {
+      "name": "Qatar Divers",
+      "kind": "do",
+      "locality": "Doha",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "address": "Doha Marriott Hotel",
+      "url": "http://www.qatardivers.com/",
+      "id": "qatar-8dd7ba317ff2c9d5349d"
+    },
+    {
+      "name": "Doha",
+      "kind": "area",
+      "locality": "Doha",
+      "lat": 25.286667,
+      "lon": 51.533333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Doha",
+      "id": "qatar-76e1cf882a021606b2c3"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

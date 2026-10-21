@@ -1,0 +1,302 @@
+{
+  "sources": [
+    {
+      "title": "Vanuatu",
+      "url": "https://en.wikivoyage.org/wiki/Vanuatu",
+      "checkedAt": "2026-10-21T08:13:08.615Z"
+    },
+    {
+      "title": "Port Vila",
+      "url": "https://en.wikivoyage.org/wiki/Port_Vila",
+      "checkedAt": "2026-10-21T08:13:11.251Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Port-Vila",
+      "kind": "area",
+      "locality": "Vanuatu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vanuatu",
+      "id": "vanuatu-0ddfd09887f4150a9bbd"
+    },
+    {
+      "name": "Luganville",
+      "kind": "area",
+      "locality": "Vanuatu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Vanuatu",
+      "id": "vanuatu-bf4cb2043fa1fd5b4e2e"
+    },
+    {
+      "name": "National Museum of Vanuatu",
+      "kind": "do",
+      "locality": "Port Vila",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Vila",
+      "price": "1000 VT",
+      "url": "https://vanuatuculturalcentre.gov.vu/",
+      "id": "vanuatu-b0c22ef612a4a9c37c72"
+    },
+    {
+      "name": "Evergreen Cascades Waterfall",
+      "kind": "do",
+      "locality": "Port Vila",
+      "lat": -17.6757505,
+      "lon": 168.2575191,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Vila",
+      "id": "vanuatu-4c1e15b5508b1c95b97c"
+    },
+    {
+      "name": "Hideaway Island",
+      "kind": "do",
+      "locality": "Port Vila",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Vila",
+      "price": "Island entrance 1200 VT, waterproof postcards 660 VT",
+      "url": "https://www.hideaway.com.vu/",
+      "id": "vanuatu-7a7383852173e43e6106"
+    },
+    {
+      "name": "National Library",
+      "kind": "do",
+      "locality": "Port Vila",
+      "lat": -17.7452,
+      "lon": 168.3175,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Vila",
+      "id": "vanuatu-7c9807886b22b6c87454"
+    },
+    {
+      "name": "Honeymoon Beach",
+      "kind": "do",
+      "locality": "Port Vila",
+      "lat": -17.772,
+      "lon": 168.271,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Vila",
+      "price": "Adult 500 VT, child 250 VT",
+      "id": "vanuatu-f9abab5747bea4417daa"
+    },
+    {
+      "name": "Big Blue Vanuatu",
+      "kind": "do",
+      "locality": "Port Vila",
+      "lat": -17.737,
+      "lon": 168.312,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Vila",
+      "price": "PADI Open Water course including 4 dives from 59,500 VT",
+      "url": "http://www.bigbluevanuatu.com/",
+      "id": "vanuatu-6aa15acf7b9e45b08d1f"
+    },
+    {
+      "name": "Independence Park, Port Vila",
+      "kind": "do",
+      "locality": "Port Vila",
+      "lat": -17.74,
+      "lon": 168.317,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Vila",
+      "id": "vanuatu-16e331c3b123f0c85edb"
+    },
+    {
+      "name": "Korman Stadium",
+      "kind": "do",
+      "locality": "Port Vila",
+      "lat": -17.7339,
+      "lon": 168.3374,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Vila",
+      "id": "vanuatu-cbe6818279f5c777e565"
+    },
+    {
+      "name": "Family Restaurant",
+      "kind": "eat",
+      "locality": "Port Vila",
+      "lat": -17.748,
+      "lon": 168.316,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Vila",
+      "address": "Rue Bretagne",
+      "price": "From 1300 VT",
+      "id": "vanuatu-b9735b443b70fb25adb5"
+    },
+    {
+      "name": "Kai Vanua",
+      "kind": "eat",
+      "locality": "Port Vila",
+      "lat": -17.758,
+      "lon": 168.31238,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Vila",
+      "price": "Meal with drink from 1000 VT",
+      "url": "https://www.regenerativevanua.org/collective",
+      "id": "vanuatu-8bef7b79b7c7adbbe461"
+    },
+    {
+      "name": "Three Pigs",
+      "kind": "eat",
+      "locality": "Port Vila",
+      "lat": -17.7731,
+      "lon": 168.3008,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Vila",
+      "price": "Tacos from 700 VT",
+      "url": "https://www.facebook.com/threepigsvanuatu/",
+      "id": "vanuatu-2a21398ba0d7b65663e2"
+    },
+    {
+      "name": "L'Houstalet",
+      "kind": "eat",
+      "locality": "Port Vila",
+      "lat": -17.75129,
+      "lon": 168.31623,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Vila",
+      "address": "Captain Cook Ave",
+      "price": "Mains 2000 VT",
+      "url": "https://www.facebook.com/lhoustaletrestaurant/",
+      "id": "vanuatu-ba57cae06d4f72389baf"
+    },
+    {
+      "name": "Stonegrill",
+      "kind": "eat",
+      "locality": "Port Vila",
+      "lat": -17.7297,
+      "lon": 168.312,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Vila",
+      "id": "vanuatu-5a91117f38533d58fa04"
+    },
+    {
+      "name": "Beach Bar",
+      "kind": "eat",
+      "locality": "Port Vila",
+      "lat": -17.693,
+      "lon": 168.267,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Vila",
+      "price": "Fire show free (donations welcome), beers from 600 VT",
+      "url": "http://www.vanuatubeachbar.com/",
+      "id": "vanuatu-3e5ec05f6d4c7082a6c3"
+    },
+    {
+      "name": "Travellers Motel",
+      "kind": "stay",
+      "locality": "Port Vila",
+      "lat": -17.73043,
+      "lon": 168.31437,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Vila",
+      "price": "Dorm beds from 3500 VT",
+      "url": "https://www.thetravellersmotel.com/",
+      "id": "vanuatu-713f6ba28990cd0c3457"
+    },
+    {
+      "name": "MG Cocomo Resort",
+      "kind": "stay",
+      "locality": "Port Vila",
+      "lat": -17.73603,
+      "lon": 168.33569,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Vila",
+      "address": "Teouma Road",
+      "price": "Approximately US$185",
+      "url": "http://www.mgcocomo.com/",
+      "id": "vanuatu-c742760f78f616d84e76"
+    },
+    {
+      "name": "Mangoes Resort",
+      "kind": "stay",
+      "locality": "Port Vila",
+      "lat": -17.74134,
+      "lon": 168.32298,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Vila",
+      "url": "http://www.mangoesresort.com/",
+      "id": "vanuatu-673bc20c8a8767fc3d6c"
+    },
+    {
+      "name": "Sunset Bungalows",
+      "kind": "stay",
+      "locality": "Port Vila",
+      "lat": -17.74009,
+      "lon": 168.34786,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Vila",
+      "address": "Teouma Road",
+      "price": "Approximately US$150",
+      "url": "https://www.facebook.com/sunsetbungalowsvanuatu/",
+      "id": "vanuatu-0886d350f8463083b201"
+    },
+    {
+      "name": "Holiday Inn Resort Vanuatu",
+      "kind": "stay",
+      "locality": "Port Vila",
+      "lat": -17.74028,
+      "lon": 168.32512,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Vila",
+      "address": "Tassiriki Park",
+      "url": "http://vanuatu.holidayinnresorts.com/",
+      "id": "vanuatu-e416da11ca419ae98f85"
+    },
+    {
+      "name": "Warwick Le Lagon",
+      "kind": "stay",
+      "locality": "Port Vila",
+      "lat": -17.76714,
+      "lon": 168.30935,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Vila",
+      "address": "Elluk Road, Efate",
+      "url": "https://www.warwickhotels.com/warwick-le-lagon-vanuatu",
+      "id": "vanuatu-dfff71567751abe3fecf"
+    },
+    {
+      "name": "Iririki Island",
+      "kind": "stay",
+      "locality": "Port Vila",
+      "lat": -17.74419,
+      "lon": 168.30945,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Vila",
+      "url": "https://www.iririki.com/",
+      "id": "vanuatu-adbbd84c957cfdfacd1e"
+    },
+    {
+      "name": "Erakor Island Resort",
+      "kind": "stay",
+      "locality": "Port Vila",
+      "lat": -17.77265,
+      "lon": 168.31071,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Vila",
+      "address": "Erakor Lagoon",
+      "url": "https://www.erakorislandresort.com/",
+      "id": "vanuatu-df78f76caa2ec267cbf3"
+    },
+    {
+      "name": "Poppys on the Lagoon",
+      "kind": "stay",
+      "locality": "Port Vila",
+      "lat": -17.74527,
+      "lon": 168.32371,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Vila",
+      "address": "Captain Cook Av, Erakor Lagoon",
+      "url": "http://www.poppys.com.vu/",
+      "id": "vanuatu-aba551088caa8591e1a7"
+    },
+    {
+      "name": "Ramada Resort Port Vila",
+      "kind": "stay",
+      "locality": "Port Vila",
+      "lat": -17.75592,
+      "lon": 168.31729,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Vila",
+      "url": "https://ramadaresort.com.vu/",
+      "id": "vanuatu-86fd565a4324e968a415"
+    },
+    {
+      "name": "Paradise Cove Resort",
+      "kind": "stay",
+      "locality": "Port Vila",
+      "lat": -17.764,
+      "lon": 168.278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Vila",
+      "address": "Port Vila Bay",
+      "price": "A$400 (high season)",
+      "url": "http://paradisecoveresortvanuatu.com/",
+      "id": "vanuatu-ecac202ff961af04db1d"
+    },
+    {
+      "name": "Port Vila",
+      "kind": "area",
+      "locality": "Port Vila",
+      "lat": -17.75,
+      "lon": 168.3,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Vila",
+      "id": "vanuatu-f58cedad91bddd5fb6e1"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

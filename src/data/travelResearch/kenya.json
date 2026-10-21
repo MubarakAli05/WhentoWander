@@ -1,0 +1,1284 @@
+{
+  "sources": [
+    {
+      "title": "Kenya",
+      "url": "https://en.wikivoyage.org/wiki/Kenya",
+      "checkedAt": "2026-10-21T08:03:49.689Z"
+    },
+    {
+      "title": "Nairobi",
+      "url": "https://en.wikivoyage.org/wiki/Nairobi",
+      "checkedAt": "2026-10-21T08:03:52.700Z"
+    },
+    {
+      "title": "Maasai Mara National Reserve",
+      "url": "https://en.wikivoyage.org/wiki/Maasai_Mara_National_Reserve",
+      "checkedAt": "2026-10-21T08:03:58.401Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Nairobi",
+      "kind": "area",
+      "locality": "Kenya",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kenya",
+      "id": "kenya-950d178b9374aac7d917"
+    },
+    {
+      "name": "Mombasa",
+      "kind": "area",
+      "locality": "Kenya",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kenya",
+      "id": "kenya-9c69d484a59e9a80759f"
+    },
+    {
+      "name": "Kisumu",
+      "kind": "area",
+      "locality": "Kenya",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kenya",
+      "id": "kenya-dbe3341ecc50552eba43"
+    },
+    {
+      "name": "Lamu",
+      "kind": "area",
+      "locality": "Kenya",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kenya",
+      "id": "kenya-a4f20e70ffd4385a36cb"
+    },
+    {
+      "name": "Lodwar",
+      "kind": "area",
+      "locality": "Kenya",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kenya",
+      "id": "kenya-f94a51bb91b5a3fa35ed"
+    },
+    {
+      "name": "Malindi",
+      "kind": "area",
+      "locality": "Kenya",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kenya",
+      "id": "kenya-23e332c01653a0c0500e"
+    },
+    {
+      "name": "Meru",
+      "kind": "area",
+      "locality": "Kenya",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kenya",
+      "id": "kenya-93cd244d335ca532bae1"
+    },
+    {
+      "name": "Nakuru",
+      "kind": "area",
+      "locality": "Kenya",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kenya",
+      "id": "kenya-af6de0b9d5eb37f021da"
+    },
+    {
+      "name": "Mtwapa",
+      "kind": "area",
+      "locality": "Kenya",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kenya",
+      "id": "kenya-6caf3b3d0fc772339293"
+    },
+    {
+      "name": "Kenyatta International Conference Centre (KICC)",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.28894,
+      "lon": 36.82267,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "price": "Ksh 500 (non-citizens)",
+      "id": "kenya-f29968aaa682bd9b6b65"
+    },
+    {
+      "name": "August 7 Memorial Park",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.28904,
+      "lon": 36.82696,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "price": "Ksh 30",
+      "url": "http://memorialparkkenya.org/",
+      "id": "kenya-e058302bc06b46da980a"
+    },
+    {
+      "name": "Westlands by night",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.26333,
+      "lon": 36.80186,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "id": "kenya-097fdea356c49d906bc8"
+    },
+    {
+      "name": "UN Office at Nairobi",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.23466,
+      "lon": 36.8165,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "United Nations Ave",
+      "url": "https://kenya.un.org/en/about/about-the-un",
+      "id": "kenya-090eb1d657798706fba7"
+    },
+    {
+      "name": "Nairobi Mamba Village",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.33354,
+      "lon": 36.75044,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "The Mamba Village, Langata N Rd",
+      "url": "https://mambavillagecentre.co.ke/",
+      "id": "kenya-1cdb5e507f3b134d8e0a"
+    },
+    {
+      "name": "Nairobi National Museum",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.273954,
+      "lon": 36.814584,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Museum Hill",
+      "price": "Adults: Kenyan citizens Ksh 200, East African residents Ksh 600, non-residents Ksh 1200",
+      "url": "http://www.museums.or.ke/",
+      "id": "kenya-c3ac90761655efaf3618"
+    },
+    {
+      "name": "National Railway Museum",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.29321,
+      "lon": 36.8249,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "price": "Adults: Kenyan citizens Ksh 200, East African residents Ksh 500, non-residents Ksh 600",
+      "url": "https://facebook.com/nrailwaymuseum/",
+      "id": "kenya-761cf28fa0f73a1dcdd5"
+    },
+    {
+      "name": "Nairobi Gallery",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.2867,
+      "lon": 36.8179,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "P.O. Box 40658-00100",
+      "url": "http://www.museums.or.ke/nairobi-gallery/",
+      "id": "kenya-dd8f7b23b7cd6bf010f3"
+    },
+    {
+      "name": "Karen Blixen Museum",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.35181,
+      "lon": 36.712114,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "P.O. Box 40658-00100",
+      "url": "http://www.museums.or.ke/karen-blixen/",
+      "id": "kenya-0892b5bd08a0f5d1c596"
+    },
+    {
+      "name": "Bomas of Kenya",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.336762,
+      "lon": 36.769449,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Langata/Forest Edge Road",
+      "url": "https://bomasofkenya.go.ke/",
+      "id": "kenya-039ba11e1498b7788a2d"
+    },
+    {
+      "name": "Nairobi National Park",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.3536,
+      "lon": 36.8224,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "url": "http://www.kws.go.ke/parks/nairobi-national-park",
+      "id": "kenya-bc83f2d152bc7a6d227a"
+    },
+    {
+      "name": "Sheldrick Elephant Orphanage",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.33711,
+      "lon": 36.78001,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "url": "http://www.sheldrickwildlifetrust.org/",
+      "id": "kenya-58b4dcf8af0163dc9cd3"
+    },
+    {
+      "name": "Giraffe Centre",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.37655,
+      "lon": 36.74455,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "price": "Ksh 1500/750 for non-resident adults/children",
+      "url": "https://www.giraffecentre.org/",
+      "id": "kenya-95ec40039fdd674257d5"
+    },
+    {
+      "name": "Uhuru Park",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.28841,
+      "lon": 36.81717,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "price": "free",
+      "id": "kenya-45913dc60e46854b1ad9"
+    },
+    {
+      "name": "Uhuru Gardens",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.325139,
+      "lon": 36.798472,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Langata Road",
+      "url": "https://sportsheritage.go.ke/uhuru-gardens/",
+      "id": "kenya-38213760a46ba750ba94"
+    },
+    {
+      "name": "Arboretum Park",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.2781,
+      "lon": 36.8028,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "id": "kenya-5492f4c6899705c0387a"
+    },
+    {
+      "name": "Karura Forest",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.24,
+      "lon": 36.834,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "price": "Ksh 600 for non-residents",
+      "id": "kenya-2f49a144fbfc4c85afc6"
+    },
+    {
+      "name": "City Park",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.2624,
+      "lon": 36.8257,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "url": "http://www.jambonairobi.co.ke/activities/picnic/nairobi-city-park/",
+      "id": "kenya-7079ad00d555dc9c75dc"
+    },
+    {
+      "name": "Jamia Mosque",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.28337,
+      "lon": 36.8207,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "url": "https://www.facebook.com/JamiaMosqueNairobi",
+      "id": "kenya-e017cb11dc2c6d597fd7"
+    },
+    {
+      "name": "All Saints' Cathedral",
+      "kind": "do",
+      "locality": "Nairobi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "id": "kenya-38688b57cd2a4e317f4f"
+    },
+    {
+      "name": "Cathedral Basilica of the Holy Family",
+      "kind": "do",
+      "locality": "Nairobi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "id": "kenya-1a3f7c9edbb6836cb000"
+    },
+    {
+      "name": "Khoja Mosque",
+      "kind": "do",
+      "locality": "Nairobi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "id": "kenya-5f5613804a596d88b6e2"
+    },
+    {
+      "name": "Nairobi Synagogue",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.2805,
+      "lon": 36.8151,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "url": "https://www.nairobisynagogue.org/",
+      "id": "kenya-6f4fc74f020785beb8ac"
+    },
+    {
+      "name": "Ol Donyo Sabuk National Park",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.138769,
+      "lon": 37.263694,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "url": "https://www.kws.go.ke/ol-donyo-sabuk-national-park",
+      "id": "kenya-7d95e176a1b10245bcc9"
+    },
+    {
+      "name": "Tana River",
+      "kind": "do",
+      "locality": "Nairobi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "id": "kenya-1736ce58c6e476c4f9f7"
+    },
+    {
+      "name": "Kiambethu Tea Farm, Limuru",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.1239,
+      "lon": 36.6882,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "url": "http://www.kiambethufarm.com/",
+      "id": "kenya-fe4c987029a8fdc32794"
+    },
+    {
+      "name": "14 Falls at Thika",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.0799,
+      "lon": 37.2465,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "price": "Entrance fees for 14 Falls are: US$15 per person, US$5 parking, US$5 per camera",
+      "id": "kenya-01b92e2ffecb727f583e"
+    },
+    {
+      "name": "Kitangela Glass",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.393,
+      "lon": 36.8177,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "url": "https://www.kitengela.glass/",
+      "id": "kenya-9fcbf2af32d1027bfd35"
+    },
+    {
+      "name": "Kereita Forest zip line",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -0.9804,
+      "lon": 36.6575,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "url": "http://theforest.co.ke/",
+      "id": "kenya-ec64eca76ca2e6d952a4"
+    },
+    {
+      "name": "The Anti-Gravity Hill (Kituluni Hill)",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.426,
+      "lon": 37.2403,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "id": "kenya-3c9cc60be383270907b6"
+    },
+    {
+      "name": "Swara Plains Conservancy",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.478,
+      "lon": 37.083,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "id": "kenya-ea1f5888ac616da5964d"
+    },
+    {
+      "name": "Olorgesailie pre-historic site",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.8926,
+      "lon": 36.2895,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "url": "https://museums.or.ke/olorgesailie/",
+      "id": "kenya-270d26938daf6e52bf6f"
+    },
+    {
+      "name": "Lake Magadi",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.897,
+      "lon": 36.297,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "url": "https://pages.mtu.edu/~alguth/Magadi_Project/The_Magadi_Project.html",
+      "id": "kenya-df218265ab43c304b1b0"
+    },
+    {
+      "name": "Hells Gate National Park",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -0.915833,
+      "lon": 36.313333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "url": "https://hellsgatepark.org/",
+      "id": "kenya-38d999a00032b5484eee"
+    },
+    {
+      "name": "Go-Down Arts Centre",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.30334,
+      "lon": 36.83164,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "id": "kenya-88bac720b82c2c40abf7"
+    },
+    {
+      "name": "Kazuri Beads shop",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.338916,
+      "lon": 36.735973,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "id": "kenya-b71d58b2de2c3fdd1f2d"
+    },
+    {
+      "name": "Village Market",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.2614,
+      "lon": 36.8265,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "id": "kenya-5f16c266148a48e3fef9"
+    },
+    {
+      "name": "Try excellent food",
+      "kind": "do",
+      "locality": "Nairobi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "id": "kenya-5ad90d1194e92dcdab59"
+    },
+    {
+      "name": "Nightlife",
+      "kind": "do",
+      "locality": "Nairobi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "id": "kenya-f9cb9d2231039bd618d2"
+    },
+    {
+      "name": "Oloo’s Children Center (OCC)",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.31483,
+      "lon": 36.78416,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "id": "kenya-6b4513f4d9cb413f9586"
+    },
+    {
+      "name": "Ice-skating",
+      "kind": "do",
+      "locality": "Nairobi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "id": "kenya-1afe91810f91d19dab48"
+    },
+    {
+      "name": "Ngong Racecourse",
+      "kind": "do",
+      "locality": "Nairobi",
+      "lat": -1.3098,
+      "lon": 36.7449,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "id": "kenya-85ba4a6f4a029eb6a736"
+    },
+    {
+      "name": "Hot dishes",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "lat": -1.282909,
+      "lon": 36.827258,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "price": "Mains Ksh 180-450 ksh",
+      "url": "http://www.hotdishes.co.ke/",
+      "id": "kenya-c2112cafdcf91b6d63c7"
+    },
+    {
+      "name": "KK Restaurant",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "lat": -1.28603,
+      "lon": 36.81992,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Koinange Street and Standard Street",
+      "id": "kenya-74e2ea9b0407c74a997a"
+    },
+    {
+      "name": "Roast House",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "lat": -1.28092,
+      "lon": 36.82313,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Ngariama Lane",
+      "id": "kenya-e84616de5bc6431651fd"
+    },
+    {
+      "name": "Habesha",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "lat": -1.29236,
+      "lon": 36.77991,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Arwings Kodek Road",
+      "price": "around Ksh 1000",
+      "url": "https://habesharestaurant.co.ke/",
+      "id": "kenya-e94a6f98faf722534a60"
+    },
+    {
+      "name": "Red Sea",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "lat": -1.26677,
+      "lon": 36.83667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Mbono Road",
+      "id": "kenya-7cc9c377334d1ba97448"
+    },
+    {
+      "name": "Abyssinia Exotic Ethiopian Restaurant",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "lat": -1.25818,
+      "lon": 36.78705,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Muguga Green, Off Brookside Grove, Off Waiyaki Way",
+      "price": "Mains from Ksh 500-800",
+      "url": "http://www.abyssiniarestaurantnairobi.com/",
+      "id": "kenya-8853fd2dee83fdb95bfc"
+    },
+    {
+      "name": "Java House",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "price": "Ksh 500-750 for a complete meal.",
+      "url": "https://javahouseafrica.com/",
+      "id": "kenya-560c8e0d34c35aa65f6a"
+    },
+    {
+      "name": "Trattoria",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "lat": -1.28533,
+      "lon": 36.82217,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Town house, Kaunda Street",
+      "id": "kenya-05f94b31bd2517ef2d23"
+    },
+    {
+      "name": "Motherland",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "lat": -1.28284,
+      "lon": 36.82989,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Charles Rubia Road",
+      "id": "kenya-30696ecee90a40f7514f"
+    },
+    {
+      "name": "Havana Bar",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "lat": -1.2641,
+      "lon": 36.80444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Woodvale Grove, Westlands",
+      "url": "https://m.facebook.com/HavanaBarNairobi/",
+      "id": "kenya-969f802d742075941ff5"
+    },
+    {
+      "name": "Village Market Food Court",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "lat": -1.22897,
+      "lon": 36.80488,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "id": "kenya-b5371de57b5bfb8c3edf"
+    },
+    {
+      "name": "The Carnivore",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "lat": -1.3289,
+      "lon": 36.8008,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Langata Link Road",
+      "url": "https://tamarind.co.ke/",
+      "id": "kenya-3643cce33379a06e06b7"
+    },
+    {
+      "name": "Furusato",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "lat": -1.25596,
+      "lon": 36.80684,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Ring Rd Parklands",
+      "url": "https://furusatorestaurant.com/",
+      "id": "kenya-babce03054207a54ae76"
+    },
+    {
+      "name": "The Lord Errol",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "lat": -1.22173,
+      "lon": 36.81376,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "89 Ruaka Road",
+      "url": "https://www.lord-erroll.com/",
+      "id": "kenya-08bda48f10a3d0ec1fcc"
+    },
+    {
+      "name": "Palacina Bistro",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "lat": -1.28334,
+      "lon": 36.79235,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Kitale Lane",
+      "id": "kenya-a3e784a5c7c8b3a5bee6"
+    },
+    {
+      "name": "Alan Bobbe's Bistro",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "lat": -1.26414,
+      "lon": 36.78119,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Rhapta Road",
+      "id": "kenya-e1b0996ad1ddfb24bb69"
+    },
+    {
+      "name": "Le Palanka Pan",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "lat": -1.2861,
+      "lon": 36.7626,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "46 Gitanga Road",
+      "id": "kenya-13a5116fb46dd4fd243c"
+    },
+    {
+      "name": "Seven Seafood & Grill",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "lat": -1.25994,
+      "lon": 36.77633,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "ABC Place",
+      "price": "Ksh 2000",
+      "url": "https://www.experienceseven.com/",
+      "id": "kenya-4932e755b8db447f40e5"
+    },
+    {
+      "name": "New Florida Clubs (F1)",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "lat": -1.28529,
+      "lon": 36.81917,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Kenyatta Avenue/Koinage Street",
+      "id": "kenya-05bd804bd33cf7f4376f"
+    },
+    {
+      "name": "Pango (F3):",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "lat": -1.28747,
+      "lon": 36.82626,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Harambee Avenue",
+      "id": "kenya-9e4b351e99b1358b001e"
+    },
+    {
+      "name": "Shooters & Dips Cocktail Lounge",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "lat": -1.32874,
+      "lon": 36.85597,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Mombasa Road",
+      "price": "Ksh 250",
+      "url": "http://www.panarihotels.com/",
+      "id": "kenya-065ba3cd29a351278f4b"
+    },
+    {
+      "name": "Mercury Lounge ABC",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "lat": -1.25986,
+      "lon": 36.77724,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "ABC Place",
+      "id": "kenya-c3b677db111e73b74808"
+    },
+    {
+      "name": "Klub House 1 (K1)",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "lat": -1.26853,
+      "lon": 36.81184,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Ojijo Road",
+      "url": "https://www.kahamagroup.com/k1klubhouse",
+      "id": "kenya-bc6e566a36f1f415739a"
+    },
+    {
+      "name": "Choices Lounge and Restaurant",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "lat": -1.31715,
+      "lon": 36.71834,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Karen Road",
+      "id": "kenya-14430a92dadddc0583a3"
+    },
+    {
+      "name": "Black Diamond",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "lat": -1.23766,
+      "lon": 36.9166,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "id": "kenya-ece99f8790bd716c02ce"
+    },
+    {
+      "name": "Havana:",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "lat": -1.26429,
+      "lon": 36.80448,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "33 Woodvale Grove",
+      "id": "kenya-6b8d529c1bd90ded9bec"
+    },
+    {
+      "name": "Cockpit",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "lat": -1.4078,
+      "lon": 36.838,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "id": "kenya-33ff2987d50d2c885c0a"
+    },
+    {
+      "name": "Club LA",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "lat": -1.28718,
+      "lon": 36.82748,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Tom Mboya Street",
+      "url": "https://www.facebook.com/pages/Club-LA/1809975822600055",
+      "id": "kenya-fbfaffba0c9ee16f2d90"
+    },
+    {
+      "name": "Santuri Salon Spotlight Sessions",
+      "kind": "eat",
+      "locality": "Nairobi",
+      "lat": -1.26455,
+      "lon": 36.80272,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Ring Road Parklands",
+      "url": "https://santuri.org/Santuri-Salon",
+      "id": "kenya-c3acbd08fd65be3c891b"
+    },
+    {
+      "name": "Milimani Backpackers & Safari Centre",
+      "kind": "stay",
+      "locality": "Nairobi",
+      "lat": -1.3034,
+      "lon": 36.8165,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Oldeani Crescent",
+      "url": "http://www.milimanibackpackers.com/",
+      "id": "kenya-0d74ab558f6128843fe0"
+    },
+    {
+      "name": "Manyatta Backpackers",
+      "kind": "stay",
+      "locality": "Nairobi",
+      "lat": -1.2891,
+      "lon": 36.8027,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Milimani Road",
+      "id": "kenya-ad9b63cabc315e62e808"
+    },
+    {
+      "name": "Destiny Hotel",
+      "kind": "stay",
+      "locality": "Nairobi",
+      "lat": 1.28164,
+      "lon": 36.82715,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Duruma Road",
+      "id": "kenya-04d2555e4cead0f160ae"
+    },
+    {
+      "name": "Jungle Junction campground",
+      "kind": "stay",
+      "locality": "Nairobi",
+      "lat": -1.3626,
+      "lon": 36.7398,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Karen Kongoni Road.",
+      "id": "kenya-51684bf43a43a6b283ed"
+    },
+    {
+      "name": "Mad Vervet Backpackers Hostel",
+      "kind": "stay",
+      "locality": "Nairobi",
+      "lat": -1.2874,
+      "lon": 36.7604,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "55 Chalbi Dive House number A3",
+      "id": "kenya-5939af25737b0b498725"
+    },
+    {
+      "name": "Inks hotel",
+      "kind": "stay",
+      "locality": "Nairobi",
+      "lat": -1.28153,
+      "lon": 36.82546,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Latema Junction River Road CBD",
+      "id": "kenya-f7c23f0a5ffed3c44893"
+    },
+    {
+      "name": "Hotel Africana",
+      "kind": "stay",
+      "locality": "Nairobi",
+      "lat": 1.2826,
+      "lon": 36.8264,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Dubois Rd",
+      "id": "kenya-88c16930f208a3439f9c"
+    },
+    {
+      "name": "Olive Gardens Hotel",
+      "kind": "stay",
+      "locality": "Nairobi",
+      "lat": -1.2945,
+      "lon": 36.7959,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Argwings Kodhek Rd, Hurlingham",
+      "url": "http://www.theolivegardens.com/",
+      "id": "kenya-fb06c281bcfc09cb1c60"
+    },
+    {
+      "name": "Ole-Sereni Hotel",
+      "kind": "stay",
+      "locality": "Nairobi",
+      "lat": -1.326888,
+      "lon": 36.845956,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Mombasa Rd",
+      "url": "http://www.sarovarhotels.com/",
+      "id": "kenya-8972d080e8f442593021"
+    },
+    {
+      "name": "Savannah Sands Executive Apartments.",
+      "kind": "stay",
+      "locality": "Nairobi",
+      "lat": -1.29746,
+      "lon": 36.80022,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Off Ngong Road",
+      "url": "http://savannahsands.co.ke/",
+      "id": "kenya-540da305b631ac749ed7"
+    },
+    {
+      "name": "DusitD2",
+      "kind": "stay",
+      "locality": "Nairobi",
+      "lat": -1.2701,
+      "lon": 36.8033,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "14 Riverside Drive, Riverside Woods",
+      "url": "http://d2nairobi.com/",
+      "id": "kenya-c4dd73f50138062c78e9"
+    },
+    {
+      "name": "Fairview Hotel Nairobi, Vignette Collection by IHG",
+      "kind": "stay",
+      "locality": "Nairobi",
+      "lat": -1.2915,
+      "lon": 36.8101,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Bishop Road",
+      "url": "https://www.ihg.com/vignettecollection/hotels/us/en/nairobi/nbofn/hoteldetail",
+      "id": "kenya-0995d8b1afc8b7d4cd2d"
+    },
+    {
+      "name": "Southern Sun Mayfair Nairobi",
+      "kind": "stay",
+      "locality": "Nairobi",
+      "lat": -1.2631467,
+      "lon": 36.8060157,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Parklands Rd",
+      "url": "https://www.tsogosun.com/southern-sun-mayfair-nairobi",
+      "id": "kenya-f2b13d432ff931ddd5a5"
+    },
+    {
+      "name": "Nairobi Serena Hotel",
+      "kind": "stay",
+      "locality": "Nairobi",
+      "lat": -1.2870297,
+      "lon": 36.8123345,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Kenyatta Ave",
+      "url": "https://www.serenahotels.com/serenanairobi/en/default.html",
+      "id": "kenya-99c692dfd83d74bc6888"
+    },
+    {
+      "name": "Fairmont The Norfolk Hotel",
+      "kind": "stay",
+      "locality": "Nairobi",
+      "lat": -1.278394,
+      "lon": 36.816362,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Harry Thuku Road",
+      "url": "https://www.fairmont.com/norfolk-hotel-nairobi/",
+      "id": "kenya-8b2af86ace0a1c77ab63"
+    },
+    {
+      "name": "Safari Park Hotel & Casino",
+      "kind": "stay",
+      "locality": "Nairobi",
+      "lat": -1.2252675,
+      "lon": 36.8836019,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Thika Rd",
+      "url": "https://www.safaripark-hotel.com/",
+      "id": "kenya-d90705eceb049b0cc61d"
+    },
+    {
+      "name": "Sarova Stanley",
+      "kind": "stay",
+      "locality": "Nairobi",
+      "lat": -1.283889,
+      "lon": 36.821944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Kenyatta Avenue / Kimathi Street",
+      "url": "https://www.sarovahotels.com/stanley-nairobi/",
+      "id": "kenya-c7d515136c83f5c21f84"
+    },
+    {
+      "name": "Windsor Golf Hotel & Country Club",
+      "kind": "stay",
+      "locality": "Nairobi",
+      "lat": -1.209996,
+      "lon": 36.8490203,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Kigwa Ln",
+      "url": "https://www.windsorgolfresort.com/",
+      "id": "kenya-22722a6ced543ae5b159"
+    },
+    {
+      "name": "The King Post",
+      "kind": "stay",
+      "locality": "Nairobi",
+      "lat": -1.26329,
+      "lon": 36.78482,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Rhapta Road, Westlands",
+      "url": "https://thekingpost.co.ke/",
+      "id": "kenya-9e5ff4ac669dd5246d87"
+    },
+    {
+      "name": "Giraffe Manor",
+      "kind": "stay",
+      "locality": "Nairobi",
+      "lat": -1.3756,
+      "lon": 36.7447,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Gogo Falls Road",
+      "url": "https://www.thesafaricollection.com/properties/giraffe-manor/",
+      "id": "kenya-f77caf2629fb2d976062"
+    },
+    {
+      "name": "Ngong House",
+      "kind": "stay",
+      "locality": "Nairobi",
+      "lat": -1.36992,
+      "lon": 36.75052,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "114 Ndovu Road",
+      "url": "http://www.ngonghouse.com/",
+      "id": "kenya-60af165d9720b7a591e7"
+    },
+    {
+      "name": "Sankara Hotel",
+      "kind": "stay",
+      "locality": "Nairobi",
+      "lat": -1.2628,
+      "lon": 36.8023,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "5 Woodvale Grove, Nairobi, Kenia",
+      "url": "http://www.sankara.com/",
+      "id": "kenya-f0900b2d9b88d26a1408"
+    },
+    {
+      "name": "Mövenpick Hotel & Residences Nairobi",
+      "kind": "stay",
+      "locality": "Nairobi",
+      "lat": -1.2610742,
+      "lon": 36.8047457,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "Mkungu Close, Westlands",
+      "price": "€148-341",
+      "url": "https://www.movenpick.com/en/africa/kenya/nairobi/hotel-residences-nairobi/overview/",
+      "id": "kenya-c50d0304a587040a367c"
+    },
+    {
+      "name": "Palacina Hotel",
+      "kind": "stay",
+      "locality": "Nairobi",
+      "lat": -1.283,
+      "lon": 36.79263,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "address": "State House Area, Kitale Lane, Off Dennis Pritt Road",
+      "url": "https://www.palacina.com/",
+      "id": "kenya-91fb32fd12518703b96b"
+    },
+    {
+      "name": "Nairobi",
+      "kind": "area",
+      "locality": "Nairobi",
+      "lat": -1.2833,
+      "lon": 36.8167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nairobi",
+      "id": "kenya-7f3407771fb03de9e60f"
+    },
+    {
+      "name": "Game viewing",
+      "kind": "do",
+      "locality": "Maasai Mara National Reserve",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maasai_Mara_National_Reserve",
+      "id": "kenya-c468cca3b1885fe6ab8a"
+    },
+    {
+      "name": "Wellness",
+      "kind": "do",
+      "locality": "Maasai Mara National Reserve",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maasai_Mara_National_Reserve",
+      "id": "kenya-a5d027e2cf66a7672ae2"
+    },
+    {
+      "name": "Maasai Village Visit",
+      "kind": "do",
+      "locality": "Maasai Mara National Reserve",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maasai_Mara_National_Reserve",
+      "id": "kenya-4ced02f3e33ccc8fd030"
+    },
+    {
+      "name": "David Livingstone Safari Resort",
+      "kind": "stay",
+      "locality": "Maasai Mara National Reserve",
+      "lat": -1.14,
+      "lon": 35.14,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maasai_Mara_National_Reserve",
+      "id": "kenya-a149474a7d982bc8f34c"
+    },
+    {
+      "name": "Keekorok Lodge",
+      "kind": "stay",
+      "locality": "Maasai Mara National Reserve",
+      "lat": -1.5892,
+      "lon": 35.236,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maasai_Mara_National_Reserve",
+      "id": "kenya-0c94e3038bbdc23dc0b7"
+    },
+    {
+      "name": "Neo Classic camps Maasai Mara",
+      "kind": "stay",
+      "locality": "Maasai Mara National Reserve",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maasai_Mara_National_Reserve",
+      "address": "55950",
+      "price": "200",
+      "id": "kenya-eea3f1336993ab849eb4"
+    },
+    {
+      "name": "Mara Serena lodge",
+      "kind": "stay",
+      "locality": "Maasai Mara National Reserve",
+      "lat": -1.4025,
+      "lon": 35.02611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maasai_Mara_National_Reserve",
+      "url": "http://www.serenahotels.com/serenamara/default-en.html",
+      "id": "kenya-927c462cc6952c93c9cd"
+    },
+    {
+      "name": "Karen Blixen Camp",
+      "kind": "stay",
+      "locality": "Maasai Mara National Reserve",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maasai_Mara_National_Reserve",
+      "url": "http://www.karenblixencamp.com/",
+      "id": "kenya-848f0c9e9ccc5814d709"
+    },
+    {
+      "name": "Royal Mara Safari Lodge",
+      "kind": "stay",
+      "locality": "Maasai Mara National Reserve",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maasai_Mara_National_Reserve",
+      "url": "http://www.royalmara.com/",
+      "id": "kenya-9a5e5ef6c4722bceacb5"
+    },
+    {
+      "name": "Kensington Tented Camp",
+      "kind": "stay",
+      "locality": "Maasai Mara National Reserve",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maasai_Mara_National_Reserve",
+      "id": "kenya-5aef930505997fbd2fd2"
+    },
+    {
+      "name": "Kilima Camp",
+      "kind": "stay",
+      "locality": "Maasai Mara National Reserve",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maasai_Mara_National_Reserve",
+      "url": "http://www.kilimacamp.com/",
+      "id": "kenya-26eecd5002f9b30def67"
+    },
+    {
+      "name": "Ngerende Island Lodge",
+      "kind": "stay",
+      "locality": "Maasai Mara National Reserve",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maasai_Mara_National_Reserve",
+      "url": "http://www.ngerende.com/",
+      "id": "kenya-216bf94c9526bfbd7da8"
+    },
+    {
+      "name": "Mara Explorers",
+      "kind": "stay",
+      "locality": "Maasai Mara National Reserve",
+      "lat": -1.49275,
+      "lon": 35.36075,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maasai_Mara_National_Reserve",
+      "price": "US$16",
+      "url": "http://maraexplorers.com/",
+      "id": "kenya-5b48461e32eaa64f6ead"
+    },
+    {
+      "name": "Zebra Plains Mara Camp",
+      "kind": "stay",
+      "locality": "Maasai Mara National Reserve",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maasai_Mara_National_Reserve",
+      "url": "https://zebraplainscollection.com/mara-safaris/",
+      "id": "kenya-110dae7a7756726ecc5f"
+    },
+    {
+      "name": "Malaika Camp",
+      "kind": "stay",
+      "locality": "Maasai Mara National Reserve",
+      "lat": -1.412,
+      "lon": 35.048,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maasai_Mara_National_Reserve",
+      "url": "http://malaikacamp.com/?lang=en",
+      "id": "kenya-8b9560ea75b6e1a129a5"
+    },
+    {
+      "name": "Camp Oloshaiki",
+      "kind": "stay",
+      "locality": "Maasai Mara National Reserve",
+      "lat": -1.46,
+      "lon": 35.2202,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maasai_Mara_National_Reserve",
+      "url": "https://www.camp-oloshaiki-kenya.com/",
+      "id": "kenya-973a70e689e2dcb17912"
+    },
+    {
+      "name": "Aruba Mara Camp & Safaris",
+      "kind": "stay",
+      "locality": "Maasai Mara National Reserve",
+      "lat": -1.4413,
+      "lon": 35.2077,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maasai_Mara_National_Reserve",
+      "url": "http://www.aruba-safaris.com/",
+      "id": "kenya-3055342a8dc13e09bde2"
+    },
+    {
+      "name": "Mara Intrepids Tented Camp",
+      "kind": "stay",
+      "locality": "Maasai Mara National Reserve",
+      "lat": -1.4279,
+      "lon": 35.1646,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maasai_Mara_National_Reserve",
+      "url": "https://www.heritage-eastafrica.com/maraintrepids/hotel-overview.html",
+      "id": "kenya-354960d4b5ccfd10b310"
+    },
+    {
+      "name": "Mara Eden Safari Camp",
+      "kind": "stay",
+      "locality": "Maasai Mara National Reserve",
+      "lat": -1.416,
+      "lon": 35.051,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maasai_Mara_National_Reserve",
+      "url": "http://maraedensafaricamp.com/",
+      "id": "kenya-9f9d89e1965b382d3091"
+    },
+    {
+      "name": "Governors’ Camp",
+      "kind": "stay",
+      "locality": "Maasai Mara National Reserve",
+      "lat": -1.143,
+      "lon": 35.3213,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maasai_Mara_National_Reserve",
+      "url": "https://www.governorscamp.com/",
+      "id": "kenya-a5b81385d257aa045525"
+    },
+    {
+      "name": "Manyatta Camp",
+      "kind": "stay",
+      "locality": "Maasai Mara National Reserve",
+      "lat": -1.6134,
+      "lon": 35.38757,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maasai_Mara_National_Reserve",
+      "price": "Double US$120-180",
+      "url": "http://www.masaimaramanyattacamp.com/",
+      "id": "kenya-4a73183dbc55ec18d5f5"
+    },
+    {
+      "name": "Camping at Oloololo gate",
+      "kind": "stay",
+      "locality": "Maasai Mara National Reserve",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maasai_Mara_National_Reserve",
+      "id": "kenya-c7f4b420e7934a914d0f"
+    },
+    {
+      "name": "Camping at Serena Hotel",
+      "kind": "stay",
+      "locality": "Maasai Mara National Reserve",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maasai_Mara_National_Reserve",
+      "id": "kenya-57a064169f38e200aebd"
+    },
+    {
+      "name": "Camping at the river",
+      "kind": "stay",
+      "locality": "Maasai Mara National Reserve",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maasai_Mara_National_Reserve",
+      "id": "kenya-ffe3cf1758d1ef047ce7"
+    },
+    {
+      "name": "Aruba Mara Camp Site",
+      "kind": "stay",
+      "locality": "Maasai Mara National Reserve",
+      "lat": -1.443,
+      "lon": 35.2085,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maasai_Mara_National_Reserve",
+      "url": "http://www.aruba-safaris.com/gb/gbhome.php",
+      "id": "kenya-0a9d25985ba29848f48f"
+    },
+    {
+      "name": "Maasai Mara National Reserve",
+      "kind": "area",
+      "locality": "Maasai Mara National Reserve",
+      "lat": -1.4,
+      "lon": 35.143889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Maasai_Mara_National_Reserve",
+      "id": "kenya-49c1b0fd087c45628d13"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 3 distinct public Wikivoyage source pages; attempted 3 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Destination article routing (regional/landmark guides may use a nearby gateway): Maasai Mara → Maasai Mara National Reserve."
+}

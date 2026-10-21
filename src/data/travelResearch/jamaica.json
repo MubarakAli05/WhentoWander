@@ -1,0 +1,636 @@
+{
+  "sources": [
+    {
+      "title": "Jamaica",
+      "url": "https://en.wikivoyage.org/wiki/Jamaica",
+      "checkedAt": "2026-10-21T08:15:01.315Z"
+    },
+    {
+      "title": "Kingston (Jamaica)",
+      "url": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "checkedAt": "2026-10-21T08:15:05.516Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Kingston",
+      "kind": "area",
+      "locality": "Jamaica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jamaica",
+      "id": "jamaica-6dd15c766911d5c78293"
+    },
+    {
+      "name": "Montego Bay",
+      "kind": "area",
+      "locality": "Jamaica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jamaica",
+      "id": "jamaica-7282991dca6dcc207875"
+    },
+    {
+      "name": "Negril",
+      "kind": "area",
+      "locality": "Jamaica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jamaica",
+      "id": "jamaica-aef3852989dc9fcccd9a"
+    },
+    {
+      "name": "Portmore",
+      "kind": "area",
+      "locality": "Jamaica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jamaica",
+      "id": "jamaica-479c12bf9a697c504888"
+    },
+    {
+      "name": "Ocho Rios",
+      "kind": "area",
+      "locality": "Jamaica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jamaica",
+      "id": "jamaica-3cf070aac815d263780b"
+    },
+    {
+      "name": "Port Antonio",
+      "kind": "area",
+      "locality": "Jamaica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jamaica",
+      "id": "jamaica-d2210e81d29c344446f7"
+    },
+    {
+      "name": "Morant Bay",
+      "kind": "area",
+      "locality": "Jamaica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jamaica",
+      "id": "jamaica-a9c6ab40e91dc5c46617"
+    },
+    {
+      "name": "Falmouth",
+      "kind": "area",
+      "locality": "Jamaica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jamaica",
+      "id": "jamaica-491257c8e0f701ff2aa7"
+    },
+    {
+      "name": "Mandeville",
+      "kind": "area",
+      "locality": "Jamaica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jamaica",
+      "id": "jamaica-bb73e0ac2507b3eeb445"
+    },
+    {
+      "name": "Devon House",
+      "kind": "do",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.014033,
+      "lon": -76.789767,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "26 Hope Rd",
+      "price": "US$24 for a tour of the mansion. Entry to garden and shops is free",
+      "url": "https://www.devonhouseja.com/",
+      "id": "jamaica-a9ad1b15eb9705d17e74"
+    },
+    {
+      "name": "National Gallery of Jamaica",
+      "kind": "do",
+      "locality": "Kingston (Jamaica)",
+      "lat": 17.9648,
+      "lon": -76.7947,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "12 Ocean Blvd",
+      "price": "J$100, students and senior citizens over 65 may enter for J$50",
+      "url": "http://natgalja.org.jm/",
+      "id": "jamaica-0b1833c92b3b1160e58b"
+    },
+    {
+      "name": "Gordon House",
+      "kind": "do",
+      "locality": "Kingston (Jamaica)",
+      "lat": 17.97401,
+      "lon": -76.79054,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "81 Duke Street",
+      "url": "https://japarliament.gov.jm/",
+      "id": "jamaica-896b3ad2929c64ea8324"
+    },
+    {
+      "name": "Headquarter House",
+      "kind": "do",
+      "locality": "Kingston (Jamaica)",
+      "lat": 17.97368,
+      "lon": -76.79059,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "79 Duke Street",
+      "url": "http://jnht.com/index.php",
+      "id": "jamaica-a007f3f9bfc2b6741c14"
+    },
+    {
+      "name": "Ward Theatre",
+      "kind": "do",
+      "locality": "Kingston (Jamaica)",
+      "lat": 17.97243,
+      "lon": -76.79236,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "url": "http://wardtheatrefoundation.com/",
+      "id": "jamaica-e045fb23a03599ef60db"
+    },
+    {
+      "name": "University of the West Indies (UWI)",
+      "kind": "do",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.0058,
+      "lon": -76.7467,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "url": "http://www.uwi.edu/",
+      "id": "jamaica-d5fd2c89ec7983a53def"
+    },
+    {
+      "name": "Rock Fort",
+      "kind": "do",
+      "locality": "Kingston (Jamaica)",
+      "lat": 17.9666,
+      "lon": -76.7351,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "id": "jamaica-7fbd28ff899594b0ca9f"
+    },
+    {
+      "name": "Bob Marley Museum",
+      "kind": "do",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.019615,
+      "lon": -76.779832,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "56 Hope Rd",
+      "price": "residents J$500, non-residents US$25 (credit cards accepted)",
+      "url": "http://www.bobmarleymuseum.com/",
+      "id": "jamaica-7da92024f9cffd15a45a"
+    },
+    {
+      "name": "Currency Museum",
+      "kind": "do",
+      "locality": "Kingston (Jamaica)",
+      "lat": 17.9645,
+      "lon": -76.7908,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "Ocean Boulevard",
+      "url": "http://boj.org.jm/currency/currency_museum.php",
+      "id": "jamaica-5202a7ee562c9ee2fe73"
+    },
+    {
+      "name": "Arawak Museum",
+      "kind": "do",
+      "locality": "Kingston (Jamaica)",
+      "lat": 17.997785,
+      "lon": -76.911122,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "White Marl, Central Village",
+      "id": "jamaica-f837730f3be3ebcb2b32"
+    },
+    {
+      "name": "Trenchtown Culture Yard Museum",
+      "kind": "do",
+      "locality": "Kingston (Jamaica)",
+      "lat": 17.9816,
+      "lon": -76.8054,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "6 & 8 1st St",
+      "url": "https://www.ttcultureyard.com/visit",
+      "id": "jamaica-313b247640083e376c9f"
+    },
+    {
+      "name": "National Heroes Park",
+      "kind": "do",
+      "locality": "Kingston (Jamaica)",
+      "lat": 17.9831,
+      "lon": -76.7886,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "id": "jamaica-3416d81c765775287d74"
+    },
+    {
+      "name": "William Grant Park",
+      "kind": "do",
+      "locality": "Kingston (Jamaica)",
+      "lat": 17.9713,
+      "lon": -76.7928,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "url": "http://homeandabroad.com/",
+      "id": "jamaica-6d145cdce78e0861f05a"
+    },
+    {
+      "name": "Hope Botanical Gardens",
+      "kind": "do",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.0225,
+      "lon": -76.7493,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "price": "Free",
+      "id": "jamaica-4b9fb601b255d635a26d"
+    },
+    {
+      "name": "Hope Zoo",
+      "kind": "do",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.024653,
+      "lon": -76.747334,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "price": "J$1500 adults, J$1000 children",
+      "url": "http://hopezookingston.com/",
+      "id": "jamaica-86ada3bf419ba3aa9d60"
+    },
+    {
+      "name": "Emancipation Park",
+      "kind": "do",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.00281,
+      "lon": -76.78968,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "id": "jamaica-87462ea5dd6e8b714d28"
+    },
+    {
+      "name": "Lime Cay",
+      "kind": "do",
+      "locality": "Kingston (Jamaica)",
+      "lat": 17.918433,
+      "lon": -76.819989,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "id": "jamaica-77904d494dbfb5f7cda7"
+    },
+    {
+      "name": "Port Royal",
+      "kind": "do",
+      "locality": "Kingston (Jamaica)",
+      "lat": 17.936767,
+      "lon": -76.841104,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "id": "jamaica-a7133cb7a1278572ba48"
+    },
+    {
+      "name": "Spartan Health Club",
+      "kind": "do",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.00389,
+      "lon": -76.7805,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "9 Lady Musgrave Road, New Kingston",
+      "url": "http://www.spartanhealthclub.com/",
+      "id": "jamaica-b31fe427423a277ddce7"
+    },
+    {
+      "name": "Constant Spring Golf Club",
+      "kind": "do",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.0461,
+      "lon": -76.7925,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "192 Constant Spring Road",
+      "price": "Green fee US$35, caddy US$9",
+      "url": "https://www.facebook.com/constantspringgolfclub/",
+      "id": "jamaica-0c21792346242eb9e0f7"
+    },
+    {
+      "name": "Royal Jamaican Yacht Club",
+      "kind": "do",
+      "locality": "Kingston (Jamaica)",
+      "lat": 17.9461,
+      "lon": -76.7715,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "Palisadoes Park",
+      "url": "http://www.rjyc.org.jm/",
+      "id": "jamaica-abd1535007e07a360829"
+    },
+    {
+      "name": "The National Stadium",
+      "kind": "do",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.0015,
+      "lon": -76.7724,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "Arthur Wint Drive",
+      "url": "http://worldstadiums.com/",
+      "id": "jamaica-ba3dac016f7bc3c70846"
+    },
+    {
+      "name": "Sabina Park",
+      "kind": "do",
+      "locality": "Kingston (Jamaica)",
+      "lat": 17.9778,
+      "lon": -76.7826,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "South Camp Road",
+      "url": "http://www.sabinapark.com/",
+      "id": "jamaica-36e69286bf5f3383ea7b"
+    },
+    {
+      "name": "The Little Theatre",
+      "kind": "do",
+      "locality": "Kingston (Jamaica)",
+      "lat": 17.9963,
+      "lon": -76.7818,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "Tom Redcam Drive, Cross Roads",
+      "url": "http://www.ltmpantomime.com/pages/littletheatre.html",
+      "id": "jamaica-da5780afd6c30ffc123d"
+    },
+    {
+      "name": "Ward Theatre",
+      "kind": "do",
+      "locality": "Kingston (Jamaica)",
+      "lat": 17.97241,
+      "lon": -76.79234,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "North Parade, Downtown",
+      "id": "jamaica-196a7430415b1d045336"
+    },
+    {
+      "name": "Chilito's",
+      "kind": "eat",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.0214,
+      "lon": -76.7727,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "88 Hope Road",
+      "price": "around US$10",
+      "url": "https://www.facebook.com/ChilitosJaMexican/",
+      "id": "jamaica-420fc8b725b388475399"
+    },
+    {
+      "name": "China Garden",
+      "kind": "eat",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.00597,
+      "lon": -76.78836,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "6 Dominica Drive, New Kingston",
+      "price": "around US$10",
+      "url": "https://www.chinagardenjamaica.com/",
+      "id": "jamaica-23ae4e6aa899deed26ed"
+    },
+    {
+      "name": "Stanford & Earl's Juice Garden",
+      "kind": "eat",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.021,
+      "lon": -76.7974,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "Haining Road, New Kingston",
+      "price": "up to US$10",
+      "url": "http://jamcl.com/cls/stanford-earls-juice-garden/",
+      "id": "jamaica-012090cbc44a2ceaa493"
+    },
+    {
+      "name": "Bamboo Village, The Village Plaza",
+      "kind": "eat",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.0336,
+      "lon": -76.7953,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "Constant Spring Road",
+      "price": "US$10-15",
+      "id": "jamaica-f285b4d970051554f075"
+    },
+    {
+      "name": "Dragon Court, Dragon Centre",
+      "kind": "eat",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.01799,
+      "lon": -76.7947,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "10 South Avenue, Half-Way-Tree",
+      "price": "US$10-15",
+      "id": "jamaica-637259fae143f2fd1687"
+    },
+    {
+      "name": "Golden Bowl",
+      "kind": "eat",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.0061,
+      "lon": -76.7969,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "7 Cargill Avenue, Half-Way-Tree",
+      "price": "US$10-15",
+      "url": "http://www.goldenbowlrestaurantja.com/",
+      "id": "jamaica-2f2ebce58597431f85fb"
+    },
+    {
+      "name": "One Love Cafe",
+      "kind": "eat",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.0199,
+      "lon": -76.7796,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "Hope Road",
+      "price": "US$10-15",
+      "url": "https://www.bobmarleymuseum.com/one-love-cafe/",
+      "id": "jamaica-e89ef9caaeb647b46164"
+    },
+    {
+      "name": "Redbones Blues Cafe",
+      "kind": "eat",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.0103,
+      "lon": -76.7894,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "1 Argyle Road, Kingston 10",
+      "url": "http://www.redbonesbluescafe.com/",
+      "id": "jamaica-ad2690f2de006a3ff0cb"
+    },
+    {
+      "name": "Norma's on the Terrace",
+      "kind": "eat",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.0206,
+      "lon": -76.7759,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "Devon House",
+      "id": "jamaica-b7075019546cee8866c7"
+    },
+    {
+      "name": "White Bones Seafood",
+      "kind": "eat",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.0366,
+      "lon": -76.7979,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "1 Mannings Hill Rd",
+      "price": "J$3,000",
+      "url": "https://whitebonesseafood.business.site/",
+      "id": "jamaica-3aadbbe79a20b2ef7db5"
+    },
+    {
+      "name": "Noodles by East Japanese",
+      "kind": "eat",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.02213,
+      "lon": -76.79745,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "67 Constant Spring Road",
+      "id": "jamaica-03cdbeb0a556b430df01"
+    },
+    {
+      "name": "Rib Kage Bar & Grill",
+      "kind": "eat",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.02233,
+      "lon": -76.76533,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "29 Barbican Road",
+      "id": "jamaica-cde07ed364ecfbf086e2"
+    },
+    {
+      "name": "The Deck",
+      "kind": "eat",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.00831,
+      "lon": -76.78136,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "14 Trafalgar Rd, New Kingston",
+      "url": "https://www.facebook.com/TheDeckJa/",
+      "id": "jamaica-f7f79fa226e2f8b7b513"
+    },
+    {
+      "name": "Mingles Bar and Lounge",
+      "kind": "eat",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.0039,
+      "lon": -76.78751,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "85 Knutsford Boulevard, New Kingston",
+      "url": "https://www.courtleigh.com/dining/mingles-bar-lounge",
+      "id": "jamaica-643b445e9c768745d7fe"
+    },
+    {
+      "name": "The Liguanea Club",
+      "kind": "stay",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.00475,
+      "lon": -76.78849,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "Knutsford Boulevard, New Kingston",
+      "price": "From US$75",
+      "url": "http://www.theliguaneaclub.com/",
+      "id": "jamaica-9903ebf4807b653ceef4"
+    },
+    {
+      "name": "Indies Hotel",
+      "kind": "stay",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.00979,
+      "lon": -76.79033,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "5 Holborn Rd, Kingston 10",
+      "url": "http://www.indieshotel.com/",
+      "id": "jamaica-843d9204f47ca9fdc98d"
+    },
+    {
+      "name": "Altamont Court Hotel",
+      "kind": "stay",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.00295,
+      "lon": -76.78678,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "1-5 Altamont Terrace, New Kingston",
+      "price": "US$110",
+      "url": "http://www.altamontcourt.com/index.php",
+      "id": "jamaica-8fb3dc2dd15c2fb6f482"
+    },
+    {
+      "name": "Christar Villas Hotel",
+      "kind": "stay",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.02063,
+      "lon": -76.77231,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "99a Hope Rd, Kingston 6",
+      "price": "US$115",
+      "id": "jamaica-9e1d8e5115196d6ebb7f"
+    },
+    {
+      "name": "Four Seasons Hotel",
+      "kind": "stay",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.00795,
+      "lon": -76.79432,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "18 Ruthven Road, New Kingston",
+      "url": "http://www.hotelfourseasonsjam.com/",
+      "id": "jamaica-31e3f2ec1d943937be2a"
+    },
+    {
+      "name": "Courtleigh Hotel & Suites",
+      "kind": "stay",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.00393,
+      "lon": -76.78734,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "85 Knutsford Boulevard, Kingston 5",
+      "url": "http://www.courtleigh.com/",
+      "id": "jamaica-47142e03e79c10f0c18f"
+    },
+    {
+      "name": "Wyndham Kingston",
+      "kind": "stay",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.00508,
+      "lon": -76.78725,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "77 Knutsford Boulevard",
+      "price": "US$89 and up",
+      "id": "jamaica-677f82faf5c068924f43"
+    },
+    {
+      "name": "The Knutsford Court Hotel",
+      "kind": "stay",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.0072,
+      "lon": -76.79263,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "16 Chelsea Ave, Kingston 5",
+      "url": "http://www.knutsfordcourt.com/",
+      "id": "jamaica-beef64e76ecdc19d51b3"
+    },
+    {
+      "name": "Spanish Court Hotel",
+      "kind": "stay",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.0081,
+      "lon": -76.78387,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "1 Saint Lucia Ave, Kingston 5",
+      "price": "US$140 + tax",
+      "url": "http://www.spanishcourthotel.com/",
+      "id": "jamaica-03bcb6ec438bbc69f191"
+    },
+    {
+      "name": "Pegasus",
+      "kind": "stay",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.00254,
+      "lon": -76.78793,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "81 Knutsford Blvd",
+      "price": "Rates quoted on the web site start at US$300 but significant discounts are available",
+      "url": "http://www.jamaicapegasus.com/",
+      "id": "jamaica-d5126cae8d770b80c71b"
+    },
+    {
+      "name": "Terra Nova Hotel",
+      "kind": "stay",
+      "locality": "Kingston (Jamaica)",
+      "lat": 18.01913,
+      "lon": -76.79253,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "address": "17 Waterloo Road, Kingston 10",
+      "price": "From US$200",
+      "url": "http://www.terranovajamaica.com/",
+      "id": "jamaica-1875d5002bd7a9fcfa22"
+    },
+    {
+      "name": "Kingston (Jamaica)",
+      "kind": "area",
+      "locality": "Kingston (Jamaica)",
+      "lat": 17.97097,
+      "lon": -76.788239,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kingston_(Jamaica)",
+      "id": "jamaica-7c19a514030bf797400d"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 3 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Title resolution: Kingston → Kingston (Jamaica) (linked by Jamaica)."
+}

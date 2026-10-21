@@ -1,0 +1,3868 @@
+{
+  "sources": [
+    {
+      "title": "Turkey",
+      "url": "https://en.wikivoyage.org/wiki/Turkey",
+      "checkedAt": "2026-10-21T08:00:24.852Z"
+    },
+    {
+      "title": "Ankara",
+      "url": "https://en.wikivoyage.org/wiki/Ankara",
+      "checkedAt": "2026-10-21T08:00:27.602Z"
+    },
+    {
+      "title": "Cappadocia",
+      "url": "https://en.wikivoyage.org/wiki/Cappadocia",
+      "checkedAt": "2026-10-21T08:00:30.219Z"
+    },
+    {
+      "title": "Istanbul",
+      "url": "https://en.wikivoyage.org/wiki/Istanbul",
+      "checkedAt": "2026-10-21T08:00:33.847Z"
+    },
+    {
+      "title": "Istanbul/Historical Peninsula",
+      "url": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "checkedAt": "2026-10-21T08:00:36.404Z"
+    },
+    {
+      "title": "Istanbul/Galata",
+      "url": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "checkedAt": "2026-10-21T08:00:39.243Z"
+    },
+    {
+      "title": "Istanbul/European Bosphorus",
+      "url": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "checkedAt": "2026-10-21T08:00:42.384Z"
+    },
+    {
+      "title": "Istanbul/Golden Horn",
+      "url": "https://en.wikivoyage.org/wiki/Istanbul%2FGolden_Horn",
+      "checkedAt": "2026-10-21T08:00:45.244Z"
+    },
+    {
+      "title": "Istanbul/New City",
+      "url": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "checkedAt": "2026-10-21T08:00:48.219Z"
+    },
+    {
+      "title": "Istanbul/Western Suburbs",
+      "url": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "checkedAt": "2026-10-21T08:00:51.238Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Ankara",
+      "kind": "area",
+      "locality": "Turkey",
+      "lat": 39.956,
+      "lon": 32.854,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Turkey",
+      "id": "turkiye-63f565cbcf3699d38ec0"
+    },
+    {
+      "name": "Antalya",
+      "kind": "area",
+      "locality": "Turkey",
+      "lat": 36.911,
+      "lon": 30.69,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Turkey",
+      "id": "turkiye-1821d8557dd61d332dae"
+    },
+    {
+      "name": "Bodrum",
+      "kind": "area",
+      "locality": "Turkey",
+      "lat": 37.038,
+      "lon": 27.42,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Turkey",
+      "id": "turkiye-55affcbf10b6e67d2703"
+    },
+    {
+      "name": "Edirne",
+      "kind": "area",
+      "locality": "Turkey",
+      "lat": 41.677,
+      "lon": 26.564,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Turkey",
+      "id": "turkiye-8d2369409f7c1797726c"
+    },
+    {
+      "name": "Istanbul",
+      "kind": "area",
+      "locality": "Turkey",
+      "lat": 41.018,
+      "lon": 28.97,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Turkey",
+      "id": "turkiye-060fd5c9498d51211a96"
+    },
+    {
+      "name": "Izmir",
+      "kind": "area",
+      "locality": "Turkey",
+      "lat": 38.415,
+      "lon": 27.144,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Turkey",
+      "id": "turkiye-b1e4cf6cdc44441932da"
+    },
+    {
+      "name": "Konya",
+      "kind": "area",
+      "locality": "Turkey",
+      "lat": 37.872,
+      "lon": 32.492,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Turkey",
+      "id": "turkiye-c746d37b2f128018922a"
+    },
+    {
+      "name": "Trabzon",
+      "kind": "area",
+      "locality": "Turkey",
+      "lat": 41.0063,
+      "lon": 39.7258,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Turkey",
+      "id": "turkiye-44d95564e2b7e9a732cf"
+    },
+    {
+      "name": "Urfa",
+      "kind": "area",
+      "locality": "Turkey",
+      "lat": 37.161,
+      "lon": 38.792,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Turkey",
+      "id": "turkiye-d7035d52bd735bb22f91"
+    },
+    {
+      "name": "Ankara Castle",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.9391,
+      "lon": 32.8654,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "price": "Free",
+      "url": "http://www.ankarakalesi.com/",
+      "id": "turkiye-2be6c6effee59809cce5"
+    },
+    {
+      "name": "Sultan Alaeddin Mosque",
+      "kind": "do",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Alitaş Sk",
+      "id": "turkiye-aed69842714b1bc52749"
+    },
+    {
+      "name": "Roman Theatre",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.9416,
+      "lon": 32.8602,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Bentderesi Cd",
+      "price": "Free",
+      "id": "turkiye-7d8c339b6d68409eb236"
+    },
+    {
+      "name": "Arslanhane Mosque",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.9369,
+      "lon": 32.8652,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Can Sk",
+      "id": "turkiye-9b2f1209e5e998a1a11b"
+    },
+    {
+      "name": "Ahielvan Mosque",
+      "kind": "do",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Koyunpazari Sk",
+      "id": "turkiye-33f2ff8ee9943f0ce67d"
+    },
+    {
+      "name": "Museum of Anatolian Civilizations",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.9383,
+      "lon": 32.8619,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Gözcü Sk 2",
+      "price": "Adult 80 TL",
+      "url": "https://sanalmuze.gov.tr/muzeler/ankara-anadolu-medeniyetleri-muzesi/",
+      "id": "turkiye-9fd42cf638d10b3c7dc9"
+    },
+    {
+      "name": "Kelime Museum",
+      "kind": "do",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Gözcü Sk 11",
+      "id": "turkiye-d596e3df46377ff57cac"
+    },
+    {
+      "name": "Koç Museum",
+      "kind": "do",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Depo Sk 1",
+      "price": "Adult 625 TL",
+      "url": "http://www.rmk-museum.org.tr/",
+      "id": "turkiye-ea8432383127e0b96696"
+    },
+    {
+      "name": "Chess Museum",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.9348,
+      "lon": 32.8633,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Basamaklı Sk 3, off Ulucanlar Cd",
+      "price": "Adult 15 TL",
+      "url": "https://www.gokyaysatrancvakfi.org.tr/",
+      "id": "turkiye-92991dd4b66cd2ac6d10"
+    },
+    {
+      "name": "Molla Great Mosque",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.9404,
+      "lon": 32.8688,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Yasa Sk",
+      "id": "turkiye-5091fe563e6a9752d84f"
+    },
+    {
+      "name": "Cenâbî Ahmet Paşa Mosque",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.9369,
+      "lon": 32.8705,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Ulucanlar Cd 56",
+      "id": "turkiye-978aacf2d0a214352c67"
+    },
+    {
+      "name": "Ulucanlar Prison Museum",
+      "kind": "do",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Ulucanlar Cd 63",
+      "price": "Adult 60 TL",
+      "id": "turkiye-7db82fbb82afaee02533"
+    },
+    {
+      "name": "Victory Monument",
+      "kind": "do",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "id": "turkiye-5a573d65a78db460de76"
+    },
+    {
+      "name": "Museum of the War of Independence",
+      "kind": "do",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Cumhuriyet Cd 14/22",
+      "id": "turkiye-918968b9ccee070261c2"
+    },
+    {
+      "name": "Column of Julianus",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.9433,
+      "lon": 32.856,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "id": "turkiye-3cba36030d2de0a138ff"
+    },
+    {
+      "name": "Hacı Bayram Mosque",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.9444,
+      "lon": 32.8578,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Sarıbağ Sk 13",
+      "id": "turkiye-e3b263fdad1b46d11a48"
+    },
+    {
+      "name": "Temple of Augustus",
+      "kind": "do",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Sarıbağ Sk",
+      "price": "Free",
+      "id": "turkiye-1d040f9d686ab38cbc47"
+    },
+    {
+      "name": "Roman Baths",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.9465,
+      "lon": 32.8532,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Çankırı Cd 43",
+      "price": "Adult 20 TL",
+      "id": "turkiye-81ea662cf98f8575c9a3"
+    },
+    {
+      "name": "Aviation Association Museum",
+      "kind": "do",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Hipodrom Cd 2",
+      "price": "Free",
+      "url": "https://www.thk.org.tr/index",
+      "id": "turkiye-9893f9fd655f13d95a1b"
+    },
+    {
+      "name": "PTT Post Museum",
+      "kind": "do",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Ataturk Blv 13",
+      "price": "Free",
+      "url": "http://www.pttpulmuzesi.org.tr/",
+      "id": "turkiye-2eec6859787ac895c001"
+    },
+    {
+      "name": "Vakif Museum",
+      "kind": "do",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Ataturk Blv 23",
+      "price": "Free",
+      "url": "https://www.kulturportali.gov.tr/turkiye/ankara/gezilecekyer/ankara-vakif-eserler-muzes",
+      "id": "turkiye-11f7aa8c7a21aaec33da"
+    },
+    {
+      "name": "Cermodern",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.9311,
+      "lon": 32.84983,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Altınsoy Cd 3",
+      "price": "Adult 40 TL",
+      "url": "http://www.cermodern.org/",
+      "id": "turkiye-b813ddd3ff2dcad93f61"
+    },
+    {
+      "name": "Painting and Sculpture Museum",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.9331,
+      "lon": 32.8558,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Türkocağı Sk, off Talatpaşa Blv",
+      "url": "https://arhm.ktb.gov.tr/",
+      "id": "turkiye-04c4dd835a4d7068c319"
+    },
+    {
+      "name": "Ethnography Museum",
+      "kind": "do",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Türkocağı Cd 4, off Talatpaşa Bulv",
+      "id": "turkiye-b17b6a97f7cce2f3abde"
+    },
+    {
+      "name": "Hacettepe Art Museum",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.9318,
+      "lon": 32.8628,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Hacattepe University",
+      "id": "turkiye-7714d33fda4e4769ac23"
+    },
+    {
+      "name": "Mehmet Akif Ersoy Home Museum",
+      "kind": "do",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Hacettepe University",
+      "price": "Free",
+      "id": "turkiye-045745adfd948538e70b"
+    },
+    {
+      "name": "Anıtkabir",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.9269,
+      "lon": 32.8357,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "id": "turkiye-4bcbb3f432378ad1218c"
+    },
+    {
+      "name": "Atatürk & Independence War Museum",
+      "kind": "do",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "price": "Free",
+      "url": "http://www.anitkabir.tsk.tr/20_ingilizce/03_muzeler/muze_hakkinda.html",
+      "id": "turkiye-353bda51d0c41dac6285"
+    },
+    {
+      "name": "Hittite Sun Disc Statue",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.9267,
+      "lon": 32.8552,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "id": "turkiye-6768a5ae54a99665a8f1"
+    },
+    {
+      "name": "Monument to Security",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.92,
+      "lon": 32.8532,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "id": "turkiye-03b9ddb7bc5ccbe883ca"
+    },
+    {
+      "name": "Kocatepe Mosque",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.9167,
+      "lon": 32.8606,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Dr Mediha Eldem Sk 67",
+      "price": "Free",
+      "id": "turkiye-693f04f7a2d088501351"
+    },
+    {
+      "name": "Çankaya Mansion",
+      "kind": "do",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Ziaur Rahman Cd",
+      "url": "https://www.tccb.gov.tr/muzekosk/",
+      "id": "turkiye-b7e709b82765fb0ee1a2"
+    },
+    {
+      "name": "Atakule Tower",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.8862,
+      "lon": 32.8561,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "id": "turkiye-f66af232ba1fd7ef116c"
+    },
+    {
+      "name": "METU Science and Technology Museum",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.9014,
+      "lon": 32.771,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Dumlupınar Blv 1",
+      "url": "https://tbm.metu.edu.tr/",
+      "id": "turkiye-fd39cedd99f363554e1f"
+    },
+    {
+      "name": "Akköprü",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.9539,
+      "lon": 32.8322,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "id": "turkiye-f52e1cec1c400aee2bb9"
+    },
+    {
+      "name": "Atatürk Forest Farm",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.945,
+      "lon": 32.7957,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Alparslan Türkeş Cd 68",
+      "price": "Free",
+      "url": "https://www.aoc.gov.tr/Portal/Geziyerlerimiz/ataturk-orman-ciftligi-muze-ve-sergi-salonu/37",
+      "id": "turkiye-ff0dc5daef0e85f941fd"
+    },
+    {
+      "name": "Turkish Air Force Museum",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.9475,
+      "lon": 32.7044,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Fatih Sultan Mehmet Blv",
+      "price": "Adult 60 TL",
+      "url": "https://ankarahavamuze.hvkk.tsk.tr/",
+      "id": "turkiye-1a768c71c4031355f0ca"
+    },
+    {
+      "name": "Altınköy Open Air Museum",
+      "kind": "do",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "2022nd Sk, Beşikkaya",
+      "price": "Adult 10 TL",
+      "url": "https://www.altinkoy.org/",
+      "id": "turkiye-1471b9305d03e0adb440"
+    },
+    {
+      "name": "Lake Mogan",
+      "kind": "do",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "id": "turkiye-397d8f4a69d6917734ea"
+    },
+    {
+      "name": "Tulumtas Cave",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.7746,
+      "lon": 32.6832,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Tulumtaş, Gölbaşı",
+      "id": "turkiye-1f30c3c80120ab1bfdce"
+    },
+    {
+      "name": "Golden Pavilion Museum",
+      "kind": "do",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Üniversiteler, İhsan Doğramacı Blv No:39, 06800 Çankaya/Ankara",
+      "price": "250 tl",
+      "url": "https://www.merikkonagi.org/",
+      "id": "turkiye-3dde44ed9b3f3a2c47fd"
+    },
+    {
+      "name": "Ankara Opera & Ballet",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.9351,
+      "lon": 32.8535,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Atatürk Blv 20",
+      "url": "https://www.operabale.gov.tr/tr-tr/Sayfalar/HomePage.aspx",
+      "id": "turkiye-26e674dae94af622fd36"
+    },
+    {
+      "name": "Presidential Symphony Orchestra",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.93303997826714,
+      "lon": 32.84998701218459,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "id": "turkiye-933d910f9b44db194d94"
+    },
+    {
+      "name": "Atatürk Culture Center",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.94330819485815,
+      "lon": 32.840512576526656,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "id": "turkiye-eaff842900fdbfedcb48"
+    },
+    {
+      "name": "Feza Gürsey Science Center",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.96779504457745,
+      "lon": 32.87981274577318,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "id": "turkiye-444709343321bd8d8bc6"
+    },
+    {
+      "name": "Goksu Park",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.992,
+      "lon": 32.6505,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "off 1 TBMM Cd, Etimesgut",
+      "id": "turkiye-5661ea1de96e2e917c1f"
+    },
+    {
+      "name": "Youth Park",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.938148082521515,
+      "lon": 32.85011105328449,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "id": "turkiye-26e8bb8328336f7d2f33"
+    },
+    {
+      "name": "Seğmenler Park",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.89583877500611,
+      "lon": 32.862850010738754,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "id": "turkiye-2e66fc096b487afeb8a4"
+    },
+    {
+      "name": "Dikmen Valley",
+      "kind": "do",
+      "locality": "Ankara",
+      "lat": 39.888658495950814,
+      "lon": 32.84334558931444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "id": "turkiye-99e41d66a86927ddbcea"
+    },
+    {
+      "name": "Ward Restaurant and café مطعم ورد",
+      "kind": "eat",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Bayındır-1 Sk",
+      "id": "turkiye-bab97284f39cf4f20b22"
+    },
+    {
+      "name": "Zelal Cafe",
+      "kind": "eat",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Yüksel Cd 24",
+      "id": "turkiye-8adbfa56c028fc649110"
+    },
+    {
+      "name": "Nado's",
+      "kind": "eat",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Ataç-1 Sk 26",
+      "id": "turkiye-374b00106721ece310b6"
+    },
+    {
+      "name": "Kırık Oklava",
+      "kind": "eat",
+      "locality": "Ankara",
+      "lat": 39.9305,
+      "lon": 32.8729,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Cemal Gürsel Cd 16",
+      "url": "http://kirikoklava.com/",
+      "id": "turkiye-44d366f6b130aeb45547"
+    },
+    {
+      "name": "Yargitay Evi Lokali",
+      "kind": "eat",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Milli Müdafa Cd 10, Kızılay",
+      "id": "turkiye-36c5b130894918440dd9"
+    },
+    {
+      "name": "Tarihi Çiçek Lokantası",
+      "kind": "eat",
+      "locality": "Ankara",
+      "lat": 39.9249,
+      "lon": 32.8522,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Necatibey Cd 15",
+      "url": "http://tarihiciceklokantasi.com/",
+      "id": "turkiye-89d189ec427c4d4fe24a"
+    },
+    {
+      "name": "James Cook Pub",
+      "kind": "eat",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Tunus Cd 19",
+      "id": "turkiye-cec31c4560a7f0b3e830"
+    },
+    {
+      "name": "Korelee",
+      "kind": "eat",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Bestekar Cd 27",
+      "id": "turkiye-df47bfb15ae2dfd74e26"
+    },
+    {
+      "name": "Cafe des Cafes",
+      "kind": "eat",
+      "locality": "Ankara",
+      "lat": 39.9066,
+      "lon": 32.8611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Tunalı Hilmi Cd 83/A, Kavaklıdere",
+      "url": "http://www.cafedescafes.com/",
+      "id": "turkiye-fe6cc0ab4e5ae8ed4e0b"
+    },
+    {
+      "name": "Kıtır",
+      "kind": "eat",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Tunali Hilmi Cd 114",
+      "url": "http://kitirpilic.com/",
+      "id": "turkiye-4a14d6e7e05b0b967884"
+    },
+    {
+      "name": "Göksu Lokantası",
+      "kind": "eat",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Bayındır-1 Sk 22, off Ziya Gökalp Cd",
+      "url": "https://goksulokantasi.com/",
+      "id": "turkiye-ea04ab2554c531570c91"
+    },
+    {
+      "name": "Marti Restaurant",
+      "kind": "eat",
+      "locality": "Ankara",
+      "lat": 39.9204614,
+      "lon": 32.8579623,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Bayındır-2 Sk 37, Kocatepe",
+      "id": "turkiye-5735fdfc3befc815c8f5"
+    },
+    {
+      "name": "Hanzade Konağı",
+      "kind": "eat",
+      "locality": "Ankara",
+      "lat": 39.933,
+      "lon": 32.8657,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Hacettepe İnanli Sok., Hamamönü, Tacettin Dergahi Karşisi No:5",
+      "id": "turkiye-4bd2f5f75c59036b2608"
+    },
+    {
+      "name": "Uludağ Kebapçısı",
+      "kind": "eat",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Denizciler Cd 54",
+      "url": "http://www.uludagkebap.com.tr/",
+      "id": "turkiye-2e45329210f81fe59396"
+    },
+    {
+      "name": "Kınacızade Konağı",
+      "kind": "eat",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Kale Kapısı Sk 28",
+      "url": "https://www.kinacizadekonagi.com/",
+      "id": "turkiye-83fca1b75f82201730cd"
+    },
+    {
+      "name": "Urumchi Uyghur Restaurant",
+      "kind": "eat",
+      "locality": "Ankara",
+      "lat": 39.9257,
+      "lon": 32.8649,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Ziya Gökalp Cd 76",
+      "id": "turkiye-57d3480742dd8fe7dd1c"
+    },
+    {
+      "name": "Tarihi Mutfak Lokantası",
+      "kind": "eat",
+      "locality": "Ankara",
+      "lat": 39.9188384,
+      "lon": 32.85958,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Kocatepe, Mithatpaşa Cd. No:64",
+      "id": "turkiye-b1ff08b24cc7f918bdf8"
+    },
+    {
+      "name": "Quick China",
+      "kind": "eat",
+      "locality": "Ankara",
+      "lat": 39.8959,
+      "lon": 32.878,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Uğur Mumcu Sk 64/B, Çankaya",
+      "url": "https://quickchina.com.tr/en",
+      "id": "turkiye-f00fc28bcff15406ac24"
+    },
+    {
+      "name": "Telwe Bar",
+      "kind": "eat",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "İnkılap Sk 6",
+      "id": "turkiye-3a31153f80a5fa7a31cd"
+    },
+    {
+      "name": "Soul Pub",
+      "kind": "eat",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Olgunlar Cd 18",
+      "id": "turkiye-c4a086033f89af86a520"
+    },
+    {
+      "name": "Corvus",
+      "kind": "eat",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Bestekar Cd 59",
+      "id": "turkiye-d473609a6dd2bc857925"
+    },
+    {
+      "name": "Twister",
+      "kind": "eat",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Bestekar Cd 82A",
+      "id": "turkiye-65ec5ac6729c1e8fd763"
+    },
+    {
+      "name": "Sakal Kafe Bar",
+      "kind": "eat",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "John F Kennedy Cd 13",
+      "id": "turkiye-f0f25f476e2add5bc746"
+    },
+    {
+      "name": "Sixtiees Pub",
+      "kind": "eat",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Tunalı Hilmi Cd 96",
+      "id": "turkiye-7fe1a44f3b7b90c1b57d"
+    },
+    {
+      "name": "Bihostel",
+      "kind": "stay",
+      "locality": "Ankara",
+      "lat": 39.9219,
+      "lon": 32.8602,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Ataç-2 Sk 46",
+      "url": "https://www.bihostel.com/ankara/",
+      "id": "turkiye-a2b8d7da13f891ed15cb"
+    },
+    {
+      "name": "Deeps Hostel 2",
+      "kind": "stay",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Southside at Libya Cd 2",
+      "id": "turkiye-d924100e7004f5ae6f5c"
+    },
+    {
+      "name": "Yeni Bahar Oteli",
+      "kind": "stay",
+      "locality": "Ankara",
+      "lat": 39.9443,
+      "lon": 32.8544,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Çankırı Cd 25",
+      "url": "https://baharotel.com/",
+      "id": "turkiye-8957dbd71499a059ba2b"
+    },
+    {
+      "name": "Divan Ankara Çukurhan",
+      "kind": "stay",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "3 Depo Sk, off Gözcü Sk",
+      "url": "https://www.divan.com.tr/otel/divan-cukurhan-otel",
+      "id": "turkiye-cf0fe15b4baa546e523e"
+    },
+    {
+      "name": "Ankara Gold",
+      "kind": "stay",
+      "locality": "Ankara",
+      "lat": 39.9126,
+      "lon": 32.8559,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Güfte Cd 4, off Tunus Cd",
+      "id": "turkiye-c9d9765683217630ddba"
+    },
+    {
+      "name": "Hotel Midas Kavaklıdere",
+      "kind": "stay",
+      "locality": "Ankara",
+      "lat": 39.9114,
+      "lon": 32.8562,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Tunus Cd 20",
+      "url": "https://www.hotelmidas.com/",
+      "id": "turkiye-3f9c93271852775b86a1"
+    },
+    {
+      "name": "King Hotel",
+      "kind": "stay",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Güvenlik Cd 13",
+      "url": "http://kingotels.com/",
+      "id": "turkiye-44113060abe50c57f09e"
+    },
+    {
+      "name": "New Park Hotel",
+      "kind": "stay",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Ziya Gökalp Cd 58",
+      "url": "https://www.npankara.com/",
+      "id": "turkiye-a58e848d833838407836"
+    },
+    {
+      "name": "Ramada",
+      "kind": "stay",
+      "locality": "Ankara",
+      "lat": 39.9082,
+      "lon": 32.8615,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Tunalı Hilmi Cd 66",
+      "url": "https://www.wyndhamhotels.com/tr-tr/ramada/ankara-turkey/ramada-hotel-ankara-turkey/overview",
+      "id": "turkiye-23bde28e69356c903eb1"
+    },
+    {
+      "name": "Radisson Blu",
+      "kind": "stay",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Istiklal Cd 20",
+      "url": "https://www.radissonhotels.com/tr-tr/oteller/radisson-blu-ankara",
+      "id": "turkiye-afc5f4d0ad43d18c274f"
+    },
+    {
+      "name": "Grand Mercure",
+      "kind": "stay",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Yaşam Cd 1",
+      "url": "https://all.accor.com/hotel/B9M4/index.tr.shtml",
+      "id": "turkiye-b717bfb1788bf9be9948"
+    },
+    {
+      "name": "Green Park Hotel",
+      "kind": "stay",
+      "locality": "Ankara",
+      "lat": 39.9031,
+      "lon": 32.8124,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "1443rd Cd",
+      "url": "https://www.thegreenparkankara.com/",
+      "id": "turkiye-9e38d35602eb93c29434"
+    },
+    {
+      "name": "Ankara Hotel",
+      "kind": "stay",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Celal Bayar Blv 78",
+      "url": "https://www.theankarahotel.com/",
+      "id": "turkiye-dac30ab2c23cb3e98cb1"
+    },
+    {
+      "name": "Mövenpick Ankara",
+      "kind": "stay",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Yaşam Cd 1",
+      "url": "https://movenpick.accor.com/en/europe/turkey/ankara/hotel-ankara.html",
+      "id": "turkiye-b148f34c7a5e0cc4fcbc"
+    },
+    {
+      "name": "Sheraton Ankara",
+      "kind": "stay",
+      "locality": "Ankara",
+      "lat": 39.8997,
+      "lon": 32.8644,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Şehit Ömer Haluk Sipahioğlu Sk",
+      "url": "https://www.marriott.com/en-us/hotels/esbsi-sheraton-ankara-hotel-and-convention-center/overview/",
+      "id": "turkiye-a9e1a722c40ff4a2598e"
+    },
+    {
+      "name": "Ankara HiltonSA",
+      "kind": "stay",
+      "locality": "Ankara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "Tahran Cd 12",
+      "url": "https://www.hilton.com/en/hotels/ankhitw-ankara-hiltonsa/",
+      "id": "turkiye-fda6776d9d260e6177c1"
+    },
+    {
+      "name": "Crowne Plaza Ankara",
+      "kind": "stay",
+      "locality": "Ankara",
+      "lat": 39.9468,
+      "lon": 32.7682,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "address": "171th Sk",
+      "url": "https://www.ihg.com/crowneplaza/hotels/gb/en/ankara/ankcr/hoteldetail",
+      "id": "turkiye-3a0a8eb5c1d9e44ef4f3"
+    },
+    {
+      "name": "Ankara",
+      "kind": "area",
+      "locality": "Ankara",
+      "lat": 39.92876,
+      "lon": 32.85204,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ankara",
+      "id": "turkiye-4141611fe46902a439f3"
+    },
+    {
+      "name": "Ortahisar",
+      "kind": "area",
+      "locality": "Cappadocia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cappadocia",
+      "id": "turkiye-afc67777ddce366858db"
+    },
+    {
+      "name": "Nevşehir",
+      "kind": "area",
+      "locality": "Cappadocia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cappadocia",
+      "id": "turkiye-8ef1acf293ef5eeaeb38"
+    },
+    {
+      "name": "Göreme",
+      "kind": "area",
+      "locality": "Cappadocia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cappadocia",
+      "id": "turkiye-67519c554e318f51f6b1"
+    },
+    {
+      "name": "Uçhisar",
+      "kind": "area",
+      "locality": "Cappadocia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cappadocia",
+      "id": "turkiye-81b711f5a3d3804ca173"
+    },
+    {
+      "name": "Ürgüp",
+      "kind": "area",
+      "locality": "Cappadocia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cappadocia",
+      "id": "turkiye-78d0dcabae60ff514d8b"
+    },
+    {
+      "name": "Avanos",
+      "kind": "area",
+      "locality": "Cappadocia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cappadocia",
+      "id": "turkiye-6044da423e622414c467"
+    },
+    {
+      "name": "Güzelyurt",
+      "kind": "area",
+      "locality": "Cappadocia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cappadocia",
+      "id": "turkiye-91591b3b1ae154ec18a9"
+    },
+    {
+      "name": "Cappadocia",
+      "kind": "area",
+      "locality": "Cappadocia",
+      "lat": 38.658,
+      "lon": 34.853,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cappadocia",
+      "id": "turkiye-aabd072367c0bbac6f4f"
+    },
+    {
+      "name": "MegaPass Istanbul",
+      "kind": "do",
+      "locality": "Istanbul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul",
+      "address": "Gumussuyu, İnonu Cd. No 11",
+      "price": "€116–€284, depending on the pass",
+      "url": "https://megapass.com/turkey/istanbul/pass",
+      "id": "turkiye-93de4c301b8413c29d61"
+    },
+    {
+      "name": "Istanbul",
+      "kind": "area",
+      "locality": "Istanbul",
+      "lat": 41.013611,
+      "lon": 28.955,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul",
+      "id": "turkiye-1da067dc090d9d49e682"
+    },
+    {
+      "name": "Sultanahmet Mosque",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0054,
+      "lon": 28.9768,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "At Meydani Cd 10",
+      "price": "Free",
+      "url": "http://www.sultanahmetcami.org/",
+      "id": "turkiye-3505623468be7977755c"
+    },
+    {
+      "name": "Hagia Sophia",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0085,
+      "lon": 28.9799,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Ayasofya Meydanı",
+      "price": "Adult €25",
+      "url": "https://ayasofyacamii.gov.tr/",
+      "id": "turkiye-d956c81fe2c81bd86826"
+    },
+    {
+      "name": "Topkapı Palace",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.013,
+      "lon": 28.984,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Babı Hümayun Cd 1",
+      "price": "Adult 2750 TL (combi for Palace, Harem and Hagia Irene)",
+      "url": "https://www.millisaraylar.gov.tr/Lokasyon/2/topkapi-sarayi",
+      "id": "turkiye-f794c809baf8712ccd7f"
+    },
+    {
+      "name": "Turkish and Islamic Arts Museum",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Atmeydanı Sk 12",
+      "price": "Adult €17",
+      "url": "https://muze.gov.tr/muze-detay?SectionId=TIE01&DistId=TIE",
+      "id": "turkiye-353d06d451011427869d"
+    },
+    {
+      "name": "Basilica Cistern",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0081,
+      "lon": 28.9778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Yerebatan Cd 1/3",
+      "price": "Adult 09:00-18:30 1500 TL (23€); 19:30-22:00 2400 TL (47€)",
+      "url": "https://www.yerebatan.com/en",
+      "id": "turkiye-560519cc530ebb8f4503"
+    },
+    {
+      "name": "Museum of Archaeology",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0107,
+      "lon": 28.9812,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Osman Hamdi Bey Yokuşu",
+      "url": "https://muze.gov.tr/muze-detay?SectionId=IAR01&DistId=IAR",
+      "id": "turkiye-6e8e8820329cb2b06877"
+    },
+    {
+      "name": "Museum of the History of Science and Technology in Islam",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0138,
+      "lon": 28.9796,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Taya Hatun Sk 8A",
+      "price": "Adult €10",
+      "url": "https://muze.gov.tr/muze-detay?SectionId=IBT01&DistId=MRK",
+      "id": "turkiye-aa641ada8b8a9a50f306"
+    },
+    {
+      "name": "Istanbul Railway Museum",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.015278,
+      "lon": 28.977222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Sirkeci Railway Station (street level)",
+      "price": "Free",
+      "id": "turkiye-cd06ba73b0626686ecde"
+    },
+    {
+      "name": "Rüstem Pasha Mosque",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0176,
+      "lon": 28.9688,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Hasırcılar Cd 62",
+      "price": "Free",
+      "id": "turkiye-168a6617531ef8aa3fc8"
+    },
+    {
+      "name": "Beyazit II Mosque",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0103,
+      "lon": 28.9653,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Yeniçeriler Cd",
+      "price": "Free",
+      "id": "turkiye-75a90a3db145aa1c112a"
+    },
+    {
+      "name": "Ahırkapı lighthouse",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0063,
+      "lon": 28.9854,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "id": "turkiye-1fa65f9024dac9d0b0a7"
+    },
+    {
+      "name": "Great Palace Mosaics Museum",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Arasta Bazaar",
+      "url": "https://muze.gov.tr/muze-detay?SectionId=MOZ01&DistId=MOZ",
+      "id": "turkiye-c4cc4ee8c9b05f8a15ce"
+    },
+    {
+      "name": "Sokollu Mehmet Pasha Mosque",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0048,
+      "lon": 28.9721,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Suterazisi Sk",
+      "price": "Free",
+      "id": "turkiye-beb9bcdc00f855b4f43c"
+    },
+    {
+      "name": "Little Hagia Sophia",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0028,
+      "lon": 28.9719,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Küçük Ayasofya Cd 78",
+      "price": "Free",
+      "url": "https://littlehagiasophia.com/",
+      "id": "turkiye-7d15068ca6d800cfaea4"
+    },
+    {
+      "name": "Theodosius Cistern",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0073,
+      "lon": 28.9726,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Piyer Loti Cd 2/1",
+      "price": "Adult 650 TL",
+      "url": "https://www.serefiyesarnici.istanbul/en/",
+      "id": "turkiye-dce90ee47318942710e5"
+    },
+    {
+      "name": "Column of Constantine",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "id": "turkiye-65b2a801a3a6c3f2b559"
+    },
+    {
+      "name": "Nuruosmaniye Mosque",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Vezirhan Cd 33",
+      "price": "Free",
+      "id": "turkiye-14dc29220a609a8d94b4"
+    },
+    {
+      "name": "Valens Aqueduct",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "id": "turkiye-9166a236d35d1ca22cee"
+    },
+    {
+      "name": "Molla Zeyrek Mosque",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0197,
+      "lon": 28.9572,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "İbadethane Sk 2",
+      "price": "Free",
+      "id": "turkiye-87310121cb775d29190d"
+    },
+    {
+      "name": "Kalenderhane Mosque",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "16 Mart Şehitleri Cd 11",
+      "id": "turkiye-924978fc5afa6841b886"
+    },
+    {
+      "name": "Süleymaniye Mosque",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0161,
+      "lon": 28.9639,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Prof Sıddık Sami Onar Cd 1",
+      "price": "Free",
+      "url": "http://www.suleymaniyecamii.org/",
+      "id": "turkiye-b2dbea0829314e58a75d"
+    },
+    {
+      "name": "Column of Marcian",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "id": "turkiye-81adb65fbb6aa08b1fad"
+    },
+    {
+      "name": "Fatih Mosque",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0197,
+      "lon": 28.9497,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Hattat Nafiz Cd 6",
+      "price": "Free",
+      "id": "turkiye-c9e0af9eec7a8abfe895"
+    },
+    {
+      "name": "Hırka-i Şerif Mosque",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Akseki Cami Sk 1",
+      "id": "turkiye-fffbbfa2a97207753c0f"
+    },
+    {
+      "name": "St George's Cathedral",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0292,
+      "lon": 28.9517,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Dr Sadık Ahmet Cd 19",
+      "url": "https://www.ec-patr.org/",
+      "id": "turkiye-d316bb0d8d2d2867b30a"
+    },
+    {
+      "name": "Phanar Greek Orthodox College",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0291107,
+      "lon": 28.9490685,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "id": "turkiye-8fffbbe747390646f051"
+    },
+    {
+      "name": "Fethiye Mosque",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0292,
+      "lon": 28.9464,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Draman Cd",
+      "price": "Free",
+      "id": "turkiye-a1e59354cc31dfa94b47"
+    },
+    {
+      "name": "St Stephen Church",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0319,
+      "lon": 28.9497,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Mürselpaşa Cd",
+      "price": "Free",
+      "id": "turkiye-1e36b4293fbcac0e3e57"
+    },
+    {
+      "name": "Ahrida Synagogue",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0328,
+      "lon": 28.9456,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Kürkçü Çeşmesi Sk 7",
+      "id": "turkiye-519e31f3b1e99706e77a"
+    },
+    {
+      "name": "Palace of the Porphyrogenitus",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Şişhane Cd",
+      "price": "Adult 300 TL",
+      "url": "https://www.tekfursarayi.istanbul/en",
+      "id": "turkiye-84d9f24bf00f4b5e50ce"
+    },
+    {
+      "name": "Kariye Mosque",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Kariye Cami Sk 18",
+      "price": "Free for Turkish citizens, 20€ for everyone else",
+      "url": "https://kariye.demx.org.tr/",
+      "id": "turkiye-b7cc1c2b92b089a86624"
+    },
+    {
+      "name": "Panorama 1453 History Museum",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0182,
+      "lon": 28.9204,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Topkapı Kültür Park",
+      "price": "Adult 650 TL",
+      "url": "https://www.panoramikmuze.com/",
+      "id": "turkiye-5aa39bc6c9fd380d05fd"
+    },
+    {
+      "name": "Koca Mustafa Pasha Mosque",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0034,
+      "lon": 28.9286,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Koca Mustafapaşa Cd 183",
+      "id": "turkiye-f57ecdec98047ddba6a2"
+    },
+    {
+      "name": "Monastery of Stoudios",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Mühendis Ali Sk 1",
+      "id": "turkiye-b7a06b4582bf65b6897a"
+    },
+    {
+      "name": "Yedikule Fortress",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 40.9929,
+      "lon": 28.9227,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Yedikule Meydanı Sk 9",
+      "price": "Adult 250 TL",
+      "url": "https://www.yedikulehisari.com/en/",
+      "id": "turkiye-13410116241e035091da"
+    },
+    {
+      "name": "Balat",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.03009018958418,
+      "lon": 28.948000754054558,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "id": "turkiye-24317a290847b0065ba5"
+    },
+    {
+      "name": "Hürrem Sultan Hamamı",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0073,
+      "lon": 28.9791,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Aya Sofya Meydanı",
+      "price": "60 min €150",
+      "url": "https://www.hurremsultanhamami.com/",
+      "id": "turkiye-a000429c365780b7e4a9"
+    },
+    {
+      "name": "Çemberlitaş Hamamı",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Vezirhan Cd 8",
+      "price": "Adult about 2000 TL",
+      "url": "https://www.cemberlitashamami.com/",
+      "id": "turkiye-36ccbb0515f5a3270c09"
+    },
+    {
+      "name": "Cağaloğlu Hamamı",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0106,
+      "lon": 28.9756,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Prof Kazım İsmail Gürkan Cd 24",
+      "price": "From €70 per hour",
+      "url": "https://www.cagalogluhamami.com.tr/",
+      "id": "turkiye-cd9e6f62553827463316"
+    },
+    {
+      "name": "Şifa Hamamı",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0041,
+      "lon": 28.9757,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Şifa Hamamı Sk 12",
+      "price": "One hour €50",
+      "url": "https://www.sifahamami.com/",
+      "id": "turkiye-fbf358eb5b12df6a4d73"
+    },
+    {
+      "name": "Süleymaniye Hamamı",
+      "kind": "do",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0159,
+      "lon": 28.9658,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Mimar Sinan Cd 20",
+      "price": "90 min for €75, cash only",
+      "url": "https://www.suleymaniyehamami.com.tr/",
+      "id": "turkiye-814be5d143471599aae9"
+    },
+    {
+      "name": "Osman Gourmet Restaurant",
+      "kind": "eat",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.006289,
+      "lon": 28.973126,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Klodfarer Cd 27/B",
+      "id": "turkiye-e1c9e0ad813558247c9f"
+    },
+    {
+      "name": "Karadeniz Aile Pide ve Kebap Salonu",
+      "kind": "eat",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0085,
+      "lon": 28.975,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Hacı Tahsinbey Sk",
+      "url": "http://www.karadenizpide.net/",
+      "id": "turkiye-4b536a601ce4bcff0afe"
+    },
+    {
+      "name": "Meşhur Pideci Orhan Usta",
+      "kind": "eat",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0137,
+      "lon": 28.9705,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Macuncu Sk 5A",
+      "id": "turkiye-e8a5eff6303eb757b190"
+    },
+    {
+      "name": "Pak Pide Pizza Salonu",
+      "kind": "eat",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0145,
+      "lon": 28.968,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Paşa Cami Sk 27",
+      "id": "turkiye-594771937c447fa35f9b"
+    },
+    {
+      "name": "Ali Usta Çiğ Köfte",
+      "kind": "eat",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.014734,
+      "lon": 28.975121,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Muhzirbaşı Sk 6",
+      "price": "₺ 80 (standard wrap)",
+      "id": "turkiye-6232bc42e1971166f381"
+    },
+    {
+      "name": "Efsane Kahvaltı",
+      "kind": "eat",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0187,
+      "lon": 28.9662,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Ragıp Gümüşpala Cd",
+      "id": "turkiye-6d9c60d0f489bf3ee55d"
+    },
+    {
+      "name": "Buyruk Esnaf Lokantası",
+      "kind": "eat",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.013843,
+      "lon": 28.976062,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Hoca Paşa Sk. 12",
+      "price": "200-300 ₺",
+      "url": "https://www.sirkecilokanta.com.tr/",
+      "id": "turkiye-662e95d2a945548ba2ed"
+    },
+    {
+      "name": "Doy Doy Restaurant",
+      "kind": "eat",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.004159,
+      "lon": 28.975298,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Sifa Hamamı Sk 13",
+      "id": "turkiye-139e01929343e81766de"
+    },
+    {
+      "name": "Palatium Cafe & Restaurant",
+      "kind": "eat",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0058,
+      "lon": 28.98,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Kutlugün Sk 33",
+      "url": "https://www.palatiumcafeandrestaurant.com/",
+      "id": "turkiye-277f708b8e71537c17a0"
+    },
+    {
+      "name": "Cafe Amedros",
+      "kind": "eat",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0083,
+      "lon": 28.9739,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Hoca Rüstem Sk 7",
+      "url": "https://www.amedroscafe.com/",
+      "id": "turkiye-b596184ea06615b6226a"
+    },
+    {
+      "name": "Rumeli Restaurant",
+      "kind": "eat",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0083,
+      "lon": 28.9765,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Ticarethane Sk 11",
+      "id": "turkiye-83f321f728f56e53ce75"
+    },
+    {
+      "name": "Korecan",
+      "kind": "eat",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0053,
+      "lon": 28.9817,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Cankurtaran Meydanı Sk 10",
+      "id": "turkiye-6ea3c10ad3ee0f344183"
+    },
+    {
+      "name": "Virginia Angus Steakhouse",
+      "kind": "eat",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0159,
+      "lon": 28.9677,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Uzun Çarşı Cd 2",
+      "url": "https://virginiaangus.eatbu.com/",
+      "id": "turkiye-f3497a6196e66c1ac526"
+    },
+    {
+      "name": "Burgerillas",
+      "kind": "eat",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.017465,
+      "lon": 28.969391,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Büyükbaş Sk 3/C",
+      "url": "https://www.burgerillas.com/",
+      "id": "turkiye-47e070a7b0ae7c4fcf53"
+    },
+    {
+      "name": "Changcheng",
+      "kind": "eat",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.005623,
+      "lon": 28.973537,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Peykhane Cd",
+      "url": "http://www.changchengrestaurant.com/",
+      "id": "turkiye-f528dd5e90d7d574b39f"
+    },
+    {
+      "name": "Olden 1772",
+      "kind": "eat",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.01478197782489,
+      "lon": 28.97428582310056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Hobyar, Mimar Vedat Sk. No:3",
+      "url": "https://www.instagram.com/olden1772",
+      "id": "turkiye-292e2c48103503aace70"
+    },
+    {
+      "name": "Kumkapı",
+      "kind": "eat",
+      "locality": "Istanbul/Historical Peninsula",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "id": "turkiye-46b9045f53a2a0e20fce"
+    },
+    {
+      "name": "Samatya",
+      "kind": "eat",
+      "locality": "Istanbul/Historical Peninsula",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "id": "turkiye-25a0d58ca00082d57233"
+    },
+    {
+      "name": "Sarayburnu Aile Çay Bahçesi",
+      "kind": "eat",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0175,
+      "lon": 28.986,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Sarayburnu Point, off Kennedy Cd",
+      "id": "turkiye-e99a6a1bb41238920ceb"
+    },
+    {
+      "name": "Anadolu Nargile",
+      "kind": "eat",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0089,
+      "lon": 28.968,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Yeniçeriler Cd 32",
+      "id": "turkiye-43b4359e18e7d4bbc8d0"
+    },
+    {
+      "name": "Vefa Bozacısı",
+      "kind": "eat",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0154,
+      "lon": 28.9584,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Vefa Cd 66",
+      "url": "https://www.vefa.com.tr/",
+      "id": "turkiye-af729bc31f1e19fa6135"
+    },
+    {
+      "name": "Blue Tuana Hotel",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.003505,
+      "lon": 28.978868,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Akbıyık Değirmen Sk 3",
+      "price": "B&B double 2000 TL",
+      "id": "turkiye-23df587a640b388dcb4d"
+    },
+    {
+      "name": "Star Holiday Hotel",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.00796066,
+      "lon": 28.97700919,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Divanyolu Cd 10",
+      "price": "B&B double 2500 TL",
+      "url": "https://www.hotelstarholiday.com/",
+      "id": "turkiye-62c30d599a514f4d5438"
+    },
+    {
+      "name": "Deniz Houses Hotel",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0027332,
+      "lon": 28.974156,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Çayıroğlu Sk 16",
+      "price": "B&B double 2000 TL",
+      "url": "https://www.denizhouses.com/",
+      "id": "turkiye-153052152a33681808a6"
+    },
+    {
+      "name": "Istanbul Holiday Hotel",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.003815,
+      "lon": 28.975338,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Küçük Ayasofya Cd 28",
+      "price": "B&B double 3000 TL",
+      "url": "https://istanbulholidayhotel.com/",
+      "id": "turkiye-5fa171d716097a21c628"
+    },
+    {
+      "name": "Elasophia Hotel",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0093235,
+      "lon": 28.978477,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Alemdar Cd 7",
+      "price": "B&B double 5000 TL",
+      "id": "turkiye-fdac0ae051cd9a7c4704"
+    },
+    {
+      "name": "Stone Hotel Istanbul",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.005012874692724,
+      "lon": 28.97276406873172,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Şehit Mehmetpaşa Ykş 34",
+      "price": "B&B double 2000 TL",
+      "url": "http://www.stonehotelistanbul.com/",
+      "id": "turkiye-8660d531a56af8dd6833"
+    },
+    {
+      "name": "Hotel Alp Guesthouse",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.00611328202347,
+      "lon": 28.98143665524073,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Adliye Sk 4",
+      "url": "https://www.alpguesthouse.com/",
+      "id": "turkiye-2c8f8d4bd31fa0248f81"
+    },
+    {
+      "name": "Grand Anka Hotel",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0120664798871,
+      "lon": 28.94102389756831,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Molla Gürani Cd 46",
+      "price": "B&B double 2000 TL",
+      "url": "https://grandankahotel.com/",
+      "id": "turkiye-289782a26973b46d07f0"
+    },
+    {
+      "name": "Tulip Guesthouse",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0058592897232,
+      "lon": 28.98132183134217,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Terbıyık Sk 19",
+      "price": "Dorm 1000 TL ppn, double room 3000 TL",
+      "url": "https://www.tulipguesthouse.com/",
+      "id": "turkiye-5b27cf200ff100f9742a"
+    },
+    {
+      "name": "Avrasya Hostel",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.00591141691258,
+      "lon": 28.979565838201047,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Seyit Hasan Sk 12",
+      "price": "Dorm 1000 TL ppn",
+      "id": "turkiye-31ab75907fb494957fe7"
+    },
+    {
+      "name": "Yeni Otel",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.01397051681652,
+      "lon": 28.977964727133138,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Dervişler Sk 12",
+      "price": "B&B double 4000 TL",
+      "id": "turkiye-cbdd641d7b6e8a7b211c"
+    },
+    {
+      "name": "Nomade Old City Hotel",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.00835331319802,
+      "lon": 28.976204919065765,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Ticarethane Sk 15",
+      "price": "B&B double 3000 TL",
+      "url": "https://www.hotelnomade.com.tr/",
+      "id": "turkiye-3cc0e08ef0274ba1951f"
+    },
+    {
+      "name": "Tulip House",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.00549339236756,
+      "lon": 28.971693246641337,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Katip Sinan Cami Sk 28",
+      "price": "B&B double 3000 TL",
+      "url": "https://www.hoteltuliphouse.com/",
+      "id": "turkiye-6a11a380b618e55795b2"
+    },
+    {
+      "name": "Sarnıç Hotel",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.00380139112043,
+      "lon": 28.975443446641048,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Küçük Ayasofya Cd 26",
+      "price": "B&B double 3000 TL",
+      "url": "https://www.sarnichotel.com/",
+      "id": "turkiye-e2c3d9d2ec458d442249"
+    },
+    {
+      "name": "Hotel Armagrandi Spina",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.00591189267589,
+      "lon": 28.97908534664115,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Utangaç Sk 19",
+      "price": "B&B double 4000 TL",
+      "url": "https://armagrandi.com/hotel-spina/",
+      "id": "turkiye-3f3d5dd305837bdbe196"
+    },
+    {
+      "name": "Armada Hotel",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.00375139108359,
+      "lon": 28.98152996198613,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Ahırkapı Cd 10",
+      "price": "B&B double 5000 TL",
+      "url": "https://www.armadahotel.com.tr/",
+      "id": "turkiye-e26edea10b7db6b343b8"
+    },
+    {
+      "name": "Sultanhan Hotel",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.007542008994854,
+      "lon": 28.972849904313726,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Piyer Loti Cd 7",
+      "price": "B&B double 3000 TL",
+      "url": "https://www.hotelsultanhan.com/",
+      "id": "turkiye-6115afdc8c9ff3aefab0"
+    },
+    {
+      "name": "Blue House Rooftop",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.00543340640436,
+      "lon": 28.97906016198622,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Dalbasti Sk 14",
+      "price": "B&B double 3000 TL",
+      "url": "https://www.bluehouseistanbul.com/",
+      "id": "turkiye-34abd033cf222fa7d612"
+    },
+    {
+      "name": "Empress Zoe",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.00632518572688,
+      "lon": 28.981073297568088,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Akbıyık Cd 10",
+      "price": "B&B double 5000 TL",
+      "url": "https://emzoe.com/index.html",
+      "id": "turkiye-253242b5ba6624cceafd"
+    },
+    {
+      "name": "Esans Hotel",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.00606630018262,
+      "lon": 28.981682589027635,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Yenisarachane Sk 4",
+      "price": "B&B double 2500 TL",
+      "url": "http://www.esanshotel.com/",
+      "id": "turkiye-f828a8b954ae9c40b834"
+    },
+    {
+      "name": "Ibrahim Pasha",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.00608039999786,
+      "lon": 28.974878404313728,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Terzihane Sk 7",
+      "price": "B&B double 4000 TL",
+      "url": "https://www.ibrahimpasha.com/",
+      "id": "turkiye-9f32b6fafc35e63db46f"
+    },
+    {
+      "name": "Dersaadet Hotel",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.00345739742018,
+      "lon": 28.97614366198606,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Kapiağasi Sk 5",
+      "price": "B&B double 2500 TL",
+      "url": "https://www.hoteldersaadet.com/",
+      "id": "turkiye-54b660f6a667300e6157"
+    },
+    {
+      "name": "Hotel Niles",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.008008501892604,
+      "lon": 28.96481726198632,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Dibekli Cami Sk 13",
+      "price": "B&B double 3000 TL",
+      "url": "https://www.hotelniles.com/",
+      "id": "turkiye-9bdf3eccd7382b1542aa"
+    },
+    {
+      "name": "Hotel Inter Istanbul",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.00864717904751,
+      "lon": 28.96447313989567,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Büyük Haydar Efendi Sk 29",
+      "price": "B&B double 3000 TL",
+      "url": "https://www.hotelinteristanbul.com/",
+      "id": "turkiye-a048bd232c6cb7ee6dde"
+    },
+    {
+      "name": "Erguvan Hotel",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.003617484396436,
+      "lon": 28.974086097567973,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Aksakal Sk 3",
+      "price": "B&B double 2000 TL",
+      "url": "https://www.besthotel.pt/tr/hotel-erguvan/",
+      "id": "turkiye-2df09b7807ff80190363"
+    },
+    {
+      "name": "Garden House Istanbul",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.003979317727925,
+      "lon": 28.972550519064733,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Mehmet Paşa Sk 5",
+      "price": "B&B double 4000 TL",
+      "url": "https://www.gardenhousehotel.com/",
+      "id": "turkiye-86c1ebcf8dcb3e359b2b"
+    },
+    {
+      "name": "Hotel Tashkonak",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.003376390807254,
+      "lon": 28.976815419658614,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Tomurcuk Sk 5",
+      "price": "B&B double 2000 TL",
+      "url": "https://www.hoteltashkonak.com/",
+      "id": "turkiye-49db99ea988e8f085f66"
+    },
+    {
+      "name": "Hotel Sultan Hill",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.00488027467637,
+      "lon": 28.975740326404264,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Tavukhane Sk 15",
+      "price": "B&B double 2500 TL",
+      "url": "http://www.hotelsultanhill.com/",
+      "id": "turkiye-930121608ea7ee25bc12"
+    },
+    {
+      "name": "Yigitalp",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.01114987544578,
+      "lon": 28.955777768731966,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Çukur Çeşme Sk 34",
+      "price": "B&B double 2000 TL",
+      "url": "https://www.yigitalp.com/",
+      "id": "turkiye-44fe56dd3f738a7aaee3"
+    },
+    {
+      "name": "Hotel Sultania",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0125,
+      "lon": 28.9774,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Mehmet Murat Sk 4",
+      "price": "B&B double 4000 TL",
+      "url": "https://www.hotelsultania.com/",
+      "id": "turkiye-f4b55863410f3540af2e"
+    },
+    {
+      "name": "Sirkeci Mansion Hotel",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0128379845013,
+      "lon": 28.97855662640473,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Taya Hatun Sk 5",
+      "price": "B&B double 4000",
+      "url": "https://www.sirkecimansion.com/",
+      "id": "turkiye-9df0f22c1f07a2694602"
+    },
+    {
+      "name": "Four Seasons at Sultanahmet",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0067,
+      "lon": 28.9802,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Tevkifhane Sk 1",
+      "price": "B&B double 30,000 TL",
+      "url": "https://www.fourseasons.com/istanbul/",
+      "id": "turkiye-183e05aea1c70579f52a"
+    },
+    {
+      "name": "Wyndham Old City Hotel",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0124,
+      "lon": 28.9584,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Şehzadebaşı Cd 1",
+      "price": "B&B double 5000 TL",
+      "url": "https://www.wyndhamhotels.com/wyndham/istanbul-turkiye/wyndham-istanbul-old-city/overview",
+      "id": "turkiye-2da70a4b6a3fa463245e"
+    },
+    {
+      "name": "Doubletree by Hilton Old Town",
+      "kind": "stay",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.0092,
+      "lon": 28.9603,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "address": "Ordu Cd 31",
+      "price": "B&B double 4000 TL",
+      "url": "https://doubletree3.hilton.com/",
+      "id": "turkiye-80662d92171d196f40fe"
+    },
+    {
+      "name": "Istanbul/Historical Peninsula",
+      "kind": "area",
+      "locality": "Istanbul/Historical Peninsula",
+      "lat": 41.012,
+      "lon": 28.972,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FHistorical_Peninsula",
+      "id": "turkiye-1c0e05ab4290b2a260c8"
+    },
+    {
+      "name": "Galata Tower",
+      "kind": "do",
+      "locality": "Istanbul/Galata",
+      "lat": 41.025556,
+      "lon": 28.974167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "price": "650 TL",
+      "url": "https://muze.gov.tr/muze-detay?SectionId=GLT04&DistId=MRK",
+      "id": "turkiye-ca4395580766b315fd06"
+    },
+    {
+      "name": "Galata Convent of Whirling Dervishes",
+      "kind": "do",
+      "locality": "Istanbul/Galata",
+      "lat": 41.028028,
+      "lon": 28.975125,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Galip Dede Cd 15, Tünel",
+      "price": "150 TL",
+      "url": "https://muze.gov.tr/muze-detay?sectionId=GLT01&distId=MRK",
+      "id": "turkiye-a193f7fef009b52cc93e"
+    },
+    {
+      "name": "Kasimpaşa Mevlevihanesi",
+      "kind": "do",
+      "locality": "Istanbul/Galata",
+      "lat": 41.036213,
+      "lon": 28.97069,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Keramet Sk. No: 17",
+      "url": "https://kasimpasamevlevihanesi.com/",
+      "id": "turkiye-0ab401aa1a8203eac386"
+    },
+    {
+      "name": "Crimean Memorial Church",
+      "kind": "do",
+      "locality": "Istanbul/Galata",
+      "lat": 41.0277,
+      "lon": 28.9771,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Kumbaracıbaşı Yokuşu",
+      "price": "Free but 10 TL donation is requested for maintenance of the church",
+      "url": "http://anglicansistanbul.blogspot.com/",
+      "id": "turkiye-f2b24877667d4aabd942"
+    },
+    {
+      "name": "Arap Camii",
+      "kind": "do",
+      "locality": "Istanbul/Galata",
+      "lat": 41.024444,
+      "lon": 28.970833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Galata Mahkemesi Sk",
+      "id": "turkiye-b4f3bfbbf880531fa010"
+    },
+    {
+      "name": "Neve Shalom Synagogue",
+      "kind": "do",
+      "locality": "Istanbul/Galata",
+      "lat": 41.026694,
+      "lon": 28.972417,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "url": "http://www.nevesalom.org/",
+      "id": "turkiye-42717f0ebe2ee9ade883"
+    },
+    {
+      "name": "Ashkenazi Synagogue",
+      "kind": "do",
+      "locality": "Istanbul/Galata",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "id": "turkiye-ee7133540f89c4654af8"
+    },
+    {
+      "name": "The Jewish Museum of Turkey",
+      "kind": "do",
+      "locality": "Istanbul/Galata",
+      "lat": 41.0267866,
+      "lon": 28.9727283,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Bereketzade Mh, Büyük Hendek Cd 39, Beyoğlu",
+      "url": "http://www.muze500.com/",
+      "id": "turkiye-ee4d75c6906412c24efa"
+    },
+    {
+      "name": "Camondo Stairs",
+      "kind": "do",
+      "locality": "Istanbul/Galata",
+      "lat": 41.02397,
+      "lon": 28.97378,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "id": "turkiye-d460779aefe9da6aa160"
+    },
+    {
+      "name": "Schneidertempel",
+      "kind": "do",
+      "locality": "Istanbul/Galata",
+      "lat": 41.02411637715728,
+      "lon": 28.974002326991922,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Bereketzade, Bankalar Cad./felek Sok. No:1",
+      "price": "Free admission",
+      "url": "http://www.schneidertempel.org/",
+      "id": "turkiye-c93fe0a8969e7267069b"
+    },
+    {
+      "name": "Pera Museum",
+      "kind": "do",
+      "locality": "Istanbul/Galata",
+      "lat": 41.031833,
+      "lon": 28.975139,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Meşrutiyet Cd 65",
+      "price": "20 TL, concession 10 TL, free on Fridays 18:00–22:00, students free on Wednesdays",
+      "url": "http://en.peramuzesi.org.tr/",
+      "id": "turkiye-27fe9791ef121f562899"
+    },
+    {
+      "name": "French Institute",
+      "kind": "do",
+      "locality": "Istanbul/Galata",
+      "lat": 41.0362358,
+      "lon": 28.9839866,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "İstiklal Cd 4",
+      "url": "http://www.ifturquie.org/",
+      "id": "turkiye-8826c48dd92b8f99b379"
+    },
+    {
+      "name": "Hagia Triada Greek Orthodox Church",
+      "kind": "do",
+      "locality": "Istanbul/Galata",
+      "lat": 41.0355,
+      "lon": 28.9842,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Taksim Square",
+      "id": "turkiye-5b48a684f4e81cb31e63"
+    },
+    {
+      "name": "S. Antonio di Padova Catholic Church",
+      "kind": "do",
+      "locality": "Istanbul/Galata",
+      "lat": 41.032317,
+      "lon": 28.977234,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Istiklal Cd 171 A",
+      "price": "Free",
+      "id": "turkiye-fd3123cc05707b19ddbd"
+    },
+    {
+      "name": "Cezayir Street",
+      "kind": "do",
+      "locality": "Istanbul/Galata",
+      "lat": 41.03135,
+      "lon": 28.97917,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "id": "turkiye-44965f95246582273404"
+    },
+    {
+      "name": "Museum of Innocence",
+      "kind": "do",
+      "locality": "Istanbul/Galata",
+      "lat": 41.030931,
+      "lon": 28.979822,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Çukurcuma Cd, Dalgıç Çıkmazı, 2",
+      "price": "40 TL, 30 TL students, free admission on presentation of the novel",
+      "url": "http://en.masumiyetmuzesi.org/",
+      "id": "turkiye-35c19ba41dc17af8d365"
+    },
+    {
+      "name": "Madame Tussauds",
+      "kind": "do",
+      "locality": "Istanbul/Galata",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "İstiklal Cd 56",
+      "price": "650 TL; concessions when bought online and for domestic visitors",
+      "url": "https://www.madametussauds.com/istanbul/en/",
+      "id": "turkiye-c62ee2306a9f9270a41b"
+    },
+    {
+      "name": "İstanbul Modern",
+      "kind": "do",
+      "locality": "Istanbul/Galata",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "İskele Cd 1, Tophane",
+      "price": "350 TL, concessions for students and domestic visitors",
+      "url": "https://www.istanbulmodern.org/en",
+      "id": "turkiye-e9b7233ee6737fffc01d"
+    },
+    {
+      "name": "Orhan Kemal Museum",
+      "kind": "do",
+      "locality": "Istanbul/Galata",
+      "lat": 41.03055,
+      "lon": 28.98357,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Akarsu Cd 30, Cihangir",
+      "price": "10 TL, students 5 TL",
+      "url": "http://www.orhankemal.org/",
+      "id": "turkiye-197642fc594acbc60129"
+    },
+    {
+      "name": "Adam Mickiewicz Museum",
+      "kind": "do",
+      "locality": "Istanbul/Galata",
+      "lat": 41.038777,
+      "lon": 28.9771,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Tatlı Badem Sk 23, Tarlabaşı",
+      "price": "Free",
+      "url": "https://muze.gov.tr/muze-detay?sectionId=IDM01&distId=MRK",
+      "id": "turkiye-70e87ae75667b143f1e2"
+    },
+    {
+      "name": "Miniaturk",
+      "kind": "do",
+      "locality": "Istanbul/Galata",
+      "lat": 41.06,
+      "lon": 28.948611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "İmrahor Cd 7, Sütlüce",
+      "price": "250 TL; concession for domestic visitors",
+      "url": "https://www.miniaturk.com.tr/en/",
+      "id": "turkiye-3119eda37e3959dc5c52"
+    },
+    {
+      "name": "Aynalıkavak Pavilion",
+      "kind": "do",
+      "locality": "Istanbul/Galata",
+      "lat": 41.037917,
+      "lon": 28.955319,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Aynalıkavak Cd, Hasköy",
+      "price": "90 TL; concessions for students and domestic visitors",
+      "url": "https://www.millisaraylar.gov.tr/Lokasyon/9/Aynalikavak-Pavilions",
+      "id": "turkiye-7adc003872439cc79b9a"
+    },
+    {
+      "name": "Rahmi M. Koç Industrial Museum",
+      "kind": "do",
+      "locality": "Istanbul/Galata",
+      "lat": 41.04227,
+      "lon": 28.94926,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Hasköy Cd 5, Hasköy",
+      "price": "600 TL (July 2024, about €17); concessions for students and domestic visitors",
+      "url": "https://rmk-museum.org.tr/istanbul/en",
+      "id": "turkiye-e0dced6b542bf394a24d"
+    },
+    {
+      "name": "Arter",
+      "kind": "do",
+      "locality": "Istanbul/Galata",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Irmak Cd No: 13",
+      "url": "https://www.arter.org.tr/",
+      "id": "turkiye-2ff86260406d6ed0d186"
+    },
+    {
+      "name": "Beyoglu Hagia Constantine Greek Orthodox Church",
+      "kind": "do",
+      "locality": "Istanbul/Galata",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "id": "turkiye-684d3552fe3a310bbf82"
+    },
+    {
+      "name": "Galataport",
+      "kind": "do",
+      "locality": "Istanbul/Galata",
+      "lat": 41.027776708880175,
+      "lon": 28.985005548280704,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Kılıçali Paşa, Meclis-i Mebusan Cd. No:8",
+      "url": "https://www.instagram.com/galataportistanbul",
+      "id": "turkiye-b6bfef8f5d4b043c502c"
+    },
+    {
+      "name": "Haliçport",
+      "kind": "do",
+      "locality": "Istanbul/Galata",
+      "lat": 41.03457107052878,
+      "lon": 28.957262428727464,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Donanma Cd.",
+      "url": "https://www.instagram.com/tersaneistanbul/",
+      "id": "turkiye-b9ac9ed5681e20fd2c30"
+    },
+    {
+      "name": "Bereket Döner",
+      "kind": "eat",
+      "locality": "Istanbul/Galata",
+      "lat": 41.03463,
+      "lon": 28.98075,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "İstiklal Cd, Sadri Alışık Sk 5",
+      "price": "13-23 TL for a full meal; can be substantially cheaper if you forgo salad or appetizers",
+      "url": "http://bereketdoner.com/",
+      "id": "turkiye-42efb31bccf5a85ec3aa"
+    },
+    {
+      "name": "a strip of eateries",
+      "kind": "eat",
+      "locality": "Istanbul/Galata",
+      "lat": 41.03611,
+      "lon": 28.9847,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "id": "turkiye-499731264fcd7eb012f7"
+    },
+    {
+      "name": "Balıkpazarı Alley",
+      "kind": "eat",
+      "locality": "Istanbul/Galata",
+      "lat": 41.034437,
+      "lon": 28.977189,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "id": "turkiye-551fa26a322321b1c3c3"
+    },
+    {
+      "name": "Şampiyon Kokoreç",
+      "kind": "eat",
+      "locality": "Istanbul/Galata",
+      "lat": 41.03403,
+      "lon": 28.97771,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Hüseyinağa, Sahne Sk 21, Beyoğlu",
+      "url": "http://www.sampiyonkokorec.com.tr/",
+      "id": "turkiye-3d0a0cc387cfe9866ef3"
+    },
+    {
+      "name": "İbrahim Hakkı Uğrak Börek",
+      "kind": "eat",
+      "locality": "Istanbul/Galata",
+      "lat": 41.024212,
+      "lon": 28.97612,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Müeyyedzade, Necatibey Cd. No:45",
+      "price": "Börek portion 40-50 TL",
+      "id": "turkiye-7b24bab2868be5fb9cce"
+    },
+    {
+      "name": "Degustasyon Restaurant",
+      "kind": "eat",
+      "locality": "Istanbul/Galata",
+      "lat": 41.03473,
+      "lon": 28.97703,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Balık Pazarı S. 25",
+      "price": "95-125 TL including local spirits",
+      "id": "turkiye-c2da37e59da9486892b6"
+    },
+    {
+      "name": "Ficcin",
+      "kind": "eat",
+      "locality": "Istanbul/Galata",
+      "lat": 41.0325552,
+      "lon": 28.9757155,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Kallavi Sokağı 13",
+      "price": "Around 20 TL per person without wine",
+      "url": "http://www.ficcin.com/",
+      "id": "turkiye-587eb31d7f9c796c6892"
+    },
+    {
+      "name": "Nevizade Street",
+      "kind": "eat",
+      "locality": "Istanbul/Galata",
+      "lat": 41.03481,
+      "lon": 28.97783,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "id": "turkiye-015db7b2089b90d9f8f8"
+    },
+    {
+      "name": "Haci Abdullah Lokantası",
+      "kind": "eat",
+      "locality": "Istanbul/Galata",
+      "lat": 41.035313,
+      "lon": 28.980245,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Ağa Camii, Atıf Yılmaz Caddesi (Eski Sakizagaci Caddesi) No: 9/A",
+      "url": "http://haciabdullah.com.tr/",
+      "id": "turkiye-d11f877f0e29f5c9a01f"
+    },
+    {
+      "name": "Leb-i Derya",
+      "kind": "eat",
+      "locality": "Istanbul/Galata",
+      "lat": 41.028669,
+      "lon": 28.976346,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "price": "Starters 18-45 TL, mains 30-70 TL",
+      "url": "http://www.lebiderya.com/",
+      "id": "turkiye-bb06fc3a2ac0900f28f4"
+    },
+    {
+      "name": "The House Café",
+      "kind": "eat",
+      "locality": "Istanbul/Galata",
+      "lat": 41.032826,
+      "lon": 28.976665,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Istiklal Caddesi Mısır Apt. No:163",
+      "url": "http://www.thehousecafe.com/",
+      "id": "turkiye-7976a8425f05be11cc49"
+    },
+    {
+      "name": "Miss Pizza Sishane",
+      "kind": "eat",
+      "locality": "Istanbul/Galata",
+      "lat": 41.028618,
+      "lon": 28.973056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Meşrutiyet Caddesi 86A",
+      "url": "http://www.misspizza.com.tr/",
+      "id": "turkiye-56023884fe0e96ad257d"
+    },
+    {
+      "name": "Privato",
+      "kind": "eat",
+      "locality": "Istanbul/Galata",
+      "lat": 41.0268623,
+      "lon": 28.9740831,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Tımarcı Sokak 3B",
+      "price": "Breakfast 65 TL per person, mains 30-40 TL",
+      "url": "http://privatocafe.com/",
+      "id": "turkiye-709bcdfadf858b362cca"
+    },
+    {
+      "name": "Zeytuna",
+      "kind": "eat",
+      "locality": "Istanbul/Galata",
+      "lat": 41.03181,
+      "lon": 28.97943,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Hayriye Cd. 12",
+      "price": "Cocktail US$10 (Feb 2023)",
+      "url": "http://zeytuna-cezayirde.business.site/",
+      "id": "turkiye-d39477cd29ba582dbd3f"
+    },
+    {
+      "name": "360 Istanbul",
+      "kind": "eat",
+      "locality": "Istanbul/Galata",
+      "lat": 41.0327,
+      "lon": 28.9767,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Istiklal Cd 163, Mısır Apartmanı, floor 8",
+      "url": "https://www.360istanbul.com/",
+      "id": "turkiye-fdaec7d4bfff8da8b108"
+    },
+    {
+      "name": "Riddim Club Taksim",
+      "kind": "eat",
+      "locality": "Istanbul/Galata",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Cihangir, Sıraselviler Cd 35/1",
+      "url": "https://www.instagram.com/riddimclub/",
+      "id": "turkiye-f601fb448f7d1550dff3"
+    },
+    {
+      "name": "Mektup Bar",
+      "kind": "eat",
+      "locality": "Istanbul/Galata",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Şehit Muhtar, İmam Adnan Sk 20",
+      "url": "https://www.facebook.com/pages/Mektup-Bar-Taksim/313261632033153",
+      "id": "turkiye-9ae280b69fec0194b455"
+    },
+    {
+      "name": "Montreal Nevizade",
+      "kind": "eat",
+      "locality": "Istanbul/Galata",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Hüseyinağa, Nevizade Sk 12",
+      "url": "https://www.instagram.com/montrealnevizade/",
+      "id": "turkiye-407886ce41a144c95340"
+    },
+    {
+      "name": "Snog Rooftop Bar",
+      "kind": "eat",
+      "locality": "Istanbul/Galata",
+      "lat": 41.0265013,
+      "lon": 28.9744533,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Galip Dede Cd 56",
+      "url": "https://www.snogroofbar.com/",
+      "id": "turkiye-625989ceeb3330421ce4"
+    },
+    {
+      "name": "Kadınlar Kahvesi",
+      "kind": "eat",
+      "locality": "Istanbul/Galata",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "İstiklal Cd, Ayhan Işık Sk 19",
+      "id": "turkiye-5d64221864678c5bb964"
+    },
+    {
+      "name": "Hotel Mara",
+      "kind": "stay",
+      "locality": "Istanbul/Galata",
+      "lat": 41.0339,
+      "lon": 28.9789,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Turnacıbaşı Cd 4, off Istikal Cd",
+      "price": "B&B double €50",
+      "url": "https://www.hotelmaraistanbul.com/",
+      "id": "turkiye-2d8b150639a7855c848f"
+    },
+    {
+      "name": "World House Hotel",
+      "kind": "stay",
+      "locality": "Istanbul/Galata",
+      "lat": 41.0265,
+      "lon": 28.9747,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Galip Dede Cd 85",
+      "price": "Double (room only) €200",
+      "url": "https://www.worldhousebh.com/",
+      "id": "turkiye-a1f7dc89edf6bfd7e56d"
+    },
+    {
+      "name": "Midtown Hotel Istanbul",
+      "kind": "stay",
+      "locality": "Istanbul/Galata",
+      "lat": 41.0389,
+      "lon": 28.9849,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Lamartin Cd 13",
+      "price": "B&B double €130",
+      "url": "https://www.midtown-hotel.com/",
+      "id": "turkiye-75e49fc69086da977c03"
+    },
+    {
+      "name": "Radisson Blu",
+      "kind": "stay",
+      "locality": "Istanbul/Galata",
+      "lat": 41.0305,
+      "lon": 28.9719,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Refik Saydam Cd 19",
+      "price": "B&B double €140",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-istanbul-pera",
+      "id": "turkiye-f7eb08acb95ada02d639"
+    },
+    {
+      "name": "Richmond Istanbul",
+      "kind": "stay",
+      "locality": "Istanbul/Galata",
+      "lat": 41.0298,
+      "lon": 28.9756,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "İstiklal Cd 227",
+      "price": "B&B double €170",
+      "url": "https://www.richmondhotels.com.tr/richmond-istanbul-taksim-beyoglu-oteli/",
+      "id": "turkiye-f96574002b515166c493"
+    },
+    {
+      "name": "Misafir Suites",
+      "kind": "stay",
+      "locality": "Istanbul/Galata",
+      "lat": 41.0343,
+      "lon": 28.9809,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Gazeteci Erol Dernek Sk 1",
+      "price": "B&B double €100",
+      "url": "https://8istanbul.com/",
+      "id": "turkiye-8859c69fbeba98f5dedc"
+    },
+    {
+      "name": "Intercontinental Istanbul",
+      "kind": "stay",
+      "locality": "Istanbul/Galata",
+      "lat": 41.0399,
+      "lon": 28.9883,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Asker Ocağı Cd 1",
+      "price": "B&B double €280",
+      "url": "https://www.ihg.com/",
+      "id": "turkiye-31ded2d8998de01ccff4"
+    },
+    {
+      "name": "Pera Palace",
+      "kind": "stay",
+      "locality": "Istanbul/Galata",
+      "lat": 41.031,
+      "lon": 28.9735,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Meşrutiyet Cd 52",
+      "price": "B&B double €350",
+      "url": "https://perapalace.com/",
+      "id": "turkiye-cccc2801349130666539"
+    },
+    {
+      "name": "Marmara Taksim",
+      "kind": "stay",
+      "locality": "Istanbul/Galata",
+      "lat": 41.0364,
+      "lon": 28.9863,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Osmanlı Sk 1, Taksim Meydanı",
+      "price": "B&B double €240",
+      "url": "https://www.themarmarahotels.com/taksim",
+      "id": "turkiye-db96dcf59afc73cebc59"
+    },
+    {
+      "name": "Witt Istanbul Hotel",
+      "kind": "stay",
+      "locality": "Istanbul/Galata",
+      "lat": 41.0291,
+      "lon": 28.9821,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Defterdar Yokuşu 26",
+      "price": "B&B double €300",
+      "url": "https://www.wittistanbul.com/",
+      "id": "turkiye-498201e665de9a2e888e"
+    },
+    {
+      "name": "Tomtom Suites",
+      "kind": "stay",
+      "locality": "Istanbul/Galata",
+      "lat": 41.0303,
+      "lon": 28.9778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "address": "Tomtom Kaptan Sk 18, off Boğazkesen Cd",
+      "price": "B&B double €400",
+      "url": "https://www.tomtomsuites.com/",
+      "id": "turkiye-318e6f0f95627733fe7c"
+    },
+    {
+      "name": "Istanbul/Galata",
+      "kind": "area",
+      "locality": "Istanbul/Galata",
+      "lat": 41.031944,
+      "lon": 28.976111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGalata",
+      "id": "turkiye-e11a5b8b1b32fca336a6"
+    },
+    {
+      "name": "Dolmabahce Palace",
+      "kind": "do",
+      "locality": "Istanbul/European Bosphorus",
+      "lat": 41.039444,
+      "lon": 29.001667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "address": "Dolmabahçe Cd, Beşiktaş",
+      "price": "Foreigners pay 1200 TL for Selamlık + Harem + Painting Museum, Domestic Visitors 170 TL, Müzeumkart not accepted",
+      "url": "https://www.millisaraylar.gov.tr/Lokasyon/3/Dolmabahce-Sarayi",
+      "id": "turkiye-0b7161e6f5f1011a04eb"
+    },
+    {
+      "name": "Akaretler Street",
+      "kind": "do",
+      "locality": "Istanbul/European Bosphorus",
+      "lat": 41.04226,
+      "lon": 29.00088,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "id": "turkiye-c62461c151fe67887f04"
+    },
+    {
+      "name": "Linden Palace",
+      "kind": "do",
+      "locality": "Istanbul/European Bosphorus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "price": "Free",
+      "url": "https://www.millisaraylar.gov.tr/kasirlar/ihlamur-kasirlari",
+      "id": "turkiye-fb18da9d5c36d07baaed"
+    },
+    {
+      "name": "Yıldız Palace",
+      "kind": "do",
+      "locality": "Istanbul/European Bosphorus",
+      "lat": 41.0494,
+      "lon": 29.0111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "price": "Free",
+      "url": "https://millisaraylar.gov.tr/en/palaces/yildiz-palace",
+      "id": "turkiye-c325fa3e0993bcaf8631"
+    },
+    {
+      "name": "Ortaköy",
+      "kind": "do",
+      "locality": "Istanbul/European Bosphorus",
+      "lat": 41.048056,
+      "lon": 29.023611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "id": "turkiye-5feea615d05d0a4d4ba6"
+    },
+    {
+      "name": "Arnavutköy",
+      "kind": "do",
+      "locality": "Istanbul/European Bosphorus",
+      "lat": 41.068024,
+      "lon": 29.041125,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "id": "turkiye-ee8a7a0dc27adfafa08a"
+    },
+    {
+      "name": "Rumeli Fortress",
+      "kind": "do",
+      "locality": "Istanbul/European Bosphorus",
+      "lat": 41.084722,
+      "lon": 29.056111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "price": "130 TL (about €4.25)",
+      "url": "https://muze.gov.tr/muze-detay?DistId=MRK&SectionId=HIS01",
+      "id": "turkiye-b4be8c096975ab3abf17"
+    },
+    {
+      "name": "Baltalimanı Japanese Garden",
+      "kind": "do",
+      "locality": "Istanbul/European Bosphorus",
+      "lat": 41.0971,
+      "lon": 29.05222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "price": "Free",
+      "url": "https://www.istanbul.tr.emb-japan.go.jp/japonbahcesi/index.html",
+      "id": "turkiye-1d8b8e223e7ed2f1808b"
+    },
+    {
+      "name": "Sakıp Sabancı Museum",
+      "kind": "do",
+      "locality": "Istanbul/European Bosphorus",
+      "lat": 41.099116,
+      "lon": 29.053704,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "address": "Sakıp Sabancı Cd 42, Emirgan",
+      "price": "10 TL (3 TL students)",
+      "url": "http://www.sakipsabancimuzesi.org/",
+      "id": "turkiye-1c63bbe9f0a056ccea69"
+    },
+    {
+      "name": "Ural Ataman Classic Car Museum",
+      "kind": "do",
+      "locality": "Istanbul/European Bosphorus",
+      "lat": 41.128079,
+      "lon": 29.047759,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "address": "Ferahevler, Nuri Paşa Cd. No:107, Sarıyer",
+      "url": "https://www.atamanmuseum.com/tr/",
+      "id": "turkiye-e9f1a5c1b63ab3d556e1"
+    },
+    {
+      "name": "Emirgan Park",
+      "kind": "do",
+      "locality": "Istanbul/European Bosphorus",
+      "lat": 41.108333,
+      "lon": 29.0525,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "price": "Free",
+      "id": "turkiye-6fcfdf1776a6fe7fbe6e"
+    },
+    {
+      "name": "Sadberk Hanım Museum",
+      "kind": "do",
+      "locality": "Istanbul/European Bosphorus",
+      "lat": 41.16308,
+      "lon": 29.04777,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "address": "Büyükdere Piyasa Cd 27-29, Sarıyer",
+      "price": "10 TL",
+      "url": "http://www.sadberkhanimmuzesi.org.tr/default.asp?page=iletisim&hl=tr",
+      "id": "turkiye-450992dfd096e82101c2"
+    },
+    {
+      "name": "Yusuf Ziya Mansion",
+      "kind": "do",
+      "locality": "Istanbul/European Bosphorus",
+      "lat": 41.08913,
+      "lon": 29.056555,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "address": "Rumeli Hisarı, Balta Limanı Hisar Cd. No:5, Sarıyer",
+      "price": "₺350 (general)",
+      "url": "https://www.borusancontemporary.com/",
+      "id": "turkiye-4d3fdad4f5e7703d07fb"
+    },
+    {
+      "name": "Belgrad Forest",
+      "kind": "do",
+      "locality": "Istanbul/European Bosphorus",
+      "lat": 41.19431,
+      "lon": 28.95138,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "id": "turkiye-10258e3c4fc9b4065a40"
+    },
+    {
+      "name": "Atatürk Arboretum",
+      "kind": "do",
+      "locality": "Istanbul/European Bosphorus",
+      "lat": 41.176,
+      "lon": 28.985,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "address": "Bahçeköy",
+      "price": "Adult weekend 60 TL, weekdays 30 TL, card payment only",
+      "url": "https://ataturkarboretumu.ogm.gov.tr/",
+      "id": "turkiye-59a3c2f353ea6a35ac6e"
+    },
+    {
+      "name": "Rumelifeneri",
+      "kind": "do",
+      "locality": "Istanbul/European Bosphorus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "id": "turkiye-c57f91d4cf5b1fab4079"
+    },
+    {
+      "name": "Kilyos or Kumköy",
+      "kind": "do",
+      "locality": "Istanbul/European Bosphorus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "id": "turkiye-eb5ef4824b37d2d18c74"
+    },
+    {
+      "name": "Beşiktaş Stadium",
+      "kind": "do",
+      "locality": "Istanbul/European Bosphorus",
+      "lat": 41.03948843991982,
+      "lon": 28.994291823279045,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "address": "Vişnezade, Dolmabahçe Cd. No:1, Beşiktaş",
+      "id": "turkiye-87bb7b925374e9ea19a0"
+    },
+    {
+      "name": "Sarıyer Bird Observatory Tower.",
+      "kind": "do",
+      "locality": "Istanbul/European Bosphorus",
+      "lat": 41.192284047404364,
+      "lon": 29.074063954034795,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "address": "Garipçe, Sarıyer Rumeli Feneri Yolu No:4359, Sarıyer",
+      "id": "turkiye-7104ab5675f7ef0b1204"
+    },
+    {
+      "name": "Yeşil Çiftlik Restaurant",
+      "kind": "eat",
+      "locality": "Istanbul/European Bosphorus",
+      "lat": 41.2212,
+      "lon": 29.0333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "address": "Kilyos Yolu Uskumruköy Kavsağı No:30 Sariyer/Istanbul",
+      "url": "http://www.yesilciftlik.net/",
+      "id": "turkiye-5b6231199ac14ae09b50"
+    },
+    {
+      "name": "Vagabondo's Ristorante & Pizzeria",
+      "kind": "eat",
+      "locality": "Istanbul/European Bosphorus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "address": "Köybaşı Cad. Yalılar Durağı No: 168 Yeniköy / İstanbul",
+      "url": "http://www.vagabondosrest.com/",
+      "id": "turkiye-be5a81f264d5ffe74ac4"
+    },
+    {
+      "name": "Güzelyer Yedigün Balık Lokantasi",
+      "kind": "eat",
+      "locality": "Istanbul/European Bosphorus",
+      "lat": 41.1831753,
+      "lon": 29.075266,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "address": "Rumelikavagi karakutuk cad. No: 96 Tellibaba ustu, 34450 Sarıyer",
+      "id": "turkiye-b73a22e8f1fc16781747"
+    },
+    {
+      "name": "Uzunya Beach Restaurant",
+      "kind": "eat",
+      "locality": "Istanbul/European Bosphorus",
+      "lat": 41.24801,
+      "lon": 29.07101,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "address": "Demirci, Plaj Yolu Cd., 34450 Sarıyer",
+      "url": "http://www.uzunya.com/",
+      "id": "turkiye-a5446e1d73605889513a"
+    },
+    {
+      "name": "Sans",
+      "kind": "eat",
+      "locality": "Istanbul/European Bosphorus",
+      "lat": 41.0816113,
+      "lon": 29.0145792,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "address": "Palmiye Sokak 1.",
+      "url": "http://www.sansrestaurant.com/",
+      "id": "turkiye-74bf5648228fde2f058a"
+    },
+    {
+      "name": "Park Fora",
+      "kind": "eat",
+      "locality": "Istanbul/European Bosphorus",
+      "lat": 41.0539812,
+      "lon": 29.0349231,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "address": "Muallim Naci Caddesi, Cemil Topuzlu Parkı",
+      "url": "http://parkfora.com/",
+      "id": "turkiye-3b17ac247299cca0362b"
+    },
+    {
+      "name": "Divan Brasserie Bebek",
+      "kind": "eat",
+      "locality": "Istanbul/European Bosphorus",
+      "lat": 41.0777351,
+      "lon": 29.044104,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "address": "Bebek, Cevdet Paşa Cd. No: 28/A, 34342 Beşiktaş",
+      "url": "https://www.divan.com.tr/restoran/divan-brasserie-bebek",
+      "id": "turkiye-5c1110391c44dc205820"
+    },
+    {
+      "name": "Ulus 29",
+      "kind": "eat",
+      "locality": "Istanbul/European Bosphorus",
+      "lat": 41.0645058,
+      "lon": 29.0319893,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "address": "Ahmet Adnan Saygun Caddesi 71",
+      "url": "http://www.ulus29.com/",
+      "id": "turkiye-1cfc749b616c9822fa9a"
+    },
+    {
+      "name": "Kazan",
+      "kind": "eat",
+      "locality": "Istanbul/European Bosphorus",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "address": "Beşiktaş Caddesi 35, Beşiktaş",
+      "url": "http://www.kazan.com.tr/",
+      "id": "turkiye-714863bf996b7cc5b1a8"
+    },
+    {
+      "name": "Ciragan Palace Kempinski",
+      "kind": "stay",
+      "locality": "Istanbul/European Bosphorus",
+      "lat": 41.04458,
+      "lon": 29.01697,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "address": "Çırağan Cd 32, Beşiktaş",
+      "price": "B&B doubles from €250",
+      "url": "https://www.kempinski.com/en/istanbul/ciragan-palace/",
+      "id": "turkiye-d7c24dbe579b7b597c39"
+    },
+    {
+      "name": "W Istanbul",
+      "kind": "stay",
+      "locality": "Istanbul/European Bosphorus",
+      "lat": 41.04241,
+      "lon": 29.00232,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "address": "Süleyman Seba Cd 2, Akaretler, Beşiktaş",
+      "price": "B&B doubles from €140",
+      "url": "https://www.marriott.com/hotels/travel/istwh-w-istanbul/",
+      "id": "turkiye-e0570d57e1a3d7926e41"
+    },
+    {
+      "name": "Swissôtel The Bosphorus",
+      "kind": "stay",
+      "locality": "Istanbul/European Bosphorus",
+      "lat": 41.04103,
+      "lon": 28.99762,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "address": "Bayıldım Cd 2, Maçka",
+      "price": "Doubles from €220",
+      "url": "https://www.swissotel.com/hotels/istanbul/",
+      "id": "turkiye-8cfce6045c32490291bb"
+    },
+    {
+      "name": "Radisson Blu Bosphorus Hotel, Istanbul",
+      "kind": "stay",
+      "locality": "Istanbul/European Bosphorus",
+      "lat": 41.04757,
+      "lon": 29.02458,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "address": "Çırağan Cd 46, Ortaköy",
+      "price": "B&B doubles from €180",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-istanbul-bosphorus",
+      "id": "turkiye-79703b951f962c3f45df"
+    },
+    {
+      "name": "Istanbul/European Bosphorus",
+      "kind": "area",
+      "locality": "Istanbul/European Bosphorus",
+      "lat": 41.081,
+      "lon": 29.038,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FEuropean_Bosphorus",
+      "id": "turkiye-a2ab5d88624b852ab167"
+    },
+    {
+      "name": "Eyüp Mosque Complex",
+      "kind": "do",
+      "locality": "Istanbul/Golden Horn",
+      "lat": 41.047947,
+      "lon": 28.933786,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGolden_Horn",
+      "address": "Eyüp",
+      "price": "Free",
+      "id": "turkiye-0240091d29b8e11815ba"
+    },
+    {
+      "name": "Artistanbul Feshane",
+      "kind": "do",
+      "locality": "Istanbul/Golden Horn",
+      "lat": 41.04405,
+      "lon": 28.93754,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGolden_Horn",
+      "address": "Eski Feshane Cd, Eyüpsultan",
+      "id": "turkiye-c67c0f3816307a8ee299"
+    },
+    {
+      "name": "Santral İstanbul",
+      "kind": "do",
+      "locality": "Istanbul/Golden Horn",
+      "lat": 41.0665,
+      "lon": 28.9461,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGolden_Horn",
+      "address": "Silahtar Mh Kazım Karabekir Cd 1, Eyüp",
+      "price": "Free, guided tours 35 TL",
+      "url": "https://www.santralistanbul.org/en/",
+      "id": "turkiye-cd98308db19d4af373f4"
+    },
+    {
+      "name": "Bahariye Mevlevihanesi",
+      "kind": "do",
+      "locality": "Istanbul/Golden Horn",
+      "lat": 41.056008553904675,
+      "lon": 28.93938975827832,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGolden_Horn",
+      "id": "turkiye-cbbb478893643056d1f3"
+    },
+    {
+      "name": "Cable car",
+      "kind": "do",
+      "locality": "Istanbul/Golden Horn",
+      "lat": 41.04975,
+      "lon": 28.93442,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGolden_Horn",
+      "price": "The same price as in public transport, 2.6TL for IstanbulCard holders and 5TL for others",
+      "id": "turkiye-b587d5827c618a75a004"
+    },
+    {
+      "name": "Vialand",
+      "kind": "do",
+      "locality": "Istanbul/Golden Horn",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGolden_Horn",
+      "address": "Şehit Metin Kaya Sk, Yeşilpınar",
+      "price": "US$55, under 3 free, discount for domestic visitors",
+      "url": "https://vialand.com/",
+      "id": "turkiye-e0bab691986a0f50142e"
+    },
+    {
+      "name": "Istanbul Dolphinarium",
+      "kind": "do",
+      "locality": "Istanbul/Golden Horn",
+      "lat": 41.061721962670426,
+      "lon": 28.943148848047958,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGolden_Horn",
+      "address": "Silahtarağa Mh, Silahtarağa Cd. No:20",
+      "id": "turkiye-30954910f05bb1fbfc9f"
+    },
+    {
+      "name": "Eyüpsultan Cultural Center",
+      "kind": "do",
+      "locality": "Istanbul/Golden Horn",
+      "lat": 41.06001522929036,
+      "lon": 28.944174089971483,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGolden_Horn",
+      "address": "Merkez, Silahtarağa Cd. no:18",
+      "id": "turkiye-aa8ea4550ce462747687"
+    },
+    {
+      "name": "Haliç Congress Center",
+      "kind": "do",
+      "locality": "Istanbul/Golden Horn",
+      "lat": 41.05025480686098,
+      "lon": 28.940413800907205,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGolden_Horn",
+      "address": "Sütlüce, Karaağaç. Cad. No:48",
+      "id": "turkiye-319c396dbe1d835cf58b"
+    },
+    {
+      "name": "Rami Library",
+      "kind": "do",
+      "locality": "Istanbul/Golden Horn",
+      "lat": 41.048916,
+      "lon": 28.915567,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGolden_Horn",
+      "address": "Yeni Rami Mahallesi, Rami Kışla Cd. 98/1 Eyüpsultan",
+      "url": "https://ramikutuphanesi.gov.tr/",
+      "id": "turkiye-37b5546b0cc5313289bc"
+    },
+    {
+      "name": "Akmanoğlu Fırını",
+      "kind": "eat",
+      "locality": "Istanbul/Golden Horn",
+      "lat": 41.0475,
+      "lon": 28.932827,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGolden_Horn",
+      "price": "38-48 TL/kg",
+      "url": "http://www.akmanoglu.com.tr/",
+      "id": "turkiye-fd3389ee9cb3a69aea26"
+    },
+    {
+      "name": "Lale Lokantasi",
+      "kind": "eat",
+      "locality": "Istanbul/Golden Horn",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGolden_Horn",
+      "address": "Feshane Caddesi, Eyüp",
+      "id": "turkiye-639be492928a81895103"
+    },
+    {
+      "name": "La Mekan",
+      "kind": "eat",
+      "locality": "Istanbul/Golden Horn",
+      "lat": 41.07225473281501,
+      "lon": 28.94968493637677,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGolden_Horn",
+      "address": "Emniyettepe, Mareşal Fevzi Çakmak Cd. No:60 D:1",
+      "id": "turkiye-6b71085fa70a8b6614e5"
+    },
+    {
+      "name": "Pierre Loti",
+      "kind": "eat",
+      "locality": "Istanbul/Golden Horn",
+      "lat": 41.05416,
+      "lon": 28.93378,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGolden_Horn",
+      "price": "Drinks 4-10TL",
+      "id": "turkiye-adfe9fae4f9e17754a58"
+    },
+    {
+      "name": "Turquhouse Boutique Hotel",
+      "kind": "stay",
+      "locality": "Istanbul/Golden Horn",
+      "lat": 41.05456,
+      "lon": 28.93337,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGolden_Horn",
+      "address": "Merkez Mah. İdris Köşkü Caddesi, Eyüp",
+      "price": "B&B doubles from 240TL",
+      "url": "http://www.turquhouse.com/index2.asp",
+      "id": "turkiye-9c301333422a7f6a2d57"
+    },
+    {
+      "name": "Hilton Garden Inn Istanbul Golden Horn Turkey",
+      "kind": "stay",
+      "locality": "Istanbul/Golden Horn",
+      "lat": 41.053868,
+      "lon": 28.949804,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGolden_Horn",
+      "url": "https://www.hilton.com.tr/oteller/turkiye/istanbul/hilton-garden-inn-istanbul-golden-horn-turkey",
+      "id": "turkiye-b1ce74de2c3f9fbcf2fc"
+    },
+    {
+      "name": "Istanbul/Golden Horn",
+      "kind": "area",
+      "locality": "Istanbul/Golden Horn",
+      "lat": 41.0462,
+      "lon": 28.9288,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FGolden_Horn",
+      "id": "turkiye-a5230e3655368ef1d5ea"
+    },
+    {
+      "name": "Atatürk Museum",
+      "kind": "do",
+      "locality": "Istanbul/New City",
+      "lat": 41.056397,
+      "lon": 28.987212,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "address": "Halaskargazi Cd 250, Şişli",
+      "price": "Free",
+      "id": "turkiye-5fde9bf40f60061a4fa5"
+    },
+    {
+      "name": "Military Museum",
+      "kind": "do",
+      "locality": "Istanbul/New City",
+      "lat": 41.0484,
+      "lon": 28.9883,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "address": "Cumhuriyet Cd, Harbiye",
+      "url": "https://askerimuze.msb.gov.tr/",
+      "id": "turkiye-da16a3297f4075272b02"
+    },
+    {
+      "name": "Radio Building",
+      "kind": "do",
+      "locality": "Istanbul/New City",
+      "lat": 41.044506,
+      "lon": 28.987297,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "address": "Cumhuriyet Cd, Harbiye",
+      "id": "turkiye-7eddc5a128189b83819f"
+    },
+    {
+      "name": "Nişantaşı",
+      "kind": "do",
+      "locality": "Istanbul/New City",
+      "lat": 41.051667,
+      "lon": 28.991389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "id": "turkiye-a20d6492c77bb78db763"
+    },
+    {
+      "name": "Ihlamur Palace",
+      "kind": "do",
+      "locality": "Istanbul/New City",
+      "lat": 41.05110898246619,
+      "lon": 29.00267599587044,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "address": "Teşvikiye, Nişantaşı Ihlamur Yolu Sk.",
+      "id": "turkiye-f08c74ad216677a14b46"
+    },
+    {
+      "name": "HISART Museum",
+      "kind": "do",
+      "locality": "Istanbul/New City",
+      "lat": 41.07119489165968,
+      "lon": 28.982795083636148,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "address": "Hürriyet, Dr. Cemil Bengü Cd. No:21",
+      "id": "turkiye-5d934ab4e4fa2c50a40a"
+    },
+    {
+      "name": "WW1 Monument",
+      "kind": "do",
+      "locality": "Istanbul/New City",
+      "lat": 41.068152632720654,
+      "lon": 28.982065912457116,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "id": "turkiye-bd593a71f765b5738c13"
+    },
+    {
+      "name": "Armenian, Greek and Jewish Cemeteries",
+      "kind": "do",
+      "locality": "Istanbul/New City",
+      "lat": 41.06528090194343,
+      "lon": 28.99068891688332,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "id": "turkiye-52366065c539c271dfbf"
+    },
+    {
+      "name": "Attend the Tataula Carnival",
+      "kind": "do",
+      "locality": "Istanbul/New City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "id": "turkiye-24ad594b42b21e2f9930"
+    },
+    {
+      "name": "Maçka Park",
+      "kind": "do",
+      "locality": "Istanbul/New City",
+      "lat": 41.04406,
+      "lon": 28.99367,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "price": "Free",
+      "id": "turkiye-bbfcfba1c7ef2f7317f3"
+    },
+    {
+      "name": "Hasbahçe Park",
+      "kind": "do",
+      "locality": "Istanbul/New City",
+      "lat": 41.074789697966025,
+      "lon": 28.96647429992917,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "id": "turkiye-45967b322e7d736d02b0"
+    },
+    {
+      "name": "Ali Sami Yen Complex",
+      "kind": "do",
+      "locality": "Istanbul/New City",
+      "lat": 41.10320495121659,
+      "lon": 28.99103617917791,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "address": "Huzur, Metin Oktay Caddesi, Sarıyer",
+      "id": "turkiye-e1edb8fac88351dd0941"
+    },
+    {
+      "name": "Sultana's Dinner and 1001 Nights Show",
+      "kind": "eat",
+      "locality": "Istanbul/New City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "url": "http://www.sultanas-nights.com/",
+      "id": "turkiye-e408d6cc4ffd4b486cd8"
+    },
+    {
+      "name": "Set Kebap",
+      "kind": "eat",
+      "locality": "Istanbul/New City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "address": "Nispetiye Cad. No:13 in Levent",
+      "id": "turkiye-800887d2f568f66f09cf"
+    },
+    {
+      "name": "Kosebasi Kebap",
+      "kind": "eat",
+      "locality": "Istanbul/New City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "url": "http://www.kosebasi.com/",
+      "id": "turkiye-8c6cb3ae368d2bb35258"
+    },
+    {
+      "name": "Sosa",
+      "kind": "eat",
+      "locality": "Istanbul/New City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "address": "Akmerkez Mall, Etiler",
+      "id": "turkiye-ac5bea162f641510f16e"
+    },
+    {
+      "name": "Kristal Ocakbaşı",
+      "kind": "eat",
+      "locality": "Istanbul/New City",
+      "lat": 41.052274,
+      "lon": 28.9864223,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "address": "Eşref Efendi Sokak 14",
+      "id": "turkiye-6758371a1c7025d7538e"
+    },
+    {
+      "name": "Maslak",
+      "kind": "eat",
+      "locality": "Istanbul/New City",
+      "lat": 41.11236,
+      "lon": 29.02009,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "id": "turkiye-1dfafef6f5dd85d36e25"
+    },
+    {
+      "name": "Levent",
+      "kind": "eat",
+      "locality": "Istanbul/New City",
+      "lat": 41.08575,
+      "lon": 29.00826,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "id": "turkiye-b71d9637e57853d33a61"
+    },
+    {
+      "name": "Taps",
+      "kind": "eat",
+      "locality": "Istanbul/New City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "url": "https://tapsbebek.com/",
+      "id": "turkiye-870c837dbf5c85ed9b46"
+    },
+    {
+      "name": "Istanbul Suites",
+      "kind": "stay",
+      "locality": "Istanbul/New City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "address": "Ergenekon Mh, Harbiye Çayırı Sk 111, Şişli",
+      "price": "B&B doubles from €50",
+      "url": "http://www.istanbulsuites.com/",
+      "id": "turkiye-0b07ba7de431bfef3acd"
+    },
+    {
+      "name": "Gallery Residence Hotel",
+      "kind": "stay",
+      "locality": "Istanbul/New City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "address": "Vali Konağı Cd, Süleyman Nazik Sk 10, Nişantaşı",
+      "price": "Doubles EUR 80",
+      "url": "http://www.galleryresidence.com/",
+      "id": "turkiye-79fe24c5e1272606123e"
+    },
+    {
+      "name": "Jazz Hotel",
+      "kind": "stay",
+      "locality": "Istanbul/New City",
+      "lat": 41.0515732,
+      "lon": 28.9891853,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "address": "Bahtiyar Sk 1, Nişantaşı",
+      "price": "B&B doubles from €70",
+      "url": "http://www.jazzhotel.com.tr/",
+      "id": "turkiye-1e1da4b291aff8a3fd6e"
+    },
+    {
+      "name": "Arts Hotel",
+      "kind": "stay",
+      "locality": "Istanbul/New City",
+      "lat": 41.0484882,
+      "lon": 28.9872674,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "price": "B&B doubles from €90",
+      "url": "http://www.artshotelistanbul.com/",
+      "id": "turkiye-3b2f82cbe934f384206d"
+    },
+    {
+      "name": "Grand Hyatt Istanbul",
+      "kind": "stay",
+      "locality": "Istanbul/New City",
+      "lat": 41.0406321,
+      "lon": 28.9882748,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "address": "Taşkışla Cd, Taksim",
+      "price": "B&B doubles from €170",
+      "url": "https://istanbul.grand.hyatt.com/",
+      "id": "turkiye-4448e7d8cb1d04528bc8"
+    },
+    {
+      "name": "Hilton Istanbul Bosphorus",
+      "kind": "stay",
+      "locality": "Istanbul/New City",
+      "lat": 41.04477,
+      "lon": 28.98937,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "address": "Cumhuriyet Cd 50, Harbiye",
+      "price": "B&B double from €120",
+      "url": "http://www.istanbul.hilton.com/",
+      "id": "turkiye-acf9c16da27ffee7c6dc"
+    },
+    {
+      "name": "Park Hyatt Istanbul - Maçka Palas",
+      "kind": "stay",
+      "locality": "Istanbul/New City",
+      "lat": 41.047355,
+      "lon": 28.993587,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "address": "Teşvikiye, Bronz Sk 4, Şişli",
+      "price": "B&B doubles from €230",
+      "url": "https://istanbul.park.hyatt.com/",
+      "id": "turkiye-365902b6b22cbdc626f6"
+    },
+    {
+      "name": "Ritz-Carlton",
+      "kind": "stay",
+      "locality": "Istanbul/New City",
+      "lat": 41.04007,
+      "lon": 28.99217,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "address": "Süzer Plaza, Askerocağı Cd 15, Elmadağ",
+      "price": "B&B doubles from €220",
+      "url": "http://www.ritzcarlton.com/Istanbul",
+      "id": "turkiye-a7bdb9b1fc6e8a5a85cf"
+    },
+    {
+      "name": "Istanbul/New City",
+      "kind": "area",
+      "locality": "Istanbul/New City",
+      "lat": 41.047,
+      "lon": 28.9882,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FNew_City",
+      "id": "turkiye-bcdb33094fe2ca343289"
+    },
+    {
+      "name": "Halkalı Square",
+      "kind": "do",
+      "locality": "Istanbul/Western Suburbs",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "address": "Halkalı Merkez, 1. İkitelli Cad. 34303 Halkalı/Küçükçekmece/İstanbul",
+      "id": "turkiye-782b6d203bd0b32850a1"
+    },
+    {
+      "name": "Yeşilköy",
+      "kind": "do",
+      "locality": "Istanbul/Western Suburbs",
+      "lat": 40.96,
+      "lon": 28.824,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "id": "turkiye-c1257e0d4d1e1ce45d90"
+    },
+    {
+      "name": "Sea Life Istanbul",
+      "kind": "do",
+      "locality": "Istanbul/Western Suburbs",
+      "lat": 41.0456,
+      "lon": 28.8963,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "address": "Forum İstanbul 3, Kocatepe",
+      "price": "Online adult 518 TL, walk-up prices higher; discount for domestic visitors",
+      "url": "https://www.visitsealife.com/istanbul/en/",
+      "id": "turkiye-b02ca343ff84c5376f7b"
+    },
+    {
+      "name": "Legoland",
+      "kind": "do",
+      "locality": "Istanbul/Western Suburbs",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "address": "Forum İstanbul 54, Kocatepe",
+      "price": "650 TL; concessions when bought online and for domestic visitors",
+      "url": "https://www.legolanddiscoverycentre.com/istanbul/en/",
+      "id": "turkiye-e1a082f82aeb32fea1a6"
+    },
+    {
+      "name": "Mehmet Arsay Automobile Museum",
+      "kind": "do",
+      "locality": "Istanbul/Western Suburbs",
+      "lat": 41.057275,
+      "lon": 28.791153,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "address": "Atatürk, 1. İkitelli Cad. No:178, Küçükçekmece",
+      "url": "http://www.mehmetarsayklasikotomobilmuzesi.com/",
+      "id": "turkiye-0ecb2dd9d68289e85253"
+    },
+    {
+      "name": "Pelit Chocolate Museum",
+      "kind": "do",
+      "locality": "Istanbul/Western Suburbs",
+      "lat": 41.059,
+      "lon": 28.6637,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "address": "Koza Mahallesi 1678 Sk. No:19, Esenyurt",
+      "price": "250 TL",
+      "url": "https://www.pelitcikolatamuse.com/",
+      "id": "turkiye-fd7b9b1fa3d8d2740fa9"
+    },
+    {
+      "name": "Mor Ephrem Syriac Orthodox Church",
+      "kind": "do",
+      "locality": "Istanbul/Western Suburbs",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "id": "turkiye-a2c8f00c7dca8e53a65c"
+    },
+    {
+      "name": "Aviation Museum",
+      "kind": "do",
+      "locality": "Istanbul/Western Suburbs",
+      "lat": 40.963862,
+      "lon": 28.825765,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "address": "Eski Havalimanı Cd, Yeşilköy",
+      "price": "200 TL; discount for domestic visitors",
+      "url": "https://istanbulhavamuze.hvkk.tsk.tr/",
+      "id": "turkiye-4049ac08c224b3bb900f"
+    },
+    {
+      "name": "Istanbul Akvaryum",
+      "kind": "do",
+      "locality": "Istanbul/Western Suburbs",
+      "lat": 40.965,
+      "lon": 28.8,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "address": "Şenlikköy Mh",
+      "price": "Online adult 600 TL, students 550 TL; discount for domestic visitors",
+      "url": "https://www.istanbulakvaryum.com/en/",
+      "id": "turkiye-c4485ba08a497517433a"
+    },
+    {
+      "name": "Küçükçekmece",
+      "kind": "do",
+      "locality": "Istanbul/Western Suburbs",
+      "lat": 40.9912,
+      "lon": 28.7713,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "id": "turkiye-f53177e1e272ec312137"
+    },
+    {
+      "name": "Büyükçekmece",
+      "kind": "do",
+      "locality": "Istanbul/Western Suburbs",
+      "lat": 41.0227,
+      "lon": 28.5802,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "id": "turkiye-ccbdb0be586fc0d7843c"
+    },
+    {
+      "name": "Kültür Park",
+      "kind": "do",
+      "locality": "Istanbul/Western Suburbs",
+      "lat": 41.0223,
+      "lon": 28.5749,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "id": "turkiye-dbc7bed9791045e1a5d9"
+    },
+    {
+      "name": "Suleiman the Magnificent Bridge",
+      "kind": "do",
+      "locality": "Istanbul/Western Suburbs",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "id": "turkiye-82292346086712f739bf"
+    },
+    {
+      "name": "Kumburgaz",
+      "kind": "do",
+      "locality": "Istanbul/Western Suburbs",
+      "lat": 41.027,
+      "lon": 28.459,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "id": "turkiye-8f77976ca4843041bf3a"
+    },
+    {
+      "name": "Tüyap Fair Convention and Congress Center",
+      "kind": "do",
+      "locality": "Istanbul/Western Suburbs",
+      "lat": 41.02648,
+      "lon": 28.624369,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "address": "Eski, Cumhuriyet, Hadımköy Yolu Cd 9/1, Büyükçekmece",
+      "id": "turkiye-b4173f4bce6f08aed566"
+    },
+    {
+      "name": "Atatürk Olympic Stadium",
+      "kind": "do",
+      "locality": "Istanbul/Western Suburbs",
+      "lat": 41.074001,
+      "lon": 28.763193,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "address": "Ziya Gökalp No:5, Başakşehir",
+      "id": "turkiye-e623398c78454d93985d"
+    },
+    {
+      "name": "Veliefendi Hippodrom",
+      "kind": "do",
+      "locality": "Istanbul/Western Suburbs",
+      "lat": 40.987288,
+      "lon": 28.888412,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "address": "Osmaniye, Ekrem Kurt Blv, Bakırköy",
+      "id": "turkiye-b4400f70e36af52a660a"
+    },
+    {
+      "name": "Between Two Seas",
+      "kind": "do",
+      "locality": "Istanbul/Western Suburbs",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "url": "https://cultureroutesinturkey.com/between-two-seas",
+      "id": "turkiye-e5ffb2ea8464ebae26e6"
+    },
+    {
+      "name": "The Sultan's Trail",
+      "kind": "do",
+      "locality": "Istanbul/Western Suburbs",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "url": "https://www.sultanstrail.net/",
+      "id": "turkiye-0a6504eb1f33cc5e9fdd"
+    },
+    {
+      "name": "Beyti",
+      "kind": "eat",
+      "locality": "Istanbul/Western Suburbs",
+      "lat": 40.9736,
+      "lon": 28.7939,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "address": "Orman Sk 8, Florya",
+      "price": "50–150 TL per person",
+      "url": "http://www.beyti.com/restoranimiz/",
+      "id": "turkiye-89af173d86d31d2571f2"
+    },
+    {
+      "name": "Yüksel Balık Lokantası",
+      "kind": "eat",
+      "locality": "Istanbul/Western Suburbs",
+      "lat": 40.95661,
+      "lon": 28.82129,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "address": "Liman Sk 3, Yeşilköy",
+      "price": "US$50 per person",
+      "url": "http://www.yukselbalik.com/",
+      "id": "turkiye-b5285faee4fb855cd9bb"
+    },
+    {
+      "name": "Beer & More",
+      "kind": "eat",
+      "locality": "Istanbul/Western Suburbs",
+      "lat": 41.00294,
+      "lon": 28.637867,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "address": "Anadolu Cd. No:30, Beylikdüzü",
+      "id": "turkiye-863cdd453a1d4b908ea8"
+    },
+    {
+      "name": "Rock'n Rolla",
+      "kind": "eat",
+      "locality": "Istanbul/Western Suburbs",
+      "lat": 41.01301,
+      "lon": 28.644574,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "address": "Atatürk Blv, Beylikdüzü",
+      "id": "turkiye-7ccba1ae15da4e8f2c6a"
+    },
+    {
+      "name": "Mantar Ataköy",
+      "kind": "eat",
+      "locality": "Istanbul/Western Suburbs",
+      "lat": 40.979562,
+      "lon": 28.854258,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "address": "Ataköy 2-5-6, Güney Çarşısı No:47, Bakırköy",
+      "id": "turkiye-d78d6794d37c74423c38"
+    },
+    {
+      "name": "DoubleTree by Hilton Istanbul - Avcilar",
+      "kind": "stay",
+      "locality": "Istanbul/Western Suburbs",
+      "lat": 40.993938,
+      "lon": 28.706353,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "address": "Cihangir, D-100 Güney Yan Yolu No:289, Avcılar",
+      "id": "turkiye-8c637c86aab3185159c2"
+    },
+    {
+      "name": "Sheraton Istanbul Esenyurt",
+      "kind": "stay",
+      "locality": "Istanbul/Western Suburbs",
+      "lat": 41.056738,
+      "lon": 28.664257,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "address": "Koza, 1638. Sk. No:4, Esenyurt",
+      "id": "turkiye-b88cb136c70d37fe2284"
+    },
+    {
+      "name": "Crowne Plaza Istanbul - Florya",
+      "kind": "stay",
+      "locality": "Istanbul/Western Suburbs",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "address": "Şenlikköy Mahallesi Yeşilköy Halkalı Cad 95, Bakırköy",
+      "id": "turkiye-53cfda76ceb84d3b8477"
+    },
+    {
+      "name": "Hyatt Regency Istanbul Ataköy",
+      "kind": "stay",
+      "locality": "Istanbul/Western Suburbs",
+      "lat": 40.975507,
+      "lon": 28.855398,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "address": "Ataköy 2-5-6. Kısım, Rauf Orbay Caddesi, Kennedy Cad. No:2/1, Bakırköy",
+      "id": "turkiye-fc93ddb030eb188e39b3"
+    },
+    {
+      "name": "Radisson Blu Hotel, Istanbul Ottomare",
+      "kind": "stay",
+      "locality": "Istanbul/Western Suburbs",
+      "lat": 40.981105,
+      "lon": 28.897488,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "address": "Ataköy 2-5-6. Kısım, Rauf Orbay Caddesi, Kennedy Cad. No:2/1, Bakırköy",
+      "id": "turkiye-f6455e8937e4b1e65407"
+    },
+    {
+      "name": "Istanbul/Western Suburbs",
+      "kind": "area",
+      "locality": "Istanbul/Western Suburbs",
+      "lat": 41.039,
+      "lon": 28.855,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Istanbul%2FWestern_Suburbs",
+      "id": "turkiye-085e85f5fee437e16931"
+    }
+  ],
+  "status": "partial",
+  "note": "Fetched 10 distinct public Wikivoyage source pages; attempted 10 article titles covering the country, capital(s), and 2 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Coverage cap: Istanbul: 8 additional linked subpages not fetched."
+}

@@ -1,0 +1,1001 @@
+{
+  "sources": [
+    {
+      "title": "Slovakia",
+      "url": "https://en.wikivoyage.org/wiki/Slovakia",
+      "checkedAt": "2026-10-21T08:12:18.521Z"
+    },
+    {
+      "title": "Bratislava",
+      "url": "https://en.wikivoyage.org/wiki/Bratislava",
+      "checkedAt": "2026-10-21T08:12:21.656Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Bratislava",
+      "kind": "area",
+      "locality": "Slovakia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Slovakia",
+      "id": "slovakia-85bc14c058f65b0f5f59"
+    },
+    {
+      "name": "Banská Bystrica",
+      "kind": "area",
+      "locality": "Slovakia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Slovakia",
+      "id": "slovakia-b75ba1df03ac71d52a4b"
+    },
+    {
+      "name": "Košice",
+      "kind": "area",
+      "locality": "Slovakia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Slovakia",
+      "id": "slovakia-676f902152c12ac11d3b"
+    },
+    {
+      "name": "Nitra",
+      "kind": "area",
+      "locality": "Slovakia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Slovakia",
+      "id": "slovakia-9d3040241224266ebaf5"
+    },
+    {
+      "name": "Poprad",
+      "kind": "area",
+      "locality": "Slovakia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Slovakia",
+      "id": "slovakia-3017a13995c0894d5539"
+    },
+    {
+      "name": "Rajecké Teplice",
+      "kind": "area",
+      "locality": "Slovakia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Slovakia",
+      "id": "slovakia-1a021f899987844b96dc"
+    },
+    {
+      "name": "Trenčín",
+      "kind": "area",
+      "locality": "Slovakia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Slovakia",
+      "id": "slovakia-5c08f96db54a8336282a"
+    },
+    {
+      "name": "Trnava",
+      "kind": "area",
+      "locality": "Slovakia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Slovakia",
+      "id": "slovakia-fcbaee6f9c3c2efed682"
+    },
+    {
+      "name": "Žilina",
+      "kind": "area",
+      "locality": "Slovakia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Slovakia",
+      "id": "slovakia-4b6756800e3a72de09fe"
+    },
+    {
+      "name": "Vinea",
+      "kind": "eat",
+      "locality": "Slovakia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Slovakia",
+      "id": "slovakia-557a346971cbb254eabf"
+    },
+    {
+      "name": "Kofola",
+      "kind": "eat",
+      "locality": "Slovakia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Slovakia",
+      "url": "http://www.kofola.cz/",
+      "id": "slovakia-d26df2cd9d928e9d69cf"
+    },
+    {
+      "name": "Coffee",
+      "kind": "eat",
+      "locality": "Slovakia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Slovakia",
+      "id": "slovakia-1ed64e6712c4ca190402"
+    },
+    {
+      "name": "Hot chocolate",
+      "kind": "eat",
+      "locality": "Slovakia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Slovakia",
+      "id": "slovakia-b8e70ed04aa9cec65afd"
+    },
+    {
+      "name": "Tea",
+      "kind": "eat",
+      "locality": "Slovakia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Slovakia",
+      "id": "slovakia-dd2e59baa995a359bd36"
+    },
+    {
+      "name": "Hot apple",
+      "kind": "eat",
+      "locality": "Slovakia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Slovakia",
+      "id": "slovakia-a1ff7639221786bc2c0c"
+    },
+    {
+      "name": "Borovička",
+      "kind": "eat",
+      "locality": "Slovakia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Slovakia",
+      "id": "slovakia-fe3104cf35992b85607d"
+    },
+    {
+      "name": "Bratislava Castle",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.142,
+      "lon": 17.1,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "price": "Adult €14",
+      "url": "http://www.snm.sk/?2003",
+      "id": "slovakia-710f9412890a5ef6e573"
+    },
+    {
+      "name": "Red Crayfish Pharmacy Pharmacological Museum",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.14523,
+      "lon": 17.10666,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Michalská 28",
+      "url": "https://muzeumbratislava.sk/en/red-crayfish-pharmacy",
+      "id": "slovakia-ab9997c3ee66837ed092"
+    },
+    {
+      "name": "Slovak National Gallery (SNG)",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.14008,
+      "lon": 17.10858,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "url": "http://www.sng.sk/",
+      "id": "slovakia-97c40d93620a15250ed5"
+    },
+    {
+      "name": "Bratislava City Gallery (GMB)",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.144825,
+      "lon": 17.107822,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "url": "http://www.gmb.sk/",
+      "id": "slovakia-5e8b6b37a02a162294b2"
+    },
+    {
+      "name": "Danubiana Meulensteen Art Museum",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.0341,
+      "lon": 17.2326,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "price": "€12",
+      "url": "http://www.danubiana.sk/",
+      "id": "slovakia-d725baa0d6e8787b8937"
+    },
+    {
+      "name": "Milan Dobes Museum",
+      "kind": "do",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "url": "http://www.milandobes.sk/",
+      "id": "slovakia-ab7d428583c78d350dd3"
+    },
+    {
+      "name": "National Museum",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.14024,
+      "lon": 17.11395,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Žižkova 14",
+      "url": "http://www.snm.sk/?lang=eng&section=home&org=3",
+      "id": "slovakia-44efc3f41514c32bb7ee"
+    },
+    {
+      "name": "Bratislava City Museum",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.14377,
+      "lon": 17.10875,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "url": "http://www.muzeum.bratislava.sk/",
+      "id": "slovakia-c11801509d88a65a3c1e"
+    },
+    {
+      "name": "Natural Science Museum",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.14025,
+      "lon": 17.113,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Vajanského nábrežie 2",
+      "url": "http://www.snm.sk/?lang=eng&section=home&org=2",
+      "id": "slovakia-bccb40007e1965934f1b"
+    },
+    {
+      "name": "Gerulata",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.0557,
+      "lon": 17.1494,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Gerulatská 7, 851 10 Rusovce",
+      "price": "€4",
+      "url": "https://muzeumbratislava.sk/en/ancient-gerulata",
+      "id": "slovakia-2ecc4109dab97ac8bedf"
+    },
+    {
+      "name": "Museum of Transport",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.156389,
+      "lon": 17.106111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Šancová 1/B",
+      "url": "https://stm-ke.sk/en/branches/museum-of-transport-in-bratislava/basic-information",
+      "id": "slovakia-461492b549d725110621"
+    },
+    {
+      "name": "Museum of Trade",
+      "kind": "do",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Linzbothova 16",
+      "url": "http://www.muzeum.sk/?obj=muzeum&ix=mo",
+      "id": "slovakia-fda9d0109f1178b5618d"
+    },
+    {
+      "name": "Jewish Community Museum",
+      "kind": "do",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Heydukova 11-13",
+      "url": "http://www.synagogue.sk/",
+      "id": "slovakia-a9cfb2404c3073b5cf0e"
+    },
+    {
+      "name": "Museum of City History",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.14369,
+      "lon": 17.10913,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "price": "€8",
+      "url": "http://www.muzeum.bratislava.sk/en/vismo/dokumenty2.asp?id_org=700016&id=1110&p1=1107",
+      "id": "slovakia-b99a572853988029581d"
+    },
+    {
+      "name": "Devín Castle",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.174,
+      "lon": 16.979,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Muránska 10, 841 10 Devín",
+      "price": "€8 April to October, €6 November to March",
+      "url": "https://hraddevin.mmb.sk/en/",
+      "id": "slovakia-a69c9901f8e9eeb5f76b"
+    },
+    {
+      "name": "St. Martin's Cathedral",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.1421,
+      "lon": 17.1049,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "price": "Entrance €2",
+      "url": "http://dom.fara.sk/",
+      "id": "slovakia-9e7fa41307e1a8cf5c4f"
+    },
+    {
+      "name": "St. Clare's Church",
+      "kind": "do",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "id": "slovakia-36d0c447a72b73d87cb0"
+    },
+    {
+      "name": "Church of the Annunciation",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.14489,
+      "lon": 17.10836,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "url": "http://www.frantiskani.sk/",
+      "id": "slovakia-0470b9834c742dc4fcc3"
+    },
+    {
+      "name": "Church of the Holy Savior",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.143889,
+      "lon": 17.108611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "id": "slovakia-92a6b5eb121ba5a64163"
+    },
+    {
+      "name": "Church of St. Elisabeth",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.143389,
+      "lon": 17.116833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "id": "slovakia-22f1fe67237b41eb528f"
+    },
+    {
+      "name": "Trinitarian Church of Bratislava",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.146111,
+      "lon": 17.106667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "price": "free",
+      "id": "slovakia-99f73c961e1297392d51"
+    },
+    {
+      "name": "Primate's Palace",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.143962,
+      "lon": 17.108674,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "id": "slovakia-1a33e4eaa58af28c5081"
+    },
+    {
+      "name": "Old Town Hall",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.14382,
+      "lon": 17.10958,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Primaciálne square 3",
+      "price": "€8",
+      "url": "https://muzeumbratislava.sk/en/old-town-hall",
+      "id": "slovakia-51c9e0af98bc66191dfb"
+    },
+    {
+      "name": "Grassalkovich Palace and gardens",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.1492,
+      "lon": 17.1078,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "url": "http://bratislava-slovakia.eu/places/sightseeing/presidential-grassalkovich-palace-garden",
+      "id": "slovakia-25e962ab5212074c49ae"
+    },
+    {
+      "name": "Gallery Nedbalka",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.1441,
+      "lon": 17.1111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "price": "€8",
+      "url": "https://www.nedbalka.sk/",
+      "id": "slovakia-d18bcfd66d77d76a9ff7"
+    },
+    {
+      "name": "Mirbach Palace",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.14491,
+      "lon": 17.10784,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Františkánske námestie 11, 811 01",
+      "price": "€8. Free entry with Bratislava Card",
+      "id": "slovakia-6009d1c7d8aadbcaf58e"
+    },
+    {
+      "name": "Palffy Palace",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.1421,
+      "lon": 17.1073,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Panská 19, 811 01",
+      "price": "€8. Free entry with Bratislava Card",
+      "id": "slovakia-f56673c9784c77325831"
+    },
+    {
+      "name": "Academia Istropolitana",
+      "kind": "do",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "id": "slovakia-6617d2951a9fa6ea1075"
+    },
+    {
+      "name": "Slovak National Theatre",
+      "kind": "do",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Hviezdoslavovo square",
+      "id": "slovakia-167ce72a4dbbb5f3a28d"
+    },
+    {
+      "name": "Slovak Radio Building",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.154167,
+      "lon": 17.114167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "id": "slovakia-c95fb70e1b0d827f2c9d"
+    },
+    {
+      "name": "Slavín monument",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.15278,
+      "lon": 17.09988,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "url": "http://bratislava-slovakia.eu/places/sightseeing/slavin",
+      "id": "slovakia-c1d9067a1e4b65ec0545"
+    },
+    {
+      "name": "Roland Fountain",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.14335,
+      "lon": 17.10814,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "id": "slovakia-50c372e852f1aa00159e"
+    },
+    {
+      "name": "Michael's Gate with Tower",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.14513,
+      "lon": 17.10674,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Michalská 22",
+      "url": "https://muzeumbratislava.sk/en/michaels-tower",
+      "id": "slovakia-f3008b750e84c2d7ab84"
+    },
+    {
+      "name": "Laurin's Gate",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.143617,
+      "lon": 17.110872,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "id": "slovakia-fe1bdffbd8fdf8f9e335"
+    },
+    {
+      "name": "Chatam Sofer Mausoleum",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.14189,
+      "lon": 17.09188,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "url": "http://www.chatamsofer.sk/",
+      "id": "slovakia-8ff3089671f791969f8b"
+    },
+    {
+      "name": "Jewish Cemetery, Jewish Community Museum and Bratislava Synagogue",
+      "kind": "do",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Heydukova",
+      "url": "http://www.synagogue.sk/",
+      "id": "slovakia-bb148ccba5a68ba7d95a"
+    },
+    {
+      "name": "SNP Bridge",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.13686,
+      "lon": 17.10458,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "price": "Entrance €6.50, but is free of charge if you eat in the restaurant",
+      "id": "slovakia-91dfb75edb5467bfe335"
+    },
+    {
+      "name": "Main Indoor Market",
+      "kind": "do",
+      "locality": "Bratislava",
+      "lat": 48.15745,
+      "lon": 17.1261,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "id": "slovakia-3e929c429e4b3928a759"
+    },
+    {
+      "name": "Bratislava Card",
+      "kind": "do",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "url": "https://card.visitbratislava.com/discount/",
+      "id": "slovakia-0824b4d02738bcea78c6"
+    },
+    {
+      "name": "Speedboats.sk",
+      "kind": "do",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Kúpeľná 6",
+      "url": "http://www.speedboats.sk/en/",
+      "id": "slovakia-5b44555e85b5b5964838"
+    },
+    {
+      "name": "International Film Festival Bratislava",
+      "kind": "do",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "url": "http://www.iffbratislava.sk/",
+      "id": "slovakia-404058c876ea2696330d"
+    },
+    {
+      "name": "The Uprising Music Festival",
+      "kind": "do",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "url": "http://www.uprising.sk/",
+      "id": "slovakia-b588d6b33850c6e48848"
+    },
+    {
+      "name": "Góvinda reštaurácia",
+      "kind": "eat",
+      "locality": "Bratislava",
+      "lat": 48.14711,
+      "lon": 17.11047,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Obchodná 518/30",
+      "url": "https://www.govinda-bratislava.sk/",
+      "id": "slovakia-d83da906ddf8b76ef270"
+    },
+    {
+      "name": "KGB Krčma Gurmánov Bratislavy",
+      "kind": "eat",
+      "locality": "Bratislava",
+      "lat": 48.148,
+      "lon": 17.11167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Obchodná 530/52",
+      "url": "http://kgbpub.sk/",
+      "id": "slovakia-cda155f340d07e6562e1"
+    },
+    {
+      "name": "U Sedliaka",
+      "kind": "eat",
+      "locality": "Bratislava",
+      "lat": 48.1485642,
+      "lon": 17.1124898,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "55, Obchodná 567",
+      "id": "slovakia-4dac23e094b32ccdc1af"
+    },
+    {
+      "name": "Olive Tree",
+      "kind": "eat",
+      "locality": "Bratislava",
+      "lat": 48.1487318,
+      "lon": 17.1103387,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Vysoká 14",
+      "id": "slovakia-94a228de9a6341605c40"
+    },
+    {
+      "name": "Divný Janko Reštaurácia",
+      "kind": "eat",
+      "locality": "Bratislava",
+      "lat": 48.15088,
+      "lon": 17.10966,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Jozefská 2991/2",
+      "url": "https://www.facebook.com/restauraciadivnyjanko/",
+      "id": "slovakia-53be6645ec47a927aaca"
+    },
+    {
+      "name": "Slovak Pub",
+      "kind": "eat",
+      "locality": "Bratislava",
+      "lat": 48.14844,
+      "lon": 17.11254,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Obchodná 62",
+      "url": "http://www.slovakpub.sk/en/",
+      "id": "slovakia-9d5b601b41ee2780945a"
+    },
+    {
+      "name": "Flagship",
+      "kind": "eat",
+      "locality": "Bratislava",
+      "lat": 48.14603,
+      "lon": 17.11014,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Námestie SNP 8, 811 02",
+      "url": "https://bratislavskarestauracia.sk/",
+      "id": "slovakia-2c256fd10f770c86526c"
+    },
+    {
+      "name": "San Marten",
+      "kind": "eat",
+      "locality": "Bratislava",
+      "lat": 48.14148,
+      "lon": 17.10569,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Panská 172/33",
+      "url": "http://www.sanmarten.sk/",
+      "id": "slovakia-6136fbb4b0603b172d71"
+    },
+    {
+      "name": "Bistro SOHO",
+      "kind": "eat",
+      "locality": "Bratislava",
+      "lat": 48.14409,
+      "lon": 17.1117,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Laurinská 141",
+      "url": "https://www.facebook.com/soho.dunajska/",
+      "id": "slovakia-71602b3239e8894b35bf"
+    },
+    {
+      "name": "Mille Baci",
+      "kind": "eat",
+      "locality": "Bratislava",
+      "lat": 48.14576,
+      "lon": 17.11036,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Námestie SNP č.1",
+      "url": "http://www.millebaci.sk/",
+      "id": "slovakia-e01e52bd55b42394e90a"
+    },
+    {
+      "name": "UFO",
+      "kind": "eat",
+      "locality": "Bratislava",
+      "lat": 48.1368316,
+      "lon": 17.1046142,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Most SNP 1",
+      "url": "http://www.u-f-o.sk/en/index.html",
+      "id": "slovakia-6f9533766dae9ad1828a"
+    },
+    {
+      "name": "ECK",
+      "kind": "eat",
+      "locality": "Bratislava",
+      "lat": 48.1738,
+      "lon": 16.9951,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "K zlatému rohu 36, 841 10 Devín",
+      "price": "€150 for the tasting menu",
+      "url": "https://www.eckrestaurant.com/",
+      "id": "slovakia-8a7fe8bdb505ac07a19c"
+    },
+    {
+      "name": "Čiary",
+      "kind": "eat",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Laurinská 138/11, 811 01",
+      "id": "slovakia-a637f33360c3a508be9b"
+    },
+    {
+      "name": "grão",
+      "kind": "eat",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Jesenského 194/12, 811 02",
+      "id": "slovakia-a66ebfb93ecb17c5b467"
+    },
+    {
+      "name": "Kaviareň Vták",
+      "kind": "eat",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Špitálska 2214/20, 811 08",
+      "url": "https://www.kaviarenvtak.sk/",
+      "id": "slovakia-378bc44e751141a2bb11"
+    },
+    {
+      "name": "KOFI",
+      "kind": "eat",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Karadžičova 4105/33, 811 08",
+      "url": "https://www.kofi.sk/",
+      "id": "slovakia-06062ef181684016d0d5"
+    },
+    {
+      "name": "MONO",
+      "kind": "eat",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "1062, Budovateľská 1062/25, 821 08",
+      "id": "slovakia-5b59573b6d0d7ddf3551"
+    },
+    {
+      "name": "Brew Bar Café",
+      "kind": "eat",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Rožňavská 1/A, 831 04 Nové Mesto",
+      "url": "https://www.brewbar.sk/",
+      "id": "slovakia-655f16590eb325302c1b"
+    },
+    {
+      "name": "SVÄG TO GO",
+      "kind": "eat",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Kozia 22, 811 03",
+      "id": "slovakia-51535f980357e73f526b"
+    },
+    {
+      "name": "UFO",
+      "kind": "eat",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "url": "http://www.u-f-o.sk/",
+      "id": "slovakia-be479e3f3ccda673271f"
+    },
+    {
+      "name": "ruido.cafe",
+      "kind": "eat",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Michalská 7, 811 03 Staré Mesto",
+      "url": "http://www.ruido.cafe/",
+      "id": "slovakia-01b622de68f5c92933fb"
+    },
+    {
+      "name": "Apollon Gay Club",
+      "kind": "eat",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Panenská 24, 811 03 Staré Mesto",
+      "id": "slovakia-5442efb480ccace1dade"
+    },
+    {
+      "name": "Patio Hostel",
+      "kind": "stay",
+      "locality": "Bratislava",
+      "lat": 48.1474,
+      "lon": 17.1149,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Špitálska 35",
+      "url": "https://www.patiohostel.com/",
+      "id": "slovakia-8dbc54e9ef52447c9456"
+    },
+    {
+      "name": "Hostel Chors",
+      "kind": "stay",
+      "locality": "Bratislava",
+      "lat": 48.1482,
+      "lon": 17.1117,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Obchodná 43",
+      "url": "https://www.cho.rs/",
+      "id": "slovakia-18b4e45d6a2d7b2b53ae"
+    },
+    {
+      "name": "Wild Elephants Hostel",
+      "kind": "stay",
+      "locality": "Bratislava",
+      "lat": 48.1461,
+      "lon": 17.1095,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Františkánske námestie 413/8, 811 01 Staré Mesto",
+      "url": "https://elephants.sk/",
+      "id": "slovakia-488c3e276dcd2d496627"
+    },
+    {
+      "name": "Hotel Arcus",
+      "kind": "stay",
+      "locality": "Bratislava",
+      "lat": 48.1514,
+      "lon": 17.1213,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Moskovská 5",
+      "url": "https://www.hotelarcus.sk/",
+      "id": "slovakia-56f321c3ea76f1f22fab"
+    },
+    {
+      "name": "Aston Business Hotel",
+      "kind": "stay",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "url": "http://hotelaston.sk/",
+      "id": "slovakia-d3ee8e665bd4509abeba"
+    },
+    {
+      "name": "Boutique Apartments Possonium",
+      "kind": "stay",
+      "locality": "Bratislava",
+      "lat": 48.1557,
+      "lon": 17.1097,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Šancová 20",
+      "url": "https://www.possonium.sk/en",
+      "id": "slovakia-df004b3d3b0eceb60426"
+    },
+    {
+      "name": "Downtown Bratislava Hotel",
+      "kind": "stay",
+      "locality": "Bratislava",
+      "lat": 48.1482,
+      "lon": 17.106,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Panenská 31",
+      "url": "https://us2.cloudbeds.com/en/reservation/3JyXub?currency=eur",
+      "id": "slovakia-4dbff1823be2db3fb5de"
+    },
+    {
+      "name": "Hotel Bratislava",
+      "kind": "stay",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "url": "http://hotelaston.sk/",
+      "id": "slovakia-b423d0a0bd3c712d8f6d"
+    },
+    {
+      "name": "Hotel Holiday Inn",
+      "kind": "stay",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "url": "http://www.holidayinn.sk/",
+      "id": "slovakia-d5315df022c3be69df7f"
+    },
+    {
+      "name": "Hotel Ibis",
+      "kind": "stay",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Zamocka 38",
+      "url": "https://all.accor.com/hotel/3566/index.en.shtml",
+      "id": "slovakia-7295259decbdd2258ba7"
+    },
+    {
+      "name": "Mercure Bratislava Centrum Hotel",
+      "kind": "stay",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Zabotova 2",
+      "price": "From €55",
+      "url": "https://all.accor.com/hotel/6840/index.en.shtml",
+      "id": "slovakia-5bca13a9de201c653fa1"
+    },
+    {
+      "name": "Saffron Hotel",
+      "kind": "stay",
+      "locality": "Bratislava",
+      "lat": 48.1528,
+      "lon": 17.1176,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Radlinského 27, 811 07",
+      "price": "Around €100",
+      "url": "https://www.hotelsaffron.sk/",
+      "id": "slovakia-ba9029ae240ef14d0dc7"
+    },
+    {
+      "name": "Albrecht",
+      "kind": "stay",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Mudronova 82",
+      "url": "https://www.hotelalbrecht.sk/",
+      "id": "slovakia-3bb0d4254419366fd1a6"
+    },
+    {
+      "name": "Arcadia",
+      "kind": "stay",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Františkánska 3",
+      "url": "https://www.arcadia-hotel.sk/homesite/",
+      "id": "slovakia-1a878e1e345a4744902a"
+    },
+    {
+      "name": "Devín",
+      "kind": "stay",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Riečna 4",
+      "url": "http://www.hoteldevin.sk/",
+      "id": "slovakia-9f15187a15647cbee1cd"
+    },
+    {
+      "name": "Gate One",
+      "kind": "stay",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "url": "http://www.hotelgateone.sk/",
+      "id": "slovakia-408cca47de0128c0150c"
+    },
+    {
+      "name": "Kempinski Hotel River Park",
+      "kind": "stay",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "url": "http://www.kempinski.com/bratislava",
+      "id": "slovakia-b9edcb56df4831e7c8c5"
+    },
+    {
+      "name": "Marroll's",
+      "kind": "stay",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Tobrucka 4",
+      "url": "http://www.hotelmarrols.sk/",
+      "id": "slovakia-fa25f96354218037c4d5"
+    },
+    {
+      "name": "Park Inn by Radisson Danube Bratislava",
+      "kind": "stay",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Rybne Namestie 1",
+      "url": "https://www.radissonhotels.com/en-us/hotels/park-inn-bratislava-danube",
+      "id": "slovakia-53a0b2836df285e49403"
+    },
+    {
+      "name": "Perugia",
+      "kind": "stay",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "url": "http://www.perugia.sk/",
+      "id": "slovakia-1f3ca1ba102423e78e1e"
+    },
+    {
+      "name": "Radisson Blu Carlton Hotel, Bratislava",
+      "kind": "stay",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Hviezdoslavovo nam 3",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-bratislava-carlton",
+      "id": "slovakia-f280c605d48ede0e40d3"
+    },
+    {
+      "name": "Sheraton Bratislava Hotel",
+      "kind": "stay",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Pribinova 12",
+      "url": "http://www.sheratonbratislava.com/",
+      "id": "slovakia-b93b599f054e56c62764"
+    },
+    {
+      "name": "Falkensteiner Bratislava Hotel",
+      "kind": "stay",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Pilarikova 5",
+      "url": "http://www.falkensteiner.com/sk/hotel/bratislava",
+      "id": "slovakia-36beb712117559d9cf32"
+    },
+    {
+      "name": "Beigli Hotel & Garden",
+      "kind": "stay",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Baštová 4, Staré Mesto",
+      "url": "https://www.hotelbeigli.sk/",
+      "id": "slovakia-e36b584829b47a64b0ea"
+    },
+    {
+      "name": "Hotel Hradná Brána",
+      "kind": "stay",
+      "locality": "Bratislava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "address": "Slovanské nábrežie 15",
+      "url": "https://www.hradnabrana.sk/",
+      "id": "slovakia-df964e39dd2f6e91a4fb"
+    },
+    {
+      "name": "Bratislava",
+      "kind": "area",
+      "locality": "Bratislava",
+      "lat": 48.143889,
+      "lon": 17.109722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bratislava",
+      "id": "slovakia-adc23c39266f8bddf83d"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

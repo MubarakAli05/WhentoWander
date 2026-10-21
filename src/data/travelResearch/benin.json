@@ -1,0 +1,633 @@
+{
+  "sources": [
+    {
+      "title": "Benin",
+      "url": "https://en.wikivoyage.org/wiki/Benin",
+      "checkedAt": "2026-10-21T08:08:43.833Z"
+    },
+    {
+      "title": "Porto-Novo",
+      "url": "https://en.wikivoyage.org/wiki/Porto-Novo",
+      "checkedAt": "2026-10-21T08:08:46.673Z"
+    },
+    {
+      "title": "Cotonou",
+      "url": "https://en.wikivoyage.org/wiki/Cotonou",
+      "checkedAt": "2026-10-21T08:08:49.260Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Porto-Novo",
+      "kind": "area",
+      "locality": "Benin",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Benin",
+      "id": "benin-9b767cb1088a8c153553"
+    },
+    {
+      "name": "Abomey",
+      "kind": "area",
+      "locality": "Benin",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Benin",
+      "id": "benin-64b8b2201950313f0295"
+    },
+    {
+      "name": "Cotonou",
+      "kind": "area",
+      "locality": "Benin",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Benin",
+      "id": "benin-0945ab7fca3146dbd1db"
+    },
+    {
+      "name": "Grand-Popo",
+      "kind": "area",
+      "locality": "Benin",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Benin",
+      "id": "benin-12875998f3c62d1f9d6d"
+    },
+    {
+      "name": "Malanville",
+      "kind": "area",
+      "locality": "Benin",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Benin",
+      "id": "benin-a0ce13a02c36922760c1"
+    },
+    {
+      "name": "Natitingou",
+      "kind": "area",
+      "locality": "Benin",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Benin",
+      "id": "benin-65f119a974bcd3e49f8c"
+    },
+    {
+      "name": "Ouidah",
+      "kind": "area",
+      "locality": "Benin",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Benin",
+      "id": "benin-b0d2a5459d0e64d30307"
+    },
+    {
+      "name": "Parakou",
+      "kind": "area",
+      "locality": "Benin",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Benin",
+      "id": "benin-244c43bcd2976630a313"
+    },
+    {
+      "name": "Ethnographical Museum of Porto Novo",
+      "kind": "do",
+      "locality": "Porto-Novo",
+      "lat": 6.4732,
+      "lon": 2.617438,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Porto-Novo",
+      "id": "benin-fa289d393e8e651b368b"
+    },
+    {
+      "name": "Honmé Museum",
+      "kind": "do",
+      "locality": "Porto-Novo",
+      "lat": 6.46931,
+      "lon": 2.624985,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Porto-Novo",
+      "id": "benin-17347087e88a19663e9e"
+    },
+    {
+      "name": "Jardin Place Jean Bayol",
+      "kind": "do",
+      "locality": "Porto-Novo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Porto-Novo",
+      "id": "benin-3721c0a4fd3de706b6f4"
+    },
+    {
+      "name": "Governor's Palace",
+      "kind": "do",
+      "locality": "Porto-Novo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Porto-Novo",
+      "id": "benin-f0acd6f1f61c2295efa7"
+    },
+    {
+      "name": "Museé da Silva",
+      "kind": "do",
+      "locality": "Porto-Novo",
+      "lat": 6.470798,
+      "lon": 2.620284,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Porto-Novo",
+      "id": "benin-e9ee42602cef5189442c"
+    },
+    {
+      "name": "Celestial Church of Christ's Headquarters",
+      "kind": "do",
+      "locality": "Porto-Novo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Porto-Novo",
+      "id": "benin-f41e71060e2cd90e0f45"
+    },
+    {
+      "name": "Lycée Behanzin",
+      "kind": "do",
+      "locality": "Porto-Novo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Porto-Novo",
+      "id": "benin-9563ad0dc4b21885c89d"
+    },
+    {
+      "name": "Great Mosque of Porto-Novo",
+      "kind": "do",
+      "locality": "Porto-Novo",
+      "lat": 6.470333,
+      "lon": 2.626611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Porto-Novo",
+      "id": "benin-5809faef0dc8a287d350"
+    },
+    {
+      "name": "Porto-Novo",
+      "kind": "area",
+      "locality": "Porto-Novo",
+      "lat": 6.483333,
+      "lon": 2.616667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Porto-Novo",
+      "id": "benin-960e74850fc377fb5c11"
+    },
+    {
+      "name": "Cotonou Cathedral",
+      "kind": "do",
+      "locality": "Cotonou",
+      "lat": 6.356347,
+      "lon": 2.439173,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "id": "benin-54fd5fbcc7f4a222c285"
+    },
+    {
+      "name": "Fondation Zinzou",
+      "kind": "do",
+      "locality": "Cotonou",
+      "lat": 6.3638,
+      "lon": 2.4193,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Avenue Germain Olory Togbe, Quartier Zongo",
+      "price": "Free",
+      "url": "http://fondationzinsou.org/",
+      "id": "benin-94a1be849769d60148ec"
+    },
+    {
+      "name": "Grande Mosquée de Zongo",
+      "kind": "do",
+      "locality": "Cotonou",
+      "lat": 6.3565,
+      "lon": 2.427,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "id": "benin-1f1f6ff533e5f4d1ac82"
+    },
+    {
+      "name": "Place de la Bulgarie",
+      "kind": "do",
+      "locality": "Cotonou",
+      "lat": 6.3622,
+      "lon": 2.414,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "id": "benin-017ef1d61872b1eb8ef8"
+    },
+    {
+      "name": "Place des Martyrs",
+      "kind": "do",
+      "locality": "Cotonou",
+      "lat": 6.3542,
+      "lon": 2.4029,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "price": "Free",
+      "id": "benin-67d0ae273f9adf034a94"
+    },
+    {
+      "name": "Place de l'Amazone",
+      "kind": "do",
+      "locality": "Cotonou",
+      "lat": 6.34953,
+      "lon": 2.407574,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "price": "Free",
+      "id": "benin-79af7678b664f09410f6"
+    },
+    {
+      "name": "Monument Bio Guera",
+      "kind": "do",
+      "locality": "Cotonou",
+      "lat": 6.350045,
+      "lon": 2.387539,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "price": "Free",
+      "id": "benin-fe56a2357975c7912ad1"
+    },
+    {
+      "name": "Etoile Rouge",
+      "kind": "do",
+      "locality": "Cotonou",
+      "lat": 6.37139,
+      "lon": 2.40979,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "intersection of Rue 400, Rue 560, and Ave de la Victoire",
+      "id": "benin-6db5165de33004e65230"
+    },
+    {
+      "name": "Airplane on the beach",
+      "kind": "do",
+      "locality": "Cotonou",
+      "lat": 6.34765,
+      "lon": 2.37977,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "price": "XOF 1000",
+      "id": "benin-af0efd02ed6f5489be80"
+    },
+    {
+      "name": "Institut Français",
+      "kind": "do",
+      "locality": "Cotonou",
+      "lat": 6.3529,
+      "lon": 2.4127,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Avenue Jean Paul II",
+      "price": "0-3000 CFA",
+      "url": "http://www.if-benin.com/",
+      "id": "benin-9ebe5672e4a4f51244ef"
+    },
+    {
+      "name": "Stade de l'Amitié",
+      "kind": "do",
+      "locality": "Cotonou",
+      "lat": 6.3847,
+      "lon": 2.3784,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Rue 2651",
+      "id": "benin-dafc15a6b0a1c2efd027"
+    },
+    {
+      "name": "Air de Jeux Plage Erevan",
+      "kind": "do",
+      "locality": "Cotonou",
+      "lat": 6.34786,
+      "lon": 2.37849,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Rue 230 / Boulevard de la Marina",
+      "id": "benin-cf3db8ec55aae2372527"
+    },
+    {
+      "name": "Obama Beach",
+      "kind": "do",
+      "locality": "Cotonou",
+      "lat": 6.3438,
+      "lon": 2.40315,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "price": "300 CFA",
+      "id": "benin-da6178418fa8145ecd56"
+    },
+    {
+      "name": "Boucherie Zitawi",
+      "kind": "eat",
+      "locality": "Cotonou",
+      "lat": 6.3592,
+      "lon": 2.4368,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Ganhi, near the Avenue Steinmetz overpass",
+      "price": "1000-4000 CFA/meal",
+      "id": "benin-593a2d882e7f1c5ed75b"
+    },
+    {
+      "name": "Chez Maman Bénin",
+      "kind": "eat",
+      "locality": "Cotonou",
+      "lat": 6.3625,
+      "lon": 2.4227,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Rue 201A",
+      "price": "1000-3000 CFA/person",
+      "id": "benin-e4b3a0f23cc15660659b"
+    },
+    {
+      "name": "Fifadji Pork Maquis",
+      "kind": "eat",
+      "locality": "Cotonou",
+      "lat": 6.391,
+      "lon": 2.3939,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Rue 2650",
+      "price": "500-1200CFA",
+      "id": "benin-a9c9cfeb28fa55039459"
+    },
+    {
+      "name": "La Galette à Sucre",
+      "kind": "eat",
+      "locality": "Cotonou",
+      "lat": 6.3539,
+      "lon": 2.3976,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Route de L'Aéroport, Cotonou",
+      "price": "500-2500 CFA",
+      "id": "benin-f5ec198f53bac9f6d1da"
+    },
+    {
+      "name": "Ci'gusta",
+      "kind": "eat",
+      "locality": "Cotonou",
+      "lat": 6.3554,
+      "lon": 2.4174,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Rue 449",
+      "price": "1000-6000 CFA",
+      "url": "http://www.cigusta.com/",
+      "id": "benin-fa2cd2a360080be344cf"
+    },
+    {
+      "name": "L'Aubergeade",
+      "kind": "eat",
+      "locality": "Cotonou",
+      "lat": 6.3594,
+      "lon": 2.4328,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "76 rue des Cheminots",
+      "price": "3000-5000 CFA",
+      "id": "benin-82f7bf16dcac8a10560f"
+    },
+    {
+      "name": "La Cabane du Pêcheur",
+      "kind": "eat",
+      "locality": "Cotonou",
+      "lat": 6.3498,
+      "lon": 2.3365,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Route des Pêches, Fidjrossé",
+      "price": "5000-7000 CFA/mains",
+      "id": "benin-0922620bc31d858928c9"
+    },
+    {
+      "name": "Mandarine",
+      "kind": "eat",
+      "locality": "Cotonou",
+      "lat": 6.3539,
+      "lon": 2.3958,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Route de l'Aéroport",
+      "price": "2000-6000 CFA/main",
+      "id": "benin-e84f5bda7bb1a2499572"
+    },
+    {
+      "name": "Maquis du Port",
+      "kind": "eat",
+      "locality": "Cotonou",
+      "lat": 6.3516,
+      "lon": 2.4334,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Boulevard de la Marina",
+      "price": "5000-7000 CFA/main",
+      "id": "benin-0fa4130a7cf5e308c322"
+    },
+    {
+      "name": "Pili-Pili",
+      "kind": "eat",
+      "locality": "Cotonou",
+      "lat": 6.3597,
+      "lon": 2.4231,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Boulevard Saint-Michel",
+      "price": "4500-9000 CFA/plate",
+      "id": "benin-0841af1a9229c5b6b477"
+    },
+    {
+      "name": "Shamiana",
+      "kind": "eat",
+      "locality": "Cotonou",
+      "lat": 6.3544,
+      "lon": 2.3988,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Haie Vive",
+      "price": "4000-8000 FCFA/mains",
+      "id": "benin-fa0ce8ba7c933f38d909"
+    },
+    {
+      "name": "Bangkok Terrasse",
+      "kind": "eat",
+      "locality": "Cotonou",
+      "lat": 6.3542,
+      "lon": 2.4174,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Rue 449",
+      "price": "5000-15000 CFA/mains",
+      "id": "benin-7f6d24ee374dc4548b34"
+    },
+    {
+      "name": "Rousski Dom",
+      "kind": "eat",
+      "locality": "Cotonou",
+      "lat": 6.3545,
+      "lon": 2.3991,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Haie Vive",
+      "price": "6000-15000 CFA/mains",
+      "id": "benin-fdec42095aab1b0e5041"
+    },
+    {
+      "name": "Café Fondation Zinsou",
+      "kind": "eat",
+      "locality": "Cotonou",
+      "lat": 6.3638,
+      "lon": 2.4193,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Boulevard Saint-Michel",
+      "price": "1000-3000 CFA/drink, food 4000-7000 CFA/main dish",
+      "url": "http://fondationzinsou.org/le-cafe-cotonou/",
+      "id": "benin-61535023c5edb973d727"
+    },
+    {
+      "name": "Djunta",
+      "kind": "eat",
+      "locality": "Cotonou",
+      "lat": 6.3496,
+      "lon": 2.3642,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Fidjrossé, fin pavé",
+      "price": "500-2000 CFA/drink",
+      "id": "benin-8abcaaa4a31198d87534"
+    },
+    {
+      "name": "Drink City",
+      "kind": "eat",
+      "locality": "Cotonou",
+      "lat": 6.3854,
+      "lon": 2.3811,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "L'esplanade du Stade de l'Amitié",
+      "price": "500-2000 CFA/drink",
+      "id": "benin-04f1839c6ceb8f90fee2"
+    },
+    {
+      "name": "La Maison Blanche",
+      "kind": "eat",
+      "locality": "Cotonou",
+      "lat": 6.3664,
+      "lon": 2.4118,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Gbegamey",
+      "price": "500-1500 CFA/drink",
+      "id": "benin-26af2c92818ea9725e39"
+    },
+    {
+      "name": "Le Livingstone",
+      "kind": "eat",
+      "locality": "Cotonou",
+      "lat": 6.3569,
+      "lon": 2.3942,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Haie Vive",
+      "price": "1500-5000CFA/drink",
+      "url": "http://livingstonehotelbenin.com/",
+      "id": "benin-e15164131c21fe879f0d"
+    },
+    {
+      "name": "Le Parking",
+      "kind": "eat",
+      "locality": "Cotonou",
+      "lat": 6.3559,
+      "lon": 2.3751,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Fidjrosse, Place Calvaire",
+      "price": "500-1500 CFA/drink",
+      "id": "benin-a906ad90f1c54a4e5e0a"
+    },
+    {
+      "name": "MAD Lounge",
+      "kind": "eat",
+      "locality": "Cotonou",
+      "lat": 6.3569,
+      "lon": 2.3896,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Haie Vive",
+      "price": "1500-6000 CFA/drink",
+      "id": "benin-c7df14aaed898c09c3b7"
+    },
+    {
+      "name": "Africa Sound City",
+      "kind": "eat",
+      "locality": "Cotonou",
+      "lat": 6.3928,
+      "lon": 2.3649,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Kindonou",
+      "price": "Entry up to 2000 CFA, 500-2000 CFA/drink",
+      "url": "https://www.facebook.com/pages/Africa-Sound-City-Kindonou/146835475763662",
+      "id": "benin-47cdc2c1998db9cc0e04"
+    },
+    {
+      "name": "Code Bar",
+      "kind": "eat",
+      "locality": "Cotonou",
+      "lat": 6.3517,
+      "lon": 2.3868,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Tri-Postal",
+      "price": "1500-3000 CFA/drink",
+      "id": "benin-303a22e181503976ecfd"
+    },
+    {
+      "name": "Le Yes Papa",
+      "kind": "eat",
+      "locality": "Cotonou",
+      "lat": 6.3725,
+      "lon": 2.411,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Place de l'Étoile Rouge",
+      "price": "1000 CFA entry, 500-2000 CFA/drink",
+      "url": "http://leyespapa.blogspot.com/",
+      "id": "benin-adde807f741557c635ea"
+    },
+    {
+      "name": "Sanctuary",
+      "kind": "eat",
+      "locality": "Cotonou",
+      "lat": 6.3631,
+      "lon": 2.3985,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Cadjehoun",
+      "price": "3000-6000 CFA/drink",
+      "id": "benin-96fd3b7d77c7c25465ce"
+    },
+    {
+      "name": "Akwa Guesthouse Cotonou",
+      "kind": "stay",
+      "locality": "Cotonou",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "url": "https://akwaguesthousecotonou.com/",
+      "id": "benin-fa760b603ab50aa61cdb"
+    },
+    {
+      "name": "Centre Paul six Hostel",
+      "kind": "stay",
+      "locality": "Cotonou",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Blvd St Michel",
+      "price": "CFA 3000 per per person,",
+      "id": "benin-6a70393945a8f806e6cb"
+    },
+    {
+      "name": "La Maison de CanelYa",
+      "kind": "stay",
+      "locality": "Cotonou",
+      "lat": 6.35186,
+      "lon": 2.36531,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "price": "~17872 CFA",
+      "url": "http://www.canelya.com/",
+      "id": "benin-9fd6b9508d49904b26b4"
+    },
+    {
+      "name": "Hôtel Tahiti benin",
+      "kind": "stay",
+      "locality": "Cotonou",
+      "lat": 6.3553,
+      "lon": 2.45675,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Rue 1531",
+      "price": "~27366 CFA",
+      "id": "benin-793de65799375f6acd8b"
+    },
+    {
+      "name": "Hotel du Lac",
+      "kind": "stay",
+      "locality": "Cotonou",
+      "lat": 6.358981,
+      "lon": 2.444925,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "price": "50000-90000 CFA/night",
+      "url": "http://hoteldulac-benin.com/",
+      "id": "benin-57f899d08ceb8f31f583"
+    },
+    {
+      "name": "Hotel Azalaï de la Plage",
+      "kind": "stay",
+      "locality": "Cotonou",
+      "lat": 6.3519,
+      "lon": 2.4358,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Quartier Ganhi",
+      "price": "75000-150000 CFA/night",
+      "id": "benin-4a3b56ec561df523631b"
+    },
+    {
+      "name": "Novotel Cotonou Orisha",
+      "kind": "stay",
+      "locality": "Cotonou",
+      "lat": 6.348799,
+      "lon": 2.401113,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "address": "Boulevard de la Marina",
+      "url": "https://all.accor.com/hotel/1826/index.en.shtml",
+      "id": "benin-113440cd275240d8bb4d"
+    },
+    {
+      "name": "Cotonou",
+      "kind": "area",
+      "locality": "Cotonou",
+      "lat": 6.3667,
+      "lon": 2.4333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cotonou",
+      "id": "benin-c970950ed482de897ba9"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 3 distinct public Wikivoyage source pages; attempted 3 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

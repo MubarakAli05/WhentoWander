@@ -1,0 +1,670 @@
+{
+  "sources": [
+    {
+      "title": "Andorra",
+      "url": "https://en.wikivoyage.org/wiki/Andorra",
+      "checkedAt": "2026-10-21T08:08:13.598Z"
+    },
+    {
+      "title": "Andorra la Vella",
+      "url": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "checkedAt": "2026-10-21T08:08:16.428Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Andorra la Vella",
+      "kind": "area",
+      "locality": "Andorra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra",
+      "id": "andorra-8ef53376f951504d60f3"
+    },
+    {
+      "name": "Santa Coloma d'Andorra",
+      "kind": "area",
+      "locality": "Andorra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra",
+      "id": "andorra-16d64d6e029b71102395"
+    },
+    {
+      "name": "Sant Julia de Loria",
+      "kind": "area",
+      "locality": "Andorra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra",
+      "id": "andorra-9b6ab6628b763af544da"
+    },
+    {
+      "name": "Encamp",
+      "kind": "area",
+      "locality": "Andorra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra",
+      "id": "andorra-a7ea57f48149f5fd4e5b"
+    },
+    {
+      "name": "La Massana",
+      "kind": "area",
+      "locality": "Andorra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra",
+      "id": "andorra-cff9d03429718f685cfd"
+    },
+    {
+      "name": "Ordino",
+      "kind": "area",
+      "locality": "Andorra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra",
+      "id": "andorra-97ad5a4da8a7b4954d94"
+    },
+    {
+      "name": "Canillo",
+      "kind": "area",
+      "locality": "Andorra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra",
+      "id": "andorra-9671b3bcdfc8ff748e02"
+    },
+    {
+      "name": "Arinsal",
+      "kind": "area",
+      "locality": "Andorra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra",
+      "id": "andorra-4a452517074eafe90de7"
+    },
+    {
+      "name": "Pal",
+      "kind": "area",
+      "locality": "Andorra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra",
+      "id": "andorra-6268c9528f6afcef7fe1"
+    },
+    {
+      "name": "Pas de la Casa",
+      "kind": "area",
+      "locality": "Andorra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra",
+      "id": "andorra-b6ee0b2f50c611c313f6"
+    },
+    {
+      "name": "Soldeu",
+      "kind": "area",
+      "locality": "Andorra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra",
+      "id": "andorra-1a273abd7bfe9412a597"
+    },
+    {
+      "name": "Madriu-Perafita-Claror Valley",
+      "kind": "do",
+      "locality": "Andorra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra",
+      "id": "andorra-fbdca0ad2ed409b73c67"
+    },
+    {
+      "name": "Treks from Arinsal (1,500 m)",
+      "kind": "do",
+      "locality": "Andorra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra",
+      "id": "andorra-d735e903b020b3f33ae9"
+    },
+    {
+      "name": "Pic de Médécourbe (2,914 m)",
+      "kind": "do",
+      "locality": "Andorra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra",
+      "id": "andorra-dc3f87f8dbc10ebe0a44"
+    },
+    {
+      "name": "Pic de Coma Pedrosa (2,942 m)",
+      "kind": "do",
+      "locality": "Andorra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra",
+      "id": "andorra-c6adf6d6c767f3428c20"
+    },
+    {
+      "name": "Montmantell lakes and the Pic del Pla de l'Estany (2,859 m)",
+      "kind": "do",
+      "locality": "Andorra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra",
+      "id": "andorra-5173ea1117500ec7d53f"
+    },
+    {
+      "name": "Arinsal - Percanela - les Fonts - Pla de l'Estany - Arinsal circuit (2,055 m)",
+      "kind": "do",
+      "locality": "Andorra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra",
+      "id": "andorra-6401a188051cb9f7addd"
+    },
+    {
+      "name": "Camí del coll de les Cases (1,950 m)",
+      "kind": "do",
+      "locality": "Andorra",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra",
+      "id": "andorra-28b096f4c95fada97a1c"
+    },
+    {
+      "name": "Destil·leries Andorra",
+      "kind": "eat",
+      "locality": "Andorra",
+      "lat": 42.575361,
+      "lon": 1.482856,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra",
+      "address": "Urb. Els Camps, AD400, La Massana - Arinsal",
+      "url": "http://www.destil-and.com/en/#masthead",
+      "id": "andorra-9c6a1a86b94b4258f49d"
+    },
+    {
+      "name": "Church of Saint Stephen",
+      "kind": "do",
+      "locality": "Andorra la Vella",
+      "lat": 42.507224,
+      "lon": 1.521692,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Plaça Príncep Benlloch",
+      "price": "free",
+      "url": "http://visitandorra.com/en/culture/church-of-sant-esteve/",
+      "id": "andorra-0475029673e99340f910"
+    },
+    {
+      "name": "Noblesse du Temps",
+      "kind": "do",
+      "locality": "Andorra la Vella",
+      "lat": 42.5088124,
+      "lon": 1.5293077,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Plaça de la Rotonda",
+      "url": "https://www.guiandorra.com/en/post/la-noblesse-du-temps-1#:~:text=La%20Noblesse%20du%20temps%20or,Rotonda%20of%20Andorra%20la%20Vella.",
+      "id": "andorra-f8dcb269bb0dc682253b"
+    },
+    {
+      "name": "Church of Sant Andreu",
+      "kind": "do",
+      "locality": "Andorra la Vella",
+      "lat": 42.5103,
+      "lon": 1.5307,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Sant Andreu St.",
+      "id": "andorra-238e30f4c6c0da99e009"
+    },
+    {
+      "name": "Casa de la Vall",
+      "kind": "do",
+      "locality": "Andorra la Vella",
+      "lat": 42.506617,
+      "lon": 1.518333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Carrer de la Vall",
+      "price": "€5 adult, €2.50 concession",
+      "id": "andorra-27843967359b25f64549"
+    },
+    {
+      "name": "Consell General and old town",
+      "kind": "do",
+      "locality": "Andorra la Vella",
+      "lat": 42.5068171,
+      "lon": 12.343178,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "id": "andorra-87df033a3ec6964c7b64"
+    },
+    {
+      "name": "Parc Central",
+      "kind": "do",
+      "locality": "Andorra la Vella",
+      "lat": 42.506089,
+      "lon": 1.525937,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "id": "andorra-b0c496bfbeed6ccab83d"
+    },
+    {
+      "name": "El Portal de la Vall",
+      "kind": "do",
+      "locality": "Andorra la Vella",
+      "lat": 42.506,
+      "lon": 1.521,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "c/ Prat de la Creu 74-76, baixos",
+      "price": "Free",
+      "url": "https://www.madriu-perafita-claror.ad/en/",
+      "id": "andorra-af3dc8a52333202ed317"
+    },
+    {
+      "name": "Caldes Project",
+      "kind": "do",
+      "locality": "Andorra la Vella",
+      "lat": 42.5092781,
+      "lon": 1.54402,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Plaça dels Safarejos",
+      "id": "andorra-76df56bf2dfa6e22049c"
+    },
+    {
+      "name": "L’Espai Caldes",
+      "kind": "do",
+      "locality": "Andorra la Vella",
+      "lat": 42.5092096,
+      "lon": 1.544024,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Av. Carlemany 8, Escaldes-Engordany",
+      "url": "https://e-e.ad/publicacio/6480/espai-caldes",
+      "id": "andorra-d8bda0641f3a4f4d10ad"
+    },
+    {
+      "name": "Escaldes-Engordany Art Centre",
+      "kind": "do",
+      "locality": "Andorra la Vella",
+      "lat": 42.508451,
+      "lon": 1.536067,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Avinguda Carlemany, 30",
+      "price": "Free",
+      "url": "http://www.e-e.ad/",
+      "id": "andorra-a50d99318f288e62bf93"
+    },
+    {
+      "name": "The Carmen Thyssen Andorra Museum",
+      "kind": "do",
+      "locality": "Andorra la Vella",
+      "lat": 42.508499,
+      "lon": 1.537526,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Av. Carlemany, 37",
+      "price": "General €9, seniors €5, under 18 free",
+      "url": "https://museucarmenthyssenandorra.ad/",
+      "id": "andorra-eec7b1c9bbbed7872d46"
+    },
+    {
+      "name": "Casa Creu",
+      "kind": "do",
+      "locality": "Andorra la Vella",
+      "lat": 42.5086,
+      "lon": 1.5398,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "67 Carlemany Street",
+      "id": "andorra-08e41085f49f93991d7d"
+    },
+    {
+      "name": "Roc del Metge",
+      "kind": "do",
+      "locality": "Andorra la Vella",
+      "lat": 42.5091273,
+      "lon": 1.5438886,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Av. Carlemany, 4-8",
+      "id": "andorra-74afee94b2274facd160"
+    },
+    {
+      "name": "Sant Miquel d’Engolasters",
+      "kind": "do",
+      "locality": "Andorra la Vella",
+      "lat": 42.51148,
+      "lon": 1.56045,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "id": "andorra-57b971b13ed67e14b0a4"
+    },
+    {
+      "name": "Bridge of la Margineda",
+      "kind": "do",
+      "locality": "Andorra la Vella",
+      "lat": 42.4842207,
+      "lon": 1.4920512,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Santa Coloma",
+      "id": "andorra-59dc58bdb4536bda6aa4"
+    },
+    {
+      "name": "Rec del Solà",
+      "kind": "do",
+      "locality": "Andorra la Vella",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "id": "andorra-a68b2bf629973549d659"
+    },
+    {
+      "name": "Collegi Sant Ermengol road",
+      "kind": "do",
+      "locality": "Andorra la Vella",
+      "lat": 42.5133535,
+      "lon": 1.5296229,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "id": "andorra-54642b732af0e50e29cf"
+    },
+    {
+      "name": "Carrer Mestre Xavier Plana",
+      "kind": "do",
+      "locality": "Andorra la Vella",
+      "lat": 42.504668,
+      "lon": 1.5103888,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "id": "andorra-2763c72f49def6a013ce"
+    },
+    {
+      "name": "Rec de l'Obac hiking trail",
+      "kind": "do",
+      "locality": "Andorra la Vella",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "id": "andorra-af7ebadcbde55e380fea"
+    },
+    {
+      "name": "Bar Nobega",
+      "kind": "do",
+      "locality": "Andorra la Vella",
+      "lat": 42.5010117,
+      "lon": 1.5190087,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "id": "andorra-f682817c28c95895c2bf"
+    },
+    {
+      "name": "Rotonda de Gall",
+      "kind": "do",
+      "locality": "Andorra la Vella",
+      "lat": 42.5069,
+      "lon": 1.5367,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "id": "andorra-5a5915ef2e4e2ae2d474"
+    },
+    {
+      "name": "Caldea spa",
+      "kind": "do",
+      "locality": "Andorra la Vella",
+      "lat": 42.5117,
+      "lon": 1.5371,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Parc de la Mola, 10",
+      "price": "€46-70 for 3 hours",
+      "url": "https://www.caldea.com/",
+      "id": "andorra-badb74d4f1348b204321"
+    },
+    {
+      "name": "Bar Els Manyos",
+      "kind": "eat",
+      "locality": "Andorra la Vella",
+      "lat": 42.5051181,
+      "lon": 1.5263858,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Av. de Tarragona, 61",
+      "price": "Around €15 for two courses",
+      "id": "andorra-a8fbf1b3a4d5a79b5f27"
+    },
+    {
+      "name": "Bar Restaurant Las Vegas",
+      "kind": "eat",
+      "locality": "Andorra la Vella",
+      "lat": 42.506714,
+      "lon": 1.5297231,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Carrer Callaueta, 15",
+      "id": "andorra-e5a3892f4fa385801c60"
+    },
+    {
+      "name": "Pizzeria Primavera",
+      "kind": "eat",
+      "locality": "Andorra la Vella",
+      "lat": 42.5070114,
+      "lon": 1.5300289,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Carrer Callaueta, 8",
+      "price": "Pizza €11-15; pastas, meats, fishes €13-18",
+      "id": "andorra-71f3a50cf4582e26dee6"
+    },
+    {
+      "name": "Pizzeria La Piazza",
+      "kind": "eat",
+      "locality": "Andorra la Vella",
+      "lat": 42.50752,
+      "lon": 1.531367,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Passatge de l'Aigüeta, 1",
+      "price": "Puzza €10-15, pasta €12-13",
+      "url": "https://www.lapiazza-andorra.com/",
+      "id": "andorra-98b09eeefef77cd6e6f8"
+    },
+    {
+      "name": "Bar Nou",
+      "kind": "eat",
+      "locality": "Andorra la Vella",
+      "lat": 42.509737,
+      "lon": 1.531699,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Avinguda Doctor Mitjavila",
+      "id": "andorra-78c00cecf558ab5cf0b2"
+    },
+    {
+      "name": "Restaurant les Closes",
+      "kind": "eat",
+      "locality": "Andorra la Vella",
+      "lat": 42.5084449,
+      "lon": 1.5368089,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Av. Carlemany, 95",
+      "price": "3-course menu €23 with a",
+      "url": "https://www.lescloses.com/fr/restaurant-les-closes",
+      "id": "andorra-8a6b6deae71502827485"
+    },
+    {
+      "name": "L'Escenari de pizzes",
+      "kind": "eat",
+      "locality": "Andorra la Vella",
+      "lat": 42.509644,
+      "lon": 1.530809,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Avinguda Doctor Mitjavila",
+      "price": "Pizzas €12-16",
+      "url": "https://www.lescenaridepizzes.com/#carta",
+      "id": "andorra-78e9dedbe4b74e5120cb"
+    },
+    {
+      "name": "L'arroseria",
+      "kind": "eat",
+      "locality": "Andorra la Vella",
+      "lat": 42.507192,
+      "lon": 1.521413,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Carrer de la Vall",
+      "price": "Mains €14-26",
+      "url": "https://restaurantarrosseriaandorra.com/",
+      "id": "andorra-0c0fb19e2e06e84e635a"
+    },
+    {
+      "name": "L'Alternativa",
+      "kind": "eat",
+      "locality": "Andorra la Vella",
+      "lat": 42.508195,
+      "lon": 1.521789,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "8 Plaça Guillemó",
+      "price": "Mains €16-22",
+      "id": "andorra-5bf0876085d0c64a6abd"
+    },
+    {
+      "name": "Marisqueria Don Denis",
+      "kind": "eat",
+      "locality": "Andorra la Vella",
+      "lat": 42.508277,
+      "lon": 1.536444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Carrer Isabelle Sandy, 3",
+      "price": "3-course menu €26",
+      "url": "https://ca.dondenis.com/",
+      "id": "andorra-b2e6c89c1e9d2fd67408"
+    },
+    {
+      "name": "Restaurante Hong Kong",
+      "kind": "eat",
+      "locality": "Andorra la Vella",
+      "lat": 42.508953,
+      "lon": 1.536636,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Passeig de l'Arnaldeta de Caboet",
+      "price": "Dishes €13-21",
+      "id": "andorra-6d8d4a7fde1dcfd324a8"
+    },
+    {
+      "name": "El Refugi Alpí",
+      "kind": "eat",
+      "locality": "Andorra la Vella",
+      "lat": 42.508856,
+      "lon": 1.529249,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "73 Avinguda Meritxell",
+      "price": "Mains €20-30",
+      "url": "https://www.elrefugialpi.ad/en/",
+      "id": "andorra-1558c3906773a8546bec"
+    },
+    {
+      "name": "The Cellar Door",
+      "kind": "eat",
+      "locality": "Andorra la Vella",
+      "lat": 42.5083579,
+      "lon": 1.5320423,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Avenida Meritxell",
+      "id": "andorra-fb93371ce68d21f3df5d"
+    },
+    {
+      "name": "Entre Nous",
+      "kind": "eat",
+      "locality": "Andorra la Vella",
+      "lat": 42.5076,
+      "lon": 1.5288,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Carrer de la Sardana, 3",
+      "url": "https://hocinetrainer.wixsite.com/misitio?fbclid=PAAaaj8mtDjkrWBdKKOR8gkC3olZTMFbtAolyi9v0YYg6EA5i9uuKZEJVhu9I_aem_AXfxtpy80Kr644J-UTVTQ79Y5u0qgGo49jN-FBkOkyINK3o5SO-WPBw569qOvNQfku4",
+      "id": "andorra-a097f3930059714a99f4"
+    },
+    {
+      "name": "Hotel Yomo Centric",
+      "kind": "stay",
+      "locality": "Andorra la Vella",
+      "lat": 42.5084,
+      "lon": 1.5324,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Av. Meritxell 87-89, Andorra la Vella",
+      "price": "from €72",
+      "url": "https://www.yomohotels.com/hotel/centric/",
+      "id": "andorra-66dd23b05a1d93ceaf3e"
+    },
+    {
+      "name": "Hotel Sant Jordi",
+      "kind": "stay",
+      "locality": "Andorra la Vella",
+      "lat": 42.506423,
+      "lon": 1.518437,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Princep Benlloch 45, Andorra la Vella",
+      "price": "Double room €50/night",
+      "url": "https://www.alegria-hotels.com/en/m2/hotel-sant-jordi-alegria-in-andorra-la-vella/",
+      "id": "andorra-ee8c6b1d0c0b63e50a14"
+    },
+    {
+      "name": "Hotel Andorra Palace",
+      "kind": "stay",
+      "locality": "Andorra la Vella",
+      "lat": 42.508388,
+      "lon": 1.52695,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Avenue Meritxell 58, Andorra la Vella",
+      "price": "From €104",
+      "url": "https://www.prestigihotels.com/en/hotel-andorra-palace",
+      "id": "andorra-28ebbc643e278cc4d8b0"
+    },
+    {
+      "name": "Hotel Yomo Eureka",
+      "kind": "stay",
+      "locality": "Andorra la Vella",
+      "lat": 42.508892,
+      "lon": 1.540263,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Avinguda Carlemany 36, Escaldes-Engordany",
+      "price": "€58-238",
+      "url": "https://www.yomohotels.com/en/hotels/eureka/",
+      "id": "andorra-91581c862391ab8008a1"
+    },
+    {
+      "name": "Hesperia Andorra",
+      "kind": "stay",
+      "locality": "Andorra la Vella",
+      "lat": 42.50948,
+      "lon": 1.54029,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Carrer del Prat Gran, Escaldes-Engordany",
+      "price": "€61-237",
+      "url": "https://www.hesperia.com/hotel-hesperia-andorra/",
+      "id": "andorra-099386a1327b3e1d5258"
+    },
+    {
+      "name": "Hotel Panorama",
+      "kind": "stay",
+      "locality": "Andorra la Vella",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Carretera de l'Obac, 64",
+      "url": "https://www.andorrapanorama.com/",
+      "id": "andorra-47c96e6e39b81291fdb3"
+    },
+    {
+      "name": "Novotel Andorra",
+      "kind": "stay",
+      "locality": "Andorra la Vella",
+      "lat": 42.507623,
+      "lon": 1.527458,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Prat de la Creu s n, Andorra la Vella",
+      "price": "From £94",
+      "url": "https://all.accor.com/hotel/1113/index.en.shtml",
+      "id": "andorra-0ce5b5e3620b6a07c8d3"
+    },
+    {
+      "name": "Hotel Andorra Center",
+      "kind": "stay",
+      "locality": "Andorra la Vella",
+      "lat": 42.507832,
+      "lon": 1.520426,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Carrer Dr. Nequi, 12, Andorra la Vella",
+      "price": "From €90",
+      "url": "http://www.andorracenterhotel.com/en/",
+      "id": "andorra-c912765657c56c5350c3"
+    },
+    {
+      "name": "Hotel Spa Termes SERHS Carlemany Andorra",
+      "kind": "stay",
+      "locality": "Andorra la Vella",
+      "lat": 42.509369,
+      "lon": 1.544612,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Av. Carlemany, 4, Escaldes-Engordany",
+      "price": "Queen room with access to the spa: from €87.50",
+      "url": "http://www.hotelcarlemany.com/en/",
+      "id": "andorra-095d96b7eaf2ed116aa3"
+    },
+    {
+      "name": "A Casa Canut Hotel Gastronòmic",
+      "kind": "stay",
+      "locality": "Andorra la Vella",
+      "lat": 42.508541,
+      "lon": 1.535648,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "Av. Carlemany, 107, Escaldes-Engordany",
+      "price": "From €291",
+      "url": "https://acasacanuthotelgastronomic.com-hotel.com/",
+      "id": "andorra-1127cd2107951cbaffe0"
+    },
+    {
+      "name": "Andorra Park Hotel",
+      "kind": "stay",
+      "locality": "Andorra la Vella",
+      "lat": 42.509343,
+      "lon": 1.523098,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "address": "C/ Les Canals 24",
+      "price": "from €200",
+      "url": "https://www.andorraparkhotel.com/en/",
+      "id": "andorra-1d65e848986ddc70fbe6"
+    },
+    {
+      "name": "Andorra la Vella",
+      "kind": "area",
+      "locality": "Andorra la Vella",
+      "lat": 42.5,
+      "lon": 1.5167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Andorra_la_Vella",
+      "id": "andorra-99aeede423842df0ba44"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

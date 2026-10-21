@@ -1,0 +1,1237 @@
+{
+  "sources": [
+    {
+      "title": "Uruguay",
+      "url": "https://en.wikivoyage.org/wiki/Uruguay",
+      "checkedAt": "2026-10-21T08:13:06.694Z"
+    },
+    {
+      "title": "Montevideo",
+      "url": "https://en.wikivoyage.org/wiki/Montevideo",
+      "checkedAt": "2026-10-21T08:13:09.341Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Montevideo",
+      "kind": "area",
+      "locality": "Uruguay",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uruguay",
+      "id": "uruguay-e110ab1d9a92978cceb9"
+    },
+    {
+      "name": "Punta del Este",
+      "kind": "area",
+      "locality": "Uruguay",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uruguay",
+      "id": "uruguay-afb703ef8deccd354bdc"
+    },
+    {
+      "name": "Colonia",
+      "kind": "area",
+      "locality": "Uruguay",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uruguay",
+      "id": "uruguay-f1b33e488d6673efc2b6"
+    },
+    {
+      "name": "Piriapolis",
+      "kind": "area",
+      "locality": "Uruguay",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uruguay",
+      "id": "uruguay-ae462fb658e62372cc89"
+    },
+    {
+      "name": "Rivera",
+      "kind": "area",
+      "locality": "Uruguay",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uruguay",
+      "id": "uruguay-69ee1976f44b70ec6f0c"
+    },
+    {
+      "name": "La Paloma",
+      "kind": "area",
+      "locality": "Uruguay",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uruguay",
+      "id": "uruguay-63a72e34bbadf384b990"
+    },
+    {
+      "name": "Paysandú",
+      "kind": "area",
+      "locality": "Uruguay",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uruguay",
+      "id": "uruguay-e224ec532808977ff111"
+    },
+    {
+      "name": "Salto",
+      "kind": "area",
+      "locality": "Uruguay",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uruguay",
+      "id": "uruguay-5ecfff88324b83e488cb"
+    },
+    {
+      "name": "Plaza Independencia",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.9065,
+      "lon": -56.1996,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "id": "uruguay-9b32a3714cb3ea926af8"
+    },
+    {
+      "name": "Palacio Salvo",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.9068,
+      "lon": -56.1983,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "price": "U$200-300 for 30-min tour including observation deck",
+      "id": "uruguay-1567390ec9b5732cb3fc"
+    },
+    {
+      "name": "Mausoleo de Artigas",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.906528,
+      "lon": -56.2,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "id": "uruguay-7651a8d564b16c2d32a1"
+    },
+    {
+      "name": "Palacio Estévez",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.9071,
+      "lon": -56.1994,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "url": "http://municipiob.montevideo.gub.uy/node/232",
+      "id": "uruguay-b6b1e30fbe5836cec980"
+    },
+    {
+      "name": "Torre Ejecutiva",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.9073,
+      "lon": -56.2001,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "id": "uruguay-df579642770603597647"
+    },
+    {
+      "name": "Edificio Ciudadela",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.9069,
+      "lon": -56.201,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "id": "uruguay-62f23364be8ab130d8e2"
+    },
+    {
+      "name": "Puerta de la Ciudadela",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.9065,
+      "lon": -56.200778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "id": "uruguay-bb10fe75e2915d0cc27c"
+    },
+    {
+      "name": "Museo del Tango de Montevideo",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.9067,
+      "lon": -56.1985,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Plaza Indepepndencia 846",
+      "url": "https://www.facebook.com/MuseodelTangoMontevideo/",
+      "id": "uruguay-321ba3f1d26b97507ad3"
+    },
+    {
+      "name": "Mercado del Puerto",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.9058,
+      "lon": -56.2117,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "url": "http://www.mercadodelpuerto.com.uy/",
+      "id": "uruguay-495419ef2a8093d439dc"
+    },
+    {
+      "name": "Catedral Metropolitana",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.90712,
+      "lon": -56.20441,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Plaza Constitución/Plaza Matriz",
+      "url": "http://www.arquidiocesis.net/",
+      "id": "uruguay-1df86aadc645c2c12409"
+    },
+    {
+      "name": "Old Sepharadi Synagogue",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.91026,
+      "lon": -56.20976,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "id": "uruguay-3ad5bce6768b226f3129"
+    },
+    {
+      "name": "Teatro Solís",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.90788,
+      "lon": -56.20099,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Bartolomé Mitre",
+      "url": "http://www.teatrosolis.org.uy/",
+      "id": "uruguay-7bd6c799518013babf9b"
+    },
+    {
+      "name": "The sexual diversity monument",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.90624,
+      "lon": -56.20184,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "id": "uruguay-7aed43394a78e80ce96d"
+    },
+    {
+      "name": "Aduana building",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.9046,
+      "lon": -56.212,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "id": "uruguay-c4a34d8d3846c3336775"
+    },
+    {
+      "name": "Cathedral of The Most Holy Trinity",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.9093,
+      "lon": -56.20365,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "id": "uruguay-cbb57660278f1abfc6c4"
+    },
+    {
+      "name": "Palacio Taranco",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.9069,
+      "lon": -56.2083,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "25 de Mayo 376",
+      "price": "Free",
+      "url": "http://www.cultura.mec.gub.uy/innovaportal/v/907/8/mecweb/el_museo?breadid=null&3colid=905",
+      "id": "uruguay-3969db6421554000b875"
+    },
+    {
+      "name": "National History Museum",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.90643,
+      "lon": -56.20674,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "id": "uruguay-5df6118c5c85e61a4848"
+    },
+    {
+      "name": "MAPI",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.90724,
+      "lon": -56.21018,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "25 de Mayo 279",
+      "price": "U$65",
+      "url": "http://www.mapi.uy/",
+      "id": "uruguay-584fff8f4f315e4ba518"
+    },
+    {
+      "name": "Museo Torres Garcia",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.90647,
+      "lon": -56.20138,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Sarandí 683",
+      "url": "http://www.torresgarcia.org.uy/",
+      "id": "uruguay-3709f8b2aeee5e47d269"
+    },
+    {
+      "name": "Museo del Carnaval",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.9059,
+      "lon": -56.2123,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Rambla 25 de Agosto 1825",
+      "price": "U$80",
+      "url": "http://www.museodelcarnaval.org/",
+      "id": "uruguay-2d9f9262db5feb86f323"
+    },
+    {
+      "name": "El Cabildo",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.90645,
+      "lon": -56.20286,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Juan Carlos Gomez 1362",
+      "price": "Free",
+      "url": "http://cabildo.montevideo.gub.uy/",
+      "id": "uruguay-23be1aac09aa4b54d6e8"
+    },
+    {
+      "name": "Casa de Lavalleja",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.90632,
+      "lon": -56.20786,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Zabala 1469",
+      "url": "http://www.museos.gub.uy/index.php?option=com_k2&view=item&id=157:museo-hist%C3%B3rico-nacional-casa-del-gral-juan-antonio-lavalleja&Itemid=43",
+      "id": "uruguay-1f484149489632bd4315"
+    },
+    {
+      "name": "Casa de Fructuoso Rivera",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.90703,
+      "lon": -56.20673,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Rincón 437",
+      "url": "http://www.museohistorico.gub.uy/",
+      "id": "uruguay-cd6fd7da8921d62dc560"
+    },
+    {
+      "name": "Museo Andes 1972",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.9058,
+      "lon": -56.2029,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Rincón 619",
+      "price": "U$200",
+      "url": "http://www.mandes.uy/eng/index.html",
+      "id": "uruguay-42d511718559be7dfadf"
+    },
+    {
+      "name": "The obelisk of Montevideo",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.8974,
+      "lon": -56.1644,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "id": "uruguay-0652489a227c20ded419"
+    },
+    {
+      "name": "Fuente de los Candados",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.90575,
+      "lon": -56.18912,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Av. 18 de Julio",
+      "id": "uruguay-5a40268bbcffb674f5f3"
+    },
+    {
+      "name": "Palacio Municipal",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.9067,
+      "lon": -56.1861,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Av. 18 de Julio 1360",
+      "id": "uruguay-f88e6de261b2a44daff2"
+    },
+    {
+      "name": "Museo del Fútbol",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.8942,
+      "lon": -56.1517,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "price": "U$100",
+      "url": "http://www.estadiocentenario.com.uy/site/footballMuseum",
+      "id": "uruguay-e456055ae55815ff119f"
+    },
+    {
+      "name": "Museo de Historia del Arte",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.90628,
+      "lon": -56.18655,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Ejido 1326",
+      "price": "free",
+      "url": "http://muhar.montevideo.gub.uy/",
+      "id": "uruguay-8aeee4876ca82f2805f7"
+    },
+    {
+      "name": "Museo del Gaucho y de la Moneda",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.90633,
+      "lon": -56.19493,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Avenida 18 de Julio 998",
+      "price": "free",
+      "url": "http://www.brou.com.uy/web/guest/institucional/rs/cultural/gaucho",
+      "id": "uruguay-2d324d1f15cc33c65b29"
+    },
+    {
+      "name": "Tile Museum",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.90396,
+      "lon": -56.18884,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Yí 1444",
+      "price": "free",
+      "url": "http://azulejo.montevideo.gub.uy/",
+      "id": "uruguay-93c2e650d2959c9f1a26"
+    },
+    {
+      "name": "Castillo Pittamiglio",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.921,
+      "lon": -56.1498,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Rambla Gandhi 633",
+      "price": "U$100",
+      "url": "http://www.castillopittamiglio.org/",
+      "id": "uruguay-c19a8cdd4c274daf2789"
+    },
+    {
+      "name": "World Trade Center",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.9046,
+      "lon": -56.1364,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "id": "uruguay-8aaef14255437b1e5fc2"
+    },
+    {
+      "name": "Holocaust memorial",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.9251,
+      "lon": -56.1702,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "id": "uruguay-58ab54dfb5cdc123aab6"
+    },
+    {
+      "name": "Punta Carretas lighthouse",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.9353,
+      "lon": -56.1606,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "price": "U$20",
+      "id": "uruguay-4fa8403290810bdc1f40"
+    },
+    {
+      "name": "MNAV",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.9139,
+      "lon": -56.1649,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Tomás Giribaldi 2283",
+      "price": "$U200",
+      "url": "http://www.mnav.gub.uy/cms.php",
+      "id": "uruguay-3a7b15f8b9a0ee04b81a"
+    },
+    {
+      "name": "Museo Casa Vilamajó",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.91485106503412,
+      "lon": -56.16320683750028,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Domingo Cullen 895",
+      "price": "free",
+      "url": "https://www.fadu.edu.uy/museo-casa-vilamajo/",
+      "id": "uruguay-3330cb72279e2688e5d4"
+    },
+    {
+      "name": "Museum of Zoology",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.90329,
+      "lon": -56.1236,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Rambla República de Chile 4215",
+      "url": "http://www.montevideo.gub.uy/ciudad-y-cultura/museos-salas-y-planetario/museo-zoologico-damaso-antonio-larranaga",
+      "id": "uruguay-f4d33b44dd8e8fcbf6ad"
+    },
+    {
+      "name": "Central Cemetery",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.9135,
+      "lon": -56.1872,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "id": "uruguay-9b60db9e9a991f3c168d"
+    },
+    {
+      "name": "Parque Rodó",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.9133,
+      "lon": -56.1678,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "id": "uruguay-5b5c7d8d24d86395561d"
+    },
+    {
+      "name": "Pocitos Beach",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.912062,
+      "lon": -56.145099,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "on the water next to Pocitos",
+      "id": "uruguay-021c037616670ad91539"
+    },
+    {
+      "name": "Carrasco",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.8852,
+      "lon": -56.0589,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "id": "uruguay-7d4baa5c294b4508a79e"
+    },
+    {
+      "name": "Palacio Legislativo",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.8912,
+      "lon": -56.1871,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "url": "http://www.parlamento.gub.uy/",
+      "id": "uruguay-683b22d7807a85615847"
+    },
+    {
+      "name": "Fortaleza General Artigas",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.888333,
+      "lon": -56.26,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "url": "http://www.caminandosinrumbo.com/uruguay/monte/fuerte1.htm",
+      "id": "uruguay-d19e77946ebf2adfa719"
+    },
+    {
+      "name": "Torre de las Telecomunicaciones",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.8917,
+      "lon": -56.19461,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Guatemala 1075",
+      "url": "http://www.antel.com.uy/institucional/nuestra-empresa/complejo-torre/complejo-cultural",
+      "id": "uruguay-1872a26b5104bb9b7d32"
+    },
+    {
+      "name": "Castillo Soneira",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.85797,
+      "lon": -56.19701,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "id": "uruguay-271772b97e4594a9c520"
+    },
+    {
+      "name": "Hipodromo Nacional de Maroñas",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.8395,
+      "lon": -56.142278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "url": "http://www.maronas.com.uy/",
+      "id": "uruguay-58399844d682cde969f6"
+    },
+    {
+      "name": "Museo Blanes",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.8531,
+      "lon": -56.1983,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Av. Millán 4015",
+      "price": "free",
+      "url": "http://blanes.montevideo.gub.uy/",
+      "id": "uruguay-5306da86834b412da860"
+    },
+    {
+      "name": "El Prado",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.8572,
+      "lon": -56.2084,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "url": "http://www.montevideo.gub.uy/ciudad-y-cultura/parques-plazas-y-zoologicos/parque-del-prado",
+      "id": "uruguay-f9f6ff3c82d944b0ec93"
+    },
+    {
+      "name": "Parque Lecocq",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.7928,
+      "lon": -56.3343,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "url": "http://www.montevideo.gub.uy/ciudad-y-cultura/parques-plazas-y-zoologicos/zoo-parque-lecocq",
+      "id": "uruguay-dfddd93d960067d95b30"
+    },
+    {
+      "name": "Estadio Centenario",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.8944,
+      "lon": -56.1527,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "id": "uruguay-4f9154023bf874c6548d"
+    },
+    {
+      "name": "The Rambla",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.9104,
+      "lon": -56.2031,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "id": "uruguay-3d8cb31338350bfb04ca"
+    },
+    {
+      "name": "Tango",
+      "kind": "do",
+      "locality": "Montevideo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "id": "uruguay-4cbdda55f7639c907321"
+    },
+    {
+      "name": "Estadio Gran Parque Central",
+      "kind": "do",
+      "locality": "Montevideo",
+      "lat": -34.884373,
+      "lon": -56.1588,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Carlos Anaya 2900",
+      "url": "https://www.nacional.uy/institucion/gran-parque-central.html",
+      "id": "uruguay-39be099b821477759b61"
+    },
+    {
+      "name": "Montevideo Comics",
+      "kind": "do",
+      "locality": "Montevideo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "url": "http://www.montevideocomics.com.uy/",
+      "id": "uruguay-6f0b3c2c093c07fecde5"
+    },
+    {
+      "name": "Marcos Chivito",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.89591,
+      "lon": -56.08007,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "id": "uruguay-2018f52481861f9a0802"
+    },
+    {
+      "name": "La Mole",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.90215,
+      "lon": -56.1408,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "id": "uruguay-9d41d6019cc17b0a1e33"
+    },
+    {
+      "name": "Bar San Rafael",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.90671,
+      "lon": -56.19028,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "id": "uruguay-bd8f2167765a5985ea10"
+    },
+    {
+      "name": "Mercado de la Abundancia",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.90682,
+      "lon": -56.18762,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "url": "http://www.instagram.com/mercadodelinmigrante",
+      "id": "uruguay-3b289e4bf28e44b9d995"
+    },
+    {
+      "name": "Mercado del Puerto",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.90563,
+      "lon": -56.21172,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "id": "uruguay-590ba7ca435953c1e446"
+    },
+    {
+      "name": "Nuevo Citadelle",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.906785,
+      "lon": -56.201194,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Juncal 1327",
+      "price": "U$300–400 (Dec 2023)",
+      "id": "uruguay-229ac179354922671aba"
+    },
+    {
+      "name": "La Pasiva",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.90595,
+      "lon": -56.18696,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Shopping, Av. Dr. de Herrera 1290, Local 114",
+      "price": "Chivito con fritas U$330, beer U$95 (July 2019)",
+      "id": "uruguay-4b1a51018a50cd383f86"
+    },
+    {
+      "name": "Buffet Montevideo",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.9057141,
+      "lon": -56.205196,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "25 de Mayo 527",
+      "id": "uruguay-8d0210750f298c07a3f3"
+    },
+    {
+      "name": "La Cibeles",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.9060996,
+      "lon": -56.1890461,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Carlos Quijano 1334",
+      "id": "uruguay-70e39e0fc3a459fb150c"
+    },
+    {
+      "name": "RotiRico",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.9081092,
+      "lon": -56.1957674,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Soriano 949",
+      "id": "uruguay-bf242a38381b9e0f0d2c"
+    },
+    {
+      "name": "Pizzería Girasoles",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.904653,
+      "lon": -56.1892942,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Yí 1403",
+      "id": "uruguay-ed37ffbd9668eeca549b"
+    },
+    {
+      "name": "Rodelú",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.91542,
+      "lon": -56.16703,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Av. José Requena y García",
+      "url": "https://www.facebook.com/pizzeriarodelu/",
+      "id": "uruguay-ba2621a67a4ee363ed7e"
+    },
+    {
+      "name": "Parrillada Trouville",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.9127,
+      "lon": -56.1495,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Chucarro 1031",
+      "id": "uruguay-30d30d7d1c21db45e532"
+    },
+    {
+      "name": "Don Peperone",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.90679,
+      "lon": -56.20206,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "José Ellauri 350",
+      "price": "around U$400",
+      "url": "http://www.donpeperone.com.uy/",
+      "id": "uruguay-a2e324a07b79fb88e877"
+    },
+    {
+      "name": "K Fe",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.90798,
+      "lon": -56.16737,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Edil Hugo Prato 2289",
+      "url": "https://www.facebook.com/espaciokfe",
+      "id": "uruguay-4c4a11f347e569e3e4c2"
+    },
+    {
+      "name": "Café Bacacay",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.90704,
+      "lon": -56.2014,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Bacacay 1306",
+      "url": "http://www.bacacay.com.uy/",
+      "id": "uruguay-feb4e3d6004d92461d3c"
+    },
+    {
+      "name": "Bar Facal",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.90564,
+      "lon": -56.18931,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Av. 18 de Julio 1249",
+      "url": "http://www.facal.com.uy/",
+      "id": "uruguay-0b15edf9fd8f11f3e850"
+    },
+    {
+      "name": "Panini's",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.90685,
+      "lon": -56.20155,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "26 de Marzo 3586",
+      "url": "https://www.facebook.com/PaninisMontevideo/",
+      "id": "uruguay-9f6a8271129cfe0d2b2e"
+    },
+    {
+      "name": "Café Bar Tabaré",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.92684,
+      "lon": -56.15983,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Zorrilla de San Martin 152",
+      "url": "http://bartabare.com/",
+      "id": "uruguay-c240268f912dfd5aefdc"
+    },
+    {
+      "name": "La Corte",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.90703,
+      "lon": -56.20317,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Sarandi 586",
+      "url": "http://lacorte.com.uy/",
+      "id": "uruguay-1d19eb39228e731667c5"
+    },
+    {
+      "name": "Montecristo",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.92116,
+      "lon": -56.15053,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Francisco Vidal 638",
+      "id": "uruguay-5dc2d0dfd4b77e585d92"
+    },
+    {
+      "name": "Los Leños",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.90719,
+      "lon": -56.19674,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "San José 909",
+      "url": "https://www.facebook.com/loslenosmvd/",
+      "id": "uruguay-29bff233e84db3ef37c0"
+    },
+    {
+      "name": "Locos de Asar",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.906966,
+      "lon": -56.193085,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "San José 1065",
+      "url": "https://www.facebook.com/locosdeasarmvdo/",
+      "id": "uruguay-465eedff38a06030672e"
+    },
+    {
+      "name": "Heladeria La Cigale",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.9057,
+      "lon": -56.1907,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "url": "http://www.lacigale.com.uy/",
+      "id": "uruguay-5f0235b69f3c316d5a51"
+    },
+    {
+      "name": "la Ronda Café",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.90962,
+      "lon": -56.20011,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Ciudadela 1182",
+      "url": "https://www.facebook.com/larondacafe/",
+      "id": "uruguay-e03469a1ca9e74fae80f"
+    },
+    {
+      "name": "Cafe Brasilero",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.90571,
+      "lon": -56.20469,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Ituzaingo 1447",
+      "url": "http://www.cafebrasilero.com.uy/",
+      "id": "uruguay-204104dc2b0cdfd802a0"
+    },
+    {
+      "name": "Porto Vanila",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.90784,
+      "lon": -56.20595,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "url": "http://www.portovanila.com/",
+      "id": "uruguay-6456827d17a63c1c878c"
+    },
+    {
+      "name": "Shannon Irish pub",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.90699,
+      "lon": -56.20174,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Bartolomé Mitre 1318",
+      "url": "http://theshannon.com.uy/",
+      "id": "uruguay-9fd8a694ea4921600f4a"
+    },
+    {
+      "name": "El Pony Pisador",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.90707,
+      "lon": -56.20169,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Bartolomé Mitre 1000",
+      "id": "uruguay-8e84b531f333284df678"
+    },
+    {
+      "name": "Bar Valentin Pub Rock",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.9069,
+      "lon": -56.20183,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Bartolomé Mitre 1322",
+      "url": "https://www.facebook.com/pages/Bar-Valentin/386298351448347?nr",
+      "id": "uruguay-7b7b3cabc562bf2e243a"
+    },
+    {
+      "name": "Baar Fun Fun",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.90846,
+      "lon": -56.20001,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Soriano 922",
+      "url": "http://barfunfun.com/",
+      "id": "uruguay-42c44fc432be052220c0"
+    },
+    {
+      "name": "La Bodeguita del Sur",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.90747,
+      "lon": -56.19822,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Soriano 840",
+      "url": "https://www.facebook.com/labodeguitadelsuruy/",
+      "id": "uruguay-46818317e756584c39cf"
+    },
+    {
+      "name": "La Casa de Becho",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.89742,
+      "lon": -56.18791,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Nueva York 1415",
+      "id": "uruguay-173e9caef21acd239d5d"
+    },
+    {
+      "name": "Nueva York",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.90635,
+      "lon": -56.20992,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Piedras 292",
+      "url": "https://www.facebook.com/RestoBar-NUEVA-YORK-305260203983/",
+      "id": "uruguay-50b9136dc7702fd4e059"
+    },
+    {
+      "name": "El Milongón",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.9082,
+      "lon": -56.1772,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Gaboto 1810",
+      "url": "https://www.facebook.com/elmilongonuy/",
+      "id": "uruguay-b22805f9ff0c2a6b80af"
+    },
+    {
+      "name": "El Clasico Futbol 5",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.8823,
+      "lon": -56.1015,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Dr. Alejandro Gallinal 2014",
+      "url": "http://www.elclasicofutbol5.com/",
+      "id": "uruguay-b2d082992bfe8a7f292d"
+    },
+    {
+      "name": "Mastra",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.88657507922255,
+      "lon": -56.18391404211454,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "José L. Terra 2220",
+      "price": "U$400",
+      "id": "uruguay-9e89c15dd6cf75b65bf8"
+    },
+    {
+      "name": "Montevideo Beer Company",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.923664657799115,
+      "lon": -56.15718480286865,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Bv. España 2614, and Solano Garcia 2576",
+      "id": "uruguay-31887017a8c43bb20967"
+    },
+    {
+      "name": "Cervecería Shelter",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.90604770316606,
+      "lon": -56.17677467415446,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Andresito Guacurari 1806",
+      "price": "U$400",
+      "id": "uruguay-c3e73eeeb2c2a4ac3fb4"
+    },
+    {
+      "name": "Oso Pardo",
+      "kind": "eat",
+      "locality": "Montevideo",
+      "lat": -34.90474030510716,
+      "lon": -56.160853587648795,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Obligado 1317",
+      "price": "U$400+",
+      "url": "http://www.osopardo.com.uy/",
+      "id": "uruguay-c04397fc6eaad8be7bc4"
+    },
+    {
+      "name": "Hotel Arapey",
+      "kind": "stay",
+      "locality": "Montevideo",
+      "lat": -34.90335,
+      "lon": -56.19684,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Ave Uruguay 925",
+      "price": "single: US$32, double: US$38",
+      "url": "https://arapey.com.uy/",
+      "id": "uruguay-81a5f2a38e281f606f76"
+    },
+    {
+      "name": "Punto Berro Hostel Old Town",
+      "kind": "stay",
+      "locality": "Montevideo",
+      "lat": -34.90575,
+      "lon": -56.20444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Ituzaingó 1436",
+      "price": "Dorms from US$11.",
+      "url": "http://www.ciudadviejahostel.com/",
+      "id": "uruguay-a119671820c2d2599248"
+    },
+    {
+      "name": "Spléndido Hotel",
+      "kind": "stay",
+      "locality": "Montevideo",
+      "lat": -34.90737,
+      "lon": -56.20159,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Bartolome Mitre 1314",
+      "price": "Prices from US$11-38",
+      "url": "http://splendidohotel.com.uy/golden.guuhuu.com/index.html",
+      "id": "uruguay-adfa3c78db8ba30a8aad"
+    },
+    {
+      "name": "Destino26",
+      "kind": "stay",
+      "locality": "Montevideo",
+      "lat": -34.910387,
+      "lon": -56.150438,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "26 de Marzo 1125",
+      "price": "Dorms from US$18",
+      "url": "https://m.facebook.com/Destino26Hostel/",
+      "id": "uruguay-95149810b8972f0ef3c5"
+    },
+    {
+      "name": "Ukelele Hostel",
+      "kind": "stay",
+      "locality": "Montevideo",
+      "lat": -34.90953,
+      "lon": -56.190315,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Maldonado 1183",
+      "price": "Dorms from US$14 in the low season, US$18 in the high season",
+      "url": "https://m.facebook.com/UkeleleHostel/",
+      "id": "uruguay-eb5fbeb5c5e850ddf100"
+    },
+    {
+      "name": "Ibis Montevideo Rambla",
+      "kind": "stay",
+      "locality": "Montevideo",
+      "lat": -34.9141,
+      "lon": -56.1825,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Calle La Cumparsita 1473",
+      "url": "https://all.accor.com/hotel/3539/index.en.shtml",
+      "id": "uruguay-1032fe8a94545f8482f3"
+    },
+    {
+      "name": "Radisson Montevideo Victoria Plaza Hotel",
+      "kind": "stay",
+      "locality": "Montevideo",
+      "lat": -34.9059,
+      "lon": -56.19952,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Plaza Independencia 759",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-montevideo-victoria-plaza",
+      "id": "uruguay-b858073fb82752de9ff9"
+    },
+    {
+      "name": "Cottage",
+      "kind": "stay",
+      "locality": "Montevideo",
+      "lat": -34.8941,
+      "lon": -56.0599,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Miraflores 1360",
+      "url": "http://www.hotelcottage.com.uy/",
+      "id": "uruguay-a824275cf9601a6ac384"
+    },
+    {
+      "name": "Hotel Iberia",
+      "kind": "stay",
+      "locality": "Montevideo",
+      "lat": -34.90969,
+      "lon": -56.19221,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Maldonado 1097",
+      "url": "http://www.hoteliberia.com.uy/",
+      "id": "uruguay-7aca6a12005707a425a6"
+    },
+    {
+      "name": "Gema",
+      "kind": "stay",
+      "locality": "Montevideo",
+      "lat": -34.92014,
+      "lon": -56.152081,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Roque Graseras 644",
+      "price": "From US$55",
+      "url": "http://www.gemaluxurysuiteshotel.com.uy/",
+      "id": "uruguay-976d236372ddb8ce7466"
+    },
+    {
+      "name": "Apart Hotel Universitas",
+      "kind": "stay",
+      "locality": "Montevideo",
+      "lat": -34.89294,
+      "lon": -56.163508,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "8 de Octubre 2481",
+      "url": "http://www.mercosuruniversitas.com/es/",
+      "id": "uruguay-07ed2f15f73db85f419e"
+    },
+    {
+      "name": "Nh Columbia Hotel",
+      "kind": "stay",
+      "locality": "Montevideo",
+      "lat": -34.90974,
+      "lon": -56.20443,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Rambla Gran Bretana 473",
+      "url": "http://www.nh-hotels.com/nh/en/hotels/uruguay/montevideo/nh-columbia.html",
+      "id": "uruguay-76c88ce7527022672b30"
+    },
+    {
+      "name": "Casa Sarandi",
+      "kind": "stay",
+      "locality": "Montevideo",
+      "lat": -34.90804,
+      "lon": -56.20326,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Buenos Aires 558",
+      "url": "http://www.casasarandi.com/",
+      "id": "uruguay-17df7a4e2058099e02a2"
+    },
+    {
+      "name": "Sheraton Montevideo Hotel",
+      "kind": "stay",
+      "locality": "Montevideo",
+      "lat": -34.923889,
+      "lon": -56.158333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Victor Soliño 349",
+      "url": "https://www.marriott.com/hotels/travel/mvdsi-sheraton-montevideo-hotel/",
+      "id": "uruguay-02597ed0c152972bd9a3"
+    },
+    {
+      "name": "Holiday Inn Montevideo",
+      "kind": "stay",
+      "locality": "Montevideo",
+      "lat": -34.90537,
+      "lon": -56.1989,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "address": "Colonia 823",
+      "price": "rates from US$134",
+      "url": "http://www.holidayinn.com.uy/",
+      "id": "uruguay-d28e61ea7d70d60b1342"
+    },
+    {
+      "name": "Montevideo",
+      "kind": "area",
+      "locality": "Montevideo",
+      "lat": -34.8836,
+      "lon": -56.1819,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montevideo",
+      "id": "uruguay-2e92ef4ff579a72cfb30"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

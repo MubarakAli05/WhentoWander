@@ -1,0 +1,726 @@
+{
+  "sources": [
+    {
+      "title": "Sierra Leone",
+      "url": "https://en.wikivoyage.org/wiki/Sierra_Leone",
+      "checkedAt": "2026-10-21T08:12:16.232Z"
+    },
+    {
+      "title": "Freetown",
+      "url": "https://en.wikivoyage.org/wiki/Freetown",
+      "checkedAt": "2026-10-21T08:12:19.594Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Freetown",
+      "kind": "area",
+      "locality": "Sierra Leone",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sierra_Leone",
+      "id": "sierra-leone-eab9e1ae337f56dd566d"
+    },
+    {
+      "name": "Bo",
+      "kind": "area",
+      "locality": "Sierra Leone",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sierra_Leone",
+      "id": "sierra-leone-02a425c3163da789b4a2"
+    },
+    {
+      "name": "Bonthe",
+      "kind": "area",
+      "locality": "Sierra Leone",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sierra_Leone",
+      "id": "sierra-leone-4a4e8572cd56c5949111"
+    },
+    {
+      "name": "Kenema",
+      "kind": "area",
+      "locality": "Sierra Leone",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sierra_Leone",
+      "id": "sierra-leone-4c3548799f661cffe041"
+    },
+    {
+      "name": "Koidu",
+      "kind": "area",
+      "locality": "Sierra Leone",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sierra_Leone",
+      "id": "sierra-leone-a0d26c9630964b8feaa0"
+    },
+    {
+      "name": "Makeni",
+      "kind": "area",
+      "locality": "Sierra Leone",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sierra_Leone",
+      "id": "sierra-leone-e73e77c0df6bdb641bfa"
+    },
+    {
+      "name": "Magburaka",
+      "kind": "area",
+      "locality": "Sierra Leone",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sierra_Leone",
+      "id": "sierra-leone-3b10bb96b326158529e3"
+    },
+    {
+      "name": "Cape Sierra Leone Lighthouse",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.498391,
+      "lon": -13.296469,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-d4e339ffee75521d07b2"
+    },
+    {
+      "name": "National Rail Museum",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.489794,
+      "lon": -13.205976,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "Cline Street",
+      "id": "sierra-leone-5cba6fc38810101925c5"
+    },
+    {
+      "name": "Sierra Leone National Museum",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.486694,
+      "lon": -13.235839,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "Siaka Stevens St",
+      "url": "http://www.sierraleoneheritage.org/museum/",
+      "id": "sierra-leone-2284bce0e588c08b581d"
+    },
+    {
+      "name": "Tacugama Chimpanzee Sanctuary",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.419174,
+      "lon": -13.206313,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "url": "http://www.tacugama.com/",
+      "id": "sierra-leone-462303fc82e4ec588b1a"
+    },
+    {
+      "name": "Charlotte falls",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.4223,
+      "lon": -13.1913,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-212bc8448fb45ca0b761"
+    },
+    {
+      "name": "Remains of Cotton tree",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.48714,
+      "lon": -13.23561,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-495fec174a9c81558b24"
+    },
+    {
+      "name": "Supreme Court building",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.48749,
+      "lon": -13.23501,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "26 Siaka Stevens St",
+      "id": "sierra-leone-b5a988a688799cd7da41"
+    },
+    {
+      "name": "Portuguese steps",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.49095,
+      "lon": -13.23605,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-2defe86e24d2e1fa27ef"
+    },
+    {
+      "name": "St. Johns Maroon Church",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.48573,
+      "lon": -13.23666,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-fe0b52a87e4e3c4873a3"
+    },
+    {
+      "name": "St. George's Cathedral",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.48998,
+      "lon": -13.23565,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-cb003950924a2cf52049"
+    },
+    {
+      "name": "Fourah Town Mosque",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.48392,
+      "lon": -13.22636,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-7d17409a4fe9efd3d6af"
+    },
+    {
+      "name": "Sacred Heart Cathedral",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.48937,
+      "lon": -13.23308,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "Siaka Stevens St",
+      "id": "sierra-leone-492ecd303abf6da3a29a"
+    },
+    {
+      "name": "Three historical cannons",
+      "kind": "do",
+      "locality": "Freetown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "url": "http://www.sierraleoneheritage.org/sites/monuments/oldcity",
+      "id": "sierra-leone-8925887a02c0bb53cd33"
+    },
+    {
+      "name": "Sierra Leone Peace Museum",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.4712345,
+      "lon": -13.2425397,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "url": "http://www.sierraleonetrc.org/index.php/sierra-leone-peace-museum",
+      "id": "sierra-leone-7d031f22136edf569761"
+    },
+    {
+      "name": "Lumley Beach",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.4806,
+      "lon": -13.2862,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-a08042925a0f657d06ef"
+    },
+    {
+      "name": "Goderich Beach",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.4385,
+      "lon": -13.281,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-f1b3b9f11445ef5f709b"
+    },
+    {
+      "name": "Lakka Beach",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.3969,
+      "lon": -13.2676,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-9f6f795be24c929f3a4b"
+    },
+    {
+      "name": "Hamilton Beach",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.3735,
+      "lon": -13.2529,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-eaef13e68c36cd9ef09d"
+    },
+    {
+      "name": "Sussex Beach",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.3498,
+      "lon": -13.2348,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-6b812c6bca47c1c7c4e9"
+    },
+    {
+      "name": "No. 2 River Beach",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.3343,
+      "lon": -13.2047,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-dbeca292a6ff288bf697"
+    },
+    {
+      "name": "Tokeh Beach",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.308,
+      "lon": -13.193,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-6419eef2174f1e05ecb7"
+    },
+    {
+      "name": "York Beach",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.2848,
+      "lon": -13.1839,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-ed090ccd898bbeb18e14"
+    },
+    {
+      "name": "Black Johnson Beach",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.2731,
+      "lon": -13.1677,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-84044f79009c0f9a0854"
+    },
+    {
+      "name": "John Obey Beach",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.2411,
+      "lon": -13.1629,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-3b1bb93c89bba9858040"
+    },
+    {
+      "name": "Bureh Beach",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.2119,
+      "lon": -13.1554,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-8d12cfb1c57b91ec1d0c"
+    },
+    {
+      "name": "Kent Beach",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.1774,
+      "lon": -13.1623,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-340c3c35f7a11701d278"
+    },
+    {
+      "name": "Mamah Beach",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.1975,
+      "lon": -13.1271,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-118a93426257a40e629f"
+    },
+    {
+      "name": "Banana Island Beaches",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.1346,
+      "lon": -13.1975,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-a2d3194ac371bc260f4d"
+    },
+    {
+      "name": "Bunce Island",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.5702,
+      "lon": -13.0402,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-0ab05855c80301e8c1a8"
+    },
+    {
+      "name": "Freetown Golf Club",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.4633,
+      "lon": -13.2772,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "Lumley Beach Road",
+      "url": "http://golf.sl/",
+      "id": "sierra-leone-e77932bdc5f167b2c7fc"
+    },
+    {
+      "name": "Casino Leone",
+      "kind": "do",
+      "locality": "Freetown",
+      "lat": 8.4938,
+      "lon": -13.294,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "72A Cape Road",
+      "url": "https://www.facebook.com/GRANDLEONESKYBAR",
+      "id": "sierra-leone-11d0e0e5b578cf2f3d64"
+    },
+    {
+      "name": "Crown Bakery Restaurant",
+      "kind": "eat",
+      "locality": "Freetown",
+      "lat": 8.4906,
+      "lon": -13.2328,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "Wilberforce Street, Freetown Centre",
+      "id": "sierra-leone-8bf5058228da3dedb4b5"
+    },
+    {
+      "name": "Crown Bakery Express",
+      "kind": "eat",
+      "locality": "Freetown",
+      "lat": 8.4662,
+      "lon": -13.2741,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "Wilkinson Road",
+      "id": "sierra-leone-52dfaf778484e17a0793"
+    },
+    {
+      "name": "Diaspora",
+      "kind": "eat",
+      "locality": "Freetown",
+      "lat": 8.48191,
+      "lon": -13.24109,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "2 Pricilla Street",
+      "id": "sierra-leone-9f95d2401277f4693a0a"
+    },
+    {
+      "name": "Roy's Beach Bar",
+      "kind": "eat",
+      "locality": "Freetown",
+      "lat": 8.4796,
+      "lon": -13.285,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "Lumley Beach Road (Kinston upon Hull Highway)",
+      "id": "sierra-leone-9ff600daa6d2cb7f8c14"
+    },
+    {
+      "name": "Country Lodge Hotel Restaurant",
+      "kind": "eat",
+      "locality": "Freetown",
+      "lat": 8.4567,
+      "lon": -13.2561,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "url": "http://www.countrylodgesl.com/",
+      "id": "sierra-leone-91ec79c78d7ce951a4df"
+    },
+    {
+      "name": "The Hub Restaurant",
+      "kind": "eat",
+      "locality": "Freetown",
+      "lat": 8.4686,
+      "lon": -13.2624,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "4 Regent Rd",
+      "id": "sierra-leone-2a3051f5b4305cc050bd"
+    },
+    {
+      "name": "Indochine Restaurant",
+      "kind": "eat",
+      "locality": "Freetown",
+      "lat": 8.4926,
+      "lon": -13.2782,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "64 Sir Samuel Lewis Rd",
+      "id": "sierra-leone-eed490d6643e7241d076"
+    },
+    {
+      "name": "Mamba Point Restaurant at Lagoonda",
+      "kind": "eat",
+      "locality": "Freetown",
+      "lat": 8.4962,
+      "lon": -13.2943,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-7ea35b702617ce7943f6"
+    },
+    {
+      "name": "Gigibonta",
+      "kind": "eat",
+      "locality": "Freetown",
+      "lat": 8.46883,
+      "lon": -13.2807,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "Lumley Beach road",
+      "id": "sierra-leone-b52b163f706e8592084a"
+    },
+    {
+      "name": "Hill Station Club",
+      "kind": "eat",
+      "locality": "Freetown",
+      "lat": 8.456687,
+      "lon": -13.25279,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "url": "http://www.capitalradio.sl/hsc.htm",
+      "id": "sierra-leone-55d6cc456a2ca6ca2e6a"
+    },
+    {
+      "name": "Oasis",
+      "kind": "eat",
+      "locality": "Freetown",
+      "lat": 8.4878,
+      "lon": -13.261,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "Murray Town Road",
+      "id": "sierra-leone-61407f0618a801ba6b00"
+    },
+    {
+      "name": "Papaya",
+      "kind": "eat",
+      "locality": "Freetown",
+      "lat": 8.49243,
+      "lon": -13.29191,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "Family Kingdom, Aberdeen",
+      "id": "sierra-leone-9d5211e791bee03c5ff8"
+    },
+    {
+      "name": "Chapter One",
+      "kind": "eat",
+      "locality": "Freetown",
+      "lat": 8.46059,
+      "lon": -13.27879,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "30 Lumley Beach Road",
+      "url": "https://chapterone.sl/",
+      "id": "sierra-leone-82a36aa0aae28bbfb7ac"
+    },
+    {
+      "name": "Hariom Yogi Guest House (also called Yogi Homestay)",
+      "kind": "stay",
+      "locality": "Freetown",
+      "lat": 8.6117,
+      "lon": -13.1757,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "2 Bangura Street, Kasongha, Lungi",
+      "price": "US$50-100",
+      "url": "https://yogistay.com/",
+      "id": "sierra-leone-0899d22aa0564021e120"
+    },
+    {
+      "name": "Sweet Mother’s Guesthouse",
+      "kind": "stay",
+      "locality": "Freetown",
+      "lat": 8.45961,
+      "lon": -13.27816,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "Lumley Beach Road (new road)",
+      "price": "US$25.00",
+      "id": "sierra-leone-86d2326139a46195499a"
+    },
+    {
+      "name": "YMCA",
+      "kind": "stay",
+      "locality": "Freetown",
+      "lat": 8.48273,
+      "lon": -13.23506,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "37 Fort street",
+      "price": "Le200 000-250 000-350 000",
+      "url": "http://www.sierraleoneymca.org/",
+      "id": "sierra-leone-e59738ab2d024d7b4f9e"
+    },
+    {
+      "name": "Lakka Beach Island Resort",
+      "kind": "stay",
+      "locality": "Freetown",
+      "lat": 8.39726,
+      "lon": -13.27004,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "url": "https://www.lakkabeach.com/",
+      "id": "sierra-leone-b3b3235692c1e45e83b7"
+    },
+    {
+      "name": "Radisson Blu Mammy Yoko Hotel",
+      "kind": "stay",
+      "locality": "Freetown",
+      "lat": 8.492191,
+      "lon": -13.289774,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "17 Lumley Beach Road",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-freetown",
+      "id": "sierra-leone-3359fb81162f79372a24"
+    },
+    {
+      "name": "Hilton Cape Sierra Hotel",
+      "kind": "stay",
+      "locality": "Freetown",
+      "lat": 8.4943,
+      "lon": -13.2965,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-b11e0cf8df0f909bb846"
+    },
+    {
+      "name": "Leone Lodge",
+      "kind": "stay",
+      "locality": "Freetown",
+      "lat": 8.484742,
+      "lon": -13.287177,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "Lumley Beach Road",
+      "price": "US$150",
+      "id": "sierra-leone-35b79fd6422facb2ebc4"
+    },
+    {
+      "name": "Bintumani Hotel",
+      "kind": "stay",
+      "locality": "Freetown",
+      "lat": 8.496711,
+      "lon": -13.288551,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "url": "http://www.bintumanihotelfreetown.online/",
+      "id": "sierra-leone-a3a793c2195051057c8e"
+    },
+    {
+      "name": "Hotel Barmoi",
+      "kind": "stay",
+      "locality": "Freetown",
+      "lat": 8.495668,
+      "lon": -13.297056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "Aberdeen",
+      "price": "US$124-150",
+      "url": "http://www.hotelbarmoi.com/",
+      "id": "sierra-leone-1d6d5c916a95d2756a0a"
+    },
+    {
+      "name": "Country Lodge Hotel",
+      "kind": "stay",
+      "locality": "Freetown",
+      "lat": 8.456368,
+      "lon": -13.256234,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "HS 51 Hillstation",
+      "url": "http://www.countrylodgesl.com/",
+      "id": "sierra-leone-900a11865ca91851914c"
+    },
+    {
+      "name": "Family Kingdom",
+      "kind": "stay",
+      "locality": "Freetown",
+      "lat": 8.4927,
+      "lon": -13.2917,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-9f9038d83ba3731d7e07"
+    },
+    {
+      "name": "Golden Tulip Essential Kimbima",
+      "kind": "stay",
+      "locality": "Freetown",
+      "lat": 8.4986,
+      "lon": -13.29005,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "Bintumani Drive",
+      "id": "sierra-leone-95a2a499b7066b08081f"
+    },
+    {
+      "name": "Lacs Villa",
+      "kind": "stay",
+      "locality": "Freetown",
+      "lat": 8.4699,
+      "lon": -13.2494,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-dd7e1b56f7c471de4d71"
+    },
+    {
+      "name": "The Hub Hotel (formerly Mamba Point)",
+      "kind": "stay",
+      "locality": "Freetown",
+      "lat": 8.46842,
+      "lon": -13.2623,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "Wilberforce",
+      "id": "sierra-leone-2a748303af392a0ef50e"
+    },
+    {
+      "name": "Sierra Bay Hotel And Residence",
+      "kind": "stay",
+      "locality": "Freetown",
+      "lat": 8.4961,
+      "lon": -13.29204,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "url": "http://www.sierrabayhotel.com/",
+      "id": "sierra-leone-eb4c884d7a44ea725bf5"
+    },
+    {
+      "name": "Lungi Airport Hotel",
+      "kind": "stay",
+      "locality": "Freetown",
+      "lat": 8.612812,
+      "lon": -13.204005,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-017ba7b3b3db1c720784"
+    },
+    {
+      "name": "Roy Guest House",
+      "kind": "stay",
+      "locality": "Freetown",
+      "lat": 8.47956,
+      "lon": -13.28508,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "54 Lumley Beach Road",
+      "price": "US$120",
+      "id": "sierra-leone-f447ce1665aae8ce8c0b"
+    },
+    {
+      "name": "New Brookfields Hotel",
+      "kind": "stay",
+      "locality": "Freetown",
+      "lat": 8.47,
+      "lon": -13.2443,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "Jomo Kenyatta Road, New England",
+      "price": "US$150",
+      "url": "http://www.newbrookfieldshotel.com/",
+      "id": "sierra-leone-07826d6aa459d1a5e8f4"
+    },
+    {
+      "name": "Atlantic Lumley Hotel",
+      "kind": "stay",
+      "locality": "Freetown",
+      "lat": 8.47742,
+      "lon": -13.28415,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-f86bf793b230f11473e7"
+    },
+    {
+      "name": "Swiss Spirit Hotel & Suites Freetown",
+      "kind": "stay",
+      "locality": "Freetown",
+      "lat": 8.461838,
+      "lon": -13.269305,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "38 Spur Road, Freetown",
+      "price": "From US$ 110",
+      "url": "https://theswisshotelsl.com/",
+      "id": "sierra-leone-eacf5b40cf9e48e8c695"
+    },
+    {
+      "name": "Home Suites Hotel",
+      "kind": "stay",
+      "locality": "Freetown",
+      "lat": 8.49456,
+      "lon": -13.28726,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "Aberdeen roundabout",
+      "id": "sierra-leone-4ae1cb68e59e7c5daaea"
+    },
+    {
+      "name": "The Lead Hotel",
+      "kind": "stay",
+      "locality": "Freetown",
+      "lat": 8.49435,
+      "lon": -13.2951,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "address": "72a Cape Rd, Aberdeen",
+      "url": "https://livingthelead.com/",
+      "id": "sierra-leone-6787c7eb9a70c22dc720"
+    },
+    {
+      "name": "Freetown",
+      "kind": "area",
+      "locality": "Freetown",
+      "lat": 8.483333,
+      "lon": -13.233056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Freetown",
+      "id": "sierra-leone-b3f909e9c55f690fba52"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

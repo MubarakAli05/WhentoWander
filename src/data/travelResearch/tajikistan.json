@@ -1,0 +1,687 @@
+{
+  "sources": [
+    {
+      "title": "Tajikistan",
+      "url": "https://en.wikivoyage.org/wiki/Tajikistan",
+      "checkedAt": "2026-10-21T08:12:37.406Z"
+    },
+    {
+      "title": "Dushanbe",
+      "url": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "checkedAt": "2026-10-21T08:12:40.208Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Dushanbe",
+      "kind": "area",
+      "locality": "Tajikistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tajikistan",
+      "id": "tajikistan-e277c6780c45f066d365"
+    },
+    {
+      "name": "Bokhtar",
+      "kind": "area",
+      "locality": "Tajikistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tajikistan",
+      "id": "tajikistan-f5fe8a749db85124c966"
+    },
+    {
+      "name": "Isfara",
+      "kind": "area",
+      "locality": "Tajikistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tajikistan",
+      "id": "tajikistan-6c1926289aa4e0b5e50a"
+    },
+    {
+      "name": "Istaravshan",
+      "kind": "area",
+      "locality": "Tajikistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tajikistan",
+      "id": "tajikistan-981eb8ac406c9874b84a"
+    },
+    {
+      "name": "Khorugh",
+      "kind": "area",
+      "locality": "Tajikistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tajikistan",
+      "id": "tajikistan-2b27e5a9746c8504ab83"
+    },
+    {
+      "name": "Khujand",
+      "kind": "area",
+      "locality": "Tajikistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tajikistan",
+      "id": "tajikistan-f2914d13f4cf2c0861a8"
+    },
+    {
+      "name": "Konibodom",
+      "kind": "area",
+      "locality": "Tajikistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tajikistan",
+      "id": "tajikistan-5acd1de51cb9e9c64d51"
+    },
+    {
+      "name": "Kulob",
+      "kind": "area",
+      "locality": "Tajikistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tajikistan",
+      "id": "tajikistan-13d3383759d1de0dd340"
+    },
+    {
+      "name": "Panjakent",
+      "kind": "area",
+      "locality": "Tajikistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tajikistan",
+      "id": "tajikistan-ab3892f1a8211a619978"
+    },
+    {
+      "name": "Haji Yaqub Mosque",
+      "kind": "do",
+      "locality": "Dushanbe",
+      "lat": 38.58773,
+      "lon": 68.7841,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Rudaki Ave",
+      "id": "tajikistan-4eb87bda7d2e311cbac1"
+    },
+    {
+      "name": "Sari Osiyo Mosque",
+      "kind": "do",
+      "locality": "Dushanbe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "id": "tajikistan-9bc7b3dcb4d9abb74ca4"
+    },
+    {
+      "name": "Ismaili Centre",
+      "kind": "do",
+      "locality": "Dushanbe",
+      "lat": 38.5846,
+      "lon": 68.7638,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Ismoil Somoni Ave,",
+      "id": "tajikistan-ff807223346fa110a9ec"
+    },
+    {
+      "name": "St. Nicholas Cathedral",
+      "kind": "do",
+      "locality": "Dushanbe",
+      "lat": 38.566389,
+      "lon": 68.816667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Druzhby Narodov St (улица Дружбы народов)), ~64",
+      "id": "tajikistan-25972aedc15380e1ac92"
+    },
+    {
+      "name": "Gurminj Museum of Musical Instruments",
+      "kind": "do",
+      "locality": "Dushanbe",
+      "lat": 38.5768,
+      "lon": 68.7898,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Bokhtar Street, 23",
+      "price": "Admission С10",
+      "url": "http://gurminj.tj/",
+      "id": "tajikistan-d4df33059200d66cb5b4"
+    },
+    {
+      "name": "National Museum of Tajikistan",
+      "kind": "do",
+      "locality": "Dushanbe",
+      "lat": 38.5634,
+      "lon": 68.7991,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "price": "С35 per person, more if you want to pay for photos",
+      "id": "tajikistan-9a9f3ae2201d921d2f3f"
+    },
+    {
+      "name": "Monument of Amir Ismail Samani",
+      "kind": "do",
+      "locality": "Dushanbe",
+      "lat": 38.574,
+      "lon": 68.7854,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Prospekt Aiani",
+      "id": "tajikistan-28d806d98272839434e6"
+    },
+    {
+      "name": "Rudaki statue",
+      "kind": "do",
+      "locality": "Dushanbe",
+      "lat": 38.5766,
+      "lon": 68.7842,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "id": "tajikistan-9fe0b4634407f54a6184"
+    },
+    {
+      "name": "Dushanbe Flagpole",
+      "kind": "do",
+      "locality": "Dushanbe",
+      "lat": 38.579,
+      "lon": 68.7801,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "id": "tajikistan-8311046210f8a43dea60"
+    },
+    {
+      "name": "Vahdat Palace",
+      "kind": "do",
+      "locality": "Dushanbe",
+      "lat": 38.58971,
+      "lon": 68.78571,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "107, Rudaki Avenue (проспект А. Рудаки)",
+      "id": "tajikistan-f4a19129d08bd08b0bcb"
+    },
+    {
+      "name": "National Bank of Tajikistan",
+      "kind": "do",
+      "locality": "Dushanbe",
+      "lat": 38.5669,
+      "lon": 68.79306,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "хиёбони Рудакӣ, 107A",
+      "url": "http://www.nbt.tj/",
+      "id": "tajikistan-4dedbbbc48e172389593"
+    },
+    {
+      "name": "Tajik State National University",
+      "kind": "do",
+      "locality": "Dushanbe",
+      "lat": 38.56532,
+      "lon": 68.79475,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Rudaki Ave. (хиёбони Рӯдакӣ), 17",
+      "url": "https://www.tnu.tj/index.php/en/",
+      "id": "tajikistan-92205614aca54d136657"
+    },
+    {
+      "name": "Fort Hisor",
+      "kind": "do",
+      "locality": "Dushanbe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "price": "Entrance fees are С10 (as of 2024).",
+      "id": "tajikistan-a65ce5a89938a408669a"
+    },
+    {
+      "name": "Aquapark Dolphin",
+      "kind": "do",
+      "locality": "Dushanbe",
+      "lat": 38.5768,
+      "lon": 68.7343,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Bogoutdinova (Богоутдинова), 7/2",
+      "url": "http://www.delfin.tj/",
+      "id": "tajikistan-ee87c87ad077c334456d"
+    },
+    {
+      "name": "Circus",
+      "kind": "do",
+      "locality": "Dushanbe",
+      "lat": 38.5576,
+      "lon": 68.7637,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Karaboev Avenue, 1-3",
+      "id": "tajikistan-4375b4a73b263a2f47a7"
+    },
+    {
+      "name": "Botanical Gardens",
+      "kind": "do",
+      "locality": "Dushanbe",
+      "lat": 38.6026,
+      "lon": 68.781,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "id": "tajikistan-bc9e045357a190791efa"
+    },
+    {
+      "name": "Dushanbe Zoo",
+      "kind": "do",
+      "locality": "Dushanbe",
+      "lat": 38.585,
+      "lon": 68.77194,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Ismoili Somoni Avenue",
+      "id": "tajikistan-3a6e876f72546b1b0089"
+    },
+    {
+      "name": "Park named after S. Ayni",
+      "kind": "do",
+      "locality": "Dushanbe",
+      "lat": 38.5684,
+      "lon": 68.7962,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "id": "tajikistan-75d1d3004a91e2663f43"
+    },
+    {
+      "name": "Victory Park",
+      "kind": "do",
+      "locality": "Dushanbe",
+      "lat": 38.57876,
+      "lon": 68.81208,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Druzhby Narodov St",
+      "id": "tajikistan-a988ad257f602bebd34f"
+    },
+    {
+      "name": "Ayni Opera and Ballet Theatre",
+      "kind": "do",
+      "locality": "Dushanbe",
+      "lat": 38.5688,
+      "lon": 68.7952,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Nisor Muhammad St and Rudaki Ave cnr",
+      "url": "http://www.operabalet.tj/",
+      "id": "tajikistan-0475ebbc2267c75638ae"
+    },
+    {
+      "name": "Lahuti Drama Theatre",
+      "kind": "do",
+      "locality": "Dushanbe",
+      "lat": 38.5851,
+      "lon": 68.78785,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Rudaki Ave,",
+      "id": "tajikistan-c9a5dfb65e12ceb668d1"
+    },
+    {
+      "name": "Puppet theatre",
+      "kind": "do",
+      "locality": "Dushanbe",
+      "lat": 38.57882,
+      "lon": 68.79757,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "id": "tajikistan-c7fb5ecc403639dffdf7"
+    },
+    {
+      "name": "Parasty Theatre",
+      "kind": "do",
+      "locality": "Dushanbe",
+      "lat": 38.58418,
+      "lon": 68.78796,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Rudaki Ave,",
+      "id": "tajikistan-3eb46dad8901077b37e8"
+    },
+    {
+      "name": "Summer theatre",
+      "kind": "do",
+      "locality": "Dushanbe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "id": "tajikistan-93a6b82dde4cb758dac7"
+    },
+    {
+      "name": "Youth Theatre named after M. Vahidova",
+      "kind": "do",
+      "locality": "Dushanbe",
+      "lat": 38.55,
+      "lon": 68.761,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Karaboev Avenue, 21-23",
+      "id": "tajikistan-f376b2484097f37891d7"
+    },
+    {
+      "name": "Cafe Merve",
+      "kind": "eat",
+      "locality": "Dushanbe",
+      "lat": 38.5884,
+      "lon": 68.7872,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "92 Rudaki Avenue",
+      "id": "tajikistan-a9a489e67c88d2e68240"
+    },
+    {
+      "name": "Merve Restaurant",
+      "kind": "eat",
+      "locality": "Dushanbe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "price": "С430 for a generous mixed grill",
+      "url": "https://merve.gastronom.tj/",
+      "id": "tajikistan-23349d82c86abfc6fce0"
+    },
+    {
+      "name": "Delhi Darbar",
+      "kind": "eat",
+      "locality": "Dushanbe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Rudaki Avenue",
+      "id": "tajikistan-481ffba2aaa762af89db"
+    },
+    {
+      "name": "Salsa",
+      "kind": "eat",
+      "locality": "Dushanbe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "id": "tajikistan-60eaee6ccace243ac88b"
+    },
+    {
+      "name": "Tiflis",
+      "kind": "eat",
+      "locality": "Dushanbe",
+      "lat": 38.57032,
+      "lon": 68.79597,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "id": "tajikistan-2b4f23d4aaa88a41d564"
+    },
+    {
+      "name": "Gruzinski Restorant \"Kafene Gruziya\"",
+      "kind": "eat",
+      "locality": "Dushanbe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Rudaki Avenue 29",
+      "id": "tajikistan-a9392d1e775fea16d7a4"
+    },
+    {
+      "name": "Steakhouse",
+      "kind": "eat",
+      "locality": "Dushanbe",
+      "lat": 38.56932,
+      "lon": 68.79712,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "id": "tajikistan-501bbb3ba3cbcf0358ec"
+    },
+    {
+      "name": "Segafredo",
+      "kind": "eat",
+      "locality": "Dushanbe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Rudaki Ave",
+      "url": "https://www.facebook.com/pages/Segafredo-Dushanbe/237114566300105",
+      "id": "tajikistan-39bae4debdb9fb4c50be"
+    },
+    {
+      "name": "Oshi Panchakent",
+      "kind": "eat",
+      "locality": "Dushanbe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Ayni Street 22/7",
+      "price": "С20–90",
+      "id": "tajikistan-d36d88aaf4381c425bf7"
+    },
+    {
+      "name": "KFC",
+      "kind": "eat",
+      "locality": "Dushanbe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "several locations throughout the city",
+      "id": "tajikistan-47979f9d2e061d072cda"
+    },
+    {
+      "name": "Best Bar City",
+      "kind": "eat",
+      "locality": "Dushanbe",
+      "lat": 38.57928,
+      "lon": 68.78448,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Shohtemur Street 22",
+      "url": "https://bundestag-bar.business.site/",
+      "id": "tajikistan-2616ade8057dbd193bc3"
+    },
+    {
+      "name": "28 Monkeys",
+      "kind": "eat",
+      "locality": "Dushanbe",
+      "lat": 38.57228,
+      "lon": 68.78886,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Bokhtar St",
+      "url": "https://www.instagram.com/gastrobar28",
+      "id": "tajikistan-e0fc20e1948fe1b426e4"
+    },
+    {
+      "name": "Small Restaurants in front of the Opera",
+      "kind": "eat",
+      "locality": "Dushanbe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "price": "beer: С3",
+      "id": "tajikistan-6424000c13954e8a4582"
+    },
+    {
+      "name": "Brewery Dushanbe",
+      "kind": "eat",
+      "locality": "Dushanbe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Shohtemur Street 60",
+      "price": "5 Somoni",
+      "id": "tajikistan-cfa4962fe6dd3e54f2db"
+    },
+    {
+      "name": "Greenhouse Hostel",
+      "kind": "stay",
+      "locality": "Dushanbe",
+      "lat": 38.56542,
+      "lon": 68.81235,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "98a Khusravi Dehlavi Street",
+      "price": "Dorm bed starting at US$12",
+      "url": "https://www.greenhousedushanbe.com/",
+      "id": "tajikistan-23a7162598c7bdc74217"
+    },
+    {
+      "name": "Dushanbe Hostel Latifa",
+      "kind": "stay",
+      "locality": "Dushanbe",
+      "lat": 38.5454,
+      "lon": 68.7499,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Rahmon Nabiyev Street, 2nd Passage, Nr. 23",
+      "price": "US$6-7",
+      "id": "tajikistan-7468d313cb785a06b214"
+    },
+    {
+      "name": "Hostel Hello, Dushanbe!",
+      "kind": "stay",
+      "locality": "Dushanbe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "5 Proyezd Nisora Mukhammada 4/1",
+      "price": "Dorm US$15",
+      "url": "http://hellodushanbe.com/",
+      "id": "tajikistan-828354e46872b9687720"
+    },
+    {
+      "name": "Yellow hostel",
+      "kind": "stay",
+      "locality": "Dushanbe",
+      "lat": 38.56469,
+      "lon": 68.8119,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Nisor Muhammad Street 16",
+      "price": "Dorm С80",
+      "url": "http://yellow.tj/",
+      "id": "tajikistan-ec391967051fa032119d"
+    },
+    {
+      "name": "Atlas B&B",
+      "kind": "stay",
+      "locality": "Dushanbe",
+      "lat": 38.56474,
+      "lon": 68.81338,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "63, Mirzo Rizo (ул. Мирзо Ризо)",
+      "price": "US$80",
+      "id": "tajikistan-d5febef026dbbd8b870a"
+    },
+    {
+      "name": "Almos hotel",
+      "kind": "stay",
+      "locality": "Dushanbe",
+      "lat": 38.56469,
+      "lon": 68.80625,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "6, Mirzo Rizo str (ул. Мирзо Ризо)",
+      "price": "Single/double from US$80/120 to 150",
+      "url": "http://almos.tj/",
+      "id": "tajikistan-06f6f7f5de4126575802"
+    },
+    {
+      "name": "Mercury Hotel",
+      "kind": "stay",
+      "locality": "Dushanbe",
+      "lat": 38.5985,
+      "lon": 68.78416,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "9, Lev Tolstoy Str (ул. Л. Толстого)",
+      "price": "Standard single/double: US$70/90, suites US$100",
+      "id": "tajikistan-5c555111f886deacd7b6"
+    },
+    {
+      "name": "Rohat",
+      "kind": "stay",
+      "locality": "Dushanbe",
+      "lat": 38.56747,
+      "lon": 68.7946,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Rudaki ave. (Проспект Рудаки), 24",
+      "price": "US$60 negotiable",
+      "url": "https://rohathotel.tj/",
+      "id": "tajikistan-e669f921e9b536ddc907"
+    },
+    {
+      "name": "Gulistan Tour Hotel",
+      "kind": "stay",
+      "locality": "Dushanbe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "ul. Bukhoro (ул. Бухоро) 78",
+      "price": "US$90-120 per room",
+      "id": "tajikistan-c3be8886c92a910013f1"
+    },
+    {
+      "name": "Hotel Sino",
+      "kind": "stay",
+      "locality": "Dushanbe",
+      "lat": 38.5674,
+      "lon": 68.7836,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Shevchenko Street ( ул. Шевченко), 75-26",
+      "price": "Single/double from US$92/115",
+      "id": "tajikistan-4d3bf986f018a1614ea0"
+    },
+    {
+      "name": "Hyatt Regency Dushanbe",
+      "kind": "stay",
+      "locality": "Dushanbe",
+      "lat": 38.5825,
+      "lon": 68.7672,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Prospekt Ismoili Somoni 26/1",
+      "price": "From US$212",
+      "url": "https://dushanbe.regency.hyatt.com/",
+      "id": "tajikistan-4be94f47ae443028945c"
+    },
+    {
+      "name": "Vefa Center Hotel",
+      "kind": "stay",
+      "locality": "Dushanbe",
+      "lat": 38.5774,
+      "lon": 68.7897,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Bokhtar str.(ул. Бохтар), 37/1",
+      "price": "Standard room US$180, Luxury apartments US$200, Family Cross-bedroom apartment US$220, Double lux US$240",
+      "url": "http://vefacenter.tj/en/index.php",
+      "id": "tajikistan-9bf5a82d54ad7d6b5c81"
+    },
+    {
+      "name": "Istiqlol Hotel",
+      "kind": "stay",
+      "locality": "Dushanbe",
+      "lat": 38.5881,
+      "lon": 68.7657,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "12, Sportivnaya str (Улица Спортивная)",
+      "price": "Single/double from US$161/185",
+      "url": "http://www.istiqlol.tj/",
+      "id": "tajikistan-bf6d997b42895206a1b0"
+    },
+    {
+      "name": "Serena Hotel",
+      "kind": "stay",
+      "locality": "Dushanbe",
+      "lat": 38.56377,
+      "lon": 68.79816,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "14 Rudaki Ave (Проспект Рудаки 14)",
+      "price": "Deluxe US$230, Executive $280, Executive Suite $360",
+      "url": "https://www.serenahotels.com/serenadushanbe/default-en.html",
+      "id": "tajikistan-ce159d3e6d0de4046f99"
+    },
+    {
+      "name": "Hotel Taj Palace",
+      "kind": "stay",
+      "locality": "Dushanbe",
+      "lat": 38.574,
+      "lon": 68.79451,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Mirzo Tursunzoda Street (Улица Турсунзаде) 21a,b",
+      "price": "Standard single/double US$120/150, Junior single/double US$150/180, Deluxe US$250. Breakfast US$6-7, lunch US$15-18",
+      "url": "http://taj-palace.tj/",
+      "id": "tajikistan-56af6b9dd902ec129d48"
+    },
+    {
+      "name": "Tajikistan Hotel",
+      "kind": "stay",
+      "locality": "Dushanbe",
+      "lat": 38.579,
+      "lon": 68.7846,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "22, Shotemur Str.",
+      "price": "Sinhle/double from US$196/380",
+      "id": "tajikistan-fb6d67d4eb43c228849f"
+    },
+    {
+      "name": "Komron",
+      "kind": "stay",
+      "locality": "Dushanbe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Karabaeva (1 проезд Н.Карабаева) 11, Apt 3 (кв.№3)",
+      "url": "http://www.hotelkomron.tj/",
+      "id": "tajikistan-196a42138fe305a53881"
+    },
+    {
+      "name": "Hotel Oriyo",
+      "kind": "stay",
+      "locality": "Dushanbe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "ul. Karamova (ул. Карамова ),4",
+      "id": "tajikistan-840b838c3702d9b71e45"
+    },
+    {
+      "name": "Avesto",
+      "kind": "stay",
+      "locality": "Dushanbe",
+      "lat": 38.58846,
+      "lon": 68.78572,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Ave. Rudaki (пр. Рудаки), 105 А",
+      "id": "tajikistan-04e08cac1ad8d803bcfa"
+    },
+    {
+      "name": "Tadzhikmatlubot",
+      "kind": "stay",
+      "locality": "Dushanbe",
+      "lat": 38.6012,
+      "lon": 68.7859,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "Rudaki ave. (Проспект Рудаки) , 137",
+      "id": "tajikistan-176f72f88314da73115c"
+    },
+    {
+      "name": "Guesthouse Comfort",
+      "kind": "stay",
+      "locality": "Dushanbe",
+      "lat": 38.5974,
+      "lon": 68.7847,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "address": "59 Lva Tolstogo str. (Ул. Льва Толстого, ул. Хамза Хакимзаде)",
+      "id": "tajikistan-265d9ee3413aae498dcd"
+    },
+    {
+      "name": "Dushanbe",
+      "kind": "area",
+      "locality": "Dushanbe",
+      "lat": 38.536667,
+      "lon": 68.78,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dushanbe",
+      "id": "tajikistan-0e96a8acb5e719a01fa0"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

@@ -1,0 +1,718 @@
+{
+  "sources": [
+    {
+      "title": "Iraq",
+      "url": "https://en.wikivoyage.org/wiki/Iraq",
+      "checkedAt": "2026-10-21T08:10:06.683Z"
+    },
+    {
+      "title": "Baghdad",
+      "url": "https://en.wikivoyage.org/wiki/Baghdad",
+      "checkedAt": "2026-10-21T08:10:08.648Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Baghdad",
+      "kind": "area",
+      "locality": "Iraq",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Iraq",
+      "id": "iraq-5507ed5a2ccbc674fedd"
+    },
+    {
+      "name": "Ar Rutba",
+      "kind": "area",
+      "locality": "Iraq",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Iraq",
+      "id": "iraq-5f6fae715091b5b238b4"
+    },
+    {
+      "name": "Basra",
+      "kind": "area",
+      "locality": "Iraq",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Iraq",
+      "id": "iraq-faddc1f0844ef4d496fe"
+    },
+    {
+      "name": "Dahuk",
+      "kind": "area",
+      "locality": "Iraq",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Iraq",
+      "id": "iraq-82cb403fa82835f588c2"
+    },
+    {
+      "name": "Erbil",
+      "kind": "area",
+      "locality": "Iraq",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Iraq",
+      "id": "iraq-ece0c0216a6850e9917b"
+    },
+    {
+      "name": "Fallujah",
+      "kind": "area",
+      "locality": "Iraq",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Iraq",
+      "id": "iraq-c21f3915eb246214ac8e"
+    },
+    {
+      "name": "Karbala",
+      "kind": "area",
+      "locality": "Iraq",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Iraq",
+      "id": "iraq-85e89327ef1b0c72d1c9"
+    },
+    {
+      "name": "Kirkuk",
+      "kind": "area",
+      "locality": "Iraq",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Iraq",
+      "id": "iraq-d18ed1e126ad262182df"
+    },
+    {
+      "name": "Mosul",
+      "kind": "area",
+      "locality": "Iraq",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Iraq",
+      "id": "iraq-a70dabdcd2a45c4c614e"
+    },
+    {
+      "name": "Mustansiriya Madrasah",
+      "kind": "do",
+      "locality": "Baghdad",
+      "lat": 33.338454,
+      "lon": 44.389767,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-b6b857466b46591fc2d8"
+    },
+    {
+      "name": "Qushla building",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-b84bdd9796d743f2d2a9"
+    },
+    {
+      "name": "Baghdad Zoo",
+      "kind": "do",
+      "locality": "Baghdad",
+      "lat": 33.314672,
+      "lon": 44.373208,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-53135c68bfc14f8e98e0"
+    },
+    {
+      "name": "Khan Murjan",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-ba2f3c674a2378260b5e"
+    },
+    {
+      "name": "Firdos Square",
+      "kind": "do",
+      "locality": "Baghdad",
+      "lat": 33.314633,
+      "lon": 44.420675,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-20ec72d839585b68da4f"
+    },
+    {
+      "name": "National Museum of Iraq",
+      "kind": "do",
+      "locality": "Baghdad",
+      "lat": 33.328333,
+      "lon": 44.385833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "url": "https://www.theiraqmuseum.com/",
+      "id": "iraq-166ac3d9f6bbac88aa8e"
+    },
+    {
+      "name": "Baghdadi Museum",
+      "kind": "do",
+      "locality": "Baghdad",
+      "lat": 33.340227,
+      "lon": 44.389774,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-dd8db3399049948df19d"
+    },
+    {
+      "name": "National Museum of Modern Art",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-e42f1e9e28f16d275d20"
+    },
+    {
+      "name": "Natural History Museum",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-7f5b9278c69d36a27d26"
+    },
+    {
+      "name": "Abdel-Karim Kassem Museum",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-342a977fd3b801b0c5c9"
+    },
+    {
+      "name": "Iraqi Post Museum",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-32d1d00789fba7336cfd"
+    },
+    {
+      "name": "Monument to the Unknown Soldier",
+      "kind": "do",
+      "locality": "Baghdad",
+      "lat": 33.308556,
+      "lon": 44.389167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-32fba5a03772f4ea7963"
+    },
+    {
+      "name": "Al-Shaheed Monument",
+      "kind": "do",
+      "locality": "Baghdad",
+      "lat": 33.343333,
+      "lon": 44.446111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-c5960781d56e9863b32b"
+    },
+    {
+      "name": "Swords of Qādisīyah",
+      "kind": "do",
+      "locality": "Baghdad",
+      "lat": 33.305556,
+      "lon": 44.383056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-3e7c90436ef838a2a258"
+    },
+    {
+      "name": "Freedom Monument",
+      "kind": "do",
+      "locality": "Baghdad",
+      "lat": 33.32826,
+      "lon": 44.409252,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-8dcc59fe4f2ca77457eb"
+    },
+    {
+      "name": "Kahramana",
+      "kind": "do",
+      "locality": "Baghdad",
+      "lat": 33.311282,
+      "lon": 44.424002,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "address": "Sa'adoon St",
+      "id": "iraq-a11f3b10857b12ed7be0"
+    },
+    {
+      "name": "Save Iraqi culture monument",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-c2d8ef856fa83818a5bb"
+    },
+    {
+      "name": "Ashaar Baghdad",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-d3e6779b3b95a56b7bd3"
+    },
+    {
+      "name": "Al-Jaraar Monument",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-10fc58f39adde2053039"
+    },
+    {
+      "name": "North Gate War Cemetery",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "url": "https://www.cwgc.org/visit-us/find-cemeteries-memorials/cemetery-details/57303/",
+      "id": "iraq-ba78e4dabb0f229076b3"
+    },
+    {
+      "name": "Abu Hanifa Mosque",
+      "kind": "do",
+      "locality": "Baghdad",
+      "lat": 33.372091,
+      "lon": 44.358409,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-f5530406ca4147a1792e"
+    },
+    {
+      "name": "Al-Kadhimiya Mosque",
+      "kind": "do",
+      "locality": "Baghdad",
+      "lat": 33.38,
+      "lon": 44.338139,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-329c5435b33632d7da63"
+    },
+    {
+      "name": "Al-Asifyah Mosque",
+      "kind": "do",
+      "locality": "Baghdad",
+      "lat": 33.377684,
+      "lon": 44.373454,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-fcf28a875b49ed641f95"
+    },
+    {
+      "name": "Al-Khulafa Mosque",
+      "kind": "do",
+      "locality": "Baghdad",
+      "lat": 33.338867,
+      "lon": 44.397716,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-8442edc66b52c0c4422b"
+    },
+    {
+      "name": "Al-Wazeer Mosque",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-b95402726ae91f8662a5"
+    },
+    {
+      "name": "Al-Sarai Mosque",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-e070de462ba4939ac1b2"
+    },
+    {
+      "name": "Buratha Mosque",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-7aab9a57cbab95f3f977"
+    },
+    {
+      "name": "Haydar-Khana Mosque",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-c92c267e6b032b0e9bf0"
+    },
+    {
+      "name": "Umm al-Qura Mosque",
+      "kind": "do",
+      "locality": "Baghdad",
+      "lat": 33.337778,
+      "lon": 44.296389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-7763c238172fa317523c"
+    },
+    {
+      "name": "Zumurrud Khatun Mosque and Mausoleum",
+      "kind": "do",
+      "locality": "Baghdad",
+      "lat": 33.331626,
+      "lon": 44.372893,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-3a0702ce2259afeb78b5"
+    },
+    {
+      "name": "Mausoleum of Abdul Qadir Gilani",
+      "kind": "do",
+      "locality": "Baghdad",
+      "lat": 33.33645,
+      "lon": 44.40799,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-4a90f24bcc01bfc0a90e"
+    },
+    {
+      "name": "Mausoleum of Umar Suhrawardi",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-08ae0a130479c5a1bd42"
+    },
+    {
+      "name": "Uzbek Mosque",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-8866f864910593f31833"
+    },
+    {
+      "name": "Ibn Bunnieh Mosque",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-4561906d72229425888a"
+    },
+    {
+      "name": "Cathedral of Our Lady of Sorrows",
+      "kind": "do",
+      "locality": "Baghdad",
+      "lat": 33.338139,
+      "lon": 44.395528,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-696611dcd680ae3a81d7"
+    },
+    {
+      "name": "St. Joseph's Cathedral",
+      "kind": "do",
+      "locality": "Baghdad",
+      "lat": 33.309386,
+      "lon": 44.43475,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-4547e1a7416354d370fc"
+    },
+    {
+      "name": "Sayidat al-Nejat Cathedral",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-d0bb916f0717d0dedbf0"
+    },
+    {
+      "name": "St. Gregory the Great Armenian Church",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-83e0fc4b60170a6ad892"
+    },
+    {
+      "name": "St George's Church",
+      "kind": "do",
+      "locality": "Baghdad",
+      "lat": 33.3265,
+      "lon": 44.3954,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-7f2471001f9e8593a39f"
+    },
+    {
+      "name": "Great Synagogue of Baghdad",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-46af8efbc3418438b795"
+    },
+    {
+      "name": "Meir Taweig Synagogue",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-7294ea67cc4e2b8a7790"
+    },
+    {
+      "name": "Tomb of Joshua the High Priest",
+      "kind": "do",
+      "locality": "Baghdad",
+      "lat": 33.3361,
+      "lon": 44.3642,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-258eb00d7689eed69d7d"
+    },
+    {
+      "name": "Al-Habibiyah Jewish Cemetery",
+      "kind": "do",
+      "locality": "Baghdad",
+      "lat": 33.3642,
+      "lon": 44.4591,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-b56140e21a426ee283cf"
+    },
+    {
+      "name": "Baba Nanak Shrine",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-133d7ecd67feca0df692"
+    },
+    {
+      "name": "Sabian Mandi of Baghdad",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-76c852e1f8efb05d1a98"
+    },
+    {
+      "name": "Al-Faw Palace",
+      "kind": "do",
+      "locality": "Baghdad",
+      "lat": 33.283611,
+      "lon": 44.256111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-cbbca80f33c5b5ff1d05"
+    },
+    {
+      "name": "As-Salam Palace",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-cd1d501a3fb3f7e61e80"
+    },
+    {
+      "name": "Republican Palace",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-f1ddbe9b33cf411ac353"
+    },
+    {
+      "name": "Baghdad Clock",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-d03e6c792422e191a53a"
+    },
+    {
+      "name": "Baghdad Tower",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-620d6bb0f5de3600e70e"
+    },
+    {
+      "name": "Central Bank of Iraq Tower",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-025392c613173a2d0197"
+    },
+    {
+      "name": "Bab al-Wastani",
+      "kind": "do",
+      "locality": "Baghdad",
+      "lat": 33.3518,
+      "lon": 44.4041,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-64b745156e97c8fdea01"
+    },
+    {
+      "name": "Iraq Royal Cemetery",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-56ce75d0895be270757f"
+    },
+    {
+      "name": "Dur-Kurigalzu",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-f13e5a384b7c317bdfd4"
+    },
+    {
+      "name": "Shaduppum",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-c76edfba389487cacee9"
+    },
+    {
+      "name": "Taq Kasra",
+      "kind": "do",
+      "locality": "Baghdad",
+      "lat": 33.0936,
+      "lon": 44.5814,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-2515df3b7becf01f2698"
+    },
+    {
+      "name": "Iraqi National Theatre",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-9b5577fba7d601544bfa"
+    },
+    {
+      "name": "Baghdad Island Park",
+      "kind": "do",
+      "locality": "Baghdad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-e7281cba3e013a3dfa69"
+    },
+    {
+      "name": "Abu Nawas Street",
+      "kind": "do",
+      "locality": "Baghdad",
+      "lat": 33.3128,
+      "lon": 44.3984,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-e62d4da75ba0a06d3b0c"
+    },
+    {
+      "name": "Mutanabbi Street",
+      "kind": "do",
+      "locality": "Baghdad",
+      "lat": 33.3381,
+      "lon": 44.3905,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-a5af1c9c2d1e0741c56c"
+    },
+    {
+      "name": "Souk al-Safafeer (Coppersmiths' Market)",
+      "kind": "do",
+      "locality": "Baghdad",
+      "lat": 33.3408,
+      "lon": 44.3888,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-4ec157a7634a84f618bc"
+    },
+    {
+      "name": "Saj Alreef Restaurant",
+      "kind": "eat",
+      "locality": "Baghdad",
+      "lat": 33.30903,
+      "lon": 44.44225,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "address": "Al Wathiq Square، 62 St",
+      "url": "https://www.facebook.com/Saj-Alreef-Baghdad-%D8%B5%D8%A7%D8%AC-%D8%A7%D9%84%D8%B1%D9%8A%D9%81-%D8%A8%D8%BA%D8%AF%D8%A7%D8%AF-411529585888180/",
+      "id": "iraq-92caaa9d81a5229f1ea6"
+    },
+    {
+      "name": "Barley Restaurant",
+      "kind": "eat",
+      "locality": "Baghdad",
+      "lat": 33.3027,
+      "lon": 44.43909,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "address": "42nd St",
+      "url": "https://www.facebook.com/Barleybbq/",
+      "id": "iraq-6a05ba96de93c5ced328"
+    },
+    {
+      "name": "Samad Restaurant",
+      "kind": "eat",
+      "locality": "Baghdad",
+      "lat": 33.31933,
+      "lon": 44.35467,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "address": "Rowad St, couple blocks north of Mansour St on right",
+      "url": "http://www.samadrestaurant.com/",
+      "id": "iraq-0ffa93a05c9bf4b2630a"
+    },
+    {
+      "name": "Jadiriyah Floating Restaurant",
+      "kind": "eat",
+      "locality": "Baghdad",
+      "lat": 33.28596,
+      "lon": 44.3781,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "address": "Abu Nawas Street",
+      "url": "https://www.facebook.com/JadriyaRest/",
+      "id": "iraq-9325cb404aa12995e0e4"
+    },
+    {
+      "name": "Oyoon Baghdad Restaurant",
+      "kind": "eat",
+      "locality": "Baghdad",
+      "lat": 33.28475,
+      "lon": 44.41303,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "address": "Alsadah St",
+      "url": "http://www.oyoonbaghdad.com/",
+      "id": "iraq-690f35626cdc4b515c67"
+    },
+    {
+      "name": "La Vinto",
+      "kind": "eat",
+      "locality": "Baghdad",
+      "lat": 33.3082,
+      "lon": 44.4398,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "address": "52nd St",
+      "id": "iraq-434cc1fddc44f8487aae"
+    },
+    {
+      "name": "Shahbandar Café",
+      "kind": "eat",
+      "locality": "Baghdad",
+      "lat": 33.3401,
+      "lon": 44.3882,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "address": "Mutanabbi St",
+      "id": "iraq-245b28ac32aca1eb6bad"
+    },
+    {
+      "name": "Baghdad International Airport Hotel",
+      "kind": "stay",
+      "locality": "Baghdad",
+      "lat": 33.25945,
+      "lon": 44.233332,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "price": "USD225 for a standard room, lower rates when staying longer",
+      "url": "http://www.alburhangroup.com/",
+      "id": "iraq-f52f04b4d02986e9171c"
+    },
+    {
+      "name": "Inter Hotel",
+      "kind": "stay",
+      "locality": "Baghdad",
+      "lat": 33.300797,
+      "lon": 44.420014,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "address": "Abu Nawas St",
+      "url": "http://www.ig-intergroup.com/inter-hotel/",
+      "id": "iraq-0a5f4673b7b22439fb48"
+    },
+    {
+      "name": "Babylon Rotana Baghdad Hotel",
+      "kind": "stay",
+      "locality": "Baghdad",
+      "lat": 33.291195,
+      "lon": 44.390252,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "address": "Karrada St",
+      "url": "https://www.rotana.com/rotanahotelandresorts/iraq/baghdad/babylonrotana",
+      "id": "iraq-5fff4b62e23f7e945d2c"
+    },
+    {
+      "name": "Coral Baghdad Hotel",
+      "kind": "stay",
+      "locality": "Baghdad",
+      "lat": 33.282667,
+      "lon": 44.394056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "address": "Corner of Jamia St and Mohammed Ismail Ezzat St, in Jadriyah District",
+      "price": "USD215+",
+      "url": "http://coralbaghdad.com/homepage/",
+      "id": "iraq-0249d402ce3423d7cb55"
+    },
+    {
+      "name": "Cristal Grand Ishtar Hotel",
+      "kind": "stay",
+      "locality": "Baghdad",
+      "lat": 33.313871,
+      "lon": 44.418866,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "address": "Saadoun St",
+      "price": "USD50+",
+      "url": "http://www.cristalhospitality.com/cristalgrand/iraq/baghdad/cristalgrandishtarhotel",
+      "id": "iraq-365effde3e158d7f9c74"
+    },
+    {
+      "name": "Qaser Al-Masbah Hotel",
+      "kind": "stay",
+      "locality": "Baghdad",
+      "lat": 33.299474,
+      "lon": 44.433388,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "url": "https://m.facebook.com/hotelbaghdad",
+      "id": "iraq-09aa635d35cb5fdbdfd7"
+    },
+    {
+      "name": "Baghdad",
+      "kind": "area",
+      "locality": "Baghdad",
+      "lat": 33.30313,
+      "lon": 44.3785,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Baghdad",
+      "id": "iraq-a28c82b30122d6282ce7"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

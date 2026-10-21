@@ -1,0 +1,478 @@
+{
+  "sources": [
+    {
+      "title": "Namibia",
+      "url": "https://en.wikivoyage.org/wiki/Namibia",
+      "checkedAt": "2026-10-21T08:06:45.584Z"
+    },
+    {
+      "title": "Windhoek",
+      "url": "https://en.wikivoyage.org/wiki/Windhoek",
+      "checkedAt": "2026-10-21T08:06:48.226Z"
+    },
+    {
+      "title": "Sossusvlei",
+      "url": "https://en.wikivoyage.org/wiki/Sossusvlei",
+      "checkedAt": "2026-10-21T08:06:51.226Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Windhoek",
+      "kind": "area",
+      "locality": "Namibia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Namibia",
+      "id": "namibia-d63b681c7e6281434749"
+    },
+    {
+      "name": "Gobabis",
+      "kind": "area",
+      "locality": "Namibia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Namibia",
+      "id": "namibia-6f5a433b84748708f196"
+    },
+    {
+      "name": "Katima Mulilo",
+      "kind": "area",
+      "locality": "Namibia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Namibia",
+      "id": "namibia-ae79437e0c3b06b9535b"
+    },
+    {
+      "name": "Keetmanshoop",
+      "kind": "area",
+      "locality": "Namibia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Namibia",
+      "id": "namibia-71d5075eb6d4056e1aff"
+    },
+    {
+      "name": "Lüderitz",
+      "kind": "area",
+      "locality": "Namibia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Namibia",
+      "id": "namibia-501a9e9621874d61a8b4"
+    },
+    {
+      "name": "Mariental",
+      "kind": "area",
+      "locality": "Namibia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Namibia",
+      "id": "namibia-43458e5e7338c0b2f23f"
+    },
+    {
+      "name": "Opuwo",
+      "kind": "area",
+      "locality": "Namibia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Namibia",
+      "id": "namibia-e83bd57a6290fc4fa5c3"
+    },
+    {
+      "name": "Rundu",
+      "kind": "area",
+      "locality": "Namibia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Namibia",
+      "id": "namibia-d4f6790e91428c42e6ac"
+    },
+    {
+      "name": "Swakopmund",
+      "kind": "area",
+      "locality": "Namibia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Namibia",
+      "id": "namibia-d01a5a199363010bba5b"
+    },
+    {
+      "name": "Parliament of Namibia",
+      "kind": "do",
+      "locality": "Windhoek",
+      "lat": -22.56686,
+      "lon": 17.08815,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "id": "namibia-ccfbe07fa58d6ece0fc2"
+    },
+    {
+      "name": "Independence Museum",
+      "kind": "do",
+      "locality": "Windhoek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "url": "https://www.museums.com.na/museums/windhoek/independence-museum",
+      "id": "namibia-f744d0f2ecc21d027add"
+    },
+    {
+      "name": "Christuskirche",
+      "kind": "do",
+      "locality": "Windhoek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "address": "In the middle of a big traffic circle where Robert Mugabe Ave. and Fidel Castro St. meet, at the gates of the Parliamentary compound",
+      "id": "namibia-c7fe5fcb2a23070eda14"
+    },
+    {
+      "name": "Heroes' Acre",
+      "kind": "do",
+      "locality": "Windhoek",
+      "lat": 22.6589,
+      "lon": 17.0804,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "price": "N$50",
+      "id": "namibia-804cb9a892fed2793091"
+    },
+    {
+      "name": "AJ du Plooy Sports Fields",
+      "kind": "do",
+      "locality": "Windhoek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "address": "Socrates Street, Academia",
+      "id": "namibia-acd471f2f9021dc91543"
+    },
+    {
+      "name": "Archer's Land",
+      "kind": "do",
+      "locality": "Windhoek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "address": "on farm Monte Christo north of Windhoek",
+      "price": "Entrance 50 N$, use of archery range 50 N$, equipment rent 60 N$, river fishing 50 N$ (kids 35/35/40/35 N$)",
+      "url": "https://www.archersland.com/",
+      "id": "namibia-5f66db5ad6173f4ad624"
+    },
+    {
+      "name": "Cats Unlimited",
+      "kind": "do",
+      "locality": "Windhoek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "price": "N$11999",
+      "url": "http://www.catsunlimited.net/",
+      "id": "namibia-8e0698874883c6ea1af3"
+    },
+    {
+      "name": "Daan Viljoen Nature Reserve",
+      "kind": "do",
+      "locality": "Windhoek",
+      "lat": -22.53,
+      "lon": 16.9715,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "address": "C28",
+      "id": "namibia-0985e2801f0d90ed1766"
+    },
+    {
+      "name": "Avis Dam Nature Reserve",
+      "kind": "do",
+      "locality": "Windhoek",
+      "lat": -22.5749,
+      "lon": 17.131,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "price": "N$30",
+      "id": "namibia-120b41227b498dbcb072"
+    },
+    {
+      "name": "Joe's Beer House",
+      "kind": "eat",
+      "locality": "Windhoek",
+      "lat": -22.551,
+      "lon": 17.09,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "address": "160 Nelson Mandela Ave",
+      "id": "namibia-8fccf54e9dbf97e957cc"
+    },
+    {
+      "name": "Old Location Ohungi and Restaurant",
+      "kind": "eat",
+      "locality": "Windhoek",
+      "lat": -22.5728,
+      "lon": 17.0734,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "address": "Purcell Street, Windhoek West",
+      "price": "Main course 130 N$, draft beer 35 N$",
+      "id": "namibia-c082d5026530e0916f43"
+    },
+    {
+      "name": "Luigi and the Fish",
+      "kind": "eat",
+      "locality": "Windhoek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "address": "320 Sam Nujoma Dr",
+      "id": "namibia-7a9b9e7957ea398a0b8d"
+    },
+    {
+      "name": "Old Continental Cafe",
+      "kind": "eat",
+      "locality": "Windhoek",
+      "lat": -22.5629,
+      "lon": 17.085,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "address": "Pedestrian passage between Lüderitz Street and Independence Avenue",
+      "price": "30-80 N$",
+      "id": "namibia-277548b9a509ee7d1d4e"
+    },
+    {
+      "name": "PepperCorn",
+      "kind": "eat",
+      "locality": "Windhoek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "address": "Shop 59, Maerua Mall",
+      "id": "namibia-41c920b1086cd8472c64"
+    },
+    {
+      "name": "Sardinia",
+      "kind": "eat",
+      "locality": "Windhoek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "address": "47 Independence Ave",
+      "id": "namibia-75510e21eac4603ab433"
+    },
+    {
+      "name": "Taste of India",
+      "kind": "eat",
+      "locality": "Windhoek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "address": "129 Independence Avenue",
+      "price": "Starters 10-60 N$, main 60-100 N$, side dishes extra at 10-30 N$",
+      "id": "namibia-b86f9341392ba5e76d3b"
+    },
+    {
+      "name": "The Stellenbosch Wine Bar & Bistro",
+      "kind": "eat",
+      "locality": "Windhoek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "address": "Shop 25 Bougain Villas 320, Sam Nujoma Drive",
+      "url": "http://thestellenboschwinebar.com/",
+      "id": "namibia-7acf1c7ca0fc246e9191"
+    },
+    {
+      "name": "La Marmite Royale - Café Zoo",
+      "kind": "eat",
+      "locality": "Windhoek",
+      "lat": -22.56686,
+      "lon": 17.08487,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "address": "Independence Avenue",
+      "id": "namibia-8966bdf7dfc68aa0654a"
+    },
+    {
+      "name": "Chez Ntemba",
+      "kind": "eat",
+      "locality": "Windhoek",
+      "lat": -22.556,
+      "lon": 17.084,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "address": "Dr Kenneth Kaunda Street",
+      "price": "F-Su entrance is N$30. Small beer for N$20",
+      "id": "namibia-3369a317c60c8dbb0b0b"
+    },
+    {
+      "name": "J&J Gambling House",
+      "kind": "eat",
+      "locality": "Windhoek",
+      "lat": -22.555,
+      "lon": 17.084,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "address": "Luther Street",
+      "price": "750 ml beer N$ 25, you would have to go deep into the slums to get it cheaper",
+      "id": "namibia-15753116c305ef80361e"
+    },
+    {
+      "name": "Boiler Room",
+      "kind": "eat",
+      "locality": "Windhoek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "address": "corner of Tal Street and Sam Nujoma Drive",
+      "price": "0.5l beer N$25, meals and snacks N$40-80",
+      "url": "https://www.facebook.com/boilerroomwindhoek/",
+      "id": "namibia-9eaf9c5afb3a088ce7d4"
+    },
+    {
+      "name": "Chameleon Backpackers & Guesthouse",
+      "kind": "stay",
+      "locality": "Windhoek",
+      "lat": -22.5738,
+      "lon": 17.08164,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "address": "5-7 Voight St",
+      "price": "Dorm bed N$350 pp, private room N$700",
+      "url": "http://www.chameleonbackpackers.com/",
+      "id": "namibia-c76a2d6ae71ffbc26652"
+    },
+    {
+      "name": "ParadiseGarden Backpackers",
+      "kind": "stay",
+      "locality": "Windhoek",
+      "lat": -22.5637,
+      "lon": 17.0718,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "address": "5 Roentgen Street",
+      "price": "Camping N$150, dorm N $200, rooms starting from N$450",
+      "url": "https://www.windhoekhostel.com/",
+      "id": "namibia-48f9831cee69231919e5"
+    },
+    {
+      "name": "Rivendell Backpackers",
+      "kind": "stay",
+      "locality": "Windhoek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "address": "40 Beethoven St",
+      "url": "http://www.rivendell-namibia.com/",
+      "id": "namibia-13b5f8d3708d805edf22"
+    },
+    {
+      "name": "Backpackers Unite",
+      "kind": "stay",
+      "locality": "Windhoek",
+      "lat": -22.5818,
+      "lon": 17.07271,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "address": "5 Grieg St",
+      "price": "Dorm N$240 pp. Camping N$150 pp",
+      "url": "https://www.facebook.com/pages/category/Hostel/Backpackers-Unite-325434581419359/",
+      "id": "namibia-7ca2a3d49af414614a92"
+    },
+    {
+      "name": "Jan Jonker Accommodation",
+      "kind": "stay",
+      "locality": "Windhoek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "address": "183, Jan Jonker Road",
+      "url": "http://www.jan-jonker.com/",
+      "id": "namibia-ebc9775d77bfa32b0187"
+    },
+    {
+      "name": "Okavango Guesthouse",
+      "kind": "stay",
+      "locality": "Windhoek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "address": "124 Andimba Toivo Ya Toivo St",
+      "url": "http://www.windhoekguesthouse.com/",
+      "id": "namibia-41dfa9cc9c696ea74076"
+    },
+    {
+      "name": "Hotel Casa Blanca",
+      "kind": "stay",
+      "locality": "Windhoek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "address": "52 Fritsche Street, Pioneers Park",
+      "url": "http://www.casablancahotelnamibia.com/",
+      "id": "namibia-eab9e2dd73acdce604dd"
+    },
+    {
+      "name": "Klein Windhoek Guest House",
+      "kind": "stay",
+      "locality": "Windhoek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "address": "2 Hofmeyer Street, Klein Windhoek",
+      "url": "http://www.kleinwindhoekguesthouse.com/",
+      "id": "namibia-f7eba53333af4c323502"
+    },
+    {
+      "name": "Jordani Bed and Breakfast",
+      "kind": "stay",
+      "locality": "Windhoek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "address": "55 Hamutenya Wanehepo Ndadi St",
+      "url": "http://www.venues4africa.com/accommodation/Namibia/Jordani-Bed-&-Breakfast/11777",
+      "id": "namibia-e1b3e9cddb2d36318acb"
+    },
+    {
+      "name": "Protea Hotel Furstenhof",
+      "kind": "stay",
+      "locality": "Windhoek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "address": "Dr. Frans Indongo Street",
+      "id": "namibia-28aae22fe5dc7f0f0411"
+    },
+    {
+      "name": "Avani Windhoek Hotel & Casino",
+      "kind": "stay",
+      "locality": "Windhoek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "address": "129 Independence Ave",
+      "url": "https://www.avanihotels.com/en/windhoek",
+      "id": "namibia-3c7befc1723662259d8f"
+    },
+    {
+      "name": "Windhoek Country Club",
+      "kind": "stay",
+      "locality": "Windhoek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "id": "namibia-549b3d6d3884a73fd558"
+    },
+    {
+      "name": "Heinitzburg",
+      "kind": "stay",
+      "locality": "Windhoek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "id": "namibia-b113109916f61ce7c8c7"
+    },
+    {
+      "name": "Hilton Hotel",
+      "kind": "stay",
+      "locality": "Windhoek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "address": "Rev. Michael Scott St",
+      "id": "namibia-05b3116d8a6f1364c997"
+    },
+    {
+      "name": "Windhoek",
+      "kind": "area",
+      "locality": "Windhoek",
+      "lat": -22.57,
+      "lon": 17.083611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Windhoek",
+      "id": "namibia-8128d4dfba7418d68ef1"
+    },
+    {
+      "name": "Sesriem Canyon",
+      "kind": "do",
+      "locality": "Sossusvlei",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sossusvlei",
+      "id": "namibia-df29b908c96cb33911f8"
+    },
+    {
+      "name": "The Namib Desert",
+      "kind": "do",
+      "locality": "Sossusvlei",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sossusvlei",
+      "id": "namibia-ac269bced440989b01d7"
+    },
+    {
+      "name": "Sossusvlei",
+      "kind": "do",
+      "locality": "Sossusvlei",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sossusvlei",
+      "id": "namibia-9a486aec260d8e491e22"
+    },
+    {
+      "name": "Dead Vlei",
+      "kind": "do",
+      "locality": "Sossusvlei",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sossusvlei",
+      "id": "namibia-659ccdab281bd5a076fd"
+    },
+    {
+      "name": "Sesriem Campsite",
+      "kind": "stay",
+      "locality": "Sossusvlei",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sossusvlei",
+      "address": "Sesriem",
+      "price": "N$490 per person (max 8 people per campsite). Namibians and SADC member citizens N$400 per campsite (4 people or less)",
+      "url": "https://www.nwr.com.na/resorts/sesriem-campsite/",
+      "id": "namibia-dfd0ac55450203547066"
+    },
+    {
+      "name": "Sossus Dune Lodge",
+      "kind": "stay",
+      "locality": "Sossusvlei",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sossusvlei",
+      "address": "Sesriem",
+      "url": "https://www.nwr.com.na/resorts/sossus-dune-lodge/",
+      "id": "namibia-c21ceb4f48470e59df76"
+    },
+    {
+      "name": "Sossusvlei",
+      "kind": "area",
+      "locality": "Sossusvlei",
+      "lat": -24.7333,
+      "lon": 15.3667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sossusvlei",
+      "id": "namibia-87dc043ade16838eb418"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 3 distinct public Wikivoyage source pages; attempted 3 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

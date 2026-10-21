@@ -1,0 +1,3089 @@
+{
+  "sources": [
+    {
+      "title": "Israel",
+      "url": "https://en.wikivoyage.org/wiki/Israel",
+      "checkedAt": "2026-10-21T08:07:48.535Z"
+    },
+    {
+      "title": "Jerusalem",
+      "url": "https://en.wikivoyage.org/wiki/Jerusalem",
+      "checkedAt": "2026-10-21T08:07:51.443Z"
+    },
+    {
+      "title": "Jerusalem/Old City",
+      "url": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "checkedAt": "2026-10-21T08:07:54.637Z"
+    },
+    {
+      "title": "Jerusalem/East",
+      "url": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "checkedAt": "2026-10-21T08:07:57.629Z"
+    },
+    {
+      "title": "Jerusalem/West",
+      "url": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "checkedAt": "2026-10-21T08:08:00.228Z"
+    },
+    {
+      "title": "Jerusalem/Haredi",
+      "url": "https://en.wikivoyage.org/wiki/Jerusalem%2FHaredi",
+      "checkedAt": "2026-10-21T08:08:12.407Z"
+    },
+    {
+      "title": "Jerusalem/Ein Kerem",
+      "url": "https://en.wikivoyage.org/wiki/Jerusalem%2FEin_Kerem",
+      "checkedAt": "2026-10-21T08:08:06.187Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Jerusalem",
+      "kind": "area",
+      "locality": "Israel",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Israel",
+      "id": "israel-a10110fd7ea9a78408dc"
+    },
+    {
+      "name": "Tel Aviv",
+      "kind": "area",
+      "locality": "Israel",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Israel",
+      "id": "israel-710ebfbbc3572b840fd2"
+    },
+    {
+      "name": "Akko",
+      "kind": "area",
+      "locality": "Israel",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Israel",
+      "id": "israel-53f9b06581cb1832277c"
+    },
+    {
+      "name": "Be'er Sheva",
+      "kind": "area",
+      "locality": "Israel",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Israel",
+      "id": "israel-d6f4a333486ae856b972"
+    },
+    {
+      "name": "Eilat",
+      "kind": "area",
+      "locality": "Israel",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Israel",
+      "id": "israel-7055ddd6ecadc2de042c"
+    },
+    {
+      "name": "Haifa",
+      "kind": "area",
+      "locality": "Israel",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Israel",
+      "id": "israel-7b93716167fc21c914fc"
+    },
+    {
+      "name": "Nazareth",
+      "kind": "area",
+      "locality": "Israel",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Israel",
+      "id": "israel-c6db6a5476b3292becb2"
+    },
+    {
+      "name": "Safed",
+      "kind": "area",
+      "locality": "Israel",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Israel",
+      "id": "israel-3e7ecfa431562d600acf"
+    },
+    {
+      "name": "Tiberias",
+      "kind": "area",
+      "locality": "Israel",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Israel",
+      "id": "israel-577101d68186a7805f47"
+    },
+    {
+      "name": "Bike Jerusalem",
+      "kind": "do",
+      "locality": "Jerusalem",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem",
+      "url": "http://www.bikejerusalem.com/",
+      "id": "israel-bc24cf96a2ae247dda49"
+    },
+    {
+      "name": "Rockefeller Museum",
+      "kind": "do",
+      "locality": "Jerusalem",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem",
+      "address": "27 Sultan Suleiman St",
+      "url": "http://www.imj.org.il/rockefeller/index.html",
+      "id": "israel-19d31087417e71f52250"
+    },
+    {
+      "name": "Jerusalem Segway Tours",
+      "kind": "do",
+      "locality": "Jerusalem",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem",
+      "url": "https://www.cityofdavid.org.il/en/tours/armon-hanatziv/segway-tour-jerusalem",
+      "id": "israel-431945f2677df1675c44"
+    },
+    {
+      "name": "Eco Israel Tours",
+      "kind": "do",
+      "locality": "Jerusalem",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem",
+      "id": "israel-a5dab93012317a78e26b"
+    },
+    {
+      "name": "Jerusalem Studies Tour",
+      "kind": "do",
+      "locality": "Jerusalem",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem",
+      "url": "http://www.jerusalem-studies.alquds.edu/node?index=2&id=10",
+      "id": "israel-8bda434e6a7773999745"
+    },
+    {
+      "name": "Lights in Jerusalem Festival",
+      "kind": "do",
+      "locality": "Jerusalem",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem",
+      "url": "http://www.lights-in-jerusalem.com/",
+      "id": "israel-dee88f0eb71c8c5e2355"
+    },
+    {
+      "name": "Hutzot HaYotzer - International Arts and Crafts Festival",
+      "kind": "do",
+      "locality": "Jerusalem",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem",
+      "url": "http://www1.jerusalem.muni.il/yotzer/2013/home_eng.asp",
+      "id": "israel-ce60216065aee684c60e"
+    },
+    {
+      "name": "Jerusalem March",
+      "kind": "do",
+      "locality": "Jerusalem",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem",
+      "id": "israel-4b4f40a156ca35513cc7"
+    },
+    {
+      "name": "Jerusalem International Oud Festival",
+      "kind": "do",
+      "locality": "Jerusalem",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem",
+      "url": "http://www.confederationhouse.org/en/page_18105",
+      "id": "israel-58ae2b0cf86c1ede00d6"
+    },
+    {
+      "name": "Palm Sunday",
+      "kind": "do",
+      "locality": "Jerusalem",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem",
+      "url": "https://www.itraveljerusalem.com/article/easter-in-jerusalem",
+      "id": "israel-9edf853bf71793312c40"
+    },
+    {
+      "name": "Jerusalem",
+      "kind": "area",
+      "locality": "Jerusalem",
+      "lat": 31.7833,
+      "lon": 35.2167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem",
+      "id": "israel-d202c42ed464673ec1ed"
+    },
+    {
+      "name": "The Western Wall",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.776667,
+      "lon": 35.23425,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "url": "http://thekotel.org/",
+      "id": "israel-6def9046491ebc6914a8"
+    },
+    {
+      "name": "Western Wall Tunnel Tour",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.77679,
+      "lon": 35.23372,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "price": "₪30 / ₪15 discount",
+      "url": "http://english.thekotel.org/",
+      "id": "israel-228be487fd9146677386"
+    },
+    {
+      "name": "Saint Mary's Hospice",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.779939,
+      "lon": 35.232393,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "id": "israel-434753e015c41616fb35"
+    },
+    {
+      "name": "The Cardo",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.774931,
+      "lon": 35.230917,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "id": "israel-0ae46599e130657063f1"
+    },
+    {
+      "name": "Hurva Square",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.77532,
+      "lon": 35.23126,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "id": "israel-77bc47227612c2487f50"
+    },
+    {
+      "name": "The Broad Wall",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.77597,
+      "lon": 35.23161,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "id": "israel-68e33956767f6d7c2f84"
+    },
+    {
+      "name": "Burnt House",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.77557,
+      "lon": 35.23259,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "url": "https://www.rova-yehudi.org.il/sites/the-burnt-house/",
+      "id": "israel-f8e5bf9c0ab65b4977bd"
+    },
+    {
+      "name": "Davidson Center",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.77513,
+      "lon": 35.23395,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "price": "₪29 adults / ₪15 students",
+      "url": "https://www.rova-yehudi.org.il/?lang=en",
+      "id": "israel-27621f268eb25b88b81e"
+    },
+    {
+      "name": "Karaite Synagogue",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.775361,
+      "lon": 35.232161,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "HaKaraim St",
+      "id": "israel-14bdd9003e5d75f003d8"
+    },
+    {
+      "name": "Little Western Wall",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "id": "israel-4518aa7f2e1e7cd2a34f"
+    },
+    {
+      "name": "Mughrabi Gate",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.77637,
+      "lon": 35.23452,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "id": "israel-934e443c02e92e2bbf8b"
+    },
+    {
+      "name": "Wohl Archaeological Museum",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.775303,
+      "lon": 35.232269,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "price": "₪35 adult, ₪25 discount, includes the Burnt House",
+      "id": "israel-7711341d12a8c2892a9b"
+    },
+    {
+      "name": "Temple Institute",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.775481,
+      "lon": 35.2331,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "price": "₪35",
+      "url": "http://www.templeinstitute.org/",
+      "id": "israel-a278cbf5cd606b90afd3"
+    },
+    {
+      "name": "Old Yishuv Court Museum",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.77473,
+      "lon": 35.2315,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "6 Or Ha-Haim St",
+      "price": "Adult ₪18, Student ₪12",
+      "url": "http://www.oyc.co.il/en/",
+      "id": "israel-19ecc0207d1b6bd44c8b"
+    },
+    {
+      "name": "One Last Day Museum",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "url": "https://www.jerusalem.muni.il/en/events-and-culture/museums-galleries-and-more-in-jerusalem/",
+      "id": "israel-0d2b14d81b36c1d8b963"
+    },
+    {
+      "name": "The Chain of Generations Center",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "url": "https://english.thekotel.org/western_wall_sites/chain_of_generations/",
+      "id": "israel-942b5195664d35ac536b"
+    },
+    {
+      "name": "Museum of Psalms",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "56 Chabad St",
+      "url": "http://themuseumofpsalms.com/",
+      "id": "israel-9ce9c5a3b4a03118a39b"
+    },
+    {
+      "name": "Tower of David/Citadel",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.776111,
+      "lon": 35.227778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "Jaffa Gate",
+      "price": "₪30 adults, ₪20 students and seniors, ₪15 children",
+      "url": "http://www.tod.org.il/en/",
+      "id": "israel-0fa6921484e43b762a2c"
+    },
+    {
+      "name": "St. James Cathedral",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.774659,
+      "lon": 35.228912,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "id": "israel-3d900979c40374b50bd6"
+    },
+    {
+      "name": "Saint Mark's Syriac Church and Monastery",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.775952,
+      "lon": 35.230478,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "id": "israel-5cfc8dbeca1520afce05"
+    },
+    {
+      "name": "Church of the Holy Archangels",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "id": "israel-8583f765e3dc22045a3f"
+    },
+    {
+      "name": "Maronite Convent",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "Maronite Convent St 25",
+      "id": "israel-070ba6ede3b113ec9270"
+    },
+    {
+      "name": "Christ Church",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "Armenian Orthodox Patriarchate St 55",
+      "id": "israel-2764fb06bc39a2fd89df"
+    },
+    {
+      "name": "Armenian Museum",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.773509,
+      "lon": 35.229177,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "price": "₪5 adults / ₪3 students",
+      "id": "israel-7273ccf8fc55739f5fb5"
+    },
+    {
+      "name": "Church of the Holy Sepulchre",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.778444,
+      "lon": 35.22975,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "price": "free",
+      "id": "israel-bd367cee0c8e488f1c8c"
+    },
+    {
+      "name": "Lutheran Church of the Redeemer",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.777778,
+      "lon": 35.230556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "Muristan Rd",
+      "price": "Bell tower: ₪15 for adults",
+      "url": "https://www.evangelisch-in-jerusalem.org/en/erloeserkirche/",
+      "id": "israel-038f66a8936bd01586d2"
+    },
+    {
+      "name": "Christian Quarter Road",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.77672,
+      "lon": 35.23014,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "id": "israel-7a7fbc7d0ae288748ba5"
+    },
+    {
+      "name": "Muristan",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.777306,
+      "lon": 35.229778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "price": "free",
+      "id": "israel-283cf44456cc4ed7ffe9"
+    },
+    {
+      "name": "Church of St John the Baptist",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.77694,
+      "lon": 35.22944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "id": "israel-6cecba96adffbacd7417"
+    },
+    {
+      "name": "A Walk on the Roofs",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.7765,
+      "lon": 35.2309,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "price": "free",
+      "id": "israel-59c338b038353f1b0bcb"
+    },
+    {
+      "name": "St. Saviors Convent",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.778941,
+      "lon": 35.227445,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "St. Francis nº 1",
+      "url": "http://www.custodia.org/",
+      "id": "israel-1ad62f7d61f80b922548"
+    },
+    {
+      "name": "St. Anne's Church",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.7814,
+      "lon": 35.236447,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "price": "₪7 adults / ₪5 students & children",
+      "id": "israel-7fe72b475b69dee39c07"
+    },
+    {
+      "name": "Monastery of the Flagellation",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.780536,
+      "lon": 35.234367,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "id": "israel-9e27f49b12110e844bde"
+    },
+    {
+      "name": "Ecce Homo Arch",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.780289,
+      "lon": 35.232831,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "id": "israel-933fe02a826404232ede"
+    },
+    {
+      "name": "Gate of Bath",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.77784,
+      "lon": 35.23424,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "id": "israel-faefb81d97da996b86b0"
+    },
+    {
+      "name": "White Mosque",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.77586,
+      "lon": 35.23524,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "id": "israel-e53c6f2b471fcb73e0a0"
+    },
+    {
+      "name": "Lady Tunshuq Palace and Tomb",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.77845,
+      "lon": 35.2317,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "id": "israel-2eefbee3ced2acab162b"
+    },
+    {
+      "name": "Zedekiah's Cave",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.782108,
+      "lon": 35.230739,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "id": "israel-4b7d9b36611b44391987"
+    },
+    {
+      "name": "Monastery of St. Nicodemus",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "id": "israel-450ea129b5258ca2cb6b"
+    },
+    {
+      "name": "Dome of the Rock",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.778056,
+      "lon": 35.235278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "id": "israel-119aa8208b27ac3fe905"
+    },
+    {
+      "name": "al-Aqsa Mosque",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.776389,
+      "lon": 35.235556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "id": "israel-eb7291c986d0d10e16cd"
+    },
+    {
+      "name": "Museum of Islamic Art",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.77584,
+      "lon": 35.23478,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "id": "israel-da2142dc24cec41b0595"
+    },
+    {
+      "name": "Solomon's Stables",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.776389,
+      "lon": 35.236944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "id": "israel-16685e20471a6f224751"
+    },
+    {
+      "name": "Golden Gate Interior",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.778889,
+      "lon": 35.236944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "id": "israel-376dda440ce8c766aa7d"
+    },
+    {
+      "name": "Ramparts Walk",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.77669,
+      "lon": 35.22766,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "price": "₪16 adults, ₪8 students & children",
+      "url": "https://www.pami.co.il/en/Tour%20Sites/",
+      "id": "israel-57792fbf48aa10ec55bf"
+    },
+    {
+      "name": "A look into the past",
+      "kind": "do",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "url": "https://english.thekotel.org/attractions/a-look-into-the-past/",
+      "id": "israel-9b068792c33058e01ffc"
+    },
+    {
+      "name": "Quarter Cafe",
+      "kind": "eat",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "Tiferet Yisrael St",
+      "price": "Under ₪60",
+      "id": "israel-852d873eba2a9a63322d"
+    },
+    {
+      "name": "Bonkers Bagels",
+      "kind": "eat",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "2 Tiferet Yisrael St",
+      "price": "Under ₪20",
+      "id": "israel-b2490d300798ec2b6f17"
+    },
+    {
+      "name": "Tzaddik's Deli",
+      "kind": "eat",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "Tiferet Yisrael St",
+      "id": "israel-9474713485a4d8029c9e"
+    },
+    {
+      "name": "Rami's Pizza",
+      "kind": "eat",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "131 HaYehudim",
+      "id": "israel-908ec5fd242a17e260b8"
+    },
+    {
+      "name": "Menorah Cafe",
+      "kind": "eat",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "71 & 73 HaYehudim",
+      "price": "A meal for about ₪40",
+      "id": "israel-b4dce919720b3274c32e"
+    },
+    {
+      "name": "CoffeeBagel",
+      "kind": "eat",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "18 Tiferet Israel",
+      "id": "israel-50d72a60836d5d51659f"
+    },
+    {
+      "name": "Burgers Bar",
+      "kind": "eat",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "Tiferet Israel",
+      "id": "israel-47897c0bd39db47e7ad1"
+    },
+    {
+      "name": "Joseph Kohen",
+      "kind": "eat",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "Tiferet Israel",
+      "price": "₪28-48",
+      "id": "israel-2fefdada9d499385dcd5"
+    },
+    {
+      "name": "Mehadrin",
+      "kind": "eat",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "price": "₪10-20",
+      "id": "israel-e458f41b4e0c28bfdbcf"
+    },
+    {
+      "name": "Ne'eman Pastries",
+      "kind": "eat",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "Cardo St",
+      "id": "israel-1dd34b878f80d88021e3"
+    },
+    {
+      "name": "Papàs",
+      "kind": "eat",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "Tiferet Israel",
+      "id": "israel-23565dc0acff167b4471"
+    },
+    {
+      "name": "Pizza Cardo Café",
+      "kind": "eat",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "Cardo St",
+      "price": "₪10 per slice",
+      "id": "israel-30f21bed8de030098319"
+    },
+    {
+      "name": "Amigo Emil",
+      "kind": "eat",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.779056,
+      "lon": 35.229954,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "Al Khanqa St",
+      "price": "₪20-60",
+      "id": "israel-5cd8de49ee6bfd53e58e"
+    },
+    {
+      "name": "Grand Shisha Bar & Cafe",
+      "kind": "eat",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "id": "israel-02fc16bebfe28ee29e62"
+    },
+    {
+      "name": "Lina Hummus",
+      "kind": "eat",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.779176,
+      "lon": 35.23033,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "url": "https://www.facebook.com/lina1hummus",
+      "id": "israel-1c51b838b726415d8701"
+    },
+    {
+      "name": "Versavee Bistro Bar & Cafe",
+      "kind": "eat",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.776841,
+      "lon": 35.228346,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "41 Greek Catholic Patriarchate",
+      "url": "https://www.facebook.com/pages/category/Bar---Grill/Versavee-543424969109974/",
+      "id": "israel-f8da82abf138cd7c48e3"
+    },
+    {
+      "name": "Armenian Tavern",
+      "kind": "eat",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.7754,
+      "lon": 35.2288,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "Armenian Orthodox Patriarchate St 79",
+      "price": "Meals ₪30-60",
+      "id": "israel-42c1979d05b9facc9a85"
+    },
+    {
+      "name": "Abu Shukri",
+      "kind": "eat",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "63 El Wad Rd",
+      "price": "Under ₪60",
+      "id": "israel-888eccea9f29e49718e2"
+    },
+    {
+      "name": "BASTI Restaurant",
+      "kind": "eat",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "70 El Wad Road, (opposite the Austrian Hospice) & 3rd station of Via Dolorosa",
+      "price": "Less than ₪55",
+      "id": "israel-a9c8102a8db6661925d1"
+    },
+    {
+      "name": "Jerusalem Star",
+      "kind": "eat",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "32 El Wad Rd",
+      "id": "israel-5add60d542060d7dc4f6"
+    },
+    {
+      "name": "Nasr Restaurant",
+      "kind": "eat",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "id": "israel-c02a204061738bf3814b"
+    },
+    {
+      "name": "Al-Baghdadi Restaurant",
+      "kind": "eat",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.7817,
+      "lon": 35.2353,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "Antonia St 19-21",
+      "id": "israel-27b9c0202e4780ba032a"
+    },
+    {
+      "name": "Ja'far Sweets",
+      "kind": "eat",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "id": "israel-0e0d676bb6968c556d9a"
+    },
+    {
+      "name": "Chain Gate Hostel",
+      "kind": "stay",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.777262,
+      "lon": 35.234223,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "price": "Dorm bed from ₪54",
+      "url": "http://chain-gate-hostel-jerusalem.bedspro.com/",
+      "id": "israel-d4ab1479291eab71dd5b"
+    },
+    {
+      "name": "New Petra Hostel",
+      "kind": "stay",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.77678,
+      "lon": 35.22873,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "1 David St",
+      "price": "Roof: ₪40; Dorm: ₪70; Private Room: ₪180",
+      "url": "https://www.facebook.com/PetraHostel/",
+      "id": "israel-a38380d64ec85af2a240"
+    },
+    {
+      "name": "Citadel Hostel",
+      "kind": "stay",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.77646,
+      "lon": 35.23002,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "price": "Dorm bed ₪65 flat, roof mattress option in summer ₪45-55 depending on the season",
+      "url": "http://www.citadelyouthhostel.com/",
+      "id": "israel-cd5f5cf9e5585168e907"
+    },
+    {
+      "name": "Golden Gate Inn",
+      "kind": "stay",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.7802,
+      "lon": 35.230782,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "Khan al-Zeit St",
+      "price": "₪150 or so for a private single",
+      "url": "http://www.goldengate4.com/",
+      "id": "israel-09ec6b4a1e83029b9e20"
+    },
+    {
+      "name": "New Swedish Hostel",
+      "kind": "stay",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "29 David St",
+      "price": "₪62",
+      "url": "https://new-swedish-hostel.business.site/",
+      "id": "israel-b9ac3e7551cf1253b271"
+    },
+    {
+      "name": "Heritage House",
+      "kind": "stay",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "price": "free",
+      "url": "http://www.heritagehouse.org.il/",
+      "id": "israel-930018a35b7a2dd32a66"
+    },
+    {
+      "name": "Hebron Hostel (formerly known as 'Tabasco Hostel')",
+      "kind": "stay",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "8 Aqabat Etkia",
+      "price": "Dorm: ₪25-30; Private Room: ₪80-100",
+      "url": "http://www.hostelz.com/hostel/23435-Hebron-Hostel",
+      "id": "israel-da501d9e444c394a90f4"
+    },
+    {
+      "name": "New Palm Hostel",
+      "kind": "stay",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "6 Hanivim St",
+      "price": "Dorm: ₪50",
+      "url": "https://www.hostelworld.com/pwa/hosteldetails.php/Palm-Hostel/Jerusalem/61960",
+      "id": "israel-cf863cdd34c93f08ded5"
+    },
+    {
+      "name": "Austrian Hospice",
+      "kind": "stay",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.780362,
+      "lon": 35.232094,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "37 Via Dolorosa",
+      "price": "High season standard room: Single: ₪455; Double: ₪655",
+      "url": "http://www.austrianhospice.com/",
+      "id": "israel-f58a86e64cd975758d86"
+    },
+    {
+      "name": "Casa Nova Hospice",
+      "kind": "stay",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.7783,
+      "lon": 35.22758,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "10 Casa Nova St",
+      "price": "Under ₪224",
+      "id": "israel-664f6ac77cc19eafdccf"
+    },
+    {
+      "name": "Christ Church Guest House",
+      "kind": "stay",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.77608,
+      "lon": 35.22888,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "Omar ibn el-Khattab Square",
+      "price": "₪448-784",
+      "url": "http://www.cmj-israel.org/CMJ-Ministries/Christ-Church-Guest-House/Guest-House-Overview",
+      "id": "israel-92efe8783322bbef9962"
+    },
+    {
+      "name": "Al Hashimi Hotel and Hostel",
+      "kind": "stay",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.779339,
+      "lon": 35.230968,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "Souq Khan El-Zeit # 73, Old City",
+      "price": "Single ₪400",
+      "url": "http://www.hashimihotel.com/",
+      "id": "israel-0923e1b15b0d9fda7087"
+    },
+    {
+      "name": "Lutheran Guest House",
+      "kind": "stay",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.7765,
+      "lon": 35.23043,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "St Mark's Rd",
+      "price": "Single: ₪137; Double: ₪231",
+      "url": "http://luth-guesthouse-jerusalem.com/",
+      "id": "israel-6b2b56a071589e3dd5d5"
+    },
+    {
+      "name": "Our Lady of Zion",
+      "kind": "stay",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "41 Via Dolorosa",
+      "price": "₪224-448",
+      "id": "israel-d40224edbf07ec2004e0"
+    },
+    {
+      "name": "The Sephardic House",
+      "kind": "stay",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.7742,
+      "lon": 35.2316,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "address": "Batei Mahase St 1",
+      "url": "https://www.sephardichouse.com/",
+      "id": "israel-1816717b075092d60f00"
+    },
+    {
+      "name": "New Imperial Hotel",
+      "kind": "stay",
+      "locality": "Jerusalem/Old City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "url": "http://www.newimperial.com/",
+      "id": "israel-efd24d6f95ee4a78cd0e"
+    },
+    {
+      "name": "Jerusalem/Old City",
+      "kind": "area",
+      "locality": "Jerusalem/Old City",
+      "lat": 31.77666667,
+      "lon": 35.23416667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FOld_City",
+      "id": "israel-37c5a1fde9e957fa18ec"
+    },
+    {
+      "name": "Church of the Dormition",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.7722,
+      "lon": 35.2289,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "price": "Free",
+      "url": "http://www.dormitio.net/",
+      "id": "israel-5d491b9c00b8f9f54a2d"
+    },
+    {
+      "name": "King David's Tomb",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.771639,
+      "lon": 35.229014,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "price": "Free",
+      "id": "israel-16ad51d0a35f99df65d3"
+    },
+    {
+      "name": "Last Supper Room",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.771903,
+      "lon": 35.229307,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "price": "Free",
+      "id": "israel-83e00bff2543c0c4b630"
+    },
+    {
+      "name": "Chamber of the Holocaust",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.771353,
+      "lon": 35.229503,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "price": "₪12",
+      "url": "http://www.martefhashoah.org.il/",
+      "id": "israel-767e9583252f1ad09568"
+    },
+    {
+      "name": "Schindler's Tomb",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.7702276,
+      "lon": 35.2303573,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "id": "israel-4626f6cbda35064e81f3"
+    },
+    {
+      "name": "St Peter in Gallicantu",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.77132,
+      "lon": 35.232112,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "price": "₪7 adults, ₪5 students. Children under 13 are free. Parking is available at a charge of ₪10",
+      "url": "http://www.assumptio.org/",
+      "id": "israel-ad189dda7f614fa1ccbd"
+    },
+    {
+      "name": "City of David and Jerusalem water system",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.773611,
+      "lon": 35.235556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "price": "₪25–50",
+      "id": "israel-25d45d9613b4da809163"
+    },
+    {
+      "name": "Tomb of Absalom",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.776958,
+      "lon": 35.238958,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "id": "israel-40f056520b99d8af7f32"
+    },
+    {
+      "name": "Chapel of the Ascension",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.778956,
+      "lon": 35.244959,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "price": "₪5",
+      "id": "israel-a3f3c983939ff21261ad"
+    },
+    {
+      "name": "Church of the Pater Noster",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.778078,
+      "lon": 35.245192,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "price": "₪10/8 adult/student",
+      "id": "israel-7a2965788ab1e4f8f3d2"
+    },
+    {
+      "name": "Seven Arches Hotel Viewpoint",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.776251,
+      "lon": 35.243339,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "price": "Free",
+      "id": "israel-ce22585ddf464359c120"
+    },
+    {
+      "name": "Tombs of the Prophets",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.776654,
+      "lon": 35.243138,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "id": "israel-26e743bfede49403a6da"
+    },
+    {
+      "name": "Mount of Olives Jewish Cemetery",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.77565,
+      "lon": 35.24139,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "price": "Free",
+      "id": "israel-11acec96fefe14108496"
+    },
+    {
+      "name": "Dominus Flevit Chapel",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.777978,
+      "lon": 35.241895,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "url": "http://198.62.75.4/www1/ofm/san/TSdomin.html",
+      "id": "israel-33b0b3a7a7530f5926c8"
+    },
+    {
+      "name": "Church of St. Mary Magdalene",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.77889,
+      "lon": 35.240745,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "url": "http://www.jerusalem-mission.org/convent_magdalene.html",
+      "id": "israel-d38d9e6baa1de323586a"
+    },
+    {
+      "name": "Church of All Nations and Garden of Gethsemane",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.779227,
+      "lon": 35.239628,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "price": "Free",
+      "id": "israel-1c2fd8aa6495e77ad8e8"
+    },
+    {
+      "name": "Tomb of the Virgin / Cave of Gethsemane",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.780131,
+      "lon": 35.239409,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "url": "http://198.62.75.5/www1/ofm/san/TSmarymn.html",
+      "id": "israel-a74d047cf1a8a2c18454"
+    },
+    {
+      "name": "Rockefeller Archaeological Museum",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.784444,
+      "lon": 35.235833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "price": "free",
+      "url": "https://www.imj.org.il/en/wings/archaeology/rockefeller-archaeological-museum",
+      "id": "israel-82edc8b9d816624fe2fb"
+    },
+    {
+      "name": "Garden Tomb",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.783957,
+      "lon": 35.230147,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "id": "israel-e725d27f648169921775"
+    },
+    {
+      "name": "Armenian Bird Mosaic",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.78337,
+      "lon": 35.22783,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "address": "HaNeviim 16",
+      "id": "israel-d6bd6c22f35a2c7e4a8d"
+    },
+    {
+      "name": "Tombs of the Kings",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.78852,
+      "lon": 35.22919,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "id": "israel-9e9935177fb4a6070f31"
+    },
+    {
+      "name": "Tomb of Simon the Just",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.790573,
+      "lon": 35.233476,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "address": "'Uthman Ibn 'Affan Street",
+      "id": "israel-474a070dfd4bf22bd0da"
+    },
+    {
+      "name": "Cave of the Minor Sanhedrin",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.792043,
+      "lon": 35.230494,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "id": "israel-f363dd25644f88856111"
+    },
+    {
+      "name": "St. George's Cathedral",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "id": "israel-afb00adfa0928c438c90"
+    },
+    {
+      "name": "The Palestinian Heritage Museum",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.7893,
+      "lon": 35.2296,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "address": "Louis Vincent St 2",
+      "url": "https://dartifl.org/en/",
+      "id": "israel-2ff3c8ac2e673f22ff86"
+    },
+    {
+      "name": "Ammunition Hill",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.79801,
+      "lon": 35.22774,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "url": "http://www.g-h.org.il/",
+      "id": "israel-a23d091f003f38e1c081"
+    },
+    {
+      "name": "Hebrew University - Mount Scopus",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.79223,
+      "lon": 35.24506,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "url": "http://new.huji.ac.il/en",
+      "id": "israel-7d56ac19942a395c5b99"
+    },
+    {
+      "name": "Tomb of Lazarus",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.771661,
+      "lon": 35.255903,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "id": "israel-e76e641f10066b2c561a"
+    },
+    {
+      "name": "Bethphage",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.777337,
+      "lon": 35.250769,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "id": "israel-57fcdee8266419fe8ea9"
+    },
+    {
+      "name": "Tell el-Ful",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.82351,
+      "lon": 35.23111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "id": "israel-33f27ce2814aadbedca7"
+    },
+    {
+      "name": "St. Elias Monastery",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.734817,
+      "lon": 35.211166,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "address": "Near Hebron Rd",
+      "id": "israel-068b3fd82e4da846e7af"
+    },
+    {
+      "name": "Mitzpeh Tel",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.7522,
+      "lon": 35.24034,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "id": "israel-eeed3f4d7c853242ffb9"
+    },
+    {
+      "name": "Tolerance Monument",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "id": "israel-93aef36c3e1edea827f5"
+    },
+    {
+      "name": "Church of the Seat of Mary",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "id": "israel-d502d5c09ca3cecc325c"
+    },
+    {
+      "name": "Temple Mount Sifting Project",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.78722,
+      "lon": 35.24056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "address": "Tzurim Valley National Park",
+      "price": "₪15",
+      "url": "http://www.cityofdavid.org.il/en/tours/mount-olives/emek-tzurim-sifting-project",
+      "id": "israel-1d206b25565235c0c9d1"
+    },
+    {
+      "name": "Brigham Young University Jerusalem Center for Near Eastern Studies",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "lat": 31.787057,
+      "lon": 35.244974,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "address": "Mt. Scopus, near Augusta Victoria Hospital and Tzurim Valley National Park",
+      "url": "https://www.byu-jc.org/",
+      "id": "israel-95e42cb8014971e98330"
+    },
+    {
+      "name": "Givat HaArbaa Hill",
+      "kind": "do",
+      "locality": "Jerusalem/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "id": "israel-1cfa144d3d1be28df523"
+    },
+    {
+      "name": "Kan Zman Jerusalem Hotel",
+      "kind": "eat",
+      "locality": "Jerusalem/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "address": "Nablus Road",
+      "price": "Main courses start at about ₪30, and there are ₪50 buffets on Thursday and Saturday nights",
+      "id": "israel-f904938cccc75cde809c"
+    },
+    {
+      "name": "American Colony Hotel",
+      "kind": "eat",
+      "locality": "Jerusalem/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "address": "One Louis Vincent St.",
+      "price": "Three-course meals from $25",
+      "id": "israel-9957e3994257b6e8f163"
+    },
+    {
+      "name": "Shababeek Restaurant",
+      "kind": "eat",
+      "locality": "Jerusalem/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "address": "7 Shimon Hatsidik St",
+      "id": "israel-7e286c2715564542923f"
+    },
+    {
+      "name": "Gossip",
+      "kind": "eat",
+      "locality": "Jerusalem/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "id": "israel-5fb5ff3a8e849c70b04c"
+    },
+    {
+      "name": "Palm Hostel",
+      "kind": "stay",
+      "locality": "Jerusalem/East",
+      "lat": 31.782441,
+      "lon": 35.229331,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "price": "Dorm bed from ₪60",
+      "id": "israel-a370e66d6a276861ada1"
+    },
+    {
+      "name": "Ramsis Hostel",
+      "kind": "stay",
+      "locality": "Jerusalem/East",
+      "lat": 31.78361,
+      "lon": 35.22762,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "address": "20 Haneviim St",
+      "price": "dormbed US$10, private $15, free tea or coffee",
+      "id": "israel-9d2717d478fa64c83fb3"
+    },
+    {
+      "name": "Capitol Hotel",
+      "kind": "stay",
+      "locality": "Jerusalem/East",
+      "lat": 31.7849055,
+      "lon": 35.2309121,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "address": "Salah Eddin St",
+      "price": "From US$99",
+      "url": "https://m.facebook.com/pages/category/Hotel/Capitol-Hotel-Jerusalem-272323966223386/",
+      "id": "israel-6481abc23b9fd9292463"
+    },
+    {
+      "name": "Mount of Olives Hotel",
+      "kind": "stay",
+      "locality": "Jerusalem/East",
+      "lat": 31.779204,
+      "lon": 35.24504,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "address": "53 Mount of Olives Rd",
+      "price": "From US$59 for a single in low season to US$148 for a triple in peak season (2015/16 prices)",
+      "url": "http://www.mtolives.com/",
+      "id": "israel-13c12950c84a976546be"
+    },
+    {
+      "name": "Jerusalem Hotel",
+      "kind": "stay",
+      "locality": "Jerusalem/East",
+      "lat": 31.784311,
+      "lon": 35.228083,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "address": "Nablus Rd",
+      "url": "http://www.jrshotel.com/",
+      "id": "israel-aaa1b8a758a1de118555"
+    },
+    {
+      "name": "Jerusalem Panorama",
+      "kind": "stay",
+      "locality": "Jerusalem/East",
+      "lat": 31.77323,
+      "lon": 35.240101,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "address": "Ras el-Amud St",
+      "price": "₪448-784",
+      "url": "http://www.jerusalempanoramahotel.com/",
+      "id": "israel-0f2948be26147ea785af"
+    },
+    {
+      "name": "Seven Arches",
+      "kind": "stay",
+      "locality": "Jerusalem/East",
+      "lat": 31.779267,
+      "lon": 35.242749,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "address": "Main Rd",
+      "price": "₪448-784",
+      "url": "https://7arches.com/",
+      "id": "israel-fa8825fae4f558ee7f07"
+    },
+    {
+      "name": "Tantur Hills Hotel",
+      "kind": "stay",
+      "locality": "Jerusalem/East",
+      "lat": 31.7263,
+      "lon": 35.2033,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "url": "https://www.tanturhills.com/",
+      "id": "israel-87349e11146be5aaa265"
+    },
+    {
+      "name": "American Colony Hotel",
+      "kind": "stay",
+      "locality": "Jerusalem/East",
+      "lat": 31.789804,
+      "lon": 35.229382,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "address": "1 Louis Vincent St",
+      "url": "http://www.americancolony.com/",
+      "id": "israel-2399064c2d9720d753ee"
+    },
+    {
+      "name": "Dan Jerusalem Hotel",
+      "kind": "stay",
+      "locality": "Jerusalem/East",
+      "lat": 31.797722,
+      "lon": 35.235868,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "address": "32 Lehi St, 97856",
+      "price": "From ₪600",
+      "url": "http://www.danhotels.com/JerusalemHotels/DanJerusalemHotel/",
+      "id": "israel-697002432891b4296315"
+    },
+    {
+      "name": "Leonardo Hotel",
+      "kind": "stay",
+      "locality": "Jerusalem/East",
+      "lat": 31.789425,
+      "lon": 35.228434,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "address": "9 Saint George St",
+      "price": "Starting at US$115/night with breakfast",
+      "url": "https://www.fattal-hotels.com/hotels_in_israel/jerusalem_hotels/leonardo_jerusalem/",
+      "id": "israel-c3f25df11ab5e78d4e52"
+    },
+    {
+      "name": "Grand Court Jerusalem Hotel",
+      "kind": "stay",
+      "locality": "Jerusalem/East",
+      "lat": 31.78932,
+      "lon": 35.22735,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "address": "15 Saint George St",
+      "url": "http://www.grandhotels-israel.com/jerusalem-hotels/grand-court-jerusalem-hotel",
+      "id": "israel-58d964367ca2004afead"
+    },
+    {
+      "name": "Jerusalem/East",
+      "kind": "area",
+      "locality": "Jerusalem/East",
+      "lat": 31.7851,
+      "lon": 35.2372,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEast",
+      "id": "israel-cf51c7d08919d996c5b8"
+    },
+    {
+      "name": "The Knesset",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.776667,
+      "lon": 35.205278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "url": "http://main.knesset.gov.il/",
+      "id": "israel-c6c54cd2e3ea50c7b842"
+    },
+    {
+      "name": "Supreme Court",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.78114,
+      "lon": 35.20388,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "url": "http://elyon1.court.gov.il/eng/siyur/index.html",
+      "id": "israel-6a3d7b99055d20ca2cda"
+    },
+    {
+      "name": "Mount Herzl",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.774117,
+      "lon": 35.180567,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "1 Herzl Boulevard, Mount Herzl",
+      "price": "Free",
+      "url": "http://www.wzo.org.il/index.php?langpage=heb&dir=site&page=pages&op=item&cs=3122&language=eng",
+      "id": "israel-7bb9900ce01ed45a7bff"
+    },
+    {
+      "name": "Yad Vashem",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.774167,
+      "lon": 35.175556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "Har Hazikaron",
+      "price": "Free entry; guided tours can cost about ₪30",
+      "url": "https://www.yadvashem.org/",
+      "id": "israel-da9b8f9905088ef687ed"
+    },
+    {
+      "name": "HaPaamon military position",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.73747,
+      "lon": 35.22312,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-cb7dea3734332a832b70"
+    },
+    {
+      "name": "Israel Museum and the Shrine of the Book",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.772361,
+      "lon": 35.2045,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "Ruppin Blvd",
+      "price": "₪54, student ₪39, child 5-17 yrs ₪27 (free Tu and Sa)",
+      "url": "https://www.imj.org.il/",
+      "id": "israel-4302c69bb50a4820f1ec"
+    },
+    {
+      "name": "Bible Lands Museum",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.7749,
+      "lon": 35.2025,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "price": "₪28, pensioner ₪23, child ₪15, other concessions available",
+      "url": "http://www.blmj.org/en/",
+      "id": "israel-51d21284de492bf48790"
+    },
+    {
+      "name": "L.A. Mayer Memorial Museum of Islamic Art",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.768728,
+      "lon": 35.212836,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "2 Palmach St",
+      "price": "₪20, students ₪13, youths ₪10",
+      "url": "http://www.islamicart.co.il/",
+      "id": "israel-a572f166900b0936ac9f"
+    },
+    {
+      "name": "Wolfson Jewish Heritage Museum at Hechal Shlomo",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.77568,
+      "lon": 35.21699,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "58 King George street",
+      "price": "₪15, students and youth ₪10",
+      "url": "http://eng.hechalshlomo.org.il/zzmtahd2zntmf1as/",
+      "id": "israel-502ef7949f185b7c3ad6"
+    },
+    {
+      "name": "Science Museum",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.77838,
+      "lon": 35.20015,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "price": "₪40",
+      "url": "http://www.mada.org.il/en",
+      "id": "israel-5bff5dbea0fd37913c6d"
+    },
+    {
+      "name": "Museum on the Seam",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.7861,
+      "lon": 35.22687,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "url": "http://www.mots.org.il/Eng/",
+      "id": "israel-7735318fee14542e2974"
+    },
+    {
+      "name": "Begin Center",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.76932,
+      "lon": 35.22542,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "url": "http://www.begincenter.org.il/en/",
+      "id": "israel-380a1621b854ea51457c"
+    },
+    {
+      "name": "Museum of Underground Prisoners",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.782083,
+      "lon": 35.224025,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-1de2a85c90e1c0980c7d"
+    },
+    {
+      "name": "Agnon House",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.74857,
+      "lon": 35.22387,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "Klausner 16",
+      "id": "israel-706b395af0d80c8f29b2"
+    },
+    {
+      "name": "Worldwide North Africa Jewish Heritage Center",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.7763,
+      "lon": 35.2215,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "HaMaaravim 13",
+      "id": "israel-0425de1d5b4498817752"
+    },
+    {
+      "name": "Hebrew Music Museum",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.78057,
+      "lon": 35.21975,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "Yo'el Moshe Salomon 10",
+      "url": "http://hebrewmusicmuseum.com/",
+      "id": "israel-5cad433163d7a2eee0c3"
+    },
+    {
+      "name": "Gush Katif Museum",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.78605,
+      "lon": 35.20917,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "5 Shaarei Zedek St",
+      "url": "http://en.gushkatifmuseum.com/",
+      "id": "israel-2585dba229efd7d20b26"
+    },
+    {
+      "name": "Cable Car Museum",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.76818,
+      "lon": 35.2267,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "17 Derech Hebron",
+      "id": "israel-0c7fea784f74dfeaa989"
+    },
+    {
+      "name": "Friends of Zion Museum",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.7801337,
+      "lon": 35.2201839,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "20 Yosef Rivlin Street, Nahalat Shiv'a",
+      "price": "Adult ₪44, child (7-18) ₪33",
+      "url": "http://www.fozmuseum.com/",
+      "id": "israel-4b29541e90644bca4053"
+    },
+    {
+      "name": "Levi Eshkol House",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.77376,
+      "lon": 35.21288,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "Ben Maimon 46",
+      "id": "israel-9b2d0633acc70eb1c654"
+    },
+    {
+      "name": "Beit HaRav Kook",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.78334,
+      "lon": 35.22036,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "price": "₪20",
+      "url": "http://www.beit-harav.org.il/",
+      "id": "israel-571b579b4a54565404fd"
+    },
+    {
+      "name": "Jerusalem Nature Museum",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-ad50bfe707b830918627"
+    },
+    {
+      "name": "Tax Museum",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.783876,
+      "lon": 35.214258,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "Agrippas 42",
+      "price": "Free",
+      "url": "https://www.gov.il/en/pages/about-tax-museum",
+      "id": "israel-db484e0a3e817c4328ea"
+    },
+    {
+      "name": "Museum of Tolerance Jerusalem",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.779,
+      "lon": 35.2201,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-e8bb65d55359d002bd29"
+    },
+    {
+      "name": "Yemin Moshe",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.77202,
+      "lon": 35.22468,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-fc3685c0237e07ddd03b"
+    },
+    {
+      "name": "Nachlaot",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.78266,
+      "lon": 35.21254,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-060d58b39ad3828258aa"
+    },
+    {
+      "name": "German Colony",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.763167,
+      "lon": 35.221053,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-b4dfc98f2245874a66f2"
+    },
+    {
+      "name": "Baka",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.759169,
+      "lon": 35.220817,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-72b97a99208a5364995b"
+    },
+    {
+      "name": "Italian Synagogue",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.7803,
+      "lon": 35.21869,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "Hillel 25",
+      "url": "http://ijamuseum.org/museum/the-synagogue/the-story/",
+      "id": "israel-1be6cabafb41801f3c71"
+    },
+    {
+      "name": "Chagall Windows",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.76521,
+      "lon": 35.14893,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "url": "http://www.hadassah-med.com/about/art-at-hadassah/chagall-windows",
+      "id": "israel-04c56751b8fac2399d9f"
+    },
+    {
+      "name": "Ades Synagogue",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.781828,
+      "lon": 35.211397,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-6968c9e12e5b2081ce6d"
+    },
+    {
+      "name": "Hesed VeRahamim Synagogue",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.7836,
+      "lon": 35.21364,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-440ad27530b57555abd7"
+    },
+    {
+      "name": "St Andrew's Church",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "David Remez St 1",
+      "id": "israel-5073d912d1475de09154"
+    },
+    {
+      "name": "Haas Promenade",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.75569,
+      "lon": 35.22741,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-9debf92781e304b2bd6a"
+    },
+    {
+      "name": "Gehinnom",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.76956,
+      "lon": 35.22683,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-12949fef2f8c1ff83cb3"
+    },
+    {
+      "name": "Farm in the Valley",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.76824,
+      "lon": 35.22906,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "price": "Free",
+      "url": "https://cityofdavid.org.il/en/sites/farm-in-guy-eng/",
+      "id": "israel-103170f8566bbfd2eb82"
+    },
+    {
+      "name": "Ben Hinnom suspension bridge",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.7692,
+      "lon": 35.22887,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "url": "https://cityofdavid.org.il/en/the-longest-suspension-bridge-in-israel-opens-in-jerusalem-eng/",
+      "id": "israel-aa33985463ebca7209aa"
+    },
+    {
+      "name": "Teddy Park",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.77516,
+      "lon": 35.22636,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "url": "https://www.itraveljerusalem.com/ent/teddy-park/",
+      "id": "israel-7a7b52c506f785a8c648"
+    },
+    {
+      "name": "Independence Park",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.77779,
+      "lon": 35.21806,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-4680d5dc158c950f2151"
+    },
+    {
+      "name": "Gan HaPaamon",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.76999,
+      "lon": 35.22328,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "url": "https://en.wikipedia.org/wiki/Liberty_Bell_Park",
+      "id": "israel-baf4233d88f209c50228"
+    },
+    {
+      "name": "The Mifletzet",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.76168,
+      "lon": 35.17231,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-7305a4ae2e694e2bee6e"
+    },
+    {
+      "name": "Jerusalem Bird Observatory",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.77928,
+      "lon": 35.20608,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "url": "http://natureisrael.org/JBO",
+      "id": "israel-6bb5600d78b2817fd3a1"
+    },
+    {
+      "name": "Gazelle Valley",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.759117,
+      "lon": 35.195303,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "price": "Free",
+      "id": "israel-dd348b84976757f52c5d"
+    },
+    {
+      "name": "Zion Square",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.78185,
+      "lon": 35.21953,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-7e2aeb1316338a9f7fb6"
+    },
+    {
+      "name": "Safra Square",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.780556,
+      "lon": 35.223889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-278665accbb3193822ae"
+    },
+    {
+      "name": "Jerusalem City Model",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "at the Jerusalem City Hall (Safra Square, building 1)",
+      "price": "Free",
+      "url": "https://www.jerusalem.muni.il/RecreationandCulture/GalleriesArtSculptures/site93/Pages/PageSite_8037.aspx",
+      "id": "israel-3581925fbe1a1c4e07f8"
+    },
+    {
+      "name": "Chords Bridge",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.78891,
+      "lon": 35.19986,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-5966a21ad2c0481c1e82"
+    },
+    {
+      "name": "Jerusalem Biblical Zoo",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.745833,
+      "lon": 35.176944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "Derech Aharon Shulov 1",
+      "price": "Regular ₪50, Special discounts (children, students, etc.) ₪40",
+      "url": "https://www.jerusalemzoo.org/en/biblical-zoo",
+      "id": "israel-315ebaf973778bae93ad"
+    },
+    {
+      "name": "Jerusalem Botanical Gardens",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.767,
+      "lon": 35.201,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "at the university campus in Givat Ram",
+      "price": "Regular: ₪30, special discounts: ₪20",
+      "id": "israel-8b15991d71a01f70ba9c"
+    },
+    {
+      "name": "Israel Aquarium",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.74469,
+      "lon": 35.16663,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "1 Aharon Shulov",
+      "price": "Adult ₪50, child 3-18 ₪45, senior or student or disabled ₪35",
+      "url": "https://www.israel-aquarium.org.il/english",
+      "id": "israel-ffa78dd0294aabd73e45"
+    },
+    {
+      "name": "Sultan's Pool",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.77214,
+      "lon": 35.22626,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-1ee8bed6093ddc38eaea"
+    },
+    {
+      "name": "Jerusalem YMCA",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.7743,
+      "lon": 35.22149,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "26 King David",
+      "id": "israel-8f74f75ae83ef0444e25"
+    },
+    {
+      "name": "Ramat Rachel",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.739992,
+      "lon": 35.218992,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-b3faf7f812b2e68a8729"
+    },
+    {
+      "name": "Mamilla Cemetery",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.778056,
+      "lon": 35.220556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-4242da7be186b5f0fa76"
+    },
+    {
+      "name": "Jason's Tomb",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.773133,
+      "lon": 35.213133,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-6280aa349e5c1eb3969e"
+    },
+    {
+      "name": "Chalcolithic village",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.75243,
+      "lon": 35.18822,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-3fa8f038bb9129cef71e"
+    },
+    {
+      "name": "Around the world in 92 days",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.78093,
+      "lon": 35.21294,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "Betzalel 11",
+      "id": "israel-6c03f0a7974fe812fb4d"
+    },
+    {
+      "name": "Hansen House",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.767722,
+      "lon": 35.216923,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "url": "http://hansen.co.il/",
+      "id": "israel-b2b226938144497b384b"
+    },
+    {
+      "name": "HaMiffal",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.776921,
+      "lon": 35.22157,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "HaMaaravim 3",
+      "price": "Free admission",
+      "url": "http://hamiffal.com/english/",
+      "id": "israel-ea0972d6bfec7c08beb5"
+    },
+    {
+      "name": "Mount Zion tunnel",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.77132,
+      "lon": 35.22683,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-c4ec3024a9ee6c858a1a"
+    },
+    {
+      "name": "Motorcycle models",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.74698,
+      "lon": 35.21103,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "Beit Hayotzer 6",
+      "id": "israel-7b98ff353d5011aa41b2"
+    },
+    {
+      "name": "Beta Israel Memorial",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-116ed65d2002d3096861"
+    },
+    {
+      "name": "All Nations Cafe",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.74351,
+      "lon": 35.1562,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "url": "http://www.allnationscafe.org/",
+      "id": "israel-8192e68bff1adfcf123f"
+    },
+    {
+      "name": "First Station",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.76722,
+      "lon": 35.22418,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "url": "http://firststation.co.il/",
+      "id": "israel-34d7d3fdecf89e5f01f9"
+    },
+    {
+      "name": "Great Synagogue",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.77579,
+      "lon": 35.21662,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "King George St 56",
+      "url": "http://www.jerusalemgreatsynagogue.com/",
+      "id": "israel-459876ceb18233eaeef2"
+    },
+    {
+      "name": "Ein Yael",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.7432,
+      "lon": 35.17769,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "url": "http://www.funinjerusalem.com/ein-yael/",
+      "id": "israel-53e14ad0150f6116533a"
+    },
+    {
+      "name": "National Library",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.77581,
+      "lon": 35.19653,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "url": "http://web.nli.org.il/sites/NLI/English/Pages/default.aspx",
+      "id": "israel-7631702a72f4ca6bc62b"
+    },
+    {
+      "name": "Cinema City",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.78274,
+      "lon": 35.20362,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-89b6d86c15e41f68e2f4"
+    },
+    {
+      "name": "Yellow Submarine",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.75399,
+      "lon": 35.21277,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "HaRechavim 13, Talpiyot",
+      "url": "http://yellowsubmarine.org.il/?lang=en/",
+      "id": "israel-f9368fcf02e603a3412a"
+    },
+    {
+      "name": "Beit Avi Hai",
+      "kind": "do",
+      "locality": "Jerusalem/West",
+      "lat": 31.77739,
+      "lon": 35.21589,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "44 King George",
+      "url": "http://www.bac.org.il/ENG",
+      "id": "israel-9264c5ec2933c9d7b811"
+    },
+    {
+      "name": "The Eucalyptus",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "lat": 31.7745928,
+      "lon": 35.2270496,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "url": "http://www.the-eucalyptus.com/",
+      "id": "israel-56e8e295f3f83b18a95d"
+    },
+    {
+      "name": "Shalom Felafel",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "lat": 31.781541,
+      "lon": 35.2118344,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "36 Bezalel",
+      "id": "israel-dedf8dcd6f47267a4a19"
+    },
+    {
+      "name": "Melech HaFalafel VeHaShawarma",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "lat": 31.78249,
+      "lon": 35.21717,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-4e500e35a6a037cf0662"
+    },
+    {
+      "name": "HaSabikh",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-6dfbf9daaf1af5b08e05"
+    },
+    {
+      "name": "Steakiat Tzidkiyahu",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "Yad Harutzim 21, Talpiot",
+      "url": "http://www.tzidkiyahu.co.il/",
+      "id": "israel-7832d73ec6015ac8f0a9"
+    },
+    {
+      "name": "Bein Aza LeBerlin",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "lat": 31.76991,
+      "lon": 35.21166,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "55 Gaza St",
+      "url": "http://fromgazatoberlin.rest.co.il/",
+      "id": "israel-f9f7262bebb254096774"
+    },
+    {
+      "name": "Masudi",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "lat": 31.78536,
+      "lon": 35.21419,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "Jaffa 82",
+      "url": "https://www.facebook.com/profile.php?id=100085863660257",
+      "id": "israel-3afd1c4371ec4392ca07"
+    },
+    {
+      "name": "Marvad Haksammim",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "lat": 31.7819434,
+      "lon": 35.2163631,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "url": "http://www.marvad-rest.co.il/",
+      "id": "israel-360290e5f31c4fe0eb99"
+    },
+    {
+      "name": "Hashipudia",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "6 Ha-Shikma",
+      "id": "israel-6d050eb633865e221a42"
+    },
+    {
+      "name": "Imbala",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "lat": 31.778804,
+      "lon": 35.223039,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "3 Yanai St, Jerusalem, Israel",
+      "price": "₪15-25",
+      "url": "https://he-il.facebook.com/pages/category/Cafe/%D9%85%D8%A8%D9%84%D8%A7-%D7%90%D7%9D%D7%91%D7%90%D7%9C%D7%94-Imbala-1907028612951678/",
+      "id": "israel-b7aa5cb7f4c3b9a669e5"
+    },
+    {
+      "name": "Felafel HaTeimani",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "lat": 31.78385,
+      "lon": 35.22171,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "Haneviim 50",
+      "id": "israel-c413d4876596f2db039f"
+    },
+    {
+      "name": "Burgers Bar",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "lat": 31.78114,
+      "lon": 35.21914,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "Shamai 12; Yafo 34; other locations",
+      "url": "http://www.burgersbar.co.il/en/",
+      "id": "israel-72cd8adbad430fa9f201"
+    },
+    {
+      "name": "New Deli",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "lat": 31.78123,
+      "lon": 35.221,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "Hillel 24; Jaffa 34; Emek Refaim 44",
+      "url": "http://new-deli.co.il/en/",
+      "id": "israel-a1a45d9630e97aa52617"
+    },
+    {
+      "name": "Meat Burger",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-3fa6553349ac0a2024bf"
+    },
+    {
+      "name": "Mike's Place",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "lat": 31.78117,
+      "lon": 35.22055,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "33 Jaffa Rd",
+      "url": "http://mikesplacebars.com/",
+      "id": "israel-8912a1bb6242a32d01a3"
+    },
+    {
+      "name": "Agas Vetapuah",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "lat": 31.77993,
+      "lon": 35.22429,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "Safra Square 6",
+      "url": "http://www.rol.co.il/sites/a-t/",
+      "id": "israel-2ccf9bcbd1bf9e3ea425"
+    },
+    {
+      "name": "Anna",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "lat": 31.78346,
+      "lon": 35.2197,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "HaRav Agan 10",
+      "url": "https://www.annarest.co.il/home",
+      "id": "israel-cbba02f09269049391df"
+    },
+    {
+      "name": "Cafe Kadosh",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "lat": 31.7797441,
+      "lon": 35.221834,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "6 Shlomzion HaMalka St",
+      "id": "israel-f706395f947b067b12f6"
+    },
+    {
+      "name": "Tmol Shilshom",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "lat": 31.78128,
+      "lon": 35.21992,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "Yoel Moshe Solomon 5",
+      "url": "http://www.tmol-shilshom.co.il/",
+      "id": "israel-866d9d7394e11ec2f12b"
+    },
+    {
+      "name": "Village Green",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "lat": 31.78125,
+      "lon": 35.22046,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "33 Jaffa Rd",
+      "id": "israel-35c8d44741708b4329b0"
+    },
+    {
+      "name": "HAOMAN 17",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "17 HaOman St, Talpiyot Industrial Area",
+      "price": "Cover is ₪80-120",
+      "id": "israel-46293a69d7df2e0701e3"
+    },
+    {
+      "name": "The Cassette",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "lat": 31.7820301,
+      "lon": 35.2211727,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "1 Horkenous St",
+      "price": "₪18 beer and ₪6 chaser",
+      "id": "israel-8bd2656c22686254f3c3"
+    },
+    {
+      "name": "Ha-Tipa",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "lat": 31.7854,
+      "lon": 35.21151,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "Hadekel 2",
+      "id": "israel-642ff8f317bc6b7931d3"
+    },
+    {
+      "name": "Sira",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "lat": 31.7793406,
+      "lon": 35.2215708,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "Ben-Sira 4",
+      "url": "https://www.facebook.com/Memento.Mori.JLM/",
+      "id": "israel-31c22d7f53237ea557c7"
+    },
+    {
+      "name": "Prague",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "lat": 31.78063,
+      "lon": 35.22037,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "Rivlin 6",
+      "price": "₪40-60",
+      "id": "israel-7815ee759d342c0fee60"
+    },
+    {
+      "name": "Birman",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "lat": 31.78192,
+      "lon": 35.21844,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "Dorot Rishonim 8",
+      "id": "israel-24b5955ec529f40d611a"
+    },
+    {
+      "name": "Izen Bar",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "Dereh Beit Lehem 7",
+      "id": "israel-cba3479fcd409b7739d2"
+    },
+    {
+      "name": "Angelica",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "Shatz 7",
+      "id": "israel-d7a93bdf8b91e03df698"
+    },
+    {
+      "name": "Glen whisk(e)y bar",
+      "kind": "eat",
+      "locality": "Jerusalem/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "18 Shlomtzion st",
+      "price": "~₪30",
+      "url": "http://www.glen.co.il/",
+      "id": "israel-a77b16b206d4baaa710a"
+    },
+    {
+      "name": "Stay Inn Hostel",
+      "kind": "stay",
+      "locality": "Jerusalem/West",
+      "lat": 31.780851,
+      "lon": 35.21602,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "21 King George St.",
+      "price": "Dorm bed from ₪72",
+      "url": "https://www.stays.io/property/stay-inn-hostel/BC-1940881",
+      "id": "israel-61b73f6ccab50c63d8b6"
+    },
+    {
+      "name": "The Post Hostel Jerusalem",
+      "kind": "stay",
+      "locality": "Jerusalem/West",
+      "lat": 31.77999,
+      "lon": 35.22236,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "Jaffa 23",
+      "price": "Dorm bed from ₪76",
+      "url": "http://theposthostel.com/",
+      "id": "israel-e4855464f05c8734d29a"
+    },
+    {
+      "name": "Jerusalem Hostel",
+      "kind": "stay",
+      "locality": "Jerusalem/West",
+      "lat": 31.78221,
+      "lon": 35.21959,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "44 Jaffa Rd",
+      "price": "Dorm: ₪80; private room: starting from ₪230",
+      "url": "http://www.jerusalem-hostel.com/",
+      "id": "israel-b602d512a6085ad97626"
+    },
+    {
+      "name": "Avraham Hostel",
+      "kind": "stay",
+      "locality": "Jerusalem/West",
+      "lat": 31.78504,
+      "lon": 35.21549,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "67 Hanevi'im",
+      "url": "https://abrahamhostels.com/jerusalem/",
+      "id": "israel-481c6eb90e003b978043"
+    },
+    {
+      "name": "Jerusalem Gate Hotel",
+      "kind": "stay",
+      "locality": "Jerusalem/West",
+      "lat": 31.789818,
+      "lon": 35.200861,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "43 Yirmiyahu St",
+      "price": "From ₪300",
+      "url": "http://www.jerusalemgatehotel.com/",
+      "id": "israel-3b676b991fdc9a624bd0"
+    },
+    {
+      "name": "Jerusalem Inn",
+      "kind": "stay",
+      "locality": "Jerusalem/West",
+      "lat": 31.782304,
+      "lon": 35.220929,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "7 Horkanos St",
+      "price": "From ₪300",
+      "id": "israel-e0fb863ceed014267472"
+    },
+    {
+      "name": "Jerusalem Gardens",
+      "kind": "stay",
+      "locality": "Jerusalem/West",
+      "lat": 31.783982,
+      "lon": 35.197679,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "4 Vilnay Street",
+      "price": "From ₪400",
+      "url": "http://www.jerusalemgardenshotel.com/",
+      "id": "israel-273aae64dca9b11687ea"
+    },
+    {
+      "name": "Montefiore Hotel",
+      "kind": "stay",
+      "locality": "Jerusalem/West",
+      "lat": 31.779993,
+      "lon": 35.215095,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "7 Shatz St",
+      "price": "From ₪400",
+      "id": "israel-c0b8321b678bd99ce3eb"
+    },
+    {
+      "name": "St. Andrew's Scottish Guest House",
+      "kind": "stay",
+      "locality": "Jerusalem/West",
+      "lat": 31.76892,
+      "lon": 35.225221,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "David Remez St 1",
+      "price": "Single: ₪360",
+      "url": "http://www.scotsguesthouse.com/",
+      "id": "israel-254e3533db00e7f1700b"
+    },
+    {
+      "name": "Crowne Plaza",
+      "kind": "stay",
+      "locality": "Jerusalem/West",
+      "lat": 31.784867,
+      "lon": 35.203081,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "Givat RamHaAliya St 1",
+      "price": "From ₪400",
+      "url": "http://h-i.co.il/",
+      "id": "israel-2be76ef2607f7a706ca3"
+    },
+    {
+      "name": "Rimonim Jerusalem",
+      "kind": "stay",
+      "locality": "Jerusalem/West",
+      "lat": 31.767571,
+      "lon": 35.186645,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "24 Shachrai St, Bait Va'gan",
+      "price": "From ₪380",
+      "url": "https://www.rimonimhotels.com/rimonim-jerusalem",
+      "id": "israel-7a702da3532e54a216b5"
+    },
+    {
+      "name": "Colony Suites",
+      "kind": "stay",
+      "locality": "Jerusalem/West",
+      "lat": 31.763399,
+      "lon": 35.219727,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "Hananya St",
+      "price": "US$50-180",
+      "url": "http://www.colonysuites.com/",
+      "id": "israel-8a57f6c7543344bff3af"
+    },
+    {
+      "name": "Grand Court Hotel",
+      "kind": "stay",
+      "locality": "Jerusalem/West",
+      "lat": 31.7894,
+      "lon": 35.2272,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "St. George St 15",
+      "url": "https://www.grandhotels-israel.com/grand-court-hotel-jerusalem",
+      "id": "israel-323d408e6ab334497b4d"
+    },
+    {
+      "name": "King David Hotel",
+      "kind": "stay",
+      "locality": "Jerusalem/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "King David St 23",
+      "price": "Rooms start at ₪1900",
+      "url": "http://www.danhotels.com/JerusalemHotels/KingDavidJerusalemHotel",
+      "id": "israel-3919617374be874379d1"
+    },
+    {
+      "name": "Prima Palace",
+      "kind": "stay",
+      "locality": "Jerusalem/West",
+      "lat": 31.785655,
+      "lon": 35.215416,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "2 Pines St",
+      "price": "From ₪520",
+      "url": "https://www.prima-hotels-israel.com/prima-palace-jerusalem-hotel",
+      "id": "israel-c1e92a31c6fd8fd73746"
+    },
+    {
+      "name": "Tower Hotel Jerusalem",
+      "kind": "stay",
+      "locality": "Jerusalem/West",
+      "lat": 31.780382,
+      "lon": 35.218193,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "23 Hillel st.",
+      "price": "From ₪536",
+      "url": "http://www.jerusalemtowerhotel.com/",
+      "id": "israel-a00b39d68905eab743b0"
+    },
+    {
+      "name": "Dan Boutique Jerusalem Hotel",
+      "kind": "stay",
+      "locality": "Jerusalem/West",
+      "lat": 31.766267,
+      "lon": 35.226284,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "31 Hevron Rd",
+      "price": "From ₪580",
+      "url": "http://www.danhotels.com/JerusalemHotels/DanBoutiqueJerusalemHotel/",
+      "id": "israel-cd159a4fa247719b3c11"
+    },
+    {
+      "name": "Prima Royale",
+      "kind": "stay",
+      "locality": "Jerusalem/West",
+      "lat": 31.77204,
+      "lon": 35.220647,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "3 Mendele Mocher Sfarim St",
+      "price": "From ₪600",
+      "url": "https://www.prima-hotels-israel.com/prima-royal-jerusalem-hotel",
+      "id": "israel-67bcd95c27c15766c90c"
+    },
+    {
+      "name": "Prima Kings",
+      "kind": "stay",
+      "locality": "Jerusalem/West",
+      "lat": 31.772034,
+      "lon": 35.220644,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "60 King George St",
+      "price": "From ₪600",
+      "url": "https://www.prima-hotels-israel.com/prima-kings-jerusalem-hotel",
+      "id": "israel-6e86ada8e1996ef589de"
+    },
+    {
+      "name": "Jerusalem YMCA International Three Arches Hotel",
+      "kind": "stay",
+      "locality": "Jerusalem/West",
+      "lat": 31.774312,
+      "lon": 35.221445,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "King David 26",
+      "price": "From ₪590",
+      "url": "http://www.ymca3arch.co.il/",
+      "id": "israel-099d018a45e1a0e3b53a"
+    },
+    {
+      "name": "Harmony Hotel Jerusalem",
+      "kind": "stay",
+      "locality": "Jerusalem/West",
+      "lat": 31.780935,
+      "lon": 35.21955,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "6 Yoel Moshe Salomon St",
+      "price": "From ₪640",
+      "url": "http://www.atlas.co.il/hotel.asp?hotel_id=302",
+      "id": "israel-fcb063e393893de1a4a0"
+    },
+    {
+      "name": "Ella Residence Suites Hotel",
+      "kind": "stay",
+      "locality": "Jerusalem/West",
+      "lat": 31.752742,
+      "lon": 35.181407,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "21 Hadishon St",
+      "price": "US$180",
+      "id": "israel-707c19c004a4fe3f333f"
+    },
+    {
+      "name": "Dan Panorama Jerusalem",
+      "kind": "stay",
+      "locality": "Jerusalem/West",
+      "lat": 31.772749,
+      "lon": 35.221479,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "39 Keren Hayesod St', 94188",
+      "price": "From ₪700",
+      "url": "http://www.danhotels.com/JerusalemHotels/DanPanoramaJerusalemHotel/",
+      "id": "israel-b002e7ebf66f28ae9ef6"
+    },
+    {
+      "name": "David Citadel Hotel",
+      "kind": "stay",
+      "locality": "Jerusalem/West",
+      "lat": 31.777078,
+      "lon": 35.222578,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "7 King David St.",
+      "price": "₪1320",
+      "url": "http://www.tdchotel.com/",
+      "id": "israel-9110f0bc445608cffb94"
+    },
+    {
+      "name": "Inbal Jerusalem Hotel",
+      "kind": "stay",
+      "locality": "Jerusalem/West",
+      "lat": 31.770642,
+      "lon": 35.221814,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "Liberty Bell Park, 3, Jabotinsky St",
+      "price": "₪1000",
+      "url": "http://www.inbalhotel.com/",
+      "id": "israel-877ab0f42efab8e18226"
+    },
+    {
+      "name": "Mamilla Jerusalem Hotel",
+      "kind": "stay",
+      "locality": "Jerusalem/West",
+      "lat": 31.778163,
+      "lon": 35.223585,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "11 King Solomon St",
+      "price": "₪1200",
+      "url": "http://www.mamilla-jerusalem.co.il/",
+      "id": "israel-09cfdda1ce566b79086f"
+    },
+    {
+      "name": "VERT Jerusalem",
+      "kind": "stay",
+      "locality": "Jerusalem/West",
+      "lat": 35.2032,
+      "lon": 31.7851,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "url": "https://www.afi-hotels.com/vert-jerusalem-hotel",
+      "id": "israel-fef71b62ec99423b331d"
+    },
+    {
+      "name": "Waldorf Astoria Jerusalem",
+      "kind": "stay",
+      "locality": "Jerusalem/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "address": "Gershon Agron St 26-28",
+      "id": "israel-74f8c1ad2c268ce4157c"
+    },
+    {
+      "name": "Jerusalem/West",
+      "kind": "area",
+      "locality": "Jerusalem/West",
+      "lat": 31.773,
+      "lon": 35.195,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FWest",
+      "id": "israel-cff399f57e0b5db55815"
+    },
+    {
+      "name": "Me'ah Shearim",
+      "kind": "do",
+      "locality": "Jerusalem/Haredi",
+      "lat": 31.78745,
+      "lon": 35.2219,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FHaredi",
+      "id": "israel-41648b96094802dd3586"
+    },
+    {
+      "name": "Malchei Yisrael street",
+      "kind": "do",
+      "locality": "Jerusalem/Haredi",
+      "lat": 31.78869,
+      "lon": 35.21728,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FHaredi",
+      "id": "israel-1ba83b6f7fcc97ab9edc"
+    },
+    {
+      "name": "Tombs of the Sanhedrin",
+      "kind": "do",
+      "locality": "Jerusalem/Haredi",
+      "lat": 31.79931,
+      "lon": 35.21862,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FHaredi",
+      "id": "israel-eb6e549c6de374084ea1"
+    },
+    {
+      "name": "Lifta",
+      "kind": "do",
+      "locality": "Jerusalem/Haredi",
+      "lat": 31.79657,
+      "lon": 35.19613,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FHaredi",
+      "id": "israel-ffdeb47a527818f90ac0"
+    },
+    {
+      "name": "Nabi Samwil",
+      "kind": "do",
+      "locality": "Jerusalem/Haredi",
+      "lat": 31.8327,
+      "lon": 35.18,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FHaredi",
+      "id": "israel-fb1827de4bbc1c241104"
+    },
+    {
+      "name": "Nebi Akasha Mosque",
+      "kind": "do",
+      "locality": "Jerusalem/Haredi",
+      "lat": 31.785417,
+      "lon": 35.218167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FHaredi",
+      "id": "israel-62b35bf4656438c7c55f"
+    },
+    {
+      "name": "Ramot Polin",
+      "kind": "do",
+      "locality": "Jerusalem/Haredi",
+      "lat": 31.81953,
+      "lon": 35.19818,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FHaredi",
+      "id": "israel-3caca67edb1123dbd36e"
+    },
+    {
+      "name": "9/11 Living Memorial Plaza",
+      "kind": "do",
+      "locality": "Jerusalem/Haredi",
+      "lat": 31.806667,
+      "lon": 35.178889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FHaredi",
+      "id": "israel-8da74c19dce63a308842"
+    },
+    {
+      "name": "Belz",
+      "kind": "do",
+      "locality": "Jerusalem/Haredi",
+      "lat": 31.79699,
+      "lon": 35.20739,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FHaredi",
+      "id": "israel-d6ee5fe32ea2fe860e41"
+    },
+    {
+      "name": "(Ruzhin-)Boyan",
+      "kind": "do",
+      "locality": "Jerusalem/Haredi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FHaredi",
+      "id": "israel-dac8341a5ebbeec8a8f6"
+    },
+    {
+      "name": "Dushinsky",
+      "kind": "do",
+      "locality": "Jerusalem/Haredi",
+      "lat": 31.79211,
+      "lon": 35.22398,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FHaredi",
+      "id": "israel-de21fd3e72e7085b3008"
+    },
+    {
+      "name": "Toldos Avraham Yitzchak",
+      "kind": "do",
+      "locality": "Jerusalem/Haredi",
+      "lat": 31.78584,
+      "lon": 35.22383,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FHaredi",
+      "id": "israel-7412649c16e689ca7a09"
+    },
+    {
+      "name": "Toldos Aharon",
+      "kind": "do",
+      "locality": "Jerusalem/Haredi",
+      "lat": 31.78541,
+      "lon": 35.22491,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FHaredi",
+      "id": "israel-c193f41595dc143bccab"
+    },
+    {
+      "name": "Slonim",
+      "kind": "do",
+      "locality": "Jerusalem/Haredi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FHaredi",
+      "id": "israel-110060113f078bd4a4b7"
+    },
+    {
+      "name": "Spinka",
+      "kind": "do",
+      "locality": "Jerusalem/Haredi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FHaredi",
+      "id": "israel-6be32ea35a3a065ad83b"
+    },
+    {
+      "name": "Doctor Toast",
+      "kind": "eat",
+      "locality": "Jerusalem/Haredi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FHaredi",
+      "id": "israel-0fd16ccc8103920d9ac9"
+    },
+    {
+      "name": "Hadar Geulah",
+      "kind": "eat",
+      "locality": "Jerusalem/Haredi",
+      "lat": 31.7888,
+      "lon": 35.2169,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FHaredi",
+      "address": "Malchei Yisrael 13",
+      "id": "israel-b8bb7015bb453d915176"
+    },
+    {
+      "name": "Jerusalem/Haredi",
+      "kind": "area",
+      "locality": "Jerusalem/Haredi",
+      "lat": 31.793,
+      "lon": 35.2115,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FHaredi",
+      "id": "israel-7225d04ab838946a1660"
+    },
+    {
+      "name": "Church of the Visitation",
+      "kind": "do",
+      "locality": "Jerusalem/Ein Kerem",
+      "lat": 31.764583,
+      "lon": 35.157861,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEin_Kerem",
+      "id": "israel-e6be3b9c3528fb4fa768"
+    },
+    {
+      "name": "Church of Saint John",
+      "kind": "do",
+      "locality": "Jerusalem/Ein Kerem",
+      "lat": 31.768,
+      "lon": 35.163,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEin_Kerem",
+      "id": "israel-99525c5bc624a87f0b8b"
+    },
+    {
+      "name": "Gorny Convent",
+      "kind": "do",
+      "locality": "Jerusalem/Ein Kerem",
+      "lat": 31.763722,
+      "lon": 35.157639,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEin_Kerem",
+      "id": "israel-9fcd38bfd6d52daf6b9e"
+    },
+    {
+      "name": "Ein Kerem Wadi",
+      "kind": "do",
+      "locality": "Jerusalem/Ein Kerem",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEin_Kerem",
+      "id": "israel-b148c4479ae8e24c2f35"
+    },
+    {
+      "name": "Ein Kerem Youth Hostel",
+      "kind": "stay",
+      "locality": "Jerusalem/Ein Kerem",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEin_Kerem",
+      "id": "israel-63d6e6cb4a59f9f6a603"
+    },
+    {
+      "name": "Notre Dame De Sion Monastery and Guest House",
+      "kind": "stay",
+      "locality": "Jerusalem/Ein Kerem",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEin_Kerem",
+      "id": "israel-3375a9804ea854035ea2"
+    },
+    {
+      "name": "Ein Kerem Hotel",
+      "kind": "stay",
+      "locality": "Jerusalem/Ein Kerem",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEin_Kerem",
+      "address": "Kiryat Hadassah",
+      "url": "http://einkeremhotel.com-jerusalem.com/",
+      "id": "israel-a816162408a204496d92"
+    },
+    {
+      "name": "Rosary Sisters Ein Kerem Guest House",
+      "kind": "do",
+      "locality": "Jerusalem/Ein Kerem",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEin_Kerem",
+      "id": "israel-e8452a516831dfda68da"
+    },
+    {
+      "name": "Jerusalem/Ein Kerem",
+      "kind": "area",
+      "locality": "Jerusalem/Ein Kerem",
+      "lat": 31.7679,
+      "lon": 35.1637,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Jerusalem%2FEin_Kerem",
+      "id": "israel-8f4f0239454e25c07c19"
+    }
+  ],
+  "status": "partial",
+  "note": "Fetched 7 distinct public Wikivoyage source pages; attempted 8 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Coverage cap: Jerusalem: 1 additional linked subpages not fetched; Jerusalem: 1 additional linked subpages not fetched."
+}

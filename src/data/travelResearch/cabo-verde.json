@@ -1,0 +1,516 @@
+{
+  "sources": [
+    {
+      "title": "Cape Verde",
+      "url": "https://en.wikivoyage.org/wiki/Cape_Verde",
+      "checkedAt": "2026-10-21T08:09:04.425Z"
+    },
+    {
+      "title": "Praia",
+      "url": "https://en.wikivoyage.org/wiki/Praia",
+      "checkedAt": "2026-10-21T08:09:07.411Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Praia",
+      "kind": "area",
+      "locality": "Cape Verde",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Verde",
+      "id": "cabo-verde-88c9d447ce22d30eda3a"
+    },
+    {
+      "name": "Mindelo",
+      "kind": "area",
+      "locality": "Cape Verde",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Verde",
+      "id": "cabo-verde-8bf2cebaa1516207f0e7"
+    },
+    {
+      "name": "Cidade Velha",
+      "kind": "area",
+      "locality": "Cape Verde",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Verde",
+      "id": "cabo-verde-6d6d15e693e1258d13e2"
+    },
+    {
+      "name": "Espargos",
+      "kind": "area",
+      "locality": "Cape Verde",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Verde",
+      "id": "cabo-verde-352342a9acf33fd046a4"
+    },
+    {
+      "name": "Assomada",
+      "kind": "area",
+      "locality": "Cape Verde",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Verde",
+      "id": "cabo-verde-2832922657f5b24dbb90"
+    },
+    {
+      "name": "Santa Maria",
+      "kind": "area",
+      "locality": "Cape Verde",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Verde",
+      "id": "cabo-verde-7a7bfa8f4bba5422d6b2"
+    },
+    {
+      "name": "São Filipe",
+      "kind": "area",
+      "locality": "Cape Verde",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cape_Verde",
+      "id": "cabo-verde-eefaaeb6bf6e73830081"
+    },
+    {
+      "name": "Praia town hall",
+      "kind": "do",
+      "locality": "Praia",
+      "lat": 14.917112,
+      "lon": -23.509324,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "id": "cabo-verde-fd10ba4f58f9687c2389"
+    },
+    {
+      "name": "Praia Cathedral",
+      "kind": "do",
+      "locality": "Praia",
+      "lat": 14.917389,
+      "lon": -23.508751,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "id": "cabo-verde-e9593bb7a6a122b668d9"
+    },
+    {
+      "name": "Supreme Court",
+      "kind": "do",
+      "locality": "Praia",
+      "lat": 14.91771,
+      "lon": -23.508626,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "id": "cabo-verde-42e3e517e3dd541e8d2e"
+    },
+    {
+      "name": "Presidential Palace",
+      "kind": "do",
+      "locality": "Praia",
+      "lat": 14.91637,
+      "lon": -23.50922,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "id": "cabo-verde-d0ddf1a40e9694422a9d"
+    },
+    {
+      "name": "Quartel Jaime Mota",
+      "kind": "do",
+      "locality": "Praia",
+      "lat": 14.916,
+      "lon": -23.5083,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "id": "cabo-verde-218c5f7262389ab97a97"
+    },
+    {
+      "name": "Igreja do Nazareno",
+      "kind": "do",
+      "locality": "Praia",
+      "lat": 14.92146,
+      "lon": -23.50601,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "id": "cabo-verde-59cac471f05b07419640"
+    },
+    {
+      "name": "Palácio da Assembleia",
+      "kind": "do",
+      "locality": "Praia",
+      "lat": 14.906,
+      "lon": -23.5155,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "url": "http://www.parlamento.cv/",
+      "id": "cabo-verde-ac666e170a7949132ad8"
+    },
+    {
+      "name": "Praça Alexandre Albuquerque",
+      "kind": "do",
+      "locality": "Praia",
+      "lat": 14.9177,
+      "lon": -23.5091,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "id": "cabo-verde-98313dc17a1d5174be23"
+    },
+    {
+      "name": "Museu Etnográfico",
+      "kind": "do",
+      "locality": "Praia",
+      "lat": 14.921,
+      "lon": -23.5073,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "id": "cabo-verde-10b8b3de3c92c4e563c2"
+    },
+    {
+      "name": "Fundação Amílcar Cabral",
+      "kind": "do",
+      "locality": "Praia",
+      "lat": 14.91714,
+      "lon": -23.50793,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "id": "cabo-verde-e1b5d2255c9226d593eb"
+    },
+    {
+      "name": "Estado da Varzea",
+      "kind": "do",
+      "locality": "Praia",
+      "lat": 14.9162,
+      "lon": -23.5121,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "id": "cabo-verde-e299e8a95a23c2f6817b"
+    },
+    {
+      "name": "Praia de Gamboa",
+      "kind": "do",
+      "locality": "Praia",
+      "lat": 14.9117,
+      "lon": -23.5114,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "id": "cabo-verde-8cf81132b2dcf7231f31"
+    },
+    {
+      "name": "Ilhéu de Santa Maria",
+      "kind": "do",
+      "locality": "Praia",
+      "lat": 14.907,
+      "lon": -23.5072,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "id": "cabo-verde-74f6020a8fc083090432"
+    },
+    {
+      "name": "Cruz do Papa",
+      "kind": "do",
+      "locality": "Praia",
+      "lat": 14.90282,
+      "lon": -23.51341,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "id": "cabo-verde-13b30610475c9116cd69"
+    },
+    {
+      "name": "Diogo Gomes monument",
+      "kind": "do",
+      "locality": "Praia",
+      "lat": 14.91593,
+      "lon": -23.50966,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "id": "cabo-verde-190e93a5407e25e6db3b"
+    },
+    {
+      "name": "Praia de Quebra Canela",
+      "kind": "do",
+      "locality": "Praia",
+      "lat": 14.9043,
+      "lon": -23.5166,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "id": "cabo-verde-d8e7216f1dc46236dffd"
+    },
+    {
+      "name": "Praia de Prainha",
+      "kind": "do",
+      "locality": "Praia",
+      "lat": 14.9042,
+      "lon": -23.5118,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "id": "cabo-verde-af8aad4577b2a5857d66"
+    },
+    {
+      "name": "Praia da Gamboa",
+      "kind": "do",
+      "locality": "Praia",
+      "lat": 14.9109,
+      "lon": -23.5112,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "id": "cabo-verde-720e5082c995a979c07a"
+    },
+    {
+      "name": "Praia Negra",
+      "kind": "do",
+      "locality": "Praia",
+      "lat": 14.9172,
+      "lon": -23.5057,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "id": "cabo-verde-ed69c97a7ed437e185be"
+    },
+    {
+      "name": "Sovaco de Cobra",
+      "kind": "eat",
+      "locality": "Praia",
+      "lat": 14.9089,
+      "lon": -23.51798,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "url": "https://www.facebook.com/sovacodecobra20/",
+      "id": "cabo-verde-d72a2421be3f1ebbf3bc"
+    },
+    {
+      "name": "Café Sofia",
+      "kind": "eat",
+      "locality": "Praia",
+      "lat": 14.919648,
+      "lon": -23.507438,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "id": "cabo-verde-0dfb532628b50b9ec7ea"
+    },
+    {
+      "name": "Restaurante Punto D'Incontro",
+      "kind": "eat",
+      "locality": "Praia",
+      "lat": 14.9174,
+      "lon": -23.51263,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "address": "Avenida Cidade de Lisboa",
+      "url": "http://www.puntodincontro.cv/index.php/en/",
+      "id": "cabo-verde-642744bdbd1246028b68"
+    },
+    {
+      "name": "Restaurante Panorama",
+      "kind": "eat",
+      "locality": "Praia",
+      "lat": 14.91863,
+      "lon": -23.50798,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "address": "Rua Serpa Pinto",
+      "id": "cabo-verde-553f565fe1ae35d0213c"
+    },
+    {
+      "name": "Restaurante Flor de Liz",
+      "kind": "eat",
+      "locality": "Praia",
+      "lat": 14.91907,
+      "lon": -23.50831,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "address": "Rua 5 de Julho 43",
+      "id": "cabo-verde-56c204caf00934c7d129"
+    },
+    {
+      "name": "Churrasqueira Dragoeira",
+      "kind": "eat",
+      "locality": "Praia",
+      "lat": 14.90911,
+      "lon": -23.51937,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "address": "Achada S.Antonio",
+      "id": "cabo-verde-f1209d1c47fcdf7fc339"
+    },
+    {
+      "name": "Restaurante Marisqueira Rosita",
+      "kind": "eat",
+      "locality": "Praia",
+      "lat": 14.921,
+      "lon": -23.50807,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "address": "Hotel América",
+      "price": "500-2200$",
+      "id": "cabo-verde-f3040d884819bb4effda"
+    },
+    {
+      "name": "Churrasqueira Benfica",
+      "kind": "eat",
+      "locality": "Praia",
+      "lat": 14.90892,
+      "lon": -23.51983,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "address": "Achada S.Antonio",
+      "id": "cabo-verde-5347f68cb7c7ddf0149e"
+    },
+    {
+      "name": "Beramar Grill",
+      "kind": "eat",
+      "locality": "Praia",
+      "lat": 14.9143,
+      "lon": -23.5119,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "address": "Chã D’Areia",
+      "id": "cabo-verde-f3ba2eadd1917e31232d"
+    },
+    {
+      "name": "Restaurante Gamboa",
+      "kind": "eat",
+      "locality": "Praia",
+      "lat": 14.91077,
+      "lon": -23.51214,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "address": "Rua Dr Manuel Duarte",
+      "id": "cabo-verde-0acec8d9fdeedf7d7f2d"
+    },
+    {
+      "name": "O Poeta",
+      "kind": "eat",
+      "locality": "Praia",
+      "lat": 14.90732,
+      "lon": -23.51294,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "address": "Achada de Santo António",
+      "id": "cabo-verde-566be5b2edae5c99782b"
+    },
+    {
+      "name": "Restaurante Avis",
+      "kind": "eat",
+      "locality": "Praia",
+      "lat": 14.91971,
+      "lon": -23.5077,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "address": "Rua 5 de Julho",
+      "url": "https://restauranteavis.negocio.site/",
+      "id": "cabo-verde-73395dfe6229c79eb070"
+    },
+    {
+      "name": "Bar “Belavista”",
+      "kind": "eat",
+      "locality": "Praia",
+      "lat": 14.90299,
+      "lon": -23.51273,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "id": "cabo-verde-f74118c771f90fe73857"
+    },
+    {
+      "name": "Quintal da Música",
+      "kind": "eat",
+      "locality": "Praia",
+      "lat": 14.92136,
+      "lon": -23.5071,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "address": "Av. Amílcar Cabral 70-A",
+      "url": "https://facebook.com/quintaldamusica/",
+      "id": "cabo-verde-4cc19b02054562a1b44a"
+    },
+    {
+      "name": "Cockpit",
+      "kind": "eat",
+      "locality": "Praia",
+      "lat": 14.91727,
+      "lon": -23.49972,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "address": "Achada Grande.",
+      "url": "https://pt-br.facebook.com/pages/cockpit-cabo-verde/268249426539921",
+      "id": "cabo-verde-b25c3879617fa717358f"
+    },
+    {
+      "name": "Residencial Paraíso",
+      "kind": "stay",
+      "locality": "Praia",
+      "lat": 14.9243,
+      "lon": -23.5047,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "address": "Rua Serpa Pinto 73",
+      "price": "rates from €41",
+      "id": "cabo-verde-b452f056afff15a4b5f8"
+    },
+    {
+      "name": "Morabeza Kriol Hostel",
+      "kind": "stay",
+      "locality": "Praia",
+      "lat": 14.90904,
+      "lon": -23.5135,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "address": "21A Rua Chandadi, Achada de Santo Antonio",
+      "price": "€14-18",
+      "url": "https://www.facebook.com/hostelbbest/",
+      "id": "cabo-verde-b89de61121b83db57c6b"
+    },
+    {
+      "name": "Plateau Bedroom & Chambre",
+      "kind": "stay",
+      "locality": "Praia",
+      "lat": 14.92017,
+      "lon": -23.50698,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "address": "Rua Serpa Pinto 36",
+      "id": "cabo-verde-66c0eaae4d66e481c851"
+    },
+    {
+      "name": "Perola Hotel",
+      "kind": "stay",
+      "locality": "Praia",
+      "lat": 14.92376,
+      "lon": -23.50982,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "address": "Cha de Areia, Praia, Santiago 129A",
+      "price": "rates from €56",
+      "url": "http://www.hotelperola.cv/",
+      "id": "cabo-verde-df57f2c3c69c55057931"
+    },
+    {
+      "name": "Hotel Santa Maria",
+      "kind": "stay",
+      "locality": "Praia",
+      "lat": 14.91675,
+      "lon": -23.50936,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "address": "Rua Serpa Pinto, 35",
+      "price": "Single 4500$, double 5600$",
+      "url": "https://www.facebook.com/pages/Hotel-Santa-Maria/617194854975050",
+      "id": "cabo-verde-c383159b11de5478aad3"
+    },
+    {
+      "name": "Syd's Guesthouse and Café",
+      "kind": "stay",
+      "locality": "Praia",
+      "lat": 14.90488,
+      "lon": -23.51337,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "price": "$4279",
+      "url": "https://sydspraia.com/",
+      "id": "cabo-verde-b46945b8b0ec19acdf90"
+    },
+    {
+      "name": "Hotel Cesaria",
+      "kind": "stay",
+      "locality": "Praia",
+      "lat": 14.92621,
+      "lon": -23.50801,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "address": "Rua Che-Guevara",
+      "price": "$6000",
+      "url": "http://www.hotelcesaria.com/",
+      "id": "cabo-verde-035642b7a40b37d4eac0"
+    },
+    {
+      "name": "Sol Hotel",
+      "kind": "stay",
+      "locality": "Praia",
+      "lat": 14.90907,
+      "lon": -23.51858,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "price": "$5116",
+      "url": "https://solhotel.cv/",
+      "id": "cabo-verde-ffb390fc0c44a013fa4e"
+    },
+    {
+      "name": "Pestana Trópico",
+      "kind": "stay",
+      "locality": "Praia",
+      "lat": 14.9067,
+      "lon": -23.5109,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "address": "Caixa Postal 413 Cidade da Praia Cabo Verde",
+      "price": "rates from €113",
+      "url": "http://www.pestana.com/hotels/en/hotels/africa/CapeVerdeHotels/Tropico/Home/PestanaTropico.htm",
+      "id": "cabo-verde-6b3525d5878adcb82153"
+    },
+    {
+      "name": "Oásis Atlântico Praiamar",
+      "kind": "stay",
+      "locality": "Praia",
+      "lat": 14.9026,
+      "lon": -23.5127,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "address": "Prainha, Cidade da Praia, Ilha de Santiago",
+      "price": "rates from €100",
+      "url": "http://www.oasisatlantico.com/",
+      "id": "cabo-verde-f2a4afe43c83a9b52261"
+    },
+    {
+      "name": "Praia",
+      "kind": "area",
+      "locality": "Praia",
+      "lat": 14.916667,
+      "lon": -23.516667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Praia",
+      "id": "cabo-verde-e5e4f28383f31ea49bef"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

@@ -1,0 +1,1790 @@
+{
+  "sources": [
+    {
+      "title": "Georgia (country)",
+      "url": "https://en.wikivoyage.org/wiki/Georgia_(country)",
+      "checkedAt": "2026-10-21T08:09:47.725Z"
+    },
+    {
+      "title": "Tbilisi",
+      "url": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "checkedAt": "2026-10-21T08:09:50.627Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Tbilisi",
+      "kind": "area",
+      "locality": "Georgia (country)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgia_(country)",
+      "id": "georgia-186d8d3a84a0492fab74"
+    },
+    {
+      "name": "Akhaltsikhe",
+      "kind": "area",
+      "locality": "Georgia (country)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgia_(country)",
+      "id": "georgia-1980751f673c16ecda73"
+    },
+    {
+      "name": "Batumi",
+      "kind": "area",
+      "locality": "Georgia (country)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgia_(country)",
+      "id": "georgia-0118c27925e63b02f5b6"
+    },
+    {
+      "name": "Borjomi",
+      "kind": "area",
+      "locality": "Georgia (country)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgia_(country)",
+      "id": "georgia-521837b2f77fbcc9d9f2"
+    },
+    {
+      "name": "Gori",
+      "kind": "area",
+      "locality": "Georgia (country)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgia_(country)",
+      "id": "georgia-5e1634adc577386a58e2"
+    },
+    {
+      "name": "Kutaisi",
+      "kind": "area",
+      "locality": "Georgia (country)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgia_(country)",
+      "id": "georgia-f1d28467964dffbd459f"
+    },
+    {
+      "name": "Mtskheta",
+      "kind": "area",
+      "locality": "Georgia (country)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgia_(country)",
+      "id": "georgia-ba5ac4b38e805fd12cb9"
+    },
+    {
+      "name": "Sighnaghi",
+      "kind": "area",
+      "locality": "Georgia (country)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgia_(country)",
+      "id": "georgia-a5266432873de6880e9d"
+    },
+    {
+      "name": "Telavi",
+      "kind": "area",
+      "locality": "Georgia (country)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgia_(country)",
+      "id": "georgia-c9643f39b71de4287f9a"
+    },
+    {
+      "name": "Open Air Museum of Ethnography",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.702,
+      "lon": 44.743,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Kus Tba 1 (1 Turtle Lake Road, Tortoise pond lane) კუსტბის გზა #1)",
+      "price": "Adults 25 lari, guided tour 60 lari",
+      "url": "http://museum.ge/index.php?lang_id=ENG&sec_id=46",
+      "id": "georgia-51acc22810410390e1b8"
+    },
+    {
+      "name": "Museum of Fine Arts",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.69512,
+      "lon": 44.80209,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "1 Gudiashvili Street",
+      "price": "Adults 3 lari, students 1 lari",
+      "url": "http://www.finearts.ge/en",
+      "id": "georgia-425e4cfa23a841e6293c"
+    },
+    {
+      "name": "Tbilisi History Museum",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.69086,
+      "lon": 44.8077,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "#8 Sioni St",
+      "price": "Adults 3 lari, students 1 lari",
+      "url": "http://museum.ge/index.php?lang_id=ENG&sec_id=47",
+      "id": "georgia-117790f96a8989e30f16"
+    },
+    {
+      "name": "Museum of Georgia",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.69605,
+      "lon": 44.80026,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "3 Shota Rustaveli avenue",
+      "price": "Adults 7 lari, students 1 lari, guided tour in English 45 lari",
+      "url": "http://museum.ge/",
+      "id": "georgia-87182e70015819f5c051"
+    },
+    {
+      "name": "Puppet Museum",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.69624,
+      "lon": 44.80698,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "17 Shavteli N St",
+      "price": "Adults 3 lari; children 1 lari",
+      "id": "georgia-017c5e6afb271e2fe685"
+    },
+    {
+      "name": "Galaktion Tabidze Museum",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.70862,
+      "lon": 44.79418,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Marjanishvili N 4",
+      "id": "georgia-cc7cc0318a2f2f56468d"
+    },
+    {
+      "name": "Tbilisi Art Gallery",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.6982,
+      "lon": 44.7988,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "11 Shota Rustaveli Av",
+      "price": "Adult 7 lari",
+      "url": "http://museum.ge/index.php?m=2",
+      "id": "georgia-4257123b04567742083f"
+    },
+    {
+      "name": "State Academy of Arts",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "3 Gudiashvili Street",
+      "id": "georgia-2a3313b732aff0d3fa12"
+    },
+    {
+      "name": "Jewish History Museum",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "3 St. Anton Catholicos",
+      "id": "georgia-179fc4c6e2c067520de5"
+    },
+    {
+      "name": "U. Japaridze House-Museum",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.70997,
+      "lon": 44.78182,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Shio Mghvimeli St, #2",
+      "price": "Adult 3 lari",
+      "id": "georgia-c60c886d37768a1c8975"
+    },
+    {
+      "name": "E. Akhvlediani House-Museum",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.70578,
+      "lon": 44.79052,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "12 Leo Kiacheli St.",
+      "price": "Adult 3 lari, student 1 lari",
+      "id": "georgia-2682d7e57c093dd27a26"
+    },
+    {
+      "name": "Open air carriage exhibition",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Zviad Gamsakhurdia Named Right Bank",
+      "price": "Free",
+      "id": "georgia-8fe82d2b0a83a0d3081b"
+    },
+    {
+      "name": "Writer's House of Georgia",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.6901,
+      "lon": 44.7998,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Ivane Machabeli street 13",
+      "price": "5 GEL",
+      "url": "https://writershouse.ge/index.php?m=2&lng=eng",
+      "id": "georgia-f79f8e8414f92efbc2bc"
+    },
+    {
+      "name": "Mamadaviti",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.69601,
+      "lon": 44.78903,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Mtatsminda Pantheon",
+      "id": "georgia-d3e1c2bf457b0dc836aa"
+    },
+    {
+      "name": "Sioni Church",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.691389,
+      "lon": 44.8075,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Sioni street (სიონის ქ.) #6",
+      "id": "georgia-d33c58e32bd55ec13727"
+    },
+    {
+      "name": "Sameba Cathedral",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.6975,
+      "lon": 44.816667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Samreklo Street",
+      "id": "georgia-d97d333474d29eed865d"
+    },
+    {
+      "name": "Metekhi Church (\"Church of Assumption\")",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.69013,
+      "lon": 44.81129,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Metekhis Rise (მეტეხის აღმართი)",
+      "id": "georgia-e22f91a53ff401522c9d"
+    },
+    {
+      "name": "Ascension Catholic Church of the Virgin Mary?",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.69269,
+      "lon": 44.80349,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Gia Abesadze St (აბესაძის ქ.) #6",
+      "id": "georgia-89f3cdae186e8c635fca"
+    },
+    {
+      "name": "Anchiskhati (\"Basilica of St. Mary\")",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.695434,
+      "lon": 44.806848,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Ioane Shavteli St, 18",
+      "id": "georgia-ad4f3e34347ceeaf23ea"
+    },
+    {
+      "name": "Narikala Church",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.68783,
+      "lon": 44.8092,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Orbiri St",
+      "id": "georgia-0b9ac4c85c7496052177"
+    },
+    {
+      "name": "Kashveti Church of St. George",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.697954,
+      "lon": 44.799324,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Shota Rustaveli Avenue (შოთა რუსთაველის გამზ) #9",
+      "id": "georgia-bd92fffb8672917a1498"
+    },
+    {
+      "name": "Synagogue",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.68994,
+      "lon": 44.80729,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "K. Leselidze street, 4? or Abkhazians Street.(კ. აფხაზის ქ.) #41",
+      "id": "georgia-824fd13901fe81515b0d"
+    },
+    {
+      "name": "Jumah Mosque",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.6872,
+      "lon": 44.81018,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Botanikuri (Abanotubani, ბოტანიკურის ქ.) #32",
+      "id": "georgia-81df99f19d793ee126c3"
+    },
+    {
+      "name": "Holy Trinity Church",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.69664,
+      "lon": 44.80184,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Erosi Manjgaladze Turn, Abashidze Street (აბაშიძის ქ.) # 4",
+      "id": "georgia-3f37db86787ea4abbdcb"
+    },
+    {
+      "name": "Alex. Nevskiy Orthodox Church",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.71133,
+      "lon": 44.80106,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Marjanishvili Street, ~53",
+      "id": "georgia-258c4bc69773f9862587"
+    },
+    {
+      "name": "Armenian Cathedral of S. Gevorg",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.689252,
+      "lon": 44.808849,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "5 Samghebro St.",
+      "price": "free",
+      "url": "http://armenianchurch.ge/",
+      "id": "georgia-3133bcf953f4c3c2465d"
+    },
+    {
+      "name": "Norashen Armenian Church",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.691008,
+      "lon": 44.806479,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Afkhazi Street",
+      "id": "georgia-80318a9f447e900fe581"
+    },
+    {
+      "name": "Church of Fathers' Cross?",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Abkhazians Street.(კ. აფხაზის ქ.) # 42",
+      "id": "georgia-383e4677c37439730e8f"
+    },
+    {
+      "name": "Upper and Lower Bethlehem churches",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "id": "georgia-0bf6b214c238e4d1fff2"
+    },
+    {
+      "name": "George Church",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Bethlehem Street (ბეთლემის ქ.) #7",
+      "id": "georgia-b4f249922b9369e0c578"
+    },
+    {
+      "name": "Michael Tvereli church",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Zaldastanishvili Street (ს. ზალდასტანიშვილის ქ.) #38",
+      "id": "georgia-7893ffd00bb4d1e4e85d"
+    },
+    {
+      "name": "Echmiadzin Armenian Church",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.692599,
+      "lon": 44.81372,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "price": "free",
+      "url": "http://armenianchurch.ge/",
+      "id": "georgia-0873777ba1b586b0b815"
+    },
+    {
+      "name": "Vank Armenian Monastery Belltower",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.697373,
+      "lon": 44.8057,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "3 Atoneli Street",
+      "id": "georgia-dab66c5bd6606e8e3217"
+    },
+    {
+      "name": "Chronicle of Georgia",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.770628,
+      "lon": 44.810611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "id": "georgia-f5ce211ebf94a05092c8"
+    },
+    {
+      "name": "Mother Georgia Monument",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Sololakis Alley (სოლოლაკის ხეივანი)",
+      "id": "georgia-ab7f2c17d7acfcb80e20"
+    },
+    {
+      "name": "Mtatsminda Pantheon of Writers and Public Figures",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.69588,
+      "lon": 44.78889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "id": "georgia-63ebfd4baccf43293689"
+    },
+    {
+      "name": "Old Tbilisi",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.692778,
+      "lon": 44.806389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "id": "georgia-e04fb7f42a2597a9829a"
+    },
+    {
+      "name": "Vake Park Area",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.71009,
+      "lon": 44.75045,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "around Chavchavadze and Abashidze avenues",
+      "id": "georgia-07943427000cd8681f27"
+    },
+    {
+      "name": "Shota Rustaveli monument",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.70388,
+      "lon": 44.78987,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "- Shota Rustaveli Square (შოთა რუსთაველის მოედანი)",
+      "id": "georgia-f64a4791d65796edf50f"
+    },
+    {
+      "name": "Gudiashvili monument",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.6986,
+      "lon": 44.8,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "- April 9 Garden (9 აპრილის ბაღი)",
+      "id": "georgia-3d3787b73c412500502a"
+    },
+    {
+      "name": "Ietim Gurji monument",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Right bank (მტკვრის მარჯვენა სანაპირო)",
+      "id": "georgia-7fbf2601cab4483244bf"
+    },
+    {
+      "name": "Georgian National Academy of Sciences",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.703056,
+      "lon": 44.790833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Shota Rustaveli Ave. (შოთა რუსთაველის გამზ), #48 / Rustaveli Square",
+      "url": "http://science.org.ge/",
+      "id": "georgia-81e6c074e2a8068d1bf4"
+    },
+    {
+      "name": "City Hall",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.725917,
+      "lon": 44.775194,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Freedom square (Tavisupleba square, თავისუფლების მოედანი), 2",
+      "id": "georgia-91216fde55dcadf5d488"
+    },
+    {
+      "name": "National Bank of Georgia",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Leonidze Street.(ლეონიძის ქ.) № 3/5",
+      "id": "georgia-bed46e2967a93c9f5d13"
+    },
+    {
+      "name": "Georgian National Youth Palace",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Shota Rustaveli Ave. #6",
+      "id": "georgia-c8303acedff6daf03e06"
+    },
+    {
+      "name": "Parliament",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Shota Rustaveli Ave.(შოთა რუსთაველის გამზ) #8",
+      "id": "georgia-f5b19e63c90dd674762c"
+    },
+    {
+      "name": "Presidential Palace",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.6955,
+      "lon": 44.81126,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "M. Abdushevelli 1",
+      "url": "http://president.gov.ge/ge/",
+      "id": "georgia-b69b67241bdfe14f3436"
+    },
+    {
+      "name": "House of Melik-Azaryants",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.7034,
+      "lon": 44.7912,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "- Shota Rustaveli Ave.(შოთა რუსთაველის გამზ.) #37",
+      "id": "georgia-98da1b2788e7eb21ac75"
+    },
+    {
+      "name": "House of the Officers",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.6992,
+      "lon": 44.7968,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "- Shota Rustaveli Ave. #16",
+      "id": "georgia-1db5989841fb9cadba6f"
+    },
+    {
+      "name": "Theatre and Film University",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.70002,
+      "lon": 44.79703,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "- Shota Rustaveli Ave. #19",
+      "id": "georgia-06eb4303c7d3b103e2b2"
+    },
+    {
+      "name": "Library of the Parliament",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.6959,
+      "lon": 44.8015,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Lado Gudiashvili Street. (ლ. გუდიაშვილის ქ.) #3",
+      "id": "georgia-87e6c326da47910c74c0"
+    },
+    {
+      "name": "Caucasian House",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.6905,
+      "lon": 44.8015,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Galaktion Tabidze Street.(გალაკტიონის ქ.) #20",
+      "id": "georgia-7e61f49c45f1448b5be0"
+    },
+    {
+      "name": "Government Chancellery",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.6959,
+      "lon": 44.7958,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "P. Ingorokva Street.(პ. ინგოროყვას ქ.) #7",
+      "id": "georgia-ab644f70d04f74bedae7"
+    },
+    {
+      "name": "House of Writers",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "I l According Street (ი. მაჩაბლის ქ.) #11",
+      "id": "georgia-82e7ed29f90d98b39e00"
+    },
+    {
+      "name": "Sulphur Baths",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.6879,
+      "lon": 44.8112,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Bath Street (აბანოს ქუჩა)",
+      "price": "Private pool: 50–200 lari/hr; massage/scrub 5–20 lari",
+      "id": "georgia-a18e8cd97625e7e1170e"
+    },
+    {
+      "name": "Bath No. 5",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.688769,
+      "lon": 44.811347,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "4 Mirza Fatali Akhudovi",
+      "price": "10 lari men, 6 lari women",
+      "id": "georgia-7a6206c58d1951c82aae"
+    },
+    {
+      "name": "Turtle Lake (Kus T'ba)",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.70023,
+      "lon": 44.75437,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "id": "georgia-b5387cd6dc5c54fb0e4c"
+    },
+    {
+      "name": "Lake Lisi (Lisis T'ba)",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.6857,
+      "lon": 44.73912,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Reservoir Road",
+      "id": "georgia-10678f66f871dd506af6"
+    },
+    {
+      "name": "Climb up to the Narikala Fortress",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.68782,
+      "lon": 44.80878,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "id": "georgia-aabb9a25869ea1ad63a6"
+    },
+    {
+      "name": "Botanical garden",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.68567,
+      "lon": 44.80332,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Botanikuri str. N1",
+      "price": "4 lari (adults)",
+      "url": "http://nbgg.ge/",
+      "id": "georgia-0d10c065e4451576ffe4"
+    },
+    {
+      "name": "Mtatsminda park",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.6958,
+      "lon": 44.78632,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "url": "http://www.park.ge/",
+      "id": "georgia-86605297f8275409e113"
+    },
+    {
+      "name": "Alexander's Garden",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.69927,
+      "lon": 44.80144,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Dry Bridge Area (მშრალი ხიდი)",
+      "id": "georgia-26ef87281d5713c47f84"
+    },
+    {
+      "name": "Vake Swimming Pool",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.71211,
+      "lon": 44.7445,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Chavchavadze Avenue (ჭავჭავაძის გამზირი)",
+      "id": "georgia-f5b2ea4c715ff8aecc70"
+    },
+    {
+      "name": "Paragliding around Tbilisi",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "url": "https://flyzone.ge/",
+      "id": "georgia-718567999930af192963"
+    },
+    {
+      "name": "Alexander Griboedov Russian State Drama Theatre",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.6943,
+      "lon": 44.7996,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Rustaveli Av. 2",
+      "id": "georgia-89214f3fdaf2cd0c0539"
+    },
+    {
+      "name": "Gabriadze Theatre",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.69584,
+      "lon": 44.80656,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Shavteli 13",
+      "id": "georgia-4542030bbe4c3252ecd7"
+    },
+    {
+      "name": "Tbilisi Opera and Ballet State Theatre",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.70107,
+      "lon": 44.79636,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Rustaveli Avenue (შოთა რუსთაველის გამზ.), 25",
+      "url": "http://opera.ge/Home.aspx?lang=en-US",
+      "id": "georgia-8e5ca01fab1bd46f408b"
+    },
+    {
+      "name": "Rustaveli National Theater",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.69961,
+      "lon": 44.79783,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Rustaveli Avenue (შოთა რუსთაველის გამზ.), 17",
+      "id": "georgia-6e14d1c1ebc19df2a723"
+    },
+    {
+      "name": "Cinema Rustaveli",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.69677,
+      "lon": 44.79973,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Shota Rustaveli Ave.(შოთა რუსთაველის გამზ) #5",
+      "id": "georgia-d0ef039b4c6541ad33dc"
+    },
+    {
+      "name": "Tbilisi State Conservatory",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "lat": 41.69938,
+      "lon": 44.7953,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Al.Griboyedov Street. (ალ. გრიბოედოვის ქ.) #8-10",
+      "id": "georgia-11c3844a3efed6fbe3b2"
+    },
+    {
+      "name": "Tbilisi Marathon",
+      "kind": "do",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "price": "Participation fee 10 lari/10 km and 15 lari/Half marathon",
+      "url": "http://www.tbilisimarathon.ge/",
+      "id": "georgia-65660cff796549cb9023"
+    },
+    {
+      "name": "Kiwi Vegan Cafe",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.691841,
+      "lon": 44.80001,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "6 Ivane Machabeli St",
+      "price": "4-7 lari (Dec 2017)",
+      "url": "https://www.facebook.com/kiwi.vegan.cafe",
+      "id": "georgia-589713496ac1c5338b59"
+    },
+    {
+      "name": "Racha",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.6912634,
+      "lon": 44.8023712,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "4 Mikheil Lermontovi St",
+      "id": "georgia-bf5e21794967a496eb49"
+    },
+    {
+      "name": "Veliaminov",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.6924153,
+      "lon": 44.8022629,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "8 Shalva Dadiani St",
+      "id": "georgia-64abb49a18f0bf72999e"
+    },
+    {
+      "name": "Family kitchen",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.6929568,
+      "lon": 44.8006197,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "1 Giorgi Leonidze St",
+      "id": "georgia-f209589e696536cfd59d"
+    },
+    {
+      "name": "Good Mood Food",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.6931691,
+      "lon": 44.8029351,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "1، Kote Afkhazi St",
+      "id": "georgia-6e55a4e3bcd667620d2b"
+    },
+    {
+      "name": "Tom Yum Thai Food",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.689436,
+      "lon": 44.798657,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Lado Asatiani 48",
+      "id": "georgia-adc99d1b43a17be96252"
+    },
+    {
+      "name": "Shawarma",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.69019,
+      "lon": 44.80795,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "price": "10 lari for a \"small\" (quite big) shawarma",
+      "id": "georgia-012b27cf22ad2a6b79b5"
+    },
+    {
+      "name": "Fire Wok Dadiani",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.69099,
+      "lon": 44.80228,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "20 Shalva Dadiani St",
+      "price": "10–15 lari for a noodle box",
+      "id": "georgia-8778f888812d4c58b75b"
+    },
+    {
+      "name": "Klike's Khinkali",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.69537,
+      "lon": 44.79592,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "1 Shio Chitadze St",
+      "price": "1–2 lari per dumpling",
+      "id": "georgia-2fdf5ea0110faf1c10f0"
+    },
+    {
+      "name": "Joker Shaurma",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.7510202,
+      "lon": 44.7788331,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Транспортная ул.4",
+      "id": "georgia-bdd6b201b49091276609"
+    },
+    {
+      "name": "Dzveli Sakhli Restaurant (Old House)",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.70222,
+      "lon": 44.80068,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "3 Mtkvris Marjvena Sanapiro",
+      "id": "georgia-b14b0558b790f7fd9635"
+    },
+    {
+      "name": "Cafe Gabriadze",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.69529,
+      "lon": 44.80674,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Shavtelis Qucha",
+      "id": "georgia-3065219eac220b70f503"
+    },
+    {
+      "name": "Kala",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.69198,
+      "lon": 44.80691,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "8/10 Erekle II St",
+      "url": "http://www.kala.ge/",
+      "id": "georgia-34da1454ad0962d84ffc"
+    },
+    {
+      "name": "Khinkali House",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.70357,
+      "lon": 44.79106,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "37 Shota Rustaveli Ave",
+      "id": "georgia-e275917f525db94ac68c"
+    },
+    {
+      "name": "Cafe Flowers",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.69433,
+      "lon": 44.815,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Avlabari Ascent",
+      "price": "30 lari",
+      "id": "georgia-9ec1cdca4b3fbafdbcf3"
+    },
+    {
+      "name": "Cafe Leila",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.69548,
+      "lon": 44.80643,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Ioane Shavteli Str.18",
+      "price": "10-12 lari",
+      "url": "https://www.facebook.com/Cafe-Leila-%E1%83%99%E1%83%90%E1%83%A4%E1%83%94-%E1%83%9A%E1%83%94%E1%83%98%E1%83%9A%E1%83%90-1519161304994687/",
+      "id": "georgia-60e5f1e97c36e887cade"
+    },
+    {
+      "name": "Multifunctional Space - Theatre",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.776113,
+      "lon": 44.77946,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "99 Akaki Beliashvili St",
+      "url": "https://teatri.ge/",
+      "id": "georgia-de87e6a37cb1845fcebd"
+    },
+    {
+      "name": "Tsiskvili",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.776113,
+      "lon": 44.77946,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "99 Akaki Beliashvili St",
+      "url": "https://tsiskvili.ge/",
+      "id": "georgia-efb1eba4bc84915f3a9e"
+    },
+    {
+      "name": "Picasso Restaurant",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.706432,
+      "lon": 44.788504,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "6 Roman Miminoshvili St",
+      "id": "georgia-0e606f5cfa9b8d4c0c4c"
+    },
+    {
+      "name": "New Asia Restaurant",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.70158,
+      "lon": 44.79317,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "11/5 Alexander Griboedov St",
+      "id": "georgia-772a20cfbcd228b5f4a0"
+    },
+    {
+      "name": "Shandiz Restaurant",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.69599,
+      "lon": 44.80637,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "13 Ioane Shavteli St",
+      "url": "https://shandiz.ge/",
+      "id": "georgia-03f987019ed03caa6555"
+    },
+    {
+      "name": "Baan Thai",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.70243,
+      "lon": 44.79626,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "4 Tabukashvili St",
+      "price": "10-15 lari",
+      "id": "georgia-065aa76875f0fe62d248"
+    },
+    {
+      "name": "Cafe Canape",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.70703,
+      "lon": 44.771603,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "14 Irakli Abashidze Street",
+      "id": "georgia-b1d7c37a42f19aef50c2"
+    },
+    {
+      "name": "Obrigado Tasco",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.72473,
+      "lon": 44.78921,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "4b Akaki Tsereteli Ave",
+      "id": "georgia-14749ef5361d27b6cdfb"
+    },
+    {
+      "name": "Ronny's Pizza",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.727787,
+      "lon": 44.766362,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "3 Vaja Pshavelas",
+      "url": "http://www.ronnyspizza.com/",
+      "id": "georgia-ae6910765c79971266ed"
+    },
+    {
+      "name": "Fiorino",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.7229451,
+      "lon": 44.7775282,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "77 Kostava St. - Saakadze square",
+      "id": "georgia-77b8adbf5697b67db91c"
+    },
+    {
+      "name": "Prego",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Three locations (Saburtalo, intersection of Vazha-Pshavela and Pekini St.; Vake, on Paliashvili, just below the round (UN) garden and the third in the old town, Erekle II st.)",
+      "id": "georgia-b7079325ad3a358d6bb9"
+    },
+    {
+      "name": "Piano",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.6913362,
+      "lon": 44.8012557,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Tabidze Street (right next to People's)",
+      "id": "georgia-bf60891d0ea17e1eea4d"
+    },
+    {
+      "name": "Prospero's Bookstore and Caliban's Coffehouse",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "34 Rustaveli Ave",
+      "id": "georgia-0c64833daa945fffb9d1"
+    },
+    {
+      "name": "Old City Wall",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.6957725,
+      "lon": 44.8031875,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "2 Shota Nishnianidze St",
+      "id": "georgia-c82589c5351d5e4ff712"
+    },
+    {
+      "name": "Strada",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.70824,
+      "lon": 44.79467,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "5 Kote Marjanishvili St",
+      "price": "25–60 lari mains",
+      "url": "https://www.stradacafe.ge/home",
+      "id": "georgia-6e2a0a79e974ac17c31d"
+    },
+    {
+      "name": "Rigi Gastrodouqan",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.70231,
+      "lon": 44.80493,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Saarbrucken Square 2/7",
+      "price": "25–70 lari mains",
+      "url": "https://rigidouqan.ge/?lang=en&page=douqan",
+      "id": "georgia-eaf8532ccdf85061db7a"
+    },
+    {
+      "name": "Ninia's Garden",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.71163,
+      "lon": 44.79328,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "97 Dimitri Uznadze St",
+      "price": "25–45 lari mains",
+      "id": "georgia-95f6bba9f584dc1c73f4"
+    },
+    {
+      "name": "Fabrika courtyard",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.70909,
+      "lon": 44.80293,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "8 Egnate Ninoshvili St",
+      "id": "georgia-9fd3e9ad9b93f911ac8e"
+    },
+    {
+      "name": "Wine Factory N1",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.70828,
+      "lon": 44.78037,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "1 Vasil Petriashvili Street",
+      "id": "georgia-5d5b6d008745e13052f7"
+    },
+    {
+      "name": "Meoba Bar",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.71684,
+      "lon": 44.79748,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "4 Constitution St",
+      "id": "georgia-e15d9b4c92e06dafd700"
+    },
+    {
+      "name": "Lolita",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.70566,
+      "lon": 44.78698,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "7 Tamar Chovelidze St",
+      "id": "georgia-8c14184cf90a9ddc12f8"
+    },
+    {
+      "name": "41 Gradus",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "19 Galaktion Tabidze St",
+      "price": "Cocktail 15 lari",
+      "url": "http://41gradus.com/",
+      "id": "georgia-b0101290547a6f18ede4"
+    },
+    {
+      "name": "Alibi Room",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Akhvlediani, 20",
+      "price": "Chacha 1 lari, beer 2 lari",
+      "url": "https://m.facebook.com/alibiroomthe/",
+      "id": "georgia-c2c0f0c71a005e65c52f"
+    },
+    {
+      "name": "Dublin",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.705269,
+      "lon": 44.790385,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "8 Akhvlediani St",
+      "price": "30 lari",
+      "id": "georgia-eff0c9a036c70c394ebc"
+    },
+    {
+      "name": "Over Bar",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.706513824017,
+      "lon": 44.789043057719,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "5 Vashlovani St",
+      "id": "georgia-5b602776b15d38f3b462"
+    },
+    {
+      "name": "Gallery Café",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.7025968,
+      "lon": 44.7919159,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "id": "georgia-0d7c334280b64be8c225"
+    },
+    {
+      "name": "Hangar Bar",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.69536,
+      "lon": 44.80647,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Irakli II Street (ერეკლე II ქუჩა)",
+      "url": "http://www.thehangar.biz/",
+      "id": "georgia-648f9c72600af728c113"
+    },
+    {
+      "name": "Kazbegi Beer",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.69363,
+      "lon": 44.80162,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "68a Dimitri Uznadze street 0112",
+      "price": "2 lari per litre",
+      "id": "georgia-f4126abe6c36bf6b2ab7"
+    },
+    {
+      "name": "Mozaika",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.7061605,
+      "lon": 44.7891555,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "id": "georgia-8dd255f0047181427c8c"
+    },
+    {
+      "name": "Old London",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.705146,
+      "lon": 44.790456,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "6 Akhvlediani St",
+      "id": "georgia-0a6003b45f03493c0e90"
+    },
+    {
+      "name": "Sakhelosno",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "28 Kote Afkhazi St",
+      "url": "https://m.facebook.com/SakhelosnoBAR/",
+      "id": "georgia-ab93b7904b1be51d254a"
+    },
+    {
+      "name": "Singer",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.69077,
+      "lon": 44.80769,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "price": "Mulled wine 8 lari",
+      "id": "georgia-85cc130f843e1b029484"
+    },
+    {
+      "name": "Success bar",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.70603,
+      "lon": 44.788574,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "url": "http://www.facebook.com/successbar2017",
+      "id": "georgia-fdeefa351f903b0b39a0"
+    },
+    {
+      "name": "Warszawa bar",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.69502,
+      "lon": 44.80249,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "price": "2-6 lari",
+      "id": "georgia-9c3412278077be755922"
+    },
+    {
+      "name": "Althaus Tea",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.70147,
+      "lon": 44.7955,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "id": "georgia-7aa3f1ea22676c57cce0"
+    },
+    {
+      "name": "Laghidze Waters",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "53 Davit Aghmashenebeli Avenue",
+      "id": "georgia-8b3f8f2e2b135030fb5d"
+    },
+    {
+      "name": "Minimalist",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.7004097,
+      "lon": 44.7986395,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "21 Revaz Tabukashvili",
+      "url": "http://minimalist.fotografia.ge/",
+      "id": "georgia-5460dd8ff76fe926f20d"
+    },
+    {
+      "name": "Unity Kava",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.69112,
+      "lon": 44.80217,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "20 Shalva Dadiani St",
+      "id": "georgia-e99de9ba580838602223"
+    },
+    {
+      "name": "Plant Lovers Tbilisi",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.69548,
+      "lon": 44.79433,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "4a Niaghvari St",
+      "id": "georgia-ea5a4234ba873008cbac"
+    },
+    {
+      "name": "Museum Cafe",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.69741,
+      "lon": 44.79942,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "url": "http://www.finearts.ge/en/space",
+      "id": "georgia-d79216618ae23102bfb7"
+    },
+    {
+      "name": "Bassiani",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.7227728,
+      "lon": 44.7908222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "2 Akaki Tsereteli Ave",
+      "price": "30 lari entry (if the bouncer lets you in)",
+      "url": "https://bassiani.com/",
+      "id": "georgia-9765473e8844b5f5d694"
+    },
+    {
+      "name": "Buddha Bar",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Rikhe,",
+      "id": "georgia-e8373f3ce265c8feed1b"
+    },
+    {
+      "name": "Cubic",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "45 Kostava Str",
+      "price": "Entrance: 30 lari",
+      "id": "georgia-d99e7bfb7d66be48b3f4"
+    },
+    {
+      "name": "Drama Bar",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.7035853,
+      "lon": 44.7911018,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "37",
+      "url": "https://www.facebook.com/dramatbilisi/",
+      "id": "georgia-462b1c924f49d7bf1204"
+    },
+    {
+      "name": "Guru Club",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "12 Rustaveli Ave",
+      "url": "http://www.myspace.com/gurunightclub",
+      "id": "georgia-e9183487c2eab3da99b7"
+    },
+    {
+      "name": "KalaKuri Restaurant/Club",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "13 Shavteli St",
+      "id": "georgia-21bda92ca125a121848b"
+    },
+    {
+      "name": "KHIDI",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "lat": 41.725067,
+      "lon": 44.78118,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "url": "https://www.khidi.ge/",
+      "id": "georgia-df98c3b231ac7a6ffafb"
+    },
+    {
+      "name": "Night Flight",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Baratashvili Street",
+      "price": "Entrance: 30 lari",
+      "id": "georgia-4df84cf32cc7869160bd"
+    },
+    {
+      "name": "Numisi Cellar Museum",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "url": "https://www.facebook.com/numisi/",
+      "id": "georgia-9bcda573135a2696e474"
+    },
+    {
+      "name": "Winery Khareba",
+      "kind": "eat",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "url": "http://winery-khareba.com/en",
+      "id": "georgia-16008e42797f3acc619c"
+    },
+    {
+      "name": "George Apartment",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "lat": 41.70747,
+      "lon": 44.80232,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Intersection Tsinamdzgvrishvili Street ~53 and Giorgi Mazniashvili St",
+      "url": "https://george-apartment.business.site/",
+      "id": "georgia-efe8bf34738d85ec5b23"
+    },
+    {
+      "name": "Backpackers Hostel",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "lat": 41.69053,
+      "lon": 44.79943,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "no.11, Machabeli St. Old Tbilisi district",
+      "price": "Dorms 8/18 lari in off-/high-season",
+      "id": "georgia-53e9336d1f15275ce9ca"
+    },
+    {
+      "name": "Boombully Rooms & Hostel",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "lat": 41.70019,
+      "lon": 44.79584,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Rustaveli Ave. 24",
+      "url": "https://www.facebook.com/boombullyhotel/",
+      "id": "georgia-883ac474c8f5e4ba6192"
+    },
+    {
+      "name": "Terrace Hostel Tbilisi",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "lat": 41.70039,
+      "lon": 44.79397,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "11, Alexander Chavchavadze str.",
+      "price": "king bed 75 lari",
+      "url": "https://www.facebook.com/hostelterrace/",
+      "id": "georgia-7d5556b67c2e10da3802"
+    },
+    {
+      "name": "Envoy Hostel",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "lat": 41.68946,
+      "lon": 44.80613,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "45 Betlemi St",
+      "url": "http://envoyhostel.com/",
+      "id": "georgia-784a6b4d50bbe97ea8b1"
+    },
+    {
+      "name": "Fox Hostel",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "8 Ekaterine Gabashvili St",
+      "url": "https://www.facebook.com/foxhostel/",
+      "id": "georgia-ce95d6ef5d25cb081f00"
+    },
+    {
+      "name": "Hostel FreeStyle",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "lat": 41.69411,
+      "lon": 44.83368,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "95 Dimitri Uznadze St, Chugureti",
+      "price": "10 lari",
+      "url": "https://www.facebook.com/voyager.ge/",
+      "id": "georgia-206c15987314d9f58b47"
+    },
+    {
+      "name": "Friends Hostel",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "lat": 41.689429,
+      "lon": 44.807303,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Betlemi Str. #28-30, entrance up from ascent Tumaniani street 9",
+      "price": "Dorm from 7 lari, privates from 30 lari",
+      "url": "https://www.facebook.com/Tbilisi-Friends-Hostel-160834993981805/",
+      "id": "georgia-f221d80c5415389c10ba"
+    },
+    {
+      "name": "Green Stairs Hostel",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "lat": 41.70816,
+      "lon": 44.80177,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Tsinamdzgvrishvili Street, 53",
+      "price": "25 lari/room",
+      "url": "https://greenstairs.business.site/",
+      "id": "georgia-f735f90cffedd5299f81"
+    },
+    {
+      "name": "Old Town Hostel",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "lat": 41.69276,
+      "lon": 44.80451,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Khodasheni/Iveria Street 7",
+      "price": "10-14 lari",
+      "id": "georgia-837bb21a9db1abe3cf78"
+    },
+    {
+      "name": "Rest Hostel Tbilisi",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "lat": 41.71138,
+      "lon": 44.79289,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "68 Dimitri Uznadze St",
+      "price": "50 lari for room (2 beds)",
+      "id": "georgia-f20fdc5567dd1f88aa8e"
+    },
+    {
+      "name": "\"New Tbilisi\" Hostel",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "lat": 41.69509,
+      "lon": 44.81792,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Avlabari, Makhati turn 22",
+      "price": "dorm: €10.55",
+      "url": "http://tbilisihostel.com/",
+      "id": "georgia-c0b375699d471b9b24fb"
+    },
+    {
+      "name": "Tbilisi Rooms Hostel & Tours",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "lat": 41.7008577,
+      "lon": 44.7957686,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Shota Rustaveli Ave",
+      "price": "20-45 lari",
+      "id": "georgia-32d9a69786a73a2459ce"
+    },
+    {
+      "name": "Hotel at Gomi 19",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "lat": 41.68885,
+      "lon": 44.80753,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "19 Gomi St",
+      "price": "$29",
+      "url": "https://m.facebook.com/hotelgomi19/",
+      "id": "georgia-f9e4c05af9159fad81a1"
+    },
+    {
+      "name": "Beaumonde",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "lat": 41.69956,
+      "lon": 44.79272,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "11 Chavchavadze St",
+      "price": "Double B&B from US$50",
+      "url": "http://hotelbeaumonde.com/",
+      "id": "georgia-6e7b2daced02d0057277"
+    },
+    {
+      "name": "Betsy's Hotel",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "lat": 41.7014,
+      "lon": 44.78705,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "32-34 Makashvili St",
+      "price": "Doubles from US$80",
+      "url": "http://betsyshotel.com/",
+      "id": "georgia-053b4182782e42d1ff52"
+    },
+    {
+      "name": "British House",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "32 Belinski St",
+      "price": "Doubles from US$80",
+      "url": "http://www.british-house.ge/",
+      "id": "georgia-4ac8f8cb313a08eea40d"
+    },
+    {
+      "name": "Georgian House Hotel",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "lat": 41.69482,
+      "lon": 44.81573,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "38 Vakhtang VI St",
+      "price": "Double B&B US$50",
+      "url": "http://www.georgianhousetbilisi.com/",
+      "id": "georgia-92103797f2b013850d88"
+    },
+    {
+      "name": "Prestige Palace Hotel",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "lat": 41.71114,
+      "lon": 44.80078,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "51 Marjanishvili St",
+      "price": "Doubles B&B US$50",
+      "url": "http://www.hotelprestige.ge/",
+      "id": "georgia-ddb5f62153b5f5814559"
+    },
+    {
+      "name": "SkadaVeli",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "lat": 41.69497,
+      "lon": 44.80414,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "27 Vertskhli str",
+      "price": "Double from US$35",
+      "url": "http://www.ska.ge/",
+      "id": "georgia-14e6c4b29b2f9185394f"
+    },
+    {
+      "name": "Tbilotel",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "lat": 41.73188,
+      "lon": 44.76924,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "8 Vitali Daraselia St",
+      "price": "Doubles from US$70",
+      "url": "http://www.tbilotel.ge/",
+      "id": "georgia-ffcf0af0134d91d16617"
+    },
+    {
+      "name": "Vere Palace Hotel",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "lat": 41.70956,
+      "lon": 44.78238,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "22-24 Kuchishvili St",
+      "price": "Doubles from US$50",
+      "url": "http://www.verepalace.com.ge/",
+      "id": "georgia-e947431b9a1e86d641e8"
+    },
+    {
+      "name": "Hotel VIP",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "lat": 41.69173,
+      "lon": 44.80589,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "31 Leselidze Street",
+      "price": "Doubles from US$70",
+      "id": "georgia-a007610bd9ce5a760b35"
+    },
+    {
+      "name": "Courtyard by Marriott Tbilisi",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "lat": 41.69346,
+      "lon": 44.80081,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "4 Freedom Square (თავისუფლების მოედანი)",
+      "price": "Doubles (room only) from US$170",
+      "url": "https://www.marriott.com/property/propertypage/TBSCY",
+      "id": "georgia-ec2b045f5a8dcae92967"
+    },
+    {
+      "name": "Mercure Tbilisi Old Town",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "lat": 41.6886,
+      "lon": 44.81341,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "9 Vakhtang Gorgasali street",
+      "price": "Doubles from US$100",
+      "url": "https://all.accor.com/hotel/9417/index.en.shtml",
+      "id": "georgia-4138ba44f82f96480121"
+    },
+    {
+      "name": "Radisson Blu Iveria Hotel, Tbilisi City Centre",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "lat": 41.70391,
+      "lon": 44.79344,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "First Republic Square 1",
+      "price": "Doubles from US$140",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-tbilisi",
+      "id": "georgia-ace79103c5d3884955be"
+    },
+    {
+      "name": "River Side Hotel",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "lat": 41.70194,
+      "lon": 44.7988,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "Brosse Street",
+      "price": "Doubles US$120",
+      "url": "http://www.riverside.ge/",
+      "id": "georgia-983654f57c4e2fc2da92"
+    },
+    {
+      "name": "Sheraton Grand Tbilisi Metechi Palace",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "lat": 41.68872,
+      "lon": 44.82303,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "20 Telavi St",
+      "price": "US$200+ per night",
+      "url": "https://www.marriott.com/",
+      "id": "georgia-8030468e0f4de67bcd6b"
+    },
+    {
+      "name": "Tbilisi Marriott Hotel",
+      "kind": "stay",
+      "locality": "Tbilisi",
+      "lat": 41.69896,
+      "lon": 44.79833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "address": "13 Rustaveli Prospekt (შოთა რუსთაველის გამზ.)",
+      "price": "Doubles from US$200",
+      "url": "https://www.marriott.com/property/propertypage/TBSMC",
+      "id": "georgia-c53cbd0eda139c93fdc4"
+    },
+    {
+      "name": "Tbilisi",
+      "kind": "area",
+      "locality": "Tbilisi",
+      "lat": 41.7167,
+      "lon": 44.7833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tbilisi",
+      "id": "georgia-6d351c598e5ea434f740"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

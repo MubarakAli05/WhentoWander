@@ -1,0 +1,353 @@
+{
+  "sources": [
+    {
+      "title": "Burkina Faso",
+      "url": "https://en.wikivoyage.org/wiki/Burkina_Faso",
+      "checkedAt": "2026-10-21T08:08:59.249Z"
+    },
+    {
+      "title": "Ouagadougou",
+      "url": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "checkedAt": "2026-10-21T08:09:02.215Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Ouagadougou",
+      "kind": "area",
+      "locality": "Burkina Faso",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Burkina_Faso",
+      "id": "burkina-faso-f8f52987aa25aeade025"
+    },
+    {
+      "name": "Banfora",
+      "kind": "area",
+      "locality": "Burkina Faso",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Burkina_Faso",
+      "id": "burkina-faso-4880afd68bd00743eb76"
+    },
+    {
+      "name": "Bobo-Dioulasso",
+      "kind": "area",
+      "locality": "Burkina Faso",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Burkina_Faso",
+      "id": "burkina-faso-34e82908d53ca170f067"
+    },
+    {
+      "name": "Dédougou",
+      "kind": "area",
+      "locality": "Burkina Faso",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Burkina_Faso",
+      "id": "burkina-faso-4aa64d1d50b58b579c2a"
+    },
+    {
+      "name": "Gaoua",
+      "kind": "area",
+      "locality": "Burkina Faso",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Burkina_Faso",
+      "id": "burkina-faso-523968ef5522f55ded6f"
+    },
+    {
+      "name": "Koudougou",
+      "kind": "area",
+      "locality": "Burkina Faso",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Burkina_Faso",
+      "id": "burkina-faso-350232671bcc09de8703"
+    },
+    {
+      "name": "Ouahigouya",
+      "kind": "area",
+      "locality": "Burkina Faso",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Burkina_Faso",
+      "id": "burkina-faso-3b432ab7d5103e3a4bdb"
+    },
+    {
+      "name": "Fada N'gourma",
+      "kind": "area",
+      "locality": "Burkina Faso",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Burkina_Faso",
+      "id": "burkina-faso-4db6aa6ad42b351c5a3f"
+    },
+    {
+      "name": "Djibo",
+      "kind": "area",
+      "locality": "Burkina Faso",
+      "lat": -1.630556,
+      "lon": 14.101111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Burkina_Faso",
+      "id": "burkina-faso-356e7a46fcc2e838f78b"
+    },
+    {
+      "name": "Grand Mosque of Ouagadougou",
+      "kind": "do",
+      "locality": "Ouagadougou",
+      "lat": 12.366234,
+      "lon": -1.521428,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "id": "burkina-faso-d456686674def678dc02"
+    },
+    {
+      "name": "Ouagadougou Cathedral",
+      "kind": "do",
+      "locality": "Ouagadougou",
+      "lat": 12.361979,
+      "lon": -1.526989,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "id": "burkina-faso-4611639862e34de8a275"
+    },
+    {
+      "name": "National Museum",
+      "kind": "do",
+      "locality": "Ouagadougou",
+      "lat": 12.380434,
+      "lon": -1.47185,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "address": "Avenue du Musée national",
+      "id": "burkina-faso-db80510b93b72357bb0a"
+    },
+    {
+      "name": "Museum of Music",
+      "kind": "do",
+      "locality": "Ouagadougou",
+      "lat": 12.373528,
+      "lon": -1.516783,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "id": "burkina-faso-cd32ba8c8f7209806f96"
+    },
+    {
+      "name": "Bangr Weogo park",
+      "kind": "do",
+      "locality": "Ouagadougou",
+      "lat": 12.397514,
+      "lon": -1.488892,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "id": "burkina-faso-226e48b93b68b6a81a54"
+    },
+    {
+      "name": "L'Unité Pédagogique",
+      "kind": "do",
+      "locality": "Ouagadougou",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "id": "burkina-faso-8b433daec08610fbeb46"
+    },
+    {
+      "name": "Garden of Ouaga-Loudun Friendship",
+      "kind": "do",
+      "locality": "Ouagadougou",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "id": "burkina-faso-e1fa635f3bad62aff5fb"
+    },
+    {
+      "name": "Naba Koom",
+      "kind": "do",
+      "locality": "Ouagadougou",
+      "lat": 12.373008,
+      "lon": -1.526235,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "id": "burkina-faso-dad70c9366b45a80cf5d"
+    },
+    {
+      "name": "La Place du Grand Lyon",
+      "kind": "do",
+      "locality": "Ouagadougou",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "id": "burkina-faso-0d2271f63c40a88e5dfd"
+    },
+    {
+      "name": "Musée de Manega",
+      "kind": "do",
+      "locality": "Ouagadougou",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "id": "burkina-faso-56d2a63274009fbfc0a3"
+    },
+    {
+      "name": "Laongo",
+      "kind": "do",
+      "locality": "Ouagadougou",
+      "lat": 12.536804,
+      "lon": -1.284485,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "id": "burkina-faso-c5e6786c21e91c140ec4"
+    },
+    {
+      "name": "FESPACO",
+      "kind": "do",
+      "locality": "Ouagadougou",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "url": "http://www.fespaco.bf/en",
+      "id": "burkina-faso-ef7bc33efb26403249b3"
+    },
+    {
+      "name": "Le Verdoyant",
+      "kind": "eat",
+      "locality": "Ouagadougou",
+      "lat": 12.372276,
+      "lon": -1.519725,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "address": "Avenue Dimdolossom",
+      "id": "burkina-faso-302c851d472160b6bb8e"
+    },
+    {
+      "name": "Le Coq Bleu",
+      "kind": "eat",
+      "locality": "Ouagadougou",
+      "lat": 12.367498,
+      "lon": -1.519125,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "address": "Avenue Kwame NKrumah",
+      "id": "burkina-faso-57495060dd3e9dd8e6e0"
+    },
+    {
+      "name": "Le Vert Galant",
+      "kind": "eat",
+      "locality": "Ouagadougou",
+      "lat": 12.312341,
+      "lon": -1.518231,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "id": "burkina-faso-340750385db837689452"
+    },
+    {
+      "name": "l'Eau Vive",
+      "kind": "eat",
+      "locality": "Ouagadougou",
+      "lat": 12.369557,
+      "lon": -1.524245,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "address": "Rue Du Nasser",
+      "id": "burkina-faso-1221fb06704020c4aae3"
+    },
+    {
+      "name": "Cailcedrat",
+      "kind": "stay",
+      "locality": "Ouagadougou",
+      "lat": 12.3234,
+      "lon": -1.4977,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "price": "€21-37",
+      "url": "http://www.residencelecailcedrat.net/",
+      "id": "burkina-faso-ba8b2a9e52d7cb15408f"
+    },
+    {
+      "name": "Benoua Lodge Hotel a Ouagadougou",
+      "kind": "stay",
+      "locality": "Ouagadougou",
+      "lat": 12.37802,
+      "lon": -1.49085,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "address": "Zogona Sector 13",
+      "price": "CFA 35000",
+      "url": "http://benoua-lodge.com/",
+      "id": "burkina-faso-ccb4507c566f172b9ce1"
+    },
+    {
+      "name": "Villa Yiri Suma",
+      "kind": "stay",
+      "locality": "Ouagadougou",
+      "lat": 12.36921,
+      "lon": -1.51112,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "address": "428 Avenue Maurice Yameogo, Koulouba",
+      "price": "CFA 22160",
+      "url": "https://www.yirisuma.com/",
+      "id": "burkina-faso-f3ca61ecd1386747268d"
+    },
+    {
+      "name": "Splendid Hôtel",
+      "kind": "stay",
+      "locality": "Ouagadougou",
+      "lat": 12.361359,
+      "lon": -1.518049,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "address": "Avenue Kwame Nkrumah",
+      "id": "burkina-faso-786496cab0692c4b4c32"
+    },
+    {
+      "name": "Hotel Yibi",
+      "kind": "stay",
+      "locality": "Ouagadougou",
+      "lat": 12.36133,
+      "lon": -1.51742,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "address": "Avenue Kwame Nkrumah",
+      "url": "http://www.yibihotel.com/",
+      "id": "burkina-faso-c779cf6bcea9d75c8de9"
+    },
+    {
+      "name": "Sopatel Silmandé Hotel",
+      "kind": "stay",
+      "locality": "Ouagadougou",
+      "lat": 12.39197,
+      "lon": -1.501902,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "address": "Route de Kaya BP 4733",
+      "url": "http://www.sopatelsilmande.com/",
+      "id": "burkina-faso-b2bfcfcc9a0be1fbd01b"
+    },
+    {
+      "name": "Hotel Palm Beach",
+      "kind": "stay",
+      "locality": "Ouagadougou",
+      "lat": 12.362229,
+      "lon": -1.518269,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "address": "10 Avenue Kwame Nkrumah",
+      "url": "http://palmbeach-burkina.com/",
+      "id": "burkina-faso-24331f65c0234ef488e3"
+    },
+    {
+      "name": "Hotel Ricardo",
+      "kind": "stay",
+      "locality": "Ouagadougou",
+      "lat": 12.390869,
+      "lon": -1.527452,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "address": "Rue 23.02",
+      "id": "burkina-faso-edbefce2be55658d52d8"
+    },
+    {
+      "name": "Sonia Hotels Ouagadougou",
+      "kind": "stay",
+      "locality": "Ouagadougou",
+      "lat": 12.3525,
+      "lon": -1.51962,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "address": "Secteur 6, Rue Mogho Naaba Kiba, Kamsonghin",
+      "price": "~CFA 65000",
+      "url": "http://www.soniahotels.com/",
+      "id": "burkina-faso-2961f1c639b8718473b9"
+    },
+    {
+      "name": "Princess Yenega",
+      "kind": "stay",
+      "locality": "Ouagadougou",
+      "lat": 12.37465,
+      "lon": -1.51134,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "address": "Avenue de la grande Chancellerie, Koulouba",
+      "id": "burkina-faso-3716854b4de2a242b3fa"
+    },
+    {
+      "name": "Bravia Hotel Ouagadougou",
+      "kind": "stay",
+      "locality": "Ouagadougou",
+      "lat": 12.35956,
+      "lon": -1.51615,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "address": "Sector 4, District ZACA",
+      "price": "~CFA 105815",
+      "url": "http://www.braviahotels.com/",
+      "id": "burkina-faso-8e269249f4257190ce38"
+    },
+    {
+      "name": "Ouagadougou",
+      "kind": "area",
+      "locality": "Ouagadougou",
+      "lat": 12.370278,
+      "lon": -1.524722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ouagadougou",
+      "id": "burkina-faso-a929764007d2e2cb2f63"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

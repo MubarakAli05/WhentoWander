@@ -1,0 +1,153 @@
+{
+  "sources": [
+    {
+      "title": "Central African Republic",
+      "url": "https://en.wikivoyage.org/wiki/Central_African_Republic",
+      "checkedAt": "2026-10-21T08:09:09.385Z"
+    },
+    {
+      "title": "Bangui",
+      "url": "https://en.wikivoyage.org/wiki/Bangui",
+      "checkedAt": "2026-10-21T08:09:12.403Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Bangui",
+      "kind": "area",
+      "locality": "Central African Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Central_African_Republic",
+      "id": "central-african-republic-a4d17f1e894ff7bbd5ec"
+    },
+    {
+      "name": "Bambari",
+      "kind": "area",
+      "locality": "Central African Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Central_African_Republic",
+      "id": "central-african-republic-ca3422292c18a6d83835"
+    },
+    {
+      "name": "Bangassou",
+      "kind": "area",
+      "locality": "Central African Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Central_African_Republic",
+      "id": "central-african-republic-0681074c604e234e3e2f"
+    },
+    {
+      "name": "Birao",
+      "kind": "area",
+      "locality": "Central African Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Central_African_Republic",
+      "id": "central-african-republic-737eb5502e3a6bf1b968"
+    },
+    {
+      "name": "Bouar",
+      "kind": "area",
+      "locality": "Central African Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Central_African_Republic",
+      "id": "central-african-republic-0ff8c474a8f387d3912b"
+    },
+    {
+      "name": "Bria",
+      "kind": "area",
+      "locality": "Central African Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Central_African_Republic",
+      "id": "central-african-republic-f904735669ed34e8b4d1"
+    },
+    {
+      "name": "Kaga-Bandoro",
+      "kind": "area",
+      "locality": "Central African Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Central_African_Republic",
+      "id": "central-african-republic-7378f737436224ef2095"
+    },
+    {
+      "name": "Mbaiki",
+      "kind": "area",
+      "locality": "Central African Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Central_African_Republic",
+      "id": "central-african-republic-6ba913e7276345ecebd2"
+    },
+    {
+      "name": "Boganda National Museum",
+      "kind": "do",
+      "locality": "Bangui",
+      "lat": 4.36411,
+      "lon": 18.57698,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bangui",
+      "address": "Avenue Barthélemy Boganda",
+      "id": "central-african-republic-0f426630cfe58dc21eb0"
+    },
+    {
+      "name": "Cathédrale Notre-Dame-de-l'Immaculée-Conception of Bangui",
+      "kind": "do",
+      "locality": "Bangui",
+      "lat": 4.369885,
+      "lon": 18.577927,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bangui",
+      "id": "central-african-republic-d5a32c6d47f63421f028"
+    },
+    {
+      "name": "Renaissance Palace",
+      "kind": "do",
+      "locality": "Bangui",
+      "lat": 4.364865,
+      "lon": 18.585309,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bangui",
+      "id": "central-african-republic-334237e8c7971ff52754"
+    },
+    {
+      "name": "Sewa Rock Bar",
+      "kind": "eat",
+      "locality": "Bangui",
+      "lat": 4.3636,
+      "lon": 18.5924,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bangui",
+      "id": "central-african-republic-f8f7e78134a64b94bbfc"
+    },
+    {
+      "name": "Oubangui Hotel",
+      "kind": "stay",
+      "locality": "Bangui",
+      "lat": 4.364883,
+      "lon": 18.594793,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bangui",
+      "address": "Boulevard du Général de Gaulle",
+      "price": "From US$80 per night",
+      "id": "central-african-republic-09180e1d453d301ff86f"
+    },
+    {
+      "name": "Ledger Plaza Bangui",
+      "kind": "stay",
+      "locality": "Bangui",
+      "lat": 4.3828,
+      "lon": 18.5676,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bangui",
+      "address": "Avenue de l'indépendance",
+      "url": "https://ledgerplaza-bangui.com/?lang=en",
+      "id": "central-african-republic-9a56bedacfe23a6c9b1d"
+    },
+    {
+      "name": "Hotel Levy's",
+      "kind": "stay",
+      "locality": "Bangui",
+      "lat": 4.36484,
+      "lon": 18.57083,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bangui",
+      "address": "Avenue Barthelemy Boganda",
+      "url": "https://hotelhunter.com/en/central-african-republic/bangui/hotel-levys",
+      "id": "central-african-republic-db96f0a39f13f5cb6518"
+    },
+    {
+      "name": "Bangui",
+      "kind": "area",
+      "locality": "Bangui",
+      "lat": 4.367222,
+      "lon": 18.5775,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bangui",
+      "id": "central-african-republic-5e2ffb3918ec43976a59"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

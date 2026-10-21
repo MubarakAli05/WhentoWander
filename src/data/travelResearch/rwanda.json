@@ -1,0 +1,652 @@
+{
+  "sources": [
+    {
+      "title": "Rwanda",
+      "url": "https://en.wikivoyage.org/wiki/Rwanda",
+      "checkedAt": "2026-10-21T08:06:45.094Z"
+    },
+    {
+      "title": "Kigali",
+      "url": "https://en.wikivoyage.org/wiki/Kigali",
+      "checkedAt": "2026-10-21T08:06:47.218Z"
+    },
+    {
+      "title": "Volcanoes National Park",
+      "url": "https://en.wikivoyage.org/wiki/Volcanoes_National_Park",
+      "checkedAt": "2026-10-21T08:06:50.239Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Kigali",
+      "kind": "area",
+      "locality": "Rwanda",
+      "lat": -1.9686111,
+      "lon": 30.0605556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rwanda",
+      "id": "rwanda-55fa736cfc290ae262d9"
+    },
+    {
+      "name": "Gicumbi",
+      "kind": "area",
+      "locality": "Rwanda",
+      "lat": -1.577,
+      "lon": 30.065,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rwanda",
+      "id": "rwanda-11fbb840ca2f453e7a62"
+    },
+    {
+      "name": "Rusizi",
+      "kind": "area",
+      "locality": "Rwanda",
+      "lat": -2.4833,
+      "lon": 28.896,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rwanda",
+      "id": "rwanda-66a920982e6c33b06647"
+    },
+    {
+      "name": "Gisenyi",
+      "kind": "area",
+      "locality": "Rwanda",
+      "lat": -1.6951,
+      "lon": 29.3485,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rwanda",
+      "id": "rwanda-c755eef1b2094b27b700"
+    },
+    {
+      "name": "Butare",
+      "kind": "area",
+      "locality": "Rwanda",
+      "lat": -2.604,
+      "lon": 29.741,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rwanda",
+      "id": "rwanda-413813fdc6d00d3c919d"
+    },
+    {
+      "name": "Kabuga",
+      "kind": "area",
+      "locality": "Rwanda",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rwanda",
+      "id": "rwanda-62261eca4223fd530b5d"
+    },
+    {
+      "name": "Kibeho",
+      "kind": "area",
+      "locality": "Rwanda",
+      "lat": -2.63629,
+      "lon": 29.54678,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rwanda",
+      "id": "rwanda-74252e1c6abb4bcdc985"
+    },
+    {
+      "name": "Kibungo",
+      "kind": "area",
+      "locality": "Rwanda",
+      "lat": -2.16091,
+      "lon": 30.54374,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rwanda",
+      "id": "rwanda-4c7786a97892e90669a0"
+    },
+    {
+      "name": "Karongi",
+      "kind": "area",
+      "locality": "Rwanda",
+      "lat": -2.05,
+      "lon": 29.35,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rwanda",
+      "id": "rwanda-caf85fb6ececc0887475"
+    },
+    {
+      "name": "Muhanga",
+      "kind": "area",
+      "locality": "Rwanda",
+      "lat": -2.084,
+      "lon": 29.753,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rwanda",
+      "id": "rwanda-ac6aea3871d0419ad162"
+    },
+    {
+      "name": "Musanze",
+      "kind": "area",
+      "locality": "Rwanda",
+      "lat": -1.5,
+      "lon": 29.634,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rwanda",
+      "id": "rwanda-98db8e981f3bd9d10973"
+    },
+    {
+      "name": "Ngororero",
+      "kind": "area",
+      "locality": "Rwanda",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rwanda",
+      "id": "rwanda-853183f7e6f17e6563d1"
+    },
+    {
+      "name": "Nyamata",
+      "kind": "area",
+      "locality": "Rwanda",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rwanda",
+      "id": "rwanda-ea284de15439557203ce"
+    },
+    {
+      "name": "Rwamagana",
+      "kind": "area",
+      "locality": "Rwanda",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rwanda",
+      "id": "rwanda-c025d1f4b2ab3f7542ea"
+    },
+    {
+      "name": "The Kigali Genocide Memorial Centre",
+      "kind": "do",
+      "locality": "Kigali",
+      "lat": -1.930886,
+      "lon": 30.060713,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "url": "https://kgm.rw/",
+      "id": "rwanda-07633da2debfa355e9fc"
+    },
+    {
+      "name": "Presidential Palace Museum",
+      "kind": "do",
+      "locality": "Kigali",
+      "lat": -1.97532,
+      "lon": 30.17303,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "KK 106 St",
+      "price": "FRw6,000 (FRw5,000 for resident foreigners)",
+      "url": "http://www.museum.gov.rw/",
+      "id": "rwanda-f2e062a341368e7cb5c9"
+    },
+    {
+      "name": "Inema Arts Centre",
+      "kind": "do",
+      "locality": "Kigali",
+      "lat": -1.94431,
+      "lon": 30.0908,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "url": "https://inema-arts-centre.business.site/",
+      "id": "rwanda-0e915a2850754378933b"
+    },
+    {
+      "name": "Kandt House Museum",
+      "kind": "do",
+      "locality": "Kigali",
+      "lat": -1.94664,
+      "lon": 30.05324,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "KN 90",
+      "url": "http://www.museum.gov.rw/index.php?id=75",
+      "id": "rwanda-3fcbf00c3b0b025b51a2"
+    },
+    {
+      "name": "Belgian Peacekeepers Memorial",
+      "kind": "do",
+      "locality": "Kigali",
+      "lat": -1.95804,
+      "lon": 30.06292,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "id": "rwanda-66f3972ca83c4abec21a"
+    },
+    {
+      "name": "Campaign Against Genocide Museum",
+      "kind": "do",
+      "locality": "Kigali",
+      "lat": -1.952621,
+      "lon": 30.098911,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "RN3, Kigali, Kimihurura",
+      "url": "https://museum.gov.rw/index.php?id=73",
+      "id": "rwanda-dcfbeaa7740568cc90e2"
+    },
+    {
+      "name": "Nyanza Genocide Memorial",
+      "kind": "do",
+      "locality": "Kigali",
+      "lat": -2.00223,
+      "lon": 30.09237,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "Kicukiro",
+      "id": "rwanda-d219ed003336ff045c52"
+    },
+    {
+      "name": "Nyandungu Eco-park",
+      "kind": "do",
+      "locality": "Kigali",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "id": "rwanda-5d31c1b433866189994d"
+    },
+    {
+      "name": "Gisozi circuit",
+      "kind": "do",
+      "locality": "Kigali",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "id": "rwanda-5ac7844748ab6b2475d1"
+    },
+    {
+      "name": "Ten pin bowling",
+      "kind": "do",
+      "locality": "Kigali",
+      "lat": -1.95464,
+      "lon": 30.08151,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "Kimihura",
+      "id": "rwanda-1771da986f16c221eb47"
+    },
+    {
+      "name": "Nyamirambo Women's Center",
+      "kind": "do",
+      "locality": "Kigali",
+      "lat": -1.96496,
+      "lon": 30.06272,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "KN 7 Ave",
+      "url": "http://www.nwc-umutima.org/",
+      "id": "rwanda-74f192e2bf40a57ffe7f"
+    },
+    {
+      "name": "La Classe",
+      "kind": "eat",
+      "locality": "Kigali",
+      "lat": -1.95017,
+      "lon": 30.05887,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "Boulevard de la Revolution",
+      "price": "Mains from FRw4,000",
+      "id": "rwanda-8fe6648993004262503e"
+    },
+    {
+      "name": "Ki Asili Resto Bar and Fast Food",
+      "kind": "eat",
+      "locality": "Kigali",
+      "lat": -1.94298,
+      "lon": 30.05716,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "Kn 55 st",
+      "price": "US$5",
+      "url": "https://kiasilirestobarfastfood.business.site/",
+      "id": "rwanda-6f800cc6c076b5135ef1"
+    },
+    {
+      "name": "Milima",
+      "kind": "eat",
+      "locality": "Kigali",
+      "lat": -1.95628,
+      "lon": 30.06273,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "Boulevard de la Revolution, Kigali, Umujyi Wa Kigali · 6.1 km",
+      "id": "rwanda-d1474bffbbc3da2721fa"
+    },
+    {
+      "name": "Chez Robert",
+      "kind": "eat",
+      "locality": "Kigali",
+      "lat": -1.94706,
+      "lon": 30.06294,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "3 KN 25 St",
+      "id": "rwanda-49fed64c05a452235d1d"
+    },
+    {
+      "name": "Heaven",
+      "kind": "eat",
+      "locality": "Kigali",
+      "lat": -1.94687,
+      "lon": 30.06497,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "id": "rwanda-4eea0c8b6f26fa8d3f05"
+    },
+    {
+      "name": "Kigali Guestlux",
+      "kind": "eat",
+      "locality": "Kigali",
+      "lat": -1.9195,
+      "lon": 30.0973,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "Gacuriro - street number KG 416",
+      "id": "rwanda-757d106afcd008abeaff"
+    },
+    {
+      "name": "The New Cactus",
+      "kind": "eat",
+      "locality": "Kigali",
+      "lat": -1.95572,
+      "lon": 30.06537,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "KN 47 St",
+      "id": "rwanda-9276ef50b5f091e44fc7"
+    },
+    {
+      "name": "Khana Khazana",
+      "kind": "eat",
+      "locality": "Kigali",
+      "lat": -1.94729,
+      "lon": 30.06606,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "KN 31 St",
+      "url": "https://khanakhazana.rw/kiyovu/",
+      "id": "rwanda-b1e9607d4fa78201a084"
+    },
+    {
+      "name": "Africa Bite",
+      "kind": "eat",
+      "locality": "Kigali",
+      "lat": -1.951473,
+      "lon": 30.081819,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "price": "Rotis for FRw3,000",
+      "id": "rwanda-01d4327955a81416995a"
+    },
+    {
+      "name": "Repub Lounge",
+      "kind": "eat",
+      "locality": "Kigali",
+      "lat": -1.9522,
+      "lon": 30.08153,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "id": "rwanda-3add01e0418c3e844005"
+    },
+    {
+      "name": "Boho Restaurant",
+      "kind": "eat",
+      "locality": "Kigali",
+      "lat": -1.947324,
+      "lon": 30.078733,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "KN 14 AVE, KG 623 St",
+      "id": "rwanda-73dac9135a36c2993924"
+    },
+    {
+      "name": "Kurry Kingdom",
+      "kind": "eat",
+      "locality": "Kigali",
+      "lat": -1.944279,
+      "lon": 30.089119,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "24,KG 5 AVE, Kakiru",
+      "id": "rwanda-fa65e9012d2f0d8dfcc1"
+    },
+    {
+      "name": "Switch",
+      "kind": "eat",
+      "locality": "Kigali",
+      "lat": -1.953457,
+      "lon": 30.083045,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "19 KG 2 Avei",
+      "id": "rwanda-b830e50c8358362c1380"
+    },
+    {
+      "name": "Koza Bistro",
+      "kind": "eat",
+      "locality": "Kigali",
+      "lat": -1.953586,
+      "lon": 30.080832,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "id": "rwanda-2052884528eb8646dc41"
+    },
+    {
+      "name": "Sakae",
+      "kind": "eat",
+      "locality": "Kigali",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "price": "Mains from FRw7,000",
+      "url": "https://m.facebook.com/SakaeJapaneseRestaurant",
+      "id": "rwanda-7de8996c14f670a19400"
+    },
+    {
+      "name": "Zen",
+      "kind": "eat",
+      "locality": "Kigali",
+      "lat": -1.93826,
+      "lon": 30.10138,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "price": "Mains from FRw8,000",
+      "id": "rwanda-1988761a21fd287e72e2"
+    },
+    {
+      "name": "Sole Luna",
+      "kind": "eat",
+      "locality": "Kigali",
+      "lat": -1.9589,
+      "lon": 30.10511,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "KG 599",
+      "price": "Mains from FRw5,000",
+      "url": "https://www.soleluna.company/",
+      "id": "rwanda-05f9deb58a540c98001e"
+    },
+    {
+      "name": "Tangren Chinese Restaurant",
+      "kind": "eat",
+      "locality": "Kigali",
+      "lat": -1.95135,
+      "lon": 30.10482,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "KG 181 St",
+      "price": "Mains FRw4,000",
+      "url": "https://laotangren.com/",
+      "id": "rwanda-5f584bd0f2ad5a92486f"
+    },
+    {
+      "name": "New Cadillac",
+      "kind": "eat",
+      "locality": "Kigali",
+      "lat": -1.94538,
+      "lon": 30.06139,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "id": "rwanda-d6a4228dd425f1b5cd1d"
+    },
+    {
+      "name": "Auberge La Caverne",
+      "kind": "stay",
+      "locality": "Kigali",
+      "lat": -1.939834,
+      "lon": 30.061157,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "Nyabugogo Blvd",
+      "price": "single from FRw13,000 en-suite, double from FRw20,000",
+      "id": "rwanda-1a32a6eb8025075955c8"
+    },
+    {
+      "name": "Mamba Rwanda Youth Hostel",
+      "kind": "stay",
+      "locality": "Kigali",
+      "lat": -1.95465,
+      "lon": 30.08151,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "KG 680 St",
+      "url": "https://m.facebook.com/Mambalive/",
+      "id": "rwanda-25d3362e7a1dd9cfbf50"
+    },
+    {
+      "name": "Hope Guesthouse",
+      "kind": "stay",
+      "locality": "Kigali",
+      "lat": -1.9423,
+      "lon": 30.0439,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "Nyabugogo Blvd",
+      "price": "Room with one bed FRw10,000; room with two beds FRw15,000. (Beds are big enough to fit a couple)",
+      "id": "rwanda-7d8fe39af5b48e260bee"
+    },
+    {
+      "name": "Auberge de Nyamirambo",
+      "kind": "stay",
+      "locality": "Kigali",
+      "lat": -1.97499,
+      "lon": 30.05355,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "price": "FRw5000/8000/10,000",
+      "id": "rwanda-fd91335a848eac2a827b"
+    },
+    {
+      "name": "Anthurium Residential Hotel",
+      "kind": "stay",
+      "locality": "Kigali",
+      "lat": -1.97678,
+      "lon": 30.05494,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "KN 159 Street",
+      "price": "from FRw31636",
+      "url": "https://www.anthuriumresidentialhotel.com/",
+      "id": "rwanda-742c67bd40177fd1de4c"
+    },
+    {
+      "name": "Center St Paul",
+      "kind": "stay",
+      "locality": "Kigali",
+      "lat": -1.94407,
+      "lon": 30.06386,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "KN 32 St",
+      "price": "FRw15,000/20,000",
+      "id": "rwanda-5d108ce567f56559bcaf"
+    },
+    {
+      "name": "Gloria Hotel",
+      "kind": "stay",
+      "locality": "Kigali",
+      "lat": -1.94807,
+      "lon": 30.05783,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "25 KN 59 St",
+      "url": "https://www.gloriahotelrwanda.com/",
+      "id": "rwanda-ee43bc91e9c4d2080721"
+    },
+    {
+      "name": "Hotel Chez Lando",
+      "kind": "stay",
+      "locality": "Kigali",
+      "lat": -1.95915,
+      "lon": 30.10798,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "KG 201 St",
+      "price": "From US$60 per night",
+      "url": "https://www.chezlando.com/",
+      "id": "rwanda-c4a713df1840c118b832"
+    },
+    {
+      "name": "Hotel Isimbi",
+      "kind": "stay",
+      "locality": "Kigali",
+      "lat": -1.9497,
+      "lon": 30.05874,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "6 KN 84 St",
+      "price": "US$30-40",
+      "id": "rwanda-a9bcdd32cbae291d30d4"
+    },
+    {
+      "name": "Iris Guest House",
+      "kind": "stay",
+      "locality": "Kigali",
+      "lat": -1.94775,
+      "lon": 30.06667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "9 KN 33 St",
+      "price": "US$75",
+      "url": "https://irisguesthouserw.com/",
+      "id": "rwanda-2fa163fe7c48a6fdec5b"
+    },
+    {
+      "name": "Okapi Hotel",
+      "kind": "stay",
+      "locality": "Kigali",
+      "lat": -1.94117,
+      "lon": 30.06108,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "url": "https://okapihotel.com/",
+      "id": "rwanda-f87dceb25ec9e28427c5"
+    },
+    {
+      "name": "Park View Courts Rwanda",
+      "kind": "stay",
+      "locality": "Kigali",
+      "lat": -1.94569,
+      "lon": 30.10281,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "20 KG 13 Ave",
+      "price": "Prices range from US$150-300",
+      "url": "https://parkviewcourtsrwanda.com/",
+      "id": "rwanda-f3d0aeb65f5ae5f3a697"
+    },
+    {
+      "name": "Step Town Hotel",
+      "kind": "stay",
+      "locality": "Kigali",
+      "lat": -1.94115,
+      "lon": 30.06542,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "KN 1 Ave",
+      "price": "US$50",
+      "url": "https://steptownhotel.com/",
+      "id": "rwanda-643519611d8f59b2bd96"
+    },
+    {
+      "name": "Marasa Umubano Hotel",
+      "kind": "stay",
+      "locality": "Kigali",
+      "lat": -1.946202,
+      "lon": 30.092234,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "Boulevard del Umuganda",
+      "price": "From US$150 per night",
+      "url": "http://www.umubanohotel.rw/",
+      "id": "rwanda-3941639303be31cfe78c"
+    },
+    {
+      "name": "Hotel des Mille Collines",
+      "kind": "stay",
+      "locality": "Kigali",
+      "lat": -1.946717,
+      "lon": 30.062059,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "Avenue de l'Armée/Avenue de la République",
+      "price": "Prices from €151",
+      "url": "https://www.millecollines.rw/",
+      "id": "rwanda-7e1e2e60966989239c5f"
+    },
+    {
+      "name": "Kigali Serena Hotel",
+      "kind": "stay",
+      "locality": "Kigali",
+      "lat": -1.956202,
+      "lon": 30.062686,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "price": "From US$310 per night",
+      "url": "http://www.serenahotels.com/serenakigali/",
+      "id": "rwanda-922a13df7f96e706ad0a"
+    },
+    {
+      "name": "Four Points by Sheraton Kigali",
+      "kind": "stay",
+      "locality": "Kigali",
+      "lat": -1.956194,
+      "lon": 30.062083,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "address": "KN 3 Ave",
+      "url": "https://www.marriott.com/en-us/hotels/kglfp-four-points-kigali/overview/?scid=f2ae0541-1279-4f24-b197-a979c79310b0",
+      "id": "rwanda-badf604c5f7ba8113062"
+    },
+    {
+      "name": "Kigali",
+      "kind": "area",
+      "locality": "Kigali",
+      "lat": -1.9686111,
+      "lon": 30.0605556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kigali",
+      "id": "rwanda-52c76a3a19967bf2386f"
+    },
+    {
+      "name": "Volcanoes National Park",
+      "kind": "area",
+      "locality": "Volcanoes National Park",
+      "lat": -1.4833333333333,
+      "lon": 29.533333333333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Volcanoes_National_Park",
+      "id": "rwanda-2cee6d0e3c1d5c8ca827"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 3 distinct public Wikivoyage source pages; attempted 3 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

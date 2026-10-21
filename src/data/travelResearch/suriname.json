@@ -1,0 +1,568 @@
+{
+  "sources": [
+    {
+      "title": "Suriname",
+      "url": "https://en.wikivoyage.org/wiki/Suriname",
+      "checkedAt": "2026-10-21T08:12:31.633Z"
+    },
+    {
+      "title": "Paramaribo",
+      "url": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "checkedAt": "2026-10-21T08:12:34.637Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Paramaribo",
+      "kind": "area",
+      "locality": "Suriname",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Suriname",
+      "id": "suriname-ac6ef56b4acc8fde983d"
+    },
+    {
+      "name": "Albina",
+      "kind": "area",
+      "locality": "Suriname",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Suriname",
+      "id": "suriname-7826a5dca03239a5b24d"
+    },
+    {
+      "name": "Apoera",
+      "kind": "area",
+      "locality": "Suriname",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Suriname",
+      "id": "suriname-c1aaae9de431a161956b"
+    },
+    {
+      "name": "Domburg",
+      "kind": "area",
+      "locality": "Suriname",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Suriname",
+      "id": "suriname-278989a84be00a9f53f7"
+    },
+    {
+      "name": "Groningen",
+      "kind": "area",
+      "locality": "Suriname",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Suriname",
+      "id": "suriname-ba341db0240e55d3c919"
+    },
+    {
+      "name": "Lelydorp",
+      "kind": "area",
+      "locality": "Suriname",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Suriname",
+      "id": "suriname-e74b4df3ffd8d2292de6"
+    },
+    {
+      "name": "Moengo",
+      "kind": "area",
+      "locality": "Suriname",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Suriname",
+      "id": "suriname-efbf8637c9d0e6778d5c"
+    },
+    {
+      "name": "Nieuw Amsterdam",
+      "kind": "area",
+      "locality": "Suriname",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Suriname",
+      "id": "suriname-311127d9558f8bd27180"
+    },
+    {
+      "name": "Nieuw Nickerie",
+      "kind": "area",
+      "locality": "Suriname",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Suriname",
+      "id": "suriname-61ba2699872bee5317da"
+    },
+    {
+      "name": "Santigron",
+      "kind": "area",
+      "locality": "Suriname",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Suriname",
+      "id": "suriname-8f299e63810f6c618f29"
+    },
+    {
+      "name": "CarsPlus",
+      "kind": "do",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Kwattaweg 246",
+      "price": "€21 per day inclusive of full insurance",
+      "url": "http://www.carsplusnv.com/index.php?lang=english",
+      "id": "suriname-fc59c40b6f87c04900d9"
+    },
+    {
+      "name": "Enterprise",
+      "kind": "do",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Fred Derbystraat 60",
+      "price": "€29 per day inclusive of full insurance",
+      "url": "http://www.enterprizeautos.com/",
+      "id": "suriname-4037cada3e71116788f4"
+    },
+    {
+      "name": "Historical city centre",
+      "kind": "do",
+      "locality": "Paramaribo",
+      "lat": 5.8256,
+      "lon": -55.15144,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "id": "suriname-75d1aae8b166377753c1"
+    },
+    {
+      "name": "Fort Zeelandia",
+      "kind": "do",
+      "locality": "Paramaribo",
+      "lat": 5.82515,
+      "lon": -55.14969,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Abraham Crijnssenweg 1",
+      "id": "suriname-a2970f6369dd7b586f18"
+    },
+    {
+      "name": "Numismatic Museum",
+      "kind": "do",
+      "locality": "Paramaribo",
+      "lat": 5.82665,
+      "lon": -55.15296,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Mr F.H.R. Lim a Po Straat 7",
+      "price": "Free",
+      "id": "suriname-79d3929f3d7c4c62a011"
+    },
+    {
+      "name": "Onafhankelijkheidsplein (Independence Square) and Presidential Palace",
+      "kind": "do",
+      "locality": "Paramaribo",
+      "lat": 5.82628,
+      "lon": -55.15152,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "id": "suriname-7ccc351ad4874f07b378"
+    },
+    {
+      "name": "Palmentuin (Palm Gardens)",
+      "kind": "do",
+      "locality": "Paramaribo",
+      "lat": 5.82827,
+      "lon": -55.15002,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "id": "suriname-450e8c6bc55c3327d501"
+    },
+    {
+      "name": "Paramaribo Zoo",
+      "kind": "do",
+      "locality": "Paramaribo",
+      "lat": 5.8479,
+      "lon": -55.15991,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Letitia Vriesdelaan",
+      "price": "SRD10",
+      "url": "http://www.paramaribozoo.com/",
+      "id": "suriname-3a93ff885ba34b018026"
+    },
+    {
+      "name": "St. Peter and Paul Cathedral",
+      "kind": "do",
+      "locality": "Paramaribo",
+      "lat": 5.82853,
+      "lon": -55.15406,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Henck Arronstraat 22",
+      "id": "suriname-ab8b526751a0c9c197fe"
+    },
+    {
+      "name": "The Central Market",
+      "kind": "do",
+      "locality": "Paramaribo",
+      "lat": 5.82336,
+      "lon": -55.1589,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Waterkant",
+      "id": "suriname-147c686ef010bfc0702d"
+    },
+    {
+      "name": "Thalia theater",
+      "kind": "do",
+      "locality": "Paramaribo",
+      "lat": 5.83073,
+      "lon": -55.15974,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Dr. J.F. Nassylaan 4",
+      "id": "suriname-9e60350ebfb28d9d5d78"
+    },
+    {
+      "name": "Chi Min",
+      "kind": "eat",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Cornelis Jongbawstraat 83",
+      "id": "suriname-5e743c34236afe7dde26"
+    },
+    {
+      "name": "'t Vat",
+      "kind": "eat",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Kleine Waterstraat 1",
+      "price": "SRD25 for their special, 3-course tourist menu",
+      "url": "https://www.facebook.com/VATSU/",
+      "id": "suriname-5bc2245fd8d9990873a5"
+    },
+    {
+      "name": "Di Gadri",
+      "kind": "eat",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Zeelandiaweg 1",
+      "price": "Dishes around SRD20",
+      "id": "suriname-1d2ddc434ff7e694b1a9"
+    },
+    {
+      "name": "Joosje Roti Shop",
+      "kind": "eat",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Zwartenhovenbrugstraat 9",
+      "id": "suriname-884acb3650f6702640be"
+    },
+    {
+      "name": "Dumpling #1",
+      "kind": "eat",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Dr J.F. Nassylaan 1",
+      "id": "suriname-88c294ce801d08b02ad4"
+    },
+    {
+      "name": "Fatai Restaurant",
+      "kind": "eat",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Maagdenstraat 64",
+      "url": "https://www.facebook.com/pages/Fa-Tai/531362800241425",
+      "id": "suriname-59eb63c605ebf9b0ce85"
+    },
+    {
+      "name": "Restaurant Jawa",
+      "kind": "eat",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Kasabaholoweg 7",
+      "price": "from USD5",
+      "url": "http://restaurantjawa.blogspot.nl/",
+      "id": "suriname-63e20c3779b6b520b49a"
+    },
+    {
+      "name": "Liang Lang",
+      "kind": "eat",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "corner Dr J.F. Nassylaan and F. Derbiestraat",
+      "id": "suriname-1a12264eca275f5300bf"
+    },
+    {
+      "name": "Mirosso Indonesisch Restaurant",
+      "kind": "eat",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "J. Samson Greenstraat 104",
+      "id": "suriname-3e74499c5dc2d41c5f7a"
+    },
+    {
+      "name": "Pannekoek & Poffertjes Cafe",
+      "kind": "eat",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "van Sommelsdijckstraat 11",
+      "id": "suriname-fe060a0bbbd38e7e4852"
+    },
+    {
+      "name": "Popeye's Chicken and Biscuits",
+      "kind": "eat",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Domineestraat 39",
+      "id": "suriname-9c91cbb4b31b74698810"
+    },
+    {
+      "name": "Sun Do",
+      "kind": "eat",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "corner of Weidestraat and F. Derbiestraat",
+      "id": "suriname-7d085352a2af3d7c82dd"
+    },
+    {
+      "name": "JiJi's",
+      "kind": "eat",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "url": "https://www.facebook.com/JijisRestaurant/?rf=297383066992808",
+      "id": "suriname-88f2de64f65f3a8cac2d"
+    },
+    {
+      "name": "De Waag",
+      "kind": "eat",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Waterkant 5",
+      "url": "https://www.facebook.com/dewaagsr/",
+      "id": "suriname-9ad65042bc39dfe9b3c5"
+    },
+    {
+      "name": "Brotik",
+      "kind": "eat",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "id": "suriname-09c01bbba40c5c66b764"
+    },
+    {
+      "name": "Riverside Kitchen",
+      "kind": "eat",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "id": "suriname-8f0ac60812173380c0ab"
+    },
+    {
+      "name": "Club Touche",
+      "kind": "eat",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "url": "https://www.facebook.com/clubtouche/",
+      "id": "suriname-a7f1c0f0a358e6c6a114"
+    },
+    {
+      "name": "Margaritas Poolcafé",
+      "kind": "eat",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Kleine Dwarsstraat 3",
+      "url": "https://www.facebook.com/pages/Margaritas-Poolcafe/244635482217804",
+      "id": "suriname-2a4a3412d3f6de99bf79"
+    },
+    {
+      "name": "Euphoria",
+      "kind": "eat",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Kleine Waterstraat 5-7",
+      "url": "http://www.euphoria-nightclub.com/",
+      "id": "suriname-a611e9d5ae6faabfe94b"
+    },
+    {
+      "name": "Torarica",
+      "kind": "eat",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Mr. L.J. Rietbergplein 1",
+      "url": "http://www.torarica.com/",
+      "id": "suriname-3650cd7731a7cbb21a18"
+    },
+    {
+      "name": "Guesthouse Albergo Alberga",
+      "kind": "stay",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Lim A Po straat 13",
+      "price": "from €20 for a double with fan; discounts for weekly or monthly stays",
+      "url": "http://www.guesthousealbergoalberga.com/",
+      "id": "suriname-8c195714303c37802f3f"
+    },
+    {
+      "name": "Guesthouse Amice",
+      "kind": "stay",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Gravenberchstraat 5",
+      "price": "€35-50",
+      "url": "http://www.guesthouse-amice.sr/",
+      "id": "suriname-4a6c30f4bfa5d5b76f1b"
+    },
+    {
+      "name": "Guesthouse Zus & Zo",
+      "kind": "stay",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Grote Combeweg 13a",
+      "price": "€15-50",
+      "url": "http://www.zusenzosuriname.com/",
+      "id": "suriname-d4b5b73e5950df8ddda6"
+    },
+    {
+      "name": "Guesthouse Stay-Cey",
+      "kind": "stay",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Verlengde Hoogestraat 41",
+      "price": "€30",
+      "url": "http://www.guesthousestaycey.com/site/",
+      "id": "suriname-e6e2b96821a709cca5ff"
+    },
+    {
+      "name": "Kekemba Resort Paramaribo",
+      "kind": "stay",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Mangolaan 118",
+      "price": "€37",
+      "url": "http://www.kekemba.info/index.php",
+      "id": "suriname-b9e3dca5af5a673e374d"
+    },
+    {
+      "name": "Downtown Oasis",
+      "kind": "stay",
+      "locality": "Paramaribo",
+      "lat": 5.8297,
+      "lon": -55.1548,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Jessurunstraat 9",
+      "price": "€39-75 per day, €10 per person for extra bed",
+      "url": "http://downtownoasis.sr/en/home",
+      "id": "suriname-74d54b554f9cb3e659df"
+    },
+    {
+      "name": "Amber Apartments Paramaribo",
+      "kind": "stay",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Belemstraat 4",
+      "id": "suriname-8364bc0b13822919b76c"
+    },
+    {
+      "name": "Linur Apartments",
+      "kind": "stay",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Gonggrijpstraat 49",
+      "url": "http://www.linur-apartments.com/",
+      "id": "suriname-55fd35aaf9dd97bc1eb7"
+    },
+    {
+      "name": "Hotel La Petite Maison",
+      "kind": "stay",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Waterkant 4",
+      "url": "http://www.hotellapetitemaison.com/",
+      "id": "suriname-02afee51904cd6c9ebda"
+    },
+    {
+      "name": "Tropicana Hotel & Casino",
+      "kind": "stay",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Saramaccastraat 17",
+      "url": "http://www.pashaglobal.com/Casino/Casino?CasinoID=2",
+      "id": "suriname-cfc99bf4a04d2389272a"
+    },
+    {
+      "name": "Tran Elite Hotel",
+      "kind": "stay",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "J.D. Gompertstraat 143",
+      "price": "Doubles without balcony from US$55",
+      "url": "http://www.tranelite.com/",
+      "id": "suriname-8d9b46ce1126b1143b88"
+    },
+    {
+      "name": "Paramuru Hotel",
+      "kind": "stay",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Waaldijkstraat 28",
+      "price": "Standard doubles from €40, penthouse €50",
+      "url": "http://www.paramuru.com/",
+      "id": "suriname-6bba5ea163df7505d5d5"
+    },
+    {
+      "name": "Guess Hotel",
+      "kind": "stay",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Dr. Sophie Redmondstraat 69",
+      "id": "suriname-f6a8f0d4598adc4c6952"
+    },
+    {
+      "name": "Royal Torarica Hotel",
+      "kind": "stay",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Kleine Waterstraat 10",
+      "price": "USD145",
+      "url": "http://www.royaltorarica.com/",
+      "id": "suriname-c44de5ad2315b81d3502"
+    },
+    {
+      "name": "Spanhoek Boutique Hotel",
+      "kind": "stay",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Domineestraat 2-4",
+      "price": "€110 per double room",
+      "url": "http://www.spanhoekhotel.com/",
+      "id": "suriname-101e1483b03fb6960639"
+    },
+    {
+      "name": "Hotel & Casino Torarica",
+      "kind": "stay",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Mr. L.J. Rietbergplein 1",
+      "price": "USD140 and up",
+      "url": "http://www.torarica.com/",
+      "id": "suriname-848678c2c47299799fc5"
+    },
+    {
+      "name": "Eco Torarica",
+      "kind": "stay",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Cornelis Jongbawstraat 16",
+      "price": "USD106",
+      "url": "https://ecotorarica.com/",
+      "id": "suriname-d8ad830d4ae019c79682"
+    },
+    {
+      "name": "Krasnapolsky Hotel",
+      "kind": "stay",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Domineestraat 39",
+      "price": "€109",
+      "url": "https://www.facebook.com/krasnapolsky.paramaribo/",
+      "id": "suriname-191ba6daa0f411605265"
+    },
+    {
+      "name": "North Resort Hotel",
+      "kind": "stay",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "J.D. Gompertstraat 145-147",
+      "url": "http://www.northresort.sr/",
+      "id": "suriname-36bff61b6f7cb2ddaae9"
+    },
+    {
+      "name": "Residence Inn Paramaribo",
+      "kind": "stay",
+      "locality": "Paramaribo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "address": "Anton Dragtenweg 7",
+      "url": "http://www.resinn.com/",
+      "id": "suriname-df91ebb086f8cd8a50da"
+    },
+    {
+      "name": "Paramaribo",
+      "kind": "area",
+      "locality": "Paramaribo",
+      "lat": 5.8667,
+      "lon": -55.1667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Paramaribo",
+      "id": "suriname-23bafa8a8d1f04e20474"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

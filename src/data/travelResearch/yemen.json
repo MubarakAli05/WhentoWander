@@ -1,0 +1,382 @@
+{
+  "sources": [
+    {
+      "title": "Yemen",
+      "url": "https://en.wikivoyage.org/wiki/Yemen",
+      "checkedAt": "2026-10-21T08:13:14.406Z"
+    },
+    {
+      "title": "Sana'a",
+      "url": "https://en.wikivoyage.org/wiki/Sana'a",
+      "checkedAt": "2026-10-21T08:13:17.199Z"
+    },
+    {
+      "title": "Aden",
+      "url": "https://en.wikivoyage.org/wiki/Aden",
+      "checkedAt": "2026-10-21T08:13:20.399Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Sana'a",
+      "kind": "area",
+      "locality": "Yemen",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yemen",
+      "id": "yemen-949a34fc3c6d67e9218d"
+    },
+    {
+      "name": "Aden",
+      "kind": "area",
+      "locality": "Yemen",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yemen",
+      "id": "yemen-e42d17efa2a5fb0e4ab6"
+    },
+    {
+      "name": "Al Hudayda",
+      "kind": "area",
+      "locality": "Yemen",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yemen",
+      "id": "yemen-82b41c791fae5cb400c3"
+    },
+    {
+      "name": "Al Mukalla",
+      "kind": "area",
+      "locality": "Yemen",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yemen",
+      "id": "yemen-0ddd1a3618dfa6e6e817"
+    },
+    {
+      "name": "Ibb",
+      "kind": "area",
+      "locality": "Yemen",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yemen",
+      "id": "yemen-853b872cf02c923f97b3"
+    },
+    {
+      "name": "Kawkaban",
+      "kind": "area",
+      "locality": "Yemen",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yemen",
+      "id": "yemen-f4a06979f90025acf346"
+    },
+    {
+      "name": "Mokha",
+      "kind": "area",
+      "locality": "Yemen",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yemen",
+      "id": "yemen-da3ac6805c4a431408ee"
+    },
+    {
+      "name": "Shibam",
+      "kind": "area",
+      "locality": "Yemen",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yemen",
+      "id": "yemen-e97bb2f9830933003339"
+    },
+    {
+      "name": "Ta'izz",
+      "kind": "area",
+      "locality": "Yemen",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yemen",
+      "id": "yemen-0007a5419b2c1844f633"
+    },
+    {
+      "name": "Bab al-Yaman",
+      "kind": "do",
+      "locality": "Sana'a",
+      "lat": 15.351228,
+      "lon": 44.215898,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sana'a",
+      "id": "yemen-880126d230bb5b67898c"
+    },
+    {
+      "name": "National Museum of Yemen",
+      "kind": "do",
+      "locality": "Sana'a",
+      "lat": 15.355906,
+      "lon": 44.206086,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sana'a",
+      "price": "YR500",
+      "id": "yemen-784c056c5490a4b8c344"
+    },
+    {
+      "name": "Military Museum",
+      "kind": "do",
+      "locality": "Sana'a",
+      "lat": 15.353056,
+      "lon": 44.204722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sana'a",
+      "price": "YR200",
+      "id": "yemen-b151521f1bfbe00e3d40"
+    },
+    {
+      "name": "Wadi Dhahr",
+      "kind": "do",
+      "locality": "Sana'a",
+      "lat": 15.44103,
+      "lon": 44.126172,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sana'a",
+      "id": "yemen-35c5e74c97b297174ebe"
+    },
+    {
+      "name": "Great Mosque of Sana'a",
+      "kind": "do",
+      "locality": "Sana'a",
+      "lat": 15.353089,
+      "lon": 44.214928,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sana'a",
+      "id": "yemen-2eda0ba32debb0aab90d"
+    },
+    {
+      "name": "Al Saleh Mosque",
+      "kind": "do",
+      "locality": "Sana'a",
+      "lat": 15.3258,
+      "lon": 44.2077,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sana'a",
+      "id": "yemen-92d739c48fd3f4b59b33"
+    },
+    {
+      "name": "Al Shamiri Plaza hotel",
+      "kind": "eat",
+      "locality": "Sana'a",
+      "lat": 15.34996,
+      "lon": 44.20673,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sana'a",
+      "id": "yemen-0a18e9346ee822549821"
+    },
+    {
+      "name": "Merkato Ethiopian Food",
+      "kind": "eat",
+      "locality": "Sana'a",
+      "lat": 45.5411,
+      "lon": -122.6618,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sana'a",
+      "id": "yemen-1fbad5bcb10e7f91cdc6"
+    },
+    {
+      "name": "Al-Hamra",
+      "kind": "eat",
+      "locality": "Sana'a",
+      "lat": 15.333317,
+      "lon": 44.199085,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sana'a",
+      "id": "yemen-64b92a157297c673a684"
+    },
+    {
+      "name": "Pizza Hut",
+      "kind": "eat",
+      "locality": "Sana'a",
+      "lat": 15.29648,
+      "lon": 44.18428,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sana'a",
+      "address": "Sabeen Street",
+      "id": "yemen-1f6b43b6fdabe370e6a7"
+    },
+    {
+      "name": "KFC",
+      "kind": "eat",
+      "locality": "Sana'a",
+      "lat": 15.32727,
+      "lon": 44.20091,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sana'a",
+      "address": "Hadda Road",
+      "id": "yemen-654ed54a9e98e887faa4"
+    },
+    {
+      "name": "Hotel Dawood",
+      "kind": "stay",
+      "locality": "Sana'a",
+      "lat": 15.354377,
+      "lon": 44.212746,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sana'a",
+      "id": "yemen-0f142e6c9ac30194bd56"
+    },
+    {
+      "name": "Taj Talha",
+      "kind": "stay",
+      "locality": "Sana'a",
+      "lat": 15.35413,
+      "lon": 44.211745,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sana'a",
+      "id": "yemen-4af5b69ad1e2ac8da29c"
+    },
+    {
+      "name": "Burj Al Salam Hotel",
+      "kind": "stay",
+      "locality": "Sana'a",
+      "lat": 15.356553,
+      "lon": 44.213565,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sana'a",
+      "url": "http://www.burjalsalam.com/",
+      "id": "yemen-bd3f4a21f864eac2ac3c"
+    },
+    {
+      "name": "Sam City Hotel",
+      "kind": "stay",
+      "locality": "Sana'a",
+      "lat": 15.29942,
+      "lon": 44.23757,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sana'a",
+      "price": "USD25-35",
+      "id": "yemen-d71bb8d341ae59825cfc"
+    },
+    {
+      "name": "Sheba Hotel",
+      "kind": "stay",
+      "locality": "Sana'a",
+      "lat": 15.34921,
+      "lon": 44.2059,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sana'a",
+      "address": "Ali Abdolmoghni St",
+      "url": "https://shebahotel.com/new/",
+      "id": "yemen-a9ff76cdcaa319185d05"
+    },
+    {
+      "name": "Sana'a",
+      "kind": "area",
+      "locality": "Sana'a",
+      "lat": 15.3483,
+      "lon": 44.2064,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sana'a",
+      "id": "yemen-77b4e0d17b5937270888"
+    },
+    {
+      "name": "Big Ben Aden",
+      "kind": "do",
+      "locality": "Aden",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Aden",
+      "id": "yemen-1063954cb0c80c2e2540"
+    },
+    {
+      "name": "St. Francis of Assisi Church",
+      "kind": "do",
+      "locality": "Aden",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Aden",
+      "id": "yemen-69a0bd3e634f659ad867"
+    },
+    {
+      "name": "Queen Victoria Park",
+      "kind": "do",
+      "locality": "Aden",
+      "lat": 12.789,
+      "lon": 44.9845,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Aden",
+      "id": "yemen-db3099cf6c7c5110b40b"
+    },
+    {
+      "name": "Tourist Port",
+      "kind": "do",
+      "locality": "Aden",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Aden",
+      "id": "yemen-16192b5271e3158296df"
+    },
+    {
+      "name": "Aden Military Museum",
+      "kind": "do",
+      "locality": "Aden",
+      "lat": 12.779207,
+      "lon": 45.03652,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Aden",
+      "id": "yemen-fd9181c33b7e4f995377"
+    },
+    {
+      "name": "National Museum",
+      "kind": "do",
+      "locality": "Aden",
+      "lat": 12.7789176,
+      "lon": 45.0430623,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Aden",
+      "id": "yemen-51252717aeb360167bff"
+    },
+    {
+      "name": "Central market",
+      "kind": "do",
+      "locality": "Aden",
+      "lat": 12.7775477,
+      "lon": 45.0349667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Aden",
+      "id": "yemen-41874ae28e9a8f5bb78b"
+    },
+    {
+      "name": "Cisterns of Tawila",
+      "kind": "do",
+      "locality": "Aden",
+      "lat": 12.7741444,
+      "lon": 45.028619,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Aden",
+      "price": "10 rials",
+      "id": "yemen-292cef17b5d860447f5b"
+    },
+    {
+      "name": "Aidrus Mosque",
+      "kind": "do",
+      "locality": "Aden",
+      "lat": 12.7722,
+      "lon": 45.0364,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Aden",
+      "id": "yemen-b49c8cf333578a654f64"
+    },
+    {
+      "name": "Aban Mosque",
+      "kind": "do",
+      "locality": "Aden",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Aden",
+      "id": "yemen-1b8a5f107990ffd15bdf"
+    },
+    {
+      "name": "Sira Fortress",
+      "kind": "do",
+      "locality": "Aden",
+      "lat": 12.7791,
+      "lon": 45.0495,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Aden",
+      "id": "yemen-a0dac7e2a9c24be8716c"
+    },
+    {
+      "name": "Fish market",
+      "kind": "do",
+      "locality": "Aden",
+      "lat": 12.77804,
+      "lon": 45.04746,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Aden",
+      "id": "yemen-73dc2151ee50396a7e44"
+    },
+    {
+      "name": "Fisherman Bay",
+      "kind": "do",
+      "locality": "Aden",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Aden",
+      "id": "yemen-3b3b9f4eb34f04c14aca"
+    },
+    {
+      "name": "Aden Mall",
+      "kind": "do",
+      "locality": "Aden",
+      "lat": 12.7835,
+      "lon": 45.04255,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Aden",
+      "id": "yemen-fd7b54826b2c6cc02cda"
+    },
+    {
+      "name": "Elephant Bay",
+      "kind": "stay",
+      "locality": "Aden",
+      "lat": 12.77156,
+      "lon": 44.98863,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Aden",
+      "id": "yemen-d15285c80dbe7150be8a"
+    },
+    {
+      "name": "Aden",
+      "kind": "area",
+      "locality": "Aden",
+      "lat": 12.783333333333,
+      "lon": 45.016666666667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Aden",
+      "id": "yemen-c5c6494d5dbaaef77e09"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 3 distinct public Wikivoyage source pages; attempted 3 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

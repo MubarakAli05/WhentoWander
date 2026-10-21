@@ -1,0 +1,244 @@
+{
+  "sources": [
+    {
+      "title": "São Tomé and Príncipe",
+      "url": "https://en.wikivoyage.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
+      "checkedAt": "2026-10-21T08:12:08.218Z"
+    },
+    {
+      "title": "São Tomé",
+      "url": "https://en.wikivoyage.org/wiki/S%C3%A3o_Tom%C3%A9",
+      "checkedAt": "2026-10-21T08:12:11.221Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "São Tomé",
+      "kind": "area",
+      "locality": "São Tomé and Príncipe",
+      "lat": 0.336111,
+      "lon": 6.681389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
+      "id": "sao-tome-and-principe-34b5e65a73489375735e"
+    },
+    {
+      "name": "Santo António",
+      "kind": "area",
+      "locality": "São Tomé and Príncipe",
+      "lat": 1.636667,
+      "lon": 7.417778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
+      "id": "sao-tome-and-principe-f3f1447bb56bdff5cd94"
+    },
+    {
+      "name": "Eddington's Plaque",
+      "kind": "do",
+      "locality": "São Tomé and Príncipe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
+      "address": "Sundy Plantation, Príncipe Island",
+      "id": "sao-tome-and-principe-e3c49a7dfa215a4cc4a3"
+    },
+    {
+      "name": "Monte Café",
+      "kind": "do",
+      "locality": "São Tomé and Príncipe",
+      "lat": 0.300611,
+      "lon": 6.639722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
+      "id": "sao-tome-and-principe-f5400bdc29f451d95d25"
+    },
+    {
+      "name": "Agua Izé",
+      "kind": "do",
+      "locality": "São Tomé and Príncipe",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
+      "id": "sao-tome-and-principe-e4aa6c1d22f34b4c8985"
+    },
+    {
+      "name": "Diogo Vaz",
+      "kind": "do",
+      "locality": "São Tomé and Príncipe",
+      "lat": 0.317333,
+      "lon": 6.498389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
+      "id": "sao-tome-and-principe-e423d639328c987ed76c"
+    },
+    {
+      "name": "Sao Joao",
+      "kind": "do",
+      "locality": "São Tomé and Príncipe",
+      "lat": 0.140222,
+      "lon": 6.646222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
+      "id": "sao-tome-and-principe-fcb2aa6827be151e4172"
+    },
+    {
+      "name": "Sundy",
+      "kind": "do",
+      "locality": "São Tomé and Príncipe",
+      "lat": 1.669056,
+      "lon": 7.383139,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
+      "id": "sao-tome-and-principe-d2f1cb5dd803d72bc836"
+    },
+    {
+      "name": "Belo Monte",
+      "kind": "do",
+      "locality": "São Tomé and Príncipe",
+      "lat": 1.684278,
+      "lon": 7.4435,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/S%C3%A3o_Tom%C3%A9_and_Pr%C3%ADncipe",
+      "id": "sao-tome-and-principe-761a30e313f880db5fbf"
+    },
+    {
+      "name": "Our Lady of Grace Cathedral/Cathedral of São Tomé",
+      "kind": "do",
+      "locality": "São Tomé",
+      "lat": 0.338421,
+      "lon": 6.732746,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/S%C3%A3o_Tom%C3%A9",
+      "id": "sao-tome-and-principe-67dd72343d6df08f7ed6"
+    },
+    {
+      "name": "Presidential Palace",
+      "kind": "do",
+      "locality": "São Tomé",
+      "lat": 0.339131,
+      "lon": 6.733261,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/S%C3%A3o_Tom%C3%A9",
+      "id": "sao-tome-and-principe-a30a2fb5204a41269f07"
+    },
+    {
+      "name": "São Tomé National Museum",
+      "kind": "do",
+      "locality": "São Tomé",
+      "lat": 0.345986,
+      "lon": 6.739484,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/S%C3%A3o_Tom%C3%A9",
+      "id": "sao-tome-and-principe-a0207b32beeb664b7da5"
+    },
+    {
+      "name": "Cascata de São Nicolau",
+      "kind": "do",
+      "locality": "São Tomé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/S%C3%A3o_Tom%C3%A9",
+      "id": "sao-tome-and-principe-06e5b3035736035cefd3"
+    },
+    {
+      "name": "Casa Museum Almada Negreiros",
+      "kind": "eat",
+      "locality": "São Tomé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/S%C3%A3o_Tom%C3%A9",
+      "address": "on the road to the Sao Nicolau waterfall - Roca da Saudade",
+      "url": "https://m.facebook.com/casamuseualmadanegreiros/",
+      "id": "sao-tome-and-principe-3a2c855fe7179651eeb7"
+    },
+    {
+      "name": "Chez Tete",
+      "kind": "eat",
+      "locality": "São Tomé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/S%C3%A3o_Tom%C3%A9",
+      "address": "Av. 12 Julho",
+      "id": "sao-tome-and-principe-303b27c241977a55e81a"
+    },
+    {
+      "name": "O Pirata",
+      "kind": "eat",
+      "locality": "São Tomé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/S%C3%A3o_Tom%C3%A9",
+      "address": "Avenue San Gabriel",
+      "id": "sao-tome-and-principe-979fa225fe9ba845ed04"
+    },
+    {
+      "name": "Cafe Camoes",
+      "kind": "eat",
+      "locality": "São Tomé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/S%C3%A3o_Tom%C3%A9",
+      "url": "https://m.facebook.com/Cam%C3%B5es-Restaurante-Bar-Caf%C3%A9-184836792033198/",
+      "id": "sao-tome-and-principe-b1abfc5dc3b237162fc9"
+    },
+    {
+      "name": "Cesar Cafe",
+      "kind": "eat",
+      "locality": "São Tomé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/S%C3%A3o_Tom%C3%A9",
+      "address": "Avenida 12 de Julho",
+      "url": "https://m.facebook.com/cesarcafestp/",
+      "id": "sao-tome-and-principe-38188fe988d992c088b2"
+    },
+    {
+      "name": "Envy Bar STP",
+      "kind": "eat",
+      "locality": "São Tomé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/S%C3%A3o_Tom%C3%A9",
+      "address": "Rua Pascoal Amado (Rua Morta)",
+      "url": "https://m.facebook.com/EnvyBarSTP/",
+      "id": "sao-tome-and-principe-5072a490efccdab18d2e"
+    },
+    {
+      "name": "Sweet Guest House",
+      "kind": "stay",
+      "locality": "São Tomé",
+      "lat": 0.3328,
+      "lon": 6.7286,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/S%C3%A3o_Tom%C3%A9",
+      "address": "Vila Dolores, Ed 087",
+      "price": "nDb979,592–1,326,531",
+      "url": "https://www.sweetguesthouse.com/",
+      "id": "sao-tome-and-principe-2958c193092f06f104de"
+    },
+    {
+      "name": "Hotel Central",
+      "kind": "stay",
+      "locality": "São Tomé",
+      "lat": 0.338,
+      "lon": 6.7307,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/S%C3%A3o_Tom%C3%A9",
+      "address": "Rua de Angola",
+      "price": "nDb1,260,000–1,560,000",
+      "id": "sao-tome-and-principe-596541f6f8b29342523f"
+    },
+    {
+      "name": "Pestana Miramar Hotel",
+      "kind": "stay",
+      "locality": "São Tomé",
+      "lat": 0.337342,
+      "lon": 6.739204,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/S%C3%A3o_Tom%C3%A9",
+      "address": "Avenida Marginal 12 de Julho 69",
+      "price": "From €155",
+      "url": "https://www.pestana.com/pt/hotel/miramar-by-pestana",
+      "id": "sao-tome-and-principe-800458e2583833ef9d04"
+    },
+    {
+      "name": "Omali Lodge",
+      "kind": "stay",
+      "locality": "São Tomé",
+      "lat": 0.3612,
+      "lon": 6.7142,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/S%C3%A3o_Tom%C3%A9",
+      "address": "Praia Lagartos",
+      "price": "nDb5,760,000–6,660,000",
+      "url": "https://www.omalilodge.com/",
+      "id": "sao-tome-and-principe-334c9e63ef58eec12e61"
+    },
+    {
+      "name": "Obo Natural Park",
+      "kind": "do",
+      "locality": "São Tomé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/S%C3%A3o_Tom%C3%A9",
+      "id": "sao-tome-and-principe-d7692217ddea3e025adb"
+    },
+    {
+      "name": "São Tomé",
+      "kind": "area",
+      "locality": "São Tomé",
+      "lat": 0.336111,
+      "lon": 6.731389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/S%C3%A3o_Tom%C3%A9",
+      "id": "sao-tome-and-principe-e455875efa4e59bf11c9"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

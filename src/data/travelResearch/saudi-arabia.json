@@ -1,0 +1,656 @@
+{
+  "sources": [
+    {
+      "title": "Saudi Arabia",
+      "url": "https://en.wikivoyage.org/wiki/Saudi_Arabia",
+      "checkedAt": "2026-10-21T08:14:50.338Z"
+    },
+    {
+      "title": "Riyadh",
+      "url": "https://en.wikivoyage.org/wiki/Riyadh",
+      "checkedAt": "2026-10-21T08:14:53.920Z"
+    },
+    {
+      "title": "Al-Ula",
+      "url": "https://en.wikivoyage.org/wiki/Al-Ula",
+      "checkedAt": "2026-10-21T08:14:59.299Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Riyadh",
+      "kind": "area",
+      "locality": "Saudi Arabia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saudi_Arabia",
+      "id": "saudi-arabia-64e64527105153501720"
+    },
+    {
+      "name": "Abha",
+      "kind": "area",
+      "locality": "Saudi Arabia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saudi_Arabia",
+      "id": "saudi-arabia-e17829774e2ee9cd95ba"
+    },
+    {
+      "name": "Dhahran",
+      "kind": "area",
+      "locality": "Saudi Arabia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saudi_Arabia",
+      "id": "saudi-arabia-443bd8209d43a1bf305d"
+    },
+    {
+      "name": "Jeddah",
+      "kind": "area",
+      "locality": "Saudi Arabia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saudi_Arabia",
+      "id": "saudi-arabia-34ee8879066908801694"
+    },
+    {
+      "name": "Jubail",
+      "kind": "area",
+      "locality": "Saudi Arabia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saudi_Arabia",
+      "id": "saudi-arabia-4757d46ad61aa915ff8c"
+    },
+    {
+      "name": "Mecca",
+      "kind": "area",
+      "locality": "Saudi Arabia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saudi_Arabia",
+      "id": "saudi-arabia-e2c2f52d8f0972be8fbb"
+    },
+    {
+      "name": "Medina",
+      "kind": "area",
+      "locality": "Saudi Arabia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saudi_Arabia",
+      "id": "saudi-arabia-ebb375b51e3fb8213bba"
+    },
+    {
+      "name": "Najran",
+      "kind": "area",
+      "locality": "Saudi Arabia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saudi_Arabia",
+      "id": "saudi-arabia-cd8e1b93cdcd92649d1b"
+    },
+    {
+      "name": "Ta'if",
+      "kind": "area",
+      "locality": "Saudi Arabia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saudi_Arabia",
+      "id": "saudi-arabia-f0a7a6de88930f4bf38e"
+    },
+    {
+      "name": "Kudu",
+      "kind": "eat",
+      "locality": "Saudi Arabia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saudi_Arabia",
+      "url": "https://www.kudu.com.sa/",
+      "id": "saudi-arabia-9fbac2af5c4e3e882168"
+    },
+    {
+      "name": "Herfy Burger",
+      "kind": "eat",
+      "locality": "Saudi Arabia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saudi_Arabia",
+      "url": "http://www.herfy.com/",
+      "id": "saudi-arabia-7e1a1ac85c460f95571d"
+    },
+    {
+      "name": "Masmak Fortress",
+      "kind": "do",
+      "locality": "Riyadh",
+      "lat": 24.6311,
+      "lon": 46.7133,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "address": "Deira",
+      "price": "Free",
+      "id": "saudi-arabia-a4a44350d95b861538dd"
+    },
+    {
+      "name": "Murabba Palace",
+      "kind": "do",
+      "locality": "Riyadh",
+      "lat": 24.6465,
+      "lon": 46.7093,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "price": "Free",
+      "id": "saudi-arabia-01377708a1b94cca2b4e"
+    },
+    {
+      "name": "National Museum",
+      "kind": "do",
+      "locality": "Riyadh",
+      "lat": 24.6472,
+      "lon": 46.7108,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "price": "Free",
+      "url": "http://www.nationalmuseum.org.sa/",
+      "id": "saudi-arabia-eeb9a2b68cdf2eb6ea2b"
+    },
+    {
+      "name": "Royal Saudi Airforce Museum",
+      "kind": "do",
+      "locality": "Riyadh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "price": "SR10",
+      "id": "saudi-arabia-48cc542df4772a639eb5"
+    },
+    {
+      "name": "As-Sufaat",
+      "kind": "do",
+      "locality": "Riyadh",
+      "lat": 24.630884,
+      "lon": 46.711838,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "id": "saudi-arabia-2ab14d712d86e261a264"
+    },
+    {
+      "name": "Kingdom Centre",
+      "kind": "do",
+      "locality": "Riyadh",
+      "lat": 24.711389,
+      "lon": 46.674444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "address": "No. 94, Al Olaya",
+      "price": "SR60 (Skybridge)",
+      "url": "http://www.kingdomcentre.com.sa/",
+      "id": "saudi-arabia-0ddda0d1b9ac02c2e699"
+    },
+    {
+      "name": "Red Sands Desert Tour",
+      "kind": "do",
+      "locality": "Riyadh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "id": "saudi-arabia-c71e002693bca92469b8"
+    },
+    {
+      "name": "Dirab Golf & Country Club",
+      "kind": "do",
+      "locality": "Riyadh",
+      "lat": 24.43393,
+      "lon": 46.49068,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "url": "https://dirabgolf.com/",
+      "id": "saudi-arabia-eb51172223fc17fa6b10"
+    },
+    {
+      "name": "King Fadh Sports City",
+      "kind": "do",
+      "locality": "Riyadh",
+      "lat": 24.7883,
+      "lon": 46.8392,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "id": "saudi-arabia-744b73a8018ea37b5300"
+    },
+    {
+      "name": "KSU Stadium",
+      "kind": "do",
+      "locality": "Riyadh",
+      "lat": 24.7293,
+      "lon": 46.6237,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "id": "saudi-arabia-5981d83af4211f7736e0"
+    },
+    {
+      "name": "Prince Faisal bin Fahd Sport City",
+      "kind": "do",
+      "locality": "Riyadh",
+      "lat": 24.6626,
+      "lon": 46.7397,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "id": "saudi-arabia-4f1e807048eb15d27483"
+    },
+    {
+      "name": "Mama Noura Juice Center",
+      "kind": "eat",
+      "locality": "Riyadh",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "price": "Under SR10",
+      "url": "http://www.mamanoura.com.sa/",
+      "id": "saudi-arabia-bbce15dae892d9506f37"
+    },
+    {
+      "name": "Paragon Family Restaurant",
+      "kind": "eat",
+      "locality": "Riyadh",
+      "lat": 24.6407255,
+      "lon": 46.7194086,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "address": "حي، Omar Al Moukhtar, Batha",
+      "url": "http://www.paragonsaudi.com/",
+      "id": "saudi-arabia-b17f203f4c6482a4b15a"
+    },
+    {
+      "name": "Al Shaya Persian Restaurant",
+      "kind": "eat",
+      "locality": "Riyadh",
+      "lat": 24.7121275,
+      "lon": 46.6750365,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "price": "Single portions under SR10, huge set meals SR21",
+      "url": "http://www.shayah.net/",
+      "id": "saudi-arabia-64345b2574c672039387"
+    },
+    {
+      "name": "Goodah Soos Restaurant",
+      "kind": "eat",
+      "locality": "Riyadh",
+      "lat": 24.6914137,
+      "lon": 46.7076988,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "address": "2861 Abu Bakr Alrazi St",
+      "id": "saudi-arabia-1d4e3f100da589d65459"
+    },
+    {
+      "name": "Tasters House Pinoy Restaurant",
+      "kind": "eat",
+      "locality": "Riyadh",
+      "lat": 24.6915657,
+      "lon": 46.7076951,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "address": "Abu Bakr Alrazi St",
+      "id": "saudi-arabia-e6e99eb8512065eb1161"
+    },
+    {
+      "name": "Lapaz Batchoy - Sulaymaniyah Br",
+      "kind": "eat",
+      "locality": "Riyadh",
+      "lat": 24.6907027,
+      "lon": 46.7104105,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "address": "Near Prince Sultan، Military Medical City Center",
+      "id": "saudi-arabia-c8946d0e67b6443dfd2f"
+    },
+    {
+      "name": "Pasalubong",
+      "kind": "eat",
+      "locality": "Riyadh",
+      "lat": 24.6909833,
+      "lon": 46.7101279,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "address": "6875 Abu Bakr Alrazi St",
+      "id": "saudi-arabia-2b7d3fe898dd1e8dacfa"
+    },
+    {
+      "name": "Najd Village",
+      "kind": "eat",
+      "locality": "Riyadh",
+      "lat": 24.69768,
+      "lon": 46.66923,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "address": "Takhassusi St.",
+      "price": "SR75",
+      "url": "https://najdvillage.com/",
+      "id": "saudi-arabia-efbe6597a46b01592c7b"
+    },
+    {
+      "name": "Burj Al-Hamaam",
+      "kind": "eat",
+      "locality": "Riyadh",
+      "lat": 24.66763,
+      "lon": 46.68202,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "address": "Takhassusi St.",
+      "price": "SR30",
+      "url": "https://www.burjalhamamksa.com/",
+      "id": "saudi-arabia-b3457abb2071e8f1b5d8"
+    },
+    {
+      "name": "Tokyo",
+      "kind": "eat",
+      "locality": "Riyadh",
+      "lat": 24.71814,
+      "lon": 46.68671,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "address": "Oruba St.",
+      "price": "SR70 pp",
+      "id": "saudi-arabia-6b57512de9b1f8e65989"
+    },
+    {
+      "name": "Assaraya",
+      "kind": "eat",
+      "locality": "Riyadh",
+      "lat": 24.69271,
+      "lon": 46.69522,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "address": "Talatheen St",
+      "price": "SR30",
+      "id": "saudi-arabia-b68239f9fd0180c82552"
+    },
+    {
+      "name": "Chilis",
+      "kind": "eat",
+      "locality": "Riyadh",
+      "lat": 24.80915,
+      "lon": 46.66867,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "address": "Al Thoumamah Rd",
+      "price": "SR60",
+      "id": "saudi-arabia-3a83ea476801a492170b"
+    },
+    {
+      "name": "Korean Palace",
+      "kind": "eat",
+      "locality": "Riyadh",
+      "lat": 24.71191,
+      "lon": 46.66226,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "address": "Makkah Rd",
+      "price": "SR100 pp",
+      "id": "saudi-arabia-cdf49ee36239f1a9b07e"
+    },
+    {
+      "name": "Mirage Restaurant",
+      "kind": "eat",
+      "locality": "Riyadh",
+      "lat": 24.70891,
+      "lon": 46.66272,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "address": "Al-Takhassosi Rd, North West Riyadh",
+      "price": "SR80",
+      "id": "saudi-arabia-de252fdc1830cd917cf3"
+    },
+    {
+      "name": "Steak House",
+      "kind": "eat",
+      "locality": "Riyadh",
+      "lat": 24.77193,
+      "lon": 46.6746,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "address": "North Ring Rd.",
+      "price": "SR60",
+      "id": "saudi-arabia-892c97757f8ef38193e1"
+    },
+    {
+      "name": "Teatro",
+      "kind": "eat",
+      "locality": "Riyadh",
+      "lat": 24.78508,
+      "lon": 46.72852,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "address": "between Olaya and King Fahad Rd. next to Pizza Hut on Olaya",
+      "price": "SR60/SR90 VIP",
+      "id": "saudi-arabia-b77af4d088f74fb74936"
+    },
+    {
+      "name": "Sheraton Riyadh",
+      "kind": "eat",
+      "locality": "Riyadh",
+      "lat": 24.72752,
+      "lon": 46.66527,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "id": "saudi-arabia-b2443fd7f592628f2c2e"
+    },
+    {
+      "name": "Spazio",
+      "kind": "eat",
+      "locality": "Riyadh",
+      "lat": 24.7113,
+      "lon": 46.67421,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "url": "https://www.spazio77.com/",
+      "id": "saudi-arabia-4cc136af30a5b075d788"
+    },
+    {
+      "name": "The Globe",
+      "kind": "eat",
+      "locality": "Riyadh",
+      "lat": 24.6896,
+      "lon": 46.68624,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "address": "Al-Faisaliah",
+      "price": "Day SR100, night SR170 minimum charge, dinner SR175",
+      "url": "http://www.alfaisaliahhotels.com/en/dining/the-globe-restaurant.html",
+      "id": "saudi-arabia-5053aff016b8b7dbdf67"
+    },
+    {
+      "name": "Almuthana",
+      "kind": "stay",
+      "locality": "Riyadh",
+      "lat": 24.69181,
+      "lon": 46.68293,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "address": "King Fahd Rd",
+      "price": "From SR500",
+      "url": "http://www.almuthana.com/",
+      "id": "saudi-arabia-c506ec61dd9c05e0e826"
+    },
+    {
+      "name": "Swiss Spirit Hotel & Suites Metropolitan",
+      "kind": "stay",
+      "locality": "Riyadh",
+      "lat": 24.80674,
+      "lon": 46.62559,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "address": "Al Safaha District Riyadh,",
+      "price": "From SR 370 per night.",
+      "url": "https://www.swissspirithotels.com/metropolitan-riyadh",
+      "id": "saudi-arabia-8ffe6f7668ec24d9c27e"
+    },
+    {
+      "name": "Al Faisaliah Hotel, A Rosewood Hotel",
+      "kind": "stay",
+      "locality": "Riyadh",
+      "lat": 24.69036,
+      "lon": 46.68411,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "address": "King Fahd Rd",
+      "price": "SR 1,400",
+      "url": "http://www.alfaisaliahhotels.com/en/alfaisaliah-hotel.html",
+      "id": "saudi-arabia-aad5c4de67a74de65334"
+    },
+    {
+      "name": "Ascott Rafal Olaya Riyadh",
+      "kind": "stay",
+      "locality": "Riyadh",
+      "lat": 24.8090766,
+      "lon": 46.6240151,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "address": "7706, Sahafa Olaya St",
+      "url": "http://www.the-ascott.com/en/saudi-arabia/riyadh/ascott-rafal-olaya-riyadh/index.html",
+      "id": "saudi-arabia-e13a8c98d8a02b69c559"
+    },
+    {
+      "name": "Four Seasons Riyadh",
+      "kind": "stay",
+      "locality": "Riyadh",
+      "lat": 24.71146,
+      "lon": 46.67414,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "address": "Kingdom Tower, King Fahd Rd",
+      "price": "Singles from SR1200, doubles from SR1400",
+      "url": "http://www.fourseasons.com/riyadh/",
+      "id": "saudi-arabia-8a49d0af95cf797e3207"
+    },
+    {
+      "name": "Holiday Inn Al-Qasr",
+      "kind": "stay",
+      "locality": "Riyadh",
+      "lat": 24.68389,
+      "lon": 46.68803,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "address": "Olaya Main Rd",
+      "price": "Rooms from SR550. Internet SR100/day, breakfast buffet SR105",
+      "url": "https://www.ihg.com/holidayinn/hotels/gb/en/riyadh/ruhaq/hoteldetail?cm_mmc=GoogleMaps-_-HI-_-SA-_-RUHAQ",
+      "id": "saudi-arabia-f7cecbb533ad2d5b6de3"
+    },
+    {
+      "name": "Intercontinental Hotel",
+      "kind": "stay",
+      "locality": "Riyadh",
+      "lat": 24.66667,
+      "lon": 46.69215,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "url": "https://www.ihg.com/intercontinental/hotels/gb/en/riyadh/ruhha/hoteldetail?cm_mmc=GoogleMaps-_-IC-_-SA-_-RUHHA",
+      "id": "saudi-arabia-a5e5e24548dfaf3f6914"
+    },
+    {
+      "name": "Luthan Spa and Hotel",
+      "kind": "stay",
+      "locality": "Riyadh",
+      "lat": 24.70664,
+      "lon": 46.6417,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "address": "Aruba Rd",
+      "price": "SR350-979",
+      "url": "http://www.luthanhotel-spa.com/",
+      "id": "saudi-arabia-eee2ccb8df07688e0b50"
+    },
+    {
+      "name": "Marriott Riyadh",
+      "kind": "stay",
+      "locality": "Riyadh",
+      "lat": 24.6859,
+      "lon": 46.71235,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "price": "SR1000",
+      "url": "https://www.marriott.com/hotels/travel/ruhsa-riyadh-marriott-hotel/",
+      "id": "saudi-arabia-a9e7da70558e8bf9481a"
+    },
+    {
+      "name": "Radisson Blu Hotel, Riyadh",
+      "kind": "stay",
+      "locality": "Riyadh",
+      "lat": 24.67077,
+      "lon": 46.71884,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "address": "Al Mubarakiah Plaza",
+      "price": "SR800",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-riyadh",
+      "id": "saudi-arabia-c8133a78543ff9e682f1"
+    },
+    {
+      "name": "Sheraton Riyadh Hotel & Towers",
+      "kind": "stay",
+      "locality": "Riyadh",
+      "lat": 24.727407,
+      "lon": 46.663057,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "address": "King Fahd Rd",
+      "price": "SR900",
+      "url": "https://www.marriott.com/hotels/travel/ruhsi-sheraton-riyadh-hotel-and-towers/",
+      "id": "saudi-arabia-06d5c2068980df9b0c16"
+    },
+    {
+      "name": "Swiss International Royal Hotel",
+      "kind": "stay",
+      "locality": "Riyadh",
+      "lat": 24.8052,
+      "lon": 46.62571,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "address": "King Fahad Rd, Al Safaha District",
+      "price": "From SR 490 per night",
+      "url": "https://swissinternationalhotels.com/royal-riyadh",
+      "id": "saudi-arabia-ccd6bc7d7c586650c2db"
+    },
+    {
+      "name": "Riyadh",
+      "kind": "area",
+      "locality": "Riyadh",
+      "lat": 24.6333,
+      "lon": 46.7167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Riyadh",
+      "id": "saudi-arabia-be9154e6ec292bac66cc"
+    },
+    {
+      "name": "Old City of Dadan",
+      "kind": "do",
+      "locality": "Al-Ula",
+      "lat": 26.646835961433368,
+      "lon": 37.913874463571844,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Al-Ula",
+      "price": "Around SR 60 per person, bundled together with Jabal Ikhmal",
+      "id": "saudi-arabia-7645e7933f78d8cca6e1"
+    },
+    {
+      "name": "Rock Carvings of Jabal Ikhmal",
+      "kind": "do",
+      "locality": "Al-Ula",
+      "lat": 26.685764400687518,
+      "lon": 37.90689495363592,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Al-Ula",
+      "price": "Around SR 60 per person, bundled together with Old City of Dadan",
+      "id": "saudi-arabia-e9785bd30ce7a094d2a4"
+    },
+    {
+      "name": "Dadan Heritage Trail",
+      "kind": "do",
+      "locality": "Al-Ula",
+      "lat": 26.644158825724077,
+      "lon": 37.91042417087227,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Al-Ula",
+      "id": "saudi-arabia-d1e833925df1ea864a0e"
+    },
+    {
+      "name": "Old Town of Al-Ula",
+      "kind": "do",
+      "locality": "Al-Ula",
+      "lat": 26.625572,
+      "lon": 37.914944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Al-Ula",
+      "id": "saudi-arabia-acbf7b906f5ecafcef8a"
+    },
+    {
+      "name": "Restored Hejaz Railway Station",
+      "kind": "do",
+      "locality": "Al-Ula",
+      "lat": 26.603097564651353,
+      "lon": 37.94020186138489,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Al-Ula",
+      "id": "saudi-arabia-81299be989a0a63e53f0"
+    },
+    {
+      "name": "Harrat Viewpoint",
+      "kind": "do",
+      "locality": "Al-Ula",
+      "lat": 26.632339618085272,
+      "lon": 37.896732026788655,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Al-Ula",
+      "id": "saudi-arabia-6b89174be9e1a5c639b7"
+    },
+    {
+      "name": "Somewhere",
+      "kind": "eat",
+      "locality": "Al-Ula",
+      "lat": 26.629778281516128,
+      "lon": 37.91384754140042,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Al-Ula",
+      "price": "SAR 200+ per person",
+      "url": "https://letustakeyousomewhere.com/",
+      "id": "saudi-arabia-ca4dd6e633b32420580d"
+    },
+    {
+      "name": "Banyan Tree AlUla",
+      "kind": "stay",
+      "locality": "Al-Ula",
+      "lat": 26.7436,
+      "lon": 37.849,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Al-Ula",
+      "price": "2000 SAR",
+      "url": "https://www.banyantree.com/saudi-arabia/alula",
+      "id": "saudi-arabia-aa7fcf8e5b367986e250"
+    },
+    {
+      "name": "Red Mountains Farm Resort",
+      "kind": "stay",
+      "locality": "Al-Ula",
+      "lat": 26.628,
+      "lon": 38.0581,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Al-Ula",
+      "price": "300 SAR",
+      "id": "saudi-arabia-a563b4124e1c47865754"
+    },
+    {
+      "name": "Al-Ula",
+      "kind": "area",
+      "locality": "Al-Ula",
+      "lat": 26.6086,
+      "lon": 37.9236,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Al-Ula",
+      "id": "saudi-arabia-12046a1ef5db8675469b"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 3 distinct public Wikivoyage source pages; attempted 4 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Destination article routing (regional/landmark guides may use a nearby gateway): AlUla → Al-Ula. Title resolution: AlUla → Al-Ula (linked by Saudi Arabia)."
+}

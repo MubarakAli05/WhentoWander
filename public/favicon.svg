@@ -1,10 +1,15 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
-  <rect width="64" height="64" rx="16" fill="#1c1917"/>
-  <circle cx="32" cy="32" r="20" fill="none" stroke="#fbbf24" stroke-width="3"/>
-  <path d="M12 32h4m16 16v4m16-20h4m-20-20v4" fill="none" stroke="#fbbf24" stroke-width="2" stroke-linecap="round"/>
-  <path d="m41 23-7 11-11 7 7-11Z" fill="#fff7ed"/>
-  <path d="m41 23-7 11-4-4Z" fill="#fbbf24"/>
-  <circle cx="47" cy="17" r="9" fill="#1c1917"/>
-  <circle cx="47" cy="17" r="5" fill="#fbbf24"/>
-  <path d="M47 7V5m10 12h2m-5-7 1.5-1.5" fill="none" stroke="#fbbf24" stroke-width="2" stroke-linecap="round"/>
+  <defs>
+    <linearGradient id="mini-metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0b4"/><stop offset=".45" stop-color="#e7bc63"/><stop offset="1" stop-color="#aa763c"/></linearGradient>
+    <radialGradient id="mini-sun" cx="32%" cy="24%" r="80%"><stop stop-color="#fff1b3"/><stop offset=".65" stop-color="#f0bd54"/><stop offset="1" stop-color="#b47731"/></radialGradient>
+  </defs>
+  <rect width="64" height="64" rx="15" fill="#111719"/>
+  <circle cx="30" cy="34" r="22" fill="#16252d" stroke="url(#mini-metal)" stroke-width="3"/>
+  <path d="M30 14v5m0 30v5M10 34h5m30 0h5" fill="none" stroke="#b9c6c9" stroke-width="2"/>
+  <path d="m44 20-10 18-18 10 10-18Z" fill="#f0f3e9"/>
+  <path d="m44 20-10 18-4-4Z" fill="url(#mini-metal)"/>
+  <path d="m16 48 14-14 4 4Z" fill="#809aa6"/>
+  <circle cx="49" cy="13" r="10" fill="#111719"/>
+  <circle cx="49" cy="13" r="6.5" fill="url(#mini-sun)"/>
+  <path d="M49 3V1m10 12h2m-5-7 2-2" fill="none" stroke="#ecc576" stroke-width="2" stroke-linecap="round"/>
 </svg>

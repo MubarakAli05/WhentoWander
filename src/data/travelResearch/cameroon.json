@@ -1,0 +1,718 @@
+{
+  "sources": [
+    {
+      "title": "Cameroon",
+      "url": "https://en.wikivoyage.org/wiki/Cameroon",
+      "checkedAt": "2026-10-21T08:09:05.427Z"
+    },
+    {
+      "title": "Yaoundé",
+      "url": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "checkedAt": "2026-10-21T08:09:08.306Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Yaoundé",
+      "kind": "area",
+      "locality": "Cameroon",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cameroon",
+      "id": "cameroon-901073b8f6c386fdeb5a"
+    },
+    {
+      "name": "Bafoussam",
+      "kind": "area",
+      "locality": "Cameroon",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cameroon",
+      "id": "cameroon-de292fc5f755dde7e81d"
+    },
+    {
+      "name": "Bamenda",
+      "kind": "area",
+      "locality": "Cameroon",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cameroon",
+      "id": "cameroon-abd30a3ce69de713c07c"
+    },
+    {
+      "name": "Buea",
+      "kind": "area",
+      "locality": "Cameroon",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cameroon",
+      "id": "cameroon-a188a475931196a8633c"
+    },
+    {
+      "name": "Douala",
+      "kind": "area",
+      "locality": "Cameroon",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cameroon",
+      "id": "cameroon-a3ac5bb29a0e503837f3"
+    },
+    {
+      "name": "Garoua",
+      "kind": "area",
+      "locality": "Cameroon",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cameroon",
+      "id": "cameroon-b27b80d5e34f0c54c0a2"
+    },
+    {
+      "name": "Limbe",
+      "kind": "area",
+      "locality": "Cameroon",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cameroon",
+      "id": "cameroon-d3f033f9ef31dc74eff0"
+    },
+    {
+      "name": "Ngaoundere",
+      "kind": "area",
+      "locality": "Cameroon",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cameroon",
+      "id": "cameroon-1d12ca9ab84cbe4b6797"
+    },
+    {
+      "name": "Cathédrale Notre Dame des Victoires",
+      "kind": "do",
+      "locality": "Yaoundé",
+      "lat": 3.862876,
+      "lon": 11.520952,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "Rond Point de la Poste",
+      "id": "cameroon-8051bbd1b3b681f00f24"
+    },
+    {
+      "name": "Mary Queen of the Apostles Basilica",
+      "kind": "do",
+      "locality": "Yaoundé",
+      "lat": 3.8425,
+      "lon": 11.507778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "id": "cameroon-c50ba16d4da58bf99a0e"
+    },
+    {
+      "name": "Cameroon Art Museum",
+      "kind": "do",
+      "locality": "Yaoundé",
+      "lat": 3.863305,
+      "lon": 11.502862,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "id": "cameroon-9c9f959153c32a83e145"
+    },
+    {
+      "name": "National Museum",
+      "kind": "do",
+      "locality": "Yaoundé",
+      "lat": 3.860714,
+      "lon": 11.515937,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "Quartier du lac",
+      "id": "cameroon-1e946c234d87c4763c70"
+    },
+    {
+      "name": "Afhemi Museum",
+      "kind": "do",
+      "locality": "Yaoundé",
+      "lat": 3.86429,
+      "lon": 11.51845,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "Derrière le Boulevard du 20 Mai",
+      "id": "cameroon-19dcb24d8ee106c0b6b5"
+    },
+    {
+      "name": "Palais des Sports de Warda",
+      "kind": "do",
+      "locality": "Yaoundé",
+      "lat": 3.873974,
+      "lon": 11.512041,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "id": "cameroon-ca8d0a033c3d59b0b54d"
+    },
+    {
+      "name": "Monument de la Réunification",
+      "kind": "do",
+      "locality": "Yaoundé",
+      "lat": 3.8525,
+      "lon": 11.5134,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "in Ngoa-Ekele",
+      "id": "cameroon-4672a4da325e8bbeac4c"
+    },
+    {
+      "name": "Mont Fébé",
+      "kind": "do",
+      "locality": "Yaoundé",
+      "lat": 3.9409,
+      "lon": 11.5059,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "id": "cameroon-9d325a88db0f3b4d3cbf"
+    },
+    {
+      "name": "Stade Ahmadou Ahidjo",
+      "kind": "do",
+      "locality": "Yaoundé",
+      "lat": 3.8855,
+      "lon": 11.5406,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "in quartier \"Omnisport\" resp. Mfandena",
+      "id": "cameroon-9bf80be3b9b5f1eff792"
+    },
+    {
+      "name": "Jardin zoologique de Mvog-Betsi",
+      "kind": "do",
+      "locality": "Yaoundé",
+      "lat": 3.86485,
+      "lon": 11.48746,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "id": "cameroon-3be9c68dcd3aa651ec59"
+    },
+    {
+      "name": "Bois Saint-Anastasie",
+      "kind": "do",
+      "locality": "Yaoundé",
+      "lat": 3.87089,
+      "lon": 11.51402,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "id": "cameroon-c0ade3496a01d7677215"
+    },
+    {
+      "name": "Lac Municipal",
+      "kind": "do",
+      "locality": "Yaoundé",
+      "lat": 3.8657,
+      "lon": 11.5106,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "id": "cameroon-85b955aea44fca365317"
+    },
+    {
+      "name": "Statue of Charles Atangana",
+      "kind": "do",
+      "locality": "Yaoundé",
+      "lat": 3.8588,
+      "lon": 11.52019,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "id": "cameroon-32c7e5c0f3938573011c"
+    },
+    {
+      "name": "Eco Park",
+      "kind": "do",
+      "locality": "Yaoundé",
+      "lat": 3.78679,
+      "lon": 11.48799,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "price": "~FCFA 1000",
+      "url": "http://ecopark.cm/",
+      "id": "cameroon-f6a96aad5c903771f3e7"
+    },
+    {
+      "name": "Ethnographic Museum of Forest People",
+      "kind": "do",
+      "locality": "Yaoundé",
+      "lat": 3.87126,
+      "lon": 11.52362,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "id": "cameroon-649cbed347b882235b6e"
+    },
+    {
+      "name": "Salon Promote",
+      "kind": "do",
+      "locality": "Yaoundé",
+      "lat": 3.891,
+      "lon": 11.5006,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "Palais des Congrès",
+      "price": "next event 16-24 February 2019",
+      "url": "http://www.salonpromote.org/",
+      "id": "cameroon-46cbf630bd7b98655508"
+    },
+    {
+      "name": "Journée de la femme",
+      "kind": "do",
+      "locality": "Yaoundé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "id": "cameroon-e4386edbaac82dac7fce"
+    },
+    {
+      "name": "20 mai",
+      "kind": "do",
+      "locality": "Yaoundé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "id": "cameroon-f4d5866dce5765c62b1d"
+    },
+    {
+      "name": "YAFE",
+      "kind": "do",
+      "locality": "Yaoundé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "id": "cameroon-660373b8e05e7e855b4a"
+    },
+    {
+      "name": "Eid al Fitr",
+      "kind": "do",
+      "locality": "Yaoundé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "id": "cameroon-d9921676aa582c6cb225"
+    },
+    {
+      "name": "Club Noah",
+      "kind": "do",
+      "locality": "Yaoundé",
+      "lat": 3.9069,
+      "lon": 11.527,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "in Manguier",
+      "id": "cameroon-34f817b80c23c68d3cd8"
+    },
+    {
+      "name": "Club France",
+      "kind": "do",
+      "locality": "Yaoundé",
+      "lat": 3.83973,
+      "lon": 11.50634,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "in Efoulan",
+      "id": "cameroon-910a3dc9bd95e29c3b9b"
+    },
+    {
+      "name": "Hotel Franco",
+      "kind": "do",
+      "locality": "Yaoundé",
+      "lat": 3.882,
+      "lon": 11.5194,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "in Djoungolo, next to the DGSN (police HQ)",
+      "id": "cameroon-fff500abc44bd969767f"
+    },
+    {
+      "name": "Le St Tropez",
+      "kind": "eat",
+      "locality": "Yaoundé",
+      "lat": 3.89175,
+      "lon": 11.51273,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "id": "cameroon-28493862a47bc5c0de6e"
+    },
+    {
+      "name": "Snack Sanza",
+      "kind": "eat",
+      "locality": "Yaoundé",
+      "lat": 3.8737,
+      "lon": 11.526,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "id": "cameroon-6784c17854abc2e91f95"
+    },
+    {
+      "name": "La maison blanche",
+      "kind": "eat",
+      "locality": "Yaoundé",
+      "lat": 3.86587,
+      "lon": 11.52734,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "Rue Rudolf Abessolo",
+      "price": "FCFA 2000-4500",
+      "id": "cameroon-29885ff96c9a2179f15a"
+    },
+    {
+      "name": "Espresso House",
+      "kind": "eat",
+      "locality": "Yaoundé",
+      "lat": 3.8925,
+      "lon": 11.5113,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "Carrefour Bastos",
+      "url": "https://www.facebook.com/EspressoHouseOfficiel/",
+      "id": "cameroon-20e9ec2ec1a039bea791"
+    },
+    {
+      "name": "Snack Time",
+      "kind": "eat",
+      "locality": "Yaoundé",
+      "lat": 3.89426,
+      "lon": 11.50818,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "in Bastos near Carrefour Bastos",
+      "id": "cameroon-af0d81a2faab34f510f3"
+    },
+    {
+      "name": "Istanbul Turkish Restaurant",
+      "kind": "eat",
+      "locality": "Yaoundé",
+      "lat": 3.89203,
+      "lon": 11.51234,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "price": "FCFA 2000-5000",
+      "id": "cameroon-16863abc09b809bcdff4"
+    },
+    {
+      "name": "La Salsa",
+      "kind": "eat",
+      "locality": "Yaoundé",
+      "lat": 3.8932,
+      "lon": 11.50765,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "price": "dishes from FCFA 6000",
+      "id": "cameroon-d18021556994bc80a930"
+    },
+    {
+      "name": "Dolce Vita",
+      "kind": "eat",
+      "locality": "Yaoundé",
+      "lat": 3.8679,
+      "lon": 11.5168,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "Ave Merechal Foch",
+      "id": "cameroon-1f060d6a74522d211204"
+    },
+    {
+      "name": "Les Feuilles Vertes",
+      "kind": "eat",
+      "locality": "Yaoundé",
+      "lat": 3.87739,
+      "lon": 11.52483,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "Rue Joseph Essono Balla",
+      "id": "cameroon-da3e56dffe4d0e7f8529"
+    },
+    {
+      "name": "L'orient Rouge",
+      "kind": "eat",
+      "locality": "Yaoundé",
+      "lat": 3.89468,
+      "lon": 11.50727,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "in Bastos",
+      "id": "cameroon-3680d2b57350c83f0ddf"
+    },
+    {
+      "name": "Le Biniou",
+      "kind": "eat",
+      "locality": "Yaoundé",
+      "lat": 3.87301,
+      "lon": 11.51827,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "id": "cameroon-dbf640333d53bf88bfed"
+    },
+    {
+      "name": "Le Rondo",
+      "kind": "eat",
+      "locality": "Yaoundé",
+      "lat": 3.9126,
+      "lon": 11.496,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "Hôtel du Mont Fébé",
+      "price": "FCFA 10,000 (buffet)",
+      "url": "http://www.hotel-montfebe.com/restaurants/le-rondo/",
+      "id": "cameroon-a29f744e1d77830564c7"
+    },
+    {
+      "name": "Le Café de Yaoundé",
+      "kind": "eat",
+      "locality": "Yaoundé",
+      "lat": 3.8728,
+      "lon": 11.5188,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "Ave Winston Churchill",
+      "url": "https://www.facebook.com/cafedefranceyaounde",
+      "id": "cameroon-c9746b10d3d9d1cf3974"
+    },
+    {
+      "name": "Chez Whou",
+      "kind": "eat",
+      "locality": "Yaoundé",
+      "lat": 3.89104,
+      "lon": 11.51427,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "url": "https://www.facebook.com/chezwouyaounde/",
+      "id": "cameroon-de74f58199ef07e8999e"
+    },
+    {
+      "name": "Rustick Home",
+      "kind": "eat",
+      "locality": "Yaoundé",
+      "lat": 3.87668,
+      "lon": 11.52084,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "id": "cameroon-73fe2c1c076f1e21b9f1"
+    },
+    {
+      "name": "Le moulin de France",
+      "kind": "eat",
+      "locality": "Yaoundé",
+      "lat": 3.86269,
+      "lon": 11.51959,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "Boulevard du 20 mai, between rond point de la poste and rond point du Hilton",
+      "url": "http://www.lmdf.eu/",
+      "id": "cameroon-4b94514fa4db8836e664"
+    },
+    {
+      "name": "Le Safoutier",
+      "kind": "eat",
+      "locality": "Yaoundé",
+      "lat": 3.86498,
+      "lon": 11.51546,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "Boulevard du 20 Mai",
+      "id": "cameroon-a37ff6832c3ff5c4c41f"
+    },
+    {
+      "name": "La Terrasse",
+      "kind": "eat",
+      "locality": "Yaoundé",
+      "lat": 3.86937,
+      "lon": 11.52007,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "near Montée Ane Rouge",
+      "id": "cameroon-db9070f54ea4470b0e4f"
+    },
+    {
+      "name": "Sanza Night club",
+      "kind": "eat",
+      "locality": "Yaoundé",
+      "lat": 3.87353,
+      "lon": 11.52621,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "price": "Free entry. Drinks FCFA 5000",
+      "url": "https://fr-fr.facebook.com/laSanzaNightclub/",
+      "id": "cameroon-217b5d6f054ca68ade2c"
+    },
+    {
+      "name": "Black&White",
+      "kind": "eat",
+      "locality": "Yaoundé",
+      "lat": 3.8713,
+      "lon": 11.5154,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "price": "Free entry. Drinks from FCFA 5000",
+      "url": "https://blackandwhite.cm/",
+      "id": "cameroon-1e3102774f518e4d5aff"
+    },
+    {
+      "name": "Panoramique bar",
+      "kind": "eat",
+      "locality": "Yaoundé",
+      "lat": 3.86463,
+      "lon": 11.51567,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "price": "FCFA 5000",
+      "url": "https://www3.hilton.com/en/hotels/cameroon/hilton-yaounde-YAOHITW/index.html",
+      "id": "cameroon-849aa1ac632bffae2779"
+    },
+    {
+      "name": "Parallèle Club",
+      "kind": "eat",
+      "locality": "Yaoundé",
+      "lat": 3.8666,
+      "lon": 11.5167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "in Mballa 2",
+      "id": "cameroon-dfee6dbae390459a2077"
+    },
+    {
+      "name": "Safari",
+      "kind": "eat",
+      "locality": "Yaoundé",
+      "lat": 3.8745,
+      "lon": 11.5183,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "Ave Winston Churchill",
+      "url": "https://www.facebook.com/TheBest.NightClub.N01/",
+      "id": "cameroon-0769e8dbe8b6a4135aa4"
+    },
+    {
+      "name": "Hilton",
+      "kind": "eat",
+      "locality": "Yaoundé",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "id": "cameroon-262b4cc890240cb8068f"
+    },
+    {
+      "name": "Katios",
+      "kind": "eat",
+      "locality": "Yaoundé",
+      "lat": 3.8631,
+      "lon": 11.5199,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "near Marché Central",
+      "url": "https://fr-fr.facebook.com/pages/Le-Katios-Night-Club-Yaound%C3%A9/216458415032391",
+      "id": "cameroon-787df0bee2fd983484e4"
+    },
+    {
+      "name": "Foyer international de l'eglise presbyterienne",
+      "kind": "stay",
+      "locality": "Yaoundé",
+      "lat": 3.87999,
+      "lon": 11.5225,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "id": "cameroon-75e1a454fe28ba7c717b"
+    },
+    {
+      "name": "Hotel Jouvance",
+      "kind": "stay",
+      "locality": "Yaoundé",
+      "lat": 3.8293,
+      "lon": 11.4813,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "Monté Jouvance in Biyem Assi",
+      "price": "rates from FCFA 35,000",
+      "id": "cameroon-881a3b02303990708eb0"
+    },
+    {
+      "name": "Safari",
+      "kind": "stay",
+      "locality": "Yaoundé",
+      "lat": 3.83087,
+      "lon": 11.51025,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "near the Nsam bus station",
+      "url": "https://www.facebook.com/dorianvalere/",
+      "id": "cameroon-56fb852b9995ce2c6426"
+    },
+    {
+      "name": "La fraicheur",
+      "kind": "stay",
+      "locality": "Yaoundé",
+      "lat": 3.8541,
+      "lon": 11.5233,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "in Movg Mbi above Carrefour Mvog Mbi, reachable by taxi from Rond Point de la Poste in 5 min",
+      "id": "cameroon-1101c611ef2fca296716"
+    },
+    {
+      "name": "Residence Toundalia",
+      "kind": "stay",
+      "locality": "Yaoundé",
+      "lat": 3.83694,
+      "lon": 11.49212,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "Biyewassi, Biyem-Assi",
+      "price": "FCFA 6116",
+      "id": "cameroon-024b1df931905452406e"
+    },
+    {
+      "name": "Hôtel La girafe",
+      "kind": "stay",
+      "locality": "Yaoundé",
+      "lat": 3.87403,
+      "lon": 11.52576,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "Quartier Elig Essono",
+      "price": "Single: 25000F, Double: 27000F, Suite: 35000F. Breakfast included",
+      "url": "https://www.facebook.com/pages/category/Hotel-Resort/Girafe-H%C3%B4tel-Yaound%C3%A9-525144644226141/",
+      "id": "cameroon-6a7caf0581dd17ab009e"
+    },
+    {
+      "name": "Meumi Palace",
+      "kind": "stay",
+      "locality": "Yaoundé",
+      "lat": 3.89232,
+      "lon": 11.51294,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "in Bastos",
+      "price": "single rooms FCFA 35,000, doubles FCFA 45,000",
+      "url": "https://meumipalace.com-cameroon.com/",
+      "id": "cameroon-eebf1fab02ca98d9ec9d"
+    },
+    {
+      "name": "Meumi Hotel de Yaounde Cameroon",
+      "kind": "stay",
+      "locality": "Yaoundé",
+      "lat": 3.88884,
+      "lon": 11.51973,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "at Marché Nkol Eton",
+      "price": "single rooms FCFA 25,000, doubles and suites FCFA 35,000",
+      "id": "cameroon-b0a3c0aed1c26a4dccb2"
+    },
+    {
+      "name": "Hotel Merina",
+      "kind": "stay",
+      "locality": "Yaoundé",
+      "lat": 3.8645,
+      "lon": 11.5191,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "Avenue El Ahmadou Ahidjo",
+      "price": "rates from FCFA 42,000",
+      "id": "cameroon-c0a99d822cf447cfea10"
+    },
+    {
+      "name": "La villa Des Lys",
+      "kind": "stay",
+      "locality": "Yaoundé",
+      "lat": 3.87404,
+      "lon": 11.51862,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "Ave Churchill",
+      "price": "XAF 27,246",
+      "id": "cameroon-3bc944ce60bbd391167b"
+    },
+    {
+      "name": "Hilton Yaounde",
+      "kind": "stay",
+      "locality": "Yaoundé",
+      "lat": 3.86454,
+      "lon": 11.51579,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "Boulevard du 20 Mai",
+      "price": "Standard: FCFA 129,000, Luxe: FCFA 170,000, Suite: FCFA 240,000",
+      "url": "https://www3.hilton.com/en/hotels/cameroon/hilton-yaounde-YAOHITW/index.html",
+      "id": "cameroon-36f121de8f8442471f48"
+    },
+    {
+      "name": "Hotel Djeuga",
+      "kind": "stay",
+      "locality": "Yaoundé",
+      "lat": 3.87139,
+      "lon": 11.51573,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "1 Avenue Narvick",
+      "price": "rates from around FCFA 105,000",
+      "url": "http://djeugapalacehotel.com-cameroon.com/",
+      "id": "cameroon-38723310833754d24d6b"
+    },
+    {
+      "name": "Hotel Mont Fébé",
+      "kind": "stay",
+      "locality": "Yaoundé",
+      "lat": 3.91245,
+      "lon": 11.49579,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "on Mont Fébé, behind Quartier Bastos",
+      "price": "rates from FCFA 74,500",
+      "url": "http://www.hotel-montfebe.com/",
+      "id": "cameroon-e63c41235d3bcdfb111d"
+    },
+    {
+      "name": "Hotel des Députés",
+      "kind": "stay",
+      "locality": "Yaoundé",
+      "lat": 3.8645,
+      "lon": 11.51225,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "city centre - Quartier des ministères - behind Ministère de Télécommunication",
+      "price": "rates from FCFA 45,000",
+      "url": "http://www.hoteldesdeputes.com/",
+      "id": "cameroon-4e4d20baf00106e2aeee"
+    },
+    {
+      "name": "La Falaise Hotel",
+      "kind": "stay",
+      "locality": "Yaoundé",
+      "lat": 3.87056,
+      "lon": 11.51543,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "address": "Ave Merechal Foch",
+      "price": "FCFA 58,384",
+      "url": "http://hotellafalaiseyaounde.com-cameroon.com/",
+      "id": "cameroon-819deb15daef2506c782"
+    },
+    {
+      "name": "Yaoundé",
+      "kind": "area",
+      "locality": "Yaoundé",
+      "lat": 3.866667,
+      "lon": 11.516667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Yaound%C3%A9",
+      "id": "cameroon-db8edad3c4e778221a4f"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

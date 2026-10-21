@@ -1,0 +1,549 @@
+{
+  "sources": [
+    {
+      "title": "Nicaragua",
+      "url": "https://en.wikivoyage.org/wiki/Nicaragua",
+      "checkedAt": "2026-10-21T08:11:22.000Z"
+    },
+    {
+      "title": "Managua",
+      "url": "https://en.wikivoyage.org/wiki/Managua",
+      "checkedAt": "2026-10-21T08:11:24.740Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Managua",
+      "kind": "area",
+      "locality": "Nicaragua",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nicaragua",
+      "id": "nicaragua-4166a5326c9469147b24"
+    },
+    {
+      "name": "León",
+      "kind": "area",
+      "locality": "Nicaragua",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nicaragua",
+      "id": "nicaragua-9c7da7832cea849023a3"
+    },
+    {
+      "name": "Granada",
+      "kind": "area",
+      "locality": "Nicaragua",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nicaragua",
+      "id": "nicaragua-1bcf218804a6918012d3"
+    },
+    {
+      "name": "Masaya",
+      "kind": "area",
+      "locality": "Nicaragua",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nicaragua",
+      "id": "nicaragua-6a59698521cf5b0f28c6"
+    },
+    {
+      "name": "Estelí",
+      "kind": "area",
+      "locality": "Nicaragua",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nicaragua",
+      "id": "nicaragua-e13fa90dd31b15c8c2df"
+    },
+    {
+      "name": "Matagalpa",
+      "kind": "area",
+      "locality": "Nicaragua",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nicaragua",
+      "id": "nicaragua-aa86a0c226b7d99c7955"
+    },
+    {
+      "name": "Jinotega",
+      "kind": "area",
+      "locality": "Nicaragua",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nicaragua",
+      "id": "nicaragua-a57aa1aac08d92d01b97"
+    },
+    {
+      "name": "Bluefields",
+      "kind": "area",
+      "locality": "Nicaragua",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nicaragua",
+      "id": "nicaragua-39955cf97b4ec729333e"
+    },
+    {
+      "name": "San Carlos",
+      "kind": "area",
+      "locality": "Nicaragua",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nicaragua",
+      "id": "nicaragua-0ff0ec1a3fd1eb66ba29"
+    },
+    {
+      "name": "San Juan del Sur",
+      "kind": "area",
+      "locality": "Nicaragua",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nicaragua",
+      "id": "nicaragua-23ef819f5df5a8ee1728"
+    },
+    {
+      "name": "Old Cathedral of Managua",
+      "kind": "do",
+      "locality": "Managua",
+      "lat": 12.15631,
+      "lon": -86.2714,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "id": "nicaragua-461f6fb3774e3e84ceab"
+    },
+    {
+      "name": "Plaza de la Revolucion",
+      "kind": "do",
+      "locality": "Managua",
+      "lat": 12.15637,
+      "lon": -86.27221,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "id": "nicaragua-c2558991f9695ed1ed7b"
+    },
+    {
+      "name": "Museum National Palace of the Culture",
+      "kind": "do",
+      "locality": "Managua",
+      "lat": 12.15551,
+      "lon": -86.27212,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "price": "Adult US$5 museum admission. Guided tour in Spanish and English may be included",
+      "id": "nicaragua-de77e16d1a5d9a2dd928"
+    },
+    {
+      "name": "Monumento a Ruben Dario",
+      "kind": "do",
+      "locality": "Managua",
+      "lat": 12.15714,
+      "lon": -86.27283,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "id": "nicaragua-a390a23c9f9e1bd105ac"
+    },
+    {
+      "name": "Rotonda Ruben Dario",
+      "kind": "do",
+      "locality": "Managua",
+      "lat": 12.129172,
+      "lon": -86.266314,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "id": "nicaragua-c5e9e3c9ffb3d79082f9"
+    },
+    {
+      "name": "Tiscapa Lagoon",
+      "kind": "do",
+      "locality": "Managua",
+      "lat": 12.139194,
+      "lon": -86.270972,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "id": "nicaragua-2bc31e2f5ad482b5db2a"
+    },
+    {
+      "name": "Parque Loma de Tiscapa",
+      "kind": "do",
+      "locality": "Managua",
+      "lat": 12.141775,
+      "lon": -86.272731,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "price": "C$1 (for foreigners on foot); vehicles extra",
+      "id": "nicaragua-d87821028f8ba69ab04c"
+    },
+    {
+      "name": "Museum of Ancient footprints of Acahualinca",
+      "kind": "do",
+      "locality": "Managua",
+      "lat": 12.16004,
+      "lon": -86.29432,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "price": "Adult US$4",
+      "id": "nicaragua-871d8c05251be69db91c"
+    },
+    {
+      "name": "New Cathedral",
+      "kind": "do",
+      "locality": "Managua",
+      "lat": 12.1327,
+      "lon": -86.2659,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "address": "14 Avenida Sureste",
+      "price": "Free",
+      "id": "nicaragua-85bb1cd43a8b4d43b260"
+    },
+    {
+      "name": "Parque de la Paz",
+      "kind": "do",
+      "locality": "Managua",
+      "lat": 12.15341,
+      "lon": -86.270671,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "address": "Área Monumental",
+      "id": "nicaragua-73f24c4f78e97cf085d5"
+    },
+    {
+      "name": "Asososca Lagoon",
+      "kind": "do",
+      "locality": "Managua",
+      "lat": 12.137755,
+      "lon": -86.314913,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "id": "nicaragua-fb7e2b7edc82ce7c455e"
+    },
+    {
+      "name": "Puerto Salvador Allende",
+      "kind": "do",
+      "locality": "Managua",
+      "lat": 12.16244,
+      "lon": -86.27537,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "price": "$5",
+      "url": "https://www.facebook.com/PuertoSalvadorAllende",
+      "id": "nicaragua-c8b65b026051edf15f98"
+    },
+    {
+      "name": "Malecón de Managua",
+      "kind": "do",
+      "locality": "Managua",
+      "lat": 12.1606,
+      "lon": -86.27337,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "id": "nicaragua-c59eae07526dc6964ca8"
+    },
+    {
+      "name": "Paseo Xolotlan",
+      "kind": "do",
+      "locality": "Managua",
+      "lat": 12.15913,
+      "lon": -86.27083,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "id": "nicaragua-5ae7e7203760c0ad9e21"
+    },
+    {
+      "name": "Paseo de las Iglesias",
+      "kind": "do",
+      "locality": "Managua",
+      "lat": 12.15732,
+      "lon": -86.26797,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "id": "nicaragua-1f23d3a9e8e9f7d1e915"
+    },
+    {
+      "name": "Arboretum Nacional Juan Bautista Salas",
+      "kind": "do",
+      "locality": "Managua",
+      "lat": 12.14779,
+      "lon": -86.27405,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "id": "nicaragua-d96ea745a0b8d32e55b8"
+    },
+    {
+      "name": "Dennis Martinez National Stadium",
+      "kind": "do",
+      "locality": "Managua",
+      "lat": 12.149603,
+      "lon": -86.283036,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "address": "Avenida 11A SO",
+      "price": "Game tickets US$3-30",
+      "id": "nicaragua-094d3395a9e23210e22c"
+    },
+    {
+      "name": "Rubén Darío National Theatre",
+      "kind": "do",
+      "locality": "Managua",
+      "lat": 12.15837,
+      "lon": -86.274784,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "id": "nicaragua-3e2d82f6302d56b1919f"
+    },
+    {
+      "name": "Pharaoh's Casino",
+      "kind": "do",
+      "locality": "Managua",
+      "lat": 12.147222,
+      "lon": -86.185556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "id": "nicaragua-8fbbae767d210fb9e407"
+    },
+    {
+      "name": "Parque Luis Alfonso Velásquez Flores",
+      "kind": "do",
+      "locality": "Managua",
+      "lat": 12.1519,
+      "lon": -86.27109,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "price": "$10",
+      "id": "nicaragua-e989b6e82830fa47b068"
+    },
+    {
+      "name": "Parque Acuático",
+      "kind": "do",
+      "locality": "Managua",
+      "lat": 12.15803,
+      "lon": -86.26895,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "price": "30 cords",
+      "id": "nicaragua-3e79d716c737fcf9213a"
+    },
+    {
+      "name": "Los Ranchos",
+      "kind": "eat",
+      "locality": "Managua",
+      "lat": 12.14441,
+      "lon": -86.29049,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "id": "nicaragua-802d8582b4efd2a89177"
+    },
+    {
+      "name": "La Plancha",
+      "kind": "eat",
+      "locality": "Managua",
+      "lat": 12.14481,
+      "lon": -86.29115,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "id": "nicaragua-1f21ee68e5da616a0e27"
+    },
+    {
+      "name": "Le Café de Paris",
+      "kind": "eat",
+      "locality": "Managua",
+      "lat": 12.11857,
+      "lon": -86.26558,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "id": "nicaragua-7b47da304c2a323c72f1"
+    },
+    {
+      "name": "Asados El Gueguense",
+      "kind": "eat",
+      "locality": "Managua",
+      "lat": 12.12535,
+      "lon": -86.26173,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "url": "http://www.elgueguense.com/",
+      "id": "nicaragua-fba61ba1bf56c137b543"
+    },
+    {
+      "name": "La Cocina de Doña Haydée",
+      "kind": "eat",
+      "locality": "Managua",
+      "lat": 12.1187,
+      "lon": -86.26164,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "id": "nicaragua-63ee02550a1f9374aae7"
+    },
+    {
+      "name": "El Rincon Salvadoreno",
+      "kind": "eat",
+      "locality": "Managua",
+      "lat": 12.12761,
+      "lon": -86.2755,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "id": "nicaragua-a89ebfa4a42bacf95a40"
+    },
+    {
+      "name": "Art Cafe",
+      "kind": "eat",
+      "locality": "Managua",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "id": "nicaragua-dd6a0362fe27654b8426"
+    },
+    {
+      "name": "Casa De Huespedes Santos",
+      "kind": "stay",
+      "locality": "Managua",
+      "lat": 12.14492,
+      "lon": -86.28203,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "price": "US$10 per person",
+      "id": "nicaragua-ab8ed051d89f401f087b"
+    },
+    {
+      "name": "Casa de Huéspedes Bolonia",
+      "kind": "stay",
+      "locality": "Managua",
+      "lat": 12.13863,
+      "lon": -86.28691,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "url": "https://home-stay-bolonia.negocio.site/",
+      "id": "nicaragua-8e56607345c1b9376731"
+    },
+    {
+      "name": "La Bicicleta Hostal",
+      "kind": "stay",
+      "locality": "Managua",
+      "lat": 12.11847,
+      "lon": -86.26807,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "price": "$15",
+      "url": "http://labicicletahostal.com/",
+      "id": "nicaragua-8b86b96145ee7d0b38b5"
+    },
+    {
+      "name": "Managua Backpackers Inn",
+      "kind": "stay",
+      "locality": "Managua",
+      "lat": 12.11838,
+      "lon": -86.26971,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "address": "Colonial Los Robles, 3era etapa, Casa #55",
+      "price": "Dorms from US$16/night",
+      "url": "http://www.managuahostel.com/",
+      "id": "nicaragua-d94e57a74a3d396f89ad"
+    },
+    {
+      "name": "Hotel Mozonte",
+      "kind": "stay",
+      "locality": "Managua",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "price": "US$17.50 for dorm bed; about $30 and up for private rooms",
+      "url": "https://www.hotelmozonte.com/",
+      "id": "nicaragua-bd67eb843b521d94af21"
+    },
+    {
+      "name": "Airbnb Oli&Rey",
+      "kind": "stay",
+      "locality": "Managua",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "price": "US$11 for one person",
+      "id": "nicaragua-b87e866518d11685106d"
+    },
+    {
+      "name": "Hotel Yolaina",
+      "kind": "stay",
+      "locality": "Managua",
+      "lat": 12.113783,
+      "lon": -86.269047,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "address": "From semaforos de enitel Villa Fontana 200 meters west, 50 meters north, 50 meters east",
+      "price": "US$35-50/night",
+      "id": "nicaragua-24b5a65735c4fe519414"
+    },
+    {
+      "name": "La Posada del Arcangel",
+      "kind": "stay",
+      "locality": "Managua",
+      "lat": 12.14075,
+      "lon": -86.2801,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "price": "$36",
+      "url": "https://m.facebook.com/HotelLaPosadadelArcangel/",
+      "id": "nicaragua-4f7dd79d8964db13e8a4"
+    },
+    {
+      "name": "Hotel Europa",
+      "kind": "stay",
+      "locality": "Managua",
+      "lat": 12.14067,
+      "lon": -86.28478,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "id": "nicaragua-bce5cb3dda5d38c114c4"
+    },
+    {
+      "name": "Hotel Mansión Teodolinda",
+      "kind": "stay",
+      "locality": "Managua",
+      "lat": 12.14252,
+      "lon": -86.27675,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "price": "Double room with breakfast: $60",
+      "url": "http://teodolinda.com.ni/",
+      "id": "nicaragua-ef4106aaac10798db4b9"
+    },
+    {
+      "name": "Colibrí Hotel y Desayuno",
+      "kind": "stay",
+      "locality": "Managua",
+      "lat": 12.12395,
+      "lon": -86.26273,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "address": "Pista Miguel Obando",
+      "price": "$38",
+      "url": "http://www.colibrihotelmanagua.com/",
+      "id": "nicaragua-cced8e9afe04185a04d3"
+    },
+    {
+      "name": "Art Hotel Managua",
+      "kind": "stay",
+      "locality": "Managua",
+      "lat": 12.147213,
+      "lon": -86.290272,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "address": "19 Av Suroeste",
+      "price": "C$29",
+      "url": "https://www.facebook.com/arthotelmga/",
+      "id": "nicaragua-f4eb4e79c66ebe7d535a"
+    },
+    {
+      "name": "Casa de Angeles Hotel",
+      "kind": "stay",
+      "locality": "Managua",
+      "lat": 12.12434,
+      "lon": -86.25712,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "price": "$25/night",
+      "id": "nicaragua-90409288fc3be6e38359"
+    },
+    {
+      "name": "Best Western Las Mercedes",
+      "kind": "stay",
+      "locality": "Managua",
+      "lat": 12.14577,
+      "lon": -86.17131,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "price": "US$110",
+      "url": "https://lasmercedes.com.ni/",
+      "id": "nicaragua-0786e77b30253b8da02e"
+    },
+    {
+      "name": "Holiday Inn Managua - Convention Center",
+      "kind": "stay",
+      "locality": "Managua",
+      "lat": 12.12393,
+      "lon": -86.27991,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "url": "http://www.holidayinn.com.ni/",
+      "id": "nicaragua-b7214fddb44d14f21364"
+    },
+    {
+      "name": "Hilton Princess Managua",
+      "kind": "stay",
+      "locality": "Managua",
+      "lat": 12.12353,
+      "lon": -86.26477,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "url": "http://www.managua.hilton.com/",
+      "id": "nicaragua-7ef69e487037e7933a52"
+    },
+    {
+      "name": "Crowne Plaza",
+      "kind": "stay",
+      "locality": "Managua",
+      "lat": 12.14314,
+      "lon": -86.273991,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "price": "US$90–120/night",
+      "id": "nicaragua-9b5a0034aec69f5408c8"
+    },
+    {
+      "name": "InterContinental Managua at Metrocentro Mall",
+      "kind": "stay",
+      "locality": "Managua",
+      "lat": 12.12651,
+      "lon": -86.26494,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "address": "Costado Sur Centro Comercial Metrocentro, carretera Masaya",
+      "price": "US$150-600",
+      "url": "http://www.ichotelsgroup.com/intercontinental/en/gb/locations/managua",
+      "id": "nicaragua-ad61dd9e5422288ca7e4"
+    },
+    {
+      "name": "Managua",
+      "kind": "area",
+      "locality": "Managua",
+      "lat": 12.136389,
+      "lon": -86.251389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Managua",
+      "id": "nicaragua-ca61df7cc425bd3b846c"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

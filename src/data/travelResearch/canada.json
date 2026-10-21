@@ -1,0 +1,1820 @@
+{
+  "sources": [
+    {
+      "title": "Canada",
+      "url": "https://en.wikivoyage.org/wiki/Canada",
+      "checkedAt": "2026-10-21T08:02:44.613Z"
+    },
+    {
+      "title": "Ottawa",
+      "url": "https://en.wikivoyage.org/wiki/Ottawa",
+      "checkedAt": "2026-10-21T08:02:47.250Z"
+    },
+    {
+      "title": "Banff National Park",
+      "url": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "checkedAt": "2026-10-21T08:02:50.363Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Ottawa",
+      "kind": "area",
+      "locality": "Canada",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Canada",
+      "id": "canada-8155445e6ad037f7525e"
+    },
+    {
+      "name": "Calgary",
+      "kind": "area",
+      "locality": "Canada",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Canada",
+      "id": "canada-e2d330b033d4ed71073f"
+    },
+    {
+      "name": "Halifax",
+      "kind": "area",
+      "locality": "Canada",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Canada",
+      "id": "canada-1e87b5ecd8cf28499b6b"
+    },
+    {
+      "name": "Montreal",
+      "kind": "area",
+      "locality": "Canada",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Canada",
+      "id": "canada-530e60653b56ed4e8ba9"
+    },
+    {
+      "name": "Quebec City",
+      "kind": "area",
+      "locality": "Canada",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Canada",
+      "id": "canada-75d5cf596c9514cbc54e"
+    },
+    {
+      "name": "Toronto",
+      "kind": "area",
+      "locality": "Canada",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Canada",
+      "id": "canada-7a7c44254ffddcc2a7c1"
+    },
+    {
+      "name": "Vancouver",
+      "kind": "area",
+      "locality": "Canada",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Canada",
+      "id": "canada-e729942225620773d74f"
+    },
+    {
+      "name": "Whitehorse",
+      "kind": "area",
+      "locality": "Canada",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Canada",
+      "id": "canada-92ba686e80c860bcdbc4"
+    },
+    {
+      "name": "Winnipeg",
+      "kind": "area",
+      "locality": "Canada",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Canada",
+      "id": "canada-032aa38ef3204ffee607"
+    },
+    {
+      "name": "Parliament Hill",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.42415,
+      "lon": -75.69908,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "url": "https://lop.parl.ca/sites/Visit/default/en_CA",
+      "id": "canada-d334f550f0f2f06fddb8"
+    },
+    {
+      "name": "Bank of Canada Currency Museum",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.42068,
+      "lon": -75.70283,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "30 Bank St",
+      "price": "Free",
+      "url": "https://www.bankofcanadamuseum.ca/",
+      "id": "canada-49eaad66c0b904488909"
+    },
+    {
+      "name": "Bytown Museum",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.42582,
+      "lon": -75.69765,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "1 Canal Ln",
+      "price": "$5 adults, $4 seniors/students/youth, $2 children 5-12",
+      "url": "http://bytownmuseum.com/",
+      "id": "canada-c94f6b6fb345ad685411"
+    },
+    {
+      "name": "Canada Agriculture and Food Museum",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.38728,
+      "lon": -75.70937,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "861 Prince of Wales Dr",
+      "url": "https://ingenium.ca/agriculture/",
+      "id": "canada-d4bce5c113768412f73b"
+    },
+    {
+      "name": "Canada Aviation and Space Museum",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.45896,
+      "lon": -75.64392,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "11 Aviation Parkway",
+      "price": "$15, student/seniors $13, Youth (ages 3-17) $10",
+      "url": "https://ingeniumcanada.org/casm",
+      "id": "canada-6fd8e4321cadade6ff20"
+    },
+    {
+      "name": "Canadian Museum of Nature",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.41278,
+      "lon": -75.68863,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "240 McLeod St. K2P2R1",
+      "price": "$17 adult (general admission), $15 senior/student, $13 child (3-12)",
+      "url": "http://nature.ca/",
+      "id": "canada-139a756ca9c96bb7978e"
+    },
+    {
+      "name": "Canadian War Museum",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.41699,
+      "lon": -75.71738,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "1 Vimy Place",
+      "price": "$22 for adults. Free on Thursdays after 5PM, and Jul 1, Sep 30, Nov 11",
+      "url": "https://warmuseum.ca/",
+      "id": "canada-28fd2ab3fb903bcb31c8"
+    },
+    {
+      "name": "Carleton University Art Gallery",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.3875,
+      "lon": -75.6983,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "St. Patrick's Building, 1125 Colonel By Drive",
+      "price": "Free",
+      "url": "https://cuag.ca/",
+      "id": "canada-5d29687e53a8be3623e9"
+    },
+    {
+      "name": "Cumberland Heritage Village Museum",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.5177,
+      "lon": -75.3913,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "2940 Ch. Old Montréal Rd",
+      "url": "https://ottawa.ca/en/arts-heritage-and-events/museums-and-historic-sites/cumberland-heritage-village-museum",
+      "id": "canada-703da4aa23a78cc10192"
+    },
+    {
+      "name": "Diefenbunker — Canada's Cold War Museum",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.35136,
+      "lon": -76.04796,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "3911 Carp Rd, Carp",
+      "url": "http://diefenbunker.ca/",
+      "id": "canada-47a0e8b717df8d5e0da6"
+    },
+    {
+      "name": "Laurier House National Historic Site",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.4277,
+      "lon": -75.6779,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "335 Laurier Ave.",
+      "price": "Adult $3.90, senior (65+) $3.40, youth (17 and under) free",
+      "url": "https://www.pc.gc.ca/en/lhn-nhs/on/laurier",
+      "id": "canada-c5284571c714f3025135"
+    },
+    {
+      "name": "National Gallery",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.42946,
+      "lon": -75.69863,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "380 Sussex Dr",
+      "price": "$22 adult; Free admission Th after 5PM",
+      "url": "http://www.gallery.ca/",
+      "id": "canada-809a3065e5b778f63a49"
+    },
+    {
+      "name": "Science and Technology Museum",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.4033,
+      "lon": -75.6203,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "price": "Adult $17, youth (3-17) $11, senior (60+) or student $13",
+      "url": "https://ingeniumcanada.org/scitech/index.php",
+      "id": "canada-57f6f2c9e213da23808a"
+    },
+    {
+      "name": "Ottawa Art Gallery",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.425981,
+      "lon": -75.688385,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "50 Mackenzie King Bridge",
+      "price": "Free",
+      "url": "https://oaggao.ca/",
+      "id": "canada-df5be060218706674ed2"
+    },
+    {
+      "name": "Ottawa 67's",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.398886,
+      "lon": -75.684122,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "TD Place Arena, 1015 Bank St",
+      "url": "http://ottawa67s.com/",
+      "id": "canada-2e133b5bc768ceaca87c"
+    },
+    {
+      "name": "Atlético Ottawa",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.398178,
+      "lon": -75.68365,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "TD Place Stadium, 1015 Bank St",
+      "url": "https://atleticoottawa.canpl.ca/",
+      "id": "canada-cafaa1ad02004d3577f9"
+    },
+    {
+      "name": "Ottawa Harlequins",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.2037,
+      "lon": -75.7954,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "Twin Elm Rugby Park",
+      "url": "http://rugbyottawa.com/",
+      "id": "canada-e72a69c8aa6df3b83f17"
+    },
+    {
+      "name": "Ottawa Redblacks",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.398178,
+      "lon": -75.68365,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "TD Place Stadium, 1015 Bank St",
+      "url": "http://ottawaredblacks.com/",
+      "id": "canada-58f170e17cd3f6931ae8"
+    },
+    {
+      "name": "Ottawa Senators",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.296944,
+      "lon": -75.927222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "Canadian Tire Centre, 1000 Palladium Dr, Kanata",
+      "url": "http://www.nhl.com/senators",
+      "id": "canada-4b141e34adb34f1ec4c4"
+    },
+    {
+      "name": "Ottawa Charge",
+      "kind": "do",
+      "locality": "Ottawa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "TD Place Arena, 1015 Bank St",
+      "url": "https://ottawa.thepwhl.com/en/",
+      "id": "canada-27205f9136bf942710b9"
+    },
+    {
+      "name": "Confederation Park",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.4221,
+      "lon": -75.6925,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "Elgin St",
+      "url": "https://ncc-ccn.gc.ca/places/confederation-park",
+      "id": "canada-4d12b7d0138d5ed6e1fb"
+    },
+    {
+      "name": "Kiwekì Point (formerly Nepean Point)",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.430001,
+      "lon": -75.703367,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "Alexandra Bridge",
+      "url": "https://ncc-ccn.gc.ca/places/kiweki-point",
+      "id": "canada-7aeeae441daed572623a"
+    },
+    {
+      "name": "Strathcona Park",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.4275,
+      "lon": -75.6726,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "25 Range Rd",
+      "id": "canada-ebe8e51a267374b5a366"
+    },
+    {
+      "name": "Commissioners Park",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.3983,
+      "lon": -75.7031,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "id": "canada-a08a97e5511c88cf14be"
+    },
+    {
+      "name": "Hartwell's Lockstation",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.3844,
+      "lon": -75.7002,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "url": "http://www.rideau-info.com/canal/history/locks/h09-10-hartwells.html",
+      "id": "canada-948faebc2d6f79cc40dd"
+    },
+    {
+      "name": "Rideau Hall",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.44431,
+      "lon": -75.68548,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "1 Sussex Dr",
+      "price": "Free",
+      "url": "https://www.gg.ca/document.aspx?id=94",
+      "id": "canada-68a3c72475697f132cab"
+    },
+    {
+      "name": "Royal Canadian Mint",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.4315,
+      "lon": -75.69921,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "320 Sussex Drive",
+      "url": "https://mint.ca/store/mint/about-the-mint/visit-the-mint-1200026",
+      "id": "canada-88b8a7ab072902123ce7"
+    },
+    {
+      "name": "Supreme Court of Canada",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.42193,
+      "lon": -75.70535,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "price": "Free",
+      "url": "https://www.scc-csc.ca/visit-visitez/",
+      "id": "canada-c70d425ccf8c2c41b160"
+    },
+    {
+      "name": "24 Sussex",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.444348,
+      "lon": -75.693934,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "24 Sussex Drive",
+      "id": "canada-80412bebb0f22ebe9d95"
+    },
+    {
+      "name": "The National Arts Centre",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.4193759,
+      "lon": -75.6936562,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "1 Elgin St",
+      "url": "http://nac-cna.ca/splash.htm",
+      "id": "canada-41d9d4af48bc953a106f"
+    },
+    {
+      "name": "The Great Canadian Theatre Company",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.3998,
+      "lon": -75.73175,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "1233 Wellington St W",
+      "url": "http://www.gctc.ca/",
+      "id": "canada-a6ab2a63bbd1df585f20"
+    },
+    {
+      "name": "Ottawa Little Theatre",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.4281724,
+      "lon": -75.6879524,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "400 King Edward Ave",
+      "url": "http://www.ottawalittletheatre.com/",
+      "id": "canada-df7462e19b3554c5db8e"
+    },
+    {
+      "name": "GigSpace",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.40381,
+      "lon": -75.71522,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "953 Gladstone Ave",
+      "url": "https://www.gigspaceottawa.com/",
+      "id": "canada-95826bbc950ee7202baf"
+    },
+    {
+      "name": "Rideau Skateway",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.42415,
+      "lon": -75.69304,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "url": "http://ncc-ccn.gc.ca/places-to-visit/rideau-canal-skateway",
+      "id": "canada-4e66eeceaa7304e25f45"
+    },
+    {
+      "name": "Mooney's Bay Ski Centre",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.36802,
+      "lon": -75.69222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "2960 Riverside Drive",
+      "url": "https://ottawa.ca/en/recreation-and-parks/recreation-facilities/facility-listing/terry-fox-athletic-facility",
+      "id": "canada-54ecd56b734db85d5b07"
+    },
+    {
+      "name": "Winterlude",
+      "kind": "do",
+      "locality": "Ottawa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "url": "https://www.canada.ca/en/canadian-heritage/campaigns/winterlude.html",
+      "id": "canada-2d7fa97a46aa7229a5c6"
+    },
+    {
+      "name": "Maple Syrup",
+      "kind": "do",
+      "locality": "Ottawa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "id": "canada-0677c1bfb4b98e4fbfc0"
+    },
+    {
+      "name": "Vanier Museopark Sugar Shack",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.443858,
+      "lon": -75.661771,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "200- 300, avenue des Pères Blancs, Vanier",
+      "url": "https://museoparc.ca/vanier-sugar-shack/",
+      "id": "canada-68be5bf5db172e3438e4"
+    },
+    {
+      "name": "The Tulip Festival",
+      "kind": "do",
+      "locality": "Ottawa",
+      "lat": 45.39823,
+      "lon": -75.70314,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "url": "http://tulipfestival.ca/",
+      "id": "canada-e7498908bd5b6081a83b"
+    },
+    {
+      "name": "International Film Festival of Ottawa",
+      "kind": "do",
+      "locality": "Ottawa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "url": "https://www.iffo.ca/",
+      "id": "canada-cb29f3cd0ccb5ab1cc08"
+    },
+    {
+      "name": "Ottawa Black Film Festival",
+      "kind": "do",
+      "locality": "Ottawa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "url": "https://ottawablackfilm.com/",
+      "id": "canada-99f38b78932c4d07e9fe"
+    },
+    {
+      "name": "Ottawa Jazz Festival",
+      "kind": "do",
+      "locality": "Ottawa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "url": "http://ottawajazzfestival.com/",
+      "id": "canada-93b1deccfc0d1b067845"
+    },
+    {
+      "name": "Ottawa International Chamber Music Festival",
+      "kind": "do",
+      "locality": "Ottawa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "url": "http://chamberfest.com/",
+      "id": "canada-90606ee531124acd41b5"
+    },
+    {
+      "name": "Bluesfest",
+      "kind": "do",
+      "locality": "Ottawa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "url": "http://www.ottawabluesfest.ca/",
+      "id": "canada-6f698cb838091a2f8dec"
+    },
+    {
+      "name": "The Fringe Festival",
+      "kind": "do",
+      "locality": "Ottawa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "url": "http://ottawafringe.com/",
+      "id": "canada-d97a01b6fef07d50c700"
+    },
+    {
+      "name": "Ferrari Festival",
+      "kind": "do",
+      "locality": "Ottawa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "url": "http://fcaottawa.com/",
+      "id": "canada-6aa6c6062bbf70c37dbf"
+    },
+    {
+      "name": "Canada Day",
+      "kind": "do",
+      "locality": "Ottawa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "url": "https://www.ottawatourism.ca/ottawa-insider/canada-day/",
+      "id": "canada-b4dd21d9ab969483e311"
+    },
+    {
+      "name": "Capital Pride",
+      "kind": "do",
+      "locality": "Ottawa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "url": "https://capitalpride.ca/",
+      "id": "canada-a563e688d81396f87f7a"
+    },
+    {
+      "name": "The Ottawa International Animation Festival",
+      "kind": "do",
+      "locality": "Ottawa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "url": "http://animationfestival.ca/",
+      "id": "canada-ed7cb70d199e283a5c8a"
+    },
+    {
+      "name": "Yoga on the Hill",
+      "kind": "do",
+      "locality": "Ottawa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "price": "free",
+      "url": "https://ottawatourism.ca/en/see-and-do/yoga-parliament-hill",
+      "id": "canada-c7068452213157cc111d"
+    },
+    {
+      "name": "Doors Open Ottawa",
+      "kind": "do",
+      "locality": "Ottawa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "url": "http://ottawa.ca/en/residents/arts-heritage-and-culture/museums-and-historic-sites/doors-open-ottawa",
+      "id": "canada-65c7d8e04a6b9104cbb5"
+    },
+    {
+      "name": "Jane's Walk Ottawa",
+      "kind": "do",
+      "locality": "Ottawa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "url": "https://www.janeswalkottawa.ca/",
+      "id": "canada-2f1c85fae3f90fb6994a"
+    },
+    {
+      "name": "BeaverTails",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.4279043,
+      "lon": -75.6942454,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "69 George Street",
+      "url": "http://beavertails.com/",
+      "id": "canada-7729c01f452d4d04ae96"
+    },
+    {
+      "name": "Shawarma Palace",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.431,
+      "lon": -75.68,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "url": "https://shawarmapalace.ca/",
+      "id": "canada-3737ca93e9af44f126fd"
+    },
+    {
+      "name": "3 Brothers Shawarma",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.4269,
+      "lon": -75.6897,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "url": "https://www.3brothersshawarma.com/",
+      "id": "canada-2c828fb356846a21e15e"
+    },
+    {
+      "name": "Kettleman's Bagel",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.3999,
+      "lon": -75.6869,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "url": "https://www.kettlemansbagels.ca/",
+      "id": "canada-717566560b1bcdb55569"
+    },
+    {
+      "name": "Smoke's Poutinerie",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.4268,
+      "lon": -75.6892,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "url": "https://smokespoutinerie.com/",
+      "id": "canada-d6b34d8c92e7b8308c02"
+    },
+    {
+      "name": "Ahora Mexican Cuisine",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.4294006,
+      "lon": -75.6934767,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "307 Dalhousie Street",
+      "url": "http://www.ahora.ca/",
+      "id": "canada-6f02a860701a45035a14"
+    },
+    {
+      "name": "La Bottega Nicastro",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.426859,
+      "lon": -75.694021,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "64 George Street",
+      "url": "https://www.labottega.ca/",
+      "id": "canada-8e02174ea3082070cd0c"
+    },
+    {
+      "name": "Di Rienzo",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.4000144,
+      "lon": -75.7142663,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "111 Beech Street",
+      "url": "http://dirienzo.ca/",
+      "id": "canada-56a42f67a5bc80377948"
+    },
+    {
+      "name": "Elgin Street Diner",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.414912,
+      "lon": -75.689981,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "374 Elgin Street",
+      "url": "http://www.elginstreetdiner.com/",
+      "id": "canada-50e76a86b33dad1185eb"
+    },
+    {
+      "name": "Rangoon",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.418822,
+      "lon": -75.6983374,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "114 Gloucester Street",
+      "url": "http://www.rangoonrestaurant.ca/",
+      "id": "canada-4add921d5f77da4fe5ce"
+    },
+    {
+      "name": "Warehouse",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.4292,
+      "lon": -75.6933,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "77 Clarence St",
+      "price": "$10-$20 per person",
+      "url": "https://warehousegroup.ca/location/el-furniture-warehouse-ottawa/",
+      "id": "canada-70ec9565d67a9ca83a5b"
+    },
+    {
+      "name": "Pho Bo Ga 2",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.4090184,
+      "lon": -75.7146149,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "843 Somerset Street West",
+      "url": "http://www.phoboga2ottawa.com/",
+      "id": "canada-e2316cf8ac0e497ff29a"
+    },
+    {
+      "name": "Pho Bo Ga L.A.",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.4097074,
+      "lon": -75.7120057,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "784 Somerset Street West",
+      "id": "canada-3a894cf6cb74fc6bdf00"
+    },
+    {
+      "name": "Jadeland",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.412135,
+      "lon": -75.706695,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "625 Somerset Street West",
+      "url": "http://www.jadeland.com/menu.html",
+      "id": "canada-14e660a6338f09a632b4"
+    },
+    {
+      "name": "Host India",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.4419593,
+      "lon": -75.6422116,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "622 Montreal Road",
+      "url": "http://hostindia.ca/",
+      "id": "canada-b3829b27bda848d94912"
+    },
+    {
+      "name": "Coconut Lagoon",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.433582,
+      "lon": -75.641589,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "853 St. Laurent Boulevard",
+      "url": "https://coconutlagoon.ca/",
+      "id": "canada-c892307a750a8413f87e"
+    },
+    {
+      "name": "Zak's Diner",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.4283814,
+      "lon": -75.6957837,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "14 Byward Market Square",
+      "url": "http://zaksdiner.com/",
+      "id": "canada-0aabeb2ea5887bcfda89"
+    },
+    {
+      "name": "Le Mien - Craft Noodle",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.4278155,
+      "lon": -75.6921155,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "43 William Street",
+      "url": "https://www.lemiencraftnoodle.com/",
+      "id": "canada-c6a7f0c91d30243ee7ff"
+    },
+    {
+      "name": "The Empire Grill",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.4289057,
+      "lon": -75.6938691,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "47 Clarence Street",
+      "price": "$30 main courses",
+      "url": "http://empiregrill.com/",
+      "id": "canada-b75b56444c368d3fcc98"
+    },
+    {
+      "name": "Johnny Farina's",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.41841,
+      "lon": -75.69116,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "216 Elgin Street",
+      "url": "http://johnnyfarina.com/",
+      "id": "canada-e62ce17d37d8e97acfa7"
+    },
+    {
+      "name": "The Works",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "url": "http://worksburger.com/",
+      "id": "canada-ccbfdd86f79a6cf7895b"
+    },
+    {
+      "name": "The Works - The Glebe",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.4078486,
+      "lon": -75.6924601,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "580 Bank Street",
+      "id": "canada-0ce698d56f454ef71401"
+    },
+    {
+      "name": "The Works - Manor Park",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.448907,
+      "lon": -75.6524254,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "363 St Laurent Boulevard",
+      "id": "canada-a1fe3f648ae79c66bee6"
+    },
+    {
+      "name": "The Works - Westboro Village",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.3927746,
+      "lon": -75.7518549,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "326 Richmond Road",
+      "id": "canada-a3b7bbdfb8d382d0dc12"
+    },
+    {
+      "name": "Taqueria La Bonita",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.4310625,
+      "lon": -75.6235052,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "1128 Cadboro Rd",
+      "price": "$20-40 plus alcohol",
+      "url": "http://www.labonita.ca/",
+      "id": "canada-dd3064aea667fad02602"
+    },
+    {
+      "name": "Feleena's",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.40373,
+      "lon": -75.68901,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "742 Bank Street",
+      "price": "$40-$80",
+      "url": "https://www.feleenas.ca/",
+      "id": "canada-301cc5119684f95bc239"
+    },
+    {
+      "name": "Beckta",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.41646,
+      "lon": -75.6992,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "226 Nepean Street",
+      "url": "http://beckta.com/main.php",
+      "id": "canada-87e2214d44aa5af7ac52"
+    },
+    {
+      "name": "Restaurant 18",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.427428,
+      "lon": -75.694119,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "18 York Street",
+      "url": "http://restaurant18.com/",
+      "id": "canada-92cdaa57dba7058d5918"
+    },
+    {
+      "name": "Signatures",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.42891,
+      "lon": -75.67475,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "453 Laurier Ave. East",
+      "url": "http://lcbottawa.com/English/signatures/index.cfm",
+      "id": "canada-33b9e465d2d2b90a6802"
+    },
+    {
+      "name": "The Wellington Gastropub",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.3988578,
+      "lon": -75.7391451,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "1325 Wellington Street West",
+      "price": "Three-course table d'hôte $35 at lunch or $53 at supper, plus alcohol and gratituty",
+      "url": "http://www.thewellingtongastropub.com/",
+      "id": "canada-5ef09894cf9bc6add655"
+    },
+    {
+      "name": "Gitanes",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.41536,
+      "lon": -75.68787,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "361 Elgin Street",
+      "url": "https://www.gitanes.co/",
+      "id": "canada-9e6f04fe903e0a32c9d6"
+    },
+    {
+      "name": "Govinda's Restaurant",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.42247,
+      "lon": -75.67898,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "212 Somerset St. E",
+      "price": "$5-7 per person",
+      "url": "https://govindasottawa.ca/",
+      "id": "canada-b554d934dafe4a0773bf"
+    },
+    {
+      "name": "The Green Door",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.40837,
+      "lon": -75.67778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "198 Main St",
+      "url": "http://www.thegreendoor.ca/",
+      "id": "canada-f405662b66e0cbed5201"
+    },
+    {
+      "name": "Pure Kitchen Ottawa",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.39182,
+      "lon": -75.7548,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "357 Richmond Road",
+      "url": "https://www.purekitchenottawa.com/",
+      "id": "canada-e714c856aef1437344c4"
+    },
+    {
+      "name": "Clocktower Brewhouse",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "url": "http://clocktower.ca/",
+      "id": "canada-48e3364b1a80bf9ae940"
+    },
+    {
+      "name": "Clocktower New Edinburgh",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.4390938,
+      "lon": -75.678742,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "422 MacKay Street",
+      "id": "canada-eebb6ca54db6e81a133f"
+    },
+    {
+      "name": "Clocktower Westboro",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.3900487,
+      "lon": -75.7595557,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "418 Richmond Road",
+      "id": "canada-52ac41ef9cb2969be57d"
+    },
+    {
+      "name": "Pub Italia",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.399481,
+      "lon": -75.709001,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "434 1/2 Preston Street",
+      "url": "http://pubitalia.ca/",
+      "id": "canada-13786a54fbe8120bc254"
+    },
+    {
+      "name": "The Royal Oak",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "url": "https://royaloakpubs.com/",
+      "id": "canada-354085cb1036379246e7"
+    },
+    {
+      "name": "Royal Oak Bank at Gloucester",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.4177,
+      "lon": -75.6986,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "188 Bank St",
+      "id": "canada-14c78d7a931e0cf5c9dc"
+    },
+    {
+      "name": "Royal Oak Wellington at Hinton",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.4001957,
+      "lon": -75.7312723,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "1217 Wellington St W",
+      "id": "canada-ddc6bafb4d7a5e3dd275"
+    },
+    {
+      "name": "Chez Lucien",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.430504,
+      "lon": -75.694226,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "137 Murray St",
+      "url": "https://www.instagram.com/chezlucienottawa/",
+      "id": "canada-5b690fd4db31dc34c363"
+    },
+    {
+      "name": "Heart & Crown",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.415592,
+      "lon": -75.690358,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "67 Clarence Street",
+      "url": "http://www.heartandcrown.pub/byward/",
+      "id": "canada-11068120ad5686af99b5"
+    },
+    {
+      "name": "Dominion Tavern",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.428009,
+      "lon": -75.696029,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "33 York Street",
+      "url": "http://www.tavern.ca/",
+      "id": "canada-e30f05cad1493223a2c0"
+    },
+    {
+      "name": "The Lookout Bar",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.4282499,
+      "lon": -75.694432,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "41 York Street",
+      "url": "http://www.thelookoutbar.com/",
+      "id": "canada-809a08c213ceb6d0bb60"
+    },
+    {
+      "name": "The Rainbow Bistro",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.4294,
+      "lon": -75.6937,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "76 Murray St",
+      "url": "https://therainbow.ca/",
+      "id": "canada-87a2550043dcb72a56ad"
+    },
+    {
+      "name": "Prohibition Public House",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.4159,
+      "lon": -75.6955,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "337 Somerset St W",
+      "url": "https://www.prohibitionhouse.com/",
+      "id": "canada-463a86f95de90f5fb4e1"
+    },
+    {
+      "name": "Quinn's Ale House",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.394713,
+      "lon": -75.686012,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "1070 Bank Street",
+      "url": "http://www.quinnsalehouse.com/",
+      "id": "canada-fd7497c140fde54cf59c"
+    },
+    {
+      "name": "Flora Hall Brewing",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.4108,
+      "lon": -75.6932,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "37 Flora St",
+      "id": "canada-629a2955a5e7d2532704"
+    },
+    {
+      "name": "Irene's",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.40083,
+      "lon": -75.6869,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "885 Bank St",
+      "url": "https://irenespub.ca/",
+      "id": "canada-60fdcf8259e84e7b7f61"
+    },
+    {
+      "name": "D'Arcy McGee's",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.42335,
+      "lon": -75.69585,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "44 Sparks Street",
+      "url": "http://darcymcgees.com/",
+      "id": "canada-6f8793bff1ecd162ccb0"
+    },
+    {
+      "name": "The Lieutenant's Pump",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.415592,
+      "lon": -75.690358,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "361 Elgin Street",
+      "url": "http://www.lieutenantspump.ca/",
+      "id": "canada-dbd958b873be4f9801a1"
+    },
+    {
+      "name": "The Manx",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.41498,
+      "lon": -75.68822,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "370 Elgin Street",
+      "url": "https://www.manxpub.com/",
+      "id": "canada-9676112671b04787c89b"
+    },
+    {
+      "name": "The Standard Luxury Tavern",
+      "kind": "eat",
+      "locality": "Ottawa",
+      "lat": 45.4153372,
+      "lon": -75.6905466,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "360 Elgin St",
+      "url": "http://www.thestandardtavern.com/",
+      "id": "canada-55ddfc3794e4b691a864"
+    },
+    {
+      "name": "Barefoot Hostel",
+      "kind": "stay",
+      "locality": "Ottawa",
+      "lat": 45.42686,
+      "lon": -75.68646,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "455 Cumberland St",
+      "price": "From $109",
+      "url": "http://barefoothostel.com/",
+      "id": "canada-824fedd5d6fca70fd7a7"
+    },
+    {
+      "name": "Ottawa Backpackers Inn",
+      "kind": "stay",
+      "locality": "Ottawa",
+      "lat": 45.43042,
+      "lon": -75.68804,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "203 York Street",
+      "price": "Dorm bed from $36",
+      "url": "http://ottawahostel.com/",
+      "id": "canada-94fd8bffa38cb8fa9817"
+    },
+    {
+      "name": "University of Ottawa",
+      "kind": "stay",
+      "locality": "Ottawa",
+      "lat": 45.42247,
+      "lon": -75.68442,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "90 University Private",
+      "price": "Rideau double room $130; 90U suite with bath $120; dorm with shared bath, $40",
+      "url": "https://www.uottawa.ca/about-us/reservations/summer-accommodation",
+      "id": "canada-649fa72e73ade1483bcc"
+    },
+    {
+      "name": "Auberge King Edward Bed and Breakfast",
+      "kind": "stay",
+      "locality": "Ottawa",
+      "lat": 45.42564,
+      "lon": -75.68297,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "525 King Edward Avenue",
+      "price": "$160",
+      "url": "http://kingedwardottawa.com/",
+      "id": "canada-8debdd5e1277f6c18fd4"
+    },
+    {
+      "name": "Australis Guest House",
+      "kind": "stay",
+      "locality": "Ottawa",
+      "lat": 45.426068,
+      "lon": -75.674433,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "89 Goulburn Avenue",
+      "price": "$119-149",
+      "url": "http://www.bbcanada.com/1463.html",
+      "id": "canada-10861a455b64c700fb1f"
+    },
+    {
+      "name": "ByWard Blue Inn",
+      "kind": "stay",
+      "locality": "Ottawa",
+      "lat": 45.43007,
+      "lon": -75.69087,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "157 Clarence St",
+      "price": "B&B from $155, parking $8-15/day",
+      "url": "http://bywardblueinn.ca/",
+      "id": "canada-bf70d37d1c99e0a26a58"
+    },
+    {
+      "name": "Cartier Place Suite Hotel",
+      "kind": "stay",
+      "locality": "Ottawa",
+      "lat": 45.41884,
+      "lon": -75.68965,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "180 Cooper St",
+      "price": "From $150",
+      "url": "http://suitedreams.com/",
+      "id": "canada-222aa76aa1fb75a62273"
+    },
+    {
+      "name": "Courtyard by Marriott Ottawa East",
+      "kind": "stay",
+      "locality": "Ottawa",
+      "lat": 45.4204,
+      "lon": -75.65613,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "200 Coventry Rd",
+      "price": "From $150",
+      "url": "https://www.marriott.com/hotels/travel/yowoe-courtyard-ottawa-east/",
+      "id": "canada-bddd32f94235bece03f7"
+    },
+    {
+      "name": "DoubleTree by Hilton Ottawa Downtown",
+      "kind": "stay",
+      "locality": "Ottawa",
+      "lat": 45.42594,
+      "lon": -75.68967,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "33 Nicholas Street",
+      "url": "https://www.hilton.com/en/hotels/yowoddt-doubletree-ottawa-downtown/",
+      "id": "canada-fe498e2907439a6c5af2"
+    },
+    {
+      "name": "Sheraton Ottawa Hotel",
+      "kind": "stay",
+      "locality": "Ottawa",
+      "lat": 45.42083,
+      "lon": -75.69791,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "150 Albert St",
+      "price": "From $219",
+      "url": "http://www.sheratonottawa.com/",
+      "id": "canada-d7df47168cd84b53da3b"
+    },
+    {
+      "name": "Swiss Hotel",
+      "kind": "stay",
+      "locality": "Ottawa",
+      "lat": 45.42697,
+      "lon": -75.68631,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "89 Daly Avenue",
+      "price": "Double bed from $178",
+      "url": "http://www.swisshotel.ca/",
+      "id": "canada-0c85906219fda64e2359"
+    },
+    {
+      "name": "Delta Ottawa City Centre",
+      "kind": "stay",
+      "locality": "Ottawa",
+      "lat": 45.4186,
+      "lon": -75.7042,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "101 Lyon St N",
+      "price": "Double from $279",
+      "url": "https://www.marriott.com/hotels/travel/yowdm-delta-hotels-ottawa-city-centre/",
+      "id": "canada-24505a9e18cb01a0582e"
+    },
+    {
+      "name": "Andaz Ottawa",
+      "kind": "stay",
+      "locality": "Ottawa",
+      "lat": 45.4286,
+      "lon": -75.6906,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "325 Dalhousie St",
+      "price": "Double room from $289",
+      "url": "https://www.hyatt.com/en-US/hotel/canada/andaz-ottawa-byward-market/yowaz",
+      "id": "canada-a54902b1b123dd83e2f6"
+    },
+    {
+      "name": "Arc",
+      "kind": "stay",
+      "locality": "Ottawa",
+      "lat": 45.42059,
+      "lon": -75.69652,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "140 Slater St",
+      "price": "Double from $200",
+      "url": "http://arcthehotel.com/",
+      "id": "canada-9a1fe2fc32806fe83cdf"
+    },
+    {
+      "name": "Chateau Laurier",
+      "kind": "stay",
+      "locality": "Ottawa",
+      "lat": 45.425567,
+      "lon": -75.695108,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "1 Rideau St",
+      "price": "Double from $360",
+      "url": "https://www.fairmont.com/laurier-ottawa/",
+      "id": "canada-d190a0015a0e4cdf7623"
+    },
+    {
+      "name": "Lord Elgin",
+      "kind": "stay",
+      "locality": "Ottawa",
+      "lat": 45.42134,
+      "lon": -75.69375,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "100 Elgin St",
+      "price": "Double from $279",
+      "url": "http://lordelginhotel.ca/",
+      "id": "canada-7ca1e0e42f19d8fcc45b"
+    },
+    {
+      "name": "The Ottawa Marriott Hotel",
+      "kind": "stay",
+      "locality": "Ottawa",
+      "lat": 45.41977,
+      "lon": -75.70366,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "100 Kent St",
+      "price": "Double from $229",
+      "url": "https://www.marriott.com/en-us/hotels/yowmc-ottawa-marriott-hotel/overview/",
+      "id": "canada-b9c7e2e6ad519247629d"
+    },
+    {
+      "name": "The Westin Ottawa",
+      "kind": "stay",
+      "locality": "Ottawa",
+      "lat": 45.42489,
+      "lon": -75.69253,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "11 Colonel By Dr",
+      "price": "From $380",
+      "url": "http://www.thewestinottawa.com/",
+      "id": "canada-ce99292f2949b9ba783a"
+    },
+    {
+      "name": "reStays",
+      "kind": "stay",
+      "locality": "Ottawa",
+      "lat": 45.42203,
+      "lon": -75.69771,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "address": "101 Queen St",
+      "price": "Studio-style suite from $279",
+      "url": "https://www.restays.com/",
+      "id": "canada-0cf9d249db8db23de59c"
+    },
+    {
+      "name": "Aventure Laflèche",
+      "kind": "do",
+      "locality": "Ottawa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "url": "http://aventurelafleche.ca/",
+      "id": "canada-fa094ca9f39c94fed2e1"
+    },
+    {
+      "name": "Eco-Odyssée",
+      "kind": "do",
+      "locality": "Ottawa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "url": "http://www.eco-odyssee.ca/",
+      "id": "canada-434bf1eaff22194d9480"
+    },
+    {
+      "name": "Great Canadian Bungee",
+      "kind": "do",
+      "locality": "Ottawa",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "url": "http://bungee.ca/",
+      "id": "canada-b6cfb090ffd0de15643b"
+    },
+    {
+      "name": "Ottawa",
+      "kind": "area",
+      "locality": "Ottawa",
+      "lat": 45.44,
+      "lon": -75.6946,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ottawa",
+      "id": "canada-d3054dbced9a2a2944eb"
+    },
+    {
+      "name": "Banff",
+      "kind": "area",
+      "locality": "Banff National Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "id": "canada-ab65e2c423af86e522e7"
+    },
+    {
+      "name": "Lake Louise",
+      "kind": "area",
+      "locality": "Banff National Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "id": "canada-c07423a1dedc8151a42d"
+    },
+    {
+      "name": "Lake Louise",
+      "kind": "do",
+      "locality": "Banff National Park",
+      "lat": 51.417034,
+      "lon": -116.218622,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "id": "canada-2b0822647d505771cea8"
+    },
+    {
+      "name": "Peyto Lake",
+      "kind": "do",
+      "locality": "Banff National Park",
+      "lat": 51.717059,
+      "lon": -116.515038,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "id": "canada-d6aa656322cf720a7b15"
+    },
+    {
+      "name": "Moraine Lake",
+      "kind": "do",
+      "locality": "Banff National Park",
+      "lat": 51.327501,
+      "lon": -116.1818,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "id": "canada-8c6ede8e5fb531246a07"
+    },
+    {
+      "name": "Johnston Canyon",
+      "kind": "do",
+      "locality": "Banff National Park",
+      "lat": 51.24545,
+      "lon": -115.839869,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "url": "https://www.banfflakelouise.com/experiences/johnston-canyon",
+      "id": "canada-43ecfb288ff4f74cdac0"
+    },
+    {
+      "name": "Sunshine Meadows",
+      "kind": "do",
+      "locality": "Banff National Park",
+      "lat": 51.115162,
+      "lon": -115.767925,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "id": "canada-f20f6bf393c9ce5bac61"
+    },
+    {
+      "name": "Lake Minnewanka",
+      "kind": "do",
+      "locality": "Banff National Park",
+      "lat": 51.247733,
+      "lon": -115.497923,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "id": "canada-16ef3eb9b5a32ee349fd"
+    },
+    {
+      "name": "Banff Gondola",
+      "kind": "do",
+      "locality": "Banff National Park",
+      "lat": 51.148017,
+      "lon": -115.555537,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "address": "1 Mountain Ave",
+      "url": "https://www.banffjaspercollection.com/attractions/banff-gondola/experience/",
+      "id": "canada-e1a18f5cfe84021d2862"
+    },
+    {
+      "name": "Lake Louise Sightseeing Gondola",
+      "kind": "do",
+      "locality": "Banff National Park",
+      "lat": 51.442292,
+      "lon": -116.160779,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "address": "1 Whitehorn Road",
+      "url": "https://www.skilouise.com/explore-summer/",
+      "id": "canada-85b10012c62e9f06acca"
+    },
+    {
+      "name": "Moraine Lake",
+      "kind": "do",
+      "locality": "Banff National Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "url": "https://morainelakebus.com/?utm_source=wikivoyage&utm_medium=website",
+      "id": "canada-6ed2c057255d30374591"
+    },
+    {
+      "name": "Ski Sunshine Village",
+      "kind": "do",
+      "locality": "Banff National Park",
+      "lat": 51.115135,
+      "lon": -115.763372,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "address": "1 Sunshine access Rd",
+      "price": "Adult $83/day, student $49/day",
+      "url": "https://www.skibanff.com/",
+      "id": "canada-bf583f1e8777515b7acb"
+    },
+    {
+      "name": "Ski Lake Louise",
+      "kind": "do",
+      "locality": "Banff National Park",
+      "lat": 51.440821,
+      "lon": -116.16266,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "address": "1 Whitehorn Road",
+      "price": "Adult $64/day, student $51/day",
+      "url": "https://www.skilouise.com/",
+      "id": "canada-97537f6136bc5bcc6d06"
+    },
+    {
+      "name": "Ski Mount Norquay",
+      "kind": "do",
+      "locality": "Banff National Park",
+      "lat": 51.202985,
+      "lon": -115.598195,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "address": "2 Mt Norquay Rd",
+      "price": "Adult $52/day, student $40/day",
+      "url": "https://banffnorquay.com/",
+      "id": "canada-beedf02b419fe143488c"
+    },
+    {
+      "name": "Golf - The Fairmont Banff Springs",
+      "kind": "do",
+      "locality": "Banff National Park",
+      "lat": 51.166401,
+      "lon": -115.551049,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "address": "405 Spray Avenue",
+      "url": "https://www.fairmont.com/banff-springs/golf/the-fairmont-banff-springs-golf/",
+      "id": "canada-beafe9bbc32d1247c47c"
+    },
+    {
+      "name": "Kayaking",
+      "kind": "do",
+      "locality": "Banff National Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "id": "canada-f138537847c7d9f39cb1"
+    },
+    {
+      "name": "Johnston Canyon Icewalk",
+      "kind": "do",
+      "locality": "Banff National Park",
+      "lat": 51.245691,
+      "lon": -115.839508,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "url": "https://www.whitemountainadventures.com/johnston-canyon-icewalk-%C2%AE",
+      "id": "canada-38eaa60b64e701f80fc8"
+    },
+    {
+      "name": "Banff Trail Riders",
+      "kind": "do",
+      "locality": "Banff National Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "url": "https://horseback.com/",
+      "id": "canada-82394023265dde630de1"
+    },
+    {
+      "name": "The Lodge at Bow Lake",
+      "kind": "stay",
+      "locality": "Banff National Park",
+      "lat": 51.678649,
+      "lon": -116.466157,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "url": "https://lodgeatbowlake.com/",
+      "id": "canada-b36a17f9a58f5d1a7a1f"
+    },
+    {
+      "name": "HI-Castle Mountain Wilderness Hostel",
+      "kind": "stay",
+      "locality": "Banff National Park",
+      "lat": 51.26801,
+      "lon": -115.91776,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "address": "Hwy 1A and Hwy 93 South",
+      "url": "https://hihostels.ca/en/destinations/alberta/hi-castle-mountain",
+      "id": "canada-930fb80aad5816d2249f"
+    },
+    {
+      "name": "HI-Mosquito Creek Hostel",
+      "kind": "stay",
+      "locality": "Banff National Park",
+      "lat": 51.629526,
+      "lon": -116.330981,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "address": "Hwy 93 North directions",
+      "price": "Dorms $20-23 members, $24-27 non-members. Private rooms $58-60 members, $66-68 non-members",
+      "url": "https://hihostels.ca/en/destinations/alberta/hi-mosquito-creek",
+      "id": "canada-a6ca11f95ce3aa96b010"
+    },
+    {
+      "name": "The Crossing Resort",
+      "kind": "stay",
+      "locality": "Banff National Park",
+      "lat": 51.973567,
+      "lon": -116.747088,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "url": "https://www.thecrossingresort.com/",
+      "id": "canada-1f12fa04ea26c690f0c1"
+    },
+    {
+      "name": "Parks Canada Campground Reservation Service",
+      "kind": "stay",
+      "locality": "Banff National Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "url": "https://reservation.pc.gc.ca/",
+      "id": "canada-b4f6b5a0b8ae75bd9c3a"
+    },
+    {
+      "name": "Tunnel Mountain Village I",
+      "kind": "stay",
+      "locality": "Banff National Park",
+      "lat": 51.1944,
+      "lon": -115.5221,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "url": "https://parks.canada.ca/pn-np/ab/banff/activ/camping",
+      "id": "canada-51d2c60bb19e5d4c1300"
+    },
+    {
+      "name": "Tunnel Mountain Village II",
+      "kind": "stay",
+      "locality": "Banff National Park",
+      "lat": 51.18759,
+      "lon": -115.54325,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "url": "https://parks.canada.ca/pn-np/ab/banff/activ/camping",
+      "id": "canada-bc907dbab2e380bbc6af"
+    },
+    {
+      "name": "Tunnel Mountain Trailer Court",
+      "kind": "stay",
+      "locality": "Banff National Park",
+      "lat": 51.1904,
+      "lon": -115.5348,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "url": "https://parks.canada.ca/pn-np/ab/banff/activ/camping",
+      "id": "canada-79b4d11efb9c82030125"
+    },
+    {
+      "name": "Two Jack Main",
+      "kind": "stay",
+      "locality": "Banff National Park",
+      "lat": 51.2304,
+      "lon": -115.5097,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "url": "https://parks.canada.ca/pn-np/ab/banff/activ/camping",
+      "id": "canada-bd1bc3be8914c4b69609"
+    },
+    {
+      "name": "Two Jack Lakeside",
+      "kind": "stay",
+      "locality": "Banff National Park",
+      "lat": 51.224,
+      "lon": -115.5003,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "url": "https://parks.canada.ca/pn-np/ab/banff/activ/camping",
+      "id": "canada-ffa1b169eefba760a793"
+    },
+    {
+      "name": "Johnston Canyon",
+      "kind": "stay",
+      "locality": "Banff National Park",
+      "lat": 51.2428,
+      "lon": -115.8439,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "url": "https://parks.canada.ca/pn-np/ab/banff/activ/camping",
+      "id": "canada-3df59c9839cca9359618"
+    },
+    {
+      "name": "Castle Mountain",
+      "kind": "stay",
+      "locality": "Banff National Park",
+      "lat": 51.26802,
+      "lon": -115.91051,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "url": "https://parks.canada.ca/pn-np/ab/banff/activ/camping",
+      "id": "canada-5b0059cce159bc11525f"
+    },
+    {
+      "name": "Protection Mountain",
+      "kind": "stay",
+      "locality": "Banff National Park",
+      "lat": 51.3275,
+      "lon": -116.036,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "url": "https://parks.canada.ca/pn-np/ab/banff/activ/camping",
+      "id": "canada-8d23b018ce37024a28df"
+    },
+    {
+      "name": "Lake Louise",
+      "kind": "stay",
+      "locality": "Banff National Park",
+      "lat": 51.4168,
+      "lon": -116.1756,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "url": "https://parks.canada.ca/pn-np/ab/banff/activ/camping",
+      "id": "canada-4c829648eb7c84f87504"
+    },
+    {
+      "name": "Mosquito Creek",
+      "kind": "stay",
+      "locality": "Banff National Park",
+      "lat": 51.63039,
+      "lon": -116.33039,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "url": "https://parks.canada.ca/pn-np/ab/banff/activ/camping",
+      "id": "canada-ee75a34cc90558531c41"
+    },
+    {
+      "name": "Silverhorn",
+      "kind": "stay",
+      "locality": "Banff National Park",
+      "lat": 51.80009,
+      "lon": -116.58334,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "url": "https://parks.canada.ca/pn-np/ab/banff/activ/camping",
+      "id": "canada-f6a6888a5533a9d85bce"
+    },
+    {
+      "name": "Waterfowl Lakes",
+      "kind": "stay",
+      "locality": "Banff National Park",
+      "lat": 51.8429,
+      "lon": -116.6219,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "url": "https://parks.canada.ca/pn-np/ab/banff/activ/camping",
+      "id": "canada-5014eebcd7304977f979"
+    },
+    {
+      "name": "Rampart Creek",
+      "kind": "stay",
+      "locality": "Banff National Park",
+      "lat": 52.0391,
+      "lon": -116.8676,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "url": "https://parks.canada.ca/pn-np/ab/banff/activ/camping",
+      "id": "canada-9f754b4c925c02efc8d7"
+    },
+    {
+      "name": "Parks Canada",
+      "kind": "stay",
+      "locality": "Banff National Park",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "url": "https://parks.canada.ca/pn-np/ab/banff",
+      "id": "canada-71053a5096e5b46d61c6"
+    },
+    {
+      "name": "Banff National Park",
+      "kind": "area",
+      "locality": "Banff National Park",
+      "lat": 51.6,
+      "lon": -115.6,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banff_National_Park",
+      "id": "canada-3677a243e4d682e89b66"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 3 distinct public Wikivoyage source pages; attempted 3 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

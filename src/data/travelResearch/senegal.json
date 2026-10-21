@@ -1,0 +1,594 @@
+{
+  "sources": [
+    {
+      "title": "Senegal",
+      "url": "https://en.wikivoyage.org/wiki/Senegal",
+      "checkedAt": "2026-10-21T08:06:46.203Z"
+    },
+    {
+      "title": "Dakar",
+      "url": "https://en.wikivoyage.org/wiki/Dakar",
+      "checkedAt": "2026-10-21T08:06:49.407Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Dakar",
+      "kind": "area",
+      "locality": "Senegal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Senegal",
+      "id": "senegal-84660f908cb5fdc30026"
+    },
+    {
+      "name": "Saint-Louis",
+      "kind": "area",
+      "locality": "Senegal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Senegal",
+      "id": "senegal-5be0dd7de27bdae47545"
+    },
+    {
+      "name": "Thiès",
+      "kind": "area",
+      "locality": "Senegal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Senegal",
+      "id": "senegal-dea18835c87654090303"
+    },
+    {
+      "name": "Kaolack",
+      "kind": "area",
+      "locality": "Senegal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Senegal",
+      "id": "senegal-c45a545e80e6c640f790"
+    },
+    {
+      "name": "Ziguinchor",
+      "kind": "area",
+      "locality": "Senegal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Senegal",
+      "id": "senegal-89d153988410421f2b16"
+    },
+    {
+      "name": "Tambacounda",
+      "kind": "area",
+      "locality": "Senegal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Senegal",
+      "id": "senegal-e195423cfd157258d298"
+    },
+    {
+      "name": "Touba",
+      "kind": "area",
+      "locality": "Senegal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Senegal",
+      "id": "senegal-81faa857ae7c56b81a44"
+    },
+    {
+      "name": "Kafountine",
+      "kind": "area",
+      "locality": "Senegal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Senegal",
+      "id": "senegal-9593678e01c218b4f2d9"
+    },
+    {
+      "name": "Kédougou",
+      "kind": "area",
+      "locality": "Senegal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Senegal",
+      "id": "senegal-eb38b24df5f6bc888dc4"
+    },
+    {
+      "name": "Fathala Reserve",
+      "kind": "do",
+      "locality": "Senegal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Senegal",
+      "price": "CFA10,000",
+      "url": "http://www.gianteland.com/",
+      "id": "senegal-6e959a25affe97d6430c"
+    },
+    {
+      "name": "African Renaissance Monument",
+      "kind": "do",
+      "locality": "Dakar",
+      "lat": 14.722155,
+      "lon": -17.494938,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "price": "CFA6500",
+      "id": "senegal-d224e577cde81b78c60c"
+    },
+    {
+      "name": "IFAN Museum of African Arts",
+      "kind": "do",
+      "locality": "Dakar",
+      "lat": 14.66354,
+      "lon": -17.438126,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "address": "Rue Emile Zola",
+      "url": "http://ifan.ucad.sn/",
+      "id": "senegal-9c91fcf77c00505b83d6"
+    },
+    {
+      "name": "Ile de Gorée",
+      "kind": "do",
+      "locality": "Dakar",
+      "lat": 14.66666,
+      "lon": -17.398257,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "id": "senegal-6e21e44854a1a6897cb5"
+    },
+    {
+      "name": "Les Almadies",
+      "kind": "do",
+      "locality": "Dakar",
+      "lat": 14.7408,
+      "lon": -17.53,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "id": "senegal-db9942bebd39aa903959"
+    },
+    {
+      "name": "Dakar Grand Mosque",
+      "kind": "do",
+      "locality": "Dakar",
+      "lat": 14.67887,
+      "lon": -17.443135,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "address": "Av. Pape Gueye Fall",
+      "id": "senegal-21ee8aaf96e80130c7f5"
+    },
+    {
+      "name": "Dakar Cathedral",
+      "kind": "do",
+      "locality": "Dakar",
+      "lat": 14.665308,
+      "lon": -17.437645,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "id": "senegal-e30c3d72aec7fc536d3c"
+    },
+    {
+      "name": "Hann Park and Zoo",
+      "kind": "do",
+      "locality": "Dakar",
+      "lat": 14.727376,
+      "lon": -17.433602,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "id": "senegal-bdc22befbb1a6911b600"
+    },
+    {
+      "name": "Léopold Sédar Senghor national stadium",
+      "kind": "do",
+      "locality": "Dakar",
+      "lat": 14.746613,
+      "lon": -17.45197,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "address": "Route de Yoff",
+      "price": "€5-15",
+      "id": "senegal-1d228c6aecdc49c1c6dc"
+    },
+    {
+      "name": "Village Des Arts",
+      "kind": "do",
+      "locality": "Dakar",
+      "lat": 14.74643,
+      "lon": -17.45809,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "id": "senegal-74d32aef776c32cfd1d9"
+    },
+    {
+      "name": "Phare des Mamelles",
+      "kind": "do",
+      "locality": "Dakar",
+      "lat": 14.7235,
+      "lon": -17.5018,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "url": "http://www.pharedesmamelles.com/",
+      "id": "senegal-a749dcad40e53e68e515"
+    },
+    {
+      "name": "Place du Souvenir Africain",
+      "kind": "do",
+      "locality": "Dakar",
+      "lat": 14.69216,
+      "lon": -17.47447,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "url": "https://www.facebook.com/SouvenirAfricain/",
+      "id": "senegal-6e418397f28ac66e38e8"
+    },
+    {
+      "name": "Monument du Millénaire",
+      "kind": "do",
+      "locality": "Dakar",
+      "lat": 14.67312,
+      "lon": -17.45042,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "id": "senegal-d13294acf9126d96bfda"
+    },
+    {
+      "name": "Musée des Forces Armées Senegalaise",
+      "kind": "do",
+      "locality": "Dakar",
+      "lat": 14.66704,
+      "lon": -17.44192,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "address": "Rue de la République",
+      "id": "senegal-d007dc9a206dd6386183"
+    },
+    {
+      "name": "Musée Civilisations noires",
+      "kind": "do",
+      "locality": "Dakar",
+      "lat": 14.6773,
+      "lon": -17.43502,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "url": "http://www.mcn.sn/",
+      "id": "senegal-84627ad57a441cea7220"
+    },
+    {
+      "name": "Loman Art Gallery",
+      "kind": "do",
+      "locality": "Dakar",
+      "lat": 14.73299,
+      "lon": -17.49764,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "address": "villa no. 1 rue de pharmacy Atlantic Mamelles",
+      "price": "Free admission",
+      "id": "senegal-475401471c2b2847fb11"
+    },
+    {
+      "name": "Lake Retba",
+      "kind": "do",
+      "locality": "Dakar",
+      "lat": 14.8374,
+      "lon": -17.227,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "id": "senegal-9713542c73f8cdcdb303"
+    },
+    {
+      "name": "Birdwatching",
+      "kind": "do",
+      "locality": "Dakar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "id": "senegal-5d20f4e16ce2173f8241"
+    },
+    {
+      "name": "Madeline Islands National Park",
+      "kind": "do",
+      "locality": "Dakar",
+      "lat": 14.654,
+      "lon": -17.4712,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "price": "~5000 CFA for boat trip",
+      "id": "senegal-1599fe1230185d308c33"
+    },
+    {
+      "name": "Magic Land, Dakar",
+      "kind": "do",
+      "locality": "Dakar",
+      "lat": 14.6756,
+      "lon": -17.4636,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "url": "http://www.magiclanddakar.com/",
+      "id": "senegal-ef93a8b9588bfad44450"
+    },
+    {
+      "name": "Leopold Sedar Senghor French Institute",
+      "kind": "do",
+      "locality": "Dakar",
+      "lat": 14.66822,
+      "lon": -17.43542,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "address": "89 rue Joseph Gomis, Dakar, Senegal",
+      "url": "http://www.institutfrancais-senegal.com/",
+      "id": "senegal-9711ef8ecc6642926a6b"
+    },
+    {
+      "name": "Grand National Theater of Dakar",
+      "kind": "do",
+      "locality": "Dakar",
+      "lat": 14.6793,
+      "lon": -17.4362,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "id": "senegal-cea45a3354b3526815e9"
+    },
+    {
+      "name": "Plage BCEAO",
+      "kind": "do",
+      "locality": "Dakar",
+      "lat": 14.76243,
+      "lon": -17.46368,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "id": "senegal-76e341bff04a15078796"
+    },
+    {
+      "name": "Plage du Virage",
+      "kind": "do",
+      "locality": "Dakar",
+      "lat": 14.75469,
+      "lon": -17.4961,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "id": "senegal-651445b2d1e06d9aa323"
+    },
+    {
+      "name": "Ile de Ngor",
+      "kind": "do",
+      "locality": "Dakar",
+      "lat": 14.75566,
+      "lon": -17.51341,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "id": "senegal-21ff7be1afb4408faa22"
+    },
+    {
+      "name": "Plage de la Pointe des Almadies",
+      "kind": "do",
+      "locality": "Dakar",
+      "lat": 14.74491,
+      "lon": -17.52869,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "id": "senegal-2d3ee9e7f9488d27a57c"
+    },
+    {
+      "name": "Plage des mamelles",
+      "kind": "do",
+      "locality": "Dakar",
+      "lat": 14.72517,
+      "lon": -17.50383,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "id": "senegal-543bcb5cf6c51b6de742"
+    },
+    {
+      "name": "Plage de l'Anse Bernard",
+      "kind": "do",
+      "locality": "Dakar",
+      "lat": 14.65679,
+      "lon": -17.43375,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "id": "senegal-441d91f5291aea67da36"
+    },
+    {
+      "name": "Plage de la Voile d' or",
+      "kind": "do",
+      "locality": "Dakar",
+      "lat": 14.70032,
+      "lon": -17.42097,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "id": "senegal-fd7176103e0b8e051b3f"
+    },
+    {
+      "name": "Chez Elias",
+      "kind": "eat",
+      "locality": "Dakar",
+      "lat": 14.6690557,
+      "lon": -17.4389593,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "address": "81 bis Av. Peytavin",
+      "id": "senegal-a38ef49b9c955ce62814"
+    },
+    {
+      "name": "Les batons (\"BANT-YII\")",
+      "kind": "eat",
+      "locality": "Dakar",
+      "lat": 14.6711529,
+      "lon": -17.4403111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "address": "7 Av. Jean Jaures",
+      "id": "senegal-36a121ca7fc4b28c5815"
+    },
+    {
+      "name": "Ali Baba",
+      "kind": "eat",
+      "locality": "Dakar",
+      "lat": 14.6693216,
+      "lon": -17.4344803,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "id": "senegal-aebfe1caf5ab732b9ad3"
+    },
+    {
+      "name": "Hotel Restaurant Farid",
+      "kind": "eat",
+      "locality": "Dakar",
+      "lat": 14.6708801,
+      "lon": -17.4345899,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "address": "Rue Vincens",
+      "id": "senegal-5c008504f62e386e8e85"
+    },
+    {
+      "name": "Artisan Boulanger Eric Kayser",
+      "kind": "eat",
+      "locality": "Dakar",
+      "lat": 14.6645089,
+      "lon": -17.434433,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "address": "ERIC KAYSER Artisan Boulanger, 3 Boulevard de la République Dakar, Rue de la République",
+      "id": "senegal-9f0c3056334a9816ddc9"
+    },
+    {
+      "name": "Chez Loutcha",
+      "kind": "eat",
+      "locality": "Dakar",
+      "lat": 14.6686687,
+      "lon": -17.4351086,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "address": "101 rue Moussé Diop",
+      "id": "senegal-5874ecff7bb50b16f6d4"
+    },
+    {
+      "name": "Le N'Gor",
+      "kind": "eat",
+      "locality": "Dakar",
+      "lat": 14.7411028,
+      "lon": -17.5247614,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "address": "Cor des Almadies",
+      "id": "senegal-fbdf5cb3e813f16b026f"
+    },
+    {
+      "name": "Bidew",
+      "kind": "eat",
+      "locality": "Dakar",
+      "lat": 14.6681848,
+      "lon": -17.4354647,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "address": "89 rue Joseph Gomis",
+      "url": "http://www.institutfrancais-senegal.com/",
+      "id": "senegal-de5bf944928370569759"
+    },
+    {
+      "name": "Le Jardin Thailandais",
+      "kind": "eat",
+      "locality": "Dakar",
+      "lat": 14.6930356,
+      "lon": -17.4604545,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "address": "10 Rue PE 43",
+      "id": "senegal-19e2527ad7cf6b01110d"
+    },
+    {
+      "name": "Hotel de l'Indépendance",
+      "kind": "eat",
+      "locality": "Dakar",
+      "lat": 14.669741,
+      "lon": -17.4324871,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "address": "Place Place 170",
+      "id": "senegal-ce1507a815be06526d74"
+    },
+    {
+      "name": "Café de Rome",
+      "kind": "eat",
+      "locality": "Dakar",
+      "lat": 14.6654829,
+      "lon": -17.435698,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "address": "30, Avenue de la République, Rue J. Gomis",
+      "url": "http://www.cafederome.com/",
+      "id": "senegal-e07c40d6fdae18e574b5"
+    },
+    {
+      "name": "La Fourchette",
+      "kind": "eat",
+      "locality": "Dakar",
+      "lat": 14.6703466,
+      "lon": -17.4280078,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "address": "4 Rue Parent",
+      "id": "senegal-e77c212b1c1bea2b89ce"
+    },
+    {
+      "name": "Le Viking",
+      "kind": "eat",
+      "locality": "Dakar",
+      "lat": 14.669290171747187,
+      "lon": -17.43432641029358,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "id": "senegal-f017dced8c3663ce7213"
+    },
+    {
+      "name": "Oceanium",
+      "kind": "stay",
+      "locality": "Dakar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "address": "Route de la petite corniche Est",
+      "price": "CFA15,000 double room",
+      "url": "https://www.oceaniumdc.com/",
+      "id": "senegal-fc386cbf1453be0da41e"
+    },
+    {
+      "name": "Onomo hotel",
+      "kind": "stay",
+      "locality": "Dakar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "address": "Route de l'Aéroport",
+      "url": "http://www.onomohotel.com/",
+      "id": "senegal-172c3baa0d532f18459d"
+    },
+    {
+      "name": "Hôtel du Phare Les Mamelles",
+      "kind": "stay",
+      "locality": "Dakar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "address": "36 cité Magistrats Les Mamelles",
+      "price": "from €30 (including free Wi-Fi)",
+      "url": "https://www.hotelduphare-dakar.com/",
+      "id": "senegal-90da77d2e4894cd9a246"
+    },
+    {
+      "name": "Auberge Poulagou",
+      "kind": "stay",
+      "locality": "Dakar",
+      "lat": 14.76444,
+      "lon": -17.47972,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "id": "senegal-1497b7728bc81d41ef78"
+    },
+    {
+      "name": "Hotel Oceanic",
+      "kind": "stay",
+      "locality": "Dakar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "address": "9, rue de Thann",
+      "url": "http://oceanic-hotel-dakar.dakar-hotels-sn.com/en/",
+      "id": "senegal-a6f75e5ffafc29e24ca4"
+    },
+    {
+      "name": "Hotel Farid",
+      "kind": "stay",
+      "locality": "Dakar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "address": "51, rue Vincens",
+      "id": "senegal-75335a822e099616fd35"
+    },
+    {
+      "name": "Chez Eric",
+      "kind": "stay",
+      "locality": "Dakar",
+      "lat": 14.66695,
+      "lon": -17.39713,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "address": "Rue de la compagnie, Gorée",
+      "price": "22213 CFA",
+      "id": "senegal-066f62703b81b56f4bcf"
+    },
+    {
+      "name": "Pullman Dakar Teranga",
+      "kind": "stay",
+      "locality": "Dakar",
+      "lat": 14.667759,
+      "lon": -17.431717,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "address": "10, Rue Colbert",
+      "price": "€120",
+      "url": "https://all.accor.com/hotel/0563/index.en.shtml",
+      "id": "senegal-223e501d97aa658083ae"
+    },
+    {
+      "name": "Radisson Blu Hotel, Dakar Sea Plaza",
+      "kind": "stay",
+      "locality": "Dakar",
+      "lat": 14.695003,
+      "lon": -17.473683,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "address": "Route de la Corniche",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-blu-dakar-sea-plaza",
+      "id": "senegal-49ae68496e5da4711b42"
+    },
+    {
+      "name": "King Fahd Palace Hotel",
+      "kind": "stay",
+      "locality": "Dakar",
+      "lat": 14.74629,
+      "lon": -17.523032,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "url": "http://www.kingfahdpalacehotels.com/",
+      "id": "senegal-d94eef5d68dcf72f1ba7"
+    },
+    {
+      "name": "Dakar",
+      "kind": "area",
+      "locality": "Dakar",
+      "lat": 14.681,
+      "lon": -17.441,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dakar",
+      "id": "senegal-e4dc5ad7e5d81d48c7d5"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

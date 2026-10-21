@@ -1,0 +1,337 @@
+{
+  "sources": [
+    {
+      "title": "Eswatini",
+      "url": "https://en.wikivoyage.org/wiki/Eswatini",
+      "checkedAt": "2026-10-21T08:09:39.266Z"
+    },
+    {
+      "title": "Mbabane",
+      "url": "https://en.wikivoyage.org/wiki/Mbabane",
+      "checkedAt": "2026-10-21T08:09:42.203Z"
+    },
+    {
+      "title": "Lobamba",
+      "url": "https://en.wikivoyage.org/wiki/Lobamba",
+      "checkedAt": "2026-10-21T08:09:45.189Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Mbabane",
+      "kind": "area",
+      "locality": "Eswatini",
+      "lat": -26.316667,
+      "lon": 31.133333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Eswatini",
+      "id": "eswatini-013694b7bc075b0dddf2"
+    },
+    {
+      "name": "Lobamba",
+      "kind": "area",
+      "locality": "Eswatini",
+      "lat": -26.416667,
+      "lon": 31.166667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Eswatini",
+      "id": "eswatini-a143f00de03628d4a119"
+    },
+    {
+      "name": "Manzini",
+      "kind": "area",
+      "locality": "Eswatini",
+      "lat": -26.483333,
+      "lon": 31.366667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Eswatini",
+      "id": "eswatini-b76bc37c03122537f206"
+    },
+    {
+      "name": "Big Bend",
+      "kind": "area",
+      "locality": "Eswatini",
+      "lat": -26.816667,
+      "lon": 31.933333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Eswatini",
+      "id": "eswatini-276714f8fad6af0a0d57"
+    },
+    {
+      "name": "Piggs Peak",
+      "kind": "area",
+      "locality": "Eswatini",
+      "lat": -25.966667,
+      "lon": 31.25,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Eswatini",
+      "id": "eswatini-50df5b95277164bd40d1"
+    },
+    {
+      "name": "Nhlangano",
+      "kind": "area",
+      "locality": "Eswatini",
+      "lat": -27.116667,
+      "lon": 31.2,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Eswatini",
+      "id": "eswatini-9649a6a5fc5701fb38d9"
+    },
+    {
+      "name": "Siteki",
+      "kind": "area",
+      "locality": "Eswatini",
+      "lat": -26.45,
+      "lon": 31.95,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Eswatini",
+      "id": "eswatini-e5d26e3011e0f7f4b1d8"
+    },
+    {
+      "name": "Nsangwini Rock Art Tour",
+      "kind": "do",
+      "locality": "Eswatini",
+      "lat": -26.03317,
+      "lon": 31.272649,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Eswatini",
+      "price": "R50 per person",
+      "id": "eswatini-7c4c24be7ddb1a963596"
+    },
+    {
+      "name": "Sibebe Rock",
+      "kind": "do",
+      "locality": "Eswatini",
+      "lat": -26.260672,
+      "lon": 31.172503,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Eswatini",
+      "id": "eswatini-8a5774260640ac51a23b"
+    },
+    {
+      "name": "Sibebe Rock",
+      "kind": "do",
+      "locality": "Mbabane",
+      "lat": -26.2611,
+      "lon": 31.1726,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mbabane",
+      "address": "P5QF+G24, Mbabane, Eswatini",
+      "price": "E30",
+      "id": "eswatini-a5bd0ce44760f87fc53e"
+    },
+    {
+      "name": "Tourist information",
+      "kind": "do",
+      "locality": "Mbabane",
+      "lat": -28.3281,
+      "lon": 31.139,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mbabane",
+      "address": "Sozisa Road at Umlilo St",
+      "url": "https://www.thekingdomofeswatini.com/",
+      "id": "eswatini-a84a3e402bda0d937d1d"
+    },
+    {
+      "name": "Hawane Nature Reserve",
+      "kind": "do",
+      "locality": "Mbabane",
+      "lat": -26.1958,
+      "lon": 31.0989,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mbabane",
+      "url": "http://www.sntc.org.sz/reserves/hawane.asp",
+      "id": "eswatini-932641a7d57196f765ee"
+    },
+    {
+      "name": "Mantenga Lodge",
+      "kind": "stay",
+      "locality": "Mbabane",
+      "lat": -26.4412,
+      "lon": 31.18126,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mbabane",
+      "address": "Mantenga Rd, Ezulwini Valley",
+      "url": "http://www.mantengalodge.com/",
+      "id": "eswatini-c881aee498b143f0990d"
+    },
+    {
+      "name": "Bombasos Backpackers N Lodge",
+      "kind": "stay",
+      "locality": "Mbabane",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mbabane",
+      "address": "404 Lukhalo road Mbabane",
+      "price": "E80/145",
+      "id": "eswatini-39e039c22caf1e34aef1"
+    },
+    {
+      "name": "Mountain Inn",
+      "kind": "stay",
+      "locality": "Mbabane",
+      "lat": -26.3412,
+      "lon": 31.15175,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mbabane",
+      "price": "E748",
+      "url": "http://mountaininn.sz/",
+      "id": "eswatini-e2547bbd428d7835e3db"
+    },
+    {
+      "name": "Hilton Garden Inn Mbabane",
+      "kind": "stay",
+      "locality": "Mbabane",
+      "lat": -26.32991,
+      "lon": 31.13968,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mbabane",
+      "address": "Mhlambanyatsi Rd",
+      "price": "E1,113",
+      "url": "https://www.hilton.com/en/hotels/qmngigi-hilton-garden-inn-mbabane/?WT.mc_id=zVSEC0SZ1GI2NaturalSearch3Google_LGHotelListing4DGGeneric_5LocalSearch6QMNGIGI7EN8i81034",
+      "id": "eswatini-ff6ef31115c3629c8bfe"
+    },
+    {
+      "name": "Mbabane",
+      "kind": "area",
+      "locality": "Mbabane",
+      "lat": -26.320833,
+      "lon": 31.161667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mbabane",
+      "id": "eswatini-36eead877ec814dcdb71"
+    },
+    {
+      "name": "Mantenga Nature Reserve",
+      "kind": "do",
+      "locality": "Lobamba",
+      "lat": -26.4351,
+      "lon": 31.1571,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lobamba",
+      "id": "eswatini-31675e1e7ab75ec5b200"
+    },
+    {
+      "name": "Mlilwane Wildlife Sanctuary",
+      "kind": "do",
+      "locality": "Lobamba",
+      "lat": -26.48,
+      "lon": 31.1942,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lobamba",
+      "url": "http://www.biggameparks.org/mlilwane/",
+      "id": "eswatini-2ecb95c07e377ccdb582"
+    },
+    {
+      "name": "King Sobhuza II Memorial Park",
+      "kind": "do",
+      "locality": "Lobamba",
+      "lat": -26.44824,
+      "lon": 31.20632,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lobamba",
+      "id": "eswatini-e3c47e6f188d29b43fd4"
+    },
+    {
+      "name": "Swaziland National Museum",
+      "kind": "do",
+      "locality": "Lobamba",
+      "lat": -26.44677,
+      "lon": 31.20765,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lobamba",
+      "url": "http://www.sntc.org.sz/cultural/museum.php",
+      "id": "eswatini-a5707649ce4c10c92b96"
+    },
+    {
+      "name": "Somhlolo National Stadium",
+      "kind": "do",
+      "locality": "Lobamba",
+      "lat": -26.443,
+      "lon": 31.2055,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lobamba",
+      "id": "eswatini-48c3b975035672e5729e"
+    },
+    {
+      "name": "Mantenga Cultural Village",
+      "kind": "do",
+      "locality": "Lobamba",
+      "lat": -26.44421,
+      "lon": 31.17444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lobamba",
+      "address": "end of Ligugu St in Malkerns",
+      "url": "http://www.sntc.org.sz/",
+      "id": "eswatini-a2a77605aa1f64f1f9d5"
+    },
+    {
+      "name": "Malandela's Restaurant",
+      "kind": "eat",
+      "locality": "Lobamba",
+      "lat": -26.49763,
+      "lon": 31.21865,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lobamba",
+      "url": "http://www.malandelas.com/",
+      "id": "eswatini-46770035a5655a8b3fd4"
+    },
+    {
+      "name": "Sondzela Backpackers",
+      "kind": "stay",
+      "locality": "Lobamba",
+      "lat": -26.49551,
+      "lon": 31.19536,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lobamba",
+      "address": "Milwane Wildlife Sanctuary, Malkerns",
+      "price": "~$19",
+      "id": "eswatini-d0bd4ad8b7e9b39fca1b"
+    },
+    {
+      "name": "Lidwala Lodge",
+      "kind": "stay",
+      "locality": "Lobamba",
+      "lat": -26.42424,
+      "lon": 31.17706,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lobamba",
+      "price": "~$14",
+      "url": "https://lidwala.co.sz/",
+      "id": "eswatini-ea557cccd35fdd7621ec"
+    },
+    {
+      "name": "Mantenga Lodge",
+      "kind": "stay",
+      "locality": "Lobamba",
+      "lat": -26.44047,
+      "lon": 31.18168,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lobamba",
+      "address": "2 Mantenga Falls Road Mbabane Hhohho, H106",
+      "price": "~$41",
+      "url": "http://www.mantengalodge.com/",
+      "id": "eswatini-6b397264b87988508b6b"
+    },
+    {
+      "name": "Happy Valley Hotel and Casino",
+      "kind": "stay",
+      "locality": "Lobamba",
+      "lat": -26.44078,
+      "lon": 31.18977,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lobamba",
+      "url": "http://happyvalleyhotel.com/",
+      "id": "eswatini-b8ae2913ca7658fa3b84"
+    },
+    {
+      "name": "Benka LifeStyle",
+      "kind": "stay",
+      "locality": "Lobamba",
+      "lat": -26.4535,
+      "lon": 31.1889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lobamba",
+      "id": "eswatini-5c08141a62b7d7e82db7"
+    },
+    {
+      "name": "Lugogo Sun",
+      "kind": "stay",
+      "locality": "Lobamba",
+      "lat": -26.40941,
+      "lon": 31.17405,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lobamba",
+      "id": "eswatini-e138754ad74aabc1adba"
+    },
+    {
+      "name": "Royal Swazi Spa",
+      "kind": "stay",
+      "locality": "Lobamba",
+      "lat": -26.40831,
+      "lon": 31.16919,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lobamba",
+      "id": "eswatini-3a1f5e04f8575ad223f0"
+    },
+    {
+      "name": "Lobamba",
+      "kind": "area",
+      "locality": "Lobamba",
+      "lat": -26.416667,
+      "lon": 31.166667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Lobamba",
+      "id": "eswatini-724eb9ebd51bde50ad45"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 3 distinct public Wikivoyage source pages; attempted 3 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

@@ -1,0 +1,557 @@
+{
+  "sources": [
+    {
+      "title": "Guatemala",
+      "url": "https://en.wikivoyage.org/wiki/Guatemala",
+      "checkedAt": "2026-10-21T08:09:53.633Z"
+    },
+    {
+      "title": "Guatemala City",
+      "url": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "checkedAt": "2026-10-21T08:09:56.450Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Guatemala City",
+      "kind": "area",
+      "locality": "Guatemala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala",
+      "id": "guatemala-ce064e157768f165e7d5"
+    },
+    {
+      "name": "Antigua Guatemala",
+      "kind": "area",
+      "locality": "Guatemala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala",
+      "id": "guatemala-eb0e20e7daecd571db12"
+    },
+    {
+      "name": "Flores",
+      "kind": "area",
+      "locality": "Guatemala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala",
+      "id": "guatemala-10d1b19e25a4fe85707b"
+    },
+    {
+      "name": "Melchor de Mencos",
+      "kind": "area",
+      "locality": "Guatemala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala",
+      "id": "guatemala-36c598aa89944695b57f"
+    },
+    {
+      "name": "Panajachel",
+      "kind": "area",
+      "locality": "Guatemala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala",
+      "id": "guatemala-f75c43f613726fc39d46"
+    },
+    {
+      "name": "Puerto Barrios",
+      "kind": "area",
+      "locality": "Guatemala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala",
+      "id": "guatemala-c1938fe5a296cdd3a8af"
+    },
+    {
+      "name": "Puerto San José",
+      "kind": "area",
+      "locality": "Guatemala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala",
+      "id": "guatemala-f753e7122768080dad68"
+    },
+    {
+      "name": "Quetzaltenango",
+      "kind": "area",
+      "locality": "Guatemala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala",
+      "id": "guatemala-b4993cfcc849edfd4b16"
+    },
+    {
+      "name": "Sayaxché",
+      "kind": "area",
+      "locality": "Guatemala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala",
+      "id": "guatemala-e2ef7bdaf49113896a09"
+    },
+    {
+      "name": "Semuc Champey",
+      "kind": "do",
+      "locality": "Guatemala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala",
+      "address": "Lanquin, near Coban, Alta Verapaz",
+      "id": "guatemala-b4af154bdcc38566e6c2"
+    },
+    {
+      "name": "National Palace of Culture",
+      "kind": "do",
+      "locality": "Guatemala City",
+      "lat": 14.642942,
+      "lon": -90.513228,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "price": "Entrance Q40 for foreigners",
+      "url": "http://mcd.gob.gt/inicio/palacionacional/",
+      "id": "guatemala-e3408ebffe4106aede67"
+    },
+    {
+      "name": "Mapa en Relieve",
+      "kind": "do",
+      "locality": "Guatemala City",
+      "lat": 14.660306,
+      "lon": -90.508628,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "id": "guatemala-a6109312cfc17df41cf3"
+    },
+    {
+      "name": "La Aurora Zoo",
+      "kind": "do",
+      "locality": "Guatemala City",
+      "lat": 14.598542,
+      "lon": -90.525719,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "Zona 13",
+      "id": "guatemala-c0f2e2e1a831935ee862"
+    },
+    {
+      "name": "Kaminal Juyu Parque Arqueologico",
+      "kind": "do",
+      "locality": "Guatemala City",
+      "lat": 14.63313,
+      "lon": -90.548583,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "Zona 7",
+      "id": "guatemala-0451e95f8ee4100ac7da"
+    },
+    {
+      "name": "Parque Central (Plaza de la Constitucion)",
+      "kind": "do",
+      "locality": "Guatemala City",
+      "lat": 14.64162,
+      "lon": -90.513006,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "id": "guatemala-423c5311cce7f676ba6c"
+    },
+    {
+      "name": "Catedral Metropolitana de Santiago de Guatemala",
+      "kind": "do",
+      "locality": "Guatemala City",
+      "lat": 14.641601,
+      "lon": -90.512516,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "id": "guatemala-5fba70a6ce18b5e06b6e"
+    },
+    {
+      "name": "Jardines Botánico",
+      "kind": "do",
+      "locality": "Guatemala City",
+      "lat": 14.614491,
+      "lon": -90.512957,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "Calle Mariscal Cruz 1-56, Zona 10",
+      "id": "guatemala-24f3d668c7220b69b806"
+    },
+    {
+      "name": "Cayalá City",
+      "kind": "do",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "url": "https://www.cayala.com.gt/",
+      "id": "guatemala-8502018d2397c5402e22"
+    },
+    {
+      "name": "National History Museum",
+      "kind": "do",
+      "locality": "Guatemala City",
+      "lat": 14.639813,
+      "lon": -90.51006,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "9A Calle 9",
+      "url": "http://mcd.gob.gt/museo-nacional-de-historia/",
+      "id": "guatemala-bd4820428f2ebf6e4ffc"
+    },
+    {
+      "name": "National Museum of Archaeology and Ethnology",
+      "kind": "do",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "7 Avenida",
+      "id": "guatemala-1ca8289375c75b23ddaf"
+    },
+    {
+      "name": "Ixchel Museum of Indigenous Textiles and Clothing",
+      "kind": "do",
+      "locality": "Guatemala City",
+      "lat": 14.60795,
+      "lon": -90.505957,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "6 Calle final",
+      "price": "Q45 adults, Q25 students",
+      "url": "https://www.museoixchel.com/",
+      "id": "guatemala-4918080725d69a13a840"
+    },
+    {
+      "name": "Popol Vuh Museum",
+      "kind": "do",
+      "locality": "Guatemala City",
+      "lat": 14.608033,
+      "lon": -90.505187,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "6 Calle final",
+      "price": "Q35 adults, Q15 students",
+      "url": "https://popolvuh.ufm.edu/",
+      "id": "guatemala-0566ced9a9ec40bc6a0c"
+    },
+    {
+      "name": "Museum of Modern Art",
+      "kind": "do",
+      "locality": "Guatemala City",
+      "lat": 14.597429,
+      "lon": -90.52881,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "7 Avenida",
+      "id": "guatemala-5064f98ff5cfe217c2bb"
+    },
+    {
+      "name": "Miraflores Museum",
+      "kind": "do",
+      "locality": "Guatemala City",
+      "lat": 14.620443,
+      "lon": -90.554226,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "7 Calle 21-55, Zona 11",
+      "id": "guatemala-23e05c33f22c0e0aa228"
+    },
+    {
+      "name": "Museo Carlos F. Novella",
+      "kind": "do",
+      "locality": "Guatemala City",
+      "lat": 14.664858,
+      "lon": -90.494158,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "15 Avenida 18-01 Zona 6 Interior Finca La Pedrera",
+      "url": "https://www.cempro.com/",
+      "id": "guatemala-e803091faba92d9f134f"
+    },
+    {
+      "name": "Guatemala City Railway Museum",
+      "kind": "do",
+      "locality": "Guatemala City",
+      "lat": 14.6299,
+      "lon": -90.5114,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "9A Avenida 18-03, Cdad",
+      "url": "http://museofegua.com/",
+      "id": "guatemala-dcdeec375ef907bbb84b"
+    },
+    {
+      "name": "Guatemala National Football Team",
+      "kind": "do",
+      "locality": "Guatemala City",
+      "lat": 14.625764,
+      "lon": -90.510489,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "10A Avenida",
+      "url": "http://www.rojos.com/",
+      "id": "guatemala-924697497b4d8f5139d8"
+    },
+    {
+      "name": "Authentic Guatemala",
+      "kind": "do",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "Cd. Guatemala",
+      "url": "http://authenticguatemala.com/tour/tour/ciudad-de-guatemala/",
+      "id": "guatemala-ffb3909d4164637dbe8a"
+    },
+    {
+      "name": "Hacienda Real",
+      "kind": "eat",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "url": "http://www.haciendareal.net/",
+      "id": "guatemala-c201b29b9638d80154fd"
+    },
+    {
+      "name": "Tre Fratelli",
+      "kind": "eat",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "4A Avenida, inside Plaza Fontabella",
+      "url": "https://m.facebook.com/TreFratelliGt/",
+      "id": "guatemala-ed1c5f7b61425dd604b8"
+    },
+    {
+      "name": "Tamarindos",
+      "kind": "eat",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "url": "https://tamarindos.com.gt/",
+      "id": "guatemala-1893936dcd5c6172c7a2"
+    },
+    {
+      "name": "Restaurante Fridas",
+      "kind": "eat",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "16 Calle 6-72, Zona 10",
+      "url": "https://pideafridas.com/",
+      "id": "guatemala-fd510d0418ebf9855cb9"
+    },
+    {
+      "name": "Tapas y Cañas",
+      "kind": "eat",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "part of Forum Majadas, off 26 Ave",
+      "url": "http://www.tapasycanas.com/",
+      "id": "guatemala-f116b2928dd039eaef2d"
+    },
+    {
+      "name": "Hooters",
+      "kind": "eat",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "url": "http://www.hooters.com.gt/",
+      "id": "guatemala-ee08921328d7a7d36aa0"
+    },
+    {
+      "name": "Los Cebollines",
+      "kind": "eat",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "url": "http://www.cebollines.com/",
+      "id": "guatemala-2433783216b729cfdd75"
+    },
+    {
+      "name": "Hotel Pan-American",
+      "kind": "eat",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "9A Calle 5-63, Zona 1",
+      "id": "guatemala-8373eccc9fef9f2fa715"
+    },
+    {
+      "name": "Hotel Ajau",
+      "kind": "eat",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "url": "http://www.hotelajau.net/",
+      "id": "guatemala-06813a1a50e068c440ac"
+    },
+    {
+      "name": "4 Grados Norte",
+      "kind": "eat",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "url": "http://www.guate360.com/galeria/categories.php?cat_id=51",
+      "id": "guatemala-815899fe0c0129648ee9"
+    },
+    {
+      "name": "El Establo",
+      "kind": "eat",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "14 Calle 508, Zona 10",
+      "url": "https://instagram.com/establoz10",
+      "id": "guatemala-3f2833c948a204093ba3"
+    },
+    {
+      "name": "Genetic Majestic Club",
+      "kind": "eat",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "Ruta 3, near 4 Grados Norte",
+      "price": "US$12",
+      "url": "https://www.facebook.com/GeneticMajesticClub",
+      "id": "guatemala-93b737c94d253f180b95"
+    },
+    {
+      "name": "Hostal GuateFriends",
+      "kind": "stay",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "16 Calle 7-40, Zona 13. Aurora 1",
+      "price": "From US$18 per person in shared rooms and US$35-40 p/p in private rooms",
+      "url": "http://www.hostalguatefriends.com/",
+      "id": "guatemala-b3bdc8597bdd24f2d20b"
+    },
+    {
+      "name": "Pension Meza",
+      "kind": "stay",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "10 Calle 10-17, Zona 1",
+      "price": "From US$4 p/p in shared rooms and $8 p/p in private rooms",
+      "url": "https://www.facebook.com/Pension-Meza-506461876081053/",
+      "id": "guatemala-c8ba3b702af9dedc3a12"
+    },
+    {
+      "name": "Dos Lunas Guest House",
+      "kind": "stay",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "21 Calle 10-92, Zona 13",
+      "price": "Dorms and privates from US$14 p/p.",
+      "url": "http://www.hoteldoslunas.com/",
+      "id": "guatemala-8835dec420fe0ec31e53"
+    },
+    {
+      "name": "Hostal Hermano Pedro",
+      "kind": "stay",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "6a Avenida 20-53, Zona 13",
+      "id": "guatemala-e08e8cd30c7c6f99d04e"
+    },
+    {
+      "name": "Hostal Los Volcanes",
+      "kind": "stay",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "16 calle 8-00, Zona 13 Aurora",
+      "price": "Dorms and privates from US$15 p/p",
+      "url": "http://www.losvolcaneshostel.com/",
+      "id": "guatemala-dbc4a2540104b0cb07d5"
+    },
+    {
+      "name": "Hotel Spring",
+      "kind": "stay",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "8 Avenida 12-65, Zona 1",
+      "url": "http://www.hotelspring.com/",
+      "id": "guatemala-74fc60eb867df302578f"
+    },
+    {
+      "name": "Quetzalroo Backpackers",
+      "kind": "stay",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "6ta Avenida 7-84 zona 10",
+      "price": "The rooms go for dorm US$15; Single US$20; Double US$35",
+      "id": "guatemala-6473f5abf22278738f70"
+    },
+    {
+      "name": "Tequila Sunrise Hostel",
+      "kind": "stay",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "Ruta 5 7-33 Zona 4",
+      "price": "from $8 per person",
+      "url": "http://tequilasunrisebnb.com/",
+      "id": "guatemala-36a09c5a66eb6fe052fd"
+    },
+    {
+      "name": "Hilton Garden Inn",
+      "kind": "stay",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "13 Calle 7-65, Zona 9",
+      "price": "From US$89",
+      "url": "https://hiltongardeninn3.hilton.com/en/hotels/guatemala/hilton-garden-inn-guatemala-city-GUAGCGI/index.html",
+      "id": "guatemala-0609813fc2ccf45fba45"
+    },
+    {
+      "name": "Best Western Stofella",
+      "kind": "stay",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "2 Avenida 12-28, Zona 10",
+      "price": "From US$66",
+      "url": "http://stofella.com/en/",
+      "id": "guatemala-13b1087cb38a73c62d13"
+    },
+    {
+      "name": "Comfort Hostel",
+      "kind": "stay",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "17 Calle 14-35 Zona 10",
+      "url": "http://www.comforthostel.com/",
+      "id": "guatemala-4128f97dd687666b096c"
+    },
+    {
+      "name": "Ciudad Vieja",
+      "kind": "stay",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "8 Calle 3-67, Zona 10",
+      "url": "http://www.hotelciudadvieja.com/",
+      "id": "guatemala-155ce8d1b07d9d4c1bc0"
+    },
+    {
+      "name": "Hotel Pan American",
+      "kind": "stay",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "9a Calle 5-63, Zona 1",
+      "id": "guatemala-d0370e4585924f58e47b"
+    },
+    {
+      "name": "Barceló Guatemala City",
+      "kind": "stay",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "7 Avenida 15-49, Zona 9",
+      "url": "https://www.barcelo.com/en-us/hotels/guatemala/guatemala-city/barcelo-guatemala-city/",
+      "id": "guatemala-cb0325e27847ce397f65"
+    },
+    {
+      "name": "Holiday Inn",
+      "kind": "stay",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "1 Avenida 13-22, Zona 10",
+      "url": "https://www.ihg.com/holidayinn/hotels/us/en/ciudad-de-guatemala/guact/hoteldetail",
+      "id": "guatemala-dbd6d90054edfe1ab99b"
+    },
+    {
+      "name": "Westin Camino Real",
+      "kind": "stay",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "14a Calle 0-20, Zona 10",
+      "url": "https://www.marriott.com/hotels/einterface/GUAWI",
+      "id": "guatemala-4e9baca9c9c2eea7d1db"
+    },
+    {
+      "name": "Real InterContinental Guatemala",
+      "kind": "stay",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "14 calle 2-51, zona 10. Ciudad de Guatemala, 01010. Guatemala",
+      "price": "US$100-400",
+      "url": "https://www.ihg.com/intercontinental/hotels/gb/en/guatemala-city/guaha/hoteldetail",
+      "id": "guatemala-2e829358d7678b3edd82"
+    },
+    {
+      "name": "Crowne Plaza Hotel",
+      "kind": "stay",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "Avenida de la Americas 9-08 Zona 13",
+      "url": "http://www.ichotelsgroup.com/h/d/cp/1/en/hotel/guacp?rpb=hotel&crUrl=/h/d/hi/1/en/availsearch&ias=y",
+      "id": "guatemala-68d93adca4c8bcbc7d70"
+    },
+    {
+      "name": "Uxlabil",
+      "kind": "stay",
+      "locality": "Guatemala City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "address": "15 Calle final, Oakland, Zona 10",
+      "id": "guatemala-178cb4a5eb5cbba8b62e"
+    },
+    {
+      "name": "Guatemala City",
+      "kind": "area",
+      "locality": "Guatemala City",
+      "lat": 14.6248,
+      "lon": -90.5328,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guatemala_City",
+      "id": "guatemala-dbb016b61befd95c2e45"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

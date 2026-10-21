@@ -1,0 +1,720 @@
+{
+  "sources": [
+    {
+      "title": "Pakistan",
+      "url": "https://en.wikivoyage.org/wiki/Pakistan",
+      "checkedAt": "2026-10-21T08:11:28.377Z"
+    },
+    {
+      "title": "Islamabad",
+      "url": "https://en.wikivoyage.org/wiki/Islamabad",
+      "checkedAt": "2026-10-21T08:11:31.284Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Islamabad",
+      "kind": "area",
+      "locality": "Pakistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pakistan",
+      "id": "pakistan-4acd289cf41828051111"
+    },
+    {
+      "name": "Faisalabad",
+      "kind": "area",
+      "locality": "Pakistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pakistan",
+      "id": "pakistan-f0a47b472190e1994ed7"
+    },
+    {
+      "name": "Karachi",
+      "kind": "area",
+      "locality": "Pakistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pakistan",
+      "id": "pakistan-d4aeb4335a82f6a29a05"
+    },
+    {
+      "name": "Lahore",
+      "kind": "area",
+      "locality": "Pakistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pakistan",
+      "id": "pakistan-f098d0cc6b6d9b716997"
+    },
+    {
+      "name": "Multan",
+      "kind": "area",
+      "locality": "Pakistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pakistan",
+      "id": "pakistan-13be75cb5ba29100b990"
+    },
+    {
+      "name": "Muzaffarabad",
+      "kind": "area",
+      "locality": "Pakistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pakistan",
+      "id": "pakistan-de83fb1b46bafd95821a"
+    },
+    {
+      "name": "Peshawar",
+      "kind": "area",
+      "locality": "Pakistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pakistan",
+      "id": "pakistan-f8c21b0d46860a8037b3"
+    },
+    {
+      "name": "Quetta",
+      "kind": "area",
+      "locality": "Pakistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pakistan",
+      "id": "pakistan-4cd2beb09155679a21ba"
+    },
+    {
+      "name": "Sialkot",
+      "kind": "area",
+      "locality": "Pakistan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pakistan",
+      "id": "pakistan-9f05c28905cafa4df32f"
+    },
+    {
+      "name": "Lok Virsa Museum",
+      "kind": "do",
+      "locality": "Islamabad",
+      "lat": 33.683333,
+      "lon": 73.066667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "price": "US$5 for foreigners",
+      "url": "http://lokvirsa.org.pk/",
+      "id": "pakistan-3b65b75da046f6fccfb2"
+    },
+    {
+      "name": "Golra Pakistan Railways Heritage Museum",
+      "kind": "do",
+      "locality": "Islamabad",
+      "lat": 33.670577,
+      "lon": 72.947628,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "Golra Sharif train station",
+      "id": "pakistan-27fd9797b123064d8c6d"
+    },
+    {
+      "name": "Pakistan Museum of Natural History",
+      "kind": "do",
+      "locality": "Islamabad",
+      "lat": 33.686389,
+      "lon": 73.076389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "url": "http://www.pmnh.gov.pk/",
+      "id": "pakistan-54e27332da227876a20e"
+    },
+    {
+      "name": "National Art Gallery",
+      "kind": "do",
+      "locality": "Islamabad",
+      "lat": 33.7305,
+      "lon": 73.091,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "F5/1",
+      "url": "http://pnca.org.pk/new/visual-arts/",
+      "id": "pakistan-9ee6dbbb3c7a41932bd6"
+    },
+    {
+      "name": "Daman-e-Koh",
+      "kind": "do",
+      "locality": "Islamabad",
+      "lat": 33.739936,
+      "lon": 73.055581,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "id": "pakistan-d9e7116d64f3d7011854"
+    },
+    {
+      "name": "Shakarparian",
+      "kind": "do",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "id": "pakistan-3640cf86251ea41aca40"
+    },
+    {
+      "name": "Japanese Park",
+      "kind": "do",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "id": "pakistan-d21fb410858662c2a45e"
+    },
+    {
+      "name": "Rawal Lake",
+      "kind": "do",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "id": "pakistan-3144f8078ddd3692e6b2"
+    },
+    {
+      "name": "Fatima Jinnah Park",
+      "kind": "do",
+      "locality": "Islamabad",
+      "lat": 33.7017,
+      "lon": 73.0247,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "id": "pakistan-ca21d22a0fe8afd644be"
+    },
+    {
+      "name": "Pir Sohawa",
+      "kind": "do",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "id": "pakistan-6710beed2790c96ea888"
+    },
+    {
+      "name": "Rose & Jasmine Garden",
+      "kind": "do",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "id": "pakistan-d121ddc8d87e7fe3afc2"
+    },
+    {
+      "name": "Margalla Hills",
+      "kind": "do",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "id": "pakistan-f1222c35a0862e9f08af"
+    },
+    {
+      "name": "Faisal Masjid",
+      "kind": "do",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "id": "pakistan-c4525b0eb131da54a605"
+    },
+    {
+      "name": "National Monument",
+      "kind": "do",
+      "locality": "Islamabad",
+      "lat": 33.693333,
+      "lon": 73.068333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "price": "Rs 1000 foreigners, Rs 150 adult Pakistani citizens, Rs 80 students",
+      "id": "pakistan-dff8a989ea8924771310"
+    },
+    {
+      "name": "Imam Bari Shrine",
+      "kind": "do",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "id": "pakistan-9ff345d1591efca3a4d8"
+    },
+    {
+      "name": "Golra Sharif",
+      "kind": "do",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "id": "pakistan-87ed547d27274450c316"
+    },
+    {
+      "name": "Islamabad Zoo",
+      "kind": "do",
+      "locality": "Islamabad",
+      "lat": 33.734297,
+      "lon": 73.059114,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "id": "pakistan-24cb9784195362b6205a"
+    },
+    {
+      "name": "Saidpur Village",
+      "kind": "do",
+      "locality": "Islamabad",
+      "lat": 33.742077,
+      "lon": 73.067708,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "id": "pakistan-92f2ed1f3d32aba5e451"
+    },
+    {
+      "name": "Chattar bag",
+      "kind": "do",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "id": "pakistan-a3d2e3d716c0e80ee9df"
+    },
+    {
+      "name": "Art & Craft Village",
+      "kind": "do",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "Shakarparian - Near Rose and Jasmine Garden in Shakarparian National Park",
+      "id": "pakistan-6dddf6aa83885fc34327"
+    },
+    {
+      "name": "Table Talk",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "Khosar Market",
+      "url": "https://www.facebook.com/TableTalkIsb/",
+      "id": "pakistan-c1806af925ce75357190"
+    },
+    {
+      "name": "Nando's",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "F6 super market, south side",
+      "price": "mains Rs 1000",
+      "url": "http://www.nandos.pk/",
+      "id": "pakistan-0546dc021ae20dd56313"
+    },
+    {
+      "name": "Khiva",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "Mezzanine Floor Jinnah Super Market, F-7 Markaz",
+      "id": "pakistan-eb4f497b2c73988e17d9"
+    },
+    {
+      "name": "The Corner Deli by Pappasallis",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "F-7 Markaz (Jinnah Super)",
+      "url": "https://m.facebook.com/14theCornerDeli/",
+      "id": "pakistan-2c365e8f67cfd081fbce"
+    },
+    {
+      "name": "Kitchen Cuisine / KC Grill",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "81 Bhittai Rd",
+      "id": "pakistan-7c1ed8e659b45bd16702"
+    },
+    {
+      "name": "Olive Garden",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "Street No.4, Goll Market, F7/3",
+      "price": "Rs. 500 for mains",
+      "id": "pakistan-acbcf0d81a3e2c9b7ade"
+    },
+    {
+      "name": "Kabul Restaurant",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "F-7 Markaz (Jinnah Supermarket)",
+      "price": "Mains Rs 75-200",
+      "url": "https://www.facebook.com/kabulrestaurant.islamabad/",
+      "id": "pakistan-da03805195bdc8840444"
+    },
+    {
+      "name": "Jade Cafe By China Town",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "Street 55, F-8/4",
+      "url": "https://www.chinatown.pk/",
+      "id": "pakistan-39c8e735854192db01a4"
+    },
+    {
+      "name": "Italian Oven",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "F10 Markaz, facing the Park",
+      "price": "mains Rs 400",
+      "id": "pakistan-3f57f5bfffd1c216766e"
+    },
+    {
+      "name": "MJ's Specialities",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "MJ Plaza, Street 14, Tariq Market, F10/2",
+      "url": "http://www.mjs.com.pk/",
+      "id": "pakistan-db838ab95f7440110094"
+    },
+    {
+      "name": "MJ's Coffeehouse",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "Street 14, Tariq Market, F10/2",
+      "price": "Espresso Rs 90",
+      "url": "http://www.mjs.com.pk/",
+      "id": "pakistan-a8a1b9ee14115600c935"
+    },
+    {
+      "name": "Des Pardes",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "price": "Mains Rs 400",
+      "url": "http://www.despardes.com.pk/",
+      "id": "pakistan-a7d8bc02b6eada347635"
+    },
+    {
+      "name": "Black Lounge Cafe",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "Street 35, E 11/3",
+      "id": "pakistan-bd2029d40e5bedeeb492"
+    },
+    {
+      "name": "Funky Bake",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "Select Centre Hillal Rd, F-11 Markaz",
+      "id": "pakistan-ea2b48315d22e8ff5684"
+    },
+    {
+      "name": "Khyber Afghan Restaurant",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "Street 55, G9/4",
+      "id": "pakistan-467501b32d31dde055fe"
+    },
+    {
+      "name": "Tapas",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "Shop No. 1, Jehangir Market G-9/2",
+      "url": "http://www.tapas.pk/",
+      "id": "pakistan-919415e664d24839d3e5"
+    },
+    {
+      "name": "Karachi Company",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "id": "pakistan-cb54919d317e4cd1deac"
+    },
+    {
+      "name": "Masoom's",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "Huzaifa Centre, Tipu Sultan Rd, I-8 Markaz",
+      "id": "pakistan-8da4fdba852d033860bc"
+    },
+    {
+      "name": "Habibi",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "Executive Center, I8 markaz",
+      "id": "pakistan-8bd2f2edbc80f0fa3965"
+    },
+    {
+      "name": "Hot Plate",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "Shop 8, City Arcade, I8 markaz",
+      "price": "Mains Rs 400-500",
+      "id": "pakistan-ed0f2ac72f70fce5ae0f"
+    },
+    {
+      "name": "KFC",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "Time Square, I8 markaz",
+      "price": "Mains Rs 400-500",
+      "id": "pakistan-48bd9319e68cf185679f"
+    },
+    {
+      "name": "Haleem Ghar",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "I-8/1 Mughal Market",
+      "url": "http://www.haleemghar.com.pk/",
+      "id": "pakistan-dd8aaa497a2b34e0d29e"
+    },
+    {
+      "name": "Lasania Restaurant",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "66 West Junaid Plaza, Blue Area",
+      "id": "pakistan-62e3d647ddb6bcedcd13"
+    },
+    {
+      "name": "Cave Restaurant",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "Awan Arcade, Blue Area",
+      "id": "pakistan-74a55aed2b00056d12b9"
+    },
+    {
+      "name": "Domino's Pizza",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "Block H, Blue Area",
+      "url": "http://www.dominospk.com/",
+      "id": "pakistan-94ef177f2fb15344bef3"
+    },
+    {
+      "name": "Jahangir Restaurant",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "Masco Plaza, Blue Area",
+      "url": "https://m.facebook.com/jahangirbbq/",
+      "id": "pakistan-f7756cdd9f37051e41a1"
+    },
+    {
+      "name": "Bar-B-Q Tonight",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "Shorab Palaza,Block 32, FazlL-e-haq Road Islamabad.",
+      "price": "Rs 300-700 per person",
+      "url": "http://www.bbqtonight.com/",
+      "id": "pakistan-6fde5a30cdaf7b33b110"
+    },
+    {
+      "name": "Sesame & Soy",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "108-W Jinnah Ave, Block I G 7/2 Blue Area",
+      "price": "Rs 1500–4000",
+      "url": "https://sites.google.com/view/sesame-soy/home",
+      "id": "pakistan-1bc189a6a884ef6892bc"
+    },
+    {
+      "name": "Loafology Bakery & Cafe",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "108-W Jinnah Ave, Block I G 7/2",
+      "price": "Rs 1500–4000",
+      "url": "https://loafology.com/",
+      "id": "pakistan-25a928644e53f5d5770d"
+    },
+    {
+      "name": "Chaihana",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "in Centaurus Mall",
+      "id": "pakistan-21dbd688c9a960cb2750"
+    },
+    {
+      "name": "Cordon Rouge",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "Embassy Road, Diplomatic Enclave",
+      "id": "pakistan-5188b18704b106bdfd7d"
+    },
+    {
+      "name": "Loafology Bakery and Cafe",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "Ramna 5 Diplomatic, Enclave",
+      "price": "Rs 1500–4000",
+      "url": "http://www.loafology.com/",
+      "id": "pakistan-9aed9f891f200160d2e7"
+    },
+    {
+      "name": "The Monal Islamabad",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "url": "https://themonal.com/",
+      "id": "pakistan-4f586310ca5702e19a3f"
+    },
+    {
+      "name": "Mocca Coffee",
+      "kind": "eat",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "Shop #1, Kohsar Market, F-6/3",
+      "url": "http://mocca.pk/",
+      "id": "pakistan-bbd598aedf6c930ed02a"
+    },
+    {
+      "name": "The Boys Hostel (TBH)",
+      "kind": "stay",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "G-8 (campus), F-10 (Campus) & G-10 (Campus)",
+      "id": "pakistan-55e776942702aff9b95e"
+    },
+    {
+      "name": "Miraj Hotel Islamabad",
+      "kind": "stay",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "G-9 Markaz, Karachi Company",
+      "id": "pakistan-c5d127eac3c8aed7cf96"
+    },
+    {
+      "name": "Fatima Jinnah Hostel",
+      "kind": "stay",
+      "locality": "Islamabad",
+      "lat": 33.69858,
+      "lon": 73.0972,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "id": "pakistan-b3b55516288d17294ce6"
+    },
+    {
+      "name": "Royal Grace Guest House, Islamabad",
+      "kind": "stay",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "H 8, Justice Abdul Rasheed Road, F-6/1",
+      "price": "Starting from Rs 7442 per night",
+      "url": "https://royalgraceguesthouse.com/",
+      "id": "pakistan-a62eadeb0a3066ef2aa0"
+    },
+    {
+      "name": "Continental House",
+      "kind": "stay",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "94-A Nazimuddin Road, F-8/4",
+      "price": "starting around Rs 3,000/night",
+      "url": "http://www.continentalhouse.org/",
+      "id": "pakistan-b674931ed95ffef41450"
+    },
+    {
+      "name": "Crown Plaza Hotel",
+      "kind": "stay",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "99-E Jinnah Ave, Block I G 7/2 Blue Area",
+      "price": "around Rs 11080/night",
+      "id": "pakistan-62fc8ad42d72252abaa7"
+    },
+    {
+      "name": "Envoy Continental Hotel",
+      "kind": "stay",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "111-F Fazal-e-Haq Road, Blue Area",
+      "price": "around Rs9923/night",
+      "url": "http://envoyhotel.com/",
+      "id": "pakistan-290ebd712c16012875fc"
+    },
+    {
+      "name": "Paramid International Guest House",
+      "kind": "stay",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "House # 248, Street # 31,G-8/2",
+      "price": "Starting around Rs 1800-2800/night",
+      "url": "http://www.paramid.yolasite.com/",
+      "id": "pakistan-d77bd27eff3ced764f52"
+    },
+    {
+      "name": "Rooms Islamabad",
+      "kind": "stay",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "Street 50, Rohtas Road, G-9/1",
+      "price": "Starting from Rs 2,000 per night",
+      "id": "pakistan-7d84190132d0465b4ac7"
+    },
+    {
+      "name": "Riviera Courtyard Guest House",
+      "kind": "stay",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "House # 5 Street 46, F-8/1 F 8/1 F-8",
+      "url": "http://www.theriviera.pk/",
+      "id": "pakistan-a1e451c6365912a27982"
+    },
+    {
+      "name": "Islamabad Serena Hotel",
+      "kind": "stay",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "Khayaban-e-Suhrwardy, opposite Convention Centre، G-5/1 G-5",
+      "price": "Rooms and suites US$300-700. Presidential suite $2000",
+      "url": "https://www.serenahotels.com/islamabad",
+      "id": "pakistan-04a7298e2baa9a84be62"
+    },
+    {
+      "name": "Number Three",
+      "kind": "stay",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "3 College Rd",
+      "id": "pakistan-674dff11da4e7c988702"
+    },
+    {
+      "name": "Islamabad Marriott Hotel",
+      "kind": "stay",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "Agha Khan Road, Shalimar 5",
+      "url": "https://www.marriott.com/hotels/travel/isbpk-islamabad-marriott-hotel/",
+      "id": "pakistan-1ba13d17a4b646d92e25"
+    },
+    {
+      "name": "Embassy Lodge",
+      "kind": "stay",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "Club Rd",
+      "url": "http://www.embassylodge.com/Home.php",
+      "id": "pakistan-583abb17d1bf4eff22e3"
+    },
+    {
+      "name": "Centaurus Hotel Apartments",
+      "kind": "stay",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "Nazim-ud-din Rd, F 8/4",
+      "url": "http://centaurusservicedapartments.com/",
+      "id": "pakistan-e65da44639378ec10a62"
+    },
+    {
+      "name": "One Constitution Avenue",
+      "kind": "stay",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "1 Constitution avenue",
+      "url": "http://www.oneconstitutionave.com/",
+      "id": "pakistan-ecf6db4b24286a78b1f8"
+    },
+    {
+      "name": "Pearl Continental Hotel Rawalpindi",
+      "kind": "stay",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "The Mall، National Hwy 5, Rawalpindi",
+      "url": "https://www.pchotels.com/pcrawalpindi",
+      "id": "pakistan-9f12707811ad2626a8fa"
+    },
+    {
+      "name": "The 108 Hotel",
+      "kind": "stay",
+      "locality": "Islamabad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "address": "108-W Jinnah Ave, Block I G 7/2 Blue Area",
+      "price": "25000-35000",
+      "url": "https://the108hotel.com/",
+      "id": "pakistan-84691542db36b2b9f679"
+    },
+    {
+      "name": "Islamabad",
+      "kind": "area",
+      "locality": "Islamabad",
+      "lat": 33.69442,
+      "lon": 73.06458,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Islamabad",
+      "id": "pakistan-7bc25097786c85011b0e"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

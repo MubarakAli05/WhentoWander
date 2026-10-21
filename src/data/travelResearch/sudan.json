@@ -1,0 +1,397 @@
+{
+  "sources": [
+    {
+      "title": "Sudan",
+      "url": "https://en.wikivoyage.org/wiki/Sudan",
+      "checkedAt": "2026-10-21T08:12:30.268Z"
+    },
+    {
+      "title": "Khartoum",
+      "url": "https://en.wikivoyage.org/wiki/Khartoum",
+      "checkedAt": "2026-10-21T08:12:33.224Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Khartoum",
+      "kind": "area",
+      "locality": "Sudan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sudan",
+      "id": "sudan-3af2c1b4a740ec537ab1"
+    },
+    {
+      "name": "Abyei",
+      "kind": "area",
+      "locality": "Sudan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sudan",
+      "id": "sudan-d5b3d5900b1b1dc9d497"
+    },
+    {
+      "name": "El-Obeid",
+      "kind": "area",
+      "locality": "Sudan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sudan",
+      "id": "sudan-917506d176ffe9589dc7"
+    },
+    {
+      "name": "Gedaref",
+      "kind": "area",
+      "locality": "Sudan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sudan",
+      "id": "sudan-32d2f78e53144ced0c4f"
+    },
+    {
+      "name": "Kassala",
+      "kind": "area",
+      "locality": "Sudan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sudan",
+      "id": "sudan-36e87befd3a3d3f4580d"
+    },
+    {
+      "name": "Nyala",
+      "kind": "area",
+      "locality": "Sudan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sudan",
+      "id": "sudan-e5a00e0f3294fc863a33"
+    },
+    {
+      "name": "Port Sudan",
+      "kind": "area",
+      "locality": "Sudan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sudan",
+      "id": "sudan-15ada3e04e93ea55e673"
+    },
+    {
+      "name": "Atbara",
+      "kind": "area",
+      "locality": "Sudan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sudan",
+      "id": "sudan-bb450e73929902be599f"
+    },
+    {
+      "name": "Sudan Presidential Palace Museum",
+      "kind": "do",
+      "locality": "Khartoum",
+      "lat": 15.608,
+      "lon": 32.529035,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "id": "sudan-db6024ec58da4f240f45"
+    },
+    {
+      "name": "Confluence of the Blue and White Nile",
+      "kind": "do",
+      "locality": "Khartoum",
+      "lat": 15.614938,
+      "lon": 32.492122,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "id": "sudan-775ba87825915d709887"
+    },
+    {
+      "name": "Souq Arabi",
+      "kind": "do",
+      "locality": "Khartoum",
+      "lat": 15.602342,
+      "lon": 32.524526,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "id": "sudan-bf7aa18ae012c5ba8452"
+    },
+    {
+      "name": "National Museum of Sudan",
+      "kind": "do",
+      "locality": "Khartoum",
+      "lat": 15.606,
+      "lon": 32.508,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "address": "1 Nile Street",
+      "url": "http://www.sudannationalmuseum.com/",
+      "id": "sudan-8dcb07ba6b9505da3cb6"
+    },
+    {
+      "name": "Sudan Ethnographic Museum",
+      "kind": "do",
+      "locality": "Khartoum",
+      "lat": 15.60799,
+      "lon": 32.534237,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "id": "sudan-f3140657771708906893"
+    },
+    {
+      "name": "Sudan National Botanical Garden",
+      "kind": "do",
+      "locality": "Khartoum",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "id": "sudan-817383263c17e36943ce"
+    },
+    {
+      "name": "King Farouq Mosque",
+      "kind": "do",
+      "locality": "Khartoum",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "id": "sudan-aa749db46e6dd7df9000"
+    },
+    {
+      "name": "St. Matthew's Cathedral",
+      "kind": "do",
+      "locality": "Khartoum",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "id": "sudan-1edf917278293d44bc5a"
+    },
+    {
+      "name": "Souq Omdurman",
+      "kind": "do",
+      "locality": "Khartoum",
+      "lat": 15.649178,
+      "lon": 32.482431,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "id": "sudan-439e5f860aef38c0e3dd"
+    },
+    {
+      "name": "The Mahdi's tomb",
+      "kind": "do",
+      "locality": "Khartoum",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "id": "sudan-f6cc8726797fd60e147b"
+    },
+    {
+      "name": "The Khalifa's House",
+      "kind": "do",
+      "locality": "Khartoum",
+      "lat": 15.639008,
+      "lon": 32.488503,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "price": "costs SDG 1",
+      "id": "sudan-2ce9ca9a658a1e5f7afc"
+    },
+    {
+      "name": "Sufi dancing",
+      "kind": "do",
+      "locality": "Khartoum",
+      "lat": 15.625714,
+      "lon": 32.463297,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "price": "Free",
+      "id": "sudan-9c29517d81acac708467"
+    },
+    {
+      "name": "Bombed Al-Shifa pharmaceutical factory",
+      "kind": "do",
+      "locality": "Khartoum",
+      "lat": 15.646386,
+      "lon": 32.561556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "id": "sudan-a40052fc3c5283d4ca64"
+    },
+    {
+      "name": "Nuba Wrestling",
+      "kind": "do",
+      "locality": "Khartoum",
+      "lat": 15.614381,
+      "lon": 32.645128,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "id": "sudan-129c0bda6658bc54803e"
+    },
+    {
+      "name": "Umm Marrahi fort",
+      "kind": "do",
+      "locality": "Khartoum",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "id": "sudan-eabb364ab782b0ce8999"
+    },
+    {
+      "name": "Universal",
+      "kind": "eat",
+      "locality": "Khartoum",
+      "lat": 15.576103,
+      "lon": 32.545228,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "address": "Amarat St. 27",
+      "id": "sudan-1ad87063ee73eb9debc7"
+    },
+    {
+      "name": "Amwaj Restaurant",
+      "kind": "eat",
+      "locality": "Khartoum",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "address": "Africa St, Al-Amarat",
+      "price": "Dishes cost SDG 20-60",
+      "url": "https://www.facebook.com/amwajrests",
+      "id": "sudan-24433a20d459665baf16"
+    },
+    {
+      "name": "Royal Broast",
+      "kind": "eat",
+      "locality": "Khartoum",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "address": "Airport Road, Al-Amarat",
+      "id": "sudan-faf53d1280bc31c25500"
+    },
+    {
+      "name": "Laziz Delicious Restaurant",
+      "kind": "eat",
+      "locality": "Khartoum",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "address": "Al-Amarat Street 1",
+      "id": "sudan-f73aa33106d07603818b"
+    },
+    {
+      "name": "Afra Mall Chinese restaurant food court",
+      "kind": "eat",
+      "locality": "Khartoum",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "address": "Afra Mall, Africa Street, Arkawet",
+      "id": "sudan-beff315468d4d6e2424f"
+    },
+    {
+      "name": "Assaha Restaurant",
+      "kind": "eat",
+      "locality": "Khartoum",
+      "lat": 15.595771,
+      "lon": 32.536836,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "url": "http://www.assahavillage.com/home/2/-1/Lebanon",
+      "id": "sudan-d92315d9da2a6299c1c8"
+    },
+    {
+      "name": "Al Bawadi Tourist Restaurant",
+      "kind": "eat",
+      "locality": "Khartoum",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "address": "Ahmed Makki Abdu St",
+      "price": "Mains cost SDG 15-20",
+      "url": "https://al-bawadi-restaurant.business.site/",
+      "id": "sudan-3b734c4ba3e276f19dca"
+    },
+    {
+      "name": "Hadramawt Restaurant",
+      "kind": "eat",
+      "locality": "Khartoum",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "address": "Khartoum 2 St 47",
+      "price": "Mains cost around SDG 15",
+      "id": "sudan-924ec55c860d1ba40fd1"
+    },
+    {
+      "name": "Habesha Ethiopian restaurant",
+      "kind": "eat",
+      "locality": "Khartoum",
+      "lat": 15.561519,
+      "lon": 32.562575,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "address": "+249 912302410",
+      "id": "sudan-ff9486dd83a20fafbcef"
+    },
+    {
+      "name": "Salt 'n' Pepper",
+      "kind": "eat",
+      "locality": "Khartoum",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "address": "Buri area, north end of Obeid Khatim Street",
+      "id": "sudan-6acca8a77f22ac5158b1"
+    },
+    {
+      "name": "Papa Costa",
+      "kind": "eat",
+      "locality": "Khartoum",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "id": "sudan-e578e83468a7fd922c6d"
+    },
+    {
+      "name": "Kandahar, souq Libya",
+      "kind": "eat",
+      "locality": "Khartoum",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "id": "sudan-42b850d8a3de88db35c4"
+    },
+    {
+      "name": "Blue Nile Sailing Club",
+      "kind": "stay",
+      "locality": "Khartoum",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "id": "sudan-b2118005ce0541751a75"
+    },
+    {
+      "name": "Khartoum Youth Hostel",
+      "kind": "stay",
+      "locality": "Khartoum",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "address": "House no 66, Street 47, Khartoum 2,",
+      "price": "Dorm bed $5.00, double room $10.00.",
+      "id": "sudan-2465522f1f891964b2e3"
+    },
+    {
+      "name": "Downtown Hotel and Business Center",
+      "kind": "stay",
+      "locality": "Khartoum",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "address": "el jami Ave, 11111",
+      "price": "Double Room US$35, Twin Room US$45",
+      "id": "sudan-1191965002febb0406b2"
+    },
+    {
+      "name": "Lisamin Safari Hotel",
+      "kind": "stay",
+      "locality": "Khartoum",
+      "lat": 15.570422,
+      "lon": 32.54635,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "address": "41st Amaret",
+      "price": "US$144 single, US$156 double, suites from US$168 (inc VAT and tourism tax)",
+      "id": "sudan-a59b276eb7ed79e5456c"
+    },
+    {
+      "name": "Bougainvilla Guesthouse",
+      "kind": "stay",
+      "locality": "Khartoum",
+      "lat": 15.571853,
+      "lon": 32.567386,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "price": "Double en suite US$91, single en suite US$65, Single outside bathroom US$4, incl. breakfast",
+      "url": "https://www.facebook.com/BougainVilla-Hotel-1750007128662990/",
+      "id": "sudan-48118ec34bef7f7d2be9"
+    },
+    {
+      "name": "Al Salam Rotana",
+      "kind": "stay",
+      "locality": "Khartoum",
+      "lat": 15.557264,
+      "lon": 32.554901,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "address": "Africa Street",
+      "price": "Rooms are around US$300 incl. taxes",
+      "url": "https://www.alsalamhotel.com/",
+      "id": "sudan-705b26169c846efd8586"
+    },
+    {
+      "name": "Assaha Lebanese Village",
+      "kind": "stay",
+      "locality": "Khartoum",
+      "lat": 15.595812,
+      "lon": 32.536643,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "url": "http://www.assahavillage.com/Rooms/6/-1/Sudan",
+      "id": "sudan-8cccb802f29e7db69c80"
+    },
+    {
+      "name": "Grand Holiday Villa",
+      "kind": "stay",
+      "locality": "Khartoum",
+      "lat": 15.607249,
+      "lon": 32.516281,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "address": "Nile Street",
+      "url": "https://grandhotelsudan.com/",
+      "id": "sudan-863fc04c7fd324241930"
+    },
+    {
+      "name": "Khartoum",
+      "kind": "area",
+      "locality": "Khartoum",
+      "lat": 15.59501,
+      "lon": 32.5355,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khartoum",
+      "id": "sudan-8fe6697ceec614e41361"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

@@ -1,0 +1,2481 @@
+{
+  "sources": [
+    {
+      "title": "Egypt",
+      "url": "https://en.wikivoyage.org/wiki/Egypt",
+      "checkedAt": "2026-10-21T08:01:26.920Z"
+    },
+    {
+      "title": "Cairo",
+      "url": "https://en.wikivoyage.org/wiki/Cairo",
+      "checkedAt": "2026-10-21T08:01:29.240Z"
+    },
+    {
+      "title": "Cairo/Islamic Cairo",
+      "url": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "checkedAt": "2026-10-21T08:01:32.230Z"
+    },
+    {
+      "title": "Cairo/Old Cairo",
+      "url": "https://en.wikivoyage.org/wiki/Cairo%2FOld_Cairo",
+      "checkedAt": "2026-10-21T08:01:35.215Z"
+    },
+    {
+      "title": "Cairo/Downtown",
+      "url": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "checkedAt": "2026-10-21T08:01:41.396Z"
+    },
+    {
+      "title": "Cairo/Giza",
+      "url": "https://en.wikivoyage.org/wiki/Cairo%2FGiza",
+      "checkedAt": "2026-10-21T08:01:56.392Z"
+    },
+    {
+      "title": "Cairo/Ma'adi",
+      "url": "https://en.wikivoyage.org/wiki/Cairo%2FMa'adi",
+      "checkedAt": "2026-10-21T08:01:47.195Z"
+    },
+    {
+      "title": "Luxor",
+      "url": "https://en.wikivoyage.org/wiki/Luxor",
+      "checkedAt": "2026-10-21T08:01:59.371Z"
+    },
+    {
+      "title": "Luxor/East Bank",
+      "url": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "checkedAt": "2026-10-21T08:02:02.464Z"
+    },
+    {
+      "title": "Luxor/West Bank",
+      "url": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "checkedAt": "2026-10-21T08:02:05.891Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Cairo",
+      "kind": "area",
+      "locality": "Egypt",
+      "lat": 30.056111,
+      "lon": 31.239444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Egypt",
+      "id": "egypt-96a9b402e1d65d9c15f6"
+    },
+    {
+      "name": "Alexandria",
+      "kind": "area",
+      "locality": "Egypt",
+      "lat": 31.2,
+      "lon": 29.916667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Egypt",
+      "id": "egypt-27894fac96014bb3bd70"
+    },
+    {
+      "name": "Aswan",
+      "kind": "area",
+      "locality": "Egypt",
+      "lat": 24.088919,
+      "lon": 32.899731,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Egypt",
+      "id": "egypt-94dd786b42cd73d1d5cc"
+    },
+    {
+      "name": "Hurghada",
+      "kind": "area",
+      "locality": "Egypt",
+      "lat": 27.257778,
+      "lon": 33.811667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Egypt",
+      "id": "egypt-0296f1570822a3a95ae9"
+    },
+    {
+      "name": "Luxor",
+      "kind": "area",
+      "locality": "Egypt",
+      "lat": 25.696944,
+      "lon": 32.642222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Egypt",
+      "id": "egypt-dd930c0a755d2a3c9aa2"
+    },
+    {
+      "name": "Port Said",
+      "kind": "area",
+      "locality": "Egypt",
+      "lat": 31.25,
+      "lon": 32.283333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Egypt",
+      "id": "egypt-78789ca4fe300953ee44"
+    },
+    {
+      "name": "Sharm el Sheikh",
+      "kind": "area",
+      "locality": "Egypt",
+      "lat": 27.978611,
+      "lon": 34.393611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Egypt",
+      "id": "egypt-57851e57aa7c3d1b717d"
+    },
+    {
+      "name": "Quseir",
+      "kind": "area",
+      "locality": "Egypt",
+      "lat": 26.1039,
+      "lon": 34.2811,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Egypt",
+      "id": "egypt-7e12fcfde55016f68c5f"
+    },
+    {
+      "name": "Grand Egyptian Museum",
+      "kind": "do",
+      "locality": "Cairo",
+      "lat": 29.993611,
+      "lon": 31.119722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo",
+      "address": "El Remayah Square, Cairo-Alexandria Desert Road, Giza",
+      "price": "EGP 1490",
+      "url": "https://gem.eg/visit/plan-your-visit/",
+      "id": "egypt-294b33d2c4e8fbe5b49c"
+    },
+    {
+      "name": "Egyptian Museum",
+      "kind": "do",
+      "locality": "Cairo",
+      "lat": 30.047778,
+      "lon": 31.233333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo",
+      "price": "Adult 550 LE, student: 275 LE; photography (personal use) free; video 300 LE",
+      "url": "https://egymonuments.gov.eg/en/museums/egyptian-museum",
+      "id": "egypt-606772116b472c9759e3"
+    },
+    {
+      "name": "National Museum of Egyptian Civilization",
+      "kind": "do",
+      "locality": "Cairo",
+      "lat": 30.0079,
+      "lon": 31.24908,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo",
+      "price": "LE550 (students LE300)",
+      "url": "http://nmec.gov.eg/",
+      "id": "egypt-b6ade0b4b75aae58884b"
+    },
+    {
+      "name": "Ibn Tulun",
+      "kind": "do",
+      "locality": "Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo",
+      "id": "egypt-1643983b8a9fee03c757"
+    },
+    {
+      "name": "Al-Azhar Park",
+      "kind": "do",
+      "locality": "Cairo",
+      "lat": 30.0405,
+      "lon": 31.2646,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo",
+      "id": "egypt-011ca8d724b8026c39e3"
+    },
+    {
+      "name": "Khan El Khalily",
+      "kind": "do",
+      "locality": "Cairo",
+      "lat": 30.0475,
+      "lon": 31.262222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo",
+      "id": "egypt-6161cca480fc6df2794d"
+    },
+    {
+      "name": "Abdeen Palace",
+      "kind": "do",
+      "locality": "Cairo",
+      "lat": 30.0417,
+      "lon": 31.2483,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo",
+      "id": "egypt-ccb1e4eb6ebc91053847"
+    },
+    {
+      "name": "Pharaonic Village",
+      "kind": "do",
+      "locality": "Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo",
+      "id": "egypt-d6bebd435a91cb8f5b4b"
+    },
+    {
+      "name": "Dahshur Pyramids",
+      "kind": "do",
+      "locality": "Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo",
+      "id": "egypt-1fc7967edcfaaae7674a"
+    },
+    {
+      "name": "The Culture Wheel",
+      "kind": "do",
+      "locality": "Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo",
+      "url": "http://www.culturewheel.com/",
+      "id": "egypt-36d43246756161474b88"
+    },
+    {
+      "name": "The Garden Theater",
+      "kind": "do",
+      "locality": "Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo",
+      "url": "https://www.facebook.com/GenainaTheater/",
+      "id": "egypt-318005c07e5fd404d25c"
+    },
+    {
+      "name": "Cairo Opera House",
+      "kind": "do",
+      "locality": "Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo",
+      "url": "http://cairoopera.org/",
+      "id": "egypt-5575b3852176d4d06999"
+    },
+    {
+      "name": "Egyptian Centre for Culture & Art",
+      "kind": "do",
+      "locality": "Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo",
+      "url": "http://www.egyptmusic.org/",
+      "id": "egypt-21d43a525b17efad6214"
+    },
+    {
+      "name": "The Townhouse Gallery of Contemporary Art",
+      "kind": "do",
+      "locality": "Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo",
+      "address": "Hussein El Me'mar Pasha street",
+      "url": "http://www.thetownhousegallery.com/",
+      "id": "egypt-054d1563b8dd3449fc3c"
+    },
+    {
+      "name": "Cairo Jazz Club",
+      "kind": "do",
+      "locality": "Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo",
+      "address": "197, 26th July Street, Agouza, Giza",
+      "url": "http://www.cairojazzclub.com/",
+      "id": "egypt-3f4575d3665b72f8bc21"
+    },
+    {
+      "name": "Housaper theater",
+      "kind": "do",
+      "locality": "Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo",
+      "address": "El Galaa St, Kulali",
+      "id": "egypt-250745658b0d39c39dc7"
+    },
+    {
+      "name": "Cairo",
+      "kind": "area",
+      "locality": "Cairo",
+      "lat": 30.053,
+      "lon": 31.246,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo",
+      "id": "egypt-ff62ff0587117a4cb8b3"
+    },
+    {
+      "name": "Bab al-Futuh",
+      "kind": "do",
+      "locality": "Cairo/Islamic Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "id": "egypt-6b1018b24fd50bbb78da"
+    },
+    {
+      "name": "Bab al-Nasr",
+      "kind": "do",
+      "locality": "Cairo/Islamic Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "id": "egypt-5702b1647251fc7597b2"
+    },
+    {
+      "name": "Al-Hakim Mosque",
+      "kind": "do",
+      "locality": "Cairo/Islamic Cairo",
+      "lat": 30.0544,
+      "lon": 31.26369,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "id": "egypt-0a42529845b802812516"
+    },
+    {
+      "name": "Bayt al-Sihaymi",
+      "kind": "do",
+      "locality": "Cairo/Islamic Cairo",
+      "lat": 30.05221,
+      "lon": 31.26267,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "price": "EGP 180",
+      "url": "http://www.egyptianmuseums.net/html/bayt_al-suhaymi.html",
+      "id": "egypt-2221240a7d4f9d39094b"
+    },
+    {
+      "name": "Qalawun Complex",
+      "kind": "do",
+      "locality": "Cairo/Islamic Cairo",
+      "lat": 30.04944,
+      "lon": 31.2606,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "price": "EGP 180 for non-Egyptians",
+      "id": "egypt-0b2ddc739a123f859c5d"
+    },
+    {
+      "name": "Maimonides Synagogue",
+      "kind": "do",
+      "locality": "Cairo/Islamic Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "address": "10 Darb Kormoz",
+      "id": "egypt-d2ac99ab09c7cc383b58"
+    },
+    {
+      "name": "Haïm Capoussi Synagogue",
+      "kind": "do",
+      "locality": "Cairo/Islamic Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "address": "3 Darb El Noussayr",
+      "id": "egypt-0cc7debcb16ecb0650c7"
+    },
+    {
+      "name": "Church of the Virgin Mary",
+      "kind": "do",
+      "locality": "Cairo/Islamic Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "id": "egypt-04fd2542c63fe94c3ac8"
+    },
+    {
+      "name": "Midan Hussein and Sayyidna al-Hussein Mosque",
+      "kind": "do",
+      "locality": "Cairo/Islamic Cairo",
+      "lat": 30.0475,
+      "lon": 31.26302,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "id": "egypt-a326a8ef4f350cd7c64b"
+    },
+    {
+      "name": "Al-Azhar Mosque",
+      "kind": "do",
+      "locality": "Cairo/Islamic Cairo",
+      "lat": 30.045869,
+      "lon": 31.262753,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "price": "Free",
+      "id": "egypt-b27e0d7f4c1006ca98f2"
+    },
+    {
+      "name": "Al-Azhar Park",
+      "kind": "do",
+      "locality": "Cairo/Islamic Cairo",
+      "lat": 30.04057,
+      "lon": 31.26497,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "price": "EGP 20",
+      "id": "egypt-d0165b6198d6c2ce06d3"
+    },
+    {
+      "name": "Bab Zuweila",
+      "kind": "do",
+      "locality": "Cairo/Islamic Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "id": "egypt-9948db0c2add48c9b5bd"
+    },
+    {
+      "name": "Sultan Hassan Mosque",
+      "kind": "do",
+      "locality": "Cairo/Islamic Cairo",
+      "lat": 30.0319,
+      "lon": 31.2567,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "price": "EGP 180, Students EGP 90. Includes Al-Rifa'i Mosque",
+      "id": "egypt-d584d32fd26808888681"
+    },
+    {
+      "name": "Al-Rifa'i Mosque",
+      "kind": "do",
+      "locality": "Cairo/Islamic Cairo",
+      "lat": 30.03287,
+      "lon": 31.25706,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "price": "EGP 180, students EGP 90. Includes admission for Sultan Hassan Mosque",
+      "id": "egypt-018740e83ee2e917ad19"
+    },
+    {
+      "name": "Ibn Tulun Mosque",
+      "kind": "do",
+      "locality": "Cairo/Islamic Cairo",
+      "lat": 30.02875,
+      "lon": 31.249528,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "id": "egypt-0b723b161a22e628d501"
+    },
+    {
+      "name": "Gayer-Anderson House Museum",
+      "kind": "do",
+      "locality": "Cairo/Islamic Cairo",
+      "lat": 30.0286,
+      "lon": 31.2509,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "price": "EGP 100",
+      "id": "egypt-d6198ee8096d434b7676"
+    },
+    {
+      "name": "Mosque of Qaytbay",
+      "kind": "do",
+      "locality": "Cairo/Islamic Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "id": "egypt-c098a0a383c54a21d4e0"
+    },
+    {
+      "name": "Amir Taz Palace",
+      "kind": "do",
+      "locality": "Cairo/Islamic Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "id": "egypt-6a36c66180ddae1a3286"
+    },
+    {
+      "name": "Mohammed Ali Mosque",
+      "kind": "do",
+      "locality": "Cairo/Islamic Cairo",
+      "lat": 30.028611,
+      "lon": 31.259722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "id": "egypt-68e2e5d3f7005dbf9bd1"
+    },
+    {
+      "name": "National Police Museum",
+      "kind": "do",
+      "locality": "Cairo/Islamic Cairo",
+      "lat": 30.03021,
+      "lon": 31.25985,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "address": "Citadel",
+      "url": "https://egymonuments.gov.eg/en/museums/national-police-museum",
+      "id": "egypt-1a50d1c76f0ef963d584"
+    },
+    {
+      "name": "Al-Gawhara Palace Museum",
+      "kind": "do",
+      "locality": "Cairo/Islamic Cairo",
+      "lat": 30.02709,
+      "lon": 31.26048,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "id": "egypt-097898fd43c4329bc155"
+    },
+    {
+      "name": "Carriage museum",
+      "kind": "do",
+      "locality": "Cairo/Islamic Cairo",
+      "lat": 30.029265,
+      "lon": 31.26257,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "id": "egypt-2fa8c037d99c3d38a068"
+    },
+    {
+      "name": "Egyptian National Military Museum",
+      "kind": "do",
+      "locality": "Cairo/Islamic Cairo",
+      "lat": 30.0294,
+      "lon": 31.2614,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "id": "egypt-9fa8648e163f578b9e56"
+    },
+    {
+      "name": "Manshiet Nasser",
+      "kind": "do",
+      "locality": "Cairo/Islamic Cairo",
+      "lat": 30.03207,
+      "lon": 31.273087,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "price": "Free",
+      "id": "egypt-3b1bfe4b64e39fad3d80"
+    },
+    {
+      "name": "Saint Samaan The Tanner Monastery",
+      "kind": "do",
+      "locality": "Cairo/Islamic Cairo",
+      "lat": 30.030543,
+      "lon": 31.276505,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "address": "District of Manshiet Nasser",
+      "id": "egypt-4831141ac1a72c42e43d"
+    },
+    {
+      "name": "City of the Dead",
+      "kind": "do",
+      "locality": "Cairo/Islamic Cairo",
+      "lat": 30.0455,
+      "lon": 31.27347,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "id": "egypt-55a4929cf16eb51bb45b"
+    },
+    {
+      "name": "Sayeda Aisha Mosque",
+      "kind": "do",
+      "locality": "Cairo/Islamic Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "id": "egypt-fbfcf70b18fd34891d98"
+    },
+    {
+      "name": "Muqattam Hills",
+      "kind": "do",
+      "locality": "Cairo/Islamic Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "id": "egypt-b11a3b72c26f6edb25b4"
+    },
+    {
+      "name": "Al-Gahsh",
+      "kind": "eat",
+      "locality": "Cairo/Islamic Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "id": "egypt-8b6b870b96ac33d1593a"
+    },
+    {
+      "name": "Egyptian Pancake House",
+      "kind": "eat",
+      "locality": "Cairo/Islamic Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "address": "Khan al-Khalili",
+      "id": "egypt-91e254a8eae418314f28"
+    },
+    {
+      "name": "Naguib Mahfouz Restaurant",
+      "kind": "eat",
+      "locality": "Cairo/Islamic Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "id": "egypt-22cf212ef24e6d3cb46c"
+    },
+    {
+      "name": "GAD",
+      "kind": "eat",
+      "locality": "Cairo/Islamic Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "price": "LE10-30",
+      "id": "egypt-91ae13a2abac16533691"
+    },
+    {
+      "name": "Kushari",
+      "kind": "eat",
+      "locality": "Cairo/Islamic Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "id": "egypt-20441ce3e28813cbc297"
+    },
+    {
+      "name": "Pizzeria",
+      "kind": "eat",
+      "locality": "Cairo/Islamic Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "id": "egypt-a1c906161e2ea3257ec6"
+    },
+    {
+      "name": "Fishawy",
+      "kind": "eat",
+      "locality": "Cairo/Islamic Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "address": "In the street just behind Midan Hussein, Khan al-Khalili",
+      "id": "egypt-7aea579a2e323f3adb3a"
+    },
+    {
+      "name": "Hotel Hussein Restaurant",
+      "kind": "eat",
+      "locality": "Cairo/Islamic Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "id": "egypt-2401eb004acd32c7771b"
+    },
+    {
+      "name": "Hotel El Hussein",
+      "kind": "stay",
+      "locality": "Cairo/Islamic Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "address": "Hussein Square",
+      "id": "egypt-b730fb5dfd9350c6200d"
+    },
+    {
+      "name": "Arabian Nights Hotel",
+      "kind": "stay",
+      "locality": "Cairo/Islamic Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "address": "10 Al Aaded Street, El Gamaliya, Cairo",
+      "price": "EGP 240 for a single room and shared bathroom with AC, no heater",
+      "id": "egypt-01effb8f8e47253238dc"
+    },
+    {
+      "name": "Cairo/Islamic Cairo",
+      "kind": "area",
+      "locality": "Cairo/Islamic Cairo",
+      "lat": 30.046,
+      "lon": 31.2627,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FIslamic_Cairo",
+      "id": "egypt-8e39299d67d892aeaa46"
+    },
+    {
+      "name": "Mosque of Amr ibn al-As",
+      "kind": "do",
+      "locality": "Cairo/Old Cairo",
+      "lat": 30.010139,
+      "lon": 31.233161,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FOld_Cairo",
+      "address": "Midan Amr ibn al-As",
+      "id": "egypt-bdefa8afefcf2e5b333a"
+    },
+    {
+      "name": "National Museum of Egyptian Civilization",
+      "kind": "do",
+      "locality": "Cairo/Old Cairo",
+      "lat": 30.0079,
+      "lon": 31.24908,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FOld_Cairo",
+      "price": "LE550 (students LE300)",
+      "url": "http://nmec.gov.eg/",
+      "id": "egypt-a2f8cc8c8a8fe3473f87"
+    },
+    {
+      "name": "Egyptian Geological Museum",
+      "kind": "do",
+      "locality": "Cairo/Old Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FOld_Cairo",
+      "id": "egypt-3663dddcc31b0fb9cfbd"
+    },
+    {
+      "name": "Umm Kulthum Museum",
+      "kind": "do",
+      "locality": "Cairo/Old Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FOld_Cairo",
+      "id": "egypt-612838d89f6fec3120ef"
+    },
+    {
+      "name": "Foustat Traditional Crafts Center",
+      "kind": "do",
+      "locality": "Cairo/Old Cairo",
+      "lat": 30.0061,
+      "lon": 31.2348,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FOld_Cairo",
+      "url": "https://www.foustatcenter.gov.eg/",
+      "id": "egypt-bf96d14afcf70d2baf2a"
+    },
+    {
+      "name": "Ruins of Fustat",
+      "kind": "do",
+      "locality": "Cairo/Old Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FOld_Cairo",
+      "id": "egypt-75122ca6a092ed6c5da9"
+    },
+    {
+      "name": "Fustat Park",
+      "kind": "do",
+      "locality": "Cairo/Old Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FOld_Cairo",
+      "id": "egypt-84f19e698fe7ca5ba545"
+    },
+    {
+      "name": "Babylon Fortress",
+      "kind": "do",
+      "locality": "Cairo/Old Cairo",
+      "lat": 30.006111,
+      "lon": 31.229722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FOld_Cairo",
+      "url": "http://www.coptic-cairo.com/oldcairo/oldcairo.html",
+      "id": "egypt-a4a9737ace154bc14363"
+    },
+    {
+      "name": "Coptic Museum",
+      "kind": "do",
+      "locality": "Cairo/Old Cairo",
+      "lat": 30.006,
+      "lon": 31.231,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FOld_Cairo",
+      "address": "Sharia Mar Girgis",
+      "price": "admission LE280, photo permit LE50. Cards only, no cash",
+      "url": "http://www.copticmuseum.gov.eg/",
+      "id": "egypt-42f187f4c065623100ef"
+    },
+    {
+      "name": "Hanging Church",
+      "kind": "do",
+      "locality": "Cairo/Old Cairo",
+      "lat": 30.005388,
+      "lon": 31.230081,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FOld_Cairo",
+      "address": "Sharia Mar Girgis",
+      "price": "Free",
+      "id": "egypt-6791efb8abf4ac8b9747"
+    },
+    {
+      "name": "Church and Monastery of St. George",
+      "kind": "do",
+      "locality": "Cairo/Old Cairo",
+      "lat": 30.0057,
+      "lon": 31.2311,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FOld_Cairo",
+      "address": "Mar Girgis St",
+      "price": "Free",
+      "id": "egypt-edbf781cd568b17037a9"
+    },
+    {
+      "name": "Church of St. Sergius and St. Bacchus",
+      "kind": "do",
+      "locality": "Cairo/Old Cairo",
+      "lat": 30.0058,
+      "lon": 31.2307,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FOld_Cairo",
+      "id": "egypt-75c652ce422d4b8c4a42"
+    },
+    {
+      "name": "Ben Ezra Synagogue",
+      "kind": "do",
+      "locality": "Cairo/Old Cairo",
+      "lat": 30.005794,
+      "lon": 31.231022,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FOld_Cairo",
+      "id": "egypt-81cc25db06d8878fb56f"
+    },
+    {
+      "name": "Church of St. Barbara",
+      "kind": "do",
+      "locality": "Cairo/Old Cairo",
+      "lat": 30.00609,
+      "lon": 31.23126,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FOld_Cairo",
+      "id": "egypt-0b103fa7f1d6a31c4c66"
+    },
+    {
+      "name": "Church of the Holy Virgin",
+      "kind": "do",
+      "locality": "Cairo/Old Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FOld_Cairo",
+      "id": "egypt-8da8026684724d5aaac5"
+    },
+    {
+      "name": "Nilometer",
+      "kind": "do",
+      "locality": "Cairo/Old Cairo",
+      "lat": 30.007392,
+      "lon": 31.225043,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FOld_Cairo",
+      "price": "LE40",
+      "id": "egypt-1acdf4b869bf9bb314c1"
+    },
+    {
+      "name": "S.S. Nile Peking",
+      "kind": "do",
+      "locality": "Cairo/Old Cairo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FOld_Cairo",
+      "address": "Corniche el-Nil",
+      "id": "egypt-7b1310b3f32aaeae1cbe"
+    },
+    {
+      "name": "Grand Nile Tower",
+      "kind": "stay",
+      "locality": "Cairo/Old Cairo",
+      "lat": 30.0342,
+      "lon": 31.2271,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FOld_Cairo",
+      "address": "Corniche El Nil، Garden City",
+      "url": "http://grandniletower.com/",
+      "id": "egypt-0697b2efa746a0656640"
+    },
+    {
+      "name": "Cairo/Old Cairo",
+      "kind": "area",
+      "locality": "Cairo/Old Cairo",
+      "lat": 30.02147,
+      "lon": 31.23739,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FOld_Cairo",
+      "id": "egypt-662a4c8e7e9379fd5bb0"
+    },
+    {
+      "name": "Egyptian Museum",
+      "kind": "do",
+      "locality": "Cairo/Downtown",
+      "lat": 30.0472,
+      "lon": 31.2344,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "url": "https://egymonuments.gov.eg/en/museums/egyptian-museum",
+      "id": "egypt-553b344438928c93a300"
+    },
+    {
+      "name": "Abdeen Palace Museum",
+      "kind": "do",
+      "locality": "Cairo/Downtown",
+      "lat": 30.0423,
+      "lon": 31.246743,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "price": "EGP 100, photo permit EGP 50, smartphone EGP 10",
+      "id": "egypt-2e895df4a11f51dcdbc6"
+    },
+    {
+      "name": "Karim Francis Gallery",
+      "kind": "do",
+      "locality": "Cairo/Downtown",
+      "lat": 30.04663,
+      "lon": 31.2411,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "1 Sharia El-Sherifein",
+      "url": "http://www.karimfrancis.com/",
+      "id": "egypt-16401f2e7eae56bb2559"
+    },
+    {
+      "name": "Museum of Islamic Art",
+      "kind": "do",
+      "locality": "Cairo/Downtown",
+      "lat": 30.0445,
+      "lon": 31.2528,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "Bab El Khalk Square",
+      "price": "EGP 340, students EGP 170",
+      "id": "egypt-ca3ae3207efbfb3f6212"
+    },
+    {
+      "name": "The Postal Museum",
+      "kind": "do",
+      "locality": "Cairo/Downtown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "Al-Ataba Square",
+      "id": "egypt-ebb1a7c8c764da3edb18"
+    },
+    {
+      "name": "Yacoubian Building",
+      "kind": "do",
+      "locality": "Cairo/Downtown",
+      "lat": 30.05096,
+      "lon": 31.24043,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "34 Talaat Harb St Downtown",
+      "id": "egypt-366053e932c51db2a5cd"
+    },
+    {
+      "name": "Prince Said Halim's Palace",
+      "kind": "do",
+      "locality": "Cairo/Downtown",
+      "lat": 30.04873,
+      "lon": 31.23702,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "Champollion Street",
+      "id": "egypt-b49bdc018e2fe9ff3f98"
+    },
+    {
+      "name": "Egyptian National Railways Museum",
+      "kind": "do",
+      "locality": "Cairo/Downtown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "Midan Ramses",
+      "price": "EGP 20 (EGP 10 for students)",
+      "id": "egypt-603f8ef7080afdf1b1a0"
+    },
+    {
+      "name": "Al Fath Mosque",
+      "kind": "do",
+      "locality": "Cairo/Downtown",
+      "lat": 30.05983,
+      "lon": 31.24606,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "South end of Midan Ramses",
+      "id": "egypt-e69ab00cb22735f700c3"
+    },
+    {
+      "name": "Sha'ar Hashamayim Synagogue",
+      "kind": "do",
+      "locality": "Cairo/Downtown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "17 Adly Street",
+      "id": "egypt-dbb00c9058189cb81533"
+    },
+    {
+      "name": "Cairo Puppet Theatre",
+      "kind": "do",
+      "locality": "Cairo/Downtown",
+      "lat": 30.053038,
+      "lon": 31.246447,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "Azbakia Park",
+      "id": "egypt-d413e508262c6ec6bb6c"
+    },
+    {
+      "name": "American Research Center Egyptology, art and culture illustrated lectures",
+      "kind": "do",
+      "locality": "Cairo/Downtown",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "Garden City",
+      "url": "https://www.arce.org/events",
+      "id": "egypt-f9b66919f759bd4855d7"
+    },
+    {
+      "name": "Eatery بيتزا القدس",
+      "kind": "eat",
+      "locality": "Cairo/Downtown",
+      "lat": 30.05041,
+      "lon": 31.237523,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "عماره ٢٢, Marouf، قسم التحرير",
+      "id": "egypt-8f10db60772c65c2bb03"
+    },
+    {
+      "name": "Karam El Sham",
+      "kind": "eat",
+      "locality": "Cairo/Downtown",
+      "lat": 30.050529,
+      "lon": 31.24065,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "id": "egypt-904ad351d71868cfc1b6"
+    },
+    {
+      "name": "Akram Gad Restaurant",
+      "kind": "eat",
+      "locality": "Cairo/Downtown",
+      "lat": 30.0527328,
+      "lon": 31.242957,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "13, 26th of July St.",
+      "id": "egypt-47c9e3d0ae77f3d171a5"
+    },
+    {
+      "name": "Koshary Abou Tarek",
+      "kind": "eat",
+      "locality": "Cairo/Downtown",
+      "lat": 30.05019,
+      "lon": 31.23784,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "price": "Medium LE20, Large LE25, Special LE30, rice with milk LE5 (Jan 2018)",
+      "id": "egypt-948cacd843d8d2100940"
+    },
+    {
+      "name": "Al Tahreer Koshary Restaurant",
+      "kind": "eat",
+      "locality": "Cairo/Downtown",
+      "lat": 30.0448006,
+      "lon": 31.2386296,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "el-Tahrir Street",
+      "id": "egypt-b73f19993ada1d5e237c"
+    },
+    {
+      "name": "Koshari Achmat",
+      "kind": "eat",
+      "locality": "Cairo/Downtown",
+      "lat": 30.0582,
+      "lon": 31.24862,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "price": "Koshari LE10, small salad LE3, rice with milk LE5",
+      "id": "egypt-31234a379df65d6b0923"
+    },
+    {
+      "name": "Hardees",
+      "kind": "eat",
+      "locality": "Cairo/Downtown",
+      "lat": 30.0438554,
+      "lon": 31.2363316,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "id": "egypt-e1b1b897f13ff5ab97ea"
+    },
+    {
+      "name": "Fish & Chips",
+      "kind": "eat",
+      "locality": "Cairo/Downtown",
+      "lat": 30.045161,
+      "lon": 31.242669,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "37 شارع البستان, Haret Al Hakr",
+      "id": "egypt-a43bcfc4cb107e0c7e2d"
+    },
+    {
+      "name": "Oldish ( Restaurant & Cafe )",
+      "kind": "eat",
+      "locality": "Cairo/Downtown",
+      "lat": 30.043332,
+      "lon": 31.238536,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "خلف الجريك كامبس، 20 Mohammed Mahmoud",
+      "id": "egypt-d3115e65d915483ba628"
+    },
+    {
+      "name": "Le Grillon Restaurant & Garden Cafe",
+      "kind": "eat",
+      "locality": "Cairo/Downtown",
+      "lat": 30.047172,
+      "lon": 31.237121,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "8 Kasr Al Nile",
+      "id": "egypt-8f048f6bb0c54905b844"
+    },
+    {
+      "name": "The Greek Club",
+      "kind": "eat",
+      "locality": "Cairo/Downtown",
+      "lat": 30.049229,
+      "lon": 31.239815,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "221 Mahmoud Bassiouny",
+      "id": "egypt-afab7826f7d73ff9f012"
+    },
+    {
+      "name": "La Chesa",
+      "kind": "eat",
+      "locality": "Cairo/Downtown",
+      "lat": 30.051257,
+      "lon": 31.243818,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "21 Adly St.",
+      "id": "egypt-d18ba92dcdb7e282fe88"
+    },
+    {
+      "name": "Estoril",
+      "kind": "eat",
+      "locality": "Cairo/Downtown",
+      "lat": 30.0468,
+      "lon": 31.2375,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "12 Talaat Harb",
+      "id": "egypt-904d730d7f607633a77d"
+    },
+    {
+      "name": "Beano's",
+      "kind": "eat",
+      "locality": "Cairo/Downtown",
+      "lat": 30.043354,
+      "lon": 31.23923712,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "Al Falki",
+      "id": "egypt-56c2b3cd6099e0164380"
+    },
+    {
+      "name": "Cilantro",
+      "kind": "eat",
+      "locality": "Cairo/Downtown",
+      "lat": 30.043578,
+      "lon": 31.237668,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "31 Mohamed Mahmoud St.",
+      "id": "egypt-003a6128178e098cf279"
+    },
+    {
+      "name": "Costa Coffee",
+      "kind": "eat",
+      "locality": "Cairo/Downtown",
+      "lat": 30.048898,
+      "lon": 31.242274,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "26 Sherif Basha",
+      "id": "egypt-a769f6ca17e3b0d63878"
+    },
+    {
+      "name": "Namaste Indian Restaurant",
+      "kind": "eat",
+      "locality": "Cairo/Downtown",
+      "lat": 30.050199,
+      "lon": 31.232392,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "1115 Nile Corniche",
+      "id": "egypt-1906c75a21562ff1f3b0"
+    },
+    {
+      "name": "Bird Cage",
+      "kind": "eat",
+      "locality": "Cairo/Downtown",
+      "lat": 30.042522,
+      "lon": 31.231949,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "Semiramis InterContinental Cairo, Corniche El Nil",
+      "id": "egypt-5ec248fef9ee17b9d3ae"
+    },
+    {
+      "name": "Tawfiqiyya Souq",
+      "kind": "eat",
+      "locality": "Cairo/Downtown",
+      "lat": 30.0536,
+      "lon": 31.2426,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "id": "egypt-d5c6dfe5f4e1146f763c"
+    },
+    {
+      "name": "Champollion Palace cafes",
+      "kind": "eat",
+      "locality": "Cairo/Downtown",
+      "lat": 30.049,
+      "lon": 31.2377,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "id": "egypt-fa3d69eacebdbc0e1fad"
+    },
+    {
+      "name": "Odeon",
+      "kind": "eat",
+      "locality": "Cairo/Downtown",
+      "lat": 30.0505,
+      "lon": 31.2388,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "6 Abdel Hamid Said St",
+      "id": "egypt-4b5a259fdf9df648c078"
+    },
+    {
+      "name": "Sherlock Holmes pub",
+      "kind": "eat",
+      "locality": "Cairo/Downtown",
+      "lat": 30.0503,
+      "lon": 31.2325,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "1115 Corniche El Nil",
+      "id": "egypt-9df10412a74d27bf475f"
+    },
+    {
+      "name": "El Horreya Cafe and Bar",
+      "kind": "eat",
+      "locality": "Cairo/Downtown",
+      "lat": 30.045291,
+      "lon": 31.240391,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "id": "egypt-de592ccf3703971e62f0"
+    },
+    {
+      "name": "Cecilia Hostel",
+      "kind": "stay",
+      "locality": "Cairo/Downtown",
+      "lat": 30.04309,
+      "lon": 31.23922,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "id": "egypt-4a76a59130a3bb3b0123"
+    },
+    {
+      "name": "Dahab Hostel",
+      "kind": "stay",
+      "locality": "Cairo/Downtown",
+      "lat": 30.04813,
+      "lon": 31.23698,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "26 Mahmoud Bassioui",
+      "price": "Beds starting at ca. EGP 100",
+      "url": "http://www.dahabhostel.com/",
+      "id": "egypt-c0c2821b7aee5166569f"
+    },
+    {
+      "name": "Museum Plaza Hostel",
+      "kind": "stay",
+      "locality": "Cairo/Downtown",
+      "lat": 30.047,
+      "lon": 31.2351,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "2 Champollion Road",
+      "id": "egypt-67aa49230c492560adff"
+    },
+    {
+      "name": "Wake UP! Cairo Hostel",
+      "kind": "stay",
+      "locality": "Cairo/Downtown",
+      "lat": 30.05043,
+      "lon": 31.23596,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "url": "http://www.wakeupcairohostel.com/",
+      "id": "egypt-78356c88638accbf39ec"
+    },
+    {
+      "name": "Australian Hostel",
+      "kind": "stay",
+      "locality": "Cairo/Downtown",
+      "lat": 30.0504,
+      "lon": 31.2415,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "23 Abd El khaleq Sarwat",
+      "price": "Dorms from EGP 50",
+      "url": "http://www.theaustralianhostel.com/",
+      "id": "egypt-c6b5502d05e04e42c2fa"
+    },
+    {
+      "name": "Berlin Hotel",
+      "kind": "stay",
+      "locality": "Cairo/Downtown",
+      "lat": 30.0487,
+      "lon": 31.2411,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "2 El Shawarby St - 4th Floor",
+      "id": "egypt-eb532e354175bcccd6d1"
+    },
+    {
+      "name": "Egyptian Night Hotel",
+      "kind": "stay",
+      "locality": "Cairo/Downtown",
+      "lat": 30.0477,
+      "lon": 31.2348,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "13 Merit Basha St.",
+      "price": "Dorm rooms EGP 125. Private rooms starting from EGP 285.",
+      "id": "egypt-b3fc6dd7afb30b244948"
+    },
+    {
+      "name": "New Palace Hotel",
+      "kind": "stay",
+      "locality": "Cairo/Downtown",
+      "lat": 30.0549,
+      "lon": 31.2435,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "17, Soliman El Halaby st, From Emad El Din st",
+      "price": "Dorms from $6.50, private rooms from $9",
+      "url": "http://www.newpalacehotel.com/",
+      "id": "egypt-1c47a9cde5ce8aca701a"
+    },
+    {
+      "name": "Traveler's House Hotel",
+      "kind": "stay",
+      "locality": "Cairo/Downtown",
+      "lat": 30.0525,
+      "lon": 31.2426,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "43 Sherief Street",
+      "price": "dorm room is EGP 45 and rooms start at EGP 75",
+      "id": "egypt-94e160fd31e5f05a5be9"
+    },
+    {
+      "name": "Arabesque Hotel",
+      "kind": "stay",
+      "locality": "Cairo/Downtown",
+      "lat": 30.0501,
+      "lon": 31.2357,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "11 Ramses St.",
+      "id": "egypt-3786065c0809b88d0f36"
+    },
+    {
+      "name": "Hotel Osiris",
+      "kind": "stay",
+      "locality": "Cairo/Downtown",
+      "lat": 30.0426,
+      "lon": 31.2415,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "49 Nubar St",
+      "price": "US$20-40",
+      "id": "egypt-f5ae47dee53865d34f06"
+    },
+    {
+      "name": "Paris Hostel",
+      "kind": "stay",
+      "locality": "Cairo/Downtown",
+      "lat": 30.0465,
+      "lon": 31.238,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "15 Talat Harb St",
+      "price": "US$50",
+      "id": "egypt-ebc59152ca4c27525473"
+    },
+    {
+      "name": "Grand Hotel",
+      "kind": "stay",
+      "locality": "Cairo/Downtown",
+      "lat": 30.0529,
+      "lon": 31.2423,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "26 July St",
+      "price": "US$40",
+      "id": "egypt-0a39aeb667f4a821a0ab"
+    },
+    {
+      "name": "The Nile Ritz-Carlton",
+      "kind": "stay",
+      "locality": "Cairo/Downtown",
+      "lat": 30.04592,
+      "lon": 31.232227,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "1113 Corniche El Nil",
+      "url": "http://www.ritzcarlton.com/en/hotels/middle-east/cairo",
+      "id": "egypt-084c87480621c144acce"
+    },
+    {
+      "name": "Semiramis InterContinental Hotel",
+      "kind": "stay",
+      "locality": "Cairo/Downtown",
+      "lat": 30.043017,
+      "lon": 31.232356,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "Corniche El Nil",
+      "url": "https://www.ihg.com/intercontinental/hotels/us/en/cairo/croha/hoteldetail",
+      "id": "egypt-8959d2ece8475511f896"
+    },
+    {
+      "name": "Talisman Hotel de Charme",
+      "kind": "stay",
+      "locality": "Cairo/Downtown",
+      "lat": 30.047225,
+      "lon": 31.23822,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "39 Talaat Harb St., 5th floor",
+      "price": "US$61",
+      "id": "egypt-0202b0570383ccb1b849"
+    },
+    {
+      "name": "The Ramses Hilton",
+      "kind": "stay",
+      "locality": "Cairo/Downtown",
+      "lat": 30.05049,
+      "lon": 31.23196,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "address": "1115 Corniche el-Nil",
+      "url": "https://www3.hilton.com/en/hotels/egypt/ramses-hilton-CAIRHTW/index.html",
+      "id": "egypt-bf1d1d6685cc1c75cddf"
+    },
+    {
+      "name": "Cairo/Downtown",
+      "kind": "area",
+      "locality": "Cairo/Downtown",
+      "lat": 30.0475,
+      "lon": 31.2383,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FDowntown",
+      "id": "egypt-21fada4f02d1034de45b"
+    },
+    {
+      "name": "Great Pyramid of Giza",
+      "kind": "do",
+      "locality": "Cairo/Giza",
+      "lat": 29.979722,
+      "lon": 31.134444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FGiza",
+      "price": "EGP 1500",
+      "id": "egypt-0aa2620c24d6b87c82fa"
+    },
+    {
+      "name": "Queens' Pyramids and Nobles' Tombs",
+      "kind": "do",
+      "locality": "Cairo/Giza",
+      "lat": 29.971609,
+      "lon": 31.127835,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FGiza",
+      "id": "egypt-0883b77acb592db62625"
+    },
+    {
+      "name": "Pyramid of Khafre",
+      "kind": "do",
+      "locality": "Cairo/Giza",
+      "lat": 29.976,
+      "lon": 31.130972,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FGiza",
+      "id": "egypt-2d7d145e144cbbc7d34b"
+    },
+    {
+      "name": "Pyramid of Menkaure",
+      "kind": "do",
+      "locality": "Cairo/Giza",
+      "lat": 29.9725,
+      "lon": 31.128333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FGiza",
+      "price": "EGP 280",
+      "id": "egypt-ebcbcd61e7ab0b4def25"
+    },
+    {
+      "name": "Great Sphinx of Giza",
+      "kind": "do",
+      "locality": "Cairo/Giza",
+      "lat": 29.97527,
+      "lon": 31.13768,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FGiza",
+      "id": "egypt-cbb63971aa51f1cfe6ce"
+    },
+    {
+      "name": "Grand Egyptian Museum",
+      "kind": "do",
+      "locality": "Cairo/Giza",
+      "lat": 29.993611,
+      "lon": 31.119722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FGiza",
+      "address": "El Remayah Square, Cairo-Alexandria Desert Road, Giza",
+      "price": "EGP 1590",
+      "url": "https://gem.eg/visit/plan-your-visit/",
+      "id": "egypt-ecd5ff5233a4e5245ac0"
+    },
+    {
+      "name": "Cairo Horse Riding School",
+      "kind": "do",
+      "locality": "Cairo/Giza",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FGiza",
+      "address": "Mansouriya Road",
+      "id": "egypt-6ed610e7dde30c76dec5"
+    },
+    {
+      "name": "FB Stables",
+      "kind": "do",
+      "locality": "Cairo/Giza",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FGiza",
+      "address": "Gamal Abdul Nasser St, Sphinx",
+      "url": "http://www.fbstablesgiza.co.uk/",
+      "id": "egypt-e2f22e7b5a8ebd534e92"
+    },
+    {
+      "name": "Pyramids Sound and Light Show",
+      "kind": "do",
+      "locality": "Cairo/Giza",
+      "lat": 29.97465,
+      "lon": 31.13951,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FGiza",
+      "price": "LE130",
+      "id": "egypt-ec83d8e2ae2d3cc8e91c"
+    },
+    {
+      "name": "Giza Zoo",
+      "kind": "do",
+      "locality": "Cairo/Giza",
+      "lat": 30.02388,
+      "lon": 31.21445,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FGiza",
+      "url": "http://www.gizazoo-eg.com/",
+      "id": "egypt-250d3dbc63b41b971d3d"
+    },
+    {
+      "name": "Mena House Oberoi Golf Course",
+      "kind": "do",
+      "locality": "Cairo/Giza",
+      "lat": 29.983,
+      "lon": 31.13761,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FGiza",
+      "id": "egypt-0b730d922be01849590b"
+    },
+    {
+      "name": "Orman Botanical Garden",
+      "kind": "do",
+      "locality": "Cairo/Giza",
+      "lat": 30.029534,
+      "lon": 31.214034,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FGiza",
+      "price": "LE5 per person and LE20 per car",
+      "id": "egypt-42449e29aa13ececf84d"
+    },
+    {
+      "name": "Pharaonic Village",
+      "kind": "do",
+      "locality": "Cairo/Giza",
+      "lat": 29.997171,
+      "lon": 31.215133,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FGiza",
+      "url": "https://www.pharaonicvillage.com/",
+      "id": "egypt-0ee720965a4b46fe221d"
+    },
+    {
+      "name": "El Gizawy restaurant",
+      "kind": "eat",
+      "locality": "Cairo/Giza",
+      "lat": 29.9775989,
+      "lon": 31.1427983,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FGiza",
+      "address": "Nazlet El-Semman, Al Haram",
+      "id": "egypt-3486298a9178a726d261"
+    },
+    {
+      "name": "Nile Pharaoh Cruising restaurant",
+      "kind": "eat",
+      "locality": "Cairo/Giza",
+      "lat": 30.023733,
+      "lon": 31.21626,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FGiza",
+      "address": "138 El Nile St",
+      "url": "https://thepharaohs.com.eg/",
+      "id": "egypt-6fbb90b57c7ca16e38d1"
+    },
+    {
+      "name": "Khufu’s Restaurant",
+      "kind": "eat",
+      "locality": "Cairo/Giza",
+      "lat": 29.97806,
+      "lon": 31.12425,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FGiza",
+      "url": "https://khufus.com/khufus/",
+      "id": "egypt-f1e7e8aab9974a71daa2"
+    },
+    {
+      "name": "Khan El Khalili",
+      "kind": "eat",
+      "locality": "Cairo/Giza",
+      "lat": 29.9845676,
+      "lon": 31.1326129,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FGiza",
+      "address": "Mena House Oberoi hotel",
+      "id": "egypt-5f5d9b018bb19cbef328"
+    },
+    {
+      "name": "El Mandara Coffee Shop",
+      "kind": "eat",
+      "locality": "Cairo/Giza",
+      "lat": 29.9906107,
+      "lon": 31.1343034,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FGiza",
+      "address": "Abou Al Mohsen",
+      "price": "LE3-10",
+      "id": "egypt-f3c018de910ef6c45afc"
+    },
+    {
+      "name": "accommodations near the entrance to the pyramids",
+      "kind": "stay",
+      "locality": "Cairo/Giza",
+      "lat": 29.975915,
+      "lon": 31.141477,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FGiza",
+      "id": "egypt-218541cecd93375f0034"
+    },
+    {
+      "name": "Marriott Mena House",
+      "kind": "stay",
+      "locality": "Cairo/Giza",
+      "lat": 29.985556,
+      "lon": 31.132778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FGiza",
+      "address": "6 Pyramids Road",
+      "url": "https://www.marriott.com/hotels/travel/caimn-marriott-mena-house-cairo/",
+      "id": "egypt-af6d2ac037006468600f"
+    },
+    {
+      "name": "Cairo/Giza",
+      "kind": "area",
+      "locality": "Cairo/Giza",
+      "lat": 30.0167,
+      "lon": 31.2167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FGiza",
+      "id": "egypt-1431ad0a572e69421322"
+    },
+    {
+      "name": "Hashemite Villa",
+      "kind": "do",
+      "locality": "Cairo/Ma'adi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FMa'adi",
+      "address": "15 Malika Dina St Ma'adi",
+      "id": "egypt-397d0f856570459ca191"
+    },
+    {
+      "name": "Wadi Degla Protected Area",
+      "kind": "do",
+      "locality": "Cairo/Ma'adi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FMa'adi",
+      "price": "LE 5 for foreigners, and an extra LE 5 to bring a car",
+      "id": "egypt-8c0348ff9b17b318926b"
+    },
+    {
+      "name": "M/S Nile Crystal Cruise",
+      "kind": "do",
+      "locality": "Cairo/Ma'adi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FMa'adi",
+      "address": "Maadi Road and Corniche el-Nile",
+      "id": "egypt-92aac92ae4e0005456de"
+    },
+    {
+      "name": "Café Greco",
+      "kind": "eat",
+      "locality": "Cairo/Ma'adi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FMa'adi",
+      "address": "64 Road 9",
+      "id": "egypt-4e69e31a4e6108924fb3"
+    },
+    {
+      "name": "Euro Deli",
+      "kind": "eat",
+      "locality": "Cairo/Ma'adi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FMa'adi",
+      "address": "35 Road 232",
+      "id": "egypt-ebc6fbb01a8f2f5267ad"
+    },
+    {
+      "name": "Fish Market",
+      "kind": "eat",
+      "locality": "Cairo/Ma'adi",
+      "lat": 29.955,
+      "lon": 31.25306,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FMa'adi",
+      "address": "Corniche El Nil",
+      "id": "egypt-6c27b93c7b729d1c8929"
+    },
+    {
+      "name": "Fusion Restaurant",
+      "kind": "eat",
+      "locality": "Cairo/Ma'adi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FMa'adi",
+      "address": "Corniche el-Nil",
+      "id": "egypt-80d03e87c9266b06f3f4"
+    },
+    {
+      "name": "Gaya",
+      "kind": "eat",
+      "locality": "Cairo/Ma'adi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FMa'adi",
+      "address": "32 Road 253, New Maadi",
+      "id": "egypt-609ed92d59aa0a6d5388"
+    },
+    {
+      "name": "Jared's Bagels",
+      "kind": "eat",
+      "locality": "Cairo/Ma'adi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FMa'adi",
+      "address": "82 Road 9",
+      "url": "http://www.jaredsbagels.com/",
+      "id": "egypt-430d5244ff5ab573a5f2"
+    },
+    {
+      "name": "La Rosa",
+      "kind": "eat",
+      "locality": "Cairo/Ma'adi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FMa'adi",
+      "address": "19 Road 231, New Maadi",
+      "id": "egypt-e747ec8db79be667ec0d"
+    },
+    {
+      "name": "Lan Yuan",
+      "kind": "eat",
+      "locality": "Cairo/Ma'adi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FMa'adi",
+      "address": "84 Road 9",
+      "id": "egypt-b299366af4c8398a280f"
+    },
+    {
+      "name": "Lucille's",
+      "kind": "eat",
+      "locality": "Cairo/Ma'adi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FMa'adi",
+      "address": "Road 9",
+      "id": "egypt-e271c807150a46d4f3b5"
+    },
+    {
+      "name": "TGI Fridays",
+      "kind": "eat",
+      "locality": "Cairo/Ma'adi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FMa'adi",
+      "id": "egypt-822064ca87c2e0ad43d9"
+    },
+    {
+      "name": "Fish Market",
+      "kind": "eat",
+      "locality": "Cairo/Ma'adi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FMa'adi",
+      "address": "Corniche el Nil",
+      "id": "egypt-8e5d9c7b5f207fcb2e0a"
+    },
+    {
+      "name": "Red Onion",
+      "kind": "eat",
+      "locality": "Cairo/Ma'adi",
+      "lat": 29.970993,
+      "lon": 31.272856,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FMa'adi",
+      "address": "27 A Road 276, New Maadi",
+      "id": "egypt-39879c729cec49fa94a3"
+    },
+    {
+      "name": "Tabasco",
+      "kind": "eat",
+      "locality": "Cairo/Ma'adi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FMa'adi",
+      "address": "45, Road 7",
+      "id": "egypt-246b3f413367d60b6de3"
+    },
+    {
+      "name": "Maadi Hotel",
+      "kind": "stay",
+      "locality": "Cairo/Ma'adi",
+      "lat": 29.959354,
+      "lon": 31.251279,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FMa'adi",
+      "address": "19 Misr Helwan Road",
+      "price": "US$85",
+      "url": "http://www.maadihotel.com/",
+      "id": "egypt-d5395717768a0d58d655"
+    },
+    {
+      "name": "Holiday Inn Maadi",
+      "kind": "stay",
+      "locality": "Cairo/Ma'adi",
+      "lat": 29.960861,
+      "lon": 31.248032,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FMa'adi",
+      "address": "Cornish El-Nil, Maadi, Cairo",
+      "url": "https://www.ihg.com/holidayinn/hotels/us/en/cairo/crohi/hoteldetail",
+      "id": "egypt-4cecbaa6268bd16d0370"
+    },
+    {
+      "name": "Cairo/Ma'adi",
+      "kind": "area",
+      "locality": "Cairo/Ma'adi",
+      "lat": 29.9667,
+      "lon": 31.25,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cairo%2FMa'adi",
+      "id": "egypt-d2c496ffcebf4f5c83a8"
+    },
+    {
+      "name": "Pharaoh's Stables",
+      "kind": "do",
+      "locality": "Luxor",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor",
+      "id": "egypt-fda8ab50448b995ee179"
+    },
+    {
+      "name": "Hot air balloon rides",
+      "kind": "do",
+      "locality": "Luxor",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor",
+      "price": "LE950-1,900, ask around (accommodation and travel offices) for the best deal",
+      "id": "egypt-c957984d8066bad928da"
+    },
+    {
+      "name": "Luxor",
+      "kind": "area",
+      "locality": "Luxor",
+      "lat": 25.6833,
+      "lon": 32.65,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor",
+      "id": "egypt-88addd889e00de715665"
+    },
+    {
+      "name": "Temple of Luxor",
+      "kind": "do",
+      "locality": "Luxor/East Bank",
+      "lat": 25.699504,
+      "lon": 32.639002,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "price": "Regular LE500, students LE250 (until age 30)",
+      "id": "egypt-5f6f28c5ccf38956d14e"
+    },
+    {
+      "name": "Church of Archangel Michael",
+      "kind": "do",
+      "locality": "Luxor/East Bank",
+      "lat": 25.69983,
+      "lon": 32.64607,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "url": "http://www.almalakchurch.org/",
+      "id": "egypt-f638ee9d70c8622ef83a"
+    },
+    {
+      "name": "Precinct of Amun-Re",
+      "kind": "do",
+      "locality": "Luxor/East Bank",
+      "lat": 25.718597,
+      "lon": 32.657864,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "price": "Regular EGP 600, students EGP 300 (until age 30)",
+      "id": "egypt-7b2a36dbe942f7908494"
+    },
+    {
+      "name": "Karnak Open Air Museum",
+      "kind": "do",
+      "locality": "Luxor/East Bank",
+      "lat": 25.7195,
+      "lon": 32.6574,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "price": "Requires a separate ticket, regular EGP 60, students EGP 30",
+      "id": "egypt-676c967d5e11d15f39af"
+    },
+    {
+      "name": "Evening Light and Sound Show",
+      "kind": "do",
+      "locality": "Luxor/East Bank",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "price": "EGP 250",
+      "id": "egypt-08d99b457e0be35b4b40"
+    },
+    {
+      "name": "Precinct of Mut",
+      "kind": "do",
+      "locality": "Luxor/East Bank",
+      "lat": 25.712,
+      "lon": 32.6556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "price": "Need to buy tickets at the Karnak Temple ticket office, EGP 60/EGP 30",
+      "id": "egypt-814dffb0ea9c46839844"
+    },
+    {
+      "name": "Precinct of Montu",
+      "kind": "do",
+      "locality": "Luxor/East Bank",
+      "lat": 25.7205,
+      "lon": 32.6611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "id": "egypt-9f1375d9cd096161c5c0"
+    },
+    {
+      "name": "Luxor Museum",
+      "kind": "do",
+      "locality": "Luxor/East Bank",
+      "lat": 25.7075,
+      "lon": 32.6447,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "price": "Regular EGP 400, student EGP 200",
+      "id": "egypt-4d729096e40df1db1ad0"
+    },
+    {
+      "name": "Museum of Mummification",
+      "kind": "do",
+      "locality": "Luxor/East Bank",
+      "lat": 25.7061,
+      "lon": 32.6428,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "address": "Corniche el-Nil",
+      "price": "Regular EGP 220, students EGP 110. Card only. If you pay cash, the cashier will steal it",
+      "id": "egypt-177b06b803fb2472b12f"
+    },
+    {
+      "name": "Temple of Montu",
+      "kind": "do",
+      "locality": "Luxor/East Bank",
+      "lat": 25.7342,
+      "lon": 32.7102,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "address": "Medamud",
+      "id": "egypt-3367c4c9fb59ee24209f"
+    },
+    {
+      "name": "El-Tod Temple",
+      "kind": "do",
+      "locality": "Luxor/East Bank",
+      "lat": 25.583039,
+      "lon": 32.533611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "price": "Regular EGP 40, students EGP 20",
+      "id": "egypt-2d2dd75546db89aa6c5c"
+    },
+    {
+      "name": "Chicken Broast",
+      "kind": "eat",
+      "locality": "Luxor/East Bank",
+      "lat": 25.6971098,
+      "lon": 32.6436223,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "address": "Al Mahata",
+      "id": "egypt-4356f9f6db69aa2f596c"
+    },
+    {
+      "name": "El Zaeem",
+      "kind": "eat",
+      "locality": "Luxor/East Bank",
+      "lat": 25.6948767,
+      "lon": 32.6399487,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "address": "Salah El-Din Square",
+      "id": "egypt-109d4dc369a1cffde470"
+    },
+    {
+      "name": "McDonald's",
+      "kind": "eat",
+      "locality": "Luxor/East Bank",
+      "lat": 25.69848,
+      "lon": 32.6401,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "price": "LE35 McCombo (Jan 2019)",
+      "id": "egypt-5fbb676231f00abc5704"
+    },
+    {
+      "name": "Sofra",
+      "kind": "eat",
+      "locality": "Luxor/East Bank",
+      "lat": 25.69481,
+      "lon": 32.64259,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "address": "90 Mohamed Farid St",
+      "price": "LE20-110 (Jan 2019)",
+      "url": "http://www.sofra.com.eg/",
+      "id": "egypt-0358b637b6bba248caaa"
+    },
+    {
+      "name": "Jamboree Restaurant",
+      "kind": "eat",
+      "locality": "Luxor/East Bank",
+      "lat": 25.7012747,
+      "lon": 32.6402689,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "id": "egypt-e6def605bc477f51527d"
+    },
+    {
+      "name": "Kam Thai",
+      "kind": "eat",
+      "locality": "Luxor/East Bank",
+      "lat": 25.6866674,
+      "lon": 32.6350118,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "price": "Mains LE40-80 (Jan 2019)",
+      "id": "egypt-5c8f631b573ab18ca6d9"
+    },
+    {
+      "name": "A Taste Of India",
+      "kind": "eat",
+      "locality": "Luxor/East Bank",
+      "lat": 25.68852,
+      "lon": 32.63431,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "address": "St Joseph Hotel Street",
+      "price": "LE70-190 (Jan 2019)",
+      "id": "egypt-ae681e6d350f8d641620"
+    },
+    {
+      "name": "Al-Sahaby Lane",
+      "kind": "eat",
+      "locality": "Luxor/East Bank",
+      "lat": 25.7017,
+      "lon": 32.64214,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "address": "Sahaby street",
+      "url": "http://www.nefertitihotel.com/sahabi.htm",
+      "id": "egypt-44e8ed6c1b4fa6b17f27"
+    },
+    {
+      "name": "The Lantern Room",
+      "kind": "eat",
+      "locality": "Luxor/East Bank",
+      "lat": 25.68693,
+      "lon": 32.63293,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "address": "Al Roda Al Sharifa Street",
+      "url": "https://restaurant-23344.business.site/",
+      "id": "egypt-da1a561b6646f8d32c64"
+    },
+    {
+      "name": "Bob Marley Peace Hotel",
+      "kind": "stay",
+      "locality": "Luxor/East Bank",
+      "lat": 25.69367,
+      "lon": 32.643,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "address": "Mohaned Farid Road",
+      "price": "Dorm from LE100 (incl. breakfast)",
+      "id": "egypt-9a309500123b47448147"
+    },
+    {
+      "name": "The Bob Marley House - Sherief Hotel",
+      "kind": "stay",
+      "locality": "Luxor/East Bank",
+      "lat": 25.694187,
+      "lon": 32.638531,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "address": "Badr St.",
+      "price": "Dorm from LE75 (incl. basic breakfast)",
+      "id": "egypt-85df89809e02f89a1992"
+    },
+    {
+      "name": "Fontana Hotel",
+      "kind": "stay",
+      "locality": "Luxor/East Bank",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "address": "Sharia Radwan",
+      "price": "LE15",
+      "id": "egypt-e33662ae7bea90dd1fa1"
+    },
+    {
+      "name": "Oasis Hotel",
+      "kind": "stay",
+      "locality": "Luxor/East Bank",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "address": "Mohamed Farid St",
+      "price": "From LE20",
+      "id": "egypt-93b740ad02573a00582a"
+    },
+    {
+      "name": "New Everest Hotel",
+      "kind": "stay",
+      "locality": "Luxor/East Bank",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "address": "Station street (al-Mahatta)",
+      "price": "LE30",
+      "id": "egypt-202fbe53a836da24ef69"
+    },
+    {
+      "name": "ALPA apartment",
+      "kind": "stay",
+      "locality": "Luxor/East Bank",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "address": "El Shomos",
+      "price": "LE15 per night",
+      "id": "egypt-1024d9e8cad32956d417"
+    },
+    {
+      "name": "Mara House",
+      "kind": "stay",
+      "locality": "Luxor/East Bank",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "address": "Salah Al Din Al Ayoubi",
+      "price": "From €30 per night",
+      "id": "egypt-c0762e6b4cf44a748d91"
+    },
+    {
+      "name": "Nefertiti Hotel",
+      "kind": "stay",
+      "locality": "Luxor/East Bank",
+      "lat": 25.698,
+      "lon": 32.6421,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "price": "From LE120",
+      "url": "http://www.nefertitihotel.com/",
+      "id": "egypt-ce0120040c0569dd4e95"
+    },
+    {
+      "name": "New Philippe Hotel",
+      "kind": "stay",
+      "locality": "Luxor/East Bank",
+      "lat": 25.7055,
+      "lon": 32.6412,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "address": "13 Nawfal Lane, off Cornish",
+      "url": "http://www.philippeluxorhotel.com/",
+      "id": "egypt-a209e6f1b3a43e1e25db"
+    },
+    {
+      "name": "Rezeiky Hotel & Camping",
+      "kind": "stay",
+      "locality": "Luxor/East Bank",
+      "lat": 25.711,
+      "lon": 32.6482,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "address": "Karnak Temple St",
+      "url": "http://www.rezeikycamp.com/",
+      "id": "egypt-0bdee672908384bd547d"
+    },
+    {
+      "name": "Jolie Ville Luxor",
+      "kind": "stay",
+      "locality": "Luxor/East Bank",
+      "lat": 25.666986,
+      "lon": 32.620176,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "address": "King's Island (Jazirat al-Awamiyyah) Luxor",
+      "price": "US$165-230",
+      "url": "https://jolievilleluxor.com/",
+      "id": "egypt-cb8c5d3c31154637540d"
+    },
+    {
+      "name": "Winter Palace",
+      "kind": "stay",
+      "locality": "Luxor/East Bank",
+      "lat": 25.6966,
+      "lon": 32.637,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "address": "Corniche el Nile Street",
+      "price": "From US$330",
+      "id": "egypt-7b1506779a21e50f763e"
+    },
+    {
+      "name": "Luxor/East Bank",
+      "kind": "area",
+      "locality": "Luxor/East Bank",
+      "lat": 25.69908,
+      "lon": 32.64896,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FEast_Bank",
+      "id": "egypt-e4d52e3c773ecab2bd3f"
+    },
+    {
+      "name": "Valley of the Kings",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "lat": 25.74025,
+      "lon": 32.602358,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "id": "egypt-ee845739f22e73c827d2"
+    },
+    {
+      "name": "Medinet Habu",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "lat": 25.719833,
+      "lon": 32.600778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "price": "EGP 220",
+      "id": "egypt-c9e7b0304bf995f1d82d"
+    },
+    {
+      "name": "Colossi of Memnon",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "lat": 25.720556,
+      "lon": 32.610556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "id": "egypt-ca7a83efabe9ca722453"
+    },
+    {
+      "name": "Valley of the Queens",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "lat": 25.7275,
+      "lon": 32.593056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "price": "EGP 220, incl. entrance to all 3 available tombs, except for Nefertari one, which requires a separate ticket",
+      "id": "egypt-bf96f1a036ec7d747bd8"
+    },
+    {
+      "name": "Tomb of Nefertari",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "lat": 25.7333,
+      "lon": 32.6,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "price": "EGP 2500 (max 10 min), no discounts for students",
+      "id": "egypt-9ce4c495180198f97501"
+    },
+    {
+      "name": "Tomb of Amun-her-Khepeshef",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "lat": 25.72758,
+      "lon": 32.59204,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "id": "egypt-048721df4b9d34e479d5"
+    },
+    {
+      "name": "Tomb of Titi",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "lat": 25.72742,
+      "lon": 32.59228,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "id": "egypt-756d4fd7555271ac019b"
+    },
+    {
+      "name": "Tomb of Khaemwaset",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "lat": 25.726982,
+      "lon": 32.592278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "id": "egypt-433874a8bc8518b5904d"
+    },
+    {
+      "name": "Deir el Medina",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "lat": 25.728889,
+      "lon": 32.601389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "price": "EGP 220",
+      "id": "egypt-9967f23434221aae46e1"
+    },
+    {
+      "name": "Ptolemaic Temple",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "lat": 25.72889,
+      "lon": 32.60211,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "id": "egypt-eaa86789f950ea806ca7"
+    },
+    {
+      "name": "Tomb of Ramose",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "lat": 25.7333,
+      "lon": 32.6,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "id": "egypt-ac8160ef284c0cef6f73"
+    },
+    {
+      "name": "Tomb of Senedjem",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "lat": 25.72777,
+      "lon": 32.60054,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "id": "egypt-73f7fc06ae87a0ee73a4"
+    },
+    {
+      "name": "Tomb of Peshedu",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "id": "egypt-5ff2f8e5dda719a15beb"
+    },
+    {
+      "name": "Ramesseum",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "lat": 25.727778,
+      "lon": 32.610556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "address": "Gurna",
+      "price": "EGP 220",
+      "id": "egypt-503b008c8e7d4d7c340b"
+    },
+    {
+      "name": "Temple of Merneptah",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "lat": 25.72501,
+      "lon": 32.60649,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "address": "Gurna",
+      "price": "EGP 100",
+      "id": "egypt-3eedc9d3b78d4030ca56"
+    },
+    {
+      "name": "Malkata",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "id": "egypt-8c2031ccf6fb5543fc6a"
+    },
+    {
+      "name": "Tombs of Nobles",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "address": "Gurna",
+      "id": "egypt-850cb5533448638eec9b"
+    },
+    {
+      "name": "Tombs of Khonsu, Userhat and Benia",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "lat": 25.73062,
+      "lon": 32.60871,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "price": "EGP 40",
+      "id": "egypt-3a48223fb01038a805fa"
+    },
+    {
+      "name": "Tombs of Menna, Nakht, Amenemopet",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "lat": 25.73216,
+      "lon": 32.60896,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "price": "EGP 60",
+      "id": "egypt-17fec5ad14f5662e9c6e"
+    },
+    {
+      "name": "Tombs of Ramose, Userhat and Khaemhat",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "price": "EGP 60",
+      "id": "egypt-4444d9ed33aa4be7fa07"
+    },
+    {
+      "name": "Tombs of Sennefer and Rekhmire",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "lat": 25.73136,
+      "lon": 32.60744,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "price": "EGP 40",
+      "id": "egypt-b039497a945a8489005e"
+    },
+    {
+      "name": "Tombs of Neferenpet, Thutmose and Neferskheru",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "price": "EGP 40",
+      "id": "egypt-5038655e7963e8e2027c"
+    },
+    {
+      "name": "Deir el-Bahari",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "id": "egypt-556d11a21cea7438ab04"
+    },
+    {
+      "name": "Temple of Hatshepsut",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "lat": 25.738056,
+      "lon": 32.606944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "price": "EGP 440",
+      "id": "egypt-9e17b15f9f7310365570"
+    },
+    {
+      "name": "Temple of Montuhotep II",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "lat": 25.73744,
+      "lon": 32.60628,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "id": "egypt-df9f35349ccec34753e8"
+    },
+    {
+      "name": "Tombs of El-Assasif",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "lat": 25.733492,
+      "lon": 32.612833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "price": "EGP 60",
+      "id": "egypt-dd369988b61872e45bfd"
+    },
+    {
+      "name": "Tomb of Parennefer",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "lat": 25.73542,
+      "lon": 32.61154,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "price": "EGP 40",
+      "id": "egypt-e41ed7bb0ca38e8438b9"
+    },
+    {
+      "name": "Dra' Abu el-Naga'",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "id": "egypt-87e7f5987c2095b9d63e"
+    },
+    {
+      "name": "Temple of Seti I",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "lat": 25.732511,
+      "lon": 32.628603,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "price": "EGP 60",
+      "id": "egypt-a1c3b8b9b445d2c20fbc"
+    },
+    {
+      "name": "Carter's House",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "lat": 25.738906,
+      "lon": 32.62824,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "price": "EGP 80",
+      "id": "egypt-33b83ddc6e9a3b22983d"
+    },
+    {
+      "name": "Tomb ANB",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "id": "egypt-caa7856bac478985f587"
+    },
+    {
+      "name": "Temple of Isis",
+      "kind": "do",
+      "locality": "Luxor/West Bank",
+      "lat": 25.695219,
+      "lon": 32.578481,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "address": "Shalwit",
+      "price": "EGP 40",
+      "id": "egypt-35e4666b1d0bfb5ef08e"
+    },
+    {
+      "name": "Tutankhamun Restaurant",
+      "kind": "eat",
+      "locality": "Luxor/West Bank",
+      "lat": 25.7029,
+      "lon": 32.6316,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "id": "egypt-05acb94190c5cd1d6eab"
+    },
+    {
+      "name": "Sunflower Restaurant",
+      "kind": "eat",
+      "locality": "Luxor/West Bank",
+      "lat": 25.7033378,
+      "lon": 32.6328125,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "price": "EGP 91 for a set menu of traditional Egyptian food, drinks LE20-30",
+      "url": "https://www.facebook.com/SunflowerRestaurant1",
+      "id": "egypt-51b2cd72b2955752d0c8"
+    },
+    {
+      "name": "Amon Hotel",
+      "kind": "stay",
+      "locality": "Luxor/West Bank",
+      "lat": 25.708135,
+      "lon": 32.6289224,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "address": "El Gezira",
+      "price": "LE25-50, AC Doubles LE200",
+      "url": "http://www.amonhotel.com/",
+      "id": "egypt-d63fad2d621cf9c13e01"
+    },
+    {
+      "name": "Aton Palace Luxor",
+      "kind": "stay",
+      "locality": "Luxor/West Bank",
+      "lat": 25.765915,
+      "lon": 32.639322,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "address": "Giza - Luxor Rd",
+      "price": "€45–65",
+      "url": "https://www.atonpalace.com/",
+      "id": "egypt-f1f265fd311be65bd62d"
+    },
+    {
+      "name": "El Fayrouz Hotel",
+      "kind": "stay",
+      "locality": "Luxor/West Bank",
+      "lat": 25.705388,
+      "lon": 32.631766,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "address": "Gezira El Bairat",
+      "url": "http://www.elfayrouz.com/index_engl.htm",
+      "id": "egypt-393bd7f82d1b19129e58"
+    },
+    {
+      "name": "Gezira Garden Hotel",
+      "kind": "stay",
+      "locality": "Luxor/West Bank",
+      "lat": 25.7026918,
+      "lon": 32.6304183,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "address": "el Gezira, West Bank",
+      "price": "LE60/80 single/double, breakfast included",
+      "url": "http://www.el-gezira.com/",
+      "id": "egypt-fdf1db9b2c440345fad4"
+    },
+    {
+      "name": "Marsam Hotel",
+      "kind": "stay",
+      "locality": "Luxor/West Bank",
+      "lat": 25.72419,
+      "lon": 32.60658,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "url": "http://www.marsamhotelluxor.com/",
+      "id": "egypt-804d615d7f5ad3dd2a03"
+    },
+    {
+      "name": "El Phardous Home",
+      "kind": "stay",
+      "locality": "Luxor/West Bank",
+      "lat": 25.748184,
+      "lon": 32.644366,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "price": "Single/double LE120/230",
+      "id": "egypt-26872d9a045db3be7af5"
+    },
+    {
+      "name": "Al Salam Camp",
+      "kind": "stay",
+      "locality": "Luxor/West Bank",
+      "lat": 25.6960315,
+      "lon": 32.6264762,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "address": "Ramlah Village, West Bank",
+      "price": "LE15-30",
+      "id": "egypt-6dc4167f100d61346ec6"
+    },
+    {
+      "name": "Hotel Sheherazade",
+      "kind": "stay",
+      "locality": "Luxor/West Bank",
+      "lat": 25.7059826,
+      "lon": 32.6302007,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "address": "El Gezira (West Bank)",
+      "price": "LE100-200",
+      "url": "http://www.hotelsheherazade.com/",
+      "id": "egypt-ed28fbcf2f7562ed9157"
+    },
+    {
+      "name": "Hotel al-Moudira",
+      "kind": "stay",
+      "locality": "Luxor/West Bank",
+      "lat": 25.6844898,
+      "lon": 32.5505023,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "price": "US$150-200",
+      "url": "http://www.moudira.com/",
+      "id": "egypt-ce135d2b61e79b59f5d8"
+    },
+    {
+      "name": "Nile Valley Hotel",
+      "kind": "stay",
+      "locality": "Luxor/West Bank",
+      "lat": 25.7027515,
+      "lon": 32.6267431,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "address": "Gezirat el Bairat, West Bank",
+      "price": "€15/22 single/double",
+      "id": "egypt-9a1d29c2d1243487a229"
+    },
+    {
+      "name": "Luxor/West Bank",
+      "kind": "area",
+      "locality": "Luxor/West Bank",
+      "lat": 25.720561111111,
+      "lon": 32.610280555556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Luxor%2FWest_Bank",
+      "id": "egypt-f1b09923125374bb3588"
+    }
+  ],
+  "status": "partial",
+  "note": "Fetched 10 distinct public Wikivoyage source pages; attempted 12 article titles covering the country, capital(s), and 2 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Unavailable or unresolved articles: Cairo/Eastern suburbs: HTTP 404 (https://en.wikivoyage.org/wiki/Cairo%2FEastern_suburbs). Coverage cap: Cairo: 10 additional linked subpages not fetched. Destination article routing (regional/landmark guides may use a nearby gateway): Pyramids of Giza → Cairo/Giza."
+}

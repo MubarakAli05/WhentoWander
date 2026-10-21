@@ -1,0 +1,2336 @@
+{
+  "sources": [
+    {
+      "title": "North Macedonia",
+      "url": "https://en.wikivoyage.org/wiki/North_Macedonia",
+      "checkedAt": "2026-10-21T08:11:27.416Z"
+    },
+    {
+      "title": "Skopje",
+      "url": "https://en.wikivoyage.org/wiki/Skopje",
+      "checkedAt": "2026-10-21T08:11:30.606Z"
+    },
+    {
+      "title": "Skopje/Stara Čaršija",
+      "url": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "checkedAt": "2026-10-21T08:11:33.410Z"
+    },
+    {
+      "title": "Skopje/Centar",
+      "url": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "checkedAt": "2026-10-21T08:11:36.422Z"
+    },
+    {
+      "title": "Skopje/Karpoš",
+      "url": "https://en.wikivoyage.org/wiki/Skopje%2FKarpo%C5%A1",
+      "checkedAt": "2026-10-21T08:11:39.209Z"
+    },
+    {
+      "title": "Skopje/Outer Skopje",
+      "url": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "checkedAt": "2026-10-21T08:11:42.231Z"
+    },
+    {
+      "title": "Skopje/Matka Canyon",
+      "url": "https://en.wikivoyage.org/wiki/Skopje%2FMatka_Canyon",
+      "checkedAt": "2026-10-21T08:11:45.217Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Skopje",
+      "kind": "area",
+      "locality": "North Macedonia",
+      "lat": 41.996932,
+      "lon": 21.432913,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/North_Macedonia",
+      "id": "north-macedonia-5f24b31dc48ddefe92b3"
+    },
+    {
+      "name": "Bitola",
+      "kind": "area",
+      "locality": "North Macedonia",
+      "lat": 41.030667,
+      "lon": 21.334658,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/North_Macedonia",
+      "id": "north-macedonia-cdc9e7b98dab53466692"
+    },
+    {
+      "name": "Kratovo",
+      "kind": "area",
+      "locality": "North Macedonia",
+      "lat": 42.078647,
+      "lon": 22.178317,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/North_Macedonia",
+      "id": "north-macedonia-efffbfc6e1fbfb98c6aa"
+    },
+    {
+      "name": "Kruševo",
+      "kind": "area",
+      "locality": "North Macedonia",
+      "lat": 41.367887,
+      "lon": 21.249586,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/North_Macedonia",
+      "id": "north-macedonia-46439eb8da6656d756da"
+    },
+    {
+      "name": "Ohrid",
+      "kind": "area",
+      "locality": "North Macedonia",
+      "lat": 41.112794,
+      "lon": 20.796325,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/North_Macedonia",
+      "id": "north-macedonia-236f95a14ffd03078aa4"
+    },
+    {
+      "name": "Prilep",
+      "kind": "area",
+      "locality": "North Macedonia",
+      "lat": 41.345806,
+      "lon": 21.554553,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/North_Macedonia",
+      "id": "north-macedonia-219a3741e4169a5bce9f"
+    },
+    {
+      "name": "Štip",
+      "kind": "area",
+      "locality": "North Macedonia",
+      "lat": 41.7333333,
+      "lon": 22.1833333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/North_Macedonia",
+      "id": "north-macedonia-e8d388b8a95375da55f0"
+    },
+    {
+      "name": "Strumica",
+      "kind": "area",
+      "locality": "North Macedonia",
+      "lat": 41.439028,
+      "lon": 22.637702,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/North_Macedonia",
+      "id": "north-macedonia-423eb76cb4046ce8d829"
+    },
+    {
+      "name": "Veles",
+      "kind": "area",
+      "locality": "North Macedonia",
+      "lat": 41.715803,
+      "lon": 21.784473,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/North_Macedonia",
+      "id": "north-macedonia-66aa89c869bcb94046e4"
+    },
+    {
+      "name": "Stroll through the town",
+      "kind": "do",
+      "locality": "Skopje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "id": "north-macedonia-263f5ee42e1de33684b6"
+    },
+    {
+      "name": "Tumba archaeological site",
+      "kind": "do",
+      "locality": "Skopje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "id": "north-macedonia-785deef2785675c6d33e"
+    },
+    {
+      "name": "Cerje archaeological site",
+      "kind": "do",
+      "locality": "Skopje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "id": "north-macedonia-f477532dc5c8a0913a19"
+    },
+    {
+      "name": "Gradishte",
+      "kind": "do",
+      "locality": "Skopje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "id": "north-macedonia-a7351c30b2a592c5785e"
+    },
+    {
+      "name": "Marko's Castle",
+      "kind": "do",
+      "locality": "Skopje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "id": "north-macedonia-c4cb8c332d2f73bf0f14"
+    },
+    {
+      "name": "Remains of Skupi",
+      "kind": "do",
+      "locality": "Skopje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "id": "north-macedonia-a9217db6526a98bddc1a"
+    },
+    {
+      "name": "Skopje Summer Festival",
+      "kind": "do",
+      "locality": "Skopje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "id": "north-macedonia-7aee92fa5c4438db27a8"
+    },
+    {
+      "name": "Offest",
+      "kind": "do",
+      "locality": "Skopje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "url": "http://www.offest.com.mk/",
+      "id": "north-macedonia-2871c335b77e057c6c3b"
+    },
+    {
+      "name": "Skopje Jazz Festival",
+      "kind": "do",
+      "locality": "Skopje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "url": "http://www.skopjejazzfest.com.mk/",
+      "id": "north-macedonia-722604393a1b15419306"
+    },
+    {
+      "name": "May Opera Evenings",
+      "kind": "do",
+      "locality": "Skopje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "id": "north-macedonia-f33a672c4bbf348726b7"
+    },
+    {
+      "name": "Autumn Music",
+      "kind": "do",
+      "locality": "Skopje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "id": "north-macedonia-2098ffb797229497a2c0"
+    },
+    {
+      "name": "Vino Skop",
+      "kind": "do",
+      "locality": "Skopje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "id": "north-macedonia-7d3354504199f9d4f3ae"
+    },
+    {
+      "name": "BuskerFest",
+      "kind": "do",
+      "locality": "Skopje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "url": "https://m.facebook.com/BuskerfestMacedonia/",
+      "id": "north-macedonia-8324ca8b2a6c20d6795a"
+    },
+    {
+      "name": "Pivolend",
+      "kind": "do",
+      "locality": "Skopje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "id": "north-macedonia-88fa18beeae6a4e7403f"
+    },
+    {
+      "name": "Vasilica (New Year)",
+      "kind": "do",
+      "locality": "Skopje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "id": "north-macedonia-22d9f2a4593a7970cbc8"
+    },
+    {
+      "name": "Herdelezi / Djurdjevden",
+      "kind": "do",
+      "locality": "Skopje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "id": "north-macedonia-7defecfc05d76db03f01"
+    },
+    {
+      "name": "Taksirat Festival",
+      "kind": "do",
+      "locality": "Skopje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "url": "http://www.taksirat.com.mk/",
+      "id": "north-macedonia-f02aacd84ab5e6a946aa"
+    },
+    {
+      "name": "Pelister",
+      "kind": "eat",
+      "locality": "Skopje",
+      "lat": 41.99584,
+      "lon": 21.43139,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "address": "Macedonia Square 7",
+      "url": "https://pelister.com.mk/",
+      "id": "north-macedonia-63b71cf06cb09d2acf4e"
+    },
+    {
+      "name": "Restaurant Old House",
+      "kind": "eat",
+      "locality": "Skopje",
+      "lat": 41.9968648,
+      "lon": 21.4379497,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "address": "Boulevard Phillip the Second of Macedon 14",
+      "url": "https://oldhouse.mk/",
+      "id": "north-macedonia-6ac418003c7273e3541b"
+    },
+    {
+      "name": "Dropstop Gastrobar",
+      "kind": "eat",
+      "locality": "Skopje",
+      "lat": 41.9961817,
+      "lon": 21.4272542,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "address": "Maksim Gorki 31A",
+      "url": "https://dropstop.mk/",
+      "id": "north-macedonia-b23728c825eb2bf1aa3e"
+    },
+    {
+      "name": "Amigos Mexican Restaurant & Bar",
+      "kind": "eat",
+      "locality": "Skopje",
+      "lat": 41.9936406,
+      "lon": 21.4297201,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "address": "Makedonija 11",
+      "url": "https://amigos.com.mk/",
+      "id": "north-macedonia-7e7d9c35efb60b8e7d5c"
+    },
+    {
+      "name": "Restaurant Skopski Merak",
+      "kind": "eat",
+      "locality": "Skopje",
+      "lat": 42.0014033,
+      "lon": 21.415927,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "address": "Debarca 51",
+      "url": "https://skopskimerak.mk/",
+      "id": "north-macedonia-4d8bd73b617715891c27"
+    },
+    {
+      "name": "Gostilnica DM",
+      "kind": "eat",
+      "locality": "Skopje",
+      "lat": 42.0034393,
+      "lon": 21.4167501,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "address": "Orce Nikolov 136, Skopje 1000",
+      "id": "north-macedonia-74ac50d8a420881d35ad"
+    },
+    {
+      "name": "Matto Napoletano",
+      "kind": "eat",
+      "locality": "Skopje",
+      "lat": 41.9963839,
+      "lon": 21.4240943,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "address": "Debarca 2A",
+      "url": "https://matto.com.mk/",
+      "id": "north-macedonia-bd8ea1d7d8c3a688cd43"
+    },
+    {
+      "name": "Wine Berry",
+      "kind": "eat",
+      "locality": "Skopje",
+      "lat": 41.9949918,
+      "lon": 21.4213975,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "address": "Mitropolit Teodosij Gologanov 36",
+      "url": "https://wineberry.mk/",
+      "id": "north-macedonia-ed050fea7216bbff803a"
+    },
+    {
+      "name": "Destan",
+      "kind": "eat",
+      "locality": "Skopje",
+      "lat": 41.9996677,
+      "lon": 21.4360649,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "address": "Salih Asim",
+      "id": "north-macedonia-f370322a90b16092ffe0"
+    },
+    {
+      "name": "Vodenica Mulino",
+      "kind": "eat",
+      "locality": "Skopje",
+      "lat": 41.9949341,
+      "lon": 21.4129968,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "address": "Mitropolit Teodosij Gologanov 69",
+      "url": "https://vodenicamulino.mk/",
+      "id": "north-macedonia-1b2a2c660874ec1f8f84"
+    },
+    {
+      "name": "Dukat",
+      "kind": "eat",
+      "locality": "Skopje",
+      "lat": 41.9949341,
+      "lon": 21.4129968,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "address": "Mitropolit Teodosij Gologanov",
+      "id": "north-macedonia-46dc828fbad9ef555388"
+    },
+    {
+      "name": "Dva Elena Restaurant",
+      "kind": "eat",
+      "locality": "Skopje",
+      "lat": 41.9929038,
+      "lon": 21.4076229,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "address": "Zagrebska 31",
+      "url": "https://dvaelena.mk/",
+      "id": "north-macedonia-58cedcdf1925c634212e"
+    },
+    {
+      "name": "Skopje",
+      "kind": "area",
+      "locality": "Skopje",
+      "lat": 42,
+      "lon": 21.4333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje",
+      "id": "north-macedonia-b347f7b6065202af9999"
+    },
+    {
+      "name": "Skopje Fortress",
+      "kind": "do",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 42.000511,
+      "lon": 21.433394,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "price": "Free",
+      "id": "north-macedonia-85dcf201e0e7358b89dc"
+    },
+    {
+      "name": "Karpoš's Rebellion Square",
+      "kind": "do",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 41.99781,
+      "lon": 21.434237,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "id": "north-macedonia-a86a71053838ddb29129"
+    },
+    {
+      "name": "Philip II Monument",
+      "kind": "do",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 41.997931,
+      "lon": 21.434492,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "id": "north-macedonia-2f5445770761f8cede39"
+    },
+    {
+      "name": "Church of Saint Demetrius",
+      "kind": "do",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 41.998505,
+      "lon": 21.434366,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "id": "north-macedonia-6f7ddd94daa66c23ca12"
+    },
+    {
+      "name": "Bedesten",
+      "kind": "do",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 42.00139,
+      "lon": 21.4367195,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "id": "north-macedonia-e5a0c9b93c56362bdd7a"
+    },
+    {
+      "name": "Clock Tower",
+      "kind": "do",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 42.001944,
+      "lon": 21.441389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "id": "north-macedonia-8cfd5651e43ebd38fb8d"
+    },
+    {
+      "name": "Church of the Holy Saviour",
+      "kind": "do",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 42.000846,
+      "lon": 21.435775,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "id": "north-macedonia-579307cf9e415a3b0878"
+    },
+    {
+      "name": "Skanderbeg Square",
+      "kind": "do",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 41.999012,
+      "lon": 21.436606,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "id": "north-macedonia-cbd489c19738ec264354"
+    },
+    {
+      "name": "Old Turkish Post Office and Vilayet Building",
+      "kind": "do",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 42.001367,
+      "lon": 21.434881,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "id": "north-macedonia-a8a296d66c40c702c0e8"
+    },
+    {
+      "name": "Türbe of Ishak Bey",
+      "kind": "do",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 42.001944,
+      "lon": 21.441111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "id": "north-macedonia-b85b3640e3d2088cd1b2"
+    },
+    {
+      "name": "Kapan Han",
+      "kind": "do",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 41.99999,
+      "lon": 21.4345354,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "id": "north-macedonia-d4a8bfa1731a54c4e4ed"
+    },
+    {
+      "name": "Suli Han",
+      "kind": "do",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 42.0016,
+      "lon": 21.43555,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "id": "north-macedonia-619886f361c9054263ab"
+    },
+    {
+      "name": "Kurşumli Han",
+      "kind": "do",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 42.003056,
+      "lon": 21.436944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "id": "north-macedonia-9e8c5d7923c5089f7c72"
+    },
+    {
+      "name": "Mustafa Pasha Mosque",
+      "kind": "do",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 42.002,
+      "lon": 21.4354,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "price": "Free",
+      "id": "north-macedonia-c88bc8862efddf1ce86a"
+    },
+    {
+      "name": "Sultan Murat Mosque",
+      "kind": "do",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 42.0015,
+      "lon": 21.4414,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "id": "north-macedonia-4cb292b2aea506e306fe"
+    },
+    {
+      "name": "Ishak Bey Mosque",
+      "kind": "do",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 42.0024,
+      "lon": 21.4391,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "id": "north-macedonia-97b2ad20d7515e69b47b"
+    },
+    {
+      "name": "Isa Bey Mosque",
+      "kind": "do",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 42.0032,
+      "lon": 21.44,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "id": "north-macedonia-c7fd3c4dfc2a826d7a11"
+    },
+    {
+      "name": "Yahya Pasha Mosque",
+      "kind": "do",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 42.00758,
+      "lon": 21.43997,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "id": "north-macedonia-795a7fd32c68e26fcf5f"
+    },
+    {
+      "name": "Murat Pasha Mosque",
+      "kind": "do",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 42.000801,
+      "lon": 21.43741,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "id": "north-macedonia-639998f90f9fdd75e6f9"
+    },
+    {
+      "name": "Dukjandžik Mosque",
+      "kind": "do",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 42.0058,
+      "lon": 21.4356,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "id": "north-macedonia-e981a8ab0a74c8ced227"
+    },
+    {
+      "name": "Museum of Contemporary Art",
+      "kind": "do",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 42.00395,
+      "lon": 21.43284,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "price": "Free",
+      "id": "north-macedonia-024b35974decf218a8d1"
+    },
+    {
+      "name": "Museum of Macedonia",
+      "kind": "do",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 42.0025,
+      "lon": 21.435833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "url": "http://www.musmk.org.mk/",
+      "id": "north-macedonia-99a609915c49304e0984"
+    },
+    {
+      "name": "Çifte Hamam",
+      "kind": "do",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 42.001111,
+      "lon": 21.437222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "id": "north-macedonia-c8a90915486c10599c83"
+    },
+    {
+      "name": "Daut Pasha Hamam",
+      "kind": "do",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 41.9987,
+      "lon": 21.4357,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "id": "north-macedonia-41cb137fc56a73d02512"
+    },
+    {
+      "name": "Skopje Walks",
+      "kind": "do",
+      "locality": "Skopje/Stara Čaršija",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "url": "http://www.skopjewalks.com/",
+      "id": "north-macedonia-981e869469b40952aa7a"
+    },
+    {
+      "name": "Restaurant Makedonska Kukja",
+      "kind": "eat",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 42.003214,
+      "lon": 21.435201,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "id": "north-macedonia-b8830bf73337fcc22e1d"
+    },
+    {
+      "name": "Slatkarnica Rigara",
+      "kind": "eat",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 41.999583,
+      "lon": 21.435907,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "address": "Arhiepiskop Angelarid No:8, Skopje",
+      "price": "80-200 MKD",
+      "url": "https://www.instagram.com/rigaraslatkarnica/",
+      "id": "north-macedonia-917321caa47cf3992bb4"
+    },
+    {
+      "name": "Kaj Гоце",
+      "kind": "eat",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 42.000731,
+      "lon": 21.437069,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "address": "Old Town",
+      "price": "Main course + vegetables + beer + mastika = under 1000 denars",
+      "id": "north-macedonia-4f6634a7ff0261ca03e8"
+    },
+    {
+      "name": "Pivnica Star Grad",
+      "kind": "eat",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 42.000635,
+      "lon": 21.435689,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "id": "north-macedonia-6078041777a872153e71"
+    },
+    {
+      "name": "Hotel Arka",
+      "kind": "eat",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 42.001622,
+      "lon": 21.438677,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "address": "Ul. Bitpazarska 90/2",
+      "url": "http://hotelarka.mk/",
+      "id": "north-macedonia-61ce351d7a9dd232dc45"
+    },
+    {
+      "name": "Hotel Super 8 - Skopje",
+      "kind": "stay",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 41.999124,
+      "lon": 21.43864,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "url": "http://hotelsuper8.com.mk/",
+      "id": "north-macedonia-a591abe2d743cd8996f1"
+    },
+    {
+      "name": "Bushi Resort & Spa",
+      "kind": "stay",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 42.001686,
+      "lon": 21.436161,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "address": "Kjurchiska 21",
+      "url": "http://bushiresort.com/",
+      "id": "north-macedonia-c2b419c3581ec971343a"
+    },
+    {
+      "name": "Hotel Arka",
+      "kind": "stay",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 42.001622,
+      "lon": 21.438677,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "address": "Ul. Bitpazarska 90/2",
+      "url": "http://hotelarka.mk/",
+      "id": "north-macedonia-9baaa7e6e36db42e8b16"
+    },
+    {
+      "name": "Hotel Gold",
+      "kind": "stay",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 42.002086,
+      "lon": 21.440109,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "url": "http://hotelgold.mk/",
+      "id": "north-macedonia-2f9111b33fd6b3343fc1"
+    },
+    {
+      "name": "Hotel Arka",
+      "kind": "stay",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 42.0016,
+      "lon": 21.4387,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "address": "Bitpazarska 90/2",
+      "price": "From €88",
+      "url": "http://www.hotelarka.mk/",
+      "id": "north-macedonia-a6835c56740dfd503937"
+    },
+    {
+      "name": "Skopje/Stara Čaršija",
+      "kind": "area",
+      "locality": "Skopje/Stara Čaršija",
+      "lat": 42.0034,
+      "lon": 21.4376,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FStara_%C4%8Car%C5%A1ija",
+      "id": "north-macedonia-08ca2dbf6f89747bc447"
+    },
+    {
+      "name": "Stone Bridge",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 41.996986,
+      "lon": 21.433022,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-949839c41c7abdbde366"
+    },
+    {
+      "name": "Macedonian National Theatre",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 41.9985,
+      "lon": 21.4324,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "Iljo Vojvoda",
+      "url": "http://mnt.mk/",
+      "id": "north-macedonia-9b31a31affa6638640bb"
+    },
+    {
+      "name": "Macedonia Square",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 41.9961,
+      "lon": 21.4315,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-41cbfe020dcb915d3584"
+    },
+    {
+      "name": "Old City Hall",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 41.9969849,
+      "lon": 21.431787,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-3ac1dd7026ab71dd6ad5"
+    },
+    {
+      "name": "Alexander the Great Monument",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 41.995846,
+      "lon": 21.431453,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-46dc07c64b8ccd8399a4"
+    },
+    {
+      "name": "Tsar Samuel Monument",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 41.9957,
+      "lon": 21.4313,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-63b4c27dc85a5df19ea0"
+    },
+    {
+      "name": "Justinian I Monument",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 41.996771,
+      "lon": 21.432274,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-2316ed4c605879fe8288"
+    },
+    {
+      "name": "Art Bridge",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 41.995655,
+      "lon": 21.435884,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-0ac3ff118dff8651c67f"
+    },
+    {
+      "name": "Bridge of Civilisations in Macedonia",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 41.996356,
+      "lon": 21.433959,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-1252e16984ff226e77b2"
+    },
+    {
+      "name": "Mother Teresa Square",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 41.996402,
+      "lon": 21.435732,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-a61c7b247e3867ea45b5"
+    },
+    {
+      "name": "Porta Macedonia",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 41.994435,
+      "lon": 21.432597,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-7217e8de87bfe643d4e7"
+    },
+    {
+      "name": "VMRO Square",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 41.993886,
+      "lon": 21.428962,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-40a3cfd2d79e43905525"
+    },
+    {
+      "name": "Feudal Tower",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 41.993615,
+      "lon": 21.431724,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-3c8296f792a4dce95df9"
+    },
+    {
+      "name": "Parliament Building",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 41.9927,
+      "lon": 21.4326,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "11th October St. 10",
+      "url": "http://www.sobranie.mk/",
+      "id": "north-macedonia-83d9b99a5eca0d4fb678"
+    },
+    {
+      "name": "Park of the Woman Freedom Fighter",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 41.993511,
+      "lon": 21.433829,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-f388cbc4e763b170429a"
+    },
+    {
+      "name": "Government of the Republic of North Macedonia",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 42.000538,
+      "lon": 21.428578,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "Boulevard Ilinden 2",
+      "url": "http://www.vlada.mk/",
+      "id": "north-macedonia-a21b9cdfa70f71f41b0c"
+    },
+    {
+      "name": "Debar Maalo",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 42.001728,
+      "lon": 21.418939,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-83105d7ef2ae98982f8d"
+    },
+    {
+      "name": "Church of the Holy Mother of God",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 41.9961,
+      "lon": 21.4395,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-a4ee0b1dcb14aed423ad"
+    },
+    {
+      "name": "Church of Saints Constantine & Elena",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 41.993433,
+      "lon": 21.430799,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-9e5323b3b1ffa6514ddf"
+    },
+    {
+      "name": "Saint Clement of Ohrid Cathedral",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 41.998469,
+      "lon": 21.426288,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-0c28edd23f6650706837"
+    },
+    {
+      "name": "Museum of Archaeology",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 41.996904,
+      "lon": 21.434472,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "price": "300 denars (general); 150 denars (students)",
+      "url": "http://amm.org.mk/",
+      "id": "north-macedonia-007ac544b5d1d16ea876"
+    },
+    {
+      "name": "Museum of the Macedonian Struggle",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 41.998112,
+      "lon": 21.43301,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "price": "300 denars",
+      "url": "http://mmb.org.mk/",
+      "id": "north-macedonia-0f294e89e2e05eba3803"
+    },
+    {
+      "name": "Holocaust Memorial Centre for the Jews of Macedonia",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 41.998498,
+      "lon": 21.433439,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-a3e926c4d46fae5bcb93"
+    },
+    {
+      "name": "Mother Teresa Memorial House",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 41.993827,
+      "lon": 21.430809,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "Macedonia Str. No. 9",
+      "price": "Free",
+      "url": "http://memorialhouseofmotherteresa.com/en/",
+      "id": "north-macedonia-3c43ba1e7934169ff810"
+    },
+    {
+      "name": "Old Railway Station – Skopje City Museum",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 41.991043,
+      "lon": 21.429005,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "url": "http://www.skopje.gov.mk/DesktopDefault.aspx?tabindex=0&tabid=49",
+      "id": "north-macedonia-423b9d780269e058d8aa"
+    },
+    {
+      "name": "Skopje Walks",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "url": "http://www.skopjewalks.com/",
+      "id": "north-macedonia-1168f036ca4b500ba0e9"
+    },
+    {
+      "name": "Beautiful City",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 41.99411,
+      "lon": 21.43402,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-8993b6811589e18064db"
+    },
+    {
+      "name": "City Park",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 42.0047,
+      "lon": 21.4225,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-c01493230f8cfca5ff8d"
+    },
+    {
+      "name": "Youth Theatre",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 41.994612,
+      "lon": 21.431118,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "Mitropolit Teodosij Gologanov 4",
+      "id": "north-macedonia-6c6fa6d6df150d63d397"
+    },
+    {
+      "name": "Macedonian Philharmonic",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 41.997495,
+      "lon": 21.435813,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "url": "http://filharmonija.mk/",
+      "id": "north-macedonia-b2ab68cccaba42c49ce6"
+    },
+    {
+      "name": "Philip II Arena",
+      "kind": "do",
+      "locality": "Skopje/Centar",
+      "lat": 42.005733,
+      "lon": 21.425592,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-229e0d9c815abe2f7b19"
+    },
+    {
+      "name": "Fast Food",
+      "kind": "eat",
+      "locality": "Skopje/Centar",
+      "lat": 41.99428,
+      "lon": 21.43509,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "price": "Hamburger 100–150 den, with fries 170 den",
+      "id": "north-macedonia-ab4cab586ce433644ee2"
+    },
+    {
+      "name": "Pelister",
+      "kind": "eat",
+      "locality": "Skopje/Centar",
+      "lat": 41.995306,
+      "lon": 21.431457,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "price": "300 - 1000 MKD (Jan 2023)",
+      "url": "http://pelisterhotel.com.mk/",
+      "id": "north-macedonia-5493bfaadedb9f2ac18b"
+    },
+    {
+      "name": "La Terrazza",
+      "kind": "eat",
+      "locality": "Skopje/Centar",
+      "lat": 41.995228,
+      "lon": 21.431748,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-3ce79e72d5218f64adf3"
+    },
+    {
+      "name": "Chinese Restaurant Peking Garden",
+      "kind": "eat",
+      "locality": "Skopje/Centar",
+      "lat": 41.995806,
+      "lon": 21.430217,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "Максим Горки 3",
+      "url": "http://pekinggarden.mk/",
+      "id": "north-macedonia-ebb60b90946ef1a2c610"
+    },
+    {
+      "name": "Vegan 365 Kitchen",
+      "kind": "eat",
+      "locality": "Skopje/Centar",
+      "lat": 41.99925,
+      "lon": 21.42631,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "url": "https://vegan365kitchen.com/",
+      "id": "north-macedonia-d59bd7a0563b66711b5c"
+    },
+    {
+      "name": "Gino Italian Restaurant",
+      "kind": "eat",
+      "locality": "Skopje/Centar",
+      "lat": 41.9943,
+      "lon": 21.4341,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "GTC floor 1 loc. 205",
+      "id": "north-macedonia-2101dd04664965eddd5b"
+    },
+    {
+      "name": "Dva Elena",
+      "kind": "eat",
+      "locality": "Skopje/Centar",
+      "lat": 41.9929913,
+      "lon": 21.4078997,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "Str. Zagrebska 31",
+      "id": "north-macedonia-88b2df22650790939ce3"
+    },
+    {
+      "name": "Bistro Kej",
+      "kind": "eat",
+      "locality": "Skopje/Centar",
+      "lat": 41.9945696,
+      "lon": 21.441433,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "Kej 13 Noemvri no.34",
+      "id": "north-macedonia-7b8253a0081e6af45412"
+    },
+    {
+      "name": "Uranija",
+      "kind": "eat",
+      "locality": "Skopje/Centar",
+      "lat": 42.0061499,
+      "lon": 21.4219491,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "City Park",
+      "url": "https://m.facebook.com/profile.php?id=1290037667809648&__tn__=C-R",
+      "id": "north-macedonia-7c3ea5ae08e56009220a"
+    },
+    {
+      "name": "Plaza de Toros",
+      "kind": "eat",
+      "locality": "Skopje/Centar",
+      "lat": 41.9952259,
+      "lon": 21.4352304,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "Kej 13 Noemvr",
+      "id": "north-macedonia-e55566b9cdddf5ba97f1"
+    },
+    {
+      "name": "Skopski Merak",
+      "kind": "eat",
+      "locality": "Skopje/Centar",
+      "lat": 42.0010758,
+      "lon": 21.4201222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "Ul., Debarca 51",
+      "url": "http://skopskimerak.mk/",
+      "id": "north-macedonia-73fc6aa9af5512f805aa"
+    },
+    {
+      "name": "Idadija",
+      "kind": "eat",
+      "locality": "Skopje/Centar",
+      "lat": 42.00147,
+      "lon": 21.420986,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-325c220c5cbf8276adb4"
+    },
+    {
+      "name": "Gurmet",
+      "kind": "eat",
+      "locality": "Skopje/Centar",
+      "lat": 42.001215,
+      "lon": 21.420911,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-972d321808b1ed684efc"
+    },
+    {
+      "name": "Frutti Di Mare",
+      "kind": "eat",
+      "locality": "Skopje/Centar",
+      "lat": 42.001089,
+      "lon": 21.420538,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "Rade Konchar 5",
+      "id": "north-macedonia-c5b49786d9344aef426a"
+    },
+    {
+      "name": "DM - Debar Maalo",
+      "kind": "eat",
+      "locality": "Skopje/Centar",
+      "lat": 42.003495,
+      "lon": 21.416778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-baae77383df270aed406"
+    },
+    {
+      "name": "Coffeeshop Company",
+      "kind": "eat",
+      "locality": "Skopje/Centar",
+      "lat": 41.9938338,
+      "lon": 21.4355838,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-e13c901351ab32b7b2cb"
+    },
+    {
+      "name": "Izzi Caffe",
+      "kind": "eat",
+      "locality": "Skopje/Centar",
+      "lat": 41.9928019,
+      "lon": 21.4191744,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "Katna Garaza Zebra - Vasil Gjorgov BB",
+      "url": "http://www.facebook.com/apps/application.php?id=177758399870#!/pages/IzzI-Caffe/170754208291",
+      "id": "north-macedonia-337ec459ac930c68a0f0"
+    },
+    {
+      "name": "Intermezzo Music Bar",
+      "kind": "eat",
+      "locality": "Skopje/Centar",
+      "lat": 41.9948332,
+      "lon": 21.4140685,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "Str. Mit. Teodosij Gologanov 65",
+      "id": "north-macedonia-1a1d1701146255d520d5"
+    },
+    {
+      "name": "Piazza Liberta",
+      "kind": "eat",
+      "locality": "Skopje/Centar",
+      "lat": 41.9955965,
+      "lon": 21.4261867,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "Str. Dimitrija Cupovski 24",
+      "id": "north-macedonia-be665d92c85bc8612a8e"
+    },
+    {
+      "name": "Nano Bar",
+      "kind": "eat",
+      "locality": "Skopje/Centar",
+      "lat": 42.0003807,
+      "lon": 21.4210576,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "Antonie Grubishich 2",
+      "url": "https://m.facebook.com/nanovskibar/",
+      "id": "north-macedonia-8debc753d29e425e1ade"
+    },
+    {
+      "name": "Rock bar „Old School“",
+      "kind": "eat",
+      "locality": "Skopje/Centar",
+      "lat": 41.9932,
+      "lon": 21.43874,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-0f0c0e67c17200e0849c"
+    },
+    {
+      "name": "Macedonian Pub DZE",
+      "kind": "eat",
+      "locality": "Skopje/Centar",
+      "lat": 41.994879,
+      "lon": 21.434667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-9d3cc1c9c495124a820c"
+    },
+    {
+      "name": "Irski Pab Sv Patrick",
+      "kind": "eat",
+      "locality": "Skopje/Centar",
+      "lat": 41.995219,
+      "lon": 21.43579,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "KEJ 13 Noemvri, Gradski Trgovski",
+      "price": "Free",
+      "url": "http://www.irishpub.com.mk/",
+      "id": "north-macedonia-d3f6592461b78187b638"
+    },
+    {
+      "name": "Nightclub Marakana",
+      "kind": "eat",
+      "locality": "Skopje/Centar",
+      "lat": 42.0062162,
+      "lon": 21.4228004,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "City park",
+      "id": "north-macedonia-fe711b02be312202e8d8"
+    },
+    {
+      "name": "Van Gogh Bar",
+      "kind": "eat",
+      "locality": "Skopje/Centar",
+      "lat": 42.00217,
+      "lon": 21.4217298,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-e50969671bcc89079bfe"
+    },
+    {
+      "name": "Bar Pogon",
+      "kind": "eat",
+      "locality": "Skopje/Centar",
+      "lat": 41.9964,
+      "lon": 21.39808,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-5b42d07c676d17ca57df"
+    },
+    {
+      "name": "Rock Bar Krug",
+      "kind": "eat",
+      "locality": "Skopje/Centar",
+      "lat": 41.98484,
+      "lon": 21.46604,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "2-DP14 TC Biser, Boulevard Jane Sandanski Br",
+      "id": "north-macedonia-5cbb3a31df798b9f46b1"
+    },
+    {
+      "name": "Hostel Central",
+      "kind": "stay",
+      "locality": "Skopje/Centar",
+      "lat": 41.9919487,
+      "lon": 21.4418297,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "Prolet 25",
+      "id": "north-macedonia-0cbe50dc0834b2470128"
+    },
+    {
+      "name": "Get Inn Hostel",
+      "kind": "stay",
+      "locality": "Skopje/Centar",
+      "lat": 41.9900919,
+      "lon": 21.4366838,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "st. Stiv Naumov 102g",
+      "price": "€10 for dorms",
+      "url": "http://getinnskopjehostel.com/",
+      "id": "north-macedonia-11dac8eab452c5c9f046"
+    },
+    {
+      "name": "Shanti Hostel",
+      "kind": "stay",
+      "locality": "Skopje/Centar",
+      "lat": 41.99442,
+      "lon": 21.44427,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "Rade Jovcevski Korcagin 11",
+      "price": "€8-10",
+      "url": "http://www.shantihostel.com/",
+      "id": "north-macedonia-543e124b60c253393ee9"
+    },
+    {
+      "name": "Hotel Square",
+      "kind": "stay",
+      "locality": "Skopje/Centar",
+      "lat": 41.9954883,
+      "lon": 21.4300879,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "Nicola Vapcaov 2 6.floor",
+      "price": "€45",
+      "url": "https://m.facebook.com/hotelsquare/",
+      "id": "north-macedonia-0050fb4b0a9f32e53c2a"
+    },
+    {
+      "name": "Holiday Inn Skopje",
+      "kind": "stay",
+      "locality": "Skopje/Centar",
+      "lat": 41.9946,
+      "lon": 21.4364,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "Vasil Agilarski 2",
+      "url": "http://www.holidayinn.com/hotels/us/en/skpmp/hoteldetail",
+      "id": "north-macedonia-6d118de6ec3e6429ffdc"
+    },
+    {
+      "name": "Dolce International",
+      "kind": "stay",
+      "locality": "Skopje/Centar",
+      "lat": 42.000882,
+      "lon": 21.4149982,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "Partizanska br. 48 (ул. Партизанска 48)",
+      "url": "https://m.facebook.com/hoteldolceinternational/",
+      "id": "north-macedonia-ba6907e25e26858c6f2c"
+    },
+    {
+      "name": "Best Western Skopje",
+      "kind": "stay",
+      "locality": "Skopje/Centar",
+      "lat": 41.993647,
+      "lon": 21.430166,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "Gjuro Strugar Street 11",
+      "url": "https://www.bestwestern.com/en_US/book/skopje/hotel-rooms/best-western-hotel-turist/propertyCode.89900.html",
+      "id": "north-macedonia-21897962bd7ef680a651"
+    },
+    {
+      "name": "Hotel ibis Skopje City Center",
+      "kind": "stay",
+      "locality": "Skopje/Centar",
+      "lat": 41.997594,
+      "lon": 21.42949,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "Orce Nikolov Br 55",
+      "id": "north-macedonia-1cad90647779c6d13e2c"
+    },
+    {
+      "name": "Hotel Stone Bridge",
+      "kind": "stay",
+      "locality": "Skopje/Centar",
+      "lat": 41.9976688,
+      "lon": 21.4346024,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "Kej Dimitar Vlahov no.1",
+      "url": "http://www.stonebridge-hotel.com/",
+      "id": "north-macedonia-c3a0f757d00005860ab9"
+    },
+    {
+      "name": "Skopje Marriott Hotel",
+      "kind": "stay",
+      "locality": "Skopje/Centar",
+      "lat": 41.996083,
+      "lon": 21.430685,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "Plostad Makedonija 7, Skopje 1000",
+      "url": "https://www.marriott.com/hotels/travel/skpmc-skopje-marriott-hotel/",
+      "id": "north-macedonia-785470a9aa56ac5c3a9e"
+    },
+    {
+      "name": "Hotel Ambassador",
+      "kind": "stay",
+      "locality": "Skopje/Centar",
+      "lat": 41.999641,
+      "lon": 21.424607,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "address": "Pirinska 38",
+      "url": "https://www.hotelambasador-sk.com.mk/",
+      "id": "north-macedonia-c607b41f0b303a23ad8e"
+    },
+    {
+      "name": "Skopje/Centar",
+      "kind": "area",
+      "locality": "Skopje/Centar",
+      "lat": 41.9973,
+      "lon": 21.4304,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FCentar",
+      "id": "north-macedonia-05cff49ac7edac49ffde"
+    },
+    {
+      "name": "Scupi",
+      "kind": "do",
+      "locality": "Skopje/Karpoš",
+      "lat": 42.016667,
+      "lon": 21.391944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FKarpo%C5%A1",
+      "id": "north-macedonia-7b95ecdb4028eb6c0844"
+    },
+    {
+      "name": "Skopje Zoo",
+      "kind": "do",
+      "locality": "Skopje/Karpoš",
+      "lat": 42.007078,
+      "lon": 21.41687,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FKarpo%C5%A1",
+      "url": "http://www.zooskopje.com.mk/",
+      "id": "north-macedonia-ceaab7bc01e32217c096"
+    },
+    {
+      "name": "Macedonian Museum of Natural History",
+      "kind": "do",
+      "locality": "Skopje/Karpoš",
+      "lat": 42.005606,
+      "lon": 21.417482,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FKarpo%C5%A1",
+      "address": "Bull. Ilinden 86",
+      "url": "http://musmacscinat.mk/",
+      "id": "north-macedonia-bbdd62660e6bddc5eee8"
+    },
+    {
+      "name": "Hıfzı Pasha Lodging",
+      "kind": "do",
+      "locality": "Skopje/Karpoš",
+      "lat": 42.028611,
+      "lon": 21.371944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FKarpo%C5%A1",
+      "address": "village of Bardovci",
+      "id": "north-macedonia-d79ebc94e8baf011e765"
+    },
+    {
+      "name": "Historic State Archive of Skopje",
+      "kind": "do",
+      "locality": "Skopje/Karpoš",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FKarpo%C5%A1",
+      "id": "north-macedonia-9b0a8b77f206eb6a2f4d"
+    },
+    {
+      "name": "Mount Vodno",
+      "kind": "do",
+      "locality": "Skopje/Karpoš",
+      "lat": 41.965278,
+      "lon": 21.394444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FKarpo%C5%A1",
+      "id": "north-macedonia-c845953b1c439ea29b89"
+    },
+    {
+      "name": "Millennium Cross",
+      "kind": "do",
+      "locality": "Skopje/Karpoš",
+      "lat": 41.965,
+      "lon": 21.394167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FKarpo%C5%A1",
+      "id": "north-macedonia-bf1f6a2b164095199243"
+    },
+    {
+      "name": "Millennium Cross Cable Car",
+      "kind": "do",
+      "locality": "Skopje/Karpoš",
+      "lat": 41.965098,
+      "lon": 21.394549,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FKarpo%C5%A1",
+      "price": "100 denars",
+      "id": "north-macedonia-7435f7ee184e55057913"
+    },
+    {
+      "name": "Church of Saint Pantaleon",
+      "kind": "do",
+      "locality": "Skopje/Karpoš",
+      "lat": 41.977,
+      "lon": 21.374,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FKarpo%C5%A1",
+      "id": "north-macedonia-962eda76a0b316b92685"
+    },
+    {
+      "name": "Macedonian Village",
+      "kind": "do",
+      "locality": "Skopje/Karpoš",
+      "lat": 41.975777,
+      "lon": 21.374192,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FKarpo%C5%A1",
+      "id": "north-macedonia-4f25b5a4578a79cb5077"
+    },
+    {
+      "name": "Telecommunication Tower",
+      "kind": "do",
+      "locality": "Skopje/Karpoš",
+      "lat": 41.965627,
+      "lon": 21.397886,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FKarpo%C5%A1",
+      "id": "north-macedonia-0201d0367538060c53f6"
+    },
+    {
+      "name": "Boris Trajkovski Sports Center",
+      "kind": "do",
+      "locality": "Skopje/Karpoš",
+      "lat": 42.009436,
+      "lon": 21.403868,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FKarpo%C5%A1",
+      "url": "http://www.salaboristrajkovski.gov.mk/",
+      "id": "north-macedonia-8f7c34b3dc9b11d72eec"
+    },
+    {
+      "name": "Cafe Li",
+      "kind": "eat",
+      "locality": "Skopje/Karpoš",
+      "lat": 41.997434,
+      "lon": 21.409351,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FKarpo%C5%A1",
+      "address": "Ankarska 23, Taftalidze",
+      "id": "north-macedonia-19b55338af791b49abcc"
+    },
+    {
+      "name": "Enriko Pizza",
+      "kind": "eat",
+      "locality": "Skopje/Karpoš",
+      "lat": 42.0037,
+      "lon": 21.39997,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FKarpo%C5%A1",
+      "address": "Leptokarija Shopping Center, T.C. Leptokarija, Blvd. Partizanski Odredi",
+      "id": "north-macedonia-95e7f735985cdbdf3902"
+    },
+    {
+      "name": "Martini",
+      "kind": "eat",
+      "locality": "Skopje/Karpoš",
+      "lat": 42.0032,
+      "lon": 21.4,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FKarpo%C5%A1",
+      "address": "Boul. Partizanski Odredi, TC Leptokarija sec.5, lok.2",
+      "price": "Waffle + drink = 295 denars",
+      "id": "north-macedonia-a1fcf77138441639b979"
+    },
+    {
+      "name": "Restoran Aleksandrija 14",
+      "kind": "eat",
+      "locality": "Skopje/Karpoš",
+      "lat": 42.0018,
+      "lon": 21.3921,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FKarpo%C5%A1",
+      "address": "Londonska 6",
+      "id": "north-macedonia-7180312cf8ecfdb287f6"
+    },
+    {
+      "name": "Balkanika",
+      "kind": "eat",
+      "locality": "Skopje/Karpoš",
+      "lat": 42.0095809,
+      "lon": 21.4098423,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FKarpo%C5%A1",
+      "address": "Oktomvriska revolucija 24",
+      "id": "north-macedonia-b95a36b67061c6d971c8"
+    },
+    {
+      "name": "VOX Night Club",
+      "kind": "eat",
+      "locality": "Skopje/Karpoš",
+      "lat": 41.995918,
+      "lon": 21.409156,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FKarpo%C5%A1",
+      "id": "north-macedonia-c8162fd771b66c980cbc"
+    },
+    {
+      "name": "Havana",
+      "kind": "eat",
+      "locality": "Skopje/Karpoš",
+      "lat": 42.0074,
+      "lon": 21.42112,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FKarpo%C5%A1",
+      "id": "north-macedonia-fea1e6bc78896e78e612"
+    },
+    {
+      "name": "Marakana",
+      "kind": "eat",
+      "locality": "Skopje/Karpoš",
+      "lat": 42.00645,
+      "lon": 21.42295,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FKarpo%C5%A1",
+      "address": "City park",
+      "id": "north-macedonia-6748fd6ec78767ca3641"
+    },
+    {
+      "name": "Minus 1",
+      "kind": "eat",
+      "locality": "Skopje/Karpoš",
+      "lat": 42.006419,
+      "lon": 21.406157,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FKarpo%C5%A1",
+      "address": "Branislav Nushikj street",
+      "id": "north-macedonia-93b52047679ed8644859"
+    },
+    {
+      "name": "Hotel Kapistec",
+      "kind": "stay",
+      "locality": "Skopje/Karpoš",
+      "lat": 41.9942706,
+      "lon": 21.4070555,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FKarpo%C5%A1",
+      "address": "Mile Pop Jordanov 3 St.",
+      "price": "€34/38",
+      "url": "https://m.facebook.com/pages/category/Hotel/Hotel-Kapistec-Skopje-193657237333961/",
+      "id": "north-macedonia-0dc05124b5e16a352666"
+    },
+    {
+      "name": "Aleksander Palace",
+      "kind": "stay",
+      "locality": "Skopje/Karpoš",
+      "lat": 42.010899,
+      "lon": 21.405638,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FKarpo%C5%A1",
+      "address": "Bul. Oktomvriska Revolucija br.15",
+      "url": "https://www.aleksandarpalace.com.mk/",
+      "id": "north-macedonia-00e4da36e2a79a643833"
+    },
+    {
+      "name": "Skopje/Karpoš",
+      "kind": "area",
+      "locality": "Skopje/Karpoš",
+      "lat": 41.993492,
+      "lon": 21.384104,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FKarpo%C5%A1",
+      "id": "north-macedonia-aa47b0490c53c6f0b9cc"
+    },
+    {
+      "name": "Cevahir Sky City",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.979789,
+      "lon": 21.465959,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "Boulevard Serbia 31A",
+      "url": "http://www.cevahirskycity.mk/news.html",
+      "id": "north-macedonia-cf3315b9d09e045a29ba"
+    },
+    {
+      "name": "Skopje Aqueduct",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.022388,
+      "lon": 21.418843,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "id": "north-macedonia-f5be0ccc928fb7b070b8"
+    },
+    {
+      "name": "Church of Saint Nicholas",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.097583,
+      "lon": 21.466389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "village of Ljuboten",
+      "id": "north-macedonia-477dc1bd940cb302b6bf"
+    },
+    {
+      "name": "Church of Saint George",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.073056,
+      "lon": 21.447778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "village of Radišani",
+      "id": "north-macedonia-60b49cc556a6bae3b0eb"
+    },
+    {
+      "name": "Church of Saint Nicholas",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.071944,
+      "lon": 21.448611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "village of Radišani",
+      "id": "north-macedonia-fccf2cca59f9c4686e87"
+    },
+    {
+      "name": "Church of Saint Nicholas",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.109611,
+      "lon": 21.453917,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "village of Ljubanci",
+      "id": "north-macedonia-26f2e58a1700878000cb"
+    },
+    {
+      "name": "Ljubanci Monastery",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.109722,
+      "lon": 21.469444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "village of Ljubanci",
+      "id": "north-macedonia-dd0be356fd68ab5899ba"
+    },
+    {
+      "name": "Kral Kızı Türbe",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.000833,
+      "lon": 21.451389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "id": "north-macedonia-12382d119f9a94537fac"
+    },
+    {
+      "name": "Tumba",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.001444,
+      "lon": 21.505667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "village of Madžari",
+      "id": "north-macedonia-f97cc3abb933424e2619"
+    },
+    {
+      "name": "Church of the 40 Martyrs",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.0375,
+      "lon": 21.494167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "village of Smilkovci",
+      "id": "north-macedonia-d1099e1202d3776ef772"
+    },
+    {
+      "name": "Church of the Ascension",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.085417,
+      "lon": 21.489111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "village of Raštak",
+      "id": "north-macedonia-84ba8e0fd2fe7970447d"
+    },
+    {
+      "name": "Church of the Ascension",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.055,
+      "lon": 21.510278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "village of Creševo",
+      "id": "north-macedonia-2c749f9be7fb04dacce2"
+    },
+    {
+      "name": "Kučkovo Monastery",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.068889,
+      "lon": 21.300278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "village of Kučkovo",
+      "id": "north-macedonia-3dd63e448789d7409ffa"
+    },
+    {
+      "name": "Church of the Holy Savior",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.9347,
+      "lon": 21.5178,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "village of Dračevo",
+      "id": "north-macedonia-92f4513bb7b9fe63be61"
+    },
+    {
+      "name": "Hussein Shah Mosque",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.001694,
+      "lon": 21.331028,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "village of Saraj",
+      "id": "north-macedonia-85d93c34066c81bed614"
+    },
+    {
+      "name": "Dona Duka Cave",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.026583,
+      "lon": 21.238361,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "village of Rašče",
+      "id": "north-macedonia-c249fd171549429aa122"
+    },
+    {
+      "name": "Brazda Archaeological Park",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.076778,
+      "lon": 21.398667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "url": "http://arheoparkbrazda.mk/",
+      "id": "north-macedonia-087933a5c19ad8f3ea01"
+    },
+    {
+      "name": "Kučevište Monastery",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.132778,
+      "lon": 21.414167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "id": "north-macedonia-ebebc421675e36767fc8"
+    },
+    {
+      "name": "Church of the Holy Saviour",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.112222,
+      "lon": 21.416944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "id": "north-macedonia-8ecbe57d8183d9179af5"
+    },
+    {
+      "name": "Monastery of Saint Nicetas",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.107572,
+      "lon": 21.379999,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "id": "north-macedonia-10fa4bb2a1bd2862132d"
+    },
+    {
+      "name": "Holy Archangels Michael and Gabriel Monastery",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "Kučevište village",
+      "id": "north-macedonia-29c579ca5ace9f6432c1"
+    },
+    {
+      "name": "Marko's Towers",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.84218,
+      "lon": 21.6976,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "id": "north-macedonia-04be6f218216245ec92e"
+    },
+    {
+      "name": "Monastery of the Virgin Mary",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.829167,
+      "lon": 21.686389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "village of Kožle, 34 km southeast of central Skopje",
+      "id": "north-macedonia-6f2be3ba4406b79d10b5"
+    },
+    {
+      "name": "Baderiana",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.873056,
+      "lon": 21.678889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "village of Badar, 31 km southeast of central Skopje",
+      "id": "north-macedonia-905d0a53d361f94886ab"
+    },
+    {
+      "name": "Church of St George the Victorious",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.871667,
+      "lon": 21.668056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "village of Blace, 30 km southeast of central Skopje",
+      "id": "north-macedonia-45a29219f46500f67af6"
+    },
+    {
+      "name": "Church of the Holy Savior",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.926667,
+      "lon": 21.403889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "village of Dobri Dol, 11 km south of central Skopje",
+      "id": "north-macedonia-0aa36627f66bafa81e6f"
+    },
+    {
+      "name": "Svetla Cave",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.888056,
+      "lon": 21.278056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "village of Nova Breznica, 26 km southwest of central Skopje",
+      "id": "north-macedonia-06f33530929ebc10cf7e"
+    },
+    {
+      "name": "Christian's Cave",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.894722,
+      "lon": 21.330556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "village of Jabolci, 27 km southwest of central Skopje",
+      "id": "north-macedonia-b292119da670d4e61138"
+    },
+    {
+      "name": "Marko's Monastery",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.899167,
+      "lon": 21.409444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "id": "north-macedonia-dd68bdce6e7ff6e78c40"
+    },
+    {
+      "name": "Church of Saint Nicholas Nikolimuki",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.896111,
+      "lon": 21.403889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "id": "north-macedonia-dbeee9b7d647980d6fb2"
+    },
+    {
+      "name": "Tauresium",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.898056,
+      "lon": 21.611389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "id": "north-macedonia-008d911b01f765eb42ae"
+    },
+    {
+      "name": "Church of Saint George",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.851555,
+      "lon": 21.580392,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "village of Gradovci, 30 km southeast of central Skopje",
+      "id": "north-macedonia-55b0cd7687d0aa203b24"
+    },
+    {
+      "name": "Walk the Vardar Quay",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "id": "north-macedonia-0d26601fdb2128e688d9"
+    },
+    {
+      "name": "Katlanovo Baths",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.901667,
+      "lon": 21.696667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "village of Katlanovo, 28 km southeast of central Skopje",
+      "id": "north-macedonia-916ff4357e532f88c209"
+    },
+    {
+      "name": "Kadina Reka Hunting Site",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.837,
+      "lon": 21.6329,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "Zelenikovo",
+      "id": "north-macedonia-68234a615c023d0661b2"
+    },
+    {
+      "name": "Explore Skopska Crna Gora",
+      "kind": "do",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.19,
+      "lon": 21.44,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "id": "north-macedonia-a500bf3d2e37e705fa54"
+    },
+    {
+      "name": "Hunter's Lodge Kamnik",
+      "kind": "eat",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.0077,
+      "lon": 21.4872,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "Kamnik b.b.",
+      "url": "https://chateaukamnik.com/",
+      "id": "north-macedonia-d417e94f9a861e8ada30"
+    },
+    {
+      "name": "Ethno Guest House \"Villa Vesnica\"",
+      "kind": "eat",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.086125,
+      "lon": 21.411376,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "s.Cucer Sandevo",
+      "id": "north-macedonia-c34e3b50a2cfbf9f4967"
+    },
+    {
+      "name": "Restaurant Kvin",
+      "kind": "eat",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.113998,
+      "lon": 21.457368,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "s.Ljubanci",
+      "id": "north-macedonia-e6465f481c8af54b042b"
+    },
+    {
+      "name": "Ethno Restaurant Ilinden House",
+      "kind": "eat",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.997333,
+      "lon": 21.573672,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "Ilinden",
+      "id": "north-macedonia-45355ee9f50d75dadfa5"
+    },
+    {
+      "name": "Pishina Riviera",
+      "kind": "eat",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.017553,
+      "lon": 21.290502,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "s.Dolno Svilare",
+      "id": "north-macedonia-95ccc7e16f52e32f4774"
+    },
+    {
+      "name": "Fafa Restaurant",
+      "kind": "eat",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.01471,
+      "lon": 21.296879,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "s.Kondovo",
+      "id": "north-macedonia-d17975ff0321dfeb17ef"
+    },
+    {
+      "name": "Restaurant Life",
+      "kind": "eat",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.00362,
+      "lon": 21.331365,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "str. 2 number 6, 2nd floor, Saraj",
+      "id": "north-macedonia-b93dbdb85c3f27cb411f"
+    },
+    {
+      "name": "Roulette Restaurant & Club",
+      "kind": "eat",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.9893,
+      "lon": 21.4466,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "Simeon Kavrakirov no. 9a",
+      "id": "north-macedonia-37d43aef0daaf8009afc"
+    },
+    {
+      "name": "Ragusa 919",
+      "kind": "eat",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.9784,
+      "lon": 21.4821,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "Todor Changov 19",
+      "url": "https://ragusa919.com/",
+      "id": "north-macedonia-ff6ae9aaaa6e5fbc39da"
+    },
+    {
+      "name": "Hotel Russia",
+      "kind": "stay",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.993003,
+      "lon": 21.465577,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "url": "http://hotelrussia.mk/",
+      "id": "north-macedonia-c6e3938266b40704a60b"
+    },
+    {
+      "name": "Hotel New Star",
+      "kind": "stay",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.042129,
+      "lon": 21.411597,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "Ul 2 Br. 160 Vizbegovo",
+      "url": "http://newstar.com.mk/",
+      "id": "north-macedonia-cb6b9c328158b48a7d3d"
+    },
+    {
+      "name": "Hostel Twins V.V.T",
+      "kind": "stay",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.908265,
+      "lon": 21.594705,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "Ul. 3 Br.47 Selo Oreshani",
+      "id": "north-macedonia-09b5c41e49b3d35b541a"
+    },
+    {
+      "name": "Restaurant and Villa Reka",
+      "kind": "stay",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.799869,
+      "lon": 21.318049,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "s.Patishka Reka",
+      "id": "north-macedonia-efbaff882edd821c1f1b"
+    },
+    {
+      "name": "Oreov Lad",
+      "kind": "stay",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.00366,
+      "lon": 21.332364,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "Saraj",
+      "url": "http://oreovlad.com.mk/",
+      "id": "north-macedonia-ef6f1c7208c91baa3411"
+    },
+    {
+      "name": "Terasa Laguna",
+      "kind": "stay",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.954257,
+      "lon": 21.581785,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "s.Drma",
+      "id": "north-macedonia-5921cc6102d267855c1b"
+    },
+    {
+      "name": "Etno Kujna Vila Elena",
+      "kind": "stay",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.138204,
+      "lon": 21.444823,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "s. Brodec",
+      "id": "north-macedonia-7d513414d7e8c667b488"
+    },
+    {
+      "name": "Riverside Garden",
+      "kind": "stay",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.995579,
+      "lon": 21.327875,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "s. Grcev/ Saraj",
+      "id": "north-macedonia-162a900a5e549388d2c6"
+    },
+    {
+      "name": "Staro Bure",
+      "kind": "stay",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.059868,
+      "lon": 21.323774,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "s.Kuchkovo",
+      "id": "north-macedonia-6f6ed9a847ad8f70ce27"
+    },
+    {
+      "name": "Hotel Gold Gmbh Dooel",
+      "kind": "stay",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.999408,
+      "lon": 21.324745,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "Saraj",
+      "id": "north-macedonia-744f00db6250ee3c21e5"
+    },
+    {
+      "name": "Jovanov Residence",
+      "kind": "stay",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.968026,
+      "lon": 21.305916,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "village of Dolna Makta",
+      "id": "north-macedonia-0115a27d95202fa795af"
+    },
+    {
+      "name": "Hotel Canyon Matka",
+      "kind": "stay",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.950181,
+      "lon": 21.299109,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "Str.1 nn Village Dolna Matka",
+      "url": "http://www.canyonmatka.mk/",
+      "id": "north-macedonia-95452762198861cfb34f"
+    },
+    {
+      "name": "Hotel Le Village",
+      "kind": "stay",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.980208,
+      "lon": 21.528156,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "village of Trubarevo",
+      "id": "north-macedonia-48b383f57dd5cf885119"
+    },
+    {
+      "name": "Motel livija",
+      "kind": "stay",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.943062,
+      "lon": 21.605342,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "village of Petrovec",
+      "id": "north-macedonia-160ffa94caa94edc5bfa"
+    },
+    {
+      "name": "Villa BIs",
+      "kind": "stay",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 41.911315,
+      "lon": 21.425162,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "address": "village of Varvara",
+      "id": "north-macedonia-b1294ab8548d998e1a33"
+    },
+    {
+      "name": "Skopje/Outer Skopje",
+      "kind": "area",
+      "locality": "Skopje/Outer Skopje",
+      "lat": 42.0029,
+      "lon": 21.4171,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FOuter_Skopje",
+      "id": "north-macedonia-86df1ff4c0b7ae91d3f0"
+    },
+    {
+      "name": "Matka Canyon",
+      "kind": "do",
+      "locality": "Skopje/Matka Canyon",
+      "lat": 41.950724,
+      "lon": 21.299731,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FMatka_Canyon",
+      "id": "north-macedonia-1ca317374884ebe3ef19"
+    },
+    {
+      "name": "Saint Andrew's Monastery",
+      "kind": "do",
+      "locality": "Skopje/Matka Canyon",
+      "lat": 41.950541,
+      "lon": 21.299317,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FMatka_Canyon",
+      "id": "north-macedonia-a3f9c59c154e81414258"
+    },
+    {
+      "name": "Šiševo Monastery",
+      "kind": "do",
+      "locality": "Skopje/Matka Canyon",
+      "lat": 41.952018,
+      "lon": 21.303927,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FMatka_Canyon",
+      "id": "north-macedonia-ceca0d940f21847b9b0f"
+    },
+    {
+      "name": "Church of Saint Nedela",
+      "kind": "do",
+      "locality": "Skopje/Matka Canyon",
+      "lat": 41.94966,
+      "lon": 21.291381,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FMatka_Canyon",
+      "id": "north-macedonia-5d5fd322ef9070bd6664"
+    },
+    {
+      "name": "Church of the Holy Saviour",
+      "kind": "do",
+      "locality": "Skopje/Matka Canyon",
+      "lat": 41.954182,
+      "lon": 21.289144,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FMatka_Canyon",
+      "id": "north-macedonia-96265f79b662e9ab2897"
+    },
+    {
+      "name": "Matka Monastery",
+      "kind": "do",
+      "locality": "Skopje/Matka Canyon",
+      "lat": 41.961829,
+      "lon": 21.296066,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FMatka_Canyon",
+      "id": "north-macedonia-cced77099670a45af26a"
+    },
+    {
+      "name": "Church of Saint Athanasius",
+      "kind": "do",
+      "locality": "Skopje/Matka Canyon",
+      "lat": 41.971081,
+      "lon": 21.310104,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FMatka_Canyon",
+      "id": "north-macedonia-da38e1de3c24b17eceb4"
+    },
+    {
+      "name": "Vrelo Cave",
+      "kind": "do",
+      "locality": "Skopje/Matka Canyon",
+      "lat": 41.933889,
+      "lon": 21.295833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FMatka_Canyon",
+      "id": "north-macedonia-b66796b32b4715d8ad44"
+    },
+    {
+      "name": "Skopje/Matka Canyon",
+      "kind": "area",
+      "locality": "Skopje/Matka Canyon",
+      "lat": 41.950289,
+      "lon": 21.299416,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Skopje%2FMatka_Canyon",
+      "id": "north-macedonia-785ff1950d40c76c9710"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 7 distinct public Wikivoyage source pages; attempted 7 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

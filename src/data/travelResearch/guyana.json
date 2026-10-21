@@ -1,0 +1,661 @@
+{
+  "sources": [
+    {
+      "title": "Guyana",
+      "url": "https://en.wikivoyage.org/wiki/Guyana",
+      "checkedAt": "2026-10-21T08:15:00.356Z"
+    },
+    {
+      "title": "Georgetown (Guyana)",
+      "url": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "checkedAt": "2026-10-21T08:15:04.554Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Georgetown",
+      "kind": "area",
+      "locality": "Guyana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guyana",
+      "id": "guyana-36f5ea269d8ee448edfe"
+    },
+    {
+      "name": "Bartica",
+      "kind": "area",
+      "locality": "Guyana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guyana",
+      "id": "guyana-ebec985d934744558f8a"
+    },
+    {
+      "name": "Charity",
+      "kind": "area",
+      "locality": "Guyana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guyana",
+      "id": "guyana-aaf1a23a806bae94661a"
+    },
+    {
+      "name": "Mabaruma",
+      "kind": "area",
+      "locality": "Guyana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guyana",
+      "id": "guyana-e8e623044cdca65d7ef8"
+    },
+    {
+      "name": "New Amsterdam",
+      "kind": "area",
+      "locality": "Guyana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guyana",
+      "id": "guyana-b6e5b6f9def95c3749e5"
+    },
+    {
+      "name": "Lethem",
+      "kind": "area",
+      "locality": "Guyana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guyana",
+      "id": "guyana-2267984d380522743359"
+    },
+    {
+      "name": "Linden",
+      "kind": "area",
+      "locality": "Guyana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guyana",
+      "id": "guyana-478c83377fc1e76099f7"
+    },
+    {
+      "name": "Parika",
+      "kind": "area",
+      "locality": "Guyana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guyana",
+      "id": "guyana-53611254373b9bec457a"
+    },
+    {
+      "name": "Paramakatoi",
+      "kind": "area",
+      "locality": "Guyana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guyana",
+      "id": "guyana-46fd897f9d2ae70b2ede"
+    },
+    {
+      "name": "Port Kaituma",
+      "kind": "area",
+      "locality": "Guyana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guyana",
+      "id": "guyana-d81bbf54cf175edc7634"
+    },
+    {
+      "name": "Kaieteur Falls",
+      "kind": "do",
+      "locality": "Guyana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guyana",
+      "price": "US$200-300",
+      "id": "guyana-54436004686da4c25b5f"
+    },
+    {
+      "name": "Orinduik Falls",
+      "kind": "do",
+      "locality": "Guyana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guyana",
+      "id": "guyana-044bc6884a10481b1af8"
+    },
+    {
+      "name": "Mashramani",
+      "kind": "do",
+      "locality": "Guyana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guyana",
+      "id": "guyana-52ffa11deec24ab8a688"
+    },
+    {
+      "name": "Arrowpoint Nature Resort",
+      "kind": "do",
+      "locality": "Guyana",
+      "lat": 6.58306,
+      "lon": -58.36883,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guyana",
+      "url": "https://roraimaairways.com/tours/#arrowpointresort",
+      "id": "guyana-71210919146af904ec6c"
+    },
+    {
+      "name": "Regent Street",
+      "kind": "do",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.8103,
+      "lon": -58.1612,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "id": "guyana-f813521c3927582266ff"
+    },
+    {
+      "name": "National Museum of Guyana",
+      "kind": "do",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.8135,
+      "lon": -58.1658,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "On North Rd & Hinks St",
+      "price": "free",
+      "id": "guyana-519434238e100b5359f4"
+    },
+    {
+      "name": "Walter Roth Museum of Anthropology",
+      "kind": "do",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.8173,
+      "lon": -58.1638,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "61 Main St",
+      "price": "Free",
+      "url": "https://www.boisestate.edu/anthropology-archaeologyandanthropology/walter-roth-museum-of-anthropology/",
+      "id": "guyana-cf12206470353b29397b"
+    },
+    {
+      "name": "Castellani house",
+      "kind": "do",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.80593,
+      "lon": -58.14957,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "southwestern corner of the Botanical Gardens",
+      "id": "guyana-acb489a595719d632aaa"
+    },
+    {
+      "name": "Cheddi Jagan Research Center",
+      "kind": "do",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.82276,
+      "lon": -58.16242,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "id": "guyana-86353fbe060431a2f560"
+    },
+    {
+      "name": "Guyana Heritage Museum Demerara",
+      "kind": "do",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.81086,
+      "lon": -58.14588,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "id": "guyana-bc4c46b0f5f72ee7b8f3"
+    },
+    {
+      "name": "Botanical Gardens",
+      "kind": "do",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.8051,
+      "lon": -58.1415,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "price": "Free",
+      "id": "guyana-919f9fded05add3b802e"
+    },
+    {
+      "name": "Guyana Zoo",
+      "kind": "do",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.8075,
+      "lon": -58.1464,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "price": "G$200/adults, G$100/children",
+      "id": "guyana-4ab951b245517903d472"
+    },
+    {
+      "name": "National Park",
+      "kind": "do",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.821333,
+      "lon": -58.151944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "id": "guyana-e3cd616475da39f68452"
+    },
+    {
+      "name": "Promenade Gardens",
+      "kind": "do",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.81681,
+      "lon": -58.16162,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "Middle street",
+      "id": "guyana-ebdad0a70db012e7cbf5"
+    },
+    {
+      "name": "St George's Cathedral",
+      "kind": "do",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.8127,
+      "lon": -58.1637,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "id": "guyana-32a93dd4bc81c6595664"
+    },
+    {
+      "name": "Stabroek Market",
+      "kind": "do",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.80987,
+      "lon": -58.16782,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "id": "guyana-a736907a68a31850b4fa"
+    },
+    {
+      "name": "Parliament Building",
+      "kind": "do",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.80859,
+      "lon": -58.16667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "Hadfield St",
+      "id": "guyana-8716d1f71383c5f567ca"
+    },
+    {
+      "name": "Cathedral of the Immaculate Conception",
+      "kind": "do",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.80741,
+      "lon": -58.16202,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "id": "guyana-0598bf53b5630c367bd6"
+    },
+    {
+      "name": "Georgetown Lighthouse",
+      "kind": "do",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.82365,
+      "lon": -58.16426,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "id": "guyana-6632acffbb7980026429"
+    },
+    {
+      "name": "St. Andrew's Kirk",
+      "kind": "do",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.80932,
+      "lon": -58.16628,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "id": "guyana-569a7dce265af0340d86"
+    },
+    {
+      "name": "Parliament Building",
+      "kind": "do",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.80859,
+      "lon": -58.16666,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "id": "guyana-2e56068a919039ac6501"
+    },
+    {
+      "name": "Georgetown City Hall",
+      "kind": "do",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.81109,
+      "lon": -58.16496,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "id": "guyana-292924dc5c9213e58d94"
+    },
+    {
+      "name": "Independence Arch",
+      "kind": "do",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.80515,
+      "lon": -58.15173,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "id": "guyana-dca6cbfa94990d146d52"
+    },
+    {
+      "name": "Umana Yana",
+      "kind": "do",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.824583,
+      "lon": -58.1625,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "Water St.",
+      "id": "guyana-42982fb420ea57057f5a"
+    },
+    {
+      "name": "1763 Monument",
+      "kind": "do",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.80487,
+      "lon": -58.15063,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "id": "guyana-1aa4f46290a49ef3ff11"
+    },
+    {
+      "name": "Non-Aligned Monument",
+      "kind": "do",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.81361,
+      "lon": -58.16513,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "id": "guyana-fe80928a98517b203c27"
+    },
+    {
+      "name": "Demerara Harbour Bridge",
+      "kind": "do",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.7713,
+      "lon": -58.1862,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "id": "guyana-02e1de3b72bdf33fa037"
+    },
+    {
+      "name": "Victoria",
+      "kind": "do",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.7498,
+      "lon": -57.9675,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "id": "guyana-8607af033e3018931194"
+    },
+    {
+      "name": "Demerara Rum Distillery",
+      "kind": "do",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.7174,
+      "lon": -58.1906,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "East Bank Public Road",
+      "price": "G$30",
+      "url": "https://www.demeraradistillers.com/index.php",
+      "id": "guyana-f768225fd92b79f37fb1"
+    },
+    {
+      "name": "Providence Stadium",
+      "kind": "do",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.7576,
+      "lon": -58.1778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "East Bank Public Rd",
+      "id": "guyana-7159cb0f58ce759220fa"
+    },
+    {
+      "name": "National Cultural Center",
+      "kind": "do",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.80261,
+      "lon": -58.14002,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "Homestretch Avenue",
+      "url": "https://www.facebook.com/pages/National-Cultural-Center/204024566305975",
+      "id": "guyana-6e0e487dca2407892049"
+    },
+    {
+      "name": "Demico House",
+      "kind": "eat",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.80959,
+      "lon": -58.16689,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "Lombard St",
+      "id": "guyana-e09099e5c4e9f6e9f4ec"
+    },
+    {
+      "name": "JR Burgers",
+      "kind": "eat",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.818,
+      "lon": -58.1446,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "62 Sandy Babb Street, Kitty",
+      "id": "guyana-3451d7bb7150405d5e20"
+    },
+    {
+      "name": "Brasil Churrascaria & Pizzaria",
+      "kind": "eat",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.80862,
+      "lon": -58.1595,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "208 Alexander Street",
+      "id": "guyana-50a2b69989f6a8f8c1c2"
+    },
+    {
+      "name": "New Thriving",
+      "kind": "eat",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.81601,
+      "lon": -58.16481,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "32 Main St",
+      "url": "https://newthrivingonline.com/",
+      "id": "guyana-7a8924090e7930b303d2"
+    },
+    {
+      "name": "Oasis Cafe",
+      "kind": "eat",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.81506,
+      "lon": -58.16275,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "125 Carmichael St",
+      "url": "https://www.facebook.com/TheOasisCafe/",
+      "id": "guyana-5d3120c027963bc1487d"
+    },
+    {
+      "name": "Shanta's Puri Shop",
+      "kind": "eat",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.81684,
+      "lon": -58.15872,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "Camp & New Market street",
+      "id": "guyana-5e1a3522ed0480c10f8f"
+    },
+    {
+      "name": "Starbuds",
+      "kind": "eat",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.81311,
+      "lon": -58.15215,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "183 Albert St",
+      "url": "https://www.facebook.com/starbudsgy/",
+      "id": "guyana-925a13a75e31a01b0157"
+    },
+    {
+      "name": "El Dorado",
+      "kind": "eat",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.82512,
+      "lon": -58.16179,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "Seawall Public Rd",
+      "id": "guyana-60418ba7212c494544d0"
+    },
+    {
+      "name": "Bottle Restaurant",
+      "kind": "eat",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.8132,
+      "lon": -58.15719,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "294 Quamina St",
+      "url": "https://www.caralodge.com/dining",
+      "id": "guyana-142b7cd78d4f8fdcd2a4"
+    },
+    {
+      "name": "Latino Bar & Nightclub",
+      "kind": "eat",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.8059,
+      "lon": -58.15833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "54 Lime St",
+      "id": "guyana-ce45d8d89aeee0dd2eec"
+    },
+    {
+      "name": "Palm Court",
+      "kind": "eat",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.81663,
+      "lon": -58.16467,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "Main St",
+      "id": "guyana-74183f9c26f5d4b6ecd0"
+    },
+    {
+      "name": "Local Rum Shops",
+      "kind": "eat",
+      "locality": "Georgetown (Guyana)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "Anywhere",
+      "price": "100",
+      "id": "guyana-cd75d0bcd651844503ae"
+    },
+    {
+      "name": "Tropicana Hotel",
+      "kind": "stay",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.81417,
+      "lon": -58.16169,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "price": "G$4000-5000/double",
+      "url": "https://www.facebook.com/tropicanaguyana/",
+      "id": "guyana-8f18b4685ae66a16f089"
+    },
+    {
+      "name": "Rima guesthouse",
+      "kind": "stay",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.8166,
+      "lon": -58.16327,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "92 Middle Street",
+      "price": "Single G$5500/US$28, double G$6500/US$33, breakfast G$1000/US$5",
+      "id": "guyana-f0c7998d91426c3cd955"
+    },
+    {
+      "name": "Armoury Villa Hostel & Guest House",
+      "kind": "stay",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.82095,
+      "lon": -58.12737,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "62-63 Newhaven Belair",
+      "price": "G$7304",
+      "url": "https://www.airbnb.gy/rooms/17331101",
+      "id": "guyana-edd3d0b374b99217190a"
+    },
+    {
+      "name": "El Dorado Inn",
+      "kind": "stay",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.81311,
+      "lon": -58.1579,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "295 Thomas & Quamina Streets",
+      "price": "US$95",
+      "url": "http://www.eldorado-inn.com/",
+      "id": "guyana-c8996a16b6bca34c255a"
+    },
+    {
+      "name": "Ocean Spray International Hotel",
+      "kind": "stay",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.82475,
+      "lon": -58.14288,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "46 Stanley Place, Kitty",
+      "price": "single US$57, double US$75 including tax",
+      "url": "https://www.facebook.com/pages/Ocean-Spray-Hotel/232980060088947",
+      "id": "guyana-2f84204698d0beadb2ce"
+    },
+    {
+      "name": "Sleepin International Hotel",
+      "kind": "stay",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.80802,
+      "lon": -58.16294,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "24 Brickdam, Stabroek",
+      "price": "from US$45 plus 16%",
+      "url": "http://www.sleepininternationalhotel.com/",
+      "id": "guyana-0e48ebf4db4c4cb0a0b8"
+    },
+    {
+      "name": "Armoury Villa & Guesthouse",
+      "kind": "stay",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.821,
+      "lon": -58.127389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "62-63 Newhaven Belaire",
+      "url": "https://www.airbnb.gy/rooms/17331101",
+      "id": "guyana-2e8d91f824319d7d3791"
+    },
+    {
+      "name": "Cara Lodge",
+      "kind": "stay",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.81319,
+      "lon": -58.15716,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "294 Quamina St",
+      "price": "from US$125",
+      "url": "http://www.carahotels.com/",
+      "id": "guyana-db035f4aa87715dc8fa1"
+    },
+    {
+      "name": "Pegasus",
+      "kind": "stay",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.82522,
+      "lon": -58.16164,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "Seawall Rd",
+      "price": "from US$150",
+      "url": "http://www.pegasushotelguyana.com/",
+      "id": "guyana-d8693136401b8b44ea50"
+    },
+    {
+      "name": "Le Grand Penthouse",
+      "kind": "stay",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.81072,
+      "lon": -58.16626,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "6 Commerce St",
+      "url": "http://legrandpenthouse.com/",
+      "id": "guyana-21447aa389a566dfa304"
+    },
+    {
+      "name": "Grand Coastal Suites",
+      "kind": "stay",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.8162,
+      "lon": -58.0749,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "Le Ressouvenir",
+      "url": "http://www.grandcoastal.com/",
+      "id": "guyana-1530bca18f92691d8d4a"
+    },
+    {
+      "name": "Ramada Georgetown Princess",
+      "kind": "stay",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.7619,
+      "lon": -58.1777,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "Providence, East Bank Demerara",
+      "url": "https://ramadageorgetown.com/",
+      "id": "guyana-33ba2044bb651f949925"
+    },
+    {
+      "name": "Guyana Mariott Hotel",
+      "kind": "stay",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.8257,
+      "lon": -58.1638,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "address": "Block Alpha, Battery Road",
+      "url": "https://www.marriott.com/hotels/travel/geomc-guyana-marriott-hotel-georgetown",
+      "id": "guyana-bf01ec1e9c1e260290a4"
+    },
+    {
+      "name": "Georgetown (Guyana)",
+      "kind": "area",
+      "locality": "Georgetown (Guyana)",
+      "lat": 6.8,
+      "lon": -58.1667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Georgetown_(Guyana)",
+      "id": "guyana-d1007fc3798b45b6986a"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 3 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Title resolution: Georgetown → Georgetown (Guyana) (linked by Guyana)."
+}

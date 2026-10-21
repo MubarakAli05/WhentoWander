@@ -1,0 +1,425 @@
+{
+  "sources": [
+    {
+      "title": "Panama",
+      "url": "https://en.wikivoyage.org/wiki/Panama",
+      "checkedAt": "2026-10-21T08:11:43.540Z"
+    },
+    {
+      "title": "Panama City",
+      "url": "https://en.wikivoyage.org/wiki/Panama_City",
+      "checkedAt": "2026-10-21T08:11:46.274Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Panama City",
+      "kind": "area",
+      "locality": "Panama",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama",
+      "id": "panama-c8e1b8c664e6ae18b90b"
+    },
+    {
+      "name": "Balboa",
+      "kind": "area",
+      "locality": "Panama",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama",
+      "id": "panama-2569657f520197e4182d"
+    },
+    {
+      "name": "Boquete",
+      "kind": "area",
+      "locality": "Panama",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama",
+      "id": "panama-272c64b4968ee123730f"
+    },
+    {
+      "name": "Boca Chica",
+      "kind": "area",
+      "locality": "Panama",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama",
+      "id": "panama-f1798ee12b2626ff7ada"
+    },
+    {
+      "name": "Colón",
+      "kind": "area",
+      "locality": "Panama",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama",
+      "id": "panama-ba3ff21421cada5a56d9"
+    },
+    {
+      "name": "David",
+      "kind": "area",
+      "locality": "Panama",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama",
+      "id": "panama-091e6011123e463c034f"
+    },
+    {
+      "name": "Gamboa",
+      "kind": "area",
+      "locality": "Panama",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama",
+      "id": "panama-b5842b3afa04cdf1669d"
+    },
+    {
+      "name": "Portobelo",
+      "kind": "area",
+      "locality": "Panama",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama",
+      "id": "panama-5bfa4346dcb554c25802"
+    },
+    {
+      "name": "Panama Canal",
+      "kind": "do",
+      "locality": "Panama City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "url": "https://pancanal.com/en/",
+      "id": "panama-e2f13d410ee0bbeb4b1f"
+    },
+    {
+      "name": "Miraflores Visitor Center/Miraflores Locks",
+      "kind": "do",
+      "locality": "Panama City",
+      "lat": 8.99715,
+      "lon": -79.59105,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "price": "Foreigners: adults $17.22, children 6-12 years $7.22; residents: adults $3, children/students/seniors $1.50",
+      "url": "http://visitcanaldepanama.com/en/centro-de-visitantes-de-miraflores/",
+      "id": "panama-33813b513403373c0968"
+    },
+    {
+      "name": "Casco Viejo",
+      "kind": "do",
+      "locality": "Panama City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "url": "http://www.cascoviejo.org/",
+      "id": "panama-312064fd0f86a3b30e6e"
+    },
+    {
+      "name": "Canal Museum",
+      "kind": "do",
+      "locality": "Panama City",
+      "lat": 8.952,
+      "lon": -79.53463,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "address": "Plaza de la Independencia, San Felipe",
+      "price": "$15 for adults",
+      "url": "http://museodelcanal.com/",
+      "id": "panama-8e71cc0075b01718e030"
+    },
+    {
+      "name": "Panama History Museum",
+      "kind": "do",
+      "locality": "Panama City",
+      "lat": 8.95202,
+      "lon": -79.53491,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "address": "Avenida 6a Central, Plaza Catedral, San Felipe",
+      "price": "$1 for adults",
+      "url": "http://www.inac.gob.pa/museos/99-museo-de-historia",
+      "id": "panama-2b765de582a3ea4583d3"
+    },
+    {
+      "name": "Panama Viejo",
+      "kind": "do",
+      "locality": "Panama City",
+      "lat": 9.0073,
+      "lon": -79.4859,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "price": "Adults $17, children and students $5; prices include the museum, park and lookout",
+      "url": "https://www.patronatopanamaviejo.org/",
+      "id": "panama-7eca433776da7de0bf40"
+    },
+    {
+      "name": "Amador Causeway",
+      "kind": "do",
+      "locality": "Panama City",
+      "lat": 8.9245,
+      "lon": -79.5396,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "id": "panama-9ee4395bd950c1ed34f4"
+    },
+    {
+      "name": "Punta Culebra Nature Center",
+      "kind": "do",
+      "locality": "Panama City",
+      "lat": 8.911,
+      "lon": -79.5287,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "price": "Admission adults $5",
+      "url": "http://stri.si.edu/english/visit_us/culebra/",
+      "id": "panama-d06931afdad726364232"
+    },
+    {
+      "name": "Biomuseo",
+      "kind": "do",
+      "locality": "Panama City",
+      "lat": 8.93191,
+      "lon": -79.54473,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "url": "http://biomuseopanama.org/en",
+      "id": "panama-15901d8d9050457e4748"
+    },
+    {
+      "name": "Mi Pueblito",
+      "kind": "do",
+      "locality": "Panama City",
+      "lat": 8.953214,
+      "lon": -79.548017,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "id": "panama-b760a1c89e59154b4e2f"
+    },
+    {
+      "name": "Cerro Ancón",
+      "kind": "do",
+      "locality": "Panama City",
+      "lat": 8.957278,
+      "lon": -79.549444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "id": "panama-0611bcdb5fa58376de38"
+    },
+    {
+      "name": "Parque Natural Metropolitano",
+      "kind": "do",
+      "locality": "Panama City",
+      "lat": 8.98579428957726,
+      "lon": -79.54639108478284,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "price": "$4 for foreigners",
+      "url": "https://parquemetropolitano.org/",
+      "id": "panama-3378789fc2ff5fb5f98f"
+    },
+    {
+      "name": "El Chorrillo",
+      "kind": "do",
+      "locality": "Panama City",
+      "lat": 8.94944,
+      "lon": -79.5456,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "id": "panama-1cb211c42a409df7217d"
+    },
+    {
+      "name": "Museo Libertad",
+      "kind": "do",
+      "locality": "Panama City",
+      "lat": 8.94666,
+      "lon": -79.55457,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "price": "$5",
+      "url": "https://museodelalibertad.org/",
+      "id": "panama-67db4fc376db48ed0b69"
+    },
+    {
+      "name": "Help a sailboat to cross the canal",
+      "kind": "do",
+      "locality": "Panama City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "id": "panama-c875bb8f47ad6023e888"
+    },
+    {
+      "name": "Metropolitan Natural Park (MNP)",
+      "kind": "do",
+      "locality": "Panama City",
+      "lat": 8.9856,
+      "lon": -79.54676,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "price": "$5",
+      "url": "http://www.parquemetropolitano.org/",
+      "id": "panama-fc75804c8904327cb0d8"
+    },
+    {
+      "name": "Panaviera bar",
+      "kind": "do",
+      "locality": "Panama City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "id": "panama-3d7d9066358824aa3f82"
+    },
+    {
+      "name": "Casco Antiguo Spanish School",
+      "kind": "do",
+      "locality": "Panama City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "address": "Avenida A y Calle 5a Oeste",
+      "price": "Small-group intensive $279 for 1 week, $205/week for 4+ weeks",
+      "url": "http://www.cascospanish.com/",
+      "id": "panama-65d13a66cfd3e8ec70f8"
+    },
+    {
+      "name": "Spanish Panama Spanish language school",
+      "kind": "do",
+      "locality": "Panama City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "address": "Via Argentina, Ed. Americana #1A, El Cangrejo",
+      "price": "min $300/week",
+      "url": "http://www.spanishpanama.com/",
+      "id": "panama-f4d3f1a821c455dae65c"
+    },
+    {
+      "name": "Lung Fung",
+      "kind": "eat",
+      "locality": "Panama City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "address": "on Transistmica Avenue",
+      "id": "panama-cdbd9301f8ecbf2e0648"
+    },
+    {
+      "name": "La Pampa Marbella",
+      "kind": "eat",
+      "locality": "Panama City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "address": "Av. 5a B. Sur",
+      "url": "https://restauranteslapampa.com/",
+      "id": "panama-76600a43d67025023951"
+    },
+    {
+      "name": "Van Gogh",
+      "kind": "eat",
+      "locality": "Panama City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "id": "panama-cca29f7f3d5018b13fda"
+    },
+    {
+      "name": "Capital Bistró Panamá",
+      "kind": "eat",
+      "locality": "Panama City",
+      "lat": 8.95372,
+      "lon": -79.53603,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "address": "Calle principal de San Felipe, Local 1",
+      "price": "$18-28",
+      "id": "panama-305d8d87c32f89513035"
+    },
+    {
+      "name": "La Casa del Marisco - ACHA",
+      "kind": "eat",
+      "locality": "Panama City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "address": "Avenida Justo Arosemena",
+      "url": "https://achapanama.com/",
+      "id": "panama-12771997ca2713aa3a7a"
+    },
+    {
+      "name": "Atlantic & Pacific Co. Restaurant",
+      "kind": "eat",
+      "locality": "Panama City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "id": "panama-11e16640c31ccd29e97a"
+    },
+    {
+      "name": "Luna's Castle Hostel",
+      "kind": "stay",
+      "locality": "Panama City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "address": "Calle 9na Este",
+      "price": "Dorm bed: $13",
+      "url": "http://www.lunascastlehostel.com/",
+      "id": "panama-6f50eb7873ebdc392004"
+    },
+    {
+      "name": "Hospedaje Casco Viejo",
+      "kind": "stay",
+      "locality": "Panama City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "address": "8a con Avenida A. Casa 8-31, San Felipe",
+      "price": "$10 single, $18 double",
+      "url": "https://m.facebook.com/pages/category/Hostel/Hospedaje-Casco-Viejo-164378450308370/",
+      "id": "panama-db1e7a813a263b39fa81"
+    },
+    {
+      "name": "Panama House Bed & Breakfast",
+      "kind": "stay",
+      "locality": "Panama City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "address": "Av 1a C Nte",
+      "price": "$30-45/double",
+      "url": "http://panamahousebb.com/",
+      "id": "panama-48cf6537417ab5971799"
+    },
+    {
+      "name": "Hostel Mamallena",
+      "kind": "stay",
+      "locality": "Panama City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "address": "Casa 7-62 Calle Primera, Perejil",
+      "price": "Dorm $12, double $29.50",
+      "url": "http://mamallena.com/",
+      "id": "panama-8e7e93ff00777083289d"
+    },
+    {
+      "name": "Hostal Miami",
+      "kind": "stay",
+      "locality": "Panama City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "address": "Calle 13 Oeste",
+      "price": "Dorm $13, private rooms $30-50",
+      "url": "https://m.facebook.com/pages/category/Hostel/El-Hostal-Miami-en-Panam%C3%A1-567778639989131/",
+      "id": "panama-c9691bcb0545280837cd"
+    },
+    {
+      "name": "Casa Rica",
+      "kind": "stay",
+      "locality": "Panama City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "id": "panama-2de70c016f30253b02db"
+    },
+    {
+      "name": "Magnolia Inn - Casco Viejo",
+      "kind": "stay",
+      "locality": "Panama City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "address": "818 Calle Boquete",
+      "price": "$80-135",
+      "url": "http://www.magnoliapanama.com/",
+      "id": "panama-e3951f8799163fac71bf"
+    },
+    {
+      "name": "The Bristol Hotel",
+      "kind": "stay",
+      "locality": "Panama City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "address": "Calle 49 Este",
+      "price": "$200/double",
+      "url": "https://es.lhw.com/hotel/Bristol-Panama-Panama-City-Panama",
+      "id": "panama-09c6b5cdd5ba033dbf22"
+    },
+    {
+      "name": "Las Clementinas Chambers, Café & Bar",
+      "kind": "stay",
+      "locality": "Panama City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "address": "Calle 11 and Avenida B in Casco Viejo",
+      "url": "http://lasclementinas.com/",
+      "id": "panama-1931317bc021a40bacfa"
+    },
+    {
+      "name": "InterContinental Miramar",
+      "kind": "stay",
+      "locality": "Panama City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "address": "Av. Balboa",
+      "url": "http://www.miramarpanama.com/",
+      "id": "panama-cd4623f2b12e210b98b4"
+    },
+    {
+      "name": "Courtyard Panama Multiplaza Mall",
+      "kind": "stay",
+      "locality": "Panama City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "address": "Vía Israel, Multiplaza Pacífica Mall",
+      "price": "Prices range between $100-250",
+      "url": "https://www.marriott.com/hotels/travel/ptycy-courtyard-panama-multiplaza-mall/",
+      "id": "panama-1ed569c90ddcceaba4de"
+    },
+    {
+      "name": "Panama City",
+      "kind": "area",
+      "locality": "Panama City",
+      "lat": 9.0024,
+      "lon": -79.535393,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Panama_City",
+      "id": "panama-bceb8ee15b0825321a01"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

@@ -1,0 +1,75 @@
+{
+  "sources": [
+    {
+      "title": "Federated States of Micronesia",
+      "url": "https://en.wikivoyage.org/wiki/Federated_States_of_Micronesia",
+      "checkedAt": "2026-10-21T08:11:08.245Z"
+    },
+    {
+      "title": "Pohnpei",
+      "url": "https://en.wikivoyage.org/wiki/Pohnpei",
+      "checkedAt": "2026-10-21T08:11:14.211Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Palikir",
+      "kind": "area",
+      "locality": "Federated States of Micronesia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Federated_States_of_Micronesia",
+      "id": "micronesia-8580a3b2d4927648ea97"
+    },
+    {
+      "name": "Palikir",
+      "kind": "area",
+      "locality": "Pohnpei",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pohnpei",
+      "id": "micronesia-7016672327bb3573c441"
+    },
+    {
+      "name": "Kolonia",
+      "kind": "area",
+      "locality": "Pohnpei",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pohnpei",
+      "id": "micronesia-e85a411ca18b5c828b1b"
+    },
+    {
+      "name": "Capitol of the Federated States of Micronesia",
+      "kind": "do",
+      "locality": "Pohnpei",
+      "lat": 6.924435,
+      "lon": 158.160646,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pohnpei",
+      "id": "micronesia-9aeb00c4d311667ae852"
+    },
+    {
+      "name": "Kepirohi Waterfall",
+      "kind": "do",
+      "locality": "Pohnpei",
+      "lat": 6.846566,
+      "lon": 158.301727,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pohnpei",
+      "price": "$10",
+      "id": "micronesia-b4589c92eaafdeebebff"
+    },
+    {
+      "name": "Coco Marina",
+      "kind": "eat",
+      "locality": "Pohnpei",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pohnpei",
+      "url": "https://m.facebook.com/neimescocomarina/,",
+      "id": "micronesia-9c417f35e8c9128f9194"
+    },
+    {
+      "name": "Pohnpei",
+      "kind": "area",
+      "locality": "Pohnpei",
+      "lat": 6.85,
+      "lon": 158.2167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Pohnpei",
+      "id": "micronesia-59ba33eda8da4503ad01"
+    }
+  ],
+  "status": "partial",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Missing categories: stay."
+}

@@ -1,0 +1,735 @@
+{
+  "sources": [
+    {
+      "title": "Botswana",
+      "url": "https://en.wikivoyage.org/wiki/Botswana",
+      "checkedAt": "2026-10-21T08:06:36.197Z"
+    },
+    {
+      "title": "Gaborone",
+      "url": "https://en.wikivoyage.org/wiki/Gaborone",
+      "checkedAt": "2026-10-21T08:06:39.405Z"
+    },
+    {
+      "title": "Okavango Delta",
+      "url": "https://en.wikivoyage.org/wiki/Okavango_Delta",
+      "checkedAt": "2026-10-21T08:06:42.601Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Gaborone",
+      "kind": "area",
+      "locality": "Botswana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Botswana",
+      "id": "botswana-da0242b94cabddb9fc82"
+    },
+    {
+      "name": "Francistown",
+      "kind": "area",
+      "locality": "Botswana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Botswana",
+      "id": "botswana-514c03e833cd991fba62"
+    },
+    {
+      "name": "Ghanzi",
+      "kind": "area",
+      "locality": "Botswana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Botswana",
+      "id": "botswana-95ee55e34397cc2147f2"
+    },
+    {
+      "name": "Gweta",
+      "kind": "area",
+      "locality": "Botswana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Botswana",
+      "id": "botswana-1aa9451d93a4afbe413a"
+    },
+    {
+      "name": "Kanye",
+      "kind": "area",
+      "locality": "Botswana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Botswana",
+      "id": "botswana-72a4674ffd52cbba6641"
+    },
+    {
+      "name": "Kasane",
+      "kind": "area",
+      "locality": "Botswana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Botswana",
+      "id": "botswana-2566e9ae7d184842974f"
+    },
+    {
+      "name": "Maun",
+      "kind": "area",
+      "locality": "Botswana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Botswana",
+      "id": "botswana-8b2e62b2109291f99475"
+    },
+    {
+      "name": "Nata",
+      "kind": "area",
+      "locality": "Botswana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Botswana",
+      "id": "botswana-396f1f3bbd0d85795145"
+    },
+    {
+      "name": "Tsabong",
+      "kind": "area",
+      "locality": "Botswana",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Botswana",
+      "id": "botswana-4392686a69496d185aaf"
+    },
+    {
+      "name": "The Hindu hall",
+      "kind": "do",
+      "locality": "Gaborone",
+      "lat": -24.6434,
+      "lon": 25.931,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-61230d41ca2669b78e60"
+    },
+    {
+      "name": "Three Dikgosi Monument",
+      "kind": "do",
+      "locality": "Gaborone",
+      "lat": -24.6448,
+      "lon": 25.9074,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-6677033212595bc2c41f"
+    },
+    {
+      "name": "Statue of Seretse Khama",
+      "kind": "do",
+      "locality": "Gaborone",
+      "lat": -24.6581,
+      "lon": 25.9118,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-6761e41e78a0c6414247"
+    },
+    {
+      "name": "National Botanical Garden",
+      "kind": "do",
+      "locality": "Gaborone",
+      "lat": -24.66679,
+      "lon": 25.94488,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-6508b6ec451cb9d46ea0"
+    },
+    {
+      "name": "The parliament",
+      "kind": "do",
+      "locality": "Gaborone",
+      "lat": -24.6581,
+      "lon": 25.9105,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-7f1ed1a55a0091f1e588"
+    },
+    {
+      "name": "Southern African Development Community headquarters",
+      "kind": "do",
+      "locality": "Gaborone",
+      "lat": -24.6543,
+      "lon": 25.9101,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-b8e1fc3d194f2b562978"
+    },
+    {
+      "name": "National Stadium",
+      "kind": "do",
+      "locality": "Gaborone",
+      "lat": -24.6568,
+      "lon": 25.9329,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-45e5f0dc2943b518c241"
+    },
+    {
+      "name": "New Ministry Building",
+      "kind": "do",
+      "locality": "Gaborone",
+      "lat": -24.656,
+      "lon": 25.9082,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-e2e839610eadeadd69f6"
+    },
+    {
+      "name": "Debswana (mining company) Headquarters",
+      "kind": "do",
+      "locality": "Gaborone",
+      "lat": -24.65839,
+      "lon": 25.91351,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-567cc1e12f491c34c319"
+    },
+    {
+      "name": "Kgale Hill",
+      "kind": "do",
+      "locality": "Gaborone",
+      "lat": -24.6967,
+      "lon": 25.8669,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-a525b48cd39baaa49099"
+    },
+    {
+      "name": "Gaborone Cycling Club",
+      "kind": "do",
+      "locality": "Gaborone",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "url": "https://www.facebook.com/Gaborone-Cycling-Club-247403952132641/",
+      "id": "botswana-ff130638a5082a1cf517"
+    },
+    {
+      "name": "Gaborone Dam",
+      "kind": "do",
+      "locality": "Gaborone",
+      "lat": -24.713,
+      "lon": 25.906,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-6bb9d24aa5077534c12b"
+    },
+    {
+      "name": "Mokolodi",
+      "kind": "do",
+      "locality": "Gaborone",
+      "lat": -24.704,
+      "lon": 25.822,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "url": "http://www.mokolodi.com/",
+      "id": "botswana-d6b262e441081683024a"
+    },
+    {
+      "name": "Gaborone Game Reserve",
+      "kind": "do",
+      "locality": "Gaborone",
+      "lat": -24.635,
+      "lon": 25.965,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "address": "Maaloso",
+      "id": "botswana-a2cd10ac021cf426c195"
+    },
+    {
+      "name": "White box food",
+      "kind": "eat",
+      "locality": "Gaborone",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-a8bc8abcfa0b5b96c9d5"
+    },
+    {
+      "name": "Deli's",
+      "kind": "eat",
+      "locality": "Gaborone",
+      "lat": -24.6273,
+      "lon": 25.9358,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-3a9c3a788e7ec59eb86a"
+    },
+    {
+      "name": "Funyama Holdings Chinese Restaurant",
+      "kind": "eat",
+      "locality": "Gaborone",
+      "lat": -24.644,
+      "lon": 25.9312,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-508887403146e4f64449"
+    },
+    {
+      "name": "Bull & Bush",
+      "kind": "eat",
+      "locality": "Gaborone",
+      "lat": -24.6395,
+      "lon": 25.9105,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-9edd84314fe4ca12a0dc"
+    },
+    {
+      "name": "Par 5 Indian Restaurant",
+      "kind": "eat",
+      "locality": "Gaborone",
+      "lat": -24.65468,
+      "lon": 25.92956,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "address": "Phala",
+      "id": "botswana-709b35d80cdc85ec767d"
+    },
+    {
+      "name": "Beef Baron",
+      "kind": "eat",
+      "locality": "Gaborone",
+      "lat": -24.6408,
+      "lon": 25.8772,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "address": "in the Grand Palm Walmont hotel",
+      "price": "Mains from P120",
+      "url": "http://www.grandpalm.bw/things-to-do/restaurants",
+      "id": "botswana-cd4cfaa5f4178a762827"
+    },
+    {
+      "name": "Chutney's",
+      "kind": "eat",
+      "locality": "Gaborone",
+      "lat": -24.63735,
+      "lon": 25.89331,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-92342324673a98bbb9bb"
+    },
+    {
+      "name": "Caravela",
+      "kind": "eat",
+      "locality": "Gaborone",
+      "lat": -24.6618,
+      "lon": 25.9209,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-17e52816c02ea8b9803b"
+    },
+    {
+      "name": "Sanitas",
+      "kind": "eat",
+      "locality": "Gaborone",
+      "lat": -24.6921,
+      "lon": 25.9145,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-d1ef362d0eb5e4bb0744"
+    },
+    {
+      "name": "News Café",
+      "kind": "eat",
+      "locality": "Gaborone",
+      "lat": -24.6696,
+      "lon": 25.9281,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "address": "Village district",
+      "url": "http://www.newscafe.co.za/",
+      "id": "botswana-373b1548634f98daef51"
+    },
+    {
+      "name": "Pavilion Restaurant",
+      "kind": "eat",
+      "locality": "Gaborone",
+      "lat": -24.6801,
+      "lon": 25.9211,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "address": "Private Bag BO3",
+      "price": "From P100",
+      "url": "http://www.fairgroundholdings.com/index.php?sid=6",
+      "id": "botswana-0478e2d05b9507d48b18"
+    },
+    {
+      "name": "Embassy",
+      "kind": "eat",
+      "locality": "Gaborone",
+      "lat": -24.6774,
+      "lon": 25.9358,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-1c4125764d2ed559709e"
+    },
+    {
+      "name": "Abyssinia Ethiopian Cafe",
+      "kind": "eat",
+      "locality": "Gaborone",
+      "lat": -24.6774,
+      "lon": 25.9347,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-85139a663c7826831d13"
+    },
+    {
+      "name": "The Moghul",
+      "kind": "eat",
+      "locality": "Gaborone",
+      "lat": -24.6836,
+      "lon": 25.9551,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "address": "171 Tlokweng Road",
+      "price": "P50 for a veg curry up to P80 for a Rogan Josh",
+      "id": "botswana-5362c8fa53b61c3a70cd"
+    },
+    {
+      "name": "Cafe Dijo",
+      "kind": "eat",
+      "locality": "Gaborone",
+      "lat": -24.6876,
+      "lon": 25.8819,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-3292881622312ba53e5c"
+    },
+    {
+      "name": "Mugg & Bean",
+      "kind": "eat",
+      "locality": "Gaborone",
+      "lat": -24.6857,
+      "lon": 25.8798,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-04116d53217dc643d801"
+    },
+    {
+      "name": "Nando's Chicken",
+      "kind": "eat",
+      "locality": "Gaborone",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-756f7b468141a5005a0d"
+    },
+    {
+      "name": "Pie Time",
+      "kind": "eat",
+      "locality": "Gaborone",
+      "lat": -24.6583,
+      "lon": 25.9156,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-31b27356ddfa98066dd4"
+    },
+    {
+      "name": "Debonairs",
+      "kind": "eat",
+      "locality": "Gaborone",
+      "lat": -24.6273,
+      "lon": 25.9362,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "address": "13141 Segoditshane Way",
+      "price": "P55 cheapest pizza",
+      "id": "botswana-e07fb94f9b8edbf92baa"
+    },
+    {
+      "name": "Bull and Bush",
+      "kind": "eat",
+      "locality": "Gaborone",
+      "lat": -24.6407,
+      "lon": 25.9108,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-19caa0490bb7cb63d314"
+    },
+    {
+      "name": "Club Satchmo",
+      "kind": "eat",
+      "locality": "Gaborone",
+      "lat": -24.6602,
+      "lon": 25.8887,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "address": "Ntimbale Road",
+      "id": "botswana-38e60c2d8e4bab58d692"
+    },
+    {
+      "name": "Gaborone Yacht Club",
+      "kind": "eat",
+      "locality": "Gaborone",
+      "lat": -24.7079,
+      "lon": 25.9063,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "address": "Off the old Lobaste road near the railway crossing",
+      "price": "P10 entrance",
+      "url": "https://gaboroneyachtclub.weebly.com/",
+      "id": "botswana-cbbfa45420943143849c"
+    },
+    {
+      "name": "Notwane Club",
+      "kind": "eat",
+      "locality": "Gaborone",
+      "lat": -24.6555,
+      "lon": 25.9305,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-23d4873225b6e4630c2c"
+    },
+    {
+      "name": "Motheo Apartments",
+      "kind": "stay",
+      "locality": "Gaborone",
+      "lat": -24.6527,
+      "lon": 25.9204,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "address": "Plot 4710, Moremi Road",
+      "url": "https://motheoapartments.com-botswana.com/",
+      "id": "botswana-eee6478e7b5389c14435"
+    },
+    {
+      "name": "Innisfree Apartments",
+      "kind": "stay",
+      "locality": "Gaborone",
+      "lat": -24.6733,
+      "lon": 25.9352,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "address": "Plot 5004 Boteti Road, The Village",
+      "url": "https://m.facebook.com/innisfreeapartments/",
+      "id": "botswana-6b9f7d0e7dc3d257fd96"
+    },
+    {
+      "name": "Hantom House",
+      "kind": "stay",
+      "locality": "Gaborone",
+      "lat": -24.6597,
+      "lon": 25.888,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "address": "G-West Phase 1",
+      "url": "http://www.gabz.biz/",
+      "id": "botswana-8eac0b5160ef34e45537"
+    },
+    {
+      "name": "Mokolodi Backpackers Hostel",
+      "kind": "stay",
+      "locality": "Gaborone",
+      "lat": -24.7394,
+      "lon": 25.8276,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "address": "Plot 86 Mokoadi",
+      "price": "p 120/210 per person",
+      "url": "http://www.backpackers.co.bw/",
+      "id": "botswana-f61e748b4dbb500a9362"
+    },
+    {
+      "name": "African Home",
+      "kind": "stay",
+      "locality": "Gaborone",
+      "lat": -24.643,
+      "lon": 25.9177,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "address": "Nyerere Drive",
+      "price": "P400/double, including continental breakfast",
+      "id": "botswana-3b7c2880591f4f17ba23"
+    },
+    {
+      "name": "Linville B&B",
+      "kind": "stay",
+      "locality": "Gaborone",
+      "lat": -24.6019,
+      "lon": 25.9068,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "address": "Plot 59865, Block 7",
+      "id": "botswana-685858b26d3817a62645"
+    },
+    {
+      "name": "Riverside Lodge",
+      "kind": "stay",
+      "locality": "Gaborone",
+      "lat": -24.6767,
+      "lon": 25.9444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "price": "from P360 including breakfast",
+      "id": "botswana-2274af1cecf5003b9186"
+    },
+    {
+      "name": "Royal Apartments Lodge",
+      "kind": "stay",
+      "locality": "Gaborone",
+      "lat": -24.67961,
+      "lon": 25.94742,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "address": "Plot 256, Tlokweng",
+      "price": "from P400 per room",
+      "id": "botswana-f2ee737e0095284ba96f"
+    },
+    {
+      "name": "Oasis Motel",
+      "kind": "stay",
+      "locality": "Gaborone",
+      "lat": -24.6835,
+      "lon": 25.9555,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "price": "From P590 room only",
+      "url": "http://www.oasis-motel.com/",
+      "id": "botswana-e9c9b9e1885751fbc726"
+    },
+    {
+      "name": "Protea Hotel by Marriott Gaborone",
+      "kind": "stay",
+      "locality": "Gaborone",
+      "lat": -24.6524,
+      "lon": 25.9039,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "address": "Plot 54353, New CBD corner Khama Crescent & Western Bypass",
+      "price": "Rack rates from US$250 (P1,750).",
+      "url": "https://www.marriott.com/hotels/travel/GBEPG-protea-hotel-gaborone-masa-square/",
+      "id": "botswana-5e44b299515b88d4ceed"
+    },
+    {
+      "name": "Gaborone Sun",
+      "kind": "stay",
+      "locality": "Gaborone",
+      "lat": -24.65125,
+      "lon": 25.92991,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "price": "From P900 per room per night",
+      "url": "http://www.suninternational.com/DESTINATIONS/HOTELS/GABORONESUN/Pages/default.aspx",
+      "id": "botswana-ec36188c0bf29f32d640"
+    },
+    {
+      "name": "Grand Palm - Peermont Walmont",
+      "kind": "stay",
+      "locality": "Gaborone",
+      "lat": -24.6407,
+      "lon": 25.878,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "address": "Plot 17989 Bonnington Farm,Molepolole Road",
+      "price": "from P1770 per room",
+      "url": "http://www.grandpalm.bw/",
+      "id": "botswana-f58581e406db56c4e5d5"
+    },
+    {
+      "name": "Peermont Metcourt Inn, Botswana",
+      "kind": "stay",
+      "locality": "Gaborone",
+      "lat": -24.6398,
+      "lon": 25.8799,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "address": "Cnr Bonnington Farm",
+      "price": "From P720 per room excluding breakfast.",
+      "url": "https://www.peermont.com/",
+      "id": "botswana-86eb783d3332c7051d5c"
+    },
+    {
+      "name": "Cresta Lodge",
+      "kind": "stay",
+      "locality": "Gaborone",
+      "lat": -24.682,
+      "lon": 25.9083,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "address": "Machel",
+      "id": "botswana-e929eff9bd990923aa8c"
+    },
+    {
+      "name": "Cresta President's Hotel",
+      "kind": "stay",
+      "locality": "Gaborone",
+      "lat": -24.65867,
+      "lon": 25.91619,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "address": "Botswana Rd",
+      "url": "http://www.crestahotels.com/hotels/cresta-president/",
+      "id": "botswana-cd2a35436fab5b1f9cf2"
+    },
+    {
+      "name": "Mondior Summit",
+      "kind": "stay",
+      "locality": "Gaborone",
+      "lat": -24.6694,
+      "lon": 25.9279,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-fa775bd24f1ad2ed63fe"
+    },
+    {
+      "name": "Otse Village",
+      "kind": "do",
+      "locality": "Gaborone",
+      "lat": -25.03661,
+      "lon": 25.74885,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-ef739df55e178ff034dc"
+    },
+    {
+      "name": "Gaborone",
+      "kind": "area",
+      "locality": "Gaborone",
+      "lat": -24.658056,
+      "lon": 25.912222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gaborone",
+      "id": "botswana-94792c5a4222f0d2edb1"
+    },
+    {
+      "name": "Shakawe",
+      "kind": "area",
+      "locality": "Okavango Delta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Okavango_Delta",
+      "id": "botswana-6dfff58cc0f02b2da3c1"
+    },
+    {
+      "name": "Etsha",
+      "kind": "area",
+      "locality": "Okavango Delta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Okavango_Delta",
+      "id": "botswana-3c1f1eddb6d5f27900df"
+    },
+    {
+      "name": "Gumare",
+      "kind": "area",
+      "locality": "Okavango Delta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Okavango_Delta",
+      "id": "botswana-8c88398c9cbd906d3e48"
+    },
+    {
+      "name": "Maun",
+      "kind": "area",
+      "locality": "Okavango Delta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Okavango_Delta",
+      "id": "botswana-fb008f55d793a02820b5"
+    },
+    {
+      "name": "Nokaneng",
+      "kind": "area",
+      "locality": "Okavango Delta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Okavango_Delta",
+      "id": "botswana-f3f963c58ff5d4884c7f"
+    },
+    {
+      "name": "Selinda",
+      "kind": "area",
+      "locality": "Okavango Delta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Okavango_Delta",
+      "id": "botswana-488cb05fcea5f0aa9177"
+    },
+    {
+      "name": "Sepupa",
+      "kind": "area",
+      "locality": "Okavango Delta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Okavango_Delta",
+      "id": "botswana-77749cc7708a8e9d1cae"
+    },
+    {
+      "name": "Seronga",
+      "kind": "area",
+      "locality": "Okavango Delta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Okavango_Delta",
+      "id": "botswana-d0e63b3cb80c2ac1562d"
+    },
+    {
+      "name": "Tsau",
+      "kind": "area",
+      "locality": "Okavango Delta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Okavango_Delta",
+      "id": "botswana-5e10fe4a8633ae68fb40"
+    },
+    {
+      "name": "Xeroxom",
+      "kind": "area",
+      "locality": "Okavango Delta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Okavango_Delta",
+      "id": "botswana-1dd90441f3a6017f2a6f"
+    },
+    {
+      "name": "Tsodilo Hills",
+      "kind": "do",
+      "locality": "Okavango Delta",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Okavango_Delta",
+      "url": "http://whc.unesco.org/en/list/1021",
+      "id": "botswana-6ba3ad8f1fda880b9803"
+    },
+    {
+      "name": "Swamp Stop River Camp",
+      "kind": "stay",
+      "locality": "Okavango Delta",
+      "lat": -18.75,
+      "lon": 22.1833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Okavango_Delta",
+      "address": "Sepupa Village",
+      "url": "https://www.swampstop.co.bw/",
+      "id": "botswana-b837cd2191fc0ce2f111"
+    },
+    {
+      "name": "Kubu Queen House Boat",
+      "kind": "stay",
+      "locality": "Okavango Delta",
+      "lat": -18.369167,
+      "lon": 21.845833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Okavango_Delta",
+      "address": "Shakawe Village",
+      "url": "http://www.kubuqueen.com/",
+      "id": "botswana-20a302501cd0d3eed22b"
+    },
+    {
+      "name": "Okavango Delta",
+      "kind": "area",
+      "locality": "Okavango Delta",
+      "lat": -19,
+      "lon": 23,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Okavango_Delta",
+      "id": "botswana-e869a3eacaf141b926fe"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 3 distinct public Wikivoyage source pages; attempted 3 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

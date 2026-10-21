@@ -1,0 +1,808 @@
+{
+  "sources": [
+    {
+      "title": "Ecuador",
+      "url": "https://en.wikivoyage.org/wiki/Ecuador",
+      "checkedAt": "2026-10-21T08:07:41.225Z"
+    },
+    {
+      "title": "Quito",
+      "url": "https://en.wikivoyage.org/wiki/Quito",
+      "checkedAt": "2026-10-21T08:07:44.679Z"
+    },
+    {
+      "title": "Galapagos Islands",
+      "url": "https://en.wikivoyage.org/wiki/Galapagos_Islands",
+      "checkedAt": "2026-10-21T08:07:50.228Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Quito",
+      "kind": "area",
+      "locality": "Ecuador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ecuador",
+      "id": "ecuador-504fd0229bb10149c2c5"
+    },
+    {
+      "name": "Ambato",
+      "kind": "area",
+      "locality": "Ecuador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ecuador",
+      "id": "ecuador-8a87594af8d6431580d2"
+    },
+    {
+      "name": "Baños",
+      "kind": "area",
+      "locality": "Ecuador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ecuador",
+      "id": "ecuador-0c148fd177e8f4a7b790"
+    },
+    {
+      "name": "Cuenca",
+      "kind": "area",
+      "locality": "Ecuador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ecuador",
+      "id": "ecuador-93fbc12b37f519967581"
+    },
+    {
+      "name": "Guayaquil",
+      "kind": "area",
+      "locality": "Ecuador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ecuador",
+      "id": "ecuador-3be9b2efd10524426f9c"
+    },
+    {
+      "name": "Ibarra",
+      "kind": "area",
+      "locality": "Ecuador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ecuador",
+      "id": "ecuador-f648a29fe8a84e0033ce"
+    },
+    {
+      "name": "Loja",
+      "kind": "area",
+      "locality": "Ecuador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ecuador",
+      "id": "ecuador-df17724e1b0e774960f7"
+    },
+    {
+      "name": "Otavalo",
+      "kind": "area",
+      "locality": "Ecuador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ecuador",
+      "id": "ecuador-f8ee8321dcdb521a36f3"
+    },
+    {
+      "name": "Riobamba",
+      "kind": "area",
+      "locality": "Ecuador",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ecuador",
+      "id": "ecuador-d9dafd05d6a7d40f3bad"
+    },
+    {
+      "name": "Museo Nacional -- MuNa (formerly Museo del Banco Central)",
+      "kind": "do",
+      "locality": "Quito",
+      "lat": -0.21008,
+      "lon": -78.4954,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Av. Patria y Av. Seis de DiciembreEdificio de la Casa de la Cultura Ecuatoriana",
+      "price": "free",
+      "url": "http://muna.culturaypatrimonio.gob.ec/",
+      "id": "ecuador-fafcdd14c29cb9d77e8c"
+    },
+    {
+      "name": "Casa de la Cultura",
+      "kind": "do",
+      "locality": "Quito",
+      "lat": -0.21027,
+      "lon": -78.49527,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "De Diciembre 794 y Patria 6",
+      "url": "https://casadelacultura.gob.ec/",
+      "id": "ecuador-71cd335a1c035f6ccb6a"
+    },
+    {
+      "name": "Museo de la Ciudad",
+      "kind": "do",
+      "locality": "Quito",
+      "lat": -0.22305,
+      "lon": -78.51498,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Garcia Moreno street",
+      "price": "$4 (Jan 2023)",
+      "url": "https://fundacionmuseosquito.gob.ec/museo-de-la-ciudad/",
+      "id": "ecuador-999231cbbba2e23ffa54"
+    },
+    {
+      "name": "Museo Etnohistorico de Artesanias del Ecuador Mindalae",
+      "kind": "do",
+      "locality": "Quito",
+      "lat": -0.19897,
+      "lon": -78.48766,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Reina Victoria N26 – 166 y La Niña",
+      "price": "$5 (Jan 2023)",
+      "url": "https://mindalae.com.ec/en/museums-in-south-america/",
+      "id": "ecuador-8a5f03b92db79c1faf1a"
+    },
+    {
+      "name": "Itchimbia cultural complex and park",
+      "kind": "do",
+      "locality": "Quito",
+      "lat": -0.22184,
+      "lon": -78.49886,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Jose Maria Aguirre",
+      "url": "http://www.epmmop.gob.ec/",
+      "id": "ecuador-e0d28b60244574aa2a37"
+    },
+    {
+      "name": "Museo Guayasamin and Capilla del Hombre",
+      "kind": "do",
+      "locality": "Quito",
+      "lat": -0.19059,
+      "lon": -78.46908,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Mariano Calvache y Lorenzo Chávez, Bellavista",
+      "price": "Adults $10; students, seniors, people with disabilities $4; children under 12 free",
+      "url": "https://www.facebook.com/fundacion.guayasamin/",
+      "id": "ecuador-1242b59d530430774c3e"
+    },
+    {
+      "name": "Museo Casa del Alabado",
+      "kind": "do",
+      "locality": "Quito",
+      "lat": -0.22142,
+      "lon": -78.5159,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Cuenca N1-41, Bolívar",
+      "price": "Adults $10, children 4-12 $2, children up to 3 free",
+      "url": "http://alabado.org/",
+      "id": "ecuador-c8dd8e68a8b5e2c5f4e0"
+    },
+    {
+      "name": "Yaku Water Museum",
+      "kind": "do",
+      "locality": "Quito",
+      "lat": -0.21755,
+      "lon": -78.51895,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "El Placer",
+      "url": "https://fundacionmuseosquito.gob.ec/yaku-parque-museo-del-agua/",
+      "id": "ecuador-e9c3ee43e57f180d4ac2"
+    },
+    {
+      "name": "Metropolitan Cultural Center",
+      "kind": "do",
+      "locality": "Quito",
+      "lat": -0.22028,
+      "lon": -78.51306,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Gabriel García Moreno",
+      "url": "https://www.facebook.com/centroculturalq/",
+      "id": "ecuador-a7a9da9ace198554cef8"
+    },
+    {
+      "name": "Contemporary Art Center of Quito",
+      "kind": "do",
+      "locality": "Quito",
+      "lat": -0.21139,
+      "lon": -78.50696,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Montevideo y Luis Dávila",
+      "url": "https://fundacionmuseosquito.gob.ec/centro-de-arte-contemporaneo/",
+      "id": "ecuador-42e8bd09477d7932f158"
+    },
+    {
+      "name": "Museo Templo del Sol Pintor Cristobal Ortega Maila",
+      "kind": "do",
+      "locality": "Quito",
+      "lat": 0.0234,
+      "lon": -78.4813,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "url": "https://www.facebook.com/MuseoTemplodelSolOficial",
+      "id": "ecuador-d9115651bbe6ce6ff9fc"
+    },
+    {
+      "name": "Mitad del Mundo",
+      "kind": "do",
+      "locality": "Quito",
+      "lat": -0.00222,
+      "lon": -78.45583,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "url": "https://mitaddelmundo.gob.ec/",
+      "id": "ecuador-f15ca7db251e6ed4a1c1"
+    },
+    {
+      "name": "Conjunto monumental San Francisco",
+      "kind": "do",
+      "locality": "Quito",
+      "lat": -0.22017,
+      "lon": -78.51525,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Cuenca 477",
+      "price": "$3 for the museum and the tower",
+      "id": "ecuador-d7d77dd0d89de3fd0e26"
+    },
+    {
+      "name": "Iglesia de la Compañia de Jesus",
+      "kind": "do",
+      "locality": "Quito",
+      "lat": -0.220833,
+      "lon": -78.513889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "price": "$6 for church (Aug 2026), +$3 for cupola (Jan 2023)",
+      "id": "ecuador-fed3be16205eea2054f2"
+    },
+    {
+      "name": "Basílica del Voto Nacional",
+      "kind": "do",
+      "locality": "Quito",
+      "lat": -0.21484,
+      "lon": -78.50739,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "price": "$2 for the church, $4 to climb the towers",
+      "id": "ecuador-7b8ceaa3288103102414"
+    },
+    {
+      "name": "La Merced",
+      "kind": "do",
+      "locality": "Quito",
+      "lat": -0.21819,
+      "lon": -78.51371,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "id": "ecuador-54467da2d3a1d0fac4cc"
+    },
+    {
+      "name": "Plaza Grande / Plaza de la Independencia",
+      "kind": "do",
+      "locality": "Quito",
+      "lat": -0.22011,
+      "lon": -78.51209,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "id": "ecuador-f86dc2f9863c6fd83547"
+    },
+    {
+      "name": "Calle de la Ronda",
+      "kind": "do",
+      "locality": "Quito",
+      "lat": -0.2245,
+      "lon": -78.51373,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "id": "ecuador-e080d1d264e0f62a5c39"
+    },
+    {
+      "name": "Botanical Gardens",
+      "kind": "do",
+      "locality": "Quito",
+      "lat": -0.18645,
+      "lon": -78.48557,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Pasaje # 34 Interior Parque de Rumipamba E6-264",
+      "price": "$10 for adults, $5 students",
+      "url": "http://jardinbotanicoquito.com/es/",
+      "id": "ecuador-9544451a1f27fc16ac28"
+    },
+    {
+      "name": "La Vírgen del Panecillo",
+      "kind": "do",
+      "locality": "Quito",
+      "lat": -0.2289,
+      "lon": -78.5186,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "id": "ecuador-1969bd0fceb7a0cf456b"
+    },
+    {
+      "name": "Zoológico de Quito",
+      "kind": "do",
+      "locality": "Quito",
+      "lat": -0.0708,
+      "lon": -78.3587,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Urb, Huertos Familiares",
+      "price": "$6 adults, $4 kids, $3 seniors",
+      "url": "http://www.quitozoo.org/",
+      "id": "ecuador-67a581952619d0bd2bcb"
+    },
+    {
+      "name": "Astronomical Observatory of Quito",
+      "kind": "do",
+      "locality": "Quito",
+      "lat": -0.2149,
+      "lon": -78.50251,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Av Gran Colombia y 10 de Agosto",
+      "url": "http://oaq.epn.edu.ec/",
+      "id": "ecuador-73a1c38342d1bd6fd02c"
+    },
+    {
+      "name": "TelefériQo",
+      "kind": "do",
+      "locality": "Quito",
+      "lat": -0.19235,
+      "lon": -78.51953,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "url": "https://teleferico.com.ec/",
+      "id": "ecuador-47607eb7bc4d965327eb"
+    },
+    {
+      "name": "Hike Pichincha Volcano",
+      "kind": "do",
+      "locality": "Quito",
+      "lat": -0.1662,
+      "lon": -78.6043,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "id": "ecuador-94c39a20cb8fe59a0dc1"
+    },
+    {
+      "name": "Go Mountain Biking",
+      "kind": "do",
+      "locality": "Quito",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Foch E4-283",
+      "url": "http://www.bikingdutchman.com/",
+      "id": "ecuador-7f54e2c5a6191372c2d2"
+    },
+    {
+      "name": "Green Horse Ranch",
+      "kind": "do",
+      "locality": "Quito",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "url": "http://www.horseranch.de/",
+      "id": "ecuador-8352a90b6ce369850a23"
+    },
+    {
+      "name": "Pim's",
+      "kind": "eat",
+      "locality": "Quito",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "url": "https://www.restaurantepims.com/",
+      "id": "ecuador-648cc0e956f723e9eb31"
+    },
+    {
+      "name": "Restaurant Techo del Mundo",
+      "kind": "eat",
+      "locality": "Quito",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Av. González Suárez N27 142",
+      "url": "http://www.hotelquito.com.ec/techo-del-mundo-restaurant/",
+      "id": "ecuador-e364895d0de09817b8c1"
+    },
+    {
+      "name": "El Maple",
+      "kind": "eat",
+      "locality": "Quito",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Joaquín Pinto E4-60",
+      "url": "http://elmaple.com/",
+      "id": "ecuador-44805540a7eeaa90940d"
+    },
+    {
+      "name": "Mongos",
+      "kind": "eat",
+      "locality": "Quito",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Calle, José Calama E5-10",
+      "url": "https://mongos.com.ec/site/mongos-calama/",
+      "id": "ecuador-46174b07f89a4d8440b5"
+    },
+    {
+      "name": "Mulligan's",
+      "kind": "eat",
+      "locality": "Quito",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Calama E5-44 y Juan Leon Mera",
+      "url": "https://m.facebook.com/pages/Mulligans/208867352459002",
+      "id": "ecuador-57ca99725b98c672c6a5"
+    },
+    {
+      "name": "Mea Culpa",
+      "kind": "eat",
+      "locality": "Quito",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Chile y Venezuela (Palacio Arzobispal)",
+      "url": "https://m.facebook.com/Restaurante-Mea-Culpa-185229864996123/",
+      "id": "ecuador-f33bcce5582b0338bd1d"
+    },
+    {
+      "name": "Uncle Ho's",
+      "kind": "eat",
+      "locality": "Quito",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "E8-40 Jose Calama y Diego de Almagro",
+      "price": "$7-10",
+      "url": "http://www.unclehos.com/",
+      "id": "ecuador-0020d97770d60cb2cf70"
+    },
+    {
+      "name": "Achiote",
+      "kind": "eat",
+      "locality": "Quito",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Juan Rodriguez 282 y Reina Victoria",
+      "url": "http://achiote.com.ec/",
+      "id": "ecuador-608d264d2ef0c69a1433"
+    },
+    {
+      "name": "Sport Planet",
+      "kind": "eat",
+      "locality": "Quito",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Av. America y Naciones Unidas",
+      "id": "ecuador-a66aa7d2dd2f6ccfc5ec"
+    },
+    {
+      "name": "Turtle's Head",
+      "kind": "eat",
+      "locality": "Quito",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "La Pinta N4-432",
+      "id": "ecuador-22cc82140b0c8b84c81a"
+    },
+    {
+      "name": "Cherusker",
+      "kind": "eat",
+      "locality": "Quito",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Joaquin Pinto y Diego de Almagro",
+      "url": "http://www.cherusker.com/",
+      "id": "ecuador-76eb0f8266b5e6560798"
+    },
+    {
+      "name": "Zazu",
+      "kind": "eat",
+      "locality": "Quito",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Mariano Aguilera 331 & La Pradera",
+      "url": "http://www.zazuquito.com/",
+      "id": "ecuador-5cbeaf0b5d4cef4837c4"
+    },
+    {
+      "name": "Finn Mc Cool's",
+      "kind": "eat",
+      "locality": "Quito",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Corner of Diego de Almagro y Joaquin Pinto, La Mariscal",
+      "url": "http://www.irishpubquito.com/",
+      "id": "ecuador-0720e81a366795f3e7e8"
+    },
+    {
+      "name": "República del Cacao",
+      "kind": "eat",
+      "locality": "Quito",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Calle Reina Victoria, La, Mariscal Foch N 24-66",
+      "url": "https://www.republicadelcacao.com/",
+      "id": "ecuador-b5e22ceb2dd0af237afc"
+    },
+    {
+      "name": "Xandu Bar Discoteca",
+      "kind": "eat",
+      "locality": "Quito",
+      "lat": -0.20308,
+      "lon": -78.49005,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Jose Calama y Diego de Almagro",
+      "url": "https://www.facebook.com/xanduclub.uio/",
+      "id": "ecuador-f87cf4eefdb1ffb8eb36"
+    },
+    {
+      "name": "Bungalow 6",
+      "kind": "eat",
+      "locality": "Quito",
+      "lat": -0.20332,
+      "lon": -78.49015,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Diego de Almagro N24-151",
+      "url": "http://www.bungalow6ecuador.com/",
+      "id": "ecuador-2fc6a503418f92d8cd7b"
+    },
+    {
+      "name": "Strawberry Fields Forever",
+      "kind": "eat",
+      "locality": "Quito",
+      "lat": -0.2017,
+      "lon": -78.48045,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Av Federico Gonzalez Suarez",
+      "url": "https://www.strawberryfieldsbar.com/",
+      "id": "ecuador-399322a56d7c4cf4d177"
+    },
+    {
+      "name": "Hostel Quito Backpacker",
+      "kind": "stay",
+      "locality": "Quito",
+      "lat": -0.21974,
+      "lon": -78.50531,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Oriente E3-108 &, Vicente León Esq",
+      "price": "$9",
+      "url": "https://www.facebook.com/quitobackpackersguesthouse/",
+      "id": "ecuador-c521eeb83aaa7841a549"
+    },
+    {
+      "name": "Hostal Marsella",
+      "kind": "stay",
+      "locality": "Quito",
+      "lat": -0.21652,
+      "lon": -78.50191,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Ríos N-12-139 (2035) y Espinoza (Alameda)",
+      "price": "$24",
+      "url": "https://www.facebook.com/hostalmarsella/",
+      "id": "ecuador-85607c777e381598b11d"
+    },
+    {
+      "name": "Hostal Backpackers Inn",
+      "kind": "stay",
+      "locality": "Quito",
+      "lat": -0.20255,
+      "lon": -78.48946,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Juan Rodríguez, Mariscal Foch E7-48",
+      "price": "From $6.50/dorm night",
+      "url": "https://www.facebook.com/Hostal-Backpackers-Inn-102723937126/",
+      "id": "ecuador-8b6adcbea13828fe72fa"
+    },
+    {
+      "name": "Casa Helbling",
+      "kind": "stay",
+      "locality": "Quito",
+      "lat": -0.20613,
+      "lon": -78.49168,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "General Veintimilla 531 y 6 de Diciembre, La Mariscal",
+      "price": "$28 breakfast ~$5",
+      "url": "https://www.casahelbling.de/",
+      "id": "ecuador-4af129389e89fc91c846"
+    },
+    {
+      "name": "Aleida's Hostal",
+      "kind": "stay",
+      "locality": "Quito",
+      "lat": -0.20579,
+      "lon": -78.48384,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "559 Andalucía St",
+      "price": "$32",
+      "url": "https://www.facebook.com/AleidasHostalOficial/",
+      "id": "ecuador-3e9f2d64c5b0f236f774"
+    },
+    {
+      "name": "La Casa Sol",
+      "kind": "stay",
+      "locality": "Quito",
+      "lat": -0.20395,
+      "lon": -78.4897,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Jose Calama 127",
+      "price": "$50",
+      "url": "http://www.lacasasol.com/",
+      "id": "ecuador-c8257c90ab6f8d77265d"
+    },
+    {
+      "name": "El Cafecito Cafe & Hostel",
+      "kind": "stay",
+      "locality": "Quito",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Luis Cordero E6 43",
+      "price": "$23",
+      "url": "https://www.elcafecitoquito.com/",
+      "id": "ecuador-7f565ea7f8ec3d7fed4e"
+    },
+    {
+      "name": "La Casona de Mario",
+      "kind": "stay",
+      "locality": "Quito",
+      "lat": -0.20731,
+      "lon": -78.48552,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Andalucia 213 y Galicia, La Floresta",
+      "url": "http://www.casonademario.com/",
+      "id": "ecuador-d9c23872f54da52ac929"
+    },
+    {
+      "name": "Hostal El Centro Del Mundo",
+      "kind": "stay",
+      "locality": "Quito",
+      "lat": -0.20306,
+      "lon": -78.4904,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "José Calama, E7-46, La, Mariscal Foch",
+      "price": "$5.60",
+      "url": "https://www.facebook.com/hostalelcentrodelmundo/",
+      "id": "ecuador-33635d261b658e9fbab9"
+    },
+    {
+      "name": "Hostel Belmont Plaza",
+      "kind": "stay",
+      "locality": "Quito",
+      "lat": -0.21872,
+      "lon": -78.50524,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "E3-78, José de Antepara",
+      "id": "ecuador-5b7e19fd9c0d8cad3a8b"
+    },
+    {
+      "name": "Springhills Quito Airport",
+      "kind": "stay",
+      "locality": "Quito",
+      "lat": -0.18621,
+      "lon": -78.34729,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "971 Alfonso Tobar y Tulio Garzon",
+      "price": "From $49",
+      "url": "http://www.springhillstababelahotel.com/",
+      "id": "ecuador-1ef562f373e86bedcdc3"
+    },
+    {
+      "name": "Hostal la Rabida",
+      "kind": "stay",
+      "locality": "Quito",
+      "lat": -0.19969,
+      "lon": -78.48909,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "La Rabida 227 y Santa Maria",
+      "price": "Rates range from $46-70 a day",
+      "url": "http://www.hostalrabida.com/",
+      "id": "ecuador-06610757b56749513779"
+    },
+    {
+      "name": "Travellers Inn",
+      "kind": "stay",
+      "locality": "Quito",
+      "lat": -0.19872,
+      "lon": -78.48985,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "La Pinta E4-435 y Av. Amazonas, La Mariscal.",
+      "price": "$11-25",
+      "url": "http://www.travellersecuador.com/",
+      "id": "ecuador-c2ff86ba803f9dc411d6"
+    },
+    {
+      "name": "JW Marriott Hotel Quito",
+      "kind": "stay",
+      "locality": "Quito",
+      "lat": -0.19668,
+      "lon": -78.48866,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Av. Orellana 1172 y Av. Amazonas",
+      "url": "https://www.marriott.com/UIODT",
+      "id": "ecuador-2b6309b42107039039f8"
+    },
+    {
+      "name": "Hotel Quito",
+      "kind": "stay",
+      "locality": "Quito",
+      "lat": -0.20165,
+      "lon": -78.47985,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Av. González Suárez N27 142",
+      "url": "http://www.hotelquito.com/",
+      "id": "ecuador-d54af5646e0afd9bd50a"
+    },
+    {
+      "name": "Swissotel Quito",
+      "kind": "stay",
+      "locality": "Quito",
+      "lat": -0.20534,
+      "lon": -78.48548,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "12 de Agosto y Luis Cordero",
+      "url": "https://www.swissotel.com/hotels/quito/",
+      "id": "ecuador-4b322f0462de775cb555"
+    },
+    {
+      "name": "L'Auberge Inn",
+      "kind": "stay",
+      "locality": "Quito",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Av. Colombia 1138 y Yaguachi",
+      "url": "http://www.auberge-inn-hostal.com/",
+      "id": "ecuador-d03658f2c757ec811adc"
+    },
+    {
+      "name": "Chicago Hostel Inn",
+      "kind": "stay",
+      "locality": "Quito",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Los Rios # 1730 y Briceño",
+      "url": "http://www.chicagohostelecuador.hostel.com/",
+      "id": "ecuador-25887f7fbc0df6d0381c"
+    },
+    {
+      "name": "Community Hostel",
+      "kind": "stay",
+      "locality": "Quito",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "N6-78 Pedro Fermin Cevallos and Olmedo",
+      "price": "Double $10 per person, Single $20",
+      "url": "http://www.communityhostel.com/",
+      "id": "ecuador-3b1cd3ea79978e67e970"
+    },
+    {
+      "name": "Hotel Huasi Continental",
+      "kind": "stay",
+      "locality": "Quito",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Calle Flores 308",
+      "price": "Singles from $10",
+      "url": "http://www.hotelhuasi.com/",
+      "id": "ecuador-0dcb6d2d9b2a82aff6fe"
+    },
+    {
+      "name": "Latinos Brothers",
+      "kind": "stay",
+      "locality": "Quito",
+      "lat": -0.219569,
+      "lon": -78.506745,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Esmeraldas E1-71 Pichincha",
+      "price": "$5",
+      "url": "https://www.facebook.com/latinbrotherQuito/",
+      "id": "ecuador-54fdd3dd189bcf76a940"
+    },
+    {
+      "name": "The Secret Garden",
+      "kind": "stay",
+      "locality": "Quito",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Calle Antepara E4-60 y Los Rios, San Blas",
+      "url": "http://www.secretgardenquito.com/",
+      "id": "ecuador-6d1a61a7a1d3f696970a"
+    },
+    {
+      "name": "Hotel San Francisco de Quito",
+      "kind": "stay",
+      "locality": "Quito",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "address": "Sucre 217 y Guayaquil",
+      "price": "singles/doubles $23/$42",
+      "url": "http://www.sanfranciscodequito.com.ec/",
+      "id": "ecuador-31e2e4d834e2f87ad68d"
+    },
+    {
+      "name": "Quito",
+      "kind": "area",
+      "locality": "Quito",
+      "lat": -0.25,
+      "lon": -78.5833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Quito",
+      "id": "ecuador-3091e66096cc5640beea"
+    },
+    {
+      "name": "Puerto Villamil",
+      "kind": "area",
+      "locality": "Galapagos Islands",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Galapagos_Islands",
+      "id": "ecuador-be6df09b0a2bc013a128"
+    },
+    {
+      "name": "Puerto Baquerizo Moreno",
+      "kind": "area",
+      "locality": "Galapagos Islands",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Galapagos_Islands",
+      "id": "ecuador-533769b20cccbfa43304"
+    },
+    {
+      "name": "Puerto Ayora",
+      "kind": "area",
+      "locality": "Galapagos Islands",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Galapagos_Islands",
+      "id": "ecuador-da43352a24126be21352"
+    },
+    {
+      "name": "Galapagos Islands",
+      "kind": "area",
+      "locality": "Galapagos Islands",
+      "lat": -0.666667,
+      "lon": -90.55,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Galapagos_Islands",
+      "id": "ecuador-b21b19123bd2c169c382"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 3 distinct public Wikivoyage source pages; attempted 3 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Destination article routing (regional/landmark guides may use a nearby gateway): Galápagos Islands → Galapagos Islands."
+}

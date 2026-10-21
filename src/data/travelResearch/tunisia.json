@@ -1,0 +1,630 @@
+{
+  "sources": [
+    {
+      "title": "Tunisia",
+      "url": "https://en.wikivoyage.org/wiki/Tunisia",
+      "checkedAt": "2026-10-21T08:12:55.594Z"
+    },
+    {
+      "title": "Tunis",
+      "url": "https://en.wikivoyage.org/wiki/Tunis",
+      "checkedAt": "2026-10-21T08:12:58.588Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Tunis",
+      "kind": "area",
+      "locality": "Tunisia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunisia",
+      "id": "tunisia-a8710b5c5817100c9f3f"
+    },
+    {
+      "name": "Gabes",
+      "kind": "area",
+      "locality": "Tunisia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunisia",
+      "id": "tunisia-09c2b0a0e8f76443b91b"
+    },
+    {
+      "name": "Kairouan",
+      "kind": "area",
+      "locality": "Tunisia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunisia",
+      "id": "tunisia-9b3a3090936752ff418d"
+    },
+    {
+      "name": "El Kef",
+      "kind": "area",
+      "locality": "Tunisia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunisia",
+      "id": "tunisia-b3165a4e669a519ff381"
+    },
+    {
+      "name": "Mahdia",
+      "kind": "area",
+      "locality": "Tunisia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunisia",
+      "id": "tunisia-84bbecba91afbc9d7539"
+    },
+    {
+      "name": "Monastir",
+      "kind": "area",
+      "locality": "Tunisia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunisia",
+      "id": "tunisia-0a13562e0bfc865e4f32"
+    },
+    {
+      "name": "Sfax",
+      "kind": "area",
+      "locality": "Tunisia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunisia",
+      "id": "tunisia-eb49c242f0233f944330"
+    },
+    {
+      "name": "Sousse",
+      "kind": "area",
+      "locality": "Tunisia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunisia",
+      "id": "tunisia-215b92317c5bbaa86b1c"
+    },
+    {
+      "name": "Douz",
+      "kind": "area",
+      "locality": "Tunisia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunisia",
+      "id": "tunisia-f5bc959792c00b77ef5b"
+    },
+    {
+      "name": "Tunis Medina",
+      "kind": "do",
+      "locality": "Tunis",
+      "lat": 36.8,
+      "lon": 10.17,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "id": "tunisia-74a89c09de783a0c2bc0"
+    },
+    {
+      "name": "Grande Mosquée Zitouna",
+      "kind": "do",
+      "locality": "Tunis",
+      "lat": 36.79744,
+      "lon": 10.1711,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Rue Tourbet El Bey",
+      "id": "tunisia-ab6fd0a195475927a088"
+    },
+    {
+      "name": "Sidi Youssef Dey Mosque",
+      "kind": "do",
+      "locality": "Tunis",
+      "lat": 36.797,
+      "lon": 10.1695,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Souk Trok",
+      "id": "tunisia-f929e0d8e9ad404d03f9"
+    },
+    {
+      "name": "Medersa Bachia",
+      "kind": "do",
+      "locality": "Tunis",
+      "lat": 36.79687,
+      "lon": 10.17187,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Souk El Belat",
+      "id": "tunisia-64d3c4f395dbc499c431"
+    },
+    {
+      "name": "Bab El Bahr",
+      "kind": "do",
+      "locality": "Tunis",
+      "lat": 36.79917,
+      "lon": 10.17561,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Place de la Victoire",
+      "id": "tunisia-8d3c85d933d81c06cdc8"
+    },
+    {
+      "name": "Bab Saadoun",
+      "kind": "do",
+      "locality": "Tunis",
+      "lat": 36.80861,
+      "lon": 10.15899,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Rue Bab Sadoune",
+      "id": "tunisia-24a81f589daa8de04e89"
+    },
+    {
+      "name": "Tourbet el-Bey",
+      "kind": "do",
+      "locality": "Tunis",
+      "lat": 36.7937,
+      "lon": 10.173,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Rue Tourbet el-Bey",
+      "id": "tunisia-dda3d6ca4a7646ed43ed"
+    },
+    {
+      "name": "Dar Ben Abdallah Museum",
+      "kind": "do",
+      "locality": "Tunis",
+      "lat": 36.7942,
+      "lon": 10.1741,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Rue Sidi Kassem",
+      "price": "5 DT",
+      "url": "http://www.patrimoinedetunisie.com.tn/eng/musees/dab.php",
+      "id": "tunisia-3a98419678f57d3a0f23"
+    },
+    {
+      "name": "Avenue de France",
+      "kind": "do",
+      "locality": "Tunis",
+      "lat": 36.7993,
+      "lon": 10.1772,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "id": "tunisia-1b1f98a9da4f7ccfa453"
+    },
+    {
+      "name": "Place de la Victoire",
+      "kind": "do",
+      "locality": "Tunis",
+      "lat": 36.799228,
+      "lon": 10.175619,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "id": "tunisia-44d944c6807d89c46187"
+    },
+    {
+      "name": "Cathedral of St. Vincent de Paul",
+      "kind": "do",
+      "locality": "Tunis",
+      "lat": 36.8,
+      "lon": 10.178889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Avenue Habib Bourguiba",
+      "id": "tunisia-fc0de4c82f511725d937"
+    },
+    {
+      "name": "Théâtre Municipal",
+      "kind": "do",
+      "locality": "Tunis",
+      "lat": 36.79916,
+      "lon": 10.18086,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "2, rue de Grèce",
+      "url": "https://www.facebook.com/pages/Th%C3%A9%C3%A2tre-Municipal-de-Tunis/206883872665798?nr&nr_page_id=461327487283804",
+      "id": "tunisia-a17df0dcd36958f07fc1"
+    },
+    {
+      "name": "Tunis Clock Tower",
+      "kind": "do",
+      "locality": "Tunis",
+      "lat": 36.80021,
+      "lon": 10.1862,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Place du 14 janvier",
+      "id": "tunisia-58105af7809041dcd40e"
+    },
+    {
+      "name": "Al-Fateh Mosque",
+      "kind": "do",
+      "locality": "Tunis",
+      "lat": 36.80796,
+      "lon": 10.18065,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Avenue de la Liberté",
+      "id": "tunisia-c17dad391e874c519699"
+    },
+    {
+      "name": "Bardo Museum",
+      "kind": "do",
+      "locality": "Tunis",
+      "lat": 36.809386,
+      "lon": 10.134508,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Le Bardo-2000",
+      "price": "13 DT",
+      "url": "http://www.bardomuseum.tn/index.php?lang=en",
+      "id": "tunisia-c8f4c6c28b054486e31f"
+    },
+    {
+      "name": "Parc du Belvédère",
+      "kind": "do",
+      "locality": "Tunis",
+      "lat": 36.822,
+      "lon": 10.172,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Avenue Taieb Mehiri",
+      "id": "tunisia-506ce6a44149ce9670d7"
+    },
+    {
+      "name": "Hôtel de Ville",
+      "kind": "do",
+      "locality": "Tunis",
+      "lat": 36.7974,
+      "lon": 10.1657,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "id": "tunisia-5b8a5fcddd6578339554"
+    },
+    {
+      "name": "Chambre des Conseillers",
+      "kind": "do",
+      "locality": "Tunis",
+      "lat": 36.8114,
+      "lon": 10.12961,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "id": "tunisia-46c356e6a47807b27bce"
+    },
+    {
+      "name": "Uthina",
+      "kind": "do",
+      "locality": "Tunis",
+      "lat": 36.608467,
+      "lon": 10.171708,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "price": "7 DT",
+      "url": "http://www.patrimoinedetunisie.com.tn/eng/sites/uthina.php",
+      "id": "tunisia-24d4b8fe07c7700ff601"
+    },
+    {
+      "name": "The Corner",
+      "kind": "eat",
+      "locality": "Tunis",
+      "lat": 36.81114,
+      "lon": 10.18316,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "36 Rue de Syrie",
+      "id": "tunisia-e08a5f0b7dbedea45258"
+    },
+    {
+      "name": "Restaurant Ojja Chouchou",
+      "kind": "eat",
+      "locality": "Tunis",
+      "lat": 36.80645,
+      "lon": 10.17834,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "11 Rue Borj Bourguiba",
+      "id": "tunisia-7695cb4a1b6e4e294185"
+    },
+    {
+      "name": "Café de Paris Brasserie",
+      "kind": "eat",
+      "locality": "Tunis",
+      "lat": 36.79949,
+      "lon": 10.10949,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Avenue Habib Bourguiba",
+      "id": "tunisia-57073301aa416187920d"
+    },
+    {
+      "name": "Etoile de La Medina",
+      "kind": "eat",
+      "locality": "Tunis",
+      "lat": 36.79692,
+      "lon": 10.15399,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Boulevard Bab Bnet",
+      "id": "tunisia-60a4531d94cf223bed99"
+    },
+    {
+      "name": "La Sirène",
+      "kind": "eat",
+      "locality": "Tunis",
+      "lat": 36.81843,
+      "lon": 10.30261,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "La Goulette",
+      "id": "tunisia-e917376f1d2325114bcf"
+    },
+    {
+      "name": "L'Orient",
+      "kind": "eat",
+      "locality": "Tunis",
+      "lat": 36.80046,
+      "lon": 10.17979,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "7 de, Rue Ali Bach Hamba",
+      "id": "tunisia-24ae4e107259d44fc6f3"
+    },
+    {
+      "name": "La Mamma",
+      "kind": "eat",
+      "locality": "Tunis",
+      "lat": 36.80088,
+      "lon": 10.17981,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "11 Bis, Rue de Marseille",
+      "id": "tunisia-d31f10afcfd8bed00cd1"
+    },
+    {
+      "name": "Dar el-Jeld",
+      "kind": "eat",
+      "locality": "Tunis",
+      "lat": 36.79851,
+      "lon": 10.16654,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "5-10 rue Dar el-Jeld",
+      "url": "http://www.dareljeld.com/",
+      "id": "tunisia-531f8d7b82e0f748753b"
+    },
+    {
+      "name": "Restaurant Dar Slah",
+      "kind": "eat",
+      "locality": "Tunis",
+      "lat": 36.79852,
+      "lon": 10.16654,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "145 Rue de la Kasbah",
+      "id": "tunisia-f4ddff69884333ee4278"
+    },
+    {
+      "name": "Le Boeuf sur le Toit",
+      "kind": "eat",
+      "locality": "Tunis",
+      "lat": 36.8743,
+      "lon": 10.2452,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "3 avenue Fatouma Bourguiba",
+      "id": "tunisia-85bfa4bae04fe5a030c7"
+    },
+    {
+      "name": "Bar Jamaica",
+      "kind": "eat",
+      "locality": "Tunis",
+      "lat": 36.80013,
+      "lon": 10.18096,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "49 Avenue Habib Boutguiba",
+      "id": "tunisia-943f24dedc19010b20eb"
+    },
+    {
+      "name": "Hotel Africa Lobby Bar",
+      "kind": "eat",
+      "locality": "Tunis",
+      "lat": 36.79959,
+      "lon": 10.18331,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Avenue Habib Bourguiba",
+      "id": "tunisia-f7a702dff88f6463e4e1"
+    },
+    {
+      "name": "Brasserie les 2 Avenues",
+      "kind": "eat",
+      "locality": "Tunis",
+      "lat": 36.8,
+      "lon": 10.1807,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Ave Habib Bourguib",
+      "id": "tunisia-002ecb5bc20b2fb21759"
+    },
+    {
+      "name": "Piano Bar",
+      "kind": "eat",
+      "locality": "Tunis",
+      "lat": 36.81788,
+      "lon": 10.1838,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Avenue Mohamed V, 45",
+      "id": "tunisia-9d338cad508d88f81d6e"
+    },
+    {
+      "name": "Café M'Rabet",
+      "kind": "eat",
+      "locality": "Tunis",
+      "lat": 36.7981,
+      "lon": 10.1714,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Souk Trok",
+      "id": "tunisia-9c298cc3d53d75a5ba93"
+    },
+    {
+      "name": "Café de Paris",
+      "kind": "eat",
+      "locality": "Tunis",
+      "lat": 36.79944,
+      "lon": 10.18161,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Avenue Habib Bourguiba",
+      "id": "tunisia-c31f36a23ee07e0435df"
+    },
+    {
+      "name": "Panorama Medina",
+      "kind": "eat",
+      "locality": "Tunis",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "price": "DT2 for tea, DT5 for shisha",
+      "id": "tunisia-9dbcbaaec26f45122c68"
+    },
+    {
+      "name": "YHA Tunis Auberge Medina",
+      "kind": "stay",
+      "locality": "Tunis",
+      "lat": 36.7995,
+      "lon": 10.1699,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "25 rue Saïda Ajoula",
+      "price": "8 DT incl. breakfast",
+      "url": "https://www.facebook.com/AubergeDeLaMedinaDeTunis/",
+      "id": "tunisia-f21c2d1800f4bd7051f0"
+    },
+    {
+      "name": "La Maison Doree",
+      "kind": "stay",
+      "locality": "Tunis",
+      "lat": 36.79783,
+      "lon": 10.17995,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "6 bis rue de Hollande",
+      "price": "32-52 DT",
+      "id": "tunisia-d8a0d50863955c8e03a6"
+    },
+    {
+      "name": "Hotel Transatlantique",
+      "kind": "stay",
+      "locality": "Tunis",
+      "lat": 36.79826,
+      "lon": 10.18145,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Rue De Yougoslavie 106",
+      "price": "40 DT",
+      "id": "tunisia-d2bc16d8dd48df41b8bf"
+    },
+    {
+      "name": "Grand Hotel de France",
+      "kind": "stay",
+      "locality": "Tunis",
+      "lat": 36.79839,
+      "lon": 10.17632,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Rue Mustapha M'barek",
+      "price": "61 DT for two persons in a clean double room ensuite toilet and shower (2019) incl. breakfast",
+      "id": "tunisia-763ff51add01d99130cf"
+    },
+    {
+      "name": "Yadis Ibn Khaldoun",
+      "kind": "stay",
+      "locality": "Tunis",
+      "lat": 36.8132,
+      "lon": 10.1806,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Rue du Koweit, 30",
+      "id": "tunisia-ca87b4ebbfa1ecd6f86f"
+    },
+    {
+      "name": "Le Pacha",
+      "kind": "stay",
+      "locality": "Tunis",
+      "lat": 36.8186,
+      "lon": 10.1836,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Avenue Kheireddine Pacha, 4",
+      "id": "tunisia-a184183ed348b9ee036f"
+    },
+    {
+      "name": "Hotel du Parc",
+      "kind": "stay",
+      "locality": "Tunis",
+      "lat": 36.8151,
+      "lon": 10.18575,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Avenue de l'Arabie Saoudite",
+      "url": "http://www.hotelduparc.com.tn/",
+      "id": "tunisia-19e65b4976c546f6138d"
+    },
+    {
+      "name": "Dar Ya - Hostel",
+      "kind": "stay",
+      "locality": "Tunis",
+      "lat": 36.8005,
+      "lon": 10.16732,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "6 Rue de la Carriere",
+      "price": "113 DT",
+      "url": "https://www.facebook.com/DarYaTunis/",
+      "id": "tunisia-82dfcb05db7275f51aab"
+    },
+    {
+      "name": "Dar Traki Medina de Tunis",
+      "kind": "stay",
+      "locality": "Tunis",
+      "lat": 36.79496,
+      "lon": 10.17205,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "7 impasse Mesjed el Koba",
+      "price": "127 DT",
+      "url": "http://www.bed-and-breakfast-dar-traki-medina-de-tunis-tunez.vivehotels.com/",
+      "id": "tunisia-ac17729618490b41b5c5"
+    },
+    {
+      "name": "Dar Ben Gacem",
+      "kind": "stay",
+      "locality": "Tunis",
+      "lat": 36.80045,
+      "lon": 10.16797,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "38 Rue du Pacha",
+      "price": "153 DT",
+      "url": "http://www.darbengacem.com/",
+      "id": "tunisia-d2b28814e0ea792a2370"
+    },
+    {
+      "name": "Dar El-Medina",
+      "kind": "stay",
+      "locality": "Tunis",
+      "lat": 36.799,
+      "lon": 10.1695,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "64 Rue Sidi ben Arous",
+      "price": "200-250 DT, 150 DT for a double in off-season",
+      "url": "https://www.darelmedina.tn/",
+      "id": "tunisia-f7e48e83f70ec7b57371"
+    },
+    {
+      "name": "Sheraton Tunis Hotel",
+      "kind": "stay",
+      "locality": "Tunis",
+      "lat": 36.8311,
+      "lon": 10.1608,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Avenue de la Ligue Arab",
+      "url": "https://www.marriott.com/hotels/travel/tunsi-sheraton-tunis-hotel/",
+      "id": "tunisia-67bc56b485c3db93bdb0"
+    },
+    {
+      "name": "Hôtel Golden Tulip El Mechtel",
+      "kind": "stay",
+      "locality": "Tunis",
+      "lat": 36.81367,
+      "lon": 10.17381,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Avenue Ouled Haffouz El Omrane",
+      "price": "single room: 160 DT, breakfast (buffet): 23 DT, beer in the bar: 6 DT",
+      "url": "http://www.goldentulipelmechtel.com/",
+      "id": "tunisia-89a6e5442245731a96a2"
+    },
+    {
+      "name": "La Maison Blanche",
+      "kind": "stay",
+      "locality": "Tunis",
+      "lat": 36.81771,
+      "lon": 10.18383,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Avenue Mohamed V, 45",
+      "url": "http://www.hotel-lamaisonblanche.com/",
+      "id": "tunisia-a29bcbbed0318057fe38"
+    },
+    {
+      "name": "Hôtel Africa",
+      "kind": "stay",
+      "locality": "Tunis",
+      "lat": 36.79945,
+      "lon": 10.18317,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Avenue Habib Bourguiba, 50",
+      "url": "https://www.facebook.com/HotelAfricaTn/",
+      "id": "tunisia-0716aac865498587eaaa"
+    },
+    {
+      "name": "Hotel Diplomat",
+      "kind": "stay",
+      "locality": "Tunis",
+      "lat": 36.81346,
+      "lon": 10.17722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "address": "Avenue Hedi Chaker, 44",
+      "url": "http://www.diplomat-hotel-tunis.com/",
+      "id": "tunisia-3a4bdf308fb49a01e899"
+    },
+    {
+      "name": "Tunis",
+      "kind": "area",
+      "locality": "Tunis",
+      "lat": 36.8,
+      "lon": 10.1833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Tunis",
+      "id": "tunisia-b1c8b4fa27dbf0027430"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

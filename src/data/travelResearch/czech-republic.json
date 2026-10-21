@@ -1,0 +1,4196 @@
+{
+  "sources": [
+    {
+      "title": "Czech Republic",
+      "url": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "checkedAt": "2026-10-21T08:04:37.801Z"
+    },
+    {
+      "title": "Prague",
+      "url": "https://en.wikivoyage.org/wiki/Prague",
+      "checkedAt": "2026-10-21T08:04:41.417Z"
+    },
+    {
+      "title": "Prague/Old Town and Josefov",
+      "url": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "checkedAt": "2026-10-21T08:04:43.419Z"
+    },
+    {
+      "title": "Prague/Castle and Lesser Town",
+      "url": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "checkedAt": "2026-10-21T08:04:46.267Z"
+    },
+    {
+      "title": "Prague/New Town and Vysehrad",
+      "url": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "checkedAt": "2026-10-21T08:04:55.497Z"
+    },
+    {
+      "title": "Prague/West bank of Vltava",
+      "url": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "checkedAt": "2026-10-21T08:04:58.234Z"
+    },
+    {
+      "title": "Prague/East bank of Vltava",
+      "url": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "checkedAt": "2026-10-21T08:05:01.644Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Prague",
+      "kind": "area",
+      "locality": "Czech Republic",
+      "lat": 50.083333,
+      "lon": 14.416667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-178856e46427aeb8e459"
+    },
+    {
+      "name": "Brno",
+      "kind": "area",
+      "locality": "Czech Republic",
+      "lat": 49.2,
+      "lon": 16.616667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-6b8f73260a6a702e6be5"
+    },
+    {
+      "name": "České Budějovice",
+      "kind": "area",
+      "locality": "Czech Republic",
+      "lat": 48.974722,
+      "lon": 14.474722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-7dc5259776df67d8b6ee"
+    },
+    {
+      "name": "Český Krumlov",
+      "kind": "area",
+      "locality": "Czech Republic",
+      "lat": 48.816667,
+      "lon": 14.316667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-ada281b674d083fa73d3"
+    },
+    {
+      "name": "Karlovy Vary",
+      "kind": "area",
+      "locality": "Czech Republic",
+      "lat": 50.233333,
+      "lon": 12.866667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-d15c4a2d3a5e3aa43191"
+    },
+    {
+      "name": "Kutná Hora",
+      "kind": "area",
+      "locality": "Czech Republic",
+      "lat": 49.95,
+      "lon": 15.266667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-ef81dd5b8eb2cbe629b6"
+    },
+    {
+      "name": "Olomouc",
+      "kind": "area",
+      "locality": "Czech Republic",
+      "lat": 49.6,
+      "lon": 17.25,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-5370465d2bc58edaeae4"
+    },
+    {
+      "name": "Ostrava",
+      "kind": "area",
+      "locality": "Czech Republic",
+      "lat": 49.835556,
+      "lon": 18.2925,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-f4f91d58609971d78550"
+    },
+    {
+      "name": "Pilsen",
+      "kind": "area",
+      "locality": "Czech Republic",
+      "lat": 49.7475,
+      "lon": 13.3775,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-b904b3647d5a4b57a5fc"
+    },
+    {
+      "name": "Bramboračka",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-b7b9801ccb656901c3ee"
+    },
+    {
+      "name": "Hovězí vývar",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-f230f16614fc55cb82bb"
+    },
+    {
+      "name": "Gulášovka",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-3beaf3256b78fd447e24"
+    },
+    {
+      "name": "Zelňačka",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-177d47e5f0d441647c31"
+    },
+    {
+      "name": "Česnečka",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-643a84fd5011566ccd72"
+    },
+    {
+      "name": "Kulajda",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-fcf1bed238c89f342e21"
+    },
+    {
+      "name": "Hrášková polévka",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-22a62046e37a46c7e336"
+    },
+    {
+      "name": "Čočková polévka",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-2cf5640e1ae78340f81e"
+    },
+    {
+      "name": "Fazolačka",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-c71c1c81fefbe9713ab0"
+    },
+    {
+      "name": "Rajská polévka",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-66510aab427f82013dde"
+    },
+    {
+      "name": "Dršťková polévka",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-5eb8b3a875952e224d92"
+    },
+    {
+      "name": "Rybí polévka",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-099658b8ecbc65511abc"
+    },
+    {
+      "name": "Guláš",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-53e81bdf3686da20e703"
+    },
+    {
+      "name": "Svíčková na smetaně",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-6d083cf804a4458f7445"
+    },
+    {
+      "name": "Vepřová pečeně se zelím a knedlíkem",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-5b7cb3b50fa1ce4dda9c"
+    },
+    {
+      "name": "Utopenec",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-95c2fd39c5bc18c9d5d4"
+    },
+    {
+      "name": "Lázeňské oplatky",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-0d8c568dce3f6c309469"
+    },
+    {
+      "name": "Trdlo",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-8608f3bf6f29a3582a20"
+    },
+    {
+      "name": "Jablkový závin",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-7d9114696120218f0794"
+    },
+    {
+      "name": "Medovník",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-f9044f8f3113269a173e"
+    },
+    {
+      "name": "Ovocné knedlíky",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-d3edc5a35e5a9be1fa1a"
+    },
+    {
+      "name": "Palačinka",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-e4b111e5383f61298658"
+    },
+    {
+      "name": "Bábovka",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-54baea3c9a499ea374f2"
+    },
+    {
+      "name": "Buchty",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-2aceaefcb874ed571c7d"
+    },
+    {
+      "name": "Koláče",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-b888f9663364b0ab9a1c"
+    },
+    {
+      "name": "Becherovka",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "url": "http://www.becherovka.com/",
+      "id": "czech-republic-8e7b449729abb3cd7c4b"
+    },
+    {
+      "name": "Tuzemský rum",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-8c6c54651ed3b5bb33d1"
+    },
+    {
+      "name": "Slivovice",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-d775eebca6a4cb4f4709"
+    },
+    {
+      "name": "Hruškovice",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "id": "czech-republic-dde52eb83d31f247eba3"
+    },
+    {
+      "name": "Kofola",
+      "kind": "eat",
+      "locality": "Czech Republic",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Czech_Republic",
+      "url": "http://www.kofola.cz/",
+      "id": "czech-republic-d67ca2a2e42c8da892ca"
+    },
+    {
+      "name": "Prague Visitor Pass",
+      "kind": "do",
+      "locality": "Prague",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague",
+      "price": "2700 Kč",
+      "url": "https://www.praguevisitorpass.eu/",
+      "id": "czech-republic-025c5116bf5d7c97c4eb"
+    },
+    {
+      "name": "Prague Cool Pass",
+      "kind": "do",
+      "locality": "Prague",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague",
+      "price": "Adult: €64 - 1 day, €88 - 2 days, €108 - 3 days",
+      "url": "https://praguecoolpass.com/",
+      "id": "czech-republic-a5f4bd595a845a9c133b"
+    },
+    {
+      "name": "Prague City Pass",
+      "kind": "do",
+      "locality": "Prague",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague",
+      "price": "1390 Kč",
+      "url": "http://www.praguecitypass.com/en/",
+      "id": "czech-republic-7679647bf6e3f32a6220"
+    },
+    {
+      "name": "National Gallery Gift Ticket",
+      "kind": "do",
+      "locality": "Prague",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague",
+      "price": "450 Kč",
+      "id": "czech-republic-01a687f743df7c3be424"
+    },
+    {
+      "name": "Prague Spring",
+      "kind": "do",
+      "locality": "Prague",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague",
+      "url": "http://www.festival.cz/",
+      "id": "czech-republic-2a5dfb49f834645986d0"
+    },
+    {
+      "name": "Prague Advent Choral Meeting",
+      "kind": "do",
+      "locality": "Prague",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague",
+      "url": "http://www.pragueadvent.cz/",
+      "id": "czech-republic-920a427783dcf6e506ed"
+    },
+    {
+      "name": "Signal Festival",
+      "kind": "do",
+      "locality": "Prague",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague",
+      "url": "https://www.signalfestival.com/en/",
+      "id": "czech-republic-3d6aec1dec107b5153ac"
+    },
+    {
+      "name": "Wine Boat",
+      "kind": "do",
+      "locality": "Prague",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague",
+      "url": "https://www.wineboat.cz/",
+      "id": "czech-republic-81b02ab66b69a19789c5"
+    },
+    {
+      "name": "Prague Steam Boats",
+      "kind": "do",
+      "locality": "Prague",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague",
+      "url": "https://www.praguesteamboats.com/",
+      "id": "czech-republic-cb08c7beec9466dacb03"
+    },
+    {
+      "name": "Cruise Prague",
+      "kind": "do",
+      "locality": "Prague",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague",
+      "url": "http://www.cruise-prague.cz/",
+      "id": "czech-republic-907df41ad64b04e1425f"
+    },
+    {
+      "name": "EVD",
+      "kind": "do",
+      "locality": "Prague",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague",
+      "url": "https://www.evd.cz/en",
+      "id": "czech-republic-4389941aaae16f6deba1"
+    },
+    {
+      "name": "JazzBoat",
+      "kind": "do",
+      "locality": "Prague",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague",
+      "url": "http://www.jazzboat.cz/",
+      "id": "czech-republic-87a370c3fca8ddf27d7c"
+    },
+    {
+      "name": "Football",
+      "kind": "do",
+      "locality": "Prague",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague",
+      "id": "czech-republic-e716dfc7a2115e44ef0e"
+    },
+    {
+      "name": "We Bike Prague",
+      "kind": "do",
+      "locality": "Prague",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague",
+      "address": "Konviktska 7, 11000",
+      "id": "czech-republic-ddd68fc2031c00481a71"
+    },
+    {
+      "name": "BIKO Adventures Prague",
+      "kind": "do",
+      "locality": "Prague",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague",
+      "address": "Vratislavova 58/3, Vysehrad",
+      "url": "http://www.bikoadventures.com/",
+      "id": "czech-republic-5ce92f19dd9def887635"
+    },
+    {
+      "name": "Prague Tours Center",
+      "kind": "do",
+      "locality": "Prague",
+      "lat": 50.08533,
+      "lon": 14.41994,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague",
+      "address": "Michalska 12, Prague 1",
+      "url": "http://prague-tours-center.com/",
+      "id": "czech-republic-a862f1c41734a19b030f"
+    },
+    {
+      "name": "Running Tours Prague",
+      "kind": "do",
+      "locality": "Prague",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague",
+      "price": "from US$15",
+      "url": "http://www.runningtoursprague.com/",
+      "id": "czech-republic-8d292ecc5da72fef4e25"
+    },
+    {
+      "name": "Prague",
+      "kind": "area",
+      "locality": "Prague",
+      "lat": 50.0664,
+      "lon": 14.473,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague",
+      "id": "czech-republic-e01f54b81aec4453a439"
+    },
+    {
+      "name": "Old Town Square",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.0875,
+      "lon": 14.421389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "id": "czech-republic-cfa1c571966e6452e6c2"
+    },
+    {
+      "name": "Týn Church",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.08772,
+      "lon": 14.42269,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "id": "czech-republic-ad76a552dea8610dc7da"
+    },
+    {
+      "name": "Storch Building",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.087253,
+      "lon": 14.421903,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "id": "czech-republic-574e3fc60dd49432f76e"
+    },
+    {
+      "name": "Jan Hus Memorial",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.087778,
+      "lon": 14.421111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "id": "czech-republic-1210b2c7e3bc3b3e650b"
+    },
+    {
+      "name": "Astronomical Clock",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.087008,
+      "lon": 14.420917,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "url": "http://www.orloj600let.cz/",
+      "id": "czech-republic-1b0335f01499cbeeb91a"
+    },
+    {
+      "name": "Municipal House",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.08762,
+      "lon": 14.42824,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "price": "Adult 320 Kč",
+      "url": "http://www.obecnidum.cz/",
+      "id": "czech-republic-170282d61905031081b6"
+    },
+    {
+      "name": "Prague City Gallery",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.08778,
+      "lon": 14.42196,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "url": "http://ghmp.cz/",
+      "id": "czech-republic-5d13965b4d8a46bbc0d1"
+    },
+    {
+      "name": "Speculum Alchemiae",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.090787,
+      "lon": 14.422507,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Haštalská 795/1",
+      "price": "Adults 200 Kč, students 150 Kč",
+      "url": "http://www.alchemiae.cz/en",
+      "id": "czech-republic-c27fb0fac620fd664ee7"
+    },
+    {
+      "name": "Convent of Saint Agnes",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.092494,
+      "lon": 14.424861,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "U Milosrdných 17",
+      "price": "Admission: Full: 220 Kč, Reduced: 120 Kč, Family: 150 Kč",
+      "url": "http://www.ngprague.cz/en/",
+      "id": "czech-republic-28cb83579a17ed08ccc8"
+    },
+    {
+      "name": "Museum of Czech Cubism",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.087,
+      "lon": 14.42545,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Ovocný trh 19",
+      "price": "Adult 150 Kč, senior or student 80 Kč (July 2020)",
+      "url": "http://www.prague.cz/black-madonna-house/",
+      "id": "czech-republic-64bd788d844f873299e7"
+    },
+    {
+      "name": "Museum of Decorative Arts",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.089722,
+      "lon": 14.416389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "17 listopadu 2, Praha 1",
+      "url": "http://www.upm.cz/",
+      "id": "czech-republic-f41d051c502bbf36218f"
+    },
+    {
+      "name": "Church of the Holy Spirit",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.09,
+      "lon": 14.42028,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "id": "czech-republic-17bb320e411683b50246"
+    },
+    {
+      "name": "Pariska Street",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.08844,
+      "lon": 14.42,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "id": "czech-republic-364795e303cf3ca48390"
+    },
+    {
+      "name": "Rudolfinum",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.09,
+      "lon": 14.4156,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Alšovo nábřeží 12",
+      "url": "http://www.rudolfinum.cz/",
+      "id": "czech-republic-14a4ad116dbf56a67780"
+    },
+    {
+      "name": "Jaroslav Fragner Gallery",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.084482,
+      "lon": 14.41793,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "url": "http://www.gjf.cz/en",
+      "id": "czech-republic-e8ac00ac8fb8418fcd85"
+    },
+    {
+      "name": "Sex Machines Museum",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.086278,
+      "lon": 14.420726,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Melantrichova 476/18",
+      "price": "300 Kc for students, 350 for adults",
+      "url": "https://sexmachinesmuseum.com/home/",
+      "id": "czech-republic-267fb2b29e7a9a7b86ae"
+    },
+    {
+      "name": "Lego Museum",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.0827022,
+      "lon": 14.4193908,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Národní 362/31",
+      "price": "210 Kc",
+      "url": "http://www.muzeumlega.cz/",
+      "id": "czech-republic-24e7be84997a4d24cb38"
+    },
+    {
+      "name": "Powder Tower",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.087222,
+      "lon": 14.427778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "id": "czech-republic-03f67a494b8082e26094"
+    },
+    {
+      "name": "Jewish Museum",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.090285,
+      "lon": 14.4211,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "U Staré školy 1",
+      "url": "http://www.jewishmuseum.cz/aindex.htm",
+      "id": "czech-republic-10d422322e2a1b0372fa"
+    },
+    {
+      "name": "Maisel Synagogue",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.08878,
+      "lon": 14.41866,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "id": "czech-republic-020415c10d1d661fe4a3"
+    },
+    {
+      "name": "Spanish Synagogue",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.090361,
+      "lon": 14.420833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Vězeňská 1",
+      "url": "http://www.jewishmuseum.cz/en/explore/sites/spanish-synagogue",
+      "id": "czech-republic-b2e32413b04a0a6a9eed"
+    },
+    {
+      "name": "Pinkas Synagogue",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.089263,
+      "lon": 14.416951,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Siroká ulice 3",
+      "url": "http://www.jewishmuseum.cz/",
+      "id": "czech-republic-d6e38c2b207d93a81b4d"
+    },
+    {
+      "name": "Old Jewish Cemetery",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.089722,
+      "lon": 14.417222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Siroká ulice",
+      "id": "czech-republic-258852e0924f1b370574"
+    },
+    {
+      "name": "Klausen Synagogue",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.0899,
+      "lon": 14.41725,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "id": "czech-republic-a990a42d98bb5889dd0d"
+    },
+    {
+      "name": "Ceremonial Hall",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.090034,
+      "lon": 14.417024,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "id": "czech-republic-2c93c35a87219c9b1bad"
+    },
+    {
+      "name": "Old-New Synagogue",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.09,
+      "lon": 14.418611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Maiselova 18",
+      "url": "http://www.synagogue.cz/en/old-new-synagogue?p=15",
+      "id": "czech-republic-5d7cb068956a4a7f971b"
+    },
+    {
+      "name": "Jewish Town Hall",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.08917,
+      "lon": 14.41861,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Maiselova 250/18",
+      "id": "czech-republic-04ea2a49cfd2b9143da4"
+    },
+    {
+      "name": "Stavovské divadlo",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.086111,
+      "lon": 14.423889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "url": "https://www.narodni-divadlo.cz/en/estates-theatre",
+      "id": "czech-republic-c99d9fd375457517e6cc"
+    },
+    {
+      "name": "Thrill Park Prague",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.0852932,
+      "lon": 14.423927,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Provaznická 11",
+      "url": "https://thrillparkprague.com/",
+      "id": "czech-republic-aa33f42fcd348d80c795"
+    },
+    {
+      "name": "FunCity Prague Arcade",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.0862301,
+      "lon": 14.4189931,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Karlova 110 00/48",
+      "id": "czech-republic-b545fd47101be36cd802"
+    },
+    {
+      "name": "Illusion Art Museum Prague",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.086671,
+      "lon": 14.420941,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Staroměstské nám. 480/24",
+      "url": "https://www.iamprague.eu/",
+      "id": "czech-republic-e2b2bf2ffe7a5c93fdba"
+    },
+    {
+      "name": "City Game Prague",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.0861,
+      "lon": 14.4139,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "starts on Křižovnické náměstí",
+      "url": "https://city-game-prague.com/",
+      "id": "czech-republic-fef664e64b58400e4f8a"
+    },
+    {
+      "name": "Hacker's Nest",
+      "kind": "do",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.09131,
+      "lon": 14.42191,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Bilkova 21",
+      "price": "EUR 50",
+      "url": "http://thechamber.cz/en/",
+      "id": "czech-republic-b3106ade59a0b4a34f6e"
+    },
+    {
+      "name": "Havelská Koruna",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.0854976,
+      "lon": 14.4217638,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "21 a 23, Havelská 501",
+      "id": "czech-republic-96008d2a6628dee04137"
+    },
+    {
+      "name": "Café Montmartre",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.0855468,
+      "lon": 14.4177854,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Řetězová 7",
+      "id": "czech-republic-750b47a21d06387ab062"
+    },
+    {
+      "name": "O'Che's Irish Bar",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.0853986,
+      "lon": 14.4164225,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "14, Liliová 946",
+      "id": "czech-republic-452169758dfb6eeee5bd"
+    },
+    {
+      "name": "MOON Chinese Restaurant",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.0911151,
+      "lon": 14.4252181,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "20, Haštalská 731",
+      "id": "czech-republic-5e7fd15be733a1931ae9"
+    },
+    {
+      "name": "Restaurace Apetit",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.0902295,
+      "lon": 14.4245533,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Dlouhá 736",
+      "id": "czech-republic-9780ec89a9d042780021"
+    },
+    {
+      "name": "Bistro Mezi Řádky",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.0889195,
+      "lon": 14.4157952,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "nám. J. Palacha 1",
+      "id": "czech-republic-2f676b26abc055bafdba"
+    },
+    {
+      "name": "Klub FAMU",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.0817234,
+      "lon": 14.4131536,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Smetanovo nábř. 2",
+      "id": "czech-republic-0b56089a702bf69e429c"
+    },
+    {
+      "name": "Grand Cafe Orient",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.087036,
+      "lon": 14.425467,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Dům u Černé Matky Boží, Ovocny trh 19",
+      "url": "http://www.grandcafeorient.cz/",
+      "id": "czech-republic-cb61e9a55cfe1cd15b28"
+    },
+    {
+      "name": "La Casa Blu",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.091127,
+      "lon": 14.422098,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Kozí 15",
+      "url": "http://www.lacasablu.cz/",
+      "id": "czech-republic-fcd5561ab95b92c7371a"
+    },
+    {
+      "name": "Lokál",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.090641,
+      "lon": 14.425818,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Dlouhá 731/33, Prague 1",
+      "url": "http://lokal.ambi.cz/en/#restaurace",
+      "id": "czech-republic-8594eca8f6370cedcdd6"
+    },
+    {
+      "name": "Restaurace Konvikt",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.083238,
+      "lon": 14.417892,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Bartolomějská 11",
+      "url": "http://konviktpub.cz/index.html",
+      "id": "czech-republic-5f2c87bedc826fd8e26b"
+    },
+    {
+      "name": "Dinitz Kosher Restaurant",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.091084,
+      "lon": 14.421041,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Bilkova 12 - Prague 1",
+      "price": "business lunch 378 Kč",
+      "url": "http://www.dinitz.cz/",
+      "id": "czech-republic-d8d442358f4c1b992d00"
+    },
+    {
+      "name": "V Kolkovně",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.089965,
+      "lon": 14.421226,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "V Kolkovně 8, Prague 1",
+      "id": "czech-republic-e59f84208e285eacd000"
+    },
+    {
+      "name": "Kafka snob food",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.089167,
+      "lon": 14.418635,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Široká 12",
+      "id": "czech-republic-111b50dfa6c763076662"
+    },
+    {
+      "name": "Indian Jewel",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.087922,
+      "lon": 14.423745,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Týn 6",
+      "url": "http://www.indianjewel.cz/",
+      "id": "czech-republic-1849013c886a34ef7e9f"
+    },
+    {
+      "name": "Kavárna Obecní dům",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.087554,
+      "lon": 14.428208,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "náměstí Republiky 5",
+      "url": "http://www.kavarnaod.cz/about-the-cafe/",
+      "id": "czech-republic-a94a5042681ad0546485"
+    },
+    {
+      "name": "Bakeshop",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.0897,
+      "lon": 14.42231,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Kozi 1",
+      "url": "http://www.bakeshop.cz/",
+      "id": "czech-republic-9e9ae12d13d749b76fbb"
+    },
+    {
+      "name": "Five Rivers",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.0877694,
+      "lon": 14.414325,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Krizovnika 10, 110 00 Praha 1",
+      "price": "40-400Kč",
+      "url": "https://www.fiverivers.cz/",
+      "id": "czech-republic-5e38f23fec9cd6812868"
+    },
+    {
+      "name": "Maitrea",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.0877694,
+      "lon": 14.414325,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Týnská ulička 1064/6",
+      "url": "https://www.restaurace-maitrea.cz/en/",
+      "id": "czech-republic-1939a37c9bd2d10142f9"
+    },
+    {
+      "name": "Ambiante Pizza Nuova",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.089509,
+      "lon": 14.427913,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Revoluční 1",
+      "url": "http://pizzanuova.ambi.cz/en/",
+      "id": "czech-republic-8479dc823907a8f9f781"
+    },
+    {
+      "name": "Field",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.0918,
+      "lon": 14.422,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "U milosrdných 852/12, 11000 Praha 1",
+      "url": "https://www.fieldrestaurant.cz/",
+      "id": "czech-republic-88e2a74983c8b6c46b75"
+    },
+    {
+      "name": "La Dégustation Bohême Bourgeoise",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.09098,
+      "lon": 14.425231,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Haštalská 753/18, Prague 1",
+      "url": "http://www.ladegustation.cz/",
+      "id": "czech-republic-d2d93bd5b3a5270a6fae"
+    },
+    {
+      "name": "Marina Ristorante",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.089062,
+      "lon": 14.413729,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Alšovo nábřeží",
+      "url": "http://marinaristorante.cz/en/menu/aktualita/",
+      "id": "czech-republic-2dcd20dafdbad352b1da"
+    },
+    {
+      "name": "Robotic Bar",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.0854808,
+      "lon": 14.4139639,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "id": "czech-republic-06dff0647c03e37b9901"
+    },
+    {
+      "name": "Ice Pub",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.085529,
+      "lon": 14.413993,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "id": "czech-republic-73ed29de24bd1a72c1e5"
+    },
+    {
+      "name": "AghaRTA Jazz Centrum",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.086306,
+      "lon": 14.421937,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Železna 16",
+      "url": "http://www.agharta.cz/aghaprog.htm",
+      "id": "czech-republic-4d8e5d64097d8d928019"
+    },
+    {
+      "name": "Al Capone's Cocktail Bar",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.082407,
+      "lon": 14.415924,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Bartolomějská 3",
+      "price": "Beer 25 Kč-70 Kč, cocktails 45 Kč-80 Kč",
+      "url": "http://www.alcapones.cz/",
+      "id": "czech-republic-69214b768c4e820eed56"
+    },
+    {
+      "name": "Chateau Rouge",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.088306,
+      "lon": 14.424917,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Jakubská 2",
+      "price": "free entry, Staropramen 40 Kč",
+      "url": "http://www.chapeaurouge.cz/en/",
+      "id": "czech-republic-d5b5dfdee2226bb4a22c"
+    },
+    {
+      "name": "Karlovy lázně",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.08553,
+      "lon": 14.413803,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Smetanovo nábřeží 198",
+      "url": "http://www.karlovylazne.cz/",
+      "id": "czech-republic-867ab90befc1cebd36d6"
+    },
+    {
+      "name": "Music Club Zlatý Strom",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.08606,
+      "lon": 14.414797,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Karlova 6",
+      "url": "http://club.zlatystrom.com/",
+      "id": "czech-republic-74027f07d94aecfa4755"
+    },
+    {
+      "name": "U Zlatého Tygra",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.085809,
+      "lon": 14.418047,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Husova 17",
+      "url": "http://www.uzlatehotygra.cz/en/",
+      "id": "czech-republic-8cb00636441d898cedd2"
+    },
+    {
+      "name": "Restaurant Franze Kafky",
+      "kind": "eat",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.087835,
+      "lon": 14.419376,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "náměstí Franze Kafky 24/3",
+      "id": "czech-republic-c0163c4a4c88f77c40fe"
+    },
+    {
+      "name": "Bunker Factory",
+      "kind": "stay",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.0842397,
+      "lon": 14.424099,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Václavské nám. 1",
+      "id": "czech-republic-a09607a9ea77ae82d66c"
+    },
+    {
+      "name": "Hostel Homer - Old Town Square",
+      "kind": "stay",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.0855731,
+      "lon": 14.4206731,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Melantrichova, Jakubská 465/11",
+      "id": "czech-republic-f1be704743683f3206aa"
+    },
+    {
+      "name": "Residence Bene",
+      "kind": "stay",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.090621,
+      "lon": 14.426878,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Dlouhá 721/48",
+      "url": "https://www.residence-bene.cz/",
+      "id": "czech-republic-1a77a8c3108ff54b239c"
+    },
+    {
+      "name": "Hotel U Tri Bubnu",
+      "kind": "stay",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.08749,
+      "lon": 14.4194,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "U Radnice 8",
+      "url": "http://www.utribubnu.cz/",
+      "id": "czech-republic-7f4210a8342dea66faec"
+    },
+    {
+      "name": "Four Seasons Hotel Prague",
+      "kind": "stay",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.087639,
+      "lon": 14.415056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Veleslavínova 2a/1098",
+      "url": "http://www.fourseasons.com/prague",
+      "id": "czech-republic-c5bc42206d258ccc5627"
+    },
+    {
+      "name": "Hilton Prague Old Town",
+      "kind": "stay",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.088691,
+      "lon": 14.431864,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "V Celnici 2079/7",
+      "url": "https://www.hilton.com/en/hotels/prgothi-hilton-prague-old-town/",
+      "id": "czech-republic-13276dd579b04ea0506c"
+    },
+    {
+      "name": "Hotel Cerny Slon",
+      "kind": "stay",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.087907,
+      "lon": 14.422465,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Tynska 1",
+      "url": "http://www.hotelcernyslon.cz/en/",
+      "id": "czech-republic-fd99253195416769cf22"
+    },
+    {
+      "name": "Fairmont Golden Prague Hotel",
+      "kind": "stay",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.091911,
+      "lon": 14.418844,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Náměstí Curieových 43 / 5",
+      "url": "https://www.goldenpraguehotel.com/",
+      "id": "czech-republic-c7aefd849be0d42e72fe"
+    },
+    {
+      "name": "Marriott Hotel",
+      "kind": "stay",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.088043,
+      "lon": 14.431227,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "V celnici 8",
+      "url": "http://marriottprague.cz/hotels/travel/PRGDT-prague-marriott-hotel/",
+      "id": "czech-republic-c9e8264f6ecdf44ecdca"
+    },
+    {
+      "name": "Brewery Hotel - U Medvídků",
+      "kind": "stay",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.082866,
+      "lon": 14.41867,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "url": "http://www.umedvidku.cz/",
+      "id": "czech-republic-92b1dca450c4207c92ca"
+    },
+    {
+      "name": "The U Prince",
+      "kind": "stay",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.086528,
+      "lon": 14.420228,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Staromestske namesti 29",
+      "url": "http://www.hoteluprince.cz/",
+      "id": "czech-republic-fb08d6d55f6f7112233e"
+    },
+    {
+      "name": "Clarion Hotel Prague Old Town",
+      "kind": "stay",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.092269,
+      "lon": 14.426588,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Hradební 9",
+      "url": "http://www.clarionhotelpragueoldtown.com/en/",
+      "id": "czech-republic-195e7302e644831c39f4"
+    },
+    {
+      "name": "Buddha-Bar Hotel Prague",
+      "kind": "stay",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.08816,
+      "lon": 14.425659,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Jakubská 8, Prague 1",
+      "price": "Rooms from €418",
+      "url": "http://www.buddha-bar-hotel.cz/",
+      "id": "czech-republic-b18d6638fe5b42ac5efe"
+    },
+    {
+      "name": "Hotel Melantrich",
+      "kind": "stay",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.085274,
+      "lon": 14.421191,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Melantrichova 5",
+      "url": "http://www.euroagentur.com/en/ea-hotel-melantrich",
+      "id": "czech-republic-20fe304380d78183c18e"
+    },
+    {
+      "name": "Grand Hotel Praha",
+      "kind": "stay",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.086766,
+      "lon": 14.420937,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Staroměstské náměstí 22",
+      "url": "http://www.grandhotelpraha.cz/en/",
+      "id": "czech-republic-59044598b93a721a0c0e"
+    },
+    {
+      "name": "Hotel Rott",
+      "kind": "stay",
+      "locality": "Prague/Old Town and Josefov",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "Malé náměstí 138/4",
+      "url": "https://www.hotelrott.cz/en/",
+      "id": "czech-republic-ea6a82eb93ea79777779"
+    },
+    {
+      "name": "Hotel Paris",
+      "kind": "stay",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.08822,
+      "lon": 14.42749,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "address": "U Obecního Domu 1",
+      "price": "from €162",
+      "url": "http://www.hotel-paris.cz/",
+      "id": "czech-republic-a5cdf034e23a15e59895"
+    },
+    {
+      "name": "Prague/Old Town and Josefov",
+      "kind": "area",
+      "locality": "Prague/Old Town and Josefov",
+      "lat": 50.088056,
+      "lon": 14.422222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FOld_Town_and_Josefov",
+      "id": "czech-republic-357f6b673cf945622848"
+    },
+    {
+      "name": "Prague Castle",
+      "kind": "do",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.090246,
+      "lon": 14.399378,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "url": "https://www.hrad.cz/en/prague-castle-for-visitors",
+      "id": "czech-republic-83757a5a9bee6b34a190"
+    },
+    {
+      "name": "St. Vitus Cathedral",
+      "kind": "do",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.090879,
+      "lon": 14.40058,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "url": "https://www.katedralasvatehovita.cz/en",
+      "id": "czech-republic-ffbf4d59dbc8d2cbadc7"
+    },
+    {
+      "name": "Old Royal Palace",
+      "kind": "do",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.090445,
+      "lon": 14.401422,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "id": "czech-republic-966d735b40e9fbb5809d"
+    },
+    {
+      "name": "St. George's Basilica",
+      "kind": "do",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.09123,
+      "lon": 14.402667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "id": "czech-republic-08525938e8bcc8f92aa8"
+    },
+    {
+      "name": "St. George's Convent - National Gallery",
+      "kind": "do",
+      "locality": "Prague/Castle and Lesser Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "id": "czech-republic-eb281e90f6d8c33dc74d"
+    },
+    {
+      "name": "The Golden Lane",
+      "kind": "do",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.092042,
+      "lon": 14.404222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "url": "http://prague-castle.org/goldenlane.html",
+      "id": "czech-republic-b33d189c18156facf74d"
+    },
+    {
+      "name": "The Daliborka",
+      "kind": "do",
+      "locality": "Prague/Castle and Lesser Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "id": "czech-republic-2b70639029a83e2d94e0"
+    },
+    {
+      "name": "Prague Castle Picture Gallery",
+      "kind": "do",
+      "locality": "Prague/Castle and Lesser Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "id": "czech-republic-eae9cad6ad1bb7544618"
+    },
+    {
+      "name": "The Royal Garden",
+      "kind": "do",
+      "locality": "Prague/Castle and Lesser Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "id": "czech-republic-ae265cf5fb8a51409806"
+    },
+    {
+      "name": "The State Rooms at Prague Castle",
+      "kind": "do",
+      "locality": "Prague/Castle and Lesser Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "id": "czech-republic-9592d54140d95b937f1e"
+    },
+    {
+      "name": "Charles Bridge",
+      "kind": "do",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.086447,
+      "lon": 14.411856,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "id": "czech-republic-e2318428056a02fedbfd"
+    },
+    {
+      "name": "The Lennon Wall",
+      "kind": "do",
+      "locality": "Prague/Castle and Lesser Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "id": "czech-republic-d62b3225e1ea4ad906c9"
+    },
+    {
+      "name": "Child Jesus of Prague",
+      "kind": "do",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.085482,
+      "lon": 14.403845,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Karmelitská 385/9",
+      "url": "http://www.pragjesu.info/en/",
+      "id": "czech-republic-efe1c4859a62de8b4851"
+    },
+    {
+      "name": "Petřín Hill",
+      "kind": "do",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.081668,
+      "lon": 14.397794,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "id": "czech-republic-b062acd66a701e158a92"
+    },
+    {
+      "name": "Petřín Lookout Tower",
+      "kind": "do",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.083544,
+      "lon": 14.39505,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "id": "czech-republic-574dbf36fa991822d889"
+    },
+    {
+      "name": "Loreta",
+      "kind": "do",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.0893,
+      "lon": 14.3917,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "url": "http://www.loreta.cz/",
+      "id": "czech-republic-e5e6c7048cfa203feb1a"
+    },
+    {
+      "name": "Strahov Monastery",
+      "kind": "do",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.0862,
+      "lon": 14.3891,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "url": "http://www.strahovmonastery.cz/",
+      "id": "czech-republic-9c6c601b03b316b8d8cb"
+    },
+    {
+      "name": "Franz Kafka Museum",
+      "kind": "do",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.088353,
+      "lon": 14.41008,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Cihelná 2b",
+      "url": "http://www.kafkamuseum.cz/ShowPage.aspx?tabId=-1",
+      "id": "czech-republic-aa9573da015decddbc13"
+    },
+    {
+      "name": "Wallenstein Palace",
+      "kind": "do",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.09005,
+      "lon": 14.40565,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "id": "czech-republic-17d372b4d783e710acfc"
+    },
+    {
+      "name": "The Pedagogical Comenius Museum",
+      "kind": "do",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.090556,
+      "lon": 14.405278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Valdštejnská 20, Praha 1",
+      "price": "60 Kč",
+      "url": "http://www.npmk.cz/muzeum",
+      "id": "czech-republic-b090e93a90c646cfb294"
+    },
+    {
+      "name": "Lobkowicz Palace",
+      "kind": "do",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.09172,
+      "lon": 14.40479,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Jiřská 3",
+      "price": "275 Kč",
+      "url": "http://www.lobkowicz.cz/",
+      "id": "czech-republic-5bb6523bff9ccb45dbe6"
+    },
+    {
+      "name": "Museum Kampa",
+      "kind": "do",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.083999,
+      "lon": 14.408491,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "U Sovových mlýnů 2,",
+      "price": "Adults 350 Kč, student/senior 190 Kč, child (under 6) free",
+      "url": "http://www.museumkampa.cz/",
+      "id": "czech-republic-7506af93a232fc1533f0"
+    },
+    {
+      "name": "National Gallery Prague - Old Masters",
+      "kind": "do",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.090487,
+      "lon": 14.397224,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Hradčanské Square 2 and 15, Prague 1",
+      "price": "Combined entrance to both buildings 300 Kč (reductions 200 Kč), also other combined passes with other NGP branches",
+      "url": "https://www.ngprague.cz/en",
+      "id": "czech-republic-52bea5651666512c0bef"
+    },
+    {
+      "name": "ROESEL - beer & food",
+      "kind": "eat",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.087492,
+      "lon": 14.4057637,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "20, Mostecká 45",
+      "id": "czech-republic-505ca4c4b86d3a8a1a52"
+    },
+    {
+      "name": "Restaurace Pod Petřínem",
+      "kind": "eat",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.0843006,
+      "lon": 14.4047217,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Hellichova 5",
+      "id": "czech-republic-e82986d67286e0b1f12b"
+    },
+    {
+      "name": "U Kocoura",
+      "kind": "eat",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.0886966,
+      "lon": 14.4020878,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Nerudova 205",
+      "id": "czech-republic-01ec1473ecf07615fffa"
+    },
+    {
+      "name": "Restaurace U Mlynáře",
+      "kind": "eat",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.0885927,
+      "lon": 14.4008245,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Nerudova 213/18",
+      "id": "czech-republic-11f592330ec42cea140a"
+    },
+    {
+      "name": "Garden Café Taussig",
+      "kind": "eat",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.0859384,
+      "lon": 14.3945236,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Vlašská 25",
+      "id": "czech-republic-432577eb6d4324e588ca"
+    },
+    {
+      "name": "Recharging Bar",
+      "kind": "eat",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.0812174,
+      "lon": 14.3937713,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Olympijská 1913/1",
+      "id": "czech-republic-0f52e1f43c7b83cbbe1c"
+    },
+    {
+      "name": "U krále Brabantského",
+      "kind": "eat",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.08897,
+      "lon": 14.40148,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Thunovská 198/15, 118 00 Praha 1-Malá Strana",
+      "url": "http://www.krcmabrabant.cz/",
+      "id": "czech-republic-d4e12cbc9ecb94d4aa1d"
+    },
+    {
+      "name": "U Zavesenyho Kafe",
+      "kind": "eat",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.088442,
+      "lon": 14.395629,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Uvoz 6",
+      "url": "http://www.pokracuje.com/",
+      "id": "czech-republic-aca266e2077d2b08bfbc"
+    },
+    {
+      "name": "Restaurant U Zlatých nůžek",
+      "kind": "eat",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.086418,
+      "lon": 14.408568,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Na Kampě 6/494",
+      "url": "http://www.uzlatychnuzek.cz/",
+      "id": "czech-republic-def79842d23f277b8b8d"
+    },
+    {
+      "name": "El Centro",
+      "kind": "eat",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.08648,
+      "lon": 14.404959,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Maltézské Náměstí 9",
+      "price": "Mains 90 Kč-350 Kč.",
+      "url": "http://www.elcentro.cz/",
+      "id": "czech-republic-16c60c9515f3d8e39a21"
+    },
+    {
+      "name": "Malostranska Pivnice",
+      "kind": "eat",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.088489,
+      "lon": 14.410111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Cihelná 3",
+      "url": "http://www.malostranskapivnice.cz/",
+      "id": "czech-republic-b6dc8ca8d1d8c74a2207"
+    },
+    {
+      "name": "Červená Sedma",
+      "kind": "eat",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.086127,
+      "lon": 14.408435,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "url": "http://www.cervenasedma.eu/",
+      "id": "czech-republic-cc604a6e8f78d8008583"
+    },
+    {
+      "name": "LoVeg",
+      "kind": "eat",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.08853,
+      "lon": 14.39825,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Nerudova 36",
+      "price": "150-350 Kč",
+      "url": "http://www.loveg.cz/",
+      "id": "czech-republic-3f0906484409c787aebb"
+    },
+    {
+      "name": "St. Martin",
+      "kind": "eat",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.08723,
+      "lon": 14.39992,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Vlashska 358/7, Praha 1 -Malá Strana",
+      "url": "http://www.stmartin.cz/",
+      "id": "czech-republic-a9eb79a13c247d17095a"
+    },
+    {
+      "name": "Kampa Park Restaurant",
+      "kind": "eat",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.087392,
+      "lon": 14.409282,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Na Kampě 8b",
+      "url": "http://www.kampagroup.com/en/restaurants/kampa-park/",
+      "id": "czech-republic-56efc07467e4e14b63dd"
+    },
+    {
+      "name": "Střelecký ostrov",
+      "kind": "eat",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.080481,
+      "lon": 14.410505,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Střelecký Island 336",
+      "id": "czech-republic-732f2cbd10d9907a684b"
+    },
+    {
+      "name": "U Glaubiců",
+      "kind": "eat",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.087453,
+      "lon": 14.403513,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Malostranské náměstí 266/5",
+      "url": "http://www.restaurantuglaubicu.cz/en/",
+      "id": "czech-republic-5d82fc8a0966c2aa3972"
+    },
+    {
+      "name": "U Malého Glena",
+      "kind": "eat",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.086849,
+      "lon": 14.403719,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Karmelitská 23",
+      "url": "http://www.malyglen.cz/",
+      "id": "czech-republic-c3bae190ef3a9af2df91"
+    },
+    {
+      "name": "Dobrá trafika",
+      "kind": "eat",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.083974,
+      "lon": 14.404261,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Újezd 37",
+      "url": "http://www.dobratrafika.cz/",
+      "id": "czech-republic-28204cca766b5015c07f"
+    },
+    {
+      "name": "Cafe Club Ujezd",
+      "kind": "eat",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.08163,
+      "lon": 14.404642,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Ujezd 18",
+      "id": "czech-republic-aa96afb2c1dff1c5289f"
+    },
+    {
+      "name": "EA Hotel Jeleni dvur",
+      "kind": "stay",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.092765,
+      "lon": 14.391703,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Jeleni 197",
+      "url": "https://www.hoteljelenidvur.cz/en/",
+      "id": "czech-republic-076cbb009b745b844fa4"
+    },
+    {
+      "name": "Golden Well Hotel",
+      "kind": "stay",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.090724,
+      "lon": 14.404556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "U Zlate studne 166/4",
+      "url": "http://www.goldenwell.cz/",
+      "id": "czech-republic-70b416f51c4c87922c58"
+    },
+    {
+      "name": "Hotel Questenberk",
+      "kind": "stay",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.087625,
+      "lon": 14.390654,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Úvoz 15/155",
+      "url": "http://www.hotelq.cz/",
+      "id": "czech-republic-15bc6ac40e2b7034e0e0"
+    },
+    {
+      "name": "Arpacay Hostel",
+      "kind": "stay",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.088559,
+      "lon": 14.397961,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Nerudova 40",
+      "id": "czech-republic-055aa7c6b1e261d96250"
+    },
+    {
+      "name": "Kinsky Garden Hotel",
+      "kind": "stay",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.078239,
+      "lon": 14.402536,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "7 Holeckova",
+      "url": "http://www.hotelkinskygarden.cz/",
+      "id": "czech-republic-f897a72ac16aff53b9b5"
+    },
+    {
+      "name": "The Charles Hotel",
+      "kind": "stay",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.087626,
+      "lon": 14.405382,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Křemencova 13",
+      "url": "http://www.hotel-charles.cz/",
+      "id": "czech-republic-2492ceb2ceddba37e68e"
+    },
+    {
+      "name": "Hotel Sax",
+      "kind": "stay",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.08743,
+      "lon": 14.399084,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Jánský vršek 328/3",
+      "url": "http://www.hotelsax.cz/",
+      "id": "czech-republic-4d85b13589c1ba041bfc"
+    },
+    {
+      "name": "Nerudova Apartment House",
+      "kind": "stay",
+      "locality": "Prague/Castle and Lesser Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Nerudova 40",
+      "url": "http://www.prague-city-apartments.cz/product/about_en_NERUDOVA_APARTMENT_HOUSE.html",
+      "id": "czech-republic-f9d8f1d62d5e77337f4f"
+    },
+    {
+      "name": "Pension Dietzenhofer",
+      "kind": "stay",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.084474,
+      "lon": 14.406227,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Nosticova 2",
+      "url": "http://www.dientzenhofer.cz/",
+      "id": "czech-republic-e1df2f44f60926de8ab3"
+    },
+    {
+      "name": "Alchymist Grand Hotel and Spa",
+      "kind": "stay",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.087571,
+      "lon": 14.400941,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Tržiště 19",
+      "url": "http://www.alchymisthotel.com/",
+      "id": "czech-republic-7dbd78277f80c7d905d7"
+    },
+    {
+      "name": "Mandarin Oriental Prague",
+      "kind": "stay",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.084551,
+      "lon": 14.405629,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Nebovidská 1",
+      "url": "http://www.mandarinoriental.com/prague/",
+      "id": "czech-republic-ef0b5a6afd335433c95a"
+    },
+    {
+      "name": "Best Western Hotel Kampa",
+      "kind": "stay",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.082632,
+      "lon": 14.406181,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Všehrdova 16",
+      "url": "http://www.euroagentur.com/en/best-western-hotel-kampa",
+      "id": "czech-republic-5f2c58c8f2581b01e71f"
+    },
+    {
+      "name": "Hostel Santini",
+      "kind": "stay",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.088855,
+      "lon": 14.400881,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Nerudova 14",
+      "url": "http://www.hostelsantiniprague.com/",
+      "id": "czech-republic-5680bed47787875ec87a"
+    },
+    {
+      "name": "Prague Residences",
+      "kind": "stay",
+      "locality": "Prague/Castle and Lesser Town",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "address": "Řetězová 3, 110 00, Praha 1",
+      "price": "€60",
+      "url": "https://www.pragueresidences.com/en/",
+      "id": "czech-republic-b21e347a1412f7884237"
+    },
+    {
+      "name": "Prague/Castle and Lesser Town",
+      "kind": "area",
+      "locality": "Prague/Castle and Lesser Town",
+      "lat": 50.0861,
+      "lon": 14.4023,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FCastle_and_Lesser_Town",
+      "id": "czech-republic-e5e1bae6399eadbebb4f"
+    },
+    {
+      "name": "Wenceslas Square",
+      "kind": "do",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.082308,
+      "lon": 14.426141,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "id": "czech-republic-a9112d65ac0810ba24a4"
+    },
+    {
+      "name": "National Museum",
+      "kind": "do",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.080071,
+      "lon": 14.432126,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Václavské nám. 68, 110 00 Nové Město",
+      "price": "Adult 360 Kč, concession 260 Kč, kids under 15 free",
+      "url": "http://www.nm.cz/",
+      "id": "czech-republic-3e3101f8c0f01698bf05"
+    },
+    {
+      "name": "Dancing House",
+      "kind": "do",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.075416,
+      "lon": 14.414189,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Jiráskovo nám. 1981/6, 120 00 Nové Město",
+      "id": "czech-republic-916a8814d2380408b65b"
+    },
+    {
+      "name": "Botanical Garden of the Charles University",
+      "kind": "do",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.070758,
+      "lon": 14.419651,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Na Slupi 433 /16, 128 00 Nové Město",
+      "price": "Adult 100 Kč, concessions 50 Kč",
+      "url": "http://www.cuni.cz/UK-945.html",
+      "id": "czech-republic-fa42c5cbcc09d9834eda"
+    },
+    {
+      "name": "Vyšehrad",
+      "kind": "do",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.06426,
+      "lon": 14.41917,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "id": "czech-republic-dda499eaddb33260a088"
+    },
+    {
+      "name": "Vyšehrad cemetery",
+      "kind": "do",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.064646,
+      "lon": 14.418029,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Stulcova",
+      "id": "czech-republic-cea2c38ac0fc9553a12d"
+    },
+    {
+      "name": "Basilica of St Peter and St Paul",
+      "kind": "do",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.064405,
+      "lon": 14.417929,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "url": "http://www.kkvys.cz/category/budovy/",
+      "id": "czech-republic-24853e055b2a5a20b1aa"
+    },
+    {
+      "name": "Velvet Revolution Memorial",
+      "kind": "do",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.08192,
+      "lon": 14.41788,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Národní 16, 110 00 Nové Město",
+      "id": "czech-republic-1f3c72b0bf24d7065cfc"
+    },
+    {
+      "name": "Jubilee Synagogue",
+      "kind": "do",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.084701,
+      "lon": 14.432009,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Jeruzalémská 1310/7",
+      "id": "czech-republic-1440df0742df3ed5b36e"
+    },
+    {
+      "name": "Museum of Communism",
+      "kind": "do",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.087851,
+      "lon": 14.430011,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "V Celnici 1031/4, 118 00 Nové Město",
+      "price": "Adults 390 Kč, students with ID 310 Kč, seniors 340 Kč",
+      "url": "https://muzeumkomunismu.cz/",
+      "id": "czech-republic-e92a2faecc8a83475b8e"
+    },
+    {
+      "name": "Mucha Museum",
+      "kind": "do",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.084361,
+      "lon": 14.427583,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Na Příkopě 852/10, 110 00 Nové Město",
+      "price": "Adults 300 Kč, concessions 250 Kč, kids under 10 free",
+      "url": "http://www.mucha.cz/",
+      "id": "czech-republic-d1ce9549e8ebabd2773d"
+    },
+    {
+      "name": "Head of Franz Kafka",
+      "kind": "do",
+      "locality": "Prague/New Town and Vysehrad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Charvátova, 110 00 Nové Město",
+      "id": "czech-republic-8cfa6f46472c786cb4a7"
+    },
+    {
+      "name": "Emauzy monastery",
+      "kind": "do",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.0719492,
+      "lon": 14.4175814,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "price": "Adult 90 Kč, concessions 60 Kč, family 150 Kč",
+      "url": "http://www.opatstvi-emauzy.cz/",
+      "id": "czech-republic-772253036e4834e20f4c"
+    },
+    {
+      "name": "Máj Národní",
+      "kind": "do",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.082163810440925,
+      "lon": 14.419821237352773,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Národní 63/26, 110 00 Nové Město",
+      "id": "czech-republic-9c26811a06d6b16baef8"
+    },
+    {
+      "name": "National Theatre",
+      "kind": "do",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.08094,
+      "lon": 14.413583,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Národní 2/110 00, 110 00 Nové Město",
+      "url": "https://www.narodni-divadlo.cz/en/national-theatre",
+      "id": "czech-republic-65d3c467a1e21c82f85a"
+    },
+    {
+      "name": "Mánes Gallery",
+      "kind": "do",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.07749263585654,
+      "lon": 14.414023937301893,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Masarykovo nábř. 250/1, 110 00 Nové Město",
+      "url": "https://www.manes.cz/en/",
+      "id": "czech-republic-9d3bd092e0fcb3c390e6"
+    },
+    {
+      "name": "Burrito Loco Spálená",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.0812536,
+      "lon": 14.419779,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "43, Spálená 104",
+      "id": "czech-republic-d0f97b204350883573ba"
+    },
+    {
+      "name": "Bistreet",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.0813994,
+      "lon": 14.419447,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Spálená 105",
+      "id": "czech-republic-a6a1b50ae9e75e4a2282"
+    },
+    {
+      "name": "Pizza Jungmannova",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.080606,
+      "lon": 14.422489,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Jungmannova 737",
+      "id": "czech-republic-44ad495e1219a2295920"
+    },
+    {
+      "name": "Jídelna Světozor",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.081694,
+      "lon": 14.4252745,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Vodičkova 791",
+      "id": "czech-republic-23039a0e67b3e101f4f7"
+    },
+    {
+      "name": "Dietní jídelna",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.0802951,
+      "lon": 14.4199171,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Spálená 78",
+      "id": "czech-republic-ac4ae56a4b4c89ca5dc0"
+    },
+    {
+      "name": "Wokin",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.08112097385148,
+      "lon": 14.420155627040856,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Purkyňova 74",
+      "id": "czech-republic-2349820e89384b1fa26d"
+    },
+    {
+      "name": "Bageterie Boulevard",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.08235607667406,
+      "lon": 14.418538794771944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Národní 1022",
+      "id": "czech-republic-8bdb6c008b48dbe3a693"
+    },
+    {
+      "name": "Arco Cafeteria",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.0871013,
+      "lon": 14.4323743,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Dlážděná 1004 /6",
+      "id": "czech-republic-8e6cd514b2534fc08fd5"
+    },
+    {
+      "name": "Tian Tian Restaurant",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.087192,
+      "lon": 14.433791,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "24, Hybernská 1009",
+      "id": "czech-republic-6db80ee3503979d31ea3"
+    },
+    {
+      "name": "Restaurace Fiesta",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.0895939,
+      "lon": 14.4318573,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Na Poříčí 1074/9",
+      "id": "czech-republic-01b8a9d68ee26757c612"
+    },
+    {
+      "name": "Zdravé žití U tří růží",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.091327,
+      "lon": 14.4305564,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "21, Soukenická 1190",
+      "id": "czech-republic-c6fcd0f005448cb733ab"
+    },
+    {
+      "name": "U Rozvařilů",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.0899744,
+      "lon": 14.4342025,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Na Poříčí 23 OD Bílá Labuť",
+      "id": "czech-republic-6467be19043b4b6beea7"
+    },
+    {
+      "name": "Lidová jídelna Těšnov",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.0911566,
+      "lon": 14.4364154,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Těšnov 1163/5",
+      "id": "czech-republic-62a5305e1b9f0148b5b2"
+    },
+    {
+      "name": "Restaurace Karlův sklep",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.0775735,
+      "lon": 14.4189579,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Karlovo nám. 287",
+      "id": "czech-republic-3662ffa52862794ad29c"
+    },
+    {
+      "name": "Manni Kebabish",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.0776379,
+      "lon": 14.418411,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Odborů 3",
+      "id": "czech-republic-e15580ed9aa388efa4b7"
+    },
+    {
+      "name": "Střecha",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.0784824,
+      "lon": 14.4173395,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Křemencova 7",
+      "id": "czech-republic-3e1f117414ac2bcea21a"
+    },
+    {
+      "name": "Just Bagel",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.0794887,
+      "lon": 14.4149929,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Na Struze 230",
+      "id": "czech-republic-0ee01d0404957650665a"
+    },
+    {
+      "name": "Plavecká Polévka",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.0691511,
+      "lon": 14.4152524,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Plavecká 4",
+      "id": "czech-republic-a91308c7ffc885564c6e"
+    },
+    {
+      "name": "Pod Vyšehradem",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.0670612,
+      "lon": 14.4167585,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Vratislavova 32",
+      "id": "czech-republic-73015015818d61da6cf1"
+    },
+    {
+      "name": "Lang Biang Restaurace",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.067749,
+      "lon": 14.4209484,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Svobodova 144",
+      "id": "czech-republic-629ff307b57fff87c478"
+    },
+    {
+      "name": "Halal Fast Food",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.0834534,
+      "lon": 14.4305785,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Růžová 947",
+      "id": "czech-republic-7b3b3ecc2de2983c59f2"
+    },
+    {
+      "name": "Restaurace KOMETA",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.0854511,
+      "lon": 14.4315384,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Senovážné nám. 978",
+      "id": "czech-republic-ebfa3244acd9e74e3b5d"
+    },
+    {
+      "name": "Restaurant Na Křižovatce",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.0738825,
+      "lon": 14.4243072,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Lípová 469",
+      "id": "czech-republic-5bcabcdc494601a2b39b"
+    },
+    {
+      "name": "Can Bey Doner Kebab",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.0756538,
+      "lon": 14.4229014,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Ječná 547",
+      "id": "czech-republic-97d0ba6b5526d2054180"
+    },
+    {
+      "name": "Bistro Deli & Bakery",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.0782132,
+      "lon": 14.425249,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "20, Štěpánská 1677",
+      "id": "czech-republic-5f6b705ca7138189ca6a"
+    },
+    {
+      "name": "Pho mai anh",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.0784256,
+      "lon": 14.4268784,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Ve Smečkách 590/16",
+      "id": "czech-republic-ba92b3c07580dfabde08"
+    },
+    {
+      "name": "Kung Fu Pure Chinese Pasta",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.0740527,
+      "lon": 14.4322445,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Rumunská 698/17",
+      "id": "czech-republic-6d7fab952963fc44df57"
+    },
+    {
+      "name": "Johnny Pizza",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.0720549,
+      "lon": 14.4332581,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Koubkova 685/16 Nové Město",
+      "id": "czech-republic-a3d70ed5080034300191"
+    },
+    {
+      "name": "Fresco Vento",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.073385,
+      "lon": 14.41411,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Rašínovo nábřeží 62, Praha 2",
+      "url": "http://www.frescovento.cz/",
+      "id": "czech-republic-91b030c73dc63ac5850c"
+    },
+    {
+      "name": "Jáma³ Garden Pub",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.08046,
+      "lon": 14.42419,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "V Jámě 7, Praha 1",
+      "id": "czech-republic-ecd6630b8d70c7bbd3a3"
+    },
+    {
+      "name": "Pizzeria Kmotra Kavárna",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.080202,
+      "lon": 14.417082,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "V Jirchárích 12",
+      "url": "http://www.kmotra.cz/",
+      "id": "czech-republic-028484084b386a3cc192"
+    },
+    {
+      "name": "Pivovarský dům Benedikt- restaurace a pivotéka Praha",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.07544,
+      "lon": 14.42386,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Ječná/Lípová 15, Praha 2",
+      "url": "http://www.pivovarskydum.com/",
+      "id": "czech-republic-4d9ae860c08710b4d873"
+    },
+    {
+      "name": "Cafe Slavia",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.081537,
+      "lon": 14.413642,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Narodní třída 1",
+      "url": "http://www.cafeslavia.cz/",
+      "id": "czech-republic-55c8afd8723a9d024c3d"
+    },
+    {
+      "name": "Café Louvre",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.081999,
+      "lon": 14.418749,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Narodní třída 20",
+      "url": "http://www.cafelouvre.cz/",
+      "id": "czech-republic-428a83e98b2f5cc61cf5"
+    },
+    {
+      "name": "U Kroka",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.066582,
+      "lon": 14.417837,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Vratislavova 12, 128 00 Praha 2 - Vyšehrad",
+      "price": "€8",
+      "url": "http://www.ukroka.cz/",
+      "id": "czech-republic-1349c80b73173eeb30b6"
+    },
+    {
+      "name": "Kantýna",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.083357,
+      "lon": 14.426502,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Politických vězňů 5",
+      "price": "350 Kč",
+      "url": "https://www.kantyna.ambi.cz/",
+      "id": "czech-republic-6118225fca4f91338141"
+    },
+    {
+      "name": "Restaurant Zvonice",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.085131,
+      "lon": 14.429973,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Jindřišská věž, Jindřišská ulice, Praha 1",
+      "price": "Mains approximately 600 Kč, bottles of wine 800 Kč to 7000 Kč.",
+      "url": "http://www.restaurantzvonice.cz/",
+      "id": "czech-republic-3cbd7f312ce0082a3269"
+    },
+    {
+      "name": "Triton",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.08266,
+      "lon": 14.42522,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Václavské nám. 26",
+      "url": "http://www.tritonrestaurant.cz/",
+      "id": "czech-republic-df2db9c730695c5270e0"
+    },
+    {
+      "name": "Taro",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.08157445985518,
+      "lon": 14.41666528394909,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Národní 10",
+      "id": "czech-republic-534694dbd43f1378962b"
+    },
+    {
+      "name": "Duplex",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.082481,
+      "lon": 14.426569,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Vaclavske Nam 21, Praha 1",
+      "url": "http://www.duplex.cz/",
+      "id": "czech-republic-ef1b02fb6efb15209a91"
+    },
+    {
+      "name": "Lucerna Music Bar",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.081441,
+      "lon": 14.425315,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Vodičkova 36, Praha 1",
+      "url": "http://www.musicbar.cz/",
+      "id": "czech-republic-a5c23b5ea4e7bc12b297"
+    },
+    {
+      "name": "Vzorkovna Dog BAR",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.081661,
+      "lon": 14.416014,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Národní 11",
+      "price": "Cocktails 100-250 Kč, beer 75-100 Kč",
+      "url": "https://vzorkovna.biz/",
+      "id": "czech-republic-623b186c3d419adc72b7"
+    },
+    {
+      "name": "London Underground Bar",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.081501,
+      "lon": 14.419386,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Spálená 47",
+      "url": "https://londonundergroundbar.com/",
+      "id": "czech-republic-1c5b54a19f926c1fed9f"
+    },
+    {
+      "name": "U Fleků",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.078838,
+      "lon": 14.416957,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Křemencova 11, Praha 1",
+      "price": "U Fleků 13° 99 Kč and spirits around 79 Kč",
+      "url": "http://www.ufleku.cz/en/",
+      "id": "czech-republic-ed48cad9826fae221616"
+    },
+    {
+      "name": "Vinarna U Sudu",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.078928,
+      "lon": 14.422055,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Vodičkova 677/10",
+      "url": "http://usudu.cz/",
+      "id": "czech-republic-08e8bff38aab21381c9b"
+    },
+    {
+      "name": "Atlas Cabaret, Darling Cabaret, Hot Peppers, Club Empire, etc., around Wenceslas Square",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "id": "czech-republic-343c240cf710ea1d7a17"
+    },
+    {
+      "name": "Bike 7",
+      "kind": "eat",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.0727,
+      "lon": 14.413692,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "128 00 Prague 2, Czechia",
+      "id": "czech-republic-10560a8a825fe38faca5"
+    },
+    {
+      "name": "Best Prague Hotel House",
+      "kind": "stay",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.080808,
+      "lon": 14.427864,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Václavské náměstí 48",
+      "url": "http://www.bestprague.com/",
+      "id": "czech-republic-7fb9d8c34010ebb4c5b2"
+    },
+    {
+      "name": "Hotel Elite",
+      "kind": "stay",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.080856,
+      "lon": 14.418927,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Ostrovni 32",
+      "id": "czech-republic-b31a957e987f0c44752d"
+    },
+    {
+      "name": "Hotel Atlantic",
+      "kind": "stay",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.08965,
+      "lon": 14.431743,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Na Poříčí 9",
+      "url": "http://www.hotel-atlantic.cz/en/",
+      "id": "czech-republic-a095a774d4c6dfa8e2a2"
+    },
+    {
+      "name": "Hotel Best Western Meteor Plaza",
+      "kind": "stay",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.08701,
+      "lon": 14.430133,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Hybernska 6",
+      "url": "http://www.hotel-meteor.cz/en/",
+      "id": "czech-republic-04680b0d6b3b8601f5ee"
+    },
+    {
+      "name": "Miss Sophie's",
+      "kind": "stay",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.075186,
+      "lon": 14.42685,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Melounova 3",
+      "price": "Prices start at 420 Kč for a shared room and 1,630 Kč for a private room.",
+      "url": "http://www.miss-sophies.com/",
+      "id": "czech-republic-04c00affc6c1dd7755b0"
+    },
+    {
+      "name": "Mosaic House",
+      "kind": "stay",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.07751,
+      "lon": 14.418277,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Odboru 4",
+      "url": "http://www.mosaichouse.com/",
+      "id": "czech-republic-1429c8948e0a75ee5981"
+    },
+    {
+      "name": "Dahlia Inn",
+      "kind": "stay",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.075248,
+      "lon": 14.424093,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Lipova 20",
+      "price": "From €39",
+      "url": "http://www.dahliainn.com/",
+      "id": "czech-republic-c1f404b719775a586b91"
+    },
+    {
+      "name": "Palace Hotel",
+      "kind": "stay",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.084023,
+      "lon": 14.427623,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Panská 12",
+      "price": "€370 per room",
+      "url": "https://www.palacehotel.cz/en/",
+      "id": "czech-republic-4023ee7e641054c8ea68"
+    },
+    {
+      "name": "987 Prague Hotel",
+      "kind": "stay",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.085978,
+      "lon": 14.433973,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Senovazne namesti 15",
+      "url": "http://www.987praguehotel.com/en",
+      "id": "czech-republic-62ae333543de3737cb5f"
+    },
+    {
+      "name": "Deminka Palace Hotel",
+      "kind": "stay",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.077086,
+      "lon": 14.431601,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Skretova 1",
+      "url": "http://www.deminkapalace.com/",
+      "id": "czech-republic-25f33ec09cb3045461bd"
+    },
+    {
+      "name": "Hotel Merlin",
+      "kind": "stay",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.075265,
+      "lon": 14.414925,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Gorazdova 22",
+      "id": "czech-republic-e13425385bbdf7085718"
+    },
+    {
+      "name": "Apartments Emma",
+      "kind": "stay",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.065738,
+      "lon": 14.425767,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Oldrichova 9",
+      "price": "From 800 Kč for 2-person studio during low season. Rates are higher at peak times",
+      "url": "http://www.apartments-emma.com/",
+      "id": "czech-republic-52426d27a333eed29698"
+    },
+    {
+      "name": "Botel Racek",
+      "kind": "stay",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.07653,
+      "lon": 14.41382,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Podolské nábřeží",
+      "url": "http://www.botelracek.eu/",
+      "id": "czech-republic-68a2b4e3ce69c4c208ee"
+    },
+    {
+      "name": "Easy Housing",
+      "kind": "stay",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.065639,
+      "lon": 14.43196,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "address": "Spytihněvova 131/6",
+      "url": "https://imeasyhousing.com/",
+      "id": "czech-republic-7583d72f44cf41393b73"
+    },
+    {
+      "name": "Prague/New Town and Vysehrad",
+      "kind": "area",
+      "locality": "Prague/New Town and Vysehrad",
+      "lat": 50.0767,
+      "lon": 14.4264,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FNew_Town_and_Vysehrad",
+      "id": "czech-republic-0ded162a29be296ffe46"
+    },
+    {
+      "name": "Bílá Hora",
+      "kind": "do",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.078333,
+      "lon": 14.319444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "id": "czech-republic-6d12716c5e150c66a3d0"
+    },
+    {
+      "name": "Hvezda Summer Palace",
+      "kind": "do",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.0834,
+      "lon": 14.3263,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "id": "czech-republic-d815bb1d0b5fe61e568d"
+    },
+    {
+      "name": "Villa Müller",
+      "kind": "do",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.092556,
+      "lon": 14.378389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "Nad Hradním vodojemem 642/14",
+      "price": "Basic admission fee is 300 Kč + 100 Kč for an English language guide",
+      "url": "http://www.mullerovavila.cz/",
+      "id": "czech-republic-2787a4ae33749e22bf3b"
+    },
+    {
+      "name": "Prague Giant Metronome",
+      "kind": "do",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.09483,
+      "lon": 14.4159,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "id": "czech-republic-34828220155f481cfd88"
+    },
+    {
+      "name": "National Technical Museum",
+      "kind": "do",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.0973,
+      "lon": 14.42485,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "Kostelní 42, Praha 7",
+      "url": "http://www.ntm.cz/",
+      "id": "czech-republic-f8cc846bf016ec8db0bd"
+    },
+    {
+      "name": "DOX Centre for Contemporary Art",
+      "kind": "do",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.106788,
+      "lon": 14.447357,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "Poupětova 1",
+      "url": "http://www.dox.cz/",
+      "id": "czech-republic-7685e80012cb785beb53"
+    },
+    {
+      "name": "National Gallery Prague - Trade Fair Palace",
+      "kind": "do",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.101111,
+      "lon": 14.4325,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "Dukelských hrdinů 47, 170 00 Prague 7 - Holešovice",
+      "price": "Adult 250 Kč, Concessions 140 Kč. Also combined passes with other NGP branches",
+      "url": "https://www.ngprague.cz/en/about/buildings/trade-fair-palace",
+      "id": "czech-republic-c18c90e4eb7ee2a665f0"
+    },
+    {
+      "name": "Výstaviště Praha",
+      "kind": "do",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.104722,
+      "lon": 14.430833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "id": "czech-republic-66498aa678176839fc93"
+    },
+    {
+      "name": "MeetFactory",
+      "kind": "do",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.05324,
+      "lon": 14.408437,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "Ke Sklárně 3213/15",
+      "url": "http://www.meetfactory.cz/en/",
+      "id": "czech-republic-ff90756b912546b47288"
+    },
+    {
+      "name": "Teleček",
+      "kind": "do",
+      "locality": "Prague/West bank of Vltava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "id": "czech-republic-2f40d7aa55467db2106d"
+    },
+    {
+      "name": "Museum of Public Transport",
+      "kind": "do",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.093975,
+      "lon": 14.389394,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "Patočkova 132/2, Praha 6",
+      "price": "100 Kč (under 16, over 65 and students 60 Kč)",
+      "url": "https://www.dpp.cz/en/entertainment-and-experience/dpp-history/public-transport-museum",
+      "id": "czech-republic-4088140d612b2046ba34"
+    },
+    {
+      "name": "Bio Oko",
+      "kind": "do",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.1000514,
+      "lon": 14.4301689,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "url": "http://www.biooko.net/",
+      "id": "czech-republic-8036c3393e30b33e0e9e"
+    },
+    {
+      "name": "Stromovka",
+      "kind": "do",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.1064,
+      "lon": 14.4194,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "id": "czech-republic-6e45f7d717295895fe7d"
+    },
+    {
+      "name": "Letná Park",
+      "kind": "do",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.093736,
+      "lon": 14.412533,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "id": "czech-republic-b2b997f4757ced029371"
+    },
+    {
+      "name": "Divoká Šárka",
+      "kind": "do",
+      "locality": "Prague/West bank of Vltava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "id": "czech-republic-aa31468f6698185b1844"
+    },
+    {
+      "name": "Prokop valley",
+      "kind": "do",
+      "locality": "Prague/West bank of Vltava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "id": "czech-republic-c5fa11bfc27c4b8ec89c"
+    },
+    {
+      "name": "Cibulka",
+      "kind": "do",
+      "locality": "Prague/West bank of Vltava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "id": "czech-republic-b214213a73da8d6a6ab9"
+    },
+    {
+      "name": "Staropramen Brewery Visitor Center",
+      "kind": "do",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.06799,
+      "lon": 14.40816,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "Pivovarska 9, Praha 5 (entrance from Pivovarska street)",
+      "price": "349 Kč",
+      "url": "http://staropramen.com/",
+      "id": "czech-republic-91cfba3416bcb5b2bd26"
+    },
+    {
+      "name": "Kart Centrum",
+      "kind": "do",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 49.9892,
+      "lon": 14.37566,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "Výpadová 1335",
+      "price": "10 minutes: 250 Kč",
+      "url": "http://www.kart-centrum.cz/",
+      "id": "czech-republic-2f62853e1f3a53f2dd3d"
+    },
+    {
+      "name": "Hostinec U Přístavu",
+      "kind": "eat",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.1050726,
+      "lon": 14.4556404,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "U Průhonu 64",
+      "id": "czech-republic-96deb160fefb0d18f0ad"
+    },
+    {
+      "name": "Restaurace V Háji",
+      "kind": "eat",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.1052257,
+      "lon": 14.454299,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "U Průhonu 25",
+      "id": "czech-republic-e65a2e0534709454e706"
+    },
+    {
+      "name": "ThanhTam Asia Food",
+      "kind": "eat",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.1032858,
+      "lon": 14.447747,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "Dělnická 411",
+      "id": "czech-republic-66fce1882b532ce82b0c"
+    },
+    {
+      "name": "Osada",
+      "kind": "eat",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.10442145931381,
+      "lon": 14.44672392512994,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "Osadní 35",
+      "id": "czech-republic-99e18517bf68ae23215a"
+    },
+    {
+      "name": "India Gate",
+      "kind": "eat",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.0991847,
+      "lon": 14.4230028,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "Jirečkova 13",
+      "url": "http://www.currypalace.cz/",
+      "id": "czech-republic-5d12682144b6d8c7d6ec"
+    },
+    {
+      "name": "Peperoncino",
+      "kind": "eat",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.0984711,
+      "lon": 14.4269522,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "Letohradská 34",
+      "url": "http://www.restaurant-peperoncino.cz/",
+      "id": "czech-republic-5980e7824f758a67caf5"
+    },
+    {
+      "name": "Restaurace Bruska",
+      "kind": "eat",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.097904,
+      "lon": 14.401929,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "Dejvická 20",
+      "url": "http://www.restaurace-bruska.cz/",
+      "id": "czech-republic-0a4334be32970af84397"
+    },
+    {
+      "name": "Pastva",
+      "kind": "eat",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.0698971,
+      "lon": 14.4055853,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "Nádražní 102, Praha 5-Smíchov",
+      "price": "Main dishes around 300 Kč",
+      "url": "https://www.pastva-restaurant.cz/",
+      "id": "czech-republic-05090e6a2fd32b0cfe00"
+    },
+    {
+      "name": "Wingz",
+      "kind": "eat",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.10344132699627,
+      "lon": 14.433298181534825,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "Janovského 44",
+      "id": "czech-republic-4804d5fd65c633c9b367"
+    },
+    {
+      "name": "Šnycl",
+      "kind": "eat",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.07046194028784,
+      "lon": 14.404471825713705,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "Nádražní 23",
+      "id": "czech-republic-099cddf16658c0dc86e4"
+    },
+    {
+      "name": "Restaurace Na Kopci",
+      "kind": "eat",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.0567,
+      "lon": 14.402652,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "K Závěrce 2774/20",
+      "price": "Main courses around 600 Kč, 4-course menu 1200 Kč",
+      "url": "http://www.nakopci.com/",
+      "id": "czech-republic-7dd62523612bd7124486"
+    },
+    {
+      "name": "U Cedru",
+      "kind": "eat",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.1003536,
+      "lon": 14.3981308,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "Národní obrany 27",
+      "url": "http://www.ucedru.cz/",
+      "id": "czech-republic-099d14388b634e4cb790"
+    },
+    {
+      "name": "The Eatery",
+      "kind": "eat",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.10737303834963,
+      "lon": 14.450713481535058,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "U Uranie 18",
+      "url": "http://www.theeatery.cz/",
+      "id": "czech-republic-dfe70c04b093c8efa3e9"
+    },
+    {
+      "name": "Dejvická 34",
+      "kind": "eat",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.09870831003602,
+      "lon": 14.399186208517643,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "Dejvická 34",
+      "url": "https://www.dejvicka34.cz/cz/restaurace",
+      "id": "czech-republic-c1b812c4fd3b1ea2a4b8"
+    },
+    {
+      "name": "Cross club",
+      "kind": "eat",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.10819,
+      "lon": 14.44325,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "Plynární 23",
+      "url": "http://www.crossclub.cz/",
+      "id": "czech-republic-025116259cfb55b801bd"
+    },
+    {
+      "name": "VNITROBLOCK",
+      "kind": "eat",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.10187773592952,
+      "lon": 14.44926412386241,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "Tusarova 31",
+      "id": "czech-republic-c8dfbfe0f61933c13885"
+    },
+    {
+      "name": "Botel Admirál",
+      "kind": "stay",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.07214,
+      "lon": 14.41077,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "Hořejší nábřeží",
+      "url": "http://www.admiral-botel.cz/",
+      "id": "czech-republic-57048fb9d740fc2bc11a"
+    },
+    {
+      "name": "NH Hotel Prague City",
+      "kind": "stay",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.07127,
+      "lon": 14.39718,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "Mozartova 1",
+      "price": "From €60 double",
+      "url": "https://www.nh-hotels.com/hotel/nh-prague-city",
+      "id": "czech-republic-d49b2c817b99fea012bc"
+    },
+    {
+      "name": "Hotel Fortuna West",
+      "kind": "stay",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.0655,
+      "lon": 14.31941,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "Mrkvičkova 2",
+      "price": "From €40 single",
+      "url": "http://www.hotelfortunawestprague.com/",
+      "id": "czech-republic-63f73497f27fcb2e3646"
+    },
+    {
+      "name": "Riverside Prague",
+      "kind": "stay",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.07447,
+      "lon": 14.40901,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "Janáčkovo nábřeží 15",
+      "url": "http://www.mamaison.com/prague-riverside-hotel-prague.html",
+      "id": "czech-republic-8575ba89125d0b0e7dba"
+    },
+    {
+      "name": "Hotel International",
+      "kind": "stay",
+      "locality": "Prague/West bank of Vltava",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "Koulova 15",
+      "url": "http://internationalprague.cz/",
+      "id": "czech-republic-f2529b86b02458064d7e"
+    },
+    {
+      "name": "Hotel Belvedere",
+      "kind": "stay",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.09927,
+      "lon": 14.43038,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "Milady Horákové 19",
+      "url": "http://www.hotelbelvedereprague.cz/",
+      "id": "czech-republic-f0eb4cc54e9ecb3e5057"
+    },
+    {
+      "name": "Plus Prague",
+      "kind": "stay",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.10916,
+      "lon": 14.45098,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "Přívozní 1",
+      "url": "http://www.plusprague.com/",
+      "id": "czech-republic-7f1453dbbc92341f0e52"
+    },
+    {
+      "name": "Sir Toby's Hostel",
+      "kind": "stay",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.10311,
+      "lon": 14.44809,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "address": "Delnicka 24",
+      "url": "http://www.sirtobys.com/",
+      "id": "czech-republic-15337c1e358eef971737"
+    },
+    {
+      "name": "Prague/West bank of Vltava",
+      "kind": "area",
+      "locality": "Prague/West bank of Vltava",
+      "lat": 50.079,
+      "lon": 14.388,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FWest_bank_of_Vltava",
+      "id": "czech-republic-2baf78375053ee2d4f9d"
+    },
+    {
+      "name": "Žižkov Television Tower",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.080833,
+      "lon": 14.451389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Mahlerovy sady 1, Praha 3",
+      "url": "https://towerpark.cz/",
+      "id": "czech-republic-dc40f6b839faf9313144"
+    },
+    {
+      "name": "National Memorial on the Vítkov Hill",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0883,
+      "lon": 14.4494,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "U Památníku 1900, Praha 3",
+      "url": "http://www.nm.cz/Hlavni-strana/Navstivte-nas/Narodni-pamatnik-na-Vitkove.html",
+      "id": "czech-republic-2b14ba5c7a57eaf34e75"
+    },
+    {
+      "name": "Military Museum",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.08758,
+      "lon": 14.44497,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "U Památníku 2, Praha 3",
+      "price": "Free",
+      "url": "http://www.vhu.cz/",
+      "id": "czech-republic-3a3d7b699fe473c1b20e"
+    },
+    {
+      "name": "Church of the Most Sacred Heart of Our Lord",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.078056,
+      "lon": 14.450636,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "náměstí Jiřího z Poděbrad",
+      "url": "http://srdcepane.cz/",
+      "id": "czech-republic-5c0c44479f64400ab3b4"
+    },
+    {
+      "name": "New Jewish Cemetery",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.079309,
+      "lon": 14.473299,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Izraelská 712, Praha 3",
+      "url": "http://www.porges.net/PragueNewJewishcemetery.html",
+      "id": "czech-republic-880a07312c1eb4b40403"
+    },
+    {
+      "name": "Olšany Cemetery",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.080556,
+      "lon": 14.470556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Vinohradská 153",
+      "id": "czech-republic-013f218dd3123d37fec0"
+    },
+    {
+      "name": "Old Olšany Jewish Cemetery",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0817233,
+      "lon": 14.4509425,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Fibichova 2818",
+      "url": "http://www.jewishmuseum.cz/",
+      "id": "czech-republic-42242ac6eb15c6094010"
+    },
+    {
+      "name": "Prague Zoo",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.116944,
+      "lon": 14.406111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "U Trojského zámku 3",
+      "url": "https://www.zoopraha.cz/en",
+      "id": "czech-republic-ba6e3e3fb185ed8850d0"
+    },
+    {
+      "name": "Prague Botanical Garden",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.11879,
+      "lon": 14.41288,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "url": "http://www.botanicka.cz/",
+      "id": "czech-republic-7e939fe2ac455626d467"
+    },
+    {
+      "name": "Troja Palace",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.11615,
+      "lon": 14.415,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "id": "czech-republic-365a808ae5b07eef633c"
+    },
+    {
+      "name": "Intelligence Bridge",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.02666,
+      "lon": 14.39976,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "id": "czech-republic-6269d79820ccbc22e9f4"
+    },
+    {
+      "name": "Kbely Aviation Museum",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.12557,
+      "lon": 14.53516,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Mladoboleslavská, Praha 9 – Kbely",
+      "price": "Free",
+      "url": "http://www.vhu.cz/",
+      "id": "czech-republic-6dc138840a97b8d16458"
+    },
+    {
+      "name": "Invalidovna",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0949861,
+      "lon": 14.4616861,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "id": "czech-republic-0405e076f866555830b5"
+    },
+    {
+      "name": "Podolí Waterworks Building",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0572769,
+      "lon": 14.4198381,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Podolská 15",
+      "url": "http://www.pvk.cz/",
+      "id": "czech-republic-ebeaa8e2d9b06e086fbd"
+    },
+    {
+      "name": "St. Wenceslas Church",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.069215,
+      "lon": 14.4593,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "id": "czech-republic-47633db25855e346e531"
+    },
+    {
+      "name": "Havlíčkovy sady",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.069444,
+      "lon": 14.445833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "U Havlíčkových Sadů",
+      "id": "czech-republic-fbc50c950504ccc3b987"
+    },
+    {
+      "name": "Chodov Fortress",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.034722,
+      "lon": 14.498889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "url": "http://www.chodovskatvrz.cz/",
+      "id": "czech-republic-da975c723a52771f7877"
+    },
+    {
+      "name": "Libeň chateau",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.1075,
+      "lon": 14.4714,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "id": "czech-republic-7f6c0372f8739fa23e7f"
+    },
+    {
+      "name": "Libeň Gas Reservoir",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.1008,
+      "lon": 14.4756,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "ulice V mezihoří 2228/2a",
+      "id": "czech-republic-e81d764789eca7dac669"
+    },
+    {
+      "name": "World of Jellyfish",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.05073,
+      "lon": 14.43756,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Arkády Pankrác shopping center",
+      "id": "czech-republic-12b761eb835cfae738e4"
+    },
+    {
+      "name": "Státní opera",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.08028,
+      "lon": 14.43278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "url": "https://www.narodni-divadlo.cz/en/state-opera",
+      "id": "czech-republic-247bed330b36c1e5a4ef"
+    },
+    {
+      "name": "SK Slavia Prague",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.067,
+      "lon": 14.472,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "id": "czech-republic-31e1a11f713b09cbded9"
+    },
+    {
+      "name": "Forum Karlín",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0914758,
+      "lon": 14.4550106,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Pernerova 53, Praha 8",
+      "url": "http://www.forumkarlin.cz/en/",
+      "id": "czech-republic-c0c01cd72a93cdcedceb"
+    },
+    {
+      "name": "Karlin Musical Theatre",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0901008,
+      "lon": 14.441445,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Křižíkova 10, Praha 8",
+      "url": "http://www.hdk.cz/en/",
+      "id": "czech-republic-239461866e955864c2dc"
+    },
+    {
+      "name": "Palác Akropolis",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.08228,
+      "lon": 14.44898,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Kubelíkova 27, Praha 3",
+      "url": "http://www.palacakropolis.cz/",
+      "id": "czech-republic-5cd979132c57d16727d1"
+    },
+    {
+      "name": "Podolí Swimming Stadion",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0516469,
+      "lon": 14.4172125,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "url": "http://www.pspodoli.cz/",
+      "id": "czech-republic-5d99029e62e860d35f35"
+    },
+    {
+      "name": "Unikovehryvpraze.cz",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.090252256248,
+      "lon": 14.446128525221711,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Vítkova 244/8 Praha 8",
+      "url": "https://www.unikovehryvpraze.cz/en",
+      "id": "czech-republic-0e8dbeb1a8c0d5df472e"
+    },
+    {
+      "name": "Kino Aero",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.09018,
+      "lon": 14.4719,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Biskupcova 31",
+      "url": "http://kinoaero.cz/",
+      "id": "czech-republic-bd691790a766aec8e4e2"
+    },
+    {
+      "name": "Kino Pilotů",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.07139377152637,
+      "lon": 14.446819368041405,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Donská 168",
+      "url": "https://kinopilotu.cz/",
+      "id": "czech-republic-415d9c507305505753bf"
+    },
+    {
+      "name": "Modřanský biograf",
+      "kind": "do",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.00345720047097,
+      "lon": 14.40463152570968,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "U Kina 1",
+      "url": "https://www.modranskybiograf.cz/",
+      "id": "czech-republic-2e775d988adfd7ae8de0"
+    },
+    {
+      "name": "Pizzeria Aria",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0903147,
+      "lon": 14.4405802,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Křižíkova 267/9",
+      "url": "http://www.pizzeria-aria.cz/",
+      "id": "czech-republic-c06747a5c24f3f121d17"
+    },
+    {
+      "name": "Kantýna Mezi Řádky Malešice",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0810147,
+      "lon": 14.5008692,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Počernická 524",
+      "id": "czech-republic-3ad4e095a960df499e3a"
+    },
+    {
+      "name": "Hostinec V Aleji",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0786231,
+      "lon": 14.5044496,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Vykáňská 11",
+      "id": "czech-republic-2f3b6a4c7294c7a658f8"
+    },
+    {
+      "name": "Restaurace U Michálků",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0778229,
+      "lon": 14.5072394,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Černokostelecká 127",
+      "id": "czech-republic-6a0694e8c5b1be7f521e"
+    },
+    {
+      "name": "Kebab Strašnice",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0770251,
+      "lon": 14.494797,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Černokostelecká 830/23",
+      "id": "czech-republic-95b2b9cd4aaa01363e28"
+    },
+    {
+      "name": "Kinokavárna Pilotů",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.071504,
+      "lon": 14.4469015,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Donská 168",
+      "id": "czech-republic-ad6b79fed3f3a0e7e005"
+    },
+    {
+      "name": "U Houmra",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0747073,
+      "lon": 14.4440335,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Šumavská 20",
+      "id": "czech-republic-32f5bc28a62a7fc7eb3d"
+    },
+    {
+      "name": "Hospůdka U Standy",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.070231,
+      "lon": 14.4535818,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Holandská 1",
+      "id": "czech-republic-0638baa165d1fe62fad7"
+    },
+    {
+      "name": "Arirang - Sushi Grand",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0690809,
+      "lon": 14.45251,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Rostovská 1012",
+      "id": "czech-republic-dc58aacf7ab4d2eba633"
+    },
+    {
+      "name": "Sandokan Vegan Bistro",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0754692,
+      "lon": 14.4514237,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Korunní 1172/81",
+      "id": "czech-republic-3f05b091162ca7bcdb61"
+    },
+    {
+      "name": "Tasty Kebab",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.07174242165001,
+      "lon": 14.451167875760396,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Moskevská 1",
+      "id": "czech-republic-81334a1de35b50ad39dc"
+    },
+    {
+      "name": "U Houdků",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.08237,
+      "lon": 14.4458,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Bořivojova 110, Praha 3",
+      "url": "https://www.uhoudku.com/",
+      "id": "czech-republic-aa087f41c8b4295f2a4f"
+    },
+    {
+      "name": "Pho Vietnam",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0784256,
+      "lon": 14.4481944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Slavíkova 1",
+      "id": "czech-republic-1b1689187c4d2e41a740"
+    },
+    {
+      "name": "BarFood",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.08736,
+      "lon": 14.44424,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Husitská 3",
+      "id": "czech-republic-c37a253ae1c4bb459410"
+    },
+    {
+      "name": "Žižkovská štrúdlárna",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.08654,
+      "lon": 14.45947,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Jeseniova 29, Prague 3",
+      "id": "czech-republic-31b43a3401473fa84e80"
+    },
+    {
+      "name": "Lokál Hamburk",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0931847,
+      "lon": 14.4468269,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Sokolovská 55",
+      "url": "http://lokal-hamburk.ambi.cz/",
+      "id": "czech-republic-4bdccca1ecdd5cce1ad9"
+    },
+    {
+      "name": "Highland Steak House",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0792242,
+      "lon": 14.4575081,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Lucemburská 28",
+      "id": "czech-republic-f69a2a5bd560c5a8f7e8"
+    },
+    {
+      "name": "Plzeňka Olše",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.08222,
+      "lon": 14.45727,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Táboritská 17/26",
+      "id": "czech-republic-8613710d44d3ff81748d"
+    },
+    {
+      "name": "Spice India",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.08682,
+      "lon": 14.44658,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Husitská 17",
+      "url": "http://spiceindia.cz/",
+      "id": "czech-republic-78852254a96f9fcb7e2f"
+    },
+    {
+      "name": "Café Pavlač",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.08422,
+      "lon": 14.44883,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Víta Nejedlého 23",
+      "url": "http://cafepavlac.cz/",
+      "id": "czech-republic-84f7ff5a4ca8447ee8f9"
+    },
+    {
+      "name": "Taverna Olympos",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0817,
+      "lon": 14.44684,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Kubelíkova 9",
+      "url": "http://taverna-olympos.eu/",
+      "id": "czech-republic-4b8fb7f10303c28301c9"
+    },
+    {
+      "name": "Indian Restaurant Pind Prague",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0754894,
+      "lon": 14.4493347,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Korunní 67",
+      "url": "http://www.pind.cz/",
+      "id": "czech-republic-a88561369da6c1a9b949"
+    },
+    {
+      "name": "U Bohouše",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.078336,
+      "lon": 14.44344,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Polská 34",
+      "url": "http://www.restauraceubohouse.cz/",
+      "id": "czech-republic-13b9bdc71f8026dfaaa0"
+    },
+    {
+      "name": "Dish Belgická",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0730273421302,
+      "lon": 14.43623849873077,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Belgická 26",
+      "url": "https://www.dishbelgicka.cz/",
+      "id": "czech-republic-60d850423458db9d77cc"
+    },
+    {
+      "name": "Third Coast Pizza",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.08247,
+      "lon": 14.44987,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Chvalova 1, Prague 3",
+      "id": "czech-republic-a8e2a7669d9123c3419a"
+    },
+    {
+      "name": "Pub a Bar Na Plech",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.08131,
+      "lon": 14.45381,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Bořivojova 503, Prague 3",
+      "url": "http://pubnaplech.cz/",
+      "id": "czech-republic-7a27966ef8cf5c6ebff0"
+    },
+    {
+      "name": "Restaurace u Agamy",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.08521,
+      "lon": 14.45303,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Štítného 35, Prague 3",
+      "id": "czech-republic-b646c97903eb327fa682"
+    },
+    {
+      "name": "Cà Phê Cổ - Prague",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.075252059300595,
+      "lon": 14.456885412222414,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Korunní 104",
+      "url": "https://praha.ca-phe-co.cz/",
+      "id": "czech-republic-5e9769710bd4f3a6c933"
+    },
+    {
+      "name": "Restaurace Botanic",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.043902,
+      "lon": 14.446145,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Olbrachtova 54",
+      "url": "http://restaurace-botanic.cz/",
+      "id": "czech-republic-f1bc31addf7af16514cc"
+    },
+    {
+      "name": "Bruxx",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0754469,
+      "lon": 14.4380283,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Náměstí Míru 9",
+      "url": "http://www.bruxx.cz/",
+      "id": "czech-republic-255b6763da05a56932ae"
+    },
+    {
+      "name": "Oblaca",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0813,
+      "lon": 14.45115,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "url": "https://towerpark.cz/oblaca/",
+      "id": "czech-republic-c22c0c146e7ad5bf1926"
+    },
+    {
+      "name": "Restaurace Chateau St. Havel",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.03514539313636,
+      "lon": 14.447735369892388,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Před Nádražím 1/6",
+      "url": "https://chateauhotel.cz/en//zamecka-restaurace/?_gl=1*17grvcf*_up*MQ..*_ga*MzY1MTMyMTYxLjE3NzY3NzYzODU.*_ga_8PMT9T3SY5*czE3NzY3NzYzODQkbzEkZzAkdDE3NzY3NzYzODQkajYwJGwwJGgw",
+      "id": "czech-republic-936a44c3e63dca792ff7"
+    },
+    {
+      "name": "Palác Akropolis",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.08228,
+      "lon": 14.44898,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Kubelíkova 27, Praha 3",
+      "url": "http://www.palacakropolis.cz/",
+      "id": "czech-republic-ab2d12fd02d445e3ee57"
+    },
+    {
+      "name": "Spirit Bar",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.08602,
+      "lon": 14.44873,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Dalimilova 2",
+      "url": "http://www.spiritbar.cz/",
+      "id": "czech-republic-1d0399fb403629e79933"
+    },
+    {
+      "name": "U Sadu",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.08076,
+      "lon": 14.44901,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Škroupovo náměstí 5",
+      "url": "http://usadu.cz/",
+      "id": "czech-republic-b50fb927acfb7c8d8ec3"
+    },
+    {
+      "name": "U Vystřelenýho oka",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.08713,
+      "lon": 14.4496,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "U Božích bojovníků 606/3",
+      "url": "http://www.uvoka.cz/",
+      "id": "czech-republic-c05a32f8b5e8b1f1bc92"
+    },
+    {
+      "name": "Tiki Taky",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.08613,
+      "lon": 14.451,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Cimburkova 22",
+      "url": "http://tikitaky.cz/",
+      "id": "czech-republic-35717bd87ba181b20ac8"
+    },
+    {
+      "name": "Bukowski's Bar",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.08304,
+      "lon": 14.44859,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Bořivojova 86",
+      "id": "czech-republic-aff47e031fae0ba5a211"
+    },
+    {
+      "name": "Sedm Vlků",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.08303,
+      "lon": 14.44477,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Vlkova 7",
+      "url": "http://sedmvlku.cz/",
+      "id": "czech-republic-47ee7132791ec7601962"
+    },
+    {
+      "name": "Kaaba Café",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0785792,
+      "lon": 14.4370553,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Mánesova 20",
+      "url": "http://www.kaaba.cz/",
+      "id": "czech-republic-66b390f50bb54e9d3e01"
+    },
+    {
+      "name": "Vinohradský pivovar",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0752981,
+      "lon": 14.4576075,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Korunní 106",
+      "url": "http://www.vinohradskypivovar.cz/",
+      "id": "czech-republic-5dca8cd0ea9c31b0b8b1"
+    },
+    {
+      "name": "mamacoffe",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0787278,
+      "lon": 14.4511658,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "náměstí Jiřího z Poděbrad 12",
+      "url": "http://www.mamacoffee.cz/content/kavarna-jiriho-z-podebrad/",
+      "id": "czech-republic-a4ddc1fde11b7309ace2"
+    },
+    {
+      "name": "U Posledního soudu",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0792503,
+      "lon": 14.4525586,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Jagellonská 8, Praha 3",
+      "url": "http://uposlednihosoudu.cz/",
+      "id": "czech-republic-a6c5ccf87eeb858072fa"
+    },
+    {
+      "name": "Maleše Microbrewery",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0845981,
+      "lon": 14.5076578,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Malešická 126/50",
+      "id": "czech-republic-eb810d6489203cc226b3"
+    },
+    {
+      "name": "El Mágico",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0195503,
+      "lon": 14.4961033,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Chemická 953",
+      "url": "https://www.elmagico.cz/club/",
+      "id": "czech-republic-34787b2904f63766af28"
+    },
+    {
+      "name": "Shadow Cafe",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0929053,
+      "lon": 14.4548108,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Křižíkova 134/58",
+      "url": "http://shadowcafe.cz/",
+      "id": "czech-republic-54e7bf9abb22c7f8f336"
+    },
+    {
+      "name": "Bar Milá tchýně",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0674108,
+      "lon": 14.4575431,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Minská 626/11",
+      "url": "http://www.milatchyne.cz/",
+      "id": "czech-republic-bb5a1b0d0d0f4af223cf"
+    },
+    {
+      "name": "Café V Lese",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.071387,
+      "lon": 14.448372,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Krymská 12",
+      "url": "http://www.cafevlese.cz/",
+      "id": "czech-republic-ef35916ef4aa08ffc60c"
+    },
+    {
+      "name": "Kolčavka Brewery",
+      "kind": "eat",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.1052,
+      "lon": 14.4864,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Lihovarská 1060/12, 190 00 Praha 9",
+      "url": "http://www.pivovarkolcavka.cz/",
+      "id": "czech-republic-1ba2ae2167d48a949635"
+    },
+    {
+      "name": "Czech Inn",
+      "kind": "stay",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.07191,
+      "lon": 14.4463,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Francouzska 76",
+      "url": "http://www.czech-inn.com/",
+      "id": "czech-republic-41bccface67c1c152d5f"
+    },
+    {
+      "name": "Hostel Elf",
+      "kind": "stay",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.08685,
+      "lon": 14.44578,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "url": "http://www.hostelelf.com/",
+      "id": "czech-republic-b2cae2a4541a9bf40dcf"
+    },
+    {
+      "name": "Three Crowns Hotel",
+      "kind": "stay",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.08652,
+      "lon": 14.45157,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Cimburkova 28",
+      "url": "http://www.three-crowns-hotel-prague.com/",
+      "id": "czech-republic-9dbdce6e916b9c245c10"
+    },
+    {
+      "name": "Clown and Bard Hostel",
+      "kind": "stay",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.08261,
+      "lon": 14.44673,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Borivojova 102, Žižkov",
+      "url": "http://www.clownandbard.com/",
+      "id": "czech-republic-3e7b07c0d4b8e9711df8"
+    },
+    {
+      "name": "Guesthouse Chlumova",
+      "kind": "stay",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.08482,
+      "lon": 14.45287,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Chlumova 10",
+      "id": "czech-republic-c9f438458fa1948ab24f"
+    },
+    {
+      "name": "a&o Hostel Prague Rhea",
+      "kind": "stay",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0799525,
+      "lon": 14.4993427,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "19, V Úžlabině 3068",
+      "id": "czech-republic-d0bc3dbc5bd3d10c7a76"
+    },
+    {
+      "name": "Hotel Amadeus",
+      "kind": "stay",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.08609,
+      "lon": 14.44959,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Dalimilova 10",
+      "price": "From €38 per night.",
+      "url": "http://www.amadeushotel.cz/",
+      "id": "czech-republic-466708c2295138f06345"
+    },
+    {
+      "name": "Hotel Claris",
+      "kind": "stay",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.07617,
+      "lon": 14.44248,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Slezská 26",
+      "url": "https://www.hotelclaris.cz/en",
+      "id": "czech-republic-ebe32d4138e0a3a08325"
+    },
+    {
+      "name": "Hotel Anna",
+      "kind": "stay",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.07472,
+      "lon": 14.44187,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Budečská 17",
+      "url": "http://www.hotelanna.cz/en/",
+      "id": "czech-republic-ad5690447e9b45f89be4"
+    },
+    {
+      "name": "Hotel Florenc",
+      "kind": "stay",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.09035,
+      "lon": 14.44077,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Křižíkova 11",
+      "url": "http://www.hotel-florenc.cz/",
+      "id": "czech-republic-01e394826605955c613d"
+    },
+    {
+      "name": "Clarion Congress Hotel Prague",
+      "kind": "stay",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.10959,
+      "lon": 14.50145,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Freyova str., Prague 9",
+      "price": "Rooms from €65/night",
+      "url": "http://www.clarioncongresshotelprague.com/en/",
+      "id": "czech-republic-ec2277ab404f03ed4478"
+    },
+    {
+      "name": "Hilton Prague",
+      "kind": "stay",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.0933,
+      "lon": 14.43962,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "address": "Pobrezni 1, Praha 8",
+      "url": "http://www.prague.hilton.com/",
+      "id": "czech-republic-2f51c3fdc5ee62627b22"
+    },
+    {
+      "name": "Prague/East bank of Vltava",
+      "kind": "area",
+      "locality": "Prague/East bank of Vltava",
+      "lat": 50.096,
+      "lon": 14.476,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Prague%2FEast_bank_of_Vltava",
+      "id": "czech-republic-09d9fe1ddb4ddbdd97fe"
+    }
+  ],
+  "status": "partial",
+  "note": "Fetched 7 distinct public Wikivoyage source pages; attempted 8 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Coverage cap: Prague: 2 additional linked subpages not fetched; Prague: 2 additional linked subpages not fetched."
+}

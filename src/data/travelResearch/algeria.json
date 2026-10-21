@@ -1,0 +1,388 @@
+{
+  "sources": [
+    {
+      "title": "Algeria",
+      "url": "https://en.wikivoyage.org/wiki/Algeria",
+      "checkedAt": "2026-10-21T08:08:08.236Z"
+    },
+    {
+      "title": "Algiers",
+      "url": "https://en.wikivoyage.org/wiki/Algiers",
+      "checkedAt": "2026-10-21T08:08:11.398Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Algiers",
+      "kind": "area",
+      "locality": "Algeria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algeria",
+      "id": "algeria-20e83ae3d96847ec6c9a"
+    },
+    {
+      "name": "Annaba",
+      "kind": "area",
+      "locality": "Algeria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algeria",
+      "id": "algeria-5d50fd79164df22074d5"
+    },
+    {
+      "name": "Batna",
+      "kind": "area",
+      "locality": "Algeria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algeria",
+      "id": "algeria-0bdf2d1499fc0e83acf9"
+    },
+    {
+      "name": "Bechar",
+      "kind": "area",
+      "locality": "Algeria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algeria",
+      "id": "algeria-a97d461a2be6b68cca7b"
+    },
+    {
+      "name": "Constantine",
+      "kind": "area",
+      "locality": "Algeria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algeria",
+      "id": "algeria-349dcd202fd62e46f237"
+    },
+    {
+      "name": "Oran",
+      "kind": "area",
+      "locality": "Algeria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algeria",
+      "id": "algeria-9d5b1098b458cc625e40"
+    },
+    {
+      "name": "Sétif",
+      "kind": "area",
+      "locality": "Algeria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algeria",
+      "id": "algeria-0f884f9e6f7c80406bb7"
+    },
+    {
+      "name": "Tamanrasset",
+      "kind": "area",
+      "locality": "Algeria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algeria",
+      "id": "algeria-36570f56034e51f692b1"
+    },
+    {
+      "name": "Timimoun",
+      "kind": "area",
+      "locality": "Algeria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algeria",
+      "id": "algeria-d2b8f5335698e9400ead"
+    },
+    {
+      "name": "Martyrs' Memorial",
+      "kind": "do",
+      "locality": "Algiers",
+      "lat": 36.745833,
+      "lon": 3.069722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "price": "DA50",
+      "id": "algeria-1a37c2584dab4c6e1462"
+    },
+    {
+      "name": "National Museum of Fine Arts of Algiers",
+      "kind": "do",
+      "locality": "Algiers",
+      "lat": 36.746111,
+      "lon": 3.072222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "address": "178, Place Dar Essalem",
+      "price": "DA200",
+      "url": "http://www.musee-beauxarts.dz/",
+      "id": "algeria-80d3d123c166d42ed3d1"
+    },
+    {
+      "name": "Grande Poste d'Alger",
+      "kind": "do",
+      "locality": "Algiers",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "id": "algeria-0f1b49ce49f69e7a9048"
+    },
+    {
+      "name": "Palais des Raïs",
+      "kind": "do",
+      "locality": "Algiers",
+      "lat": 36.78831,
+      "lon": 3.06409,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "price": "DA200",
+      "url": "http://www.palaisdesrais-bastion23.dz/",
+      "id": "algeria-8ba1f4cab9ae16605b5d"
+    },
+    {
+      "name": "Jardin d'essais of el-hamma",
+      "kind": "do",
+      "locality": "Algiers",
+      "lat": 36.748252,
+      "lon": 3.075835,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "price": "DA150",
+      "url": "http://facebook.com/jes.photos",
+      "id": "algeria-1f3fc4cfa32847bfdffd"
+    },
+    {
+      "name": "Djamaa el Djazaïr",
+      "kind": "do",
+      "locality": "Algiers",
+      "lat": 36.735833,
+      "lon": 3.138056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "id": "algeria-6ee292f21b92f8c2ebb1"
+    },
+    {
+      "name": "Bardo National Museum",
+      "kind": "do",
+      "locality": "Algiers",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "id": "algeria-b965017011c5907d8dd1"
+    },
+    {
+      "name": "National Museum of Antiquities and Islamic Art",
+      "kind": "do",
+      "locality": "Algiers",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "id": "algeria-056a186787d672aac12e"
+    },
+    {
+      "name": "Museum of Popular Arts and Traditions",
+      "kind": "do",
+      "locality": "Algiers",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "id": "algeria-a2440ef372d97e041ed3"
+    },
+    {
+      "name": "Museum of Modern Art of Algiers",
+      "kind": "do",
+      "locality": "Algiers",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "id": "algeria-68880da2beb183c879e3"
+    },
+    {
+      "name": "Basilica of Our Lady of Africa",
+      "kind": "do",
+      "locality": "Algiers",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "id": "algeria-9e7153794dbe2aebe906"
+    },
+    {
+      "name": "Sacred Heart Cathedral",
+      "kind": "do",
+      "locality": "Algiers",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "address": "Sidi M’Hamed 16000 Algiers",
+      "price": "Free",
+      "url": "https://en.m.wikipedia.org/wiki/Cath%C3%A9drale_du_Sacr%C3%A9-C%C5%93ur_d%27Alger",
+      "id": "algeria-0ea75c2d9c5c41cbd7de"
+    },
+    {
+      "name": "Ketchaoua Mosque",
+      "kind": "do",
+      "locality": "Algiers",
+      "lat": 36.785,
+      "lon": 3.060556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "id": "algeria-469950c6458ade9b5c88"
+    },
+    {
+      "name": "El Djedid Mosque",
+      "kind": "do",
+      "locality": "Algiers",
+      "lat": 36.7849,
+      "lon": 3.06301,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "id": "algeria-f6c3be47e90e1f5c327f"
+    },
+    {
+      "name": "El Barani Mosque",
+      "kind": "do",
+      "locality": "Algiers",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "id": "algeria-16c8088d601b1a16f93f"
+    },
+    {
+      "name": "Ali la Pointe Museum",
+      "kind": "do",
+      "locality": "Algiers",
+      "lat": 36.7832,
+      "lon": 3.0588,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "id": "algeria-3eaecee8ae72e56da1b2"
+    },
+    {
+      "name": "Palace of the Dey",
+      "kind": "do",
+      "locality": "Algiers",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "address": "Boulevard Mohamed Taleb, Casbah",
+      "id": "algeria-b3323de654109e636a44"
+    },
+    {
+      "name": "Sablette",
+      "kind": "do",
+      "locality": "Algiers",
+      "lat": 36.7425,
+      "lon": 3.1221,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "id": "algeria-778e3cc8935c9ea127b8"
+    },
+    {
+      "name": "Marina Palm",
+      "kind": "do",
+      "locality": "Algiers",
+      "lat": 36.792802,
+      "lon": 3.234696,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "id": "algeria-d89f82be06f2649325e1"
+    },
+    {
+      "name": "Znika Tourisme & Artisanat",
+      "kind": "do",
+      "locality": "Algiers",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "address": "7 M Azouzi Street, Casbah",
+      "url": "https://www.instagram.com/znika_concept_store/",
+      "id": "algeria-0ab8bf53e711d2170cb5"
+    },
+    {
+      "name": "Al Boustan Restaurant",
+      "kind": "eat",
+      "locality": "Algiers",
+      "lat": 36.74184,
+      "lon": 3.07749,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "address": "Bois des Arcades Riadh El Feth",
+      "id": "algeria-69751bbb31ad66aa2938"
+    },
+    {
+      "name": "Sapori",
+      "kind": "eat",
+      "locality": "Algiers",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "address": "20 Rpe Chasseloup-Laudat, Casbah Alger",
+      "id": "algeria-f34c74e3b69c6881958a"
+    },
+    {
+      "name": "Le Ciloc",
+      "kind": "eat",
+      "locality": "Algiers",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "address": "6 Rue de savoie, Hydra",
+      "id": "algeria-b2f005abe8e64bfa4ee9"
+    },
+    {
+      "name": "Seventy-Five Lounge at El Aurassi Hotel",
+      "kind": "eat",
+      "locality": "Algiers",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "address": "2, Boulevard Frantz Fanon, Les Tagarins",
+      "url": "https://elaurassi.dz/",
+      "id": "algeria-c0ccc419452bbc7345d7"
+    },
+    {
+      "name": "Central Touring Hotel",
+      "kind": "stay",
+      "locality": "Algiers",
+      "lat": 36.77881,
+      "lon": 3.0592,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "address": "9, rue Abane Ramdane",
+      "price": "DA2000-5000",
+      "id": "algeria-27765a1cc99838458497"
+    },
+    {
+      "name": "Hôtel El Badr",
+      "kind": "stay",
+      "locality": "Algiers",
+      "lat": 36.7828,
+      "lon": 3.061,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "address": "31, Rue Amar El Kama ex (rue de chartres)",
+      "price": "From about DA1300",
+      "url": "http://www.elbadrhotel.com/",
+      "id": "algeria-8eb60f9ecba3e0179699"
+    },
+    {
+      "name": "Hotel Suisse",
+      "kind": "stay",
+      "locality": "Algiers",
+      "lat": 36.76766,
+      "lon": 3.05292,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "address": "rue Lieutenant Salah Boulhart (ex-Drouillet)",
+      "url": "http://www.hotelsuisse-dz.com/",
+      "id": "algeria-c407ddb5e71270610c21"
+    },
+    {
+      "name": "Hôtel Elghanami",
+      "kind": "stay",
+      "locality": "Algiers",
+      "lat": 36.7592,
+      "lon": 3.0554,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "price": "Rooms from DA8000",
+      "id": "algeria-602fb032a7ea8f7a9261"
+    },
+    {
+      "name": "Sheraton Club des Pins Resort",
+      "kind": "stay",
+      "locality": "Algiers",
+      "lat": 36.762817,
+      "lon": 2.873849,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "address": "Boite Postal 62",
+      "url": "http://www.sheratonclubdespins.com/",
+      "id": "algeria-91338b8d03ef95e7fdd2"
+    },
+    {
+      "name": "Sofitel Algiers Hamma Garden Hotel",
+      "kind": "stay",
+      "locality": "Algiers",
+      "lat": 36.75089,
+      "lon": 3.073358,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "address": "172 Rue Hassiba Ben Bouali",
+      "url": "https://all.accor.com/hotel/1540/index.en.shtml",
+      "id": "algeria-fc8e9f5f32ae06c233a1"
+    },
+    {
+      "name": "Hyatt Regency Algiers Airport",
+      "kind": "stay",
+      "locality": "Algiers",
+      "lat": 36.704944,
+      "lon": 3.205194,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "address": "Houari Boumediene Airport, Algiers, Algeria, 16033",
+      "url": "https://www.hyatt.com/en-US/hotel/algeria/hyatt-regency-algiers-airport/algra?src=corp_lclb_gmb_seo_algra",
+      "id": "algeria-6073b5c888326052d9fd"
+    },
+    {
+      "name": "Ibis Alger-Aéroport Hotel",
+      "kind": "stay",
+      "locality": "Algiers",
+      "lat": 36.714649,
+      "lon": 3.198045,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "address": "Route de l'université",
+      "price": "Twin room from EUR 95 a night",
+      "url": "https://all.accor.com/hotel/5682/index.en.shtml",
+      "id": "algeria-bd46f60492839c809ded"
+    },
+    {
+      "name": "Algiers",
+      "kind": "area",
+      "locality": "Algiers",
+      "lat": 36.7,
+      "lon": 3.2167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Algiers",
+      "id": "algeria-a2404776545667956acf"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

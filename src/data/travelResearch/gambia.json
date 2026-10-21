@@ -1,0 +1,265 @@
+{
+  "sources": [
+    {
+      "title": "Gambia",
+      "url": "https://en.wikivoyage.org/wiki/Gambia",
+      "checkedAt": "2026-10-21T08:09:46.266Z"
+    },
+    {
+      "title": "Banjul",
+      "url": "https://en.wikivoyage.org/wiki/Banjul",
+      "checkedAt": "2026-10-21T08:09:49.211Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Banjul",
+      "kind": "area",
+      "locality": "Gambia",
+      "lat": 13.453056,
+      "lon": -16.5775,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gambia",
+      "id": "gambia-5c4ef0950465541fbd41"
+    },
+    {
+      "name": "Basse Santa Su",
+      "kind": "area",
+      "locality": "Gambia",
+      "lat": 13.310262,
+      "lon": -14.23,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gambia",
+      "id": "gambia-ca050e40f47b6fdf94f0"
+    },
+    {
+      "name": "Bintang",
+      "kind": "area",
+      "locality": "Gambia",
+      "lat": 13.249772,
+      "lon": -16.212593,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gambia",
+      "id": "gambia-15f55812719611ca1fb5"
+    },
+    {
+      "name": "Brikama",
+      "kind": "area",
+      "locality": "Gambia",
+      "lat": 13.266667,
+      "lon": -16.65,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gambia",
+      "id": "gambia-7925c65c86593ae56e98"
+    },
+    {
+      "name": "Brufut",
+      "kind": "area",
+      "locality": "Gambia",
+      "lat": 13.383333,
+      "lon": -16.75,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gambia",
+      "id": "gambia-b99cd55fe493d160f6dd"
+    },
+    {
+      "name": "Gunjur",
+      "kind": "area",
+      "locality": "Gambia",
+      "lat": 13.183333,
+      "lon": -16.766667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gambia",
+      "id": "gambia-53be1984d7c3d61415f3"
+    },
+    {
+      "name": "Janjanbureh",
+      "kind": "area",
+      "locality": "Gambia",
+      "lat": 13.534131,
+      "lon": -14.766153,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gambia",
+      "id": "gambia-f25d353ded2db2cbdc6d"
+    },
+    {
+      "name": "Juffureh",
+      "kind": "area",
+      "locality": "Gambia",
+      "lat": 13.338611,
+      "lon": -16.3825,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gambia",
+      "id": "gambia-dd26a0439f35ff6ab549"
+    },
+    {
+      "name": "Kartong",
+      "kind": "area",
+      "locality": "Gambia",
+      "lat": 13.092828,
+      "lon": -16.76,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gambia",
+      "id": "gambia-0f99c329dfbcd0185793"
+    },
+    {
+      "name": "Serekunda",
+      "kind": "area",
+      "locality": "Gambia",
+      "lat": 13.433333,
+      "lon": -16.666667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gambia",
+      "id": "gambia-b6f353d8b62a76a49178"
+    },
+    {
+      "name": "Tanji",
+      "kind": "area",
+      "locality": "Gambia",
+      "lat": 13.35,
+      "lon": -16.783333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gambia",
+      "id": "gambia-01b2e775481527208e74"
+    },
+    {
+      "name": "Yundum",
+      "kind": "area",
+      "locality": "Gambia",
+      "lat": 13.366667,
+      "lon": -16.65,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gambia",
+      "id": "gambia-3288c1f8a99021f9d01b"
+    },
+    {
+      "name": "Christmas",
+      "kind": "do",
+      "locality": "Gambia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gambia",
+      "id": "gambia-d862a1cdf60834df105a"
+    },
+    {
+      "name": "International food",
+      "kind": "eat",
+      "locality": "Gambia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gambia",
+      "id": "gambia-e17bf063bcb509207efe"
+    },
+    {
+      "name": "Spirits",
+      "kind": "eat",
+      "locality": "Gambia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gambia",
+      "id": "gambia-4a6f6cd71a606007dafa"
+    },
+    {
+      "name": "Spirits, Beers & Cigarettes",
+      "kind": "eat",
+      "locality": "Gambia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gambia",
+      "id": "gambia-ed0915316961073e17ed"
+    },
+    {
+      "name": "Arch 22",
+      "kind": "do",
+      "locality": "Banjul",
+      "lat": 13.460352,
+      "lon": -16.582467,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banjul",
+      "price": "D200",
+      "id": "gambia-9fd1b2d74a114c825f2d"
+    },
+    {
+      "name": "The Gambia National Museum",
+      "kind": "do",
+      "locality": "Banjul",
+      "lat": 13.456389,
+      "lon": -16.576389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banjul",
+      "address": "Independence Drive",
+      "price": "D200. 04/2026",
+      "url": "http://www.ncac.gm/",
+      "id": "gambia-605ad5c08bc6069ae6c4"
+    },
+    {
+      "name": "Nefertiti",
+      "kind": "eat",
+      "locality": "Banjul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banjul",
+      "id": "gambia-c62174d1a4996340ffb2"
+    },
+    {
+      "name": "Calypso Bar & Restaurant",
+      "kind": "eat",
+      "locality": "Banjul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banjul",
+      "address": "in Bakau",
+      "url": "https://calypso-beach-bar.business.site/",
+      "id": "gambia-1ebf5cdd695270eccc2a"
+    },
+    {
+      "name": "Gibbi's on the Beach",
+      "kind": "eat",
+      "locality": "Banjul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banjul",
+      "address": "in Bakau",
+      "url": "https://www.gibbis.eu/",
+      "id": "gambia-a7448b32fc22a89656c2"
+    },
+    {
+      "name": "Smiling Coast Guesthouse Bar & Restaurant",
+      "kind": "eat",
+      "locality": "Banjul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banjul",
+      "address": "Kofi Anan Street, Cape Point",
+      "id": "gambia-0d315750ac5b51bdf4b0"
+    },
+    {
+      "name": "YMCA hostel",
+      "kind": "stay",
+      "locality": "Banjul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banjul",
+      "address": "kanifing south mdi road",
+      "price": "D250/400",
+      "url": "http://www.ymca.gm/",
+      "id": "gambia-3a4d95e4a2774c058f37"
+    },
+    {
+      "name": "Fajara Guest House",
+      "kind": "stay",
+      "locality": "Banjul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banjul",
+      "address": "11 10th street south",
+      "id": "gambia-8aff109759a444ff959d"
+    },
+    {
+      "name": "Camping Sukuta and Lodge",
+      "kind": "stay",
+      "locality": "Banjul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banjul",
+      "price": "US$3.80/9.50/13.00",
+      "url": "http://www.campingsukuta.com/",
+      "id": "gambia-e61810f7278d493445c0"
+    },
+    {
+      "name": "Sarges Hotel",
+      "kind": "stay",
+      "locality": "Banjul",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banjul",
+      "address": "Kololi Serrekunda",
+      "price": "D2600",
+      "id": "gambia-2106b48a13982707aaa7"
+    },
+    {
+      "name": "Laico Atlantic",
+      "kind": "stay",
+      "locality": "Banjul",
+      "lat": 13.459406,
+      "lon": -16.578199,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banjul",
+      "address": "Marina Parade",
+      "url": "https://laicoatlantic.com-hotel.website/",
+      "id": "gambia-cfeb2e09d12213b81d81"
+    },
+    {
+      "name": "Banjul",
+      "kind": "area",
+      "locality": "Banjul",
+      "lat": 13.453056,
+      "lon": -16.5775,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Banjul",
+      "id": "gambia-67ee1144a77656bbbb7c"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

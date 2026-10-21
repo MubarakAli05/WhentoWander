@@ -1,0 +1,4118 @@
+{
+  "sources": [
+    {
+      "title": "Mexico",
+      "url": "https://en.wikivoyage.org/wiki/Mexico",
+      "checkedAt": "2026-10-21T08:06:53.522Z"
+    },
+    {
+      "title": "Mexico City",
+      "url": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "checkedAt": "2026-10-21T08:06:55.680Z"
+    },
+    {
+      "title": "Mexico City/Centro",
+      "url": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "checkedAt": "2026-10-21T08:06:58.388Z"
+    },
+    {
+      "title": "Mexico City/Chapultepec",
+      "url": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "checkedAt": "2026-10-21T08:07:01.230Z"
+    },
+    {
+      "title": "Mexico City/Coyoacán",
+      "url": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "checkedAt": "2026-10-21T08:07:04.237Z"
+    },
+    {
+      "title": "Mexico City/San Angel",
+      "url": "https://en.wikivoyage.org/wiki/Mexico_City%2FSan_Angel",
+      "checkedAt": "2026-10-21T08:07:07.170Z"
+    },
+    {
+      "title": "Mexico City/Tlalpan",
+      "url": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "checkedAt": "2026-10-21T08:07:10.225Z"
+    },
+    {
+      "title": "Mexico City/Polanco",
+      "url": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "checkedAt": "2026-10-21T08:07:13.251Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Mexico City",
+      "kind": "area",
+      "locality": "Mexico",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico",
+      "id": "mexico-8f4e58cc3da8ac43a7d0"
+    },
+    {
+      "name": "Cancún",
+      "kind": "area",
+      "locality": "Mexico",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico",
+      "id": "mexico-a2b1af176dd9f59350a0"
+    },
+    {
+      "name": "Guadalajara",
+      "kind": "area",
+      "locality": "Mexico",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico",
+      "id": "mexico-060f456d4fdef1c79728"
+    },
+    {
+      "name": "Mazatlán",
+      "kind": "area",
+      "locality": "Mexico",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico",
+      "id": "mexico-7419cd66e3c553cf5e1a"
+    },
+    {
+      "name": "Monterrey",
+      "kind": "area",
+      "locality": "Mexico",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico",
+      "id": "mexico-33a859a68cd366613cec"
+    },
+    {
+      "name": "Puebla",
+      "kind": "area",
+      "locality": "Mexico",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico",
+      "id": "mexico-59756157ad28275bf3d7"
+    },
+    {
+      "name": "San Luis Potosí",
+      "kind": "area",
+      "locality": "Mexico",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico",
+      "id": "mexico-d268d39a53ca3bd6c257"
+    },
+    {
+      "name": "Taxco",
+      "kind": "area",
+      "locality": "Mexico",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico",
+      "id": "mexico-deaeb85c9b50e58900b7"
+    },
+    {
+      "name": "Tijuana",
+      "kind": "area",
+      "locality": "Mexico",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico",
+      "id": "mexico-c23c52db9051ef1c5d7a"
+    },
+    {
+      "name": "Plaza de la Bellas Artes",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-c7e1da823cf107f732d3"
+    },
+    {
+      "name": "Plaza de la Constitución",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-6e21a8562e8a3e0ffcab"
+    },
+    {
+      "name": "Catedral Metropolitana de la Ciudad de México",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-c3b077b0e7af16b44eb9"
+    },
+    {
+      "name": "Angel de la Independencia",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-0111a9895680fa0cd7a5"
+    },
+    {
+      "name": "Basílica de Guadalupe",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-eee959a5f93eca0bdc88"
+    },
+    {
+      "name": "Ciudad Universitaria",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-bd75af2d15c97648ee10"
+    },
+    {
+      "name": "Coyoacán",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-db7295e29b2f8331217a"
+    },
+    {
+      "name": "Plaza Garibaldi-Mariachi",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-0f6b6d7508a2f8b7a1d7"
+    },
+    {
+      "name": "Paseo de la Reforma",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-e82913f35473d675be22"
+    },
+    {
+      "name": "Cineteca Nacional",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-ef956837a29ec7311225"
+    },
+    {
+      "name": "Torre Latinoamericana",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-e6e336e8e0e9198ee67e"
+    },
+    {
+      "name": "National Museum of Anthropology",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-5ec09b9d15efdefc1223"
+    },
+    {
+      "name": "Plaza de las Tres Culturas",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-2ac2d8ff7a747d919b36"
+    },
+    {
+      "name": "Museum of Modern Art",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-cdaae0299c2b4670c9cc"
+    },
+    {
+      "name": "Dolores Olmedo Museum",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-8ca8637ef74d1d6a7fe0"
+    },
+    {
+      "name": "Fine Arts Palace Museum",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-1ed0fd9791d7d5fac2d9"
+    },
+    {
+      "name": "Museo Soumaya",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-28991b87ea168d26aa98"
+    },
+    {
+      "name": "Rufino Tamayo Museum",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-79593b0510a218b73f0c"
+    },
+    {
+      "name": "José Luis Cuevas Museum",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-bd44808fd65bb06fccfb"
+    },
+    {
+      "name": "National History Museum in Chapultepec's Castle",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-84391d69ac49e6db261d"
+    },
+    {
+      "name": "Papalote Children's Museum",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-2bd5e51a4f428256ee1b"
+    },
+    {
+      "name": "Universum",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-c20a03184ce6e42d263d"
+    },
+    {
+      "name": "Casa Mural Diego Rivera",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-d56cf78c1cef1fc5f2ef"
+    },
+    {
+      "name": "National Palace (Zocalo)",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-adf279fad45f8413c52b"
+    },
+    {
+      "name": "San Idelfonso Museum",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-dfc6371f8d18d04c3b5f"
+    },
+    {
+      "name": "Franz Meyer Museum",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-00b5c1625a8a8e6c3802"
+    },
+    {
+      "name": "Mexico City's Museum",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-199e98b30831b1034851"
+    },
+    {
+      "name": "Templo Mayor Museum (Zocalo)",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-4ed205823ca1b51530da"
+    },
+    {
+      "name": "San Carlos Museum",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-0b68c390a0af2d7e759c"
+    },
+    {
+      "name": "National Art Museum",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-b2847adfbeed9cd4f30a"
+    },
+    {
+      "name": "Frida Kahlo Museum",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-93763bda9f03febcc515"
+    },
+    {
+      "name": "Anahuacalli Museum",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-603dd479a38766d27291"
+    },
+    {
+      "name": "Leon Trotsky Museum",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-98981e8be18563530644"
+    },
+    {
+      "name": "Wise Men's day",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-9bb5e367f0f5f4f3f804"
+    },
+    {
+      "name": "Art Week",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-41b50eb815efb527a9a3"
+    },
+    {
+      "name": "Independence Day \"Yell\"",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-9b5520314c1eb5332b1b"
+    },
+    {
+      "name": "Independence Parade",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-772419e1b909695b9a65"
+    },
+    {
+      "name": "Alebrijes Parade",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "address": "Reforma to Zocalo",
+      "id": "mexico-0f8954697429627cff92"
+    },
+    {
+      "name": "Day of the Dead",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-d79620f37b33b9c0a9ab"
+    },
+    {
+      "name": "Six Flags Mexico",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-47f82ad777068ef177ca"
+    },
+    {
+      "name": "Parque Aztlan",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-a73fe78fe766ebb5b002"
+    },
+    {
+      "name": "Estadio Azteca",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-bce39a511c24af2929b0"
+    },
+    {
+      "name": "Estadio Olimpico de Ciudad Universitaria",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-2c09d82fcf43d42bea30"
+    },
+    {
+      "name": "Estadio Alfredo Harp Helu",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-40692e4a437fc063af26"
+    },
+    {
+      "name": "Autodromo Hermanos Rodriguez",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-5bf0b1578903808fb60a"
+    },
+    {
+      "name": "Arena Ciudad de Mexico",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-f7e27f8b6ecddf6bac15"
+    },
+    {
+      "name": "Hipodromo de las Americas",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-8038d27dd603ffacc4ad"
+    },
+    {
+      "name": "Arena México",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-13c5b9750c29ae8346ea"
+    },
+    {
+      "name": "Arena Coliseo",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-5d75f67ae2e9226aaf56"
+    },
+    {
+      "name": "Arena Ciudad de México",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-7bbf7b513acf54f4d5a2"
+    },
+    {
+      "name": "Auditorio Nacional",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-ad1b73d153559ce12007"
+    },
+    {
+      "name": "Bellas Artes",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-759f3154517a742c3e34"
+    },
+    {
+      "name": "Circo Volador",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-f2d5b4a5f2a42e59ea1e"
+    },
+    {
+      "name": "Ollin Yoliztli",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-acbc1bf6ff2656e89e8a"
+    },
+    {
+      "name": "Sala Nezahualcóyotl",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-ff70af89719e1076fa8a"
+    },
+    {
+      "name": "Teatro Metropolitan",
+      "kind": "do",
+      "locality": "Mexico City",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-c1cb3b0269357c44d0b1"
+    },
+    {
+      "name": "Mexico City",
+      "kind": "area",
+      "locality": "Mexico City",
+      "lat": 19.4106,
+      "lon": -99.1306,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City",
+      "id": "mexico-aec705dbe686fa40391c"
+    },
+    {
+      "name": "Plaza de la Constitución",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43267,
+      "lon": -99.13317,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "id": "mexico-6ebd43858f992dae19e2"
+    },
+    {
+      "name": "Templo Mayor",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43483,
+      "lon": -99.13104,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "C/ Seminario 8",
+      "price": "M$59, free for children under 12 and students with valid ID",
+      "url": "https://www.templomayor.inah.gob.mx/",
+      "id": "mexico-827cbade2628bc35fc84"
+    },
+    {
+      "name": "Museo del Templo Mayor",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43489,
+      "lon": -99.13029,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "url": "http://www.inah.gob.mx/paseos/templomayor/",
+      "id": "mexico-42b129287baa732bf0d7"
+    },
+    {
+      "name": "Palacio Nacional",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43254,
+      "lon": -99.13158,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Plaza de la Constitución s/n",
+      "id": "mexico-f5d11664950b8d440a6d"
+    },
+    {
+      "name": "Plaza de la Fundación",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43124,
+      "lon": -99.13244,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "id": "mexico-8be9e354c8b4f0ee4013"
+    },
+    {
+      "name": "Nacional Monte de Piedad",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.4344,
+      "lon": -99.1345,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Monte de Piedad and Cinco de Mayo",
+      "id": "mexico-09a947bfe033bfd650ff"
+    },
+    {
+      "name": "Casa de la Primera Imprenta de América",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43367,
+      "lon": -99.13079,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Lic Francisco Primo de Verdad 10",
+      "price": "Free",
+      "url": "https://www.facebook.com/pages/Casa-de-la-Primera-Imprenta-de-Am%C3%A9rica/144480592260073?sk=timeline&ref=page_internal",
+      "id": "mexico-a406c7d48bbee276a4d1"
+    },
+    {
+      "name": "Plaza Manuel Gamio",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43414,
+      "lon": -99.13204,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "id": "mexico-aedd2aa2405d5d1581e5"
+    },
+    {
+      "name": "Suprema Corte de Justicia de la Nación",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43112,
+      "lon": -99.13168,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "id": "mexico-05decd409b2968a3fcf6"
+    },
+    {
+      "name": "Catedral Metropolitana de México",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43434,
+      "lon": -99.13307,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "price": "Free",
+      "url": "https://catedralmetropolitana.mx/",
+      "id": "mexico-a6b99381f42a8a290c69"
+    },
+    {
+      "name": "Sagrario Metropolitano",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43393,
+      "lon": -99.13262,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "url": "http://www.catedralmetropolitanademexico.mx/apps/publications/info/?a=56&z=13",
+      "id": "mexico-09222579e713d64b13bc"
+    },
+    {
+      "name": "Templo de San Francisco",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43347,
+      "lon": -99.14005,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Francisco I Madero 7",
+      "id": "mexico-8eaece79fb977367aa38"
+    },
+    {
+      "name": "Templo Expiatorio Nacional de San Felipe de Jesús",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43379,
+      "lon": -99.13985,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Francisco I Madero 9",
+      "id": "mexico-47087882cff3f1972ba6"
+    },
+    {
+      "name": "Santa Teresa La Antigua",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43399,
+      "lon": -99.13062,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Licenciado Verdad 6",
+      "id": "mexico-250e77b584f5b02d5a64"
+    },
+    {
+      "name": "Templo de la Enseñanza",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43602,
+      "lon": -99.13224,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Donceles 104",
+      "price": "Free",
+      "id": "mexico-ed439877894eff15caf6"
+    },
+    {
+      "name": "Templo y Convento de Regina Coeli",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.428118,
+      "lon": -99.138974,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Regina 3",
+      "url": "https://www.facebook.com/ParroquiaReginaCoeliDF/",
+      "id": "mexico-df7424a35de68b3e7f0d"
+    },
+    {
+      "name": "Templo de San Felipe Neri",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.433839486158522,
+      "lon": -99.13638791899177,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Isabel La Católica 21",
+      "id": "mexico-2dd8ea704235d80d2859"
+    },
+    {
+      "name": "Alameda Central",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Av Hidalgo s/n",
+      "id": "mexico-2c3a9a274537484a0db6"
+    },
+    {
+      "name": "Plaza de Santo Domingo",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43728,
+      "lon": -99.13384,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "id": "mexico-52bd0b8ccaf5f5e14804"
+    },
+    {
+      "name": "Museo de la Medicina Mexicana",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43795,
+      "lon": -99.13307,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "República de Brasil 33",
+      "price": "Free",
+      "url": "https://pem.facmed.unam.mx/",
+      "id": "mexico-d175e69bdf971271c8d8"
+    },
+    {
+      "name": "Plaza Manuel Tolsá",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43609,
+      "lon": -99.13946,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Tacuba 8",
+      "id": "mexico-64ce3e51e289fe2ba145"
+    },
+    {
+      "name": "Museo Nacional de Arte",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43646,
+      "lon": -99.13942,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Tacuba 8",
+      "url": "https://munal.mx/en/",
+      "id": "mexico-b3b5ee0adf83e6464d81"
+    },
+    {
+      "name": "Palacio de Minería",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43546,
+      "lon": -99.13959,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Tacuba 5",
+      "price": "M$30",
+      "url": "http://www.palaciomineria.unam.mx/",
+      "id": "mexico-143aa0815e87efa2f6e1"
+    },
+    {
+      "name": "Plaza de las Tres Culturas",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Lázaro Cárdenas Eje",
+      "id": "mexico-b0dc865499c14095cbde"
+    },
+    {
+      "name": "Zona Arquelógica Tlatelolco",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.45141,
+      "lon": -99.13755,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "price": "Free",
+      "id": "mexico-061d4bb5305a08074718"
+    },
+    {
+      "name": "Templo de Santiago",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.45107,
+      "lon": -99.13667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "id": "mexico-23f2a93f14de1d998b3b"
+    },
+    {
+      "name": "Centro Cultural Universitario Tlatelolco",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.45012,
+      "lon": -99.13702,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Ricardo Flores Magón 1",
+      "url": "https://tlatelolco.unam.mx/",
+      "id": "mexico-bf89651ffc1b066874b1"
+    },
+    {
+      "name": "Plaza Garibaldi",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Eje Central Lázaro Cárdenas 43",
+      "url": "https://www.facebook.com/plazaGaribaldiOfficial",
+      "id": "mexico-0c38d87598b3192cfbb1"
+    },
+    {
+      "name": "Museo de Arte Popular",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.4336,
+      "lon": -99.1463,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Revillagigedo 11",
+      "url": "https://www.map.cdmx.gob.mx/",
+      "id": "mexico-cc7ede0944b22cee85dc"
+    },
+    {
+      "name": "Museo Franz Mayer",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43727,
+      "lon": -99.14331,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Hidalgo 45",
+      "price": "M$45 (adults), M$25 (students/teachers), free (seniors/children under 12/museum members)",
+      "url": "https://franzmayer.org.mx/",
+      "id": "mexico-362bf4cbac5511f4811f"
+    },
+    {
+      "name": "Museo José Luis Cuevas",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43365,
+      "lon": -99.12914,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Academía 13",
+      "price": "M$40 (adults), M$20 (students/teachers)",
+      "url": "http://www.museojoseluiscuevas.com.mx/",
+      "id": "mexico-ba76ba28081cf20db09c"
+    },
+    {
+      "name": "Academía de San Carlos",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43308,
+      "lon": -99.12868,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Academía 22",
+      "url": "https://www.mnsancarlos.com/",
+      "id": "mexico-662e9537f0b3a6ed3b6a"
+    },
+    {
+      "name": "Museo Mural Diego Rivera",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43614,
+      "lon": -99.1468,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Puente de Alvarado 50",
+      "price": "M$35 (adults), free (students/teachers), photo permit M$5",
+      "url": "https://inba.gob.mx/recinto/46/museo-mural-diego-rivera",
+      "id": "mexico-235b974468901a5fa46a"
+    },
+    {
+      "name": "Museo Nacional de la Estampa",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43703,
+      "lon": -99.14272,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Avda Hidalgo 39",
+      "price": "M$45 (adults), free (students/teachers/INAPAM members); free admission on Sundays",
+      "url": "http://www.museonacionaldelaestampa.bellasartes.gob.mx/",
+      "id": "mexico-856fa51ef9ade2433151"
+    },
+    {
+      "name": "Museo Kaluz",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.4383,
+      "lon": -99.145847,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Hidalgo 85",
+      "price": "M$90 (foreigners), M$60 (Mexican citizens)",
+      "url": "https://museokaluz.org/",
+      "id": "mexico-565f65b0cb7953ca0540"
+    },
+    {
+      "name": "Museo de la Arte de SHCP",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43378189835445,
+      "lon": -99.13129303366622,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Moneda 4",
+      "price": "Free",
+      "url": "https://www.shcp.gob.mx/",
+      "id": "mexico-70f6b814bde7815dc9a3"
+    },
+    {
+      "name": "Museo Vivo del Muralismo",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.4371,
+      "lon": -99.1322,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Republica de Argentina 28",
+      "price": "Free",
+      "url": "https://museovivodelmuralismo.sep.gob.mx/",
+      "id": "mexico-4e5328fcfb9ae983e2d3"
+    },
+    {
+      "name": "Museo de la Ciudad de México",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.42926,
+      "lon": -99.13214,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "José María Pino Suárez 30",
+      "price": "M$29 (adults), M$14.50 (students/teachers/INAPAM members); free on W",
+      "url": "https://www.facebook.com/museodelaciudadmx/",
+      "id": "mexico-7788a7cb0f25828b218c"
+    },
+    {
+      "name": "Memorial del 68",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.44978,
+      "lon": -99.13664,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Avda Ricardo Flores Magón 1",
+      "price": "M$30 (adults), M$15 (students), free (children under 6); free admission on Su",
+      "url": "http://sic.gob.mx/ficha.php?table=museo&table_id=1600",
+      "id": "mexico-c59d4905feef9e85bea8"
+    },
+    {
+      "name": "Museo Memoria y Tolerancia",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43418,
+      "lon": -99.14462,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Plaza Juárez",
+      "price": "M$75 (adults), M$60 (students/teachers/seniors); temporary exhibits: M$30 (adults), M$15 (concessions)",
+      "url": "http://www.myt.org.mx/",
+      "id": "mexico-34ff91cf1b28ef42fe1f"
+    },
+    {
+      "name": "Museo de la Indumentaria Mexicana",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.42654,
+      "lon": -99.13645,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Izazaga and 5 de Febrero",
+      "id": "mexico-dfc8462c4a2359614efb"
+    },
+    {
+      "name": "Museo del Calzado El Borceguí",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.433111,
+      "lon": -99.138501,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "C/ Bolivar 27, 1st Floor",
+      "price": "Free",
+      "id": "mexico-65f95470ecb596c4c85c"
+    },
+    {
+      "name": "Museo Nacional de las Culturas",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43305,
+      "lon": -99.1304,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "C/ Moneda 13",
+      "price": "Free",
+      "url": "https://www.inah.gob.mx/red-de-museos/315-museo-nacional-de-las-culturas",
+      "id": "mexico-af49c48c2a5dd5f09a5b"
+    },
+    {
+      "name": "Museo Archivo de la Fotografia",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43516784998736,
+      "lon": -99.13217331828216,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Republica de Guatemala 34",
+      "url": "https://www.cultura.cdmx.gob.mx/recintos/maf",
+      "id": "mexico-4bc51b0fe029b6c664b7"
+    },
+    {
+      "name": "Centro Cultural de España en México",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43517,
+      "lon": -99.13291,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "República de Guatemala 18",
+      "price": "Free",
+      "url": "https://ccemx.aecid.es/",
+      "id": "mexico-c2bb7e16e6c36b42cf98"
+    },
+    {
+      "name": "Museo de San Ildefonso",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43605,
+      "lon": -99.13066,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Justo Sierra 16",
+      "price": "M$50 (adults), M$25 (students/teachers), free (children under 12); free admission on Tu",
+      "url": "http://www.sanildefonso.org.mx/",
+      "id": "mexico-57efab579399ceb46235"
+    },
+    {
+      "name": "Museo del Estanquillo",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.4333,
+      "lon": -99.13615,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Isabel La Católica 26",
+      "url": "http://www.museodelestanquillo.com/",
+      "id": "mexico-6e3d496972d8236ae871"
+    },
+    {
+      "name": "Museo de la Caricatura",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43565,
+      "lon": -99.13266,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "C/ Donceles 99",
+      "price": "M$20 (adults), M$10 (students/teachers)",
+      "url": "http://museodelacaricatura.org/",
+      "id": "mexico-9296c101c88b8c352597"
+    },
+    {
+      "name": "Museo de la Luz",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43656,
+      "lon": -99.12933,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "El Carmen 31",
+      "price": "M$35 (adults), M$25 (concessions), free (children under 2)",
+      "url": "http://www.museodelaluz.unam.mx/",
+      "id": "mexico-6cb5f529bf4a43e0e1be"
+    },
+    {
+      "name": "Museo de la Charrería",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.42604,
+      "lon": -99.13714,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "José María Izazaga 89",
+      "id": "mexico-99dec6aa1895cc50b31f"
+    },
+    {
+      "name": "Museo Legislativo",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43024,
+      "lon": -99.117393,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Honorable Congreso de la Unión #66, Col. Delegacion",
+      "price": "Free",
+      "url": "http://museolegislativo.diputados.gob.mx/",
+      "id": "mexico-9461e02a8238918d5e3e"
+    },
+    {
+      "name": "Centro de la Imagen",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.4292,
+      "lon": -99.1488,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Plaza de la Ciudadela 2",
+      "price": "Free",
+      "url": "https://centrodelaimagen.cultura.gob.mx/",
+      "id": "mexico-5df55128fa6220decda7"
+    },
+    {
+      "name": "Palacio de Iturbide",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43361,
+      "lon": -99.13897,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Francisco I Madero 17",
+      "price": "Free",
+      "url": "http://fomentoculturalbanamex.org/",
+      "id": "mexico-cee9180dc5bbdc64058c"
+    },
+    {
+      "name": "Palacio de Bellas Artes",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.4355,
+      "lon": -99.14126,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Avenida Juárez and Eje Central",
+      "price": "Free (lobby), M$60 for mezzanine with murals and galleries; $M30 photography permit; free admission on Sundays",
+      "url": "http://www.palacio.bellasartes.gob.mx/",
+      "id": "mexico-9c6a6015e79439712ca8"
+    },
+    {
+      "name": "Palacio Postal",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43562,
+      "lon": -99.14028,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Tacuba 1",
+      "price": "Free",
+      "id": "mexico-caf2c3e98b26734ac185"
+    },
+    {
+      "name": "Museo Postal",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43577,
+      "lon": -99.14027,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Tacuba 1",
+      "id": "mexico-174990718d6965e7522a"
+    },
+    {
+      "name": "Banco de México",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43505,
+      "lon": -99.14041,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Cinco de Mayo and Avda Eje Central",
+      "id": "mexico-585a9ce9cee9a5ea955d"
+    },
+    {
+      "name": "Casa Rivas Mercado",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.441239,
+      "lon": -99.146738,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Calle Heroes 45, Guerrero",
+      "price": "M$200",
+      "url": "https://casarivasmercado.com/",
+      "id": "mexico-ce1d6709afa8c37dcfa2"
+    },
+    {
+      "name": "Torre Latinoamericana",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43389,
+      "lon": -99.14061,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Eje Central Lázaro Cárdenas 2",
+      "price": "M$120 (observatory)",
+      "url": "http://torrelatinoamericana.com.mx/",
+      "id": "mexico-6cd03434b5de25aacb94"
+    },
+    {
+      "name": "Biblioteca Miguel Lerdo de Tejada",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.42969,
+      "lon": -99.1378,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "República de El Salvador 49",
+      "price": "Free",
+      "url": "http://www.hacienda.gob.mx/cultura/museo_virtual_biblioteca_lerdo/index.htm",
+      "id": "mexico-2ee1da6f0a54e28a0e00"
+    },
+    {
+      "name": "Biblioteca de México José Vasconcelos",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.42865,
+      "lon": -99.14967,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Plaza de la Ciudadela No 4",
+      "price": "Free",
+      "url": "https://www.facebook.com/bibliotecademexico.ciudadela",
+      "id": "mexico-703c86212f845fcee50d"
+    },
+    {
+      "name": "Biblioteca Vasconcelos",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.44741,
+      "lon": -99.15081,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Eje 1 norte Mosqueta s/n",
+      "price": "Free",
+      "url": "https://www.bibliotecavasconcelos.gob.mx/",
+      "id": "mexico-55e930f992eda6720327"
+    },
+    {
+      "name": "Colonia Santa María la Ribera",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "id": "mexico-2a564177c63463cd4e89"
+    },
+    {
+      "name": "Alameda de Santa María la Ribera",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.4503,
+      "lon": -99.1572,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Calle Salvador Díaz Mirón",
+      "id": "mexico-03071257c49370691ee5"
+    },
+    {
+      "name": "Museo del Instituto de Geología de la UNAM",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.4502,
+      "lon": -99.1576,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Jaime Torres Bodet 176",
+      "price": "M$30 (general), M$25 (students, teachers, seniors)",
+      "url": "http://www.geologia.unam.mx/igl/museo",
+      "id": "mexico-d3c07e58d9c7500119cd"
+    },
+    {
+      "name": "Parroquia Josefina de la Sagrada Familia",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.4445,
+      "lon": -99.157773,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Santa María la Ribera 69",
+      "id": "mexico-941bff2aa38e582351b6"
+    },
+    {
+      "name": "Museo Universitario del Chopo",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.4421,
+      "lon": -99.1567,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Dr. Enrique González Martínez 10",
+      "price": "M$40 (general), M$20 (students, teachers, seniors)",
+      "url": "http://www.chopo.unam.mx/",
+      "id": "mexico-a9daddc3a5548ce58ccb"
+    },
+    {
+      "name": "Colonia Tabaclera",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "id": "mexico-0cb040488f2066695140"
+    },
+    {
+      "name": "Teatro de la Ciudad",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "lat": 19.4366,
+      "lon": -99.1373,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Doncelos 36",
+      "url": "http://www.teatros.cultura.cdmx.gob.mx/",
+      "id": "mexico-80b8190a921092032fb6"
+    },
+    {
+      "name": "Balet Folklorico",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Palacio de Bellas Artes (see below)",
+      "url": "https://balletfolkloricodemexico.com.mx/",
+      "id": "mexico-d13ae48cbdc9fe8821a3"
+    },
+    {
+      "name": "Arena Coliseo",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "República de Perú 77",
+      "id": "mexico-25802209ed69c91db3d7"
+    },
+    {
+      "name": "Avenida de República de Salvador",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "id": "mexico-94c06b46e1dc7e645493"
+    },
+    {
+      "name": "Calle del Artículo 123",
+      "kind": "do",
+      "locality": "Mexico City/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "id": "mexico-69c5c830ee565efe1cc1"
+    },
+    {
+      "name": "Street food alley",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.4383747,
+      "lon": -99.1536558,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "id": "mexico-91629e3e91228718728d"
+    },
+    {
+      "name": "Food stall market",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.4369346,
+      "lon": -99.1420613,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "id": "mexico-ab43f357290b48d63621"
+    },
+    {
+      "name": "Cocuyo's",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43054187297953,
+      "lon": -99.13881984711838,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Bolivar 59",
+      "price": "M$100",
+      "id": "mexico-eff67519c3781152ed1a"
+    },
+    {
+      "name": "Mercado San Juan Arcos de Belen",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.42753,
+      "lon": -99.14248,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Av Arcos de Belén s/n",
+      "id": "mexico-c0e69324555c5cea3396"
+    },
+    {
+      "name": "Don Toribio",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.432991,
+      "lon": -99.138691,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Simon Bolivar 31",
+      "price": "M$150+",
+      "id": "mexico-b4a4950137b7600ad104"
+    },
+    {
+      "name": "Roldan 37",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.428971,
+      "lon": -99.127119,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Calle Roldan 37",
+      "price": "M$150+",
+      "url": "https://www.facebook.com/Roldan37/",
+      "id": "mexico-695f6de152793f2daa12"
+    },
+    {
+      "name": "Cafe el Popular",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.434502,
+      "lon": -99.135495,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Av. 5 de Mayo 50 y 52",
+      "price": "M$150+",
+      "url": "https://m.facebook.com/Caf%C3%A9-El-Popular-Restaurante-133538756708877/",
+      "id": "mexico-25360089b9cd913527a4"
+    },
+    {
+      "name": "Chung King",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.432619,
+      "lon": -99.142915,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Dolores 27",
+      "price": "M$150+",
+      "url": "https://www.instagram.com/chungking.restaurant/",
+      "id": "mexico-05258aef9b58c33ac6a1"
+    },
+    {
+      "name": "Kang Qing",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43339,
+      "lon": -99.14255,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Av Independencia 19",
+      "price": "M$65",
+      "id": "mexico-91d86885d78a6ecad670"
+    },
+    {
+      "name": "Bufet Comida China",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43381,
+      "lon": -99.141927,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "C. López 12-14",
+      "price": "M$100",
+      "id": "mexico-152396b044905671c474"
+    },
+    {
+      "name": "El Huequito Bolivar",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43008,
+      "lon": -99.1387,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "República de El Salvador 42 D",
+      "url": "https://es-la.facebook.com/pages/El-Huequito-MR/232928666766936",
+      "id": "mexico-448f24e518b925ae558c"
+    },
+    {
+      "name": "Cafeteria El Cuadrilatero",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.4305,
+      "lon": -99.1457,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Luis Moya 73",
+      "price": "M$50+",
+      "url": "https://es-es.facebook.com/pages/cafeteria-el-cuadrilatero/149151765160753",
+      "id": "mexico-f38a3f0f366427aca75a"
+    },
+    {
+      "name": "La Opera Bar",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43454,
+      "lon": -99.13735,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Cinco de Mayo 10",
+      "url": "http://laoperabar.com/",
+      "id": "mexico-1216e8288e301532e2d5"
+    },
+    {
+      "name": "El Ehden",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43065,
+      "lon": -99.12922,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Venustiano Carranza 148, 2nd floor",
+      "id": "mexico-562708f89204220eaa39"
+    },
+    {
+      "name": "El Mayor",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43583,
+      "lon": -99.13145,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Calle República de Argentina #15",
+      "price": "M$150+ mains",
+      "url": "http://elmayor.com.mx/",
+      "id": "mexico-e8aa3aa3ae1cfe41ed4a"
+    },
+    {
+      "name": "Hostería de Santo Domingo",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43806,
+      "lon": -99.13497,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Belisario Domínguez 70-72",
+      "price": "M$120+ mains",
+      "id": "mexico-afe59e71092e9bff0d0f"
+    },
+    {
+      "name": "El Cardenal",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.433842,
+      "lon": -99.135413,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Calle de la Palma 23",
+      "url": "http://www.restauranteelcardenal.com/",
+      "id": "mexico-28694b2af872e6765330"
+    },
+    {
+      "name": "Dulcería de Celaya",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43419,
+      "lon": -99.13664,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Cinco de Mayo 39",
+      "url": "http://www.dulceriadecelaya.com/Dulceria_de_Celaya/INICIO.html",
+      "id": "mexico-bea799a8d03f1404b574"
+    },
+    {
+      "name": "Limosneros",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.436249,
+      "lon": -99.137897,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Ignacio Allende 3",
+      "price": "M$250",
+      "url": "https://limosneros.com.mx/?lang=en",
+      "id": "mexico-c5bf1cd64fd3b6391115"
+    },
+    {
+      "name": "Paxia",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.431341,
+      "lon": -99.135726,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Venustiano Carranza 69",
+      "price": "M$300",
+      "url": "https://bullandtank.com/paxia",
+      "id": "mexico-6065bf761c36b4ca38b5"
+    },
+    {
+      "name": "Testal",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.433764,
+      "lon": -99.142951,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Dolores 16",
+      "url": "http://www.testal.mx/",
+      "id": "mexico-7476d02d64eea059cdcd"
+    },
+    {
+      "name": "Café de Tacuba",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43576,
+      "lon": -99.13762,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Calle de Tacuba 28",
+      "price": "M$115-180 (mains)",
+      "url": "https://cafedetacuba.info/",
+      "id": "mexico-907d55f16725922afef2"
+    },
+    {
+      "name": "La Terraza",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43298,
+      "lon": -99.13434,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Francisco I Madero 73",
+      "url": "http://hotelmajestic.com.mx/HotelMajestic/Restaurante",
+      "id": "mexico-436e88adf67c6b8bc853"
+    },
+    {
+      "name": "Los Girasoles",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.436181,
+      "lon": -99.138179,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Xicoténcatl 1",
+      "url": "https://losgirasolesmexico.com/",
+      "id": "mexico-f5eb84b8ec3eeaa89058"
+    },
+    {
+      "name": "Miralto",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Torre Latinoamericana, 41st floor",
+      "url": "http://miralto.com.mx/",
+      "id": "mexico-704a679cc8ddd733f28c"
+    },
+    {
+      "name": "Azul Histórico",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.432819,
+      "lon": -99.135983,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Isabel La Católica 30",
+      "url": "https://www.azul.rest/",
+      "id": "mexico-6c4074d5499b16ee714b"
+    },
+    {
+      "name": "Masala y Maiz",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.433198,
+      "lon": -99.148983,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "C. Artículo 123 #116",
+      "price": "M$1000",
+      "url": "https://www.masalaymaiz.com/",
+      "id": "mexico-2c66ba9bef0019878c42"
+    },
+    {
+      "name": "Balcon del Zocalo",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.434045,
+      "lon": -99.134257,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Av. Cinco de Mayo 61",
+      "price": "M$300",
+      "url": "https://www.balcondelzocalo.com/",
+      "id": "mexico-65108cb559a2f50d6893"
+    },
+    {
+      "name": "Salón Tenampa",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.44106,
+      "lon": -99.13896,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Plaza Garibaldi 12",
+      "url": "http://www.salontenampa.com/",
+      "id": "mexico-0abfeabdf428f6a65e5c"
+    },
+    {
+      "name": "La Opera",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43491,
+      "lon": -99.138922,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Av. 5 de Mayo 10",
+      "url": "https://www.laoperabar.com/",
+      "id": "mexico-132c492e3e5625321620"
+    },
+    {
+      "name": "Salón España",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.436725,
+      "lon": -99.131707,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Republica Argentina 25",
+      "id": "mexico-af347c8530fe7984cda9"
+    },
+    {
+      "name": "Bar La Giaconda",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.434939,
+      "lon": -99.139137,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "C. de Filomeno Mata 18-E",
+      "id": "mexico-a3b725dc4bcb0706f8a2"
+    },
+    {
+      "name": "Sunday Sunday",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43058,
+      "lon": -99.13149,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Tabaqueros 16",
+      "id": "mexico-17074417acd04bd628ce"
+    },
+    {
+      "name": "Salon Corona",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.433649,
+      "lon": -99.138249,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Bolivar 24",
+      "url": "http://www.saloncorona.com.mx/",
+      "id": "mexico-9a22d6410dd24031908c"
+    },
+    {
+      "name": "La Faena",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.431642,
+      "lon": -99.137621,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Venustiano Carranza 49",
+      "id": "mexico-d7ee99cea72c4d5a39be"
+    },
+    {
+      "name": "Bosforo",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.433499,
+      "lon": -99.145176,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Luis Moya 31",
+      "id": "mexico-c460ccf233a11a49ebc8"
+    },
+    {
+      "name": "Cantina Tio Pepe",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.433216,
+      "lon": -99.142861,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Independencia 26",
+      "id": "mexico-27f100ff1fbd5d40f5bf"
+    },
+    {
+      "name": "Pulquería Las Duelistas",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.430464,
+      "lon": -99.142737,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Aranda 28",
+      "url": "https://www.facebook.com/PulqueriaLasDuelistas/",
+      "id": "mexico-b51277f95786433c95cf"
+    },
+    {
+      "name": "La Joya",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.452565060847384,
+      "lon": -99.15677137529288,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Eligio Ancona 122, Santa Maria La Ribera",
+      "price": "M$200",
+      "url": "https://pulquerialajoya.com.mx/",
+      "id": "mexico-4996e726fee3d16c85ef"
+    },
+    {
+      "name": "Marrakech Salon",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.437762,
+      "lon": -99.138411,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "República de Cuba 18",
+      "id": "mexico-90d881839dc438a76a50"
+    },
+    {
+      "name": "La Purisima",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.437762,
+      "lon": -99.138411,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Republica de Cuba 17",
+      "id": "mexico-ed35031591afa467a0bd"
+    },
+    {
+      "name": "Cafe Equis",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.430453691089138,
+      "lon": -99.12682970412797,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Calle de Roldán 16",
+      "price": "M$100",
+      "id": "mexico-81d67eba2933d122c0cf"
+    },
+    {
+      "name": "Cafe Regina",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.42841930799818,
+      "lon": -99.13784489051588,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Regina 24",
+      "id": "mexico-42f77a5142d97b226ed3"
+    },
+    {
+      "name": "Café La Habana",
+      "kind": "eat",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43257,
+      "lon": -99.15132,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Av. Morelos 62, Colonia Juárez",
+      "price": "M$69–140 for breakfast packages, coffee from M$30",
+      "id": "mexico-9517ae78cbc6368f8098"
+    },
+    {
+      "name": "Hotel San Francisco",
+      "kind": "stay",
+      "locality": "Mexico City/Centro",
+      "lat": 19.434381,
+      "lon": -99.144981,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Luis Moya 11",
+      "price": "M$700",
+      "url": "https://www.hotelsanfranciscomexicocity.com/",
+      "id": "mexico-a9c30f9bf24040865aec"
+    },
+    {
+      "name": "Hotel Tuxpan",
+      "kind": "stay",
+      "locality": "Mexico City/Centro",
+      "lat": 19.4383415,
+      "lon": -99.1326528,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Republica de Colombia",
+      "id": "mexico-81f3db67c1f6a94d84a3"
+    },
+    {
+      "name": "Mexico City Hostel",
+      "kind": "stay",
+      "locality": "Mexico City/Centro",
+      "lat": 19.435647,
+      "lon": -99.133791,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "República de Brasil #8",
+      "price": "M$500",
+      "url": "http://www.mexicocityhostel.com/",
+      "id": "mexico-68342fb438a701e3b717"
+    },
+    {
+      "name": "Hotel Altanta",
+      "kind": "stay",
+      "locality": "Mexico City/Centro",
+      "lat": 19.4380823,
+      "lon": -99.1376099,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "id": "mexico-08134fe1eedcf3d8a5ad"
+    },
+    {
+      "name": "Hotel Dos Naciones",
+      "kind": "stay",
+      "locality": "Mexico City/Centro",
+      "lat": 19.4388433,
+      "lon": -99.1413938,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "id": "mexico-1426e608b584d936c2f6"
+    },
+    {
+      "name": "Hotel Tampico",
+      "kind": "stay",
+      "locality": "Mexico City/Centro",
+      "lat": 19.4293656,
+      "lon": -99.124459,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "id": "mexico-893116b60d3b82034bb5"
+    },
+    {
+      "name": "Hotel Nevada",
+      "kind": "stay",
+      "locality": "Mexico City/Centro",
+      "lat": 19.4323978,
+      "lon": -99.1274775,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "id": "mexico-b731df98f9400de6bb35"
+    },
+    {
+      "name": "Hotel Universo",
+      "kind": "stay",
+      "locality": "Mexico City/Centro",
+      "lat": 19.4296938,
+      "lon": -99.1251886,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "id": "mexico-bed3d4167996a403e375"
+    },
+    {
+      "name": "Hotel San Fernando",
+      "kind": "stay",
+      "locality": "Mexico City/Centro",
+      "lat": 19.4386925,
+      "lon": -99.1477962,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "id": "mexico-65b9b9c302d0023c8480"
+    },
+    {
+      "name": "Hotel Savoy",
+      "kind": "stay",
+      "locality": "Mexico City/Centro",
+      "lat": 19.438579,
+      "lon": -99.150488,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Zaragoza 10, Buenavista",
+      "price": "M$850",
+      "id": "mexico-64cb1f7da056c82ff36b"
+    },
+    {
+      "name": "Hotel \"Viva Maria\"",
+      "kind": "stay",
+      "locality": "Mexico City/Centro",
+      "lat": 19.4378455,
+      "lon": -99.1531429,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "id": "mexico-ca0f94f1661020820d26"
+    },
+    {
+      "name": "Hotel Oxford",
+      "kind": "stay",
+      "locality": "Mexico City/Centro",
+      "lat": 19.4374936,
+      "lon": -99.151892,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "id": "mexico-2d1843c51f58d7063b82"
+    },
+    {
+      "name": "Hotel La Fuente",
+      "kind": "stay",
+      "locality": "Mexico City/Centro",
+      "lat": 19.439167,
+      "lon": -99.149468,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "C. Orozco y Berra 10, Guerrero",
+      "id": "mexico-ccb02349ca3cb1171d5b"
+    },
+    {
+      "name": "Casa de los Amigos",
+      "kind": "stay",
+      "locality": "Mexico City/Centro",
+      "lat": 19.438102,
+      "lon": -99.154549,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Ignacio Mariscal 132, Col Tabacalera",
+      "url": "http://www.casadelosamigos.org/",
+      "id": "mexico-e20860359db8c392fcdc"
+    },
+    {
+      "name": "Hostel Mundo Joven Catedral",
+      "kind": "stay",
+      "locality": "Mexico City/Centro",
+      "lat": 19.435208,
+      "lon": -99.133684,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "República de Guatemala 4",
+      "url": "http://www.mundojovenhostels.com/",
+      "id": "mexico-7bfa5b8bbe66b9466789"
+    },
+    {
+      "name": "Hotel Juarez",
+      "kind": "stay",
+      "locality": "Mexico City/Centro",
+      "lat": 19.434777,
+      "lon": -99.135336,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "1A Cjon De Cinco de Mayo 17",
+      "price": "M$500",
+      "url": "http://www.hoteljuarez.com.mx/",
+      "id": "mexico-f44e8b22621d6456a7f2"
+    },
+    {
+      "name": "Hotel Principal",
+      "kind": "stay",
+      "locality": "Mexico City/Centro",
+      "lat": 19.432912,
+      "lon": -99.138705,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Calle de Bolívar 29",
+      "id": "mexico-338a69846138c7ba8bc1"
+    },
+    {
+      "name": "Cadillac Hotel Boutique",
+      "kind": "stay",
+      "locality": "Mexico City/Centro",
+      "lat": 19.426317,
+      "lon": -99.14008,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Izazaga 35",
+      "price": "M$1000",
+      "url": "https://cadillacdowntown.mx/",
+      "id": "mexico-c403d9449b91bc09759f"
+    },
+    {
+      "name": "Hotel Metropol",
+      "kind": "stay",
+      "locality": "Mexico City/Centro",
+      "lat": 19.433218,
+      "lon": -99.145164,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Luis Moya 39",
+      "price": "M$1200",
+      "url": "http://www.hotelmetropol.com.mx/",
+      "id": "mexico-f3bbb383a37b90862d6d"
+    },
+    {
+      "name": "Gran Hotel Ciudad de México",
+      "kind": "stay",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43208,
+      "lon": -99.13459,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "82 Av. 16 de Septiembre",
+      "url": "https://granhoteldelaciudaddemexico.com.mx/en/",
+      "id": "mexico-d61353393ed3e216fb58"
+    },
+    {
+      "name": "Best Western Hotel Majestic",
+      "kind": "stay",
+      "locality": "Mexico City/Centro",
+      "lat": 19.43293,
+      "lon": -99.13439,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "address": "Av Madero 73",
+      "price": "M$1400",
+      "url": "https://hotelmajestic.com.mx/HotelMajestic/Inicio/",
+      "id": "mexico-9a2bd97e354c6b86da82"
+    },
+    {
+      "name": "Mexico City/Centro",
+      "kind": "area",
+      "locality": "Mexico City/Centro",
+      "lat": 19.432778,
+      "lon": -99.133222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCentro",
+      "id": "mexico-cfcc8cba857f825694bc"
+    },
+    {
+      "name": "Castillo de Chapultepec y Museo Nacional de Historia (MNH)",
+      "kind": "do",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.4205,
+      "lon": -99.1819,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Bosque de Chapultepec I",
+      "url": "https://mnh.inah.gob.mx/",
+      "id": "mexico-4c32912a84c8079c30e2"
+    },
+    {
+      "name": "Museo Nacional de Arte Moderno",
+      "kind": "do",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.4229,
+      "lon": -99.1799,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Paseo de la Reforma s/n",
+      "price": "M$80",
+      "url": "https://mam.inba.gob.mx/",
+      "id": "mexico-f3c988e11f51eb139445"
+    },
+    {
+      "name": "Museo Nacional de Antropología",
+      "kind": "do",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.4261,
+      "lon": -99.1864,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Av Paseo de la Reforma y Calzada Gandhi s/n",
+      "url": "https://www.mna.inah.gob.mx/",
+      "id": "mexico-726a0ac8ba3ced9a5f2e"
+    },
+    {
+      "name": "Museo Rufino Tamayo",
+      "kind": "do",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.4258,
+      "lon": -99.1818,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Paseo de la Reforma 51",
+      "price": "Adult M$95; seniors over 60, children under 13, teachers: free; free on Sundays",
+      "url": "http://www.museotamayo.org/",
+      "id": "mexico-ef18c703badd1d3b0e99"
+    },
+    {
+      "name": "Sala de Arte Publico Siqueiros",
+      "kind": "do",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.42892,
+      "lon": -99.18737,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Tres Picos 29",
+      "price": "M$12 adults; free for students, teachers, seniors, children under 12; free admission on Sundays",
+      "url": "https://saps-latallera.org/?lang=en",
+      "id": "mexico-8b3f126630cec8837114"
+    },
+    {
+      "name": "Zoologico de Chapultepec",
+      "kind": "do",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.42307,
+      "lon": -99.18924,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Calle Chivatito s/n",
+      "url": "http://data.sedema.cdmx.gob.mx/zoo_chapultepec/",
+      "id": "mexico-5879f938a740ef0b3dba"
+    },
+    {
+      "name": "ANFIBIUM: Museo del Axolote y Centro de Conservación de Anfibios",
+      "kind": "do",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.423528882729144,
+      "lon": -99.18922162163543,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "price": "Free",
+      "url": "https://mexicocity.cdmx.gob.mx/venues/anfibium/",
+      "id": "mexico-9253d64c3a1a7be808b8"
+    },
+    {
+      "name": "Monumento a los Niños Héroes",
+      "kind": "do",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.4215,
+      "lon": -99.17929,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "price": "Free",
+      "id": "mexico-fbad03c2915d63820bfa"
+    },
+    {
+      "name": "Casa Gilardi",
+      "kind": "do",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.414867,
+      "lon": -99.18628,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Calle Gral. Antonio León 82",
+      "price": "M$700",
+      "url": "http://casagilardi.mx/",
+      "id": "mexico-4a99f20f80eeaf405d5c"
+    },
+    {
+      "name": "Baths of Moctezuma",
+      "kind": "do",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.4176,
+      "lon": -99.18141,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "id": "mexico-59c0b461f254b2784352"
+    },
+    {
+      "name": "Museo de Historia Natural y Cultura Ambiental",
+      "kind": "do",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.40999,
+      "lon": -99.20151,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Bosque de Chapultepec II, Circuíto Correr es Salud s/n",
+      "url": "http://data.sedema.cdmx.gob.mx/museodehistorianatural/?view=featured",
+      "id": "mexico-d1df6c2d7c9210ef88b6"
+    },
+    {
+      "name": "Luis Barragán House and Studio",
+      "kind": "do",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.4104,
+      "lon": -99.1921,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Gral. Francisco Ramírez 12, Ampliación Daniel Garza, Miguel Hidalgo, CDMX",
+      "price": "M$400 adults, M$300 Mexican citizens, M$200 students",
+      "url": "http://www.casaluisbarragan.org/",
+      "id": "mexico-f21253c2fcf7d08b2fb4"
+    },
+    {
+      "name": "Panteon Civil de Dolores",
+      "kind": "do",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.406962,
+      "lon": -99.204888,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Av. Constituyentes",
+      "id": "mexico-24cc6c38012c37854a55"
+    },
+    {
+      "name": "Museo del Dolores de Cárcamo",
+      "kind": "do",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.412999,
+      "lon": -99.198137,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Av. Rodolfo Neri Vela, Bosque de Chapultepec II Secc",
+      "id": "mexico-d753911ce0fc8cae672a"
+    },
+    {
+      "name": "Los Pinos",
+      "kind": "do",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.421751,
+      "lon": -99.19103,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Calz. del Rey S/N, Bosque de Chapultepec I Secc",
+      "url": "https://lospinos.cultura.gob.mx/",
+      "id": "mexico-62f137047886a47d630d"
+    },
+    {
+      "name": "Papalote Childrens Museum",
+      "kind": "do",
+      "locality": "Mexico City/Chapultepec",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "id": "mexico-91ed54b4d153ca9884aa"
+    },
+    {
+      "name": "Museo Nacional de Energía y Tecnología",
+      "kind": "do",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.4135,
+      "lon": -99.1956,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Av. de los Compositores s/n, Bosque de Chapultepec II Secc",
+      "url": "https://museomunet.com/",
+      "id": "mexico-bc27407fceba47d59945"
+    },
+    {
+      "name": "Ex-Fabrica de Polvora",
+      "kind": "do",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.38568,
+      "lon": -99.23808,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "id": "mexico-c5efea4ffad53a36aca1"
+    },
+    {
+      "name": "Lago de Chapultepec",
+      "kind": "do",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.42261,
+      "lon": -99.18505,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "id": "mexico-736a948571251bf37ea3"
+    },
+    {
+      "name": "Lanchacinema",
+      "kind": "do",
+      "locality": "Mexico City/Chapultepec",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Lago de Chapultepec",
+      "url": "https://www.chapultepec.com.mx/",
+      "id": "mexico-034f28cdd6737ef28688"
+    },
+    {
+      "name": "Parque Aztlan",
+      "kind": "do",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.416086,
+      "lon": -99.195908,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Av. de los Compositores s/n, Bosque de Chapultepec II Secc",
+      "url": "https://www.aztlanparqueurbano.com/",
+      "id": "mexico-6ea1699a159af3203393"
+    },
+    {
+      "name": "Jardín Botánico",
+      "kind": "do",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.42326,
+      "lon": -99.18253,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Paseo de la Reforma",
+      "price": "Free",
+      "url": "https://www.chapultepec.org.mx/actividad/jardin-botanico/",
+      "id": "mexico-a38bf1d4bfb87f54f004"
+    },
+    {
+      "name": "Pista el Sope",
+      "kind": "do",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.416953,
+      "lon": -99.201055,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Parque Chapultepec, Secc. II",
+      "id": "mexico-f9af8720cddf717b4345"
+    },
+    {
+      "name": "Auditorio Nacional",
+      "kind": "do",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.424961,
+      "lon": -99.194561,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Paseo de la Reforma 50",
+      "url": "http://www.auditorio.com.mx/",
+      "id": "mexico-a3b44943a724124769e4"
+    },
+    {
+      "name": "Campo Marte",
+      "kind": "do",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.424747054049703,
+      "lon": -99.19731750623089,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Av. Paseo de la Reforma",
+      "id": "mexico-4e7393370dfaebbca58f"
+    },
+    {
+      "name": "Bistro Chapultepec",
+      "kind": "eat",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.42011,
+      "lon": -99.200111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Lago Mayor, Secc. II, Bosque de Chapultepec",
+      "url": "https://www.bistrochapultepec.com/",
+      "id": "mexico-5163872716fc1d96f2df"
+    },
+    {
+      "name": "Del Bosque",
+      "kind": "eat",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.411285,
+      "lon": -99.199817,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Lago Menor, Del Rosal s/n, Bosque De Chapultepec",
+      "url": "https://delbosquerestaurante.com.mx/",
+      "id": "mexico-2eb0f223610a7af9c764"
+    },
+    {
+      "name": "City Café Natural El Sope",
+      "kind": "eat",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.418855,
+      "lon": -99.20235,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Av. de los Corredores S/N, Sección II, Bosque de Chapultepec",
+      "price": "M$200",
+      "url": "http://www.citycafe.com.mx/",
+      "id": "mexico-14c867783a56ab487c57"
+    },
+    {
+      "name": "Lago/Algo",
+      "kind": "eat",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.417214,
+      "lon": -99.199784,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Bosque de Chapultepec, Pista El Sope S/N, Bosque de Chapultepec II Secc",
+      "price": "M$700+",
+      "url": "http://lago-algo.mx/",
+      "id": "mexico-91644b1862275db88b0c"
+    },
+    {
+      "name": "Alfredo di Roma",
+      "kind": "eat",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.4273,
+      "lon": -99.19362,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Campos Elíseos 218",
+      "url": "http://www.alfredodiroma.rest/",
+      "id": "mexico-34021c106751a0e8d6b3"
+    },
+    {
+      "name": "Comal Oculto",
+      "kind": "eat",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.414183,
+      "lon": -99.183599,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Gral Gomez Pedraza 37",
+      "price": "M$150",
+      "id": "mexico-07d8991a3f9704b482b6"
+    },
+    {
+      "name": "Mari Gold",
+      "kind": "eat",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.413137,
+      "lon": -99.183617,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Calle Gob.Protasio Tagle 66A, San Miguel Chapultepec II Secc",
+      "price": "M$400",
+      "id": "mexico-a453e4ba16035ab36811"
+    },
+    {
+      "name": "La Milla",
+      "kind": "eat",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.412986,
+      "lon": -99.188348,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Calle Gral. Fco. Molinos del Campo 19",
+      "price": "M$250",
+      "id": "mexico-495efc2440309d926678"
+    },
+    {
+      "name": "Fiesta Americana Grand Chapultepec",
+      "kind": "stay",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.42517,
+      "lon": -99.17829,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Mariano Escobedo 756",
+      "price": "From M$3000",
+      "url": "https://www.grandfiestamericana.com/en/grand-fiesta-americana-chapultepec",
+      "id": "mexico-1742e5742e0bf24ecfbf"
+    },
+    {
+      "name": "JW Marriott Mexico City",
+      "kind": "stay",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.4272,
+      "lon": -99.1949,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Calle Andrés Bello 29",
+      "price": "From M$4000",
+      "url": "https://www.marriott.com/hotels/travel/mexjw-jw-marriott-hotel-mexico-city/",
+      "id": "mexico-1e54a93aaaf99eb4c3b3"
+    },
+    {
+      "name": "Green Park Hotel",
+      "kind": "stay",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.415535,
+      "lon": -99.184321,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Av Costituyentes 99, Col San Miguel Chapultepec,",
+      "url": "https://thegreenparkhotel.com.mx/",
+      "id": "mexico-6d3b5a1be3aeea3effc2"
+    },
+    {
+      "name": "Hotel Atlantico",
+      "kind": "stay",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.403974,
+      "lon": -99.198341,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Av Observatorio 218, Daniel Garza al Poniente",
+      "price": "M$700",
+      "id": "mexico-708d663579ce12001429"
+    },
+    {
+      "name": "Hotel Park Villa",
+      "kind": "stay",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.415064,
+      "lon": -99.185163,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Calle Gral. Gómez Pedraza 68, San Miguel Chapultepec",
+      "price": "M$1100",
+      "url": "https://hotelparkvilla.com.mx/",
+      "id": "mexico-048aaee2b5a1194821d6"
+    },
+    {
+      "name": "Hotel Alexander",
+      "kind": "stay",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.425951,
+      "lon": -99.203531,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "address": "Bosque de Chapultepec, Lomas - Virreyes, Pedregal 24, Miguel Hidalgo",
+      "price": "M$8000",
+      "url": "https://alexanderhotel.mx/",
+      "id": "mexico-4e623a30ef9c596cef1a"
+    },
+    {
+      "name": "Mexico City/Chapultepec",
+      "kind": "area",
+      "locality": "Mexico City/Chapultepec",
+      "lat": 19.413056,
+      "lon": -99.197778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FChapultepec",
+      "id": "mexico-f46663b8ca3cc83aa40d"
+    },
+    {
+      "name": "Rectoría de la UNAM",
+      "kind": "do",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.33179,
+      "lon": -99.1881,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "id": "mexico-a0ebd2048348c3071a23"
+    },
+    {
+      "name": "Biblioteca Central",
+      "kind": "do",
+      "locality": "Mexico City/Coyoacán",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "id": "mexico-fe8898e16dc5675a780d"
+    },
+    {
+      "name": "Museo Universitario de Arte Contemporáneo",
+      "kind": "do",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.31472,
+      "lon": -99.18539,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Insurgentes 3000",
+      "price": "M$40 (general admission Th-Sa), M$20 (general admission W and Su), 50% discount for students, free (children under 12)",
+      "url": "http://muac.unam.mx/",
+      "id": "mexico-37297ca73dfee605e9eb"
+    },
+    {
+      "name": "Jardín Botánico de UNAM",
+      "kind": "do",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.3196,
+      "lon": -99.1935,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "C.U. (Cd. Universitaria)",
+      "price": "free",
+      "url": "http://www.ib.unam.mx/",
+      "id": "mexico-d010140298218d8f6d5f"
+    },
+    {
+      "name": "Estadio Olimpico Universitario",
+      "kind": "do",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.33218,
+      "lon": -99.19123,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Av. de los Insurgentes Sur S/N, C.U",
+      "id": "mexico-dee5c470f7e129c6858c"
+    },
+    {
+      "name": "Universum",
+      "kind": "do",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.314316,
+      "lon": -99.173829,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "price": "M$90 (adults), M$80 (age under 12)",
+      "url": "https://www.universum.unam.mx/",
+      "id": "mexico-6a0c472ec98c9f890ce2"
+    },
+    {
+      "name": "Espacio Escultórico",
+      "kind": "do",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.318761,
+      "lon": -99.182055,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "University Theater Center (CUT), Mario de La Cueva, Cd. Universitaria",
+      "url": "http://www.cultura.unam.mx/",
+      "id": "mexico-95684bb1a941be6bb37d"
+    },
+    {
+      "name": "Museo Universitaria Ciencias y Artes",
+      "kind": "do",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.331308,
+      "lon": -99.187691,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Circuito Interior Escolar",
+      "price": "Free",
+      "url": "https://muca.unam.mx/",
+      "id": "mexico-964a583cbf7787786ff7"
+    },
+    {
+      "name": "Museo de Anatomopatolgia Veterinaria",
+      "kind": "do",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.3309,
+      "lon": -99.1777,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Av. Universidad 3000",
+      "price": "Free",
+      "url": "https://www.fmvz.unam.mx/fmvz/departamentos/patologia/museo.html",
+      "id": "mexico-cb6a5e2ccd42e24eccd4"
+    },
+    {
+      "name": "Plaza Hidalgo",
+      "kind": "do",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.34974,
+      "lon": -99.16241,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "id": "mexico-62219a7216c852e43fca"
+    },
+    {
+      "name": "Jardín Centenario",
+      "kind": "do",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.3493,
+      "lon": -99.16365,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "id": "mexico-be11e1977806727b9263"
+    },
+    {
+      "name": "Capilla de la Purísima Concepción",
+      "kind": "do",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.34706,
+      "lon": -99.15883,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Plaza de la Conchita",
+      "id": "mexico-7c11367535c88ec2ac80"
+    },
+    {
+      "name": "Parroquia San Juan Bautista",
+      "kind": "do",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.349757315238563,
+      "lon": -99.16262931155286,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Parque Centenario",
+      "id": "mexico-21d53435020944b9d7d8"
+    },
+    {
+      "name": "Casa de la Malinche",
+      "kind": "do",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.34716,
+      "lon": -99.15982,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Higuera 55",
+      "id": "mexico-3f001369f19dedd0c429"
+    },
+    {
+      "name": "Museo Frida Kahlo",
+      "kind": "do",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.35517,
+      "lon": -99.16242,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Londres 247",
+      "url": "https://www.museofridakahlo.org.mx/",
+      "id": "mexico-029b368831eb94e91430"
+    },
+    {
+      "name": "Museo Diego Rivera-Anahuacalli",
+      "kind": "do",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.32264,
+      "lon": -99.14396,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "C/ Museo 150",
+      "url": "http://www.museoanahuacalli.org.mx/",
+      "id": "mexico-e4fae83f12b6d956fa0e"
+    },
+    {
+      "name": "Museo Casa de León Trotsky",
+      "kind": "do",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.35767,
+      "lon": -99.159572,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Viena 45, Col. Del Carmen",
+      "price": "M$40 (adults), M$10 (concessions); M$20 (photography permit)",
+      "url": "http://museocasadeleontrotsky.blogspot.mx/",
+      "id": "mexico-1a70bb1ab33c58a938e1"
+    },
+    {
+      "name": "Museo Nacional de Culturas Populares",
+      "kind": "do",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.349898,
+      "lon": -99.161019,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Av Hidalgo 289",
+      "price": "M$13 (adults), free (concessions), free admission on Sundays",
+      "url": "http://museoculturaspopulares.gob.mx/",
+      "id": "mexico-e5fabd81909426cc27cf"
+    },
+    {
+      "name": "Museo Nacional de Acuarela Alfredo Guati Rojo",
+      "kind": "do",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.34863,
+      "lon": -99.17708,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "C/ Salvador Novo 88",
+      "price": "Free",
+      "url": "http://www.acuarela.org.mx/",
+      "id": "mexico-42d4bc33a84a5f493d2e"
+    },
+    {
+      "name": "Museo del Automovil",
+      "kind": "do",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.324429,
+      "lon": -99.139191,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Avenida Division del Norte 3572",
+      "url": "https://museodelautomovil.com.mx/",
+      "id": "mexico-1a88959ced9e10f609d7"
+    },
+    {
+      "name": "Museo Casa Kahlo",
+      "kind": "do",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.352516,
+      "lon": -99.163099,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Aguayo 54, Del Carmen",
+      "price": "M$270 (discounts for students, children, elderly)",
+      "url": "http://www.museocasakahlo.org/",
+      "id": "mexico-dc3bfd1696e9918d44f4"
+    },
+    {
+      "name": "Cineteca Nacional",
+      "kind": "do",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.36116,
+      "lon": -99.16461,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Avda México Coyoacán 389",
+      "price": "$40 MXN (general admission), $25 MXN (students/teachers/INAPAM members)",
+      "url": "http://www.cinetecanacional.net/",
+      "id": "mexico-1868a894a1f64f179884"
+    },
+    {
+      "name": "Viveros de Coyoacán National Park",
+      "kind": "do",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.3538,
+      "lon": -99.1721,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "price": "Free",
+      "id": "mexico-a19e3b21030c4cc926fe"
+    },
+    {
+      "name": "Café Ruta de la Seda",
+      "kind": "eat",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.34815,
+      "lon": -99.16944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Aurora 1",
+      "price": "M$20-$50",
+      "url": "http://www.caferutadelaseda.com/",
+      "id": "mexico-2ec1d83f72300e0353ed"
+    },
+    {
+      "name": "Café El Jarocho",
+      "kind": "eat",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.3512,
+      "lon": -99.16183,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Calle Cuauhtémoc 134",
+      "price": "M$10-20",
+      "url": "https://m.facebook.com/cafeljarocho/",
+      "id": "mexico-3c6147bb7b4e297311b9"
+    },
+    {
+      "name": "Bizarro Café",
+      "kind": "eat",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.35134,
+      "lon": -99.16323,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Cuauhtemoc 168a",
+      "price": "M$30-100",
+      "url": "https://es-la.facebook.com/pages/Bizarro-Caf%C3%A9/137635233004979",
+      "id": "mexico-8d80b2c4cf4e0b2faaa1"
+    },
+    {
+      "name": "La Selva Café",
+      "kind": "eat",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.3484,
+      "lon": -99.16304,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Jardín del Centenario 4",
+      "price": "M$50-100",
+      "id": "mexico-2b30a7026b0e45f4eba2"
+    },
+    {
+      "name": "El Morral",
+      "kind": "eat",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.3504,
+      "lon": -99.16176,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Caballocalco",
+      "price": "M$100-300",
+      "url": "http://elmorral1967.wordpress.com/",
+      "id": "mexico-f88633bee2e62d0a929f"
+    },
+    {
+      "name": "El Jardin del Pulpo",
+      "kind": "eat",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.35246,
+      "lon": -99.16146,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Mercado Coyoacan, Malintzin 89 L24-25",
+      "price": "M$50-300",
+      "url": "https://en.jardindelpulpo.com/",
+      "id": "mexico-09f3e9d49ea16f78b8c1"
+    },
+    {
+      "name": "Los Danzantes",
+      "kind": "eat",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.34887,
+      "lon": -99.16368,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Plaza Jardin Centenario 12",
+      "price": "M$250-500",
+      "url": "http://losdanzantes.com/los-danzantes-coyoacan/",
+      "id": "mexico-d10cce4414085c3ea14a"
+    },
+    {
+      "name": "La Coyoacana",
+      "kind": "eat",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.34925,
+      "lon": -99.16165,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Higuera 14",
+      "price": "M$100-300",
+      "url": "http://lacoyoacana.com/",
+      "id": "mexico-f3090dfb283ba0a80082"
+    },
+    {
+      "name": "La Bipolar",
+      "kind": "eat",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.35205,
+      "lon": -99.16245,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Malintzin 155",
+      "price": "M$50-100 for main course",
+      "id": "mexico-227f1f269b1ffc08ea02"
+    },
+    {
+      "name": "Taro",
+      "kind": "eat",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.34291,
+      "lon": -99.18163,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Av Universidad 1861",
+      "price": "M$150-300",
+      "url": "http://www.restaurantetaro.com/",
+      "id": "mexico-fa1c15074bf07628bd1c"
+    },
+    {
+      "name": "Taquería Aguayo 1",
+      "kind": "eat",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.35098,
+      "lon": -99.16255,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Aguayo, approx. No. 14",
+      "price": "M$5-12",
+      "id": "mexico-4ee4565d8d808b51e451"
+    },
+    {
+      "name": "Las Nieves de Coyoacán",
+      "kind": "eat",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.34979,
+      "lon": -99.16309,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Carrillo Puerto",
+      "price": "M$20-50",
+      "id": "mexico-0a6b20a6c662cbbfe8d2"
+    },
+    {
+      "name": "Tepoznieves",
+      "kind": "eat",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.3493,
+      "lon": -99.16431,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Av Francisco Sosa 1, Local 1",
+      "id": "mexico-174947fca5151f8cbe91"
+    },
+    {
+      "name": "Churrería General de la República",
+      "kind": "eat",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.35111,
+      "lon": -99.16181,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Ignacio Allende 38",
+      "price": "M$7-$10",
+      "id": "mexico-d4f1f964a1c72817612b"
+    },
+    {
+      "name": "Street food",
+      "kind": "eat",
+      "locality": "Mexico City/Coyoacán",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "id": "mexico-177203d2be4d7f1b850f"
+    },
+    {
+      "name": "El Chupacabras",
+      "kind": "eat",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.35958,
+      "lon": -99.17224,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Close to Metro Coyoacán",
+      "id": "mexico-d83506a17897393fe4a1"
+    },
+    {
+      "name": "El Hijo del Cuervo",
+      "kind": "eat",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.349834,
+      "lon": -99.16381,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Jardin Centenario 17",
+      "price": "M$7 (cover charge)",
+      "url": "http://www.elhijodelcuervo.com.mx/",
+      "id": "mexico-8464b1ff1ac9244a7854"
+    },
+    {
+      "name": "Teatro Bar El Vicio",
+      "kind": "eat",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.35744,
+      "lon": -99.16416,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Madrid 13",
+      "url": "http://www.elvicio.com.mx/",
+      "id": "mexico-3814180a2c17809d15e2"
+    },
+    {
+      "name": "Centenario 107",
+      "kind": "eat",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.356327,
+      "lon": -99.163399,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Centenario 107, Del Carmen",
+      "url": "https://www.centenario107.mx/",
+      "id": "mexico-ee47e2a5ead623051251"
+    },
+    {
+      "name": "Krystal Grand Suites Insurgentes 1991",
+      "kind": "stay",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.351152,
+      "lon": -99.186539,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Av. de los Insurgentes Sur 1991.",
+      "price": "MX$2000 (Apr 2023)",
+      "url": "https://www.krystal-grand-suites.com/m2/",
+      "id": "mexico-f4dee721ea0d8d9a2543"
+    },
+    {
+      "name": "Hostal la Encantada",
+      "kind": "stay",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.356043,
+      "lon": -99.165465,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Guerrero 108, Col. Del Carmen Coyoacán",
+      "price": "MX$800 (Nov 2022)",
+      "id": "mexico-68b9ad1728a828fda8bb"
+    },
+    {
+      "name": "Mansion de Papilio",
+      "kind": "stay",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.346809,
+      "lon": -99.162472,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "5 de Febrero 28, La Concepción, Coyoacán",
+      "price": "M$2500",
+      "url": "http://mansiondepapilio.com/",
+      "id": "mexico-2ac8addae4fea911442a"
+    },
+    {
+      "name": "Hostal Cuija Coyoacan",
+      "kind": "stay",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.356026,
+      "lon": -99.164717,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "address": "Berlin 268, Coyoacan",
+      "price": "M$750",
+      "url": "https://cuija-coyoacan.hotelb3.com/",
+      "id": "mexico-0a023ff4b5e6df5ffc50"
+    },
+    {
+      "name": "Mexico City/Coyoacán",
+      "kind": "area",
+      "locality": "Mexico City/Coyoacán",
+      "lat": 19.35,
+      "lon": -99.161667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FCoyoac%C3%A1n",
+      "id": "mexico-ea0e1aa343d5426c0c85"
+    },
+    {
+      "name": "Museo Casa Estudio Diego Rivera y Frida Kahlo",
+      "kind": "do",
+      "locality": "Mexico City/San Angel",
+      "lat": 19.3496,
+      "lon": -99.19739,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FSan_Angel",
+      "address": "Calle Diego Rivera 2",
+      "price": "M$13 (general admission); M$30 (camera permit, no flash)",
+      "url": "https://inba.gob.mx/recinto/51",
+      "id": "mexico-fd584759c17235e8eb84"
+    },
+    {
+      "name": "Museo de Arte Carrillo Gil",
+      "kind": "do",
+      "locality": "Mexico City/San Angel",
+      "lat": 19.34931,
+      "lon": -99.19034,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FSan_Angel",
+      "address": "Revolucion 1608",
+      "price": "M$19, free admission on Sundays",
+      "url": "http://www.museodeartecarrillogil.com/",
+      "id": "mexico-9fd1080dc540573b07fe"
+    },
+    {
+      "name": "Convento del Carmen",
+      "kind": "do",
+      "locality": "Mexico City/San Angel",
+      "lat": 19.34506,
+      "lon": -99.18966,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FSan_Angel",
+      "address": "Avenida Revolución 4",
+      "price": "M$41 (adults), free (students/professors/children under 12); free admission on Sundays",
+      "url": "https://elcarmen.inah.gob.mx/",
+      "id": "mexico-c9e2b3597768725e0d03"
+    },
+    {
+      "name": "Plaza del Carmen",
+      "kind": "do",
+      "locality": "Mexico City/San Angel",
+      "lat": 19.34603115612019,
+      "lon": -99.19055814005455,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FSan_Angel",
+      "address": "Madero at Av. Revolucion",
+      "id": "mexico-2d62035d18e1dd766d23"
+    },
+    {
+      "name": "Plaza San Jacinto",
+      "kind": "do",
+      "locality": "Mexico City/San Angel",
+      "lat": 19.34491764204823,
+      "lon": -99.19232844283145,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FSan_Angel",
+      "address": "Av. Madero",
+      "id": "mexico-04bbfbba8b0d67d2f80a"
+    },
+    {
+      "name": "Teatro de los Insurgentes",
+      "kind": "do",
+      "locality": "Mexico City/San Angel",
+      "lat": 19.3642,
+      "lon": -99.1825,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FSan_Angel",
+      "address": "Insurgentes Sur 1587",
+      "id": "mexico-a0f211b49df229fdb61e"
+    },
+    {
+      "name": "Teatro Helenico",
+      "kind": "do",
+      "locality": "Mexico City/San Angel",
+      "lat": 19.353064,
+      "lon": -99.190075,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FSan_Angel",
+      "address": "Av. Revolucion 1500",
+      "url": "https://helenico.gob.mx/",
+      "id": "mexico-d25ce711075b1c040abd"
+    },
+    {
+      "name": "La Buena Fe",
+      "kind": "eat",
+      "locality": "Mexico City/San Angel",
+      "lat": 19.349439318497886,
+      "lon": -99.19575847710266,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FSan_Angel",
+      "address": "Av. Altavista 43",
+      "price": "M$350",
+      "id": "mexico-af03c00047921662e809"
+    },
+    {
+      "name": "Mallorquina",
+      "kind": "eat",
+      "locality": "Mexico City/San Angel",
+      "lat": 19.349187513103463,
+      "lon": -99.19815436030767,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FSan_Angel",
+      "address": "Av Altavista 207",
+      "url": "http://mallorquina.com.mx/",
+      "id": "mexico-889adc7df767cea311a8"
+    },
+    {
+      "name": "Carlotta",
+      "kind": "eat",
+      "locality": "Mexico City/San Angel",
+      "lat": 19.346029157174684,
+      "lon": -99.1897000375061,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FSan_Angel",
+      "address": "Del Carmen 4",
+      "id": "mexico-02c9717df155e660456b"
+    },
+    {
+      "name": "El Tizoncito",
+      "kind": "eat",
+      "locality": "Mexico City/San Angel",
+      "lat": 19.36008294198194,
+      "lon": -99.19778155959207,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FSan_Angel",
+      "address": "Calz. de las Águilas 184",
+      "price": "M$150",
+      "url": "http://www.eltizoncito.com.mx/",
+      "id": "mexico-7ca483efab4817ecb204"
+    },
+    {
+      "name": "Mama Rumba",
+      "kind": "eat",
+      "locality": "Mexico City/San Angel",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FSan_Angel",
+      "address": "near Av. de La Paz",
+      "id": "mexico-e52d485348737ed3b443"
+    },
+    {
+      "name": "La Bipo San Ángel",
+      "kind": "eat",
+      "locality": "Mexico City/San Angel",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FSan_Angel",
+      "address": "Av. de la Paz 33-A",
+      "url": "http://labipo.com.mx/",
+      "id": "mexico-ed2fbeb91e8562c1f393"
+    },
+    {
+      "name": "Hotel Casa San Jacinto",
+      "kind": "stay",
+      "locality": "Mexico City/San Angel",
+      "lat": 19.34406,
+      "lon": -99.19208,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FSan_Angel",
+      "address": "Plaza San Jacinto 20BIS",
+      "url": "http://casasanjacinto.com//",
+      "id": "mexico-535d4d2ba5e1da6e4975"
+    },
+    {
+      "name": "San Angel Inn",
+      "kind": "stay",
+      "locality": "Mexico City/San Angel",
+      "lat": 19.347798,
+      "lon": -99.204027,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FSan_Angel",
+      "address": "Desierto de los Leones 4058, San Angel",
+      "price": "M$4000",
+      "id": "mexico-820cca7132bbeee0f633"
+    },
+    {
+      "name": "Krystal Grand Suites Insurgentes",
+      "kind": "stay",
+      "locality": "Mexico City/San Angel",
+      "lat": 19.351847,
+      "lon": -99.186603,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FSan_Angel",
+      "address": "Av. de los Insurgentes Sur 1991, Álvaro Obregón",
+      "price": "M$5000",
+      "url": "https://www.krystal-grand-suites.com/",
+      "id": "mexico-dbb5271960520444c7fe"
+    },
+    {
+      "name": "Mexico City/San Angel",
+      "kind": "area",
+      "locality": "Mexico City/San Angel",
+      "lat": 19.3524,
+      "lon": -99.184,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FSan_Angel",
+      "id": "mexico-e61ef9f0f16aae6729af"
+    },
+    {
+      "name": "Parroquia y Convento de San Agustín de las Cuevas",
+      "kind": "do",
+      "locality": "Mexico City/Tlalpan",
+      "lat": 19.288715368501144,
+      "lon": -99.166353750926,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "address": "Francisco Madero 10",
+      "id": "mexico-5723381cc040d05ed5f0"
+    },
+    {
+      "name": "Parque Juana de Asbaje",
+      "kind": "do",
+      "locality": "Mexico City/Tlalpan",
+      "lat": 19.290113,
+      "lon": -99.167545,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "address": "Calle Moneda 1",
+      "id": "mexico-b6644e83442f243e0371"
+    },
+    {
+      "name": "Municipal Hall",
+      "kind": "do",
+      "locality": "Mexico City/Tlalpan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "address": "Plaza de la Constitucion",
+      "id": "mexico-fe32f5a11356df94f7ef"
+    },
+    {
+      "name": "Casa de Santa Anna",
+      "kind": "do",
+      "locality": "Mexico City/Tlalpan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "id": "mexico-0180537b7594564165cb"
+    },
+    {
+      "name": "Tlalpan Mint",
+      "kind": "do",
+      "locality": "Mexico City/Tlalpan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "id": "mexico-28c7ee77b143d8446be0"
+    },
+    {
+      "name": "Casa Frissac",
+      "kind": "do",
+      "locality": "Mexico City/Tlalpan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "id": "mexico-56dc43a0c32c20082485"
+    },
+    {
+      "name": "Casa Chata",
+      "kind": "do",
+      "locality": "Mexico City/Tlalpan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "id": "mexico-e69873ca0c3b5286a1fc"
+    },
+    {
+      "name": "Cuicuilco Archaeological Zone",
+      "kind": "do",
+      "locality": "Mexico City/Tlalpan",
+      "lat": 19.301449,
+      "lon": -99.183761,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "address": "Av. Insurgentes Sur",
+      "price": "Free",
+      "url": "https://lugares.inah.gob.mx/es/zonas-arqueologicas/zonas/1698-cuicuilco.html",
+      "id": "mexico-63c24c05dfea6ced0742"
+    },
+    {
+      "name": "Villa Olímpica",
+      "kind": "do",
+      "locality": "Mexico City/Tlalpan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "id": "mexico-9cd842afb4b260f6a083"
+    },
+    {
+      "name": "Ruta de la Amistad",
+      "kind": "do",
+      "locality": "Mexico City/Tlalpan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "url": "http://www.mexico68.org/",
+      "id": "mexico-20f44d71ec4cb974827c"
+    },
+    {
+      "name": "Heroico Colegio Militar",
+      "kind": "do",
+      "locality": "Mexico City/Tlalpan",
+      "lat": 19.261632,
+      "lon": -99.152985,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "id": "mexico-c0d1c663c3e480a70991"
+    },
+    {
+      "name": "Temple of the Asuncion Chimalcoyotl",
+      "kind": "do",
+      "locality": "Mexico City/Tlalpan",
+      "lat": 19.272302924483984,
+      "lon": -99.16522518682466,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "address": "Rosal Street",
+      "id": "mexico-a54418ab80e33406b009"
+    },
+    {
+      "name": "Church of San Pedro Martir de Verona",
+      "kind": "do",
+      "locality": "Mexico City/Tlalpan",
+      "lat": 19.26692956427772,
+      "lon": -99.16714019193181,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "address": "Enseñanza, Esq. Laurel S/n, San Pedro Mártir, Tlalpan",
+      "id": "mexico-a9e2c947f071491bb060"
+    },
+    {
+      "name": "Parroquia de San Andres Totoltepec",
+      "kind": "do",
+      "locality": "Mexico City/Tlalpan",
+      "lat": 19.251644675159877,
+      "lon": -99.17064947659136,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "address": "J.Ma. Morelos esq. Palma",
+      "id": "mexico-68d5db01de060741dfc7"
+    },
+    {
+      "name": "San Miguel de Xicalco Church",
+      "kind": "do",
+      "locality": "Mexico City/Tlalpan",
+      "lat": 19.233307752879416,
+      "lon": -99.16426109882185,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "address": "16 de Septiembre 1, San Miguel Xicalco, Tlalpan",
+      "id": "mexico-af341e45c22e57361439"
+    },
+    {
+      "name": "Estadio Azteca",
+      "kind": "do",
+      "locality": "Mexico City/Tlalpan",
+      "lat": 19.30892806771493,
+      "lon": -99.15139216680541,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "address": "Calzada de Tlalpan 3665",
+      "url": "http://www.estadioazteca.com.mx/",
+      "id": "mexico-7b76e97a87bdc595623b"
+    },
+    {
+      "name": "Six Flags Mexico City",
+      "kind": "do",
+      "locality": "Mexico City/Tlalpan",
+      "lat": 19.295,
+      "lon": -99.209,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "address": "Carr. Picacho-Ajusco Km 1.5, Jardines del Ajusco",
+      "price": "1-day tickets M$800, season passes start at M$1000",
+      "url": "http://www.sixflags.com.mx/",
+      "id": "mexico-5ab56111b35cbfe6a81d"
+    },
+    {
+      "name": "KidZania",
+      "kind": "do",
+      "locality": "Mexico City/Tlalpan",
+      "lat": 19.297306,
+      "lon": -99.180526,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "address": "Av. San Fernando 649",
+      "price": "M$210+",
+      "url": "https://cuicuilco.kidzania.com/",
+      "id": "mexico-f1ef5ebb87f5e6b28e1a"
+    },
+    {
+      "name": "Mexico City Philharmonic Orchestra",
+      "kind": "do",
+      "locality": "Mexico City/Tlalpan",
+      "lat": 19.303048,
+      "lon": -99.178317,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "address": "Periferico Sur 5141",
+      "url": "http://ofcm.cultura.cdmx.gob.mx/",
+      "id": "mexico-63d2277dcdad6244302e"
+    },
+    {
+      "name": "Parque Nacional Fuentes Brotantes",
+      "kind": "do",
+      "locality": "Mexico City/Tlalpan",
+      "lat": 19.285249,
+      "lon": -99.181028,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "id": "mexico-c8bdbed95a65f033f583"
+    },
+    {
+      "name": "Bosque de Tlalpan",
+      "kind": "do",
+      "locality": "Mexico City/Tlalpan",
+      "lat": 19.294395,
+      "lon": -99.196385,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "id": "mexico-d2a9b07de6eee0b356d8"
+    },
+    {
+      "name": "Parque Ecológico Loreto y Peña Pobre",
+      "kind": "do",
+      "locality": "Mexico City/Tlalpan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "id": "mexico-b53c4a838b032aa589e7"
+    },
+    {
+      "name": "Parque Nacional Cumbres del Ajusco",
+      "kind": "do",
+      "locality": "Mexico City/Tlalpan",
+      "lat": 19.21512,
+      "lon": -99.25639,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "id": "mexico-dcfee4efaf6c90904deb"
+    },
+    {
+      "name": "Volcan Xitle",
+      "kind": "do",
+      "locality": "Mexico City/Tlalpan",
+      "lat": 19.246693895281272,
+      "lon": -99.22194960527004,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "id": "mexico-22b1414356c77271f91f"
+    },
+    {
+      "name": "Parque Nacional Bosque de Tlalpan",
+      "kind": "do",
+      "locality": "Mexico City/Tlalpan",
+      "lat": 19.2932,
+      "lon": -99.198518,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "id": "mexico-21fc896ccf9cf3700f91"
+    },
+    {
+      "name": "Tetetlan",
+      "kind": "eat",
+      "locality": "Mexico City/Tlalpan",
+      "lat": 19.328844,
+      "lon": -99.204829,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "address": "Av. de Las Fuentes 180, Pedregal",
+      "price": "M̩200",
+      "url": "https://tetetlan.com/",
+      "id": "mexico-ff25ed81e0f8016632e2"
+    },
+    {
+      "name": "Michoacanissimo",
+      "kind": "eat",
+      "locality": "Mexico City/Tlalpan",
+      "lat": 19.31333,
+      "lon": -99.161405,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "address": "Calle San Valentín 866, Pedregal de Santa Úrsula",
+      "price": "M$250",
+      "url": "http://www.michoacanisimo.com/",
+      "id": "mexico-6d85d940a3116bb6d742"
+    },
+    {
+      "name": "Pancito Huipulco",
+      "kind": "eat",
+      "locality": "Mexico City/Tlalpan",
+      "lat": 19.299154,
+      "lon": -99.14853,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "address": "Cda. San Juan Bosco 36, Huipulco, Tlalpan",
+      "price": "M$250",
+      "id": "mexico-74177410b32caba4efe3"
+    },
+    {
+      "name": "Masa Azul",
+      "kind": "eat",
+      "locality": "Mexico City/Tlalpan",
+      "lat": 19.297615,
+      "lon": -99.161061,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "address": "Av Renato Leduc 174, Toriello Guerra, Tlalpan",
+      "price": "M$250",
+      "id": "mexico-8394b4f7e46afcb3d004"
+    },
+    {
+      "name": "Antigua Hacienda de Tlalpan",
+      "kind": "eat",
+      "locality": "Mexico City/Tlalpan",
+      "lat": 19.288889,
+      "lon": -99.162964,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "address": "Calz. de Tlalpan 4619, Tlalpan Centro I, Tlalpan",
+      "url": "https://aht.mx/",
+      "id": "mexico-58bef4e88162e63e01ea"
+    },
+    {
+      "name": "Sud 777",
+      "kind": "eat",
+      "locality": "Mexico City/Tlalpan",
+      "lat": 19.3092,
+      "lon": -99.209354,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "address": "Blvrd de la Luz 777, Jardines del Pedregal",
+      "price": "M$1000",
+      "url": "http://sud777.com.mx/",
+      "id": "mexico-19cb1e1be5070181df44"
+    },
+    {
+      "name": "Radisson Paraiso",
+      "kind": "stay",
+      "locality": "Mexico City/Tlalpan",
+      "lat": 19.302772,
+      "lon": -99.189686,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "address": "Cupside 53, Colonia Parques",
+      "price": "M$2000",
+      "id": "mexico-4b7eb5fc729854ae1846"
+    },
+    {
+      "name": "Royal Pedregal",
+      "kind": "stay",
+      "locality": "Mexico City/Tlalpan",
+      "lat": 19.303596,
+      "lon": -99.200242,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "address": "Periferico Sur 4363, Jardines en la Montaña",
+      "price": "M$1600",
+      "url": "http://www.hotelesroyal.com.mx/",
+      "id": "mexico-58e1e15606fb67aaaccd"
+    },
+    {
+      "name": "Hacienda Pena Pobre",
+      "kind": "stay",
+      "locality": "Mexico City/Tlalpan",
+      "lat": 19.297033,
+      "lon": -99.18829,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "address": "Camino a Santa Teresa 480-2, El Bosque, Tlalpan",
+      "price": "M$6000",
+      "url": "https://www.decuhotels.com/hacienda-pena-pobre",
+      "id": "mexico-0c5d09d360308e2b6019"
+    },
+    {
+      "name": "Camino Real Pedregal",
+      "kind": "stay",
+      "locality": "Mexico City/Tlalpan",
+      "lat": 19.31745,
+      "lon": -99.221967,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "address": "Periferico Sur 3647, Heroes de Padiern",
+      "price": "M$1000",
+      "id": "mexico-9889daa65f73d2f193b3"
+    },
+    {
+      "name": "Mexico City/Tlalpan",
+      "kind": "area",
+      "locality": "Mexico City/Tlalpan",
+      "lat": 19.308333,
+      "lon": -99.225,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FTlalpan",
+      "id": "mexico-0c2cb237f933a887c992"
+    },
+    {
+      "name": "Plaza Uruguay",
+      "kind": "do",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.43278,
+      "lon": -99.18768,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "id": "mexico-63eebab832bf734c738d"
+    },
+    {
+      "name": "Museo Soumaya",
+      "kind": "do",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.4407,
+      "lon": -99.20462,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Blvd Miguel de Cervantes Saavedra 303",
+      "price": "Free",
+      "url": "https://www.museosoumaya.org/",
+      "id": "mexico-7124c766ae0afc8a998c"
+    },
+    {
+      "name": "Museo Júmex",
+      "kind": "do",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.44041,
+      "lon": -99.20369,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Miguel de Cervantes Saavedra 303",
+      "price": "Free",
+      "url": "https://www.fundacionjumex.org/es",
+      "id": "mexico-01c8d6efe773d90fea9f"
+    },
+    {
+      "name": "Acuario Inbursa",
+      "kind": "do",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.440144,
+      "lon": -99.204749,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Blvd. Miguel de Cervantes Saavedra 386, Amp Granada, Miguel Hidalgo",
+      "price": "M$260",
+      "url": "https://www.acuarioinbursa.com.mx/",
+      "id": "mexico-ed4d60dfd59c0665264b"
+    },
+    {
+      "name": "Centro de Arquitectura y Diseño",
+      "kind": "do",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.43347,
+      "lon": -99.20902,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Av Juan Vázquez de Mella number 481",
+      "id": "mexico-8f2b93ccb34adf1a2a6e"
+    },
+    {
+      "name": "Parroquia San Agustin",
+      "kind": "do",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.435542,
+      "lon": -99.196548,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Av. Horacio 921, Polanco III Secc",
+      "url": "https://www.sanaguspolanco.org/",
+      "id": "mexico-f1a3bd644695bff2a4cd"
+    },
+    {
+      "name": "Bet El",
+      "kind": "do",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.43523,
+      "lon": -99.20913,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Av. Horacio 1722",
+      "url": "https://betel.org.mx/",
+      "id": "mexico-306aa081f97a8a81d3d4"
+    },
+    {
+      "name": "Sinagoga Maguen David",
+      "kind": "do",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.43205,
+      "lon": -99.20399,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Calle Socrates 321",
+      "url": "https://maguendavid.com/",
+      "id": "mexico-7ffee9f4a0acd09093b4"
+    },
+    {
+      "name": "Teatro Angela Peralta",
+      "kind": "do",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.42915,
+      "lon": -99.19437,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "url": "https://carteleradeteatro.mx/teatro/poniente/teatro-angela-peralta/",
+      "id": "mexico-418e594ef3052d62ee8e"
+    },
+    {
+      "name": "Hipodromo de las Americas",
+      "kind": "do",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.439575,
+      "lon": -99.220952,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Av. Industria Militar, Colonia Lomas de Sotelo",
+      "url": "http://www.hipodromo.com.mx/",
+      "id": "mexico-510058ce4e6037042bc8"
+    },
+    {
+      "name": "Fisher's",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.43292,
+      "lon": -99.18508,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Horacio 232",
+      "url": "http://www.fishers.com.mx/",
+      "id": "mexico-7450721a5eb7eef3b257"
+    },
+    {
+      "name": "Rincón Argentino",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.43172,
+      "lon": -99.18893,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Presidente Mazaryk 177",
+      "url": "https://www.rinconargentino.mx/",
+      "id": "mexico-3e26252e72a7bd73a6dd"
+    },
+    {
+      "name": "Pujol",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.432508,
+      "lon": -99.194577,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Tennyson 133",
+      "price": "M$3000",
+      "url": "https://pujol.com.mx/eng/",
+      "id": "mexico-dae81811e43fd8bf4fce"
+    },
+    {
+      "name": "Suntory",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.428603959779508,
+      "lon": -99.20699894554735,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Montes Urales 535, Colonia Lomas de Chapultepec",
+      "id": "mexico-e70ddfbf46659e9e5bad"
+    },
+    {
+      "name": "Centro Asturiano",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.427505358943083,
+      "lon": -99.19172367056957,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "C. Arquimedes 4",
+      "url": "https://www.centroasturianodemexico.com/",
+      "id": "mexico-a3a50b17fdb63b61e5fd"
+    },
+    {
+      "name": "El Pendulo",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.430485,
+      "lon": -99.195341,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Alejandro Dumas 81",
+      "url": "http://pendulo.com/",
+      "id": "mexico-9d188c8c9b95bb561760"
+    },
+    {
+      "name": "El Bajío",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.427626738419104,
+      "lon": -99.19628951904446,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Alejandro Dumas 7",
+      "price": "M$10-20",
+      "url": "http://carnitaselbajio.com.mx/",
+      "id": "mexico-1d56b7cabf2c8b0395a1"
+    },
+    {
+      "name": "Hacienda de los Morales",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.434497,
+      "lon": -99.20844,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Vázquez de Mella 525",
+      "price": "M$300-400",
+      "url": "https://www.haciendadelosmorales.com/",
+      "id": "mexico-89cb043ce1cacccabbc1"
+    },
+    {
+      "name": "Animal",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.432311,
+      "lon": -99.198945,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "C. Calderón de la Barca 108, Polanco III Secc",
+      "price": "M$1000",
+      "url": "https://costeno.com/animal/",
+      "id": "mexico-3bb16a30b1cfe16f87ac"
+    },
+    {
+      "name": "Rosa Negra",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.431456,
+      "lon": -99.193271,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Presidente Masaryk 298",
+      "price": "M$1000+",
+      "url": "https://rosanegra.com.mx/",
+      "id": "mexico-b1b2b49739872cb2b4e4"
+    },
+    {
+      "name": "La Cabrera",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.439865,
+      "lon": -99.204738,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Av. Ejército Nacional Mexicano 843, Granada",
+      "id": "mexico-8acfa4284c1f70d1be11"
+    },
+    {
+      "name": "Sylvestre",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.431308,
+      "lon": -99.197912,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Anatole France 74",
+      "price": "M$1000+",
+      "url": "http://www.sylvestre.mx/index/",
+      "id": "mexico-bc60acc0b78862c49b67"
+    },
+    {
+      "name": "Dawat",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.438593,
+      "lon": -99.195766,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Av. Ejército Nacional Mexicano 676, Polanco III Secc",
+      "url": "http://www.resdawat.com/",
+      "id": "mexico-cc1bd9effb875b043f14"
+    },
+    {
+      "name": "Quintonil",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.431094,
+      "lon": -99.191744,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Newton 55",
+      "url": "https://www.quintonil.com/",
+      "id": "mexico-31093b991ebc854b3e18"
+    },
+    {
+      "name": "Guzina Oaxaca",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.432708,
+      "lon": -99.203259,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Presidente Masaryk 513",
+      "price": "M$1000",
+      "url": "https://guzinaoaxaca.com/",
+      "id": "mexico-b61a802bb969677533b3"
+    },
+    {
+      "name": "Au Pied de Cochon",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.427422,
+      "lon": -99.193678,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Campos Eliseos 218",
+      "price": "M$1000",
+      "url": "http://www.aupieddecochon.rest/",
+      "id": "mexico-e1ddfedcd81bdbcd8aab"
+    },
+    {
+      "name": "Bandido Cafe",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.431333,
+      "lon": -99.201122,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Emilio Castelar 208",
+      "url": "https://bandido.com.mx/",
+      "id": "mexico-57b9d582b603dcd53db6"
+    },
+    {
+      "name": "Ryoshi",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.431914,
+      "lon": -99.186291,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Av. Pdte. Masaryk 111, Polanco Secc V",
+      "price": "M$1000",
+      "url": "https://www.ryoshi.mx/",
+      "id": "mexico-c49a5ea757b0c393610a"
+    },
+    {
+      "name": "Malix",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.432743,
+      "lon": -99.190176,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Av. Isaac Newton 104",
+      "price": "M$800+",
+      "url": "http://malixresto.com/",
+      "id": "mexico-89779f363ce83f4acfcb"
+    },
+    {
+      "name": "Casa Portuguesa",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.430357,
+      "lon": -99.197411,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Av. Emilio Castelar 111, Polanco III Secc",
+      "url": "http://www.casaportuguesa.com.mx/",
+      "id": "mexico-4790b399b23dd67cb9ed"
+    },
+    {
+      "name": "Cuerno Masaryk",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.432089,
+      "lon": -99.19377,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Aristoteles 124",
+      "price": "M$500",
+      "url": "http://cuerno.mx/",
+      "id": "mexico-37b487b0a587b448169c"
+    },
+    {
+      "name": "Ivoire",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.430179,
+      "lon": -99.196352,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Av. Emilio Castelar 95, Polanco IV Secc",
+      "price": "M$1000",
+      "url": "http://ivoirepolanco.com/",
+      "id": "mexico-73d7216665c7c5362e13"
+    },
+    {
+      "name": "Casa d'Amico",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.435879,
+      "lon": -99.188637,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Av. Homero 433, Polanco V Secc",
+      "price": "M̩300",
+      "id": "mexico-8c3d13c476879bd4d6f9"
+    },
+    {
+      "name": "Auguri Kosher Trattoria",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.42909032150095,
+      "lon": -99.21108343419797,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Av Cordillera de Los Andes 375",
+      "id": "mexico-c60112835dc27cc8fb9e"
+    },
+    {
+      "name": "Vico's Grill Kosher",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.43803687625483,
+      "lon": -99.20985956303318,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Av. Jaime Balmes 8, Polanco I Secc.",
+      "url": "https://www.vicosgrillkosher.com/",
+      "id": "mexico-6dccd2ba67938ca8c209"
+    },
+    {
+      "name": "Klein's",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.431795118297497,
+      "lon": -99.19697996303336,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Av. Pdte. Masaryk 360B, Polanco III Secc",
+      "url": "https://www.kleins.mx/",
+      "id": "mexico-d9eeb64ee13b1b94bb65"
+    },
+    {
+      "name": "Blue bar",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.428339,
+      "lon": -99.178122,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "within Camino Real Hotel, Mariano Escobedo 700, Col. Anzures",
+      "url": "https://www.caminoreal.com/en/caminoreal/camino-real-polanco-mexico",
+      "id": "mexico-6bf9883cbc222f1badb1"
+    },
+    {
+      "name": "Jaso Restaurant",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.432215,
+      "lon": -99.190613,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Newton 88",
+      "price": "M$400-600 per person",
+      "url": "http://www.jaso.com.mx/",
+      "id": "mexico-671194f21044555dcf1d"
+    },
+    {
+      "name": "Pinche Bar",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.441799,
+      "lon": -99.181599,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Lago Iseo 296, Anáhuac I Secc, Miguel Hidalgo",
+      "url": "https://www.pgbbq.mx/bar",
+      "id": "mexico-22b8cc7dc9757da5daed"
+    },
+    {
+      "name": "Limantour Polanco",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.430501,
+      "lon": -99.196996,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Oscar Wilde 9",
+      "url": "http://www.limantour.tv/",
+      "id": "mexico-1ca85011a94fd7ed95f3"
+    },
+    {
+      "name": "La Santa",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.431787,
+      "lon": -99.195314,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Av. Pdte. Masaryk 336, Polanco IV Secc",
+      "url": "http://lasantamasaryk.com/",
+      "id": "mexico-2348b25ebfa94cf7afee"
+    },
+    {
+      "name": "Cafe Toscano",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.42930686370965,
+      "lon": -99.19246890711435,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Temístocles 26",
+      "price": "M$200",
+      "id": "mexico-16a29309414b3bb86eaa"
+    },
+    {
+      "name": "Biscottino",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.42877329373562,
+      "lon": -99.19401455777755,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Luis G. Urbina 4",
+      "price": "M$200",
+      "id": "mexico-316b09d08d2ad470244a"
+    },
+    {
+      "name": "Cafe Joselo",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.43013920319189,
+      "lon": -99.19669676676858,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Av. Emilio Castelar 107",
+      "price": "M$100",
+      "id": "mexico-5a0965158b93eb9c45ef"
+    },
+    {
+      "name": "Conejo Blanco",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.431388888141733,
+      "lon": -99.20123219499665,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Av. Emilio Castelar 212",
+      "price": "M$150",
+      "id": "mexico-3727f201d7b6cc00fa46"
+    },
+    {
+      "name": "Cafe Jekemir",
+      "kind": "eat",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.433248,
+      "lon": -99.185844,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Av. Horacio 304",
+      "price": "M$150",
+      "url": "http://cafejekemir.com/sucursales.html",
+      "id": "mexico-2806939baf5e0a351f44"
+    },
+    {
+      "name": "Hotel Camino Real Polanco",
+      "kind": "stay",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.42817,
+      "lon": -99.17909,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Calz. Gral. Mariano Escobedo 700, Anzures",
+      "url": "https://www.caminoreal.com/caminoreal/camino-real-polanco-mexico",
+      "id": "mexico-edf7c9b37aa2b21189bc"
+    },
+    {
+      "name": "Habita Hotel",
+      "kind": "stay",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.431813899104203,
+      "lon": -99.18986273944853,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Av. Presidente Masaryk 201",
+      "price": "From M$6400",
+      "id": "mexico-547a7f89f625f79dcdd5"
+    },
+    {
+      "name": "Hotel Polanco",
+      "kind": "stay",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.42892,
+      "lon": -99.20045,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Edgar Allan Poe 8",
+      "price": "M$1800 (Mar 2023)",
+      "url": "http://www.hotelpolanco.com/",
+      "id": "mexico-f69bf785e45f370707e0"
+    },
+    {
+      "name": "Grand Polanco Residencial",
+      "kind": "stay",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.432846,
+      "lon": -99.189219,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Av. Isaac Newton 119",
+      "url": "http://www.grandpolanco.com/",
+      "id": "mexico-ddbea79b10ab0051a7b6"
+    },
+    {
+      "name": "Dominion Polanco",
+      "kind": "stay",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.428944,
+      "lon": -99.193824,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Aristoteles 21",
+      "price": "M$6000",
+      "url": "https://www.dominionpolanco.com/",
+      "id": "mexico-db4a46f1240e88c02c58"
+    },
+    {
+      "name": "Alest Hotel",
+      "kind": "stay",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.429798,
+      "lon": -99.194397,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Eugenio Sue #45",
+      "price": "M$6000",
+      "url": "https://thealest.com/",
+      "id": "mexico-0a6a2b6b8146c229f8d8"
+    },
+    {
+      "name": "Las Alcobas",
+      "kind": "stay",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.431776,
+      "lon": -99.197864,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Av. Masaryk 390",
+      "price": "M$9000",
+      "url": "https://www.lasalcobas.com/",
+      "id": "mexico-0ba47d5d4381f7d97a96"
+    },
+    {
+      "name": "Hotel Pug Seal",
+      "kind": "stay",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.432837,
+      "lon": -99.199939,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Edgar Allan Poe 90",
+      "price": "M$6000",
+      "url": "http://www.pugseal.com/",
+      "id": "mexico-e68c146592bbfec541e8"
+    },
+    {
+      "name": "Kimpton Virgilio",
+      "kind": "stay",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.431083,
+      "lon": -99.197724,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Anatole France 79, Polanco III Secc",
+      "price": "M5000",
+      "url": "https://www.kimptonvirgilio.com/",
+      "id": "mexico-36e0e7bc1c0024e5dc7d"
+    },
+    {
+      "name": "Intercontinental Presidente",
+      "kind": "stay",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.428122,
+      "lon": -99.192844,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "address": "Campos Elíseos 218",
+      "price": "M$3000",
+      "id": "mexico-475ad2ad9e192423ed6c"
+    },
+    {
+      "name": "Mexico City/Polanco",
+      "kind": "area",
+      "locality": "Mexico City/Polanco",
+      "lat": 19.4333333,
+      "lon": -99.2,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mexico_City%2FPolanco",
+      "id": "mexico-91ca305e0a07bcf53545"
+    }
+  ],
+  "status": "partial",
+  "note": "Fetched 8 distinct public Wikivoyage source pages; attempted 8 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Coverage cap: Mexico City: 16 additional linked subpages not fetched; Mexico City: 16 additional linked subpages not fetched."
+}

@@ -1,0 +1,1733 @@
+{
+  "sources": [
+    {
+      "title": "Nepal",
+      "url": "https://en.wikivoyage.org/wiki/Nepal",
+      "checkedAt": "2026-10-21T08:16:02.380Z"
+    },
+    {
+      "title": "Kathmandu",
+      "url": "https://en.wikivoyage.org/wiki/Kathmandu",
+      "checkedAt": "2026-10-21T08:16:02.883Z"
+    },
+    {
+      "title": "Kathmandu/East",
+      "url": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "checkedAt": "2026-10-21T08:16:03.885Z"
+    },
+    {
+      "title": "Kathmandu/Central",
+      "url": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "checkedAt": "2026-10-21T08:16:04.885Z"
+    },
+    {
+      "title": "Kathmandu/West",
+      "url": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "checkedAt": "2026-10-21T08:16:06.271Z"
+    },
+    {
+      "title": "Khumbu",
+      "url": "https://en.wikivoyage.org/wiki/Khumbu",
+      "checkedAt": "2026-10-21T08:16:06.879Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Kathmandu",
+      "kind": "area",
+      "locality": "Nepal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nepal",
+      "id": "nepal-068a77eb613ce6ec3f73"
+    },
+    {
+      "name": "Bhaktapur",
+      "kind": "area",
+      "locality": "Nepal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nepal",
+      "id": "nepal-7fabe2e682177aa87482"
+    },
+    {
+      "name": "Biratnagar",
+      "kind": "area",
+      "locality": "Nepal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nepal",
+      "id": "nepal-e9889fa489dd6b6de1b8"
+    },
+    {
+      "name": "Janakpur",
+      "kind": "area",
+      "locality": "Nepal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nepal",
+      "id": "nepal-e088dc0bed9327bffbaa"
+    },
+    {
+      "name": "Namche Bazaar",
+      "kind": "area",
+      "locality": "Nepal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nepal",
+      "id": "nepal-19f14a95e66ba52ef2e4"
+    },
+    {
+      "name": "Nepalgunj",
+      "kind": "area",
+      "locality": "Nepal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nepal",
+      "id": "nepal-ad3de8c104750c001d11"
+    },
+    {
+      "name": "Patan",
+      "kind": "area",
+      "locality": "Nepal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nepal",
+      "id": "nepal-0b7d0ce9777b8c728220"
+    },
+    {
+      "name": "Pokhara",
+      "kind": "area",
+      "locality": "Nepal",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Nepal",
+      "id": "nepal-2f188d34e560bbbc92e2"
+    },
+    {
+      "name": "Future Nepal",
+      "kind": "do",
+      "locality": "Kathmandu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu",
+      "address": "Kathmandu",
+      "url": "https://futurenepal.org/",
+      "id": "nepal-0a39c23bce3aad28ebb8"
+    },
+    {
+      "name": "Hidden Journeys Nepal",
+      "kind": "do",
+      "locality": "Kathmandu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu",
+      "url": "http://www.hiddenjourneysnepal.com/",
+      "id": "nepal-19e86edecff414dbb5c6"
+    },
+    {
+      "name": "Volunteer Society Nepal",
+      "kind": "do",
+      "locality": "Kathmandu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu",
+      "address": "Kathmandu",
+      "url": "http://www.volunteersocietynepal.org/",
+      "id": "nepal-3c8ebced78f33d1a0ebb"
+    },
+    {
+      "name": "Kathmandu",
+      "kind": "area",
+      "locality": "Kathmandu",
+      "lat": 27.71,
+      "lon": 85.32,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu",
+      "id": "nepal-ee992ed88cfebbc42ffe"
+    },
+    {
+      "name": "Boudha Stupa",
+      "kind": "do",
+      "locality": "Kathmandu/East",
+      "lat": 27.721389,
+      "lon": 85.361944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "price": "Foreigners pay Rs400, but this can be waived for guests of hotels at the other side of the stupa",
+      "id": "nepal-5efa10de2d05b2c362ee"
+    },
+    {
+      "name": "Pashupatinath Temple",
+      "kind": "do",
+      "locality": "Kathmandu/East",
+      "lat": 27.710495,
+      "lon": 85.348645,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "url": "http://www.pashupati.org.np/",
+      "id": "nepal-d2a6b43879dda209fc08"
+    },
+    {
+      "name": "Taragaon Museum",
+      "kind": "do",
+      "locality": "Kathmandu/East",
+      "lat": 27.720041,
+      "lon": 85.356613,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "address": "Boudhanath, Tridevi Sadak",
+      "url": "http://taragaonmuseum.com/",
+      "id": "nepal-f2bcb8c58794540e82f1"
+    },
+    {
+      "name": "Charumati Stupa",
+      "kind": "do",
+      "locality": "Kathmandu/East",
+      "lat": 27.715894,
+      "lon": 85.345872,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "id": "nepal-b3a71b29abd7c00279cf"
+    },
+    {
+      "name": "Guhyeshwari Temple",
+      "kind": "do",
+      "locality": "Kathmandu/East",
+      "lat": 27.711111,
+      "lon": 85.353333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "id": "nepal-25470d45f6531c033658"
+    },
+    {
+      "name": "Dilyak Dabzang Monastery",
+      "kind": "do",
+      "locality": "Kathmandu/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "address": "PO Box No. 4512, Boudha",
+      "id": "nepal-3d78111b76a099244cbe"
+    },
+    {
+      "name": "Khawalung Monastery",
+      "kind": "do",
+      "locality": "Kathmandu/East",
+      "lat": 27.733977,
+      "lon": 85.368021,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "address": "Boudha-Simaltar",
+      "id": "nepal-acc3fdbd2108ba36e693"
+    },
+    {
+      "name": "Shechen Monastery",
+      "kind": "do",
+      "locality": "Kathmandu/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "id": "nepal-cc70d11e83ce6dd795ab"
+    },
+    {
+      "name": "Ka-Nying Shedrub Ling",
+      "kind": "do",
+      "locality": "Kathmandu/East",
+      "lat": 27.723997,
+      "lon": 85.362747,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "id": "nepal-12013b116ffaf3ca0dc5"
+    },
+    {
+      "name": "Boudha Stupa Restaurant & Cafe",
+      "kind": "eat",
+      "locality": "Kathmandu/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "address": "Boudha",
+      "price": "Rs200 for meal",
+      "url": "https://www.facebook.com/Boudha-Stupa-cafe-and-restaurant-148289591865504/",
+      "id": "nepal-93270d549a667a3e6d14"
+    },
+    {
+      "name": "Himalayan Cafe",
+      "kind": "eat",
+      "locality": "Kathmandu/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "address": "Boudha Stupa",
+      "id": "nepal-4e09860cf16649d74119"
+    },
+    {
+      "name": "Organic Smoothie Bowl and Cafe",
+      "kind": "eat",
+      "locality": "Kathmandu/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "address": "Boudhadwar Marg",
+      "url": "https://osbcafe.com.np/outlets/organic-smoothie-bowl-and-cafe-boudhha-kathmandu/",
+      "id": "nepal-756c588fe4394d54b915"
+    },
+    {
+      "name": "Stupa Dining Restaurant With Garden",
+      "kind": "eat",
+      "locality": "Kathmandu/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "address": "Boudha, Dhara Tole, before turning to Hyatt Road",
+      "id": "nepal-26c372c64efebacf997f"
+    },
+    {
+      "name": "Utpala Cafe",
+      "kind": "eat",
+      "locality": "Kathmandu/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "address": "Boudha",
+      "price": "Cappuccino - Nrs130",
+      "url": "https://www.cafeutpala.com/",
+      "id": "nepal-d52abe178d65a9745f94"
+    },
+    {
+      "name": "Cafe Caravan",
+      "kind": "eat",
+      "locality": "Kathmandu/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "address": "Boudha Stupa",
+      "price": "Cappuccino - Nrs220",
+      "url": "https://www.facebook.com/cafecaravanboudha/",
+      "id": "nepal-914d5e75bc2661042bc1"
+    },
+    {
+      "name": "Flavors",
+      "kind": "eat",
+      "locality": "Kathmandu/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "address": "Inner circle, Boudha Stupa,",
+      "price": "Cappuccino - Nrs290",
+      "id": "nepal-9a914c425521425146ca"
+    },
+    {
+      "name": "Himalayan Java Coffee",
+      "kind": "eat",
+      "locality": "Kathmandu/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "address": "Inner circle, Boudha Stupa",
+      "price": "Cappuccino - Nrs275",
+      "url": "https://himalayanjava.com/",
+      "id": "nepal-73cabb67aeda522c4049"
+    },
+    {
+      "name": "Kar.ma Coffee",
+      "kind": "eat",
+      "locality": "Kathmandu/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "address": "Boudha",
+      "price": "Cappuccino - Nrs250",
+      "url": "https://karmacoffee.com.np/",
+      "id": "nepal-83255c60b15594df30c9"
+    },
+    {
+      "name": "Roadhouse Cafe",
+      "kind": "eat",
+      "locality": "Kathmandu/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "address": "Inner circle, Boudha Stupa",
+      "price": "Cappuccino - Nrs395",
+      "url": "https://roadhousenepal.com/restaurants/roadhouse-cafe-boudha/",
+      "id": "nepal-d5dc108886251e738c93"
+    },
+    {
+      "name": "Ugyen Cafe",
+      "kind": "eat",
+      "locality": "Kathmandu/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "address": "Shechen Monastery",
+      "price": "Cappuccino - Nrs160",
+      "id": "nepal-3048e933ac7335ce3c1c"
+    },
+    {
+      "name": "Dragon Guesthouse",
+      "kind": "stay",
+      "locality": "Kathmandu/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "address": "Mahankal, Boudha",
+      "price": "Nrs1,300 for single",
+      "url": "http://dragonguesthouse.info/",
+      "id": "nepal-18fed42354aa86b96228"
+    },
+    {
+      "name": "Tharlam GuestHouse",
+      "kind": "stay",
+      "locality": "Kathmandu/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "id": "nepal-ea14c8e2d4af272f0bea"
+    },
+    {
+      "name": "Hotel Butsugen",
+      "kind": "stay",
+      "locality": "Kathmandu/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "address": "Boudha",
+      "price": "Approx US$50 for twin room",
+      "id": "nepal-cab732b9e162f4cac078"
+    },
+    {
+      "name": "Rinchen Hotel",
+      "kind": "stay",
+      "locality": "Kathmandu/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "address": "Boudha-6",
+      "price": "Around Nrs2,500 (twin/double)",
+      "url": "https://www.facebook.com/RinchenHotelBoudhaKathmandu/",
+      "id": "nepal-c67a78c326038fa5c8dc"
+    },
+    {
+      "name": "Rokpa Guesthouse",
+      "kind": "stay",
+      "locality": "Kathmandu/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "address": "Boudha",
+      "price": "US$40 (basic)",
+      "url": "https://www.rokpaguesthouse.org/guesthouse-home",
+      "id": "nepal-9eca4e5cc2442f3327b3"
+    },
+    {
+      "name": "Shechen Guest House",
+      "kind": "stay",
+      "locality": "Kathmandu/East",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "url": "http://www.shechenguesthouse.com.np/",
+      "id": "nepal-903d71d75e56c5649908"
+    },
+    {
+      "name": "Hyatt Regency Kathmandu",
+      "kind": "stay",
+      "locality": "Kathmandu/East",
+      "lat": 27.722,
+      "lon": 85.355,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "address": "PO Box 9609, Taragaon, Boudha",
+      "url": "http://www.kathmandu.regency.hyatt.com/",
+      "id": "nepal-52df95607327121f6e68"
+    },
+    {
+      "name": "Kathmandu/East",
+      "kind": "area",
+      "locality": "Kathmandu/East",
+      "lat": 27.721389,
+      "lon": 85.361944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FEast",
+      "id": "nepal-6d2abc640c03899ee47b"
+    },
+    {
+      "name": "Dharma Chakra Vihar",
+      "kind": "do",
+      "locality": "Kathmandu/Central",
+      "lat": 27.70513,
+      "lon": 85.31796,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Dharma Chakra Marga",
+      "id": "nepal-c1b7aabfee13d94e0f23"
+    },
+    {
+      "name": "J Art Gallery",
+      "kind": "do",
+      "locality": "Kathmandu/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "id": "nepal-7145f5a0daad80047d30"
+    },
+    {
+      "name": "Junga Bahadur Statue",
+      "kind": "do",
+      "locality": "Kathmandu/Central",
+      "lat": 27.69929,
+      "lon": 85.31737,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Prithvi Path",
+      "id": "nepal-b734cf41f44719d69d6a"
+    },
+    {
+      "name": "Machali Mandir, Teku",
+      "kind": "do",
+      "locality": "Kathmandu/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Kalopul Road",
+      "id": "nepal-6e5597e2ebd9afbae9b5"
+    },
+    {
+      "name": "Matrikeshwor Mahadev",
+      "kind": "do",
+      "locality": "Kathmandu/Central",
+      "lat": 27.70782,
+      "lon": 85.31541,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Kanti Path",
+      "id": "nepal-6639a1827360e16c5b06"
+    },
+    {
+      "name": "Asa Archives",
+      "kind": "do",
+      "locality": "Kathmandu/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "id": "nepal-e0e6a50a90e1e1fc3101"
+    },
+    {
+      "name": "Narayanhiti Palace Museum",
+      "kind": "do",
+      "locality": "Kathmandu/Central",
+      "lat": 27.715556,
+      "lon": 85.32,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "price": "Foreigners: Rs500",
+      "url": "http://narayanhitipalacemuseum.gov.np/",
+      "id": "nepal-877d476d37d03644a9d8"
+    },
+    {
+      "name": "Nepal Children's Art Museum",
+      "kind": "do",
+      "locality": "Kathmandu/Central",
+      "lat": 27.711097,
+      "lon": 85.322329,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Hattisar Sadak",
+      "url": "http://www.nepalcam.org/",
+      "id": "nepal-7cd9170d9d422b20f574"
+    },
+    {
+      "name": "National Art Gallery",
+      "kind": "do",
+      "locality": "Kathmandu/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "id": "nepal-5b915a79ce44c640f95f"
+    },
+    {
+      "name": "NAFA Gallery",
+      "kind": "do",
+      "locality": "Kathmandu/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "id": "nepal-39da81b5a79899a4b566"
+    },
+    {
+      "name": "Nepal Art Council Gallery",
+      "kind": "do",
+      "locality": "Kathmandu/Central",
+      "lat": 27.69222,
+      "lon": 85.32346,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "url": "https://www.nepalartcouncil.org.np/",
+      "id": "nepal-e0b09f49cae144f4775b"
+    },
+    {
+      "name": "Russian Centre of Science and Culture",
+      "kind": "do",
+      "locality": "Kathmandu/Central",
+      "lat": 27.70951,
+      "lon": 85.32583,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Pashupati Marga, Block No. 1055/31, Kamal Pokhari",
+      "url": "https://new.russiancenter.org.np/en",
+      "id": "nepal-728759cfedd72b4cf603"
+    },
+    {
+      "name": "Kumari Cinema Hall",
+      "kind": "do",
+      "locality": "Kathmandu/Central",
+      "lat": 27.70893,
+      "lon": 85.32529,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Dhobidhara Marg",
+      "id": "nepal-29f293d4981fbaf9343f"
+    },
+    {
+      "name": "Bishwajyoti Cinema",
+      "kind": "do",
+      "locality": "Kathmandu/Central",
+      "lat": 27.7088,
+      "lon": 85.31498,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Jamal, Kathmandu",
+      "id": "nepal-9cd5ffb34a0803bc76e6"
+    },
+    {
+      "name": "Guna Cinema",
+      "kind": "do",
+      "locality": "Kathmandu/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Gwarko, Ringroad",
+      "id": "nepal-82d9eff7c1809f49b180"
+    },
+    {
+      "name": "Bhrikuti Mandap Park",
+      "kind": "do",
+      "locality": "Kathmandu/Central",
+      "lat": 27.70148,
+      "lon": 85.31824,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Pradarshani Marg",
+      "id": "nepal-4678e3afea5c10c26009"
+    },
+    {
+      "name": "Bhugol Park",
+      "kind": "do",
+      "locality": "Kathmandu/Central",
+      "lat": 27.70341,
+      "lon": 85.30972,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Dharma Path, New Road (Naya Sadak)",
+      "id": "nepal-b43980291ff28574e938"
+    },
+    {
+      "name": "Fun Park",
+      "kind": "do",
+      "locality": "Kathmandu/Central",
+      "lat": 27.70113,
+      "lon": 85.31955,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Pradarshani Chakra",
+      "id": "nepal-b3b1ff869ffe99cc23c9"
+    },
+    {
+      "name": "Maitighar Mandala Park",
+      "kind": "do",
+      "locality": "Kathmandu/Central",
+      "lat": 27.6945,
+      "lon": 85.32047,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "id": "nepal-650df4a19bf108ebbe7b"
+    },
+    {
+      "name": "UN Park",
+      "kind": "do",
+      "locality": "Kathmandu/Central",
+      "lat": 27.68788,
+      "lon": 85.32068,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Shiva Marga",
+      "id": "nepal-bcf167fe603f7e540be5"
+    },
+    {
+      "name": "Ratna Park",
+      "kind": "do",
+      "locality": "Kathmandu/Central",
+      "lat": 27.70568,
+      "lon": 85.31526,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Kanti Path, Durbar Marg",
+      "id": "nepal-b6ff93647f1f87fa5141"
+    },
+    {
+      "name": "Sankha Park",
+      "kind": "do",
+      "locality": "Kathmandu/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Dhumbarahi",
+      "id": "nepal-a59f8a42d4420a4e43a1"
+    },
+    {
+      "name": "Dasharath Rangasala Stadium",
+      "kind": "do",
+      "locality": "Kathmandu/Central",
+      "lat": 27.69494,
+      "lon": 85.31482,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Tripureshwor, Kathmandu",
+      "id": "nepal-d53d2f194c7afdf758f8"
+    },
+    {
+      "name": "ANFA Complex",
+      "kind": "do",
+      "locality": "Kathmandu/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Satdobato, Lalitpur",
+      "id": "nepal-64de627346ecd1a94925"
+    },
+    {
+      "name": "Mandala Theatre",
+      "kind": "do",
+      "locality": "Kathmandu/Central",
+      "lat": 27.69556,
+      "lon": 85.3282,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Anamanagar",
+      "url": "http://www.mandalatheatre.com/",
+      "id": "nepal-f9841d164901788b5372"
+    },
+    {
+      "name": "National Theatre",
+      "kind": "do",
+      "locality": "Kathmandu/Central",
+      "lat": 27.70914,
+      "lon": 85.31427,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Kantipath",
+      "id": "nepal-5e014b6a0bb82a038c36"
+    },
+    {
+      "name": "Tribhuvan University Central Library",
+      "kind": "do",
+      "locality": "Kathmandu/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Tribhuvan University",
+      "url": "http://www.tucl.org.np/",
+      "id": "nepal-d1a3abb2b7fc8e49787c"
+    },
+    {
+      "name": "Kathmandu Valley Library",
+      "kind": "do",
+      "locality": "Kathmandu/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "id": "nepal-bfc4c62078688e354df6"
+    },
+    {
+      "name": "Attic Bar",
+      "kind": "eat",
+      "locality": "Kathmandu/Central",
+      "lat": 27.71906,
+      "lon": 85.3204,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Gahana Pokhari Marg",
+      "url": "http://www.attic.com.np/",
+      "id": "nepal-f2e114d7678d10c20758"
+    },
+    {
+      "name": "Irish Pub Lazimpat",
+      "kind": "eat",
+      "locality": "Kathmandu/Central",
+      "lat": 27.71849,
+      "lon": 85.31766,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Ananda Bhawan, Uttar Dhoka Sadak",
+      "id": "nepal-ec44d36ce94c5f708f6d"
+    },
+    {
+      "name": "Hotel Ambassador",
+      "kind": "stay",
+      "locality": "Kathmandu/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Lazimbat",
+      "price": "NPR2500 Per person in double room",
+      "url": "https://www.ambassadornepal.com/",
+      "id": "nepal-e21bd619e7a29b3fe775"
+    },
+    {
+      "name": "Dream Nepal Hotel and Apartment",
+      "kind": "stay",
+      "locality": "Kathmandu/Central",
+      "lat": 27.71243,
+      "lon": 85.31316,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Amrit Marg, near to Brahmakumari Marg",
+      "price": "Suite Room Sgl /Dbl: US$ 70/80, Studio Apartment Sgl /Dbl: US$ 80/180, Deluxe Room Sgl /Dbl: US$ 50/60",
+      "id": "nepal-9603546802eeaf097ba8"
+    },
+    {
+      "name": "Dwarika's",
+      "kind": "stay",
+      "locality": "Kathmandu/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Battisputali",
+      "url": "https://www.dwarikas.com/",
+      "id": "nepal-7e7cd7f5912110c04b55"
+    },
+    {
+      "name": "Hotel Hukum Darbar",
+      "kind": "stay",
+      "locality": "Kathmandu/Central",
+      "lat": 27.71157,
+      "lon": 85.32678,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Kamalpokhari-1,",
+      "url": "https://m.facebook.com/HUKUMDARBAR.KATHMANDU/",
+      "id": "nepal-9fc74390cfce2dfc34b6"
+    },
+    {
+      "name": "Hotel Soaltee Crowne Plaza",
+      "kind": "stay",
+      "locality": "Kathmandu/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Tahachal, western side of Kathmandu",
+      "price": "USD96-600",
+      "url": "https://www.soaltee.com/",
+      "id": "nepal-4c9539305b2e268855ea"
+    },
+    {
+      "name": "Radisson Hotel Kathmandu",
+      "kind": "stay",
+      "locality": "Kathmandu/Central",
+      "lat": 27.72003,
+      "lon": 85.32096,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Lazimpat",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-kathmandu",
+      "id": "nepal-adc6c5048adcbaf8ff6a"
+    },
+    {
+      "name": "The Shanker Hotel",
+      "kind": "stay",
+      "locality": "Kathmandu/Central",
+      "lat": 27.718333,
+      "lon": 85.32,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "PO BOX 350, Lazimpat",
+      "price": "Starts at US$80. 20% discount for online bookings",
+      "url": "http://www.shankerhotel.com.np/",
+      "id": "nepal-3bbac8d4992d2b7b2ab2"
+    },
+    {
+      "name": "Yak and Yeti",
+      "kind": "stay",
+      "locality": "Kathmandu/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "url": "http://www.yakandyeti.com/",
+      "id": "nepal-b3129ed1e7eb533ce7a2"
+    },
+    {
+      "name": "3 rooms by Pauline",
+      "kind": "stay",
+      "locality": "Kathmandu/Central",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "address": "Tanka Prasad Ghumti Sadak, Kathmandu 44600",
+      "id": "nepal-d409e566df68926687dc"
+    },
+    {
+      "name": "Kathmandu/Central",
+      "kind": "area",
+      "locality": "Kathmandu/Central",
+      "lat": 27.70568,
+      "lon": 85.31526,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FCentral",
+      "id": "nepal-583e8df175a153dca503"
+    },
+    {
+      "name": "Swayambhunath",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.715,
+      "lon": 85.29,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Manjushree Marg",
+      "price": "Foreigners: Rs200 for single entry; Rs750 for a multiple entry pass",
+      "url": "http://swayambhu.buddhism-foundation.org/",
+      "id": "nepal-624b71dc7738e4aef0c4"
+    },
+    {
+      "name": "Freak Street",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.70301,
+      "lon": 85.30764,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "id": "nepal-038ecc2f4166d289ee78"
+    },
+    {
+      "name": "Thamel Chowk",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.71586,
+      "lon": 85.31133,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "id": "nepal-70d607ae91b66aae3385"
+    },
+    {
+      "name": "Garden of Dreams",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.71403,
+      "lon": 85.31479,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Tridevi Sadak",
+      "price": "Rs400 for non-Nepalese, Rs150 for Nepalese",
+      "url": "http://www.gardenofdreams.org.np/",
+      "id": "nepal-427096412feee02b2e45"
+    },
+    {
+      "name": "Lakhu Phalechā",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.70374,
+      "lon": 85.30559,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Maru Square",
+      "id": "nepal-cfb548faf725c3ec1186"
+    },
+    {
+      "name": "Moti Azima Gallery",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "id": "nepal-757a09b87febaf71ba80"
+    },
+    {
+      "name": "Jagannath Temple",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.70467,
+      "lon": 85.30729,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Hanuman Dhoka Road",
+      "id": "nepal-8ecc7d0eac1a7a929a8e"
+    },
+    {
+      "name": "Kumari Palace",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.70376,
+      "lon": 85.30655,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "id": "nepal-78a8afb81b2b96cee7f5"
+    },
+    {
+      "name": "Kathesimbu Stupa",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.7096,
+      "lon": 85.30989,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Naghal, Nagha Kwado Galli",
+      "id": "nepal-15ee88b532a122d06817"
+    },
+    {
+      "name": "Kasthamandap",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.704,
+      "lon": 85.30583,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "id": "nepal-508e032ba79b9f27455e"
+    },
+    {
+      "name": "Kageshwori Mandir",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.70488,
+      "lon": 85.30739,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Hanuman Dhoka Road",
+      "id": "nepal-2732629734d630f6ff95"
+    },
+    {
+      "name": "Kakeshwar Temple",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.705,
+      "lon": 85.30749,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Hanuman Dhoka Road",
+      "id": "nepal-735556b58699c8acda57"
+    },
+    {
+      "name": "Kotilingeshwor Mahadev Temple",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.70513,
+      "lon": 85.30722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Hanuman Dhoka Road",
+      "id": "nepal-2124a70b00272f38e588"
+    },
+    {
+      "name": "Maju Deval",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.70428,
+      "lon": 85.30628,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "id": "nepal-0c3208624c6d466a1674"
+    },
+    {
+      "name": "Narayan Temple",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.70448,
+      "lon": 85.30637,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "id": "nepal-f803226acf0e97f73529"
+    },
+    {
+      "name": "Nasal Chowk",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "id": "nepal-7be80e63e89f626a3b6c"
+    },
+    {
+      "name": "Panch Mukhi Hanuman Temple",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.70444,
+      "lon": 85.30779,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Khadga Chuk?",
+      "id": "nepal-a42bb109e7728fb58fe4"
+    },
+    {
+      "name": "Taleju Temple",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "id": "nepal-da5777cb7d6abe475e7f"
+    },
+    {
+      "name": "Mahendra Museum",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Ganga Path",
+      "id": "nepal-8fb58a54573a281a3447"
+    },
+    {
+      "name": "National Museum",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.70561,
+      "lon": 85.28884,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Chhauni Road or Museum Marg",
+      "url": "http://www.asiatravel.com/nepal/nepalgal.html",
+      "id": "nepal-dbde054b8db5b9b40863"
+    },
+    {
+      "name": "Military Museum",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.70653,
+      "lon": 85.28957,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Chhauni Rd",
+      "id": "nepal-1895f569987ea9f35e07"
+    },
+    {
+      "name": "The Natural History Museum",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.7146,
+      "lon": 85.2879,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Manjushree Marg (मञ्जुश्री मार्ग)",
+      "url": "http://www.asiatravel.com/nepal/nepalgal.html",
+      "id": "nepal-c84429ea9e3a6245e4d1"
+    },
+    {
+      "name": "Royal Mahendra Museum",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.70411,
+      "lon": 85.30776,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Durbar Square",
+      "price": "Entry is free if you have a ticket for the Durbar Square for Rs1000",
+      "id": "nepal-fdefbdc8cbb494a1baad"
+    },
+    {
+      "name": "Museum Of Nepali Art",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "inside Kathmandu Guest House",
+      "price": "Rs500",
+      "id": "nepal-ad845aa6c76110871b8b"
+    },
+    {
+      "name": "Tribhuvan Museum",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.704283,
+      "lon": 85.307355,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "id": "nepal-292c044df35d5b4b695a"
+    },
+    {
+      "name": "Evangelical Ashish Church",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.73,
+      "lon": 85.31802,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Samakhushi - Ranibari Rd",
+      "id": "nepal-22a65682d2fac127333e"
+    },
+    {
+      "name": "Dhansā Degah",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.70379,
+      "lon": 85.30603,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Maru Square",
+      "id": "nepal-9b29978dfb4c41b47858"
+    },
+    {
+      "name": "Bhimsen Temple",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.70251,
+      "lon": 85.30421,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Paropakar Marg",
+      "id": "nepal-e1675ea1578c34028842"
+    },
+    {
+      "name": "Gakuti",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.7039,
+      "lon": 85.30564,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "id": "nepal-652d6e1e8ee3e9fb6942"
+    },
+    {
+      "name": "Gompa and Huge Prayer Wheel",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.71509,
+      "lon": 85.29328,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "id": "nepal-a1c3747dba59910bd5b3"
+    },
+    {
+      "name": "Ichangu Narayan Temple",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.73002,
+      "lon": 85.26391,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Ichangu VDC",
+      "id": "nepal-8dbabee3e543778a14e3"
+    },
+    {
+      "name": "Indrani Temple",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.71399,
+      "lon": 85.30252,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Indrani Path",
+      "id": "nepal-b9f77c0891bba76c48b6"
+    },
+    {
+      "name": "Kuleshwor Mahadev Temple",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.69215,
+      "lon": 85.30078,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Kuleshwor Marg",
+      "id": "nepal-0c35436ba8106d037cc1"
+    },
+    {
+      "name": "Tarani Devi Temple",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.70507,
+      "lon": 85.30844,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Makha Galli",
+      "id": "nepal-c8c90de7c1ea02bcfa08"
+    },
+    {
+      "name": "The Temple of Maru Ganedya",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.70391,
+      "lon": 85.30573,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Maru Square",
+      "id": "nepal-c9da81f3b47142e01050"
+    },
+    {
+      "name": "Shantipura Building",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.71566,
+      "lon": 85.29044,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "id": "nepal-fe612c7bdcb0f43a85a9"
+    },
+    {
+      "name": "Baisdhara park",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.72452,
+      "lon": 85.31456,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Balaju",
+      "id": "nepal-5b7d40e18a3e1c7ecb44"
+    },
+    {
+      "name": "National Table Tennis Training Center",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.71823,
+      "lon": 85.31485,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Lainchaur Marg",
+      "id": "nepal-e759b911d8642b39ec00"
+    },
+    {
+      "name": "T U Cricket Stadium",
+      "kind": "do",
+      "locality": "Kathmandu/West",
+      "lat": 27.71823,
+      "lon": 85.31485,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "T U, Kirtipur",
+      "id": "nepal-462bf9fde7e976188993"
+    },
+    {
+      "name": "Gupta",
+      "kind": "eat",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Chhetrapati Chowk",
+      "id": "nepal-ad76f03e9949ab3e6f3e"
+    },
+    {
+      "name": "Helena's Rooftop Restaurant",
+      "kind": "eat",
+      "locality": "Kathmandu/West",
+      "lat": 27.71362,
+      "lon": 85.31046,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Chaksibari Marg",
+      "price": "chicken tikka masala costs around Rs350",
+      "url": "http://www.helenasrestaurant.com/",
+      "id": "nepal-479761e0d7d394c9f14a"
+    },
+    {
+      "name": "Krua Thai",
+      "kind": "eat",
+      "locality": "Kathmandu/West",
+      "lat": 27.71674,
+      "lon": 85.31046,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Z Marg",
+      "id": "nepal-84cf14d587d6a7361588"
+    },
+    {
+      "name": "New Orleans",
+      "kind": "eat",
+      "locality": "Kathmandu/West",
+      "lat": 27.71524,
+      "lon": 85.31059,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Mandala St,",
+      "price": "Rs200-400",
+      "id": "nepal-ef9123dfde48c0daa860"
+    },
+    {
+      "name": "Northfield Cafe",
+      "kind": "eat",
+      "locality": "Kathmandu/West",
+      "lat": 27.71539,
+      "lon": 85.31034,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Thamel Marg",
+      "price": "Rs100-300",
+      "id": "nepal-7b646f76558743de5d1b"
+    },
+    {
+      "name": "OR2K",
+      "kind": "eat",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Mandala St",
+      "url": "http://www.or2k.net/",
+      "id": "nepal-246caef4393e441b3045"
+    },
+    {
+      "name": "Roadhouse Cafe",
+      "kind": "eat",
+      "locality": "Kathmandu/West",
+      "lat": 27.71434,
+      "lon": 85.31077,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Chaksibari Road, Thamel",
+      "price": "Beer: Rs400; Pizza: Rs500-600.",
+      "id": "nepal-c07913eaebaa682c8c41"
+    },
+    {
+      "name": "Rum Doodle",
+      "kind": "eat",
+      "locality": "Kathmandu/West",
+      "lat": 27.71361,
+      "lon": 85.31084,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Amrit Marg",
+      "url": "http://www.therumdoodle.com/",
+      "id": "nepal-decff563d6c89e82fb8f"
+    },
+    {
+      "name": "Thamel House Restaurant",
+      "kind": "eat",
+      "locality": "Kathmandu/West",
+      "lat": 27.71692,
+      "lon": 85.31193,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Amrit marg",
+      "url": "https://www.facebook.com/thamelhouse/",
+      "id": "nepal-5d6729ff9902016a03fb"
+    },
+    {
+      "name": "Chikusa Café",
+      "kind": "eat",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Jyatha road, Thamel",
+      "url": "http://www.chikusacafe.com/",
+      "id": "nepal-50fc7e404a3607625950"
+    },
+    {
+      "name": "Gaia Restaurant and Coffee Shop",
+      "kind": "eat",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Jyatha, Thamel",
+      "url": "https://gaia-restaurant.com/",
+      "id": "nepal-3ada27bf248fd0e4f374"
+    },
+    {
+      "name": "Mitho",
+      "kind": "eat",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "243 J.P. Road",
+      "url": "https://mithorestaurant.com/",
+      "id": "nepal-03e9c263c4e78ab745ab"
+    },
+    {
+      "name": "Falcha Cafe",
+      "kind": "eat",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "url": "https://www.facebook.com/FalchaRestaurant/",
+      "id": "nepal-2117c108cc0c196749ba"
+    },
+    {
+      "name": "Kafemandu",
+      "kind": "eat",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Manjusree Galli",
+      "price": "Cappuccino - Nrs230",
+      "id": "nepal-35a51bc86970a4cde167"
+    },
+    {
+      "name": "Irish Pub Lazimpat",
+      "kind": "eat",
+      "locality": "Kathmandu/West",
+      "lat": 27.71849,
+      "lon": 85.31766,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Ananda Bhawan, Uttar Dhoka Sadak",
+      "id": "nepal-32a5935cb29252afa1f2"
+    },
+    {
+      "name": "Jessy Penny",
+      "kind": "eat",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Freak Street",
+      "id": "nepal-f5c95051a54a57d0ead3"
+    },
+    {
+      "name": "Alobar1000",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "214 Kesar Mahal Marg, Thamel-29",
+      "price": "Dorm bed: Rs300; Private room Rs1,500",
+      "url": "http://www.alobar1000.com/",
+      "id": "nepal-efdcb9bb9e7ab91b9f66"
+    },
+    {
+      "name": "Avalon House",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "lat": 27.71873,
+      "lon": 85.31189,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "price": "Single USD15, double USD20",
+      "url": "http://www.avalonhouse.com.np/",
+      "id": "nepal-edade3d859be23c996b3"
+    },
+    {
+      "name": "Avataar Kathmandu Hotel - Thamel",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "lat": 27.7169,
+      "lon": 85.30976,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Z Street, Thamel",
+      "price": "US$18 (Apr 2022)",
+      "id": "nepal-05d6b17d103fc07abf47"
+    },
+    {
+      "name": "Chillout Resort",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "price": "Dorm: US$6; single: US$10",
+      "url": "https://www.facebook.com/ChilloutResortPvtLtd",
+      "id": "nepal-64ab8e3a27e14c5708a5"
+    },
+    {
+      "name": "Hotel Ashoka",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Jyatha, Thamel, Kathmandu",
+      "id": "nepal-a980759133cacf1e1dcb"
+    },
+    {
+      "name": "Hotel Backpackers Inn",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Kumari Marga, Jyatha Thamal",
+      "url": "http://hotelbackpackers.com.np/",
+      "id": "nepal-d98598c90bfc07767468"
+    },
+    {
+      "name": "Big Tree Hostel",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "lat": 27.7167499,
+      "lon": 85.3076462,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "on Pipalbote Marg, at the square with the holy tree",
+      "price": "Dorms from Rs500, private rooms from Rs600",
+      "url": "https://www.facebook.com/NepalBigTreeHostel/",
+      "id": "nepal-fd1ba9dab8df0445ea19"
+    },
+    {
+      "name": "Hotel Blue Horizon",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "lat": 27.71596,
+      "lon": 85.31396,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Keshar Mahal Marg",
+      "price": "US$12-27",
+      "url": "http://hotelbluehorizon.com/",
+      "id": "nepal-392b5f0f7a9fdd78cf4f"
+    },
+    {
+      "name": "Hotel Down Town",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "price": "US$5",
+      "id": "nepal-25c1945f9ed3c0852685"
+    },
+    {
+      "name": "Hotel Impala Garden",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "url": "http://www.hotelimpala.com.np/",
+      "id": "nepal-38f06ee55ddd5d17521e"
+    },
+    {
+      "name": "Potala Tourist Home",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "lat": 27.71481,
+      "lon": 85.31339,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Tredevi Marg",
+      "id": "nepal-994b4d5c05f343b4c6b6"
+    },
+    {
+      "name": "Hotel Travelers Home",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "JP Road, Thamel",
+      "price": "USD35-45",
+      "url": "http://travelershome.com.np/",
+      "id": "nepal-9680695f8cb91b14cc27"
+    },
+    {
+      "name": "Kathmandu Peace Guesthouse",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "price": "US$8-21",
+      "url": "http://www.ktmpeaceguesthouse.com/",
+      "id": "nepal-a79e3c6dc27ee948e197"
+    },
+    {
+      "name": "King's Land",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Thamel-29, Bhagawatishan",
+      "price": "US$6-15",
+      "id": "nepal-e968aed0a850464a3633"
+    },
+    {
+      "name": "Lhasa Guest House",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "id": "nepal-f4d0a1b84519123ed90f"
+    },
+    {
+      "name": "Millennium Guest House",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Kaldhara, Thamel",
+      "price": "US$5-10",
+      "id": "nepal-9851fee05e8ff48df748"
+    },
+    {
+      "name": "Nirvana Peace Home",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "url": "http://www.nirvanapeacehome.com/",
+      "id": "nepal-af2c8fb0623220c878c5"
+    },
+    {
+      "name": "Shangrila Guest House",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Jyatha, Thamel",
+      "id": "nepal-3bed683004ad6fe3f0ab"
+    },
+    {
+      "name": "Sparkling Turtle Backpackers Hostel",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "url": "http://www.thesparklingturtle.com/",
+      "id": "nepal-bf68a9663a5153658161"
+    },
+    {
+      "name": "Student Guest House",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "price": "Rs600 for a double room",
+      "id": "nepal-e82d65c85a41c136d052"
+    },
+    {
+      "name": "Sun Rise Cottage",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "price": "Rs500-800",
+      "id": "nepal-4b33b540b845759078a2"
+    },
+    {
+      "name": "Hotel Encounter Nepal",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "url": "http://www.encounternepal.com/index.php",
+      "id": "nepal-43c1c42cb3ef8fa30152"
+    },
+    {
+      "name": "Hotel Ganesh Himal",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Ikhapokhari Marg, Chettrapati, Thamel",
+      "url": "http://www.hotelganeshhimal.com/",
+      "id": "nepal-896750bde47c33d49f3a"
+    },
+    {
+      "name": "Hotel Harati",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Gangalal Marg",
+      "url": "https://haratihotel.com/",
+      "id": "nepal-20c81a17b9224c4c8735"
+    },
+    {
+      "name": "Mi Casa Hotel",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "lat": 27.7148,
+      "lon": 85.31309,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Thamel Marg",
+      "price": "US$50-70 per room",
+      "url": "http://www.micasanepal.com/",
+      "id": "nepal-c1e4d7644fec3d351339"
+    },
+    {
+      "name": "Kathmandu Guest House",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "lat": 27.71517,
+      "lon": 85.31019,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "url": "https://ktmgh.com/kathmandu-guest-house/",
+      "id": "nepal-175683069c5fa3e36c53"
+    },
+    {
+      "name": "Hotel Utse",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "lat": 27.71225,
+      "lon": 85.31232,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Amrit Marg, Jyatha, Thamel.",
+      "url": "http://www.utsehotel.com/",
+      "id": "nepal-c9c405473f7805141384"
+    },
+    {
+      "name": "Tibet Guest House",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "url": "http://www.tibetguesthouse.com/",
+      "id": "nepal-90c72857e10f1830c72b"
+    },
+    {
+      "name": "Sacred Valley Inn - Kathmandu",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "lat": 27.71264,
+      "lon": 85.31269,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Brahma Kumari Marg, Thamel",
+      "price": "US$25-50",
+      "url": "http://www.sacredvalleyinn.com/",
+      "id": "nepal-d97d7e31e19203474db7"
+    },
+    {
+      "name": "Kathmandu Sunny Hotel",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "lat": 27.71829,
+      "lon": 85.30851,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Ganesh Raj Marg, Paknajol Height",
+      "price": "US$25",
+      "url": "https://www.kathmandusunnyhotel.com/",
+      "id": "nepal-57c77303b0d180b56d66"
+    },
+    {
+      "name": "Institute of Natural Medicine",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Paknajol, Thamel",
+      "url": "http://www.naturalyogainnepal.com/",
+      "id": "nepal-ac05a49ea49c0855114f"
+    },
+    {
+      "name": "The Malla Hotel",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "lat": 27.71727,
+      "lon": 85.31412,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Lekhnath Marg",
+      "price": "From USD170",
+      "url": "http://www.themallahotel.com/",
+      "id": "nepal-9888efe161d9550547eb"
+    },
+    {
+      "name": "Shangri-La Hotel",
+      "kind": "stay",
+      "locality": "Kathmandu/West",
+      "lat": 27.72532,
+      "lon": 85.32228,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "address": "Lazimpat Rd, Lazimpat",
+      "price": "Deluxe room/Executive club room/ Junior suite room UUSD105 / 120 / 210",
+      "url": "http://www.hotelshangrila.com/#",
+      "id": "nepal-cfb04eacec0a1171d7d8"
+    },
+    {
+      "name": "Kathmandu/West",
+      "kind": "area",
+      "locality": "Kathmandu/West",
+      "lat": 27.71516,
+      "lon": 85.31005,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kathmandu%2FWest",
+      "id": "nepal-77d92303501ab7f71b3e"
+    },
+    {
+      "name": "Chhukhung",
+      "kind": "area",
+      "locality": "Khumbu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khumbu",
+      "id": "nepal-6f464e5f9cfbd1b7d4dc"
+    },
+    {
+      "name": "Dingboche",
+      "kind": "area",
+      "locality": "Khumbu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khumbu",
+      "id": "nepal-48f8fa2c8ef57f66e78f"
+    },
+    {
+      "name": "Ghat",
+      "kind": "area",
+      "locality": "Khumbu",
+      "lat": 27.724,
+      "lon": 86.715,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khumbu",
+      "id": "nepal-89c8bed1dbfc20ed9095"
+    },
+    {
+      "name": "Gokyo",
+      "kind": "area",
+      "locality": "Khumbu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khumbu",
+      "id": "nepal-7015b3d9386e2215be27"
+    },
+    {
+      "name": "Khumjung",
+      "kind": "area",
+      "locality": "Khumbu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khumbu",
+      "id": "nepal-8616d14b35b9ccbb7070"
+    },
+    {
+      "name": "Khunde",
+      "kind": "area",
+      "locality": "Khumbu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khumbu",
+      "id": "nepal-ba089d2a3b90a84c630d"
+    },
+    {
+      "name": "Lukla",
+      "kind": "area",
+      "locality": "Khumbu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khumbu",
+      "id": "nepal-3f797d6957d128dc8c05"
+    },
+    {
+      "name": "Monju",
+      "kind": "area",
+      "locality": "Khumbu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khumbu",
+      "id": "nepal-151cbbb802d3cffbf9d1"
+    },
+    {
+      "name": "Namche Bazaar",
+      "kind": "area",
+      "locality": "Khumbu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khumbu",
+      "id": "nepal-4a3aa24dd5e1f225c824"
+    },
+    {
+      "name": "Pangboche",
+      "kind": "area",
+      "locality": "Khumbu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khumbu",
+      "id": "nepal-553da659ccec07926944"
+    },
+    {
+      "name": "Pheriche",
+      "kind": "area",
+      "locality": "Khumbu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khumbu",
+      "id": "nepal-782a8329212d9116e419"
+    },
+    {
+      "name": "Salleri",
+      "kind": "area",
+      "locality": "Khumbu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khumbu",
+      "id": "nepal-2566ae9f020aaa5fce61"
+    },
+    {
+      "name": "Tengboche",
+      "kind": "area",
+      "locality": "Khumbu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khumbu",
+      "id": "nepal-73c2ce86f6b1047602d0"
+    },
+    {
+      "name": "Thame",
+      "kind": "area",
+      "locality": "Khumbu",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khumbu",
+      "id": "nepal-0ba0a28aebb4a11cf825"
+    },
+    {
+      "name": "Khumbu",
+      "kind": "area",
+      "locality": "Khumbu",
+      "lat": 27.8167,
+      "lon": 86.7167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Khumbu",
+      "id": "nepal-7591ba14ec9c77297717"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 6 distinct public Wikivoyage source pages; attempted 6 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Destination article routing (regional/landmark guides may use a nearby gateway): Everest region → Khumbu."
+}

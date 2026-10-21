@@ -1,0 +1,94 @@
+{
+  "sources": [
+    {
+      "title": "Equatorial Guinea",
+      "url": "https://en.wikivoyage.org/wiki/Equatorial_Guinea",
+      "checkedAt": "2026-10-21T08:09:34.095Z"
+    },
+    {
+      "title": "Ciudad de la Paz",
+      "url": "https://en.wikivoyage.org/wiki/Ciudad_de_la_Paz",
+      "checkedAt": "2026-10-21T08:09:36.217Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Acalayong",
+      "kind": "area",
+      "locality": "Equatorial Guinea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Equatorial_Guinea",
+      "id": "equatorial-guinea-d76ecc3e245f02bd1260"
+    },
+    {
+      "name": "Bata",
+      "kind": "area",
+      "locality": "Equatorial Guinea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Equatorial_Guinea",
+      "id": "equatorial-guinea-c51482a99f7ae4a4a282"
+    },
+    {
+      "name": "Ciudad de la Paz",
+      "kind": "area",
+      "locality": "Equatorial Guinea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Equatorial_Guinea",
+      "id": "equatorial-guinea-074d393b27c24a2bf49c"
+    },
+    {
+      "name": "Kogo",
+      "kind": "area",
+      "locality": "Equatorial Guinea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Equatorial_Guinea",
+      "id": "equatorial-guinea-9fb0b446c377f55dcd01"
+    },
+    {
+      "name": "Luba",
+      "kind": "area",
+      "locality": "Equatorial Guinea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Equatorial_Guinea",
+      "id": "equatorial-guinea-7491c97a72058b521ab9"
+    },
+    {
+      "name": "Ebibeyin",
+      "kind": "area",
+      "locality": "Equatorial Guinea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Equatorial_Guinea",
+      "id": "equatorial-guinea-8c5bf857a2212b07ddc2"
+    },
+    {
+      "name": "Mongomo",
+      "kind": "area",
+      "locality": "Equatorial Guinea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Equatorial_Guinea",
+      "id": "equatorial-guinea-091b163cd670e545d9dc"
+    },
+    {
+      "name": "Malabo",
+      "kind": "area",
+      "locality": "Equatorial Guinea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Equatorial_Guinea",
+      "id": "equatorial-guinea-607a17744c55392b2b53"
+    },
+    {
+      "name": "Grand Hotel Djibloho",
+      "kind": "stay",
+      "locality": "Ciudad de la Paz",
+      "lat": 1.5733,
+      "lon": 10.85,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ciudad_de_la_Paz",
+      "price": "From €113",
+      "url": "https://www.grandhoteldjibloho.com/",
+      "id": "equatorial-guinea-7d7a1e5eec3cb84ca367"
+    },
+    {
+      "name": "Ciudad de la Paz",
+      "kind": "area",
+      "locality": "Ciudad de la Paz",
+      "lat": 1.591667,
+      "lon": 10.822222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ciudad_de_la_Paz",
+      "id": "equatorial-guinea-d6c6cd1065058cb0f2b8"
+    }
+  ],
+  "status": "partial",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Missing categories: eat, do."
+}

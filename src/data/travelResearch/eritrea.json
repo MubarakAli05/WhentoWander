@@ -1,0 +1,243 @@
+{
+  "sources": [
+    {
+      "title": "Eritrea",
+      "url": "https://en.wikivoyage.org/wiki/Eritrea",
+      "checkedAt": "2026-10-21T08:09:35.809Z"
+    },
+    {
+      "title": "Asmara",
+      "url": "https://en.wikivoyage.org/wiki/Asmara",
+      "checkedAt": "2026-10-21T08:09:38.243Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Asmara",
+      "kind": "area",
+      "locality": "Eritrea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Eritrea",
+      "id": "eritrea-f1262477cd360e63357b"
+    },
+    {
+      "name": "Keren",
+      "kind": "area",
+      "locality": "Eritrea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Eritrea",
+      "id": "eritrea-2d0fc070e69a5b808385"
+    },
+    {
+      "name": "Massawa",
+      "kind": "area",
+      "locality": "Eritrea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Eritrea",
+      "id": "eritrea-ba2f119c93f0ec0d0717"
+    },
+    {
+      "name": "Teseney",
+      "kind": "area",
+      "locality": "Eritrea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Eritrea",
+      "id": "eritrea-b53761315743ad156392"
+    },
+    {
+      "name": "Senafe",
+      "kind": "area",
+      "locality": "Eritrea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Eritrea",
+      "id": "eritrea-53576ebf7a4b47bfcb18"
+    },
+    {
+      "name": "Assab",
+      "kind": "area",
+      "locality": "Eritrea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Eritrea",
+      "id": "eritrea-46cf9905a54084f4d8cb"
+    },
+    {
+      "name": "Nakfa",
+      "kind": "area",
+      "locality": "Eritrea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Eritrea",
+      "id": "eritrea-cb3954bbd6b350c72655"
+    },
+    {
+      "name": "Asmara Theatre",
+      "kind": "do",
+      "locality": "Asmara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Asmara",
+      "id": "eritrea-cc9dcf14df4816858a70"
+    },
+    {
+      "name": "Great Mosque of Asmara",
+      "kind": "do",
+      "locality": "Asmara",
+      "lat": 15.338985,
+      "lon": 38.941605,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Asmara",
+      "id": "eritrea-69fed6044a325d9a126b"
+    },
+    {
+      "name": "National Museum of Eritrea",
+      "kind": "do",
+      "locality": "Asmara",
+      "lat": 15.333333,
+      "lon": 38.927222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Asmara",
+      "id": "eritrea-2b6b66a5e7e098ba7464"
+    },
+    {
+      "name": "Church of Our Lady of the Rosary",
+      "kind": "do",
+      "locality": "Asmara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Asmara",
+      "id": "eritrea-07d0a8205656a203ad7e"
+    },
+    {
+      "name": "Enda Mariam Cathedral",
+      "kind": "do",
+      "locality": "Asmara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Asmara",
+      "address": "Arbate Asmara St",
+      "id": "eritrea-21562c40ddbe52f18d3f"
+    },
+    {
+      "name": "Bar Zilli",
+      "kind": "eat",
+      "locality": "Asmara",
+      "lat": 15.3317,
+      "lon": 38.9295,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Asmara",
+      "address": "Sematat Ave",
+      "id": "eritrea-bff36d1cb13d0c9c9d4e"
+    },
+    {
+      "name": "Albergo Italia",
+      "kind": "eat",
+      "locality": "Asmara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Asmara",
+      "address": "for authentic Italian food",
+      "id": "eritrea-c701a7a10ebd83e4d3fb"
+    },
+    {
+      "name": "Casa Degli Italiani",
+      "kind": "eat",
+      "locality": "Asmara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Asmara",
+      "id": "eritrea-8e910841141d574039ef"
+    },
+    {
+      "name": "Alba Bistro",
+      "kind": "eat",
+      "locality": "Asmara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Asmara",
+      "address": "Opp. Post Office",
+      "id": "eritrea-ba4b82bde1c77f702119"
+    },
+    {
+      "name": "The Spaghetti and Pizza House",
+      "kind": "eat",
+      "locality": "Asmara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Asmara",
+      "address": "Harnet Avenue",
+      "id": "eritrea-92741fc33613a4152b6d"
+    },
+    {
+      "name": "Rooftop Garden",
+      "kind": "eat",
+      "locality": "Asmara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Asmara",
+      "id": "eritrea-90d60b9b0e5c39297f16"
+    },
+    {
+      "name": "Bar Alfa Romeo",
+      "kind": "eat",
+      "locality": "Asmara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Asmara",
+      "address": "close to Alfa Romeo",
+      "id": "eritrea-d0ee6d0755b20699eb6d"
+    },
+    {
+      "name": "Peacock Bar",
+      "kind": "eat",
+      "locality": "Asmara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Asmara",
+      "address": "close to Alfa Romeo",
+      "id": "eritrea-2f9668ae0221c6f74577"
+    },
+    {
+      "name": "The Green Pub",
+      "kind": "eat",
+      "locality": "Asmara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Asmara",
+      "address": "at Asmara Palace Hotel",
+      "id": "eritrea-2c519fb02c4f505cb727"
+    },
+    {
+      "name": "Hdmona Restaurant and Club",
+      "kind": "eat",
+      "locality": "Asmara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Asmara",
+      "address": "Expo Grounds",
+      "id": "eritrea-64229346c8378fc1da93"
+    },
+    {
+      "name": "Zara Bar",
+      "kind": "eat",
+      "locality": "Asmara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Asmara",
+      "address": "near the Blue Bird restaurant",
+      "id": "eritrea-419b723a32d8a677f8f4"
+    },
+    {
+      "name": "Albergo Italia",
+      "kind": "stay",
+      "locality": "Asmara",
+      "lat": 15.338251,
+      "lon": 38.935202,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Asmara",
+      "address": "Nakfa Avenue, 13",
+      "url": "http://www.albergoitaliaasmara.com/",
+      "id": "eritrea-b0ea1069e577646ccc14"
+    },
+    {
+      "name": "Asmara Palace Hotel",
+      "kind": "stay",
+      "locality": "Asmara",
+      "lat": 15.31419,
+      "lon": 38.91231,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Asmara",
+      "url": "http://www.hotelasmarapalace.com/",
+      "id": "eritrea-e1ab75d27208c16bf163"
+    },
+    {
+      "name": "Africa Pension",
+      "kind": "stay",
+      "locality": "Asmara",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Asmara",
+      "address": "Keskesse Street, across from Italian Embassy",
+      "id": "eritrea-dc5100507286df4181a8"
+    },
+    {
+      "name": "Nyala Hotel",
+      "kind": "stay",
+      "locality": "Asmara",
+      "lat": 15.331064,
+      "lon": 38.928925,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Asmara",
+      "address": "Martyrs Avenue",
+      "id": "eritrea-2127c80208c671ddc40a"
+    },
+    {
+      "name": "Asmara",
+      "kind": "area",
+      "locality": "Asmara",
+      "lat": 15.333333,
+      "lon": 38.933333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Asmara",
+      "id": "eritrea-976135a048c1237c2c7e"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

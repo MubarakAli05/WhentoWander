@@ -1,0 +1,542 @@
+{
+  "sources": [
+    {
+      "title": "Kyrgyzstan",
+      "url": "https://en.wikivoyage.org/wiki/Kyrgyzstan",
+      "checkedAt": "2026-10-21T08:10:21.710Z"
+    },
+    {
+      "title": "Bishkek",
+      "url": "https://en.wikivoyage.org/wiki/Bishkek",
+      "checkedAt": "2026-10-21T08:10:24.647Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Bishkek",
+      "kind": "area",
+      "locality": "Kyrgyzstan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyrgyzstan",
+      "id": "kyrgyzstan-bc084d645c378ef4608f"
+    },
+    {
+      "name": "Arslanbob",
+      "kind": "area",
+      "locality": "Kyrgyzstan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyrgyzstan",
+      "id": "kyrgyzstan-812ccd3ad4ef600eecb0"
+    },
+    {
+      "name": "Balykchy",
+      "kind": "area",
+      "locality": "Kyrgyzstan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyrgyzstan",
+      "id": "kyrgyzstan-a90a2c156f3fc108a966"
+    },
+    {
+      "name": "Jalal-Abad",
+      "kind": "area",
+      "locality": "Kyrgyzstan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyrgyzstan",
+      "id": "kyrgyzstan-795218cc59ef0ea42029"
+    },
+    {
+      "name": "Karakol",
+      "kind": "area",
+      "locality": "Kyrgyzstan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyrgyzstan",
+      "id": "kyrgyzstan-ea1917c436e77642cdca"
+    },
+    {
+      "name": "Kochkor",
+      "kind": "area",
+      "locality": "Kyrgyzstan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyrgyzstan",
+      "id": "kyrgyzstan-625302471f4e88bd8b11"
+    },
+    {
+      "name": "Naryn",
+      "kind": "area",
+      "locality": "Kyrgyzstan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyrgyzstan",
+      "id": "kyrgyzstan-eca7aba4a9756aa53e11"
+    },
+    {
+      "name": "Osh",
+      "kind": "area",
+      "locality": "Kyrgyzstan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyrgyzstan",
+      "id": "kyrgyzstan-3ecfa064ca8d49916b62"
+    },
+    {
+      "name": "Talas",
+      "kind": "area",
+      "locality": "Kyrgyzstan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kyrgyzstan",
+      "id": "kyrgyzstan-ea23cfa0ecf6e1652e83"
+    },
+    {
+      "name": "Ala-Too Square",
+      "kind": "do",
+      "locality": "Bishkek",
+      "lat": 42.876389,
+      "lon": 74.603889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "id": "kyrgyzstan-4d9514068f6284daa233"
+    },
+    {
+      "name": "National Historical Museum",
+      "kind": "do",
+      "locality": "Bishkek",
+      "lat": 42.87773,
+      "lon": 74.60383,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "Ala Too Square, Chuy Ave",
+      "price": "200 som",
+      "id": "kyrgyzstan-e0ae13d8dac8cc314208"
+    },
+    {
+      "name": "M V Frunze Museum",
+      "kind": "do",
+      "locality": "Bishkek",
+      "lat": 42.88139,
+      "lon": 74.61082,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "364 Ul. Frunze",
+      "price": "200 som",
+      "id": "kyrgyzstan-d30c154a7d0b878c7c36"
+    },
+    {
+      "name": "Russian Orthodox Cathedral",
+      "kind": "do",
+      "locality": "Bishkek",
+      "lat": 42.8841,
+      "lon": 74.5974,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "Jibek Jolu 497",
+      "id": "kyrgyzstan-923a1152f91b50866f57"
+    },
+    {
+      "name": "Fine Arts Museum \"Gapar Aitiev\"",
+      "kind": "do",
+      "locality": "Bishkek",
+      "lat": 42.878715,
+      "lon": 74.61088,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "196 Yusup Abdrahmanov",
+      "price": "100 som",
+      "url": "http://www.artmuseum.kg/",
+      "id": "kyrgyzstan-94d41b4ebc62264928bb"
+    },
+    {
+      "name": "Victory Square",
+      "kind": "do",
+      "locality": "Bishkek",
+      "lat": 42.87923,
+      "lon": 74.61617,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "price": "Free",
+      "id": "kyrgyzstan-479be326755d0f530016"
+    },
+    {
+      "name": "Panfilov Park",
+      "kind": "do",
+      "locality": "Bishkek",
+      "lat": 42.8797,
+      "lon": 74.6002,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "id": "kyrgyzstan-c6dff63ed22b7f2c2432"
+    },
+    {
+      "name": "Zhirgal Banya",
+      "kind": "do",
+      "locality": "Bishkek",
+      "lat": 42.87219,
+      "lon": 74.61794,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "price": "150-300 som",
+      "id": "kyrgyzstan-916c6de6a654f7a1291b"
+    },
+    {
+      "name": "Karven Club",
+      "kind": "do",
+      "locality": "Bishkek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "id": "kyrgyzstan-01825005e809533bfc2e"
+    },
+    {
+      "name": "Buffet",
+      "kind": "eat",
+      "locality": "Bishkek",
+      "lat": 42.8743511,
+      "lon": 74.602806,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "VJF3+P6M (Orozbekov St)",
+      "id": "kyrgyzstan-544b746b817a1b17d4ef"
+    },
+    {
+      "name": "Grenki",
+      "kind": "eat",
+      "locality": "Bishkek",
+      "lat": 42.8719741,
+      "lon": 74.6103001,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "Toktogul St",
+      "id": "kyrgyzstan-c493899b73781b12b78c"
+    },
+    {
+      "name": "Oasis Azian Doner and Kabab",
+      "kind": "eat",
+      "locality": "Bishkek",
+      "lat": 42.8812477,
+      "lon": 74.5920406,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "122 Isanov St",
+      "id": "kyrgyzstan-fa645f48565dbe7386cf"
+    },
+    {
+      "name": "Cafe Faiza",
+      "kind": "eat",
+      "locality": "Bishkek",
+      "lat": 42.8842987,
+      "lon": 74.5872032,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "Jibek Jolu (Жибек Жолу 555)",
+      "url": "http://faiza.kg/",
+      "id": "kyrgyzstan-b168e9f0bb1fdd578cf7"
+    },
+    {
+      "name": "Dolce Vita Pizza",
+      "kind": "eat",
+      "locality": "Bishkek",
+      "lat": 42.8433169,
+      "lon": 74.5901741,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "Akhunbaeva 116a",
+      "id": "kyrgyzstan-064c443673221ae6b4c1"
+    },
+    {
+      "name": "Кафе Шао Линь (Shao Lin)",
+      "kind": "eat",
+      "locality": "Bishkek",
+      "lat": 42.8883336,
+      "lon": 74.5760593,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "Mahatma Gandhi St",
+      "id": "kyrgyzstan-88af1b72fd6be5513a0c"
+    },
+    {
+      "name": "Steinbräu Pub",
+      "kind": "eat",
+      "locality": "Bishkek",
+      "lat": 42.866829,
+      "lon": 74.622833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "Herzen St 5",
+      "url": "http://www.steinbrau.com/",
+      "id": "kyrgyzstan-b75de28731b7ef260a12"
+    },
+    {
+      "name": "Vinoteka",
+      "kind": "eat",
+      "locality": "Bishkek",
+      "lat": 42.8757636,
+      "lon": 74.5944824,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "140 Chuy Ave",
+      "id": "kyrgyzstan-7bee0e16f8704656efc5"
+    },
+    {
+      "name": "DuЭт",
+      "kind": "eat",
+      "locality": "Bishkek",
+      "lat": 42.8754577,
+      "lon": 74.5872357,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "153 Kiev St",
+      "id": "kyrgyzstan-b2340c309c2bb2de4802"
+    },
+    {
+      "name": "Cyclone",
+      "kind": "eat",
+      "locality": "Bishkek",
+      "lat": 42.875981,
+      "lon": 74.595641,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "136 Chuy Ave",
+      "url": "https://cyclone.kg/",
+      "id": "kyrgyzstan-fe4e7757c90e61c0bd6a"
+    },
+    {
+      "name": "Sierra Coffee",
+      "kind": "eat",
+      "locality": "Bishkek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "Manas 57/1",
+      "url": "http://www.sierra.kg/",
+      "id": "kyrgyzstan-ecca4e8c068c2b650ace"
+    },
+    {
+      "name": "Adriano",
+      "kind": "eat",
+      "locality": "Bishkek",
+      "lat": 42.87561,
+      "lon": 74.62182,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "Isanov 87",
+      "url": "http://www.adrianocoffee.kg/",
+      "id": "kyrgyzstan-668a270afb19861cc3fd"
+    },
+    {
+      "name": "Coffee Relax",
+      "kind": "eat",
+      "locality": "Bishkek",
+      "lat": 42.8723,
+      "lon": 74.5936,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "Toktogul Street 140",
+      "id": "kyrgyzstan-b35303994b96142b70c3"
+    },
+    {
+      "name": "Save The Ales",
+      "kind": "eat",
+      "locality": "Bishkek",
+      "lat": 42.870506,
+      "lon": 74.60955,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "id": "kyrgyzstan-fd9553c6d015424194b3"
+    },
+    {
+      "name": "12 Bar",
+      "kind": "eat",
+      "locality": "Bishkek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "Razzakova 32",
+      "url": "http://www.facebook.com/pages/Bar-12/169316186451908",
+      "id": "kyrgyzstan-e25638bbd655ef6bfd6a"
+    },
+    {
+      "name": "Metro Pub",
+      "kind": "eat",
+      "locality": "Bishkek",
+      "lat": 42.876539,
+      "lon": 74.585058,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "Chui 168",
+      "id": "kyrgyzstan-58917253187579b59124"
+    },
+    {
+      "name": "Promzona",
+      "kind": "eat",
+      "locality": "Bishkek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "16 Cholpon-Ata",
+      "price": "Entry 600 som",
+      "url": "http://www.promzona.kg/",
+      "id": "kyrgyzstan-70ffcccfd2874e3cf014"
+    },
+    {
+      "name": "Retro Metro",
+      "kind": "eat",
+      "locality": "Bishkek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "Mira 24",
+      "price": "Cover charge 1,000 som",
+      "url": "http://www.retro-metro.kg/",
+      "id": "kyrgyzstan-dbc2d246305a5c35c98b"
+    },
+    {
+      "name": "Interhouse City Centre",
+      "kind": "stay",
+      "locality": "Bishkek",
+      "lat": 42.87206,
+      "lon": 74.58995,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "170/13 Toktogul Street",
+      "price": "Dorm 500 som",
+      "id": "kyrgyzstan-2c47205a58abe3ee6102"
+    },
+    {
+      "name": "Apple Hostel",
+      "kind": "stay",
+      "locality": "Bishkek",
+      "lat": 42.885881,
+      "lon": 74.565582,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "Chymkentskaya 1b",
+      "price": "Dorm US$10, private room from US$30",
+      "url": "https://applehostel.kg/",
+      "id": "kyrgyzstan-621560d598b5f65e7419"
+    },
+    {
+      "name": "Tunduk Hostel",
+      "kind": "stay",
+      "locality": "Bishkek",
+      "lat": 42.84394,
+      "lon": 74.62384,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "Kybansky 46",
+      "price": "Dorm bed 600 som",
+      "url": "https://tunduk-hostel.kg/",
+      "id": "kyrgyzstan-b9beae6f4bd4c89eb093"
+    },
+    {
+      "name": "Futuro Hotel Bishkek",
+      "kind": "stay",
+      "locality": "Bishkek",
+      "lat": 42.87642,
+      "lon": 74.6544,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "Khivinskaya 29",
+      "price": "B&B double US$60",
+      "url": "http://futuro.kg/",
+      "id": "kyrgyzstan-906987d631ed32740281"
+    },
+    {
+      "name": "Asia Mountains",
+      "kind": "stay",
+      "locality": "Bishkek",
+      "lat": 42.864408,
+      "lon": 74.620085,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "1a Tugolbai-Ata Str",
+      "price": "B&B double US$44",
+      "url": "https://asiamountains-hotels.com/en/",
+      "id": "kyrgyzstan-76a186ac18e74e9764c6"
+    },
+    {
+      "name": "Alpinist",
+      "kind": "stay",
+      "locality": "Bishkek",
+      "lat": 42.85985,
+      "lon": 74.60018,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "Panfilov 113",
+      "price": "B&B double US$40",
+      "url": "http://www.alpinist.kg/en",
+      "id": "kyrgyzstan-bb66b50e2956da53bf35"
+    },
+    {
+      "name": "Shah Palace Hotel",
+      "kind": "stay",
+      "locality": "Bishkek",
+      "lat": 42.881,
+      "lon": 74.594,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "110 Koenkozova Street",
+      "price": "B&B double US$50",
+      "url": "http://www.shahpalace.kg/",
+      "id": "kyrgyzstan-e3e6cc3d48aa0a4a49ba"
+    },
+    {
+      "name": "Crocus Guest House",
+      "kind": "stay",
+      "locality": "Bishkek",
+      "lat": 42.8827,
+      "lon": 74.6506,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "Komsomolskaya 5",
+      "price": "B&B double US$30",
+      "url": "http://crocus.kg/en/",
+      "id": "kyrgyzstan-7b180c68614fce783b9f"
+    },
+    {
+      "name": "Dostuk Hotel Bishkek",
+      "kind": "stay",
+      "locality": "Bishkek",
+      "lat": 42.881,
+      "lon": 74.618,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "Frunze 425-B",
+      "price": "B&B double US$60",
+      "id": "kyrgyzstan-435ce8bce4d5ba7fba09"
+    },
+    {
+      "name": "Hotel Ak Keme",
+      "kind": "stay",
+      "locality": "Bishkek",
+      "lat": 42.838,
+      "lon": 74.584,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "93 Mir Ave",
+      "price": "B&B double US$80",
+      "id": "kyrgyzstan-f27b83c11b9bc070224b"
+    },
+    {
+      "name": "Smart Hotel",
+      "kind": "stay",
+      "locality": "Bishkek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "Abdrahmanova 204",
+      "price": "B&B double US$100",
+      "url": "https://www.smarthotel.kg/",
+      "id": "kyrgyzstan-d84fd80c669abc1fc9b1"
+    },
+    {
+      "name": "Hyatt Regency Bishkek",
+      "kind": "stay",
+      "locality": "Bishkek",
+      "lat": 42.88,
+      "lon": 74.613,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "191 Abdrahmanov St (formerly Sovietskaya)",
+      "price": "B&B double US$180",
+      "url": "https://www.hyatt.com/en-US/hotel/kyrgyzstan/hyatt-regency-bishkek/bishk?src=corp_lclb_gmb_seo_swa_bishk",
+      "id": "kyrgyzstan-e5b71beb08ae339dd64f"
+    },
+    {
+      "name": "Jannat Regency Hotel",
+      "kind": "stay",
+      "locality": "Bishkek",
+      "lat": 42.819,
+      "lon": 74.619,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "21/2 Aaly Tokombayev St",
+      "price": "B&B double US$150",
+      "url": "https://jannat.kg/en/",
+      "id": "kyrgyzstan-82756f84d90de408fb04"
+    },
+    {
+      "name": "Park Hotel Bishkek",
+      "kind": "stay",
+      "locality": "Bishkek",
+      "lat": 42.881,
+      "lon": 74.604,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "Orozbekova 87",
+      "price": "B&B double US$130",
+      "url": "http://www.parkhotel.kg/",
+      "id": "kyrgyzstan-0d10017377a74eb6357b"
+    },
+    {
+      "name": "Hotel Evropa",
+      "kind": "stay",
+      "locality": "Bishkek",
+      "lat": 42.872175,
+      "lon": 74.616442,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "address": "70 Ibraimova str. /Toktogula",
+      "price": "US$80",
+      "url": "http://evropa.kg/en/home/",
+      "id": "kyrgyzstan-0c0b843f663c310e6885"
+    },
+    {
+      "name": "Tokmok",
+      "kind": "area",
+      "locality": "Bishkek",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "id": "kyrgyzstan-155305be7c9da23387df"
+    },
+    {
+      "name": "Bishkek",
+      "kind": "area",
+      "locality": "Bishkek",
+      "lat": 42.874722,
+      "lon": 74.612222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bishkek",
+      "id": "kyrgyzstan-3f1801d64c0d0d8f2330"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

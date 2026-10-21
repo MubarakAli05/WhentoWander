@@ -1,0 +1,1213 @@
+{
+  "sources": [
+    {
+      "title": "Serbia",
+      "url": "https://en.wikivoyage.org/wiki/Serbia",
+      "checkedAt": "2026-10-21T08:12:10.284Z"
+    },
+    {
+      "title": "Belgrade",
+      "url": "https://en.wikivoyage.org/wiki/Belgrade",
+      "checkedAt": "2026-10-21T08:12:13.668Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Belgrade",
+      "kind": "area",
+      "locality": "Serbia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Serbia",
+      "id": "serbia-702255354397b85af90c"
+    },
+    {
+      "name": "Kragujevac",
+      "kind": "area",
+      "locality": "Serbia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Serbia",
+      "id": "serbia-f3dbc045b1e5247b5968"
+    },
+    {
+      "name": "Kraljevo",
+      "kind": "area",
+      "locality": "Serbia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Serbia",
+      "id": "serbia-0dccf08fdaad3cdb204b"
+    },
+    {
+      "name": "Niš",
+      "kind": "area",
+      "locality": "Serbia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Serbia",
+      "id": "serbia-7b29eefbf19a906210c2"
+    },
+    {
+      "name": "Novi Sad",
+      "kind": "area",
+      "locality": "Serbia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Serbia",
+      "id": "serbia-01321755242f68ece2a4"
+    },
+    {
+      "name": "Požarevac",
+      "kind": "area",
+      "locality": "Serbia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Serbia",
+      "id": "serbia-6e4ce2fbc1d8970f3349"
+    },
+    {
+      "name": "Subotica",
+      "kind": "area",
+      "locality": "Serbia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Serbia",
+      "id": "serbia-5a854ce4257f5c962342"
+    },
+    {
+      "name": "Sremska Mitrovica",
+      "kind": "area",
+      "locality": "Serbia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Serbia",
+      "id": "serbia-104701a2366a8804f8aa"
+    },
+    {
+      "name": "Vršac",
+      "kind": "area",
+      "locality": "Serbia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Serbia",
+      "id": "serbia-8e38b7877e75d4897e57"
+    },
+    {
+      "name": "Kalemegdan",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.824,
+      "lon": 20.45,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "id": "serbia-725af79d477d07c60698"
+    },
+    {
+      "name": "Military Museum",
+      "kind": "do",
+      "locality": "Belgrade",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "price": "Adult RSD350, con RSD250",
+      "url": "https://www.muzej.mod.gov.rs/",
+      "id": "serbia-5ff6625429c9cefb6bf8"
+    },
+    {
+      "name": "Belgrade Zoo",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.8255,
+      "lon": 20.4532,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Mali Kalemegdan 8",
+      "price": "Adult RSD700, child RSD500",
+      "url": "https://www.beozoovrt.rs/",
+      "id": "serbia-d7bb1dac6031ead9efbb"
+    },
+    {
+      "name": "Belgrade Cathedral",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.8182,
+      "lon": 20.4519,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Kneza Sime Markovića",
+      "price": "Free",
+      "url": "http://www.saborna-crkva.com/",
+      "id": "serbia-6482fe30be1fc55684d9"
+    },
+    {
+      "name": "Museum of the Serbian Orthodox Church",
+      "kind": "do",
+      "locality": "Belgrade",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Kneza Sime Markovića 6",
+      "price": "Adult RSD200",
+      "url": "https://muzejspc.rs/",
+      "id": "serbia-efce99a345224acdd1ca"
+    },
+    {
+      "name": "Residence of Princess Ljubica",
+      "kind": "do",
+      "locality": "Belgrade",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Kneza Sime Markovića 8",
+      "price": "Adult RSD200",
+      "url": "http://www.mgb.org.rs/en/",
+      "id": "serbia-f2526b1729f5c8621f6d"
+    },
+    {
+      "name": "Museum of Applied Art",
+      "kind": "do",
+      "locality": "Belgrade",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Vuka Karadžića 18",
+      "price": "Adult RSD400",
+      "url": "https://mpu.rs/",
+      "id": "serbia-9179a620c5b342972fc4"
+    },
+    {
+      "name": "Zepter Museum",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.8186,
+      "lon": 20.4558,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Kneza Mihaila 42",
+      "price": "Adult RSD200",
+      "url": "https://zeptermuzej.rs/",
+      "id": "serbia-abc37bd06ed1b5e1a093"
+    },
+    {
+      "name": "Ethnographic Museum",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.8198,
+      "lon": 20.4565,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Studentski trg 13",
+      "price": "Adult RSD200",
+      "url": "https://www.etnografskimuzej.rs/",
+      "id": "serbia-c9dedd73a233a6698ce7"
+    },
+    {
+      "name": "Bajrakli Mosque",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.8222,
+      "lon": 20.4575,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Gospodar Jevremova 11",
+      "price": "Free",
+      "url": "https://rijaset.rs/",
+      "id": "serbia-9f453f166338e8172f90"
+    },
+    {
+      "name": "Chocolate Museum",
+      "kind": "do",
+      "locality": "Belgrade",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Pjarona De Mondezira",
+      "price": "Adult RSD1200, child RSD900",
+      "url": "https://muzejcokoladebeograd.rs/",
+      "id": "serbia-245cc81c025870bc8d17"
+    },
+    {
+      "name": "Museum of Science and Technology",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.8217,
+      "lon": 20.4649,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Skenderbegova 51",
+      "price": "Adult RSD400",
+      "url": "https://muzejnt.rs/",
+      "id": "serbia-274a433f1dda3b90a6dd"
+    },
+    {
+      "name": "Church of St Alexander Nevsky",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.8206,
+      "lon": 20.4661,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Cara Dušana 63",
+      "id": "serbia-222a8800265528fcf49d"
+    },
+    {
+      "name": "National Museum",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.8167,
+      "lon": 20.4594,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Trg republike 1а",
+      "price": "Adult RSD300, free on Sun",
+      "url": "http://www.narodnimuzej.rs/",
+      "id": "serbia-b8e7856c4fd003ce3edd"
+    },
+    {
+      "name": "Republic Square",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.816444,
+      "lon": 20.460111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "id": "serbia-bf4cae297a8d3a55d443"
+    },
+    {
+      "name": "Sukat Shalom Synagogue",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.8153,
+      "lon": 20.4572,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Maršala Birjuzova 19",
+      "id": "serbia-2f97190b319113b74934"
+    },
+    {
+      "name": "Museum of Illusions",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.8142,
+      "lon": 20.4626,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Nušićeva 11",
+      "price": "Adult RSD900, child RSD650",
+      "url": "https://muzejiluzija.rs/",
+      "id": "serbia-ff81389f78f77ae89941"
+    },
+    {
+      "name": "Old Palace",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.8108,
+      "lon": 20.4626,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Dragoslava Jovanovića 2",
+      "id": "serbia-ccdedef7b5c66ac89c3d"
+    },
+    {
+      "name": "Ivo Andric Museum",
+      "kind": "do",
+      "locality": "Belgrade",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Andrićev Venac 8",
+      "price": "Adult RSD200",
+      "url": "http://www.mgb.org.rs/",
+      "id": "serbia-c5cf74cde9f35eba4bb0"
+    },
+    {
+      "name": "Historical Museum of Serbia",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.8125,
+      "lon": 20.4637,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Nikole Pasica 11",
+      "price": "Adult RSD400",
+      "url": "https://www.imus.org.rs/",
+      "id": "serbia-4349589a7db4299ddc9f"
+    },
+    {
+      "name": "National Assembly of Serbia",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.8117,
+      "lon": 20.4659,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Trg Nikole Pašića 13",
+      "id": "serbia-af362f440b1e1dfbc82b"
+    },
+    {
+      "name": "St Mark's Church",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.8103,
+      "lon": 20.4689,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Blv Kralja Aleksandra 17",
+      "url": "https://www.crkvasvetogmarka.rs/",
+      "id": "serbia-15a7354b7016d38103fb"
+    },
+    {
+      "name": "Nikola Tesla Museum",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.8051,
+      "lon": 20.4707,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Krunska 51",
+      "price": "English guided tour RSD800, cash only",
+      "url": "https://tesla-museum.org/",
+      "id": "serbia-31b3dbcf7527dc32cebb"
+    },
+    {
+      "name": "Temple of Saint Sava",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.7981,
+      "lon": 20.4685,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Krušedolska 2a",
+      "price": "Free",
+      "url": "http://www.hramsvetogsave.com/",
+      "id": "serbia-e0578b01c4a4183ed68b"
+    },
+    {
+      "name": "Cathedral of the Assumption of the Blessed Virgin Mary",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.7944,
+      "lon": 20.4752,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "id": "serbia-427a1a03985591d99fe4"
+    },
+    {
+      "name": "Church of the Intercession of the Holy Virgin",
+      "kind": "do",
+      "locality": "Belgrade",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Kajmakčalanska 55",
+      "id": "serbia-15fd86d1a4ebf2f56ef8"
+    },
+    {
+      "name": "Presentation of the Virgin Monastery",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.7907,
+      "lon": 20.4438,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Ljube Jovanovića 8",
+      "id": "serbia-0342dede22d6d45df94e"
+    },
+    {
+      "name": "Museum of Yugoslavia and Tito's Mausoleum",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.7867,
+      "lon": 20.4517,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Mihaila Mike Jankovića 6",
+      "price": "Adult RSD600, student RSD300",
+      "url": "https://muzej-jugoslavije.org/",
+      "id": "serbia-f06b30ed35d351c1e989"
+    },
+    {
+      "name": "Museum of African Art",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.7891,
+      "lon": 20.435,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Andre Nikolića 14",
+      "price": "Adult RSD300",
+      "url": "https://www.mau.rs/en/",
+      "id": "serbia-d562628acc20fca7114d"
+    },
+    {
+      "name": "Royal Palace",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.7657,
+      "lon": 20.4533,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "price": "Adult RSD1500",
+      "url": "https://royalfamily.org/palaces/visits-to-royal-palace/",
+      "id": "serbia-f247a2b0007195f4cb59"
+    },
+    {
+      "name": "Banjica concentration camp",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.7712,
+      "lon": 20.4672,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Veljka Lukića Kurjaka 33",
+      "id": "serbia-9e16dd3521f7161f456d"
+    },
+    {
+      "name": "Rakovica Monastery",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.7304,
+      "lon": 20.4471,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Patrijarha Dimitrija 34",
+      "id": "serbia-ba1f10366233ebba897e"
+    },
+    {
+      "name": "White Hill",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.7557,
+      "lon": 20.6286,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Belo Brdo 17, Vinca",
+      "price": "Adult RSD200, conc RSD100",
+      "url": "https://vincaculture.rs/en/planning-the-visit/",
+      "id": "serbia-a3c111e2e3e390057348"
+    },
+    {
+      "name": "Mount Avala",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.6892,
+      "lon": 20.5161,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "id": "serbia-9962680dbf95990eaf02"
+    },
+    {
+      "name": "Museum of Contemporary Art",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.8196,
+      "lon": 20.4423,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Ušće 10",
+      "price": "Adult RSD600",
+      "url": "https://msub.org.rs/",
+      "id": "serbia-93eabc13e9b287028c83"
+    },
+    {
+      "name": "Great War Island",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.831,
+      "lon": 20.434,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "id": "serbia-a414fe37e0ed3c64b03f"
+    },
+    {
+      "name": "Gardoš",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.848,
+      "lon": 20.41,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "id": "serbia-d0441818e8bafdea1e64"
+    },
+    {
+      "name": "Aeronautical Museum",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.8189,
+      "lon": 20.2853,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "url": "https://www.muzejvazduhoplovstva.mod.gov.rs/",
+      "id": "serbia-1ae337991c8c353530b5"
+    },
+    {
+      "name": "Chinese Cultural Centre, Belgrade",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.825,
+      "lon": 20.419,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Trešnjinog cveta 11",
+      "id": "serbia-7930d62a17ae05487671"
+    },
+    {
+      "name": "Obedska bara",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.725,
+      "lon": 20.017,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "id": "serbia-69d3d41786df70ae7160"
+    },
+    {
+      "name": "Belgrade Arena",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.8145,
+      "lon": 20.4212,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "id": "serbia-bb15456f8c4a0b326cf8"
+    },
+    {
+      "name": "Ada Ciganlija",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.788,
+      "lon": 20.395,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "id": "serbia-4b158968f2e52e60b6c9"
+    },
+    {
+      "name": "Public Observatory",
+      "kind": "do",
+      "locality": "Belgrade",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "price": "Adult RSD400, child free",
+      "url": "https://www.adrb.org/",
+      "id": "serbia-bd5fddccaa80c24b2a86"
+    },
+    {
+      "name": "National Theatre",
+      "kind": "do",
+      "locality": "Belgrade",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Francuska 3",
+      "url": "https://www.narodnopozoriste.rs/",
+      "id": "serbia-0fb0c5dc84715be834e6"
+    },
+    {
+      "name": "Belgrade Fair",
+      "kind": "do",
+      "locality": "Belgrade",
+      "lat": 44.7968,
+      "lon": 20.4364,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "id": "serbia-37241fd0d3fa8b4bbefb"
+    },
+    {
+      "name": "KMN",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Zmaj Jovina 11",
+      "url": "https://www.kmn.rs/",
+      "id": "serbia-bc9ea5b81add736a5a03"
+    },
+    {
+      "name": "Roll Bar",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "lat": 44.8168,
+      "lon": 20.4557,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Obilićev venac 1",
+      "url": "https://www.rollbar.rs/",
+      "id": "serbia-e908f8e55204378ff9f8"
+    },
+    {
+      "name": "Pizzeria Trg",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Makedonska 5",
+      "url": "https://klopanaklik.com/restoran/picerija_trg_dostava_hrane",
+      "id": "serbia-5460b95686c1fa7a29ec"
+    },
+    {
+      "name": "Yalla Yalla",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Makedonska 11",
+      "id": "serbia-f0a4002c32f6838bac18"
+    },
+    {
+      "name": "Skadarlijske kobasice",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Skadarska 4",
+      "id": "serbia-8dbce4cc2e6a3d0d0d28"
+    },
+    {
+      "name": "Giros tim",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "lat": 44.8095,
+      "lon": 20.4589,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Balkanska 36",
+      "id": "serbia-ede83c832b7c8f0ba749"
+    },
+    {
+      "name": "Amigo",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "lat": 44.8093,
+      "lon": 20.461,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Kraljice Natalije 35",
+      "url": "https://amigopalacinke.wordpress.com/",
+      "id": "serbia-81271e029328907edb0a"
+    },
+    {
+      "name": "Gastroteka",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Balkananska 29",
+      "id": "serbia-2a96527d1b1c3471ec4d"
+    },
+    {
+      "name": "Jazzayoga",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "lat": 44.8084,
+      "lon": 20.4692,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Kralja Aleksandra 48",
+      "url": "http://www.jazzayoga.com/en/",
+      "id": "serbia-6d3e67858807550acd75"
+    },
+    {
+      "name": "Orašac",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "lat": 44.8039,
+      "lon": 20.4787,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Blv Kralja Aleksandra 122",
+      "url": "https://www.restoranorasac.com/",
+      "id": "serbia-228ae20cc4ce4bb7f5b3"
+    },
+    {
+      "name": "Šešir moj",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "lat": 44.8176,
+      "lon": 20.4639,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Skadarska 21",
+      "url": "https://www.sesirmoj.rs/",
+      "id": "serbia-db0053107ae179bf9c0a"
+    },
+    {
+      "name": "Znak Pitanja",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Kralja Petra 6",
+      "url": "http://www.znakpitanja.rs/",
+      "id": "serbia-0b0357bbd9607ccc9d3d"
+    },
+    {
+      "name": "Loki",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "lat": 44.8226,
+      "lon": 20.4595,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Strahinjića Bana 36",
+      "id": "serbia-9ab4e77e3015007a3d66"
+    },
+    {
+      "name": "Mika Alas",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "lat": 44.7537,
+      "lon": 20.3427,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Stari Obrenovački drum 14",
+      "url": "https://mikaalas.co.rs/",
+      "id": "serbia-d6ed86d3a60ab5002263"
+    },
+    {
+      "name": "Makao i Žuto More",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "lat": 44.8354,
+      "lon": 20.4161,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Prve Pruge 8, Zemun",
+      "url": "https://www.makao-bg.com/",
+      "id": "serbia-469367e5475bbac3904d"
+    },
+    {
+      "name": "Moon Sushi",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "lat": 44.8156,
+      "lon": 20.4649,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Makedonska 31",
+      "url": "https://moon-sushi.com/",
+      "id": "serbia-4938869f9447ba44f679"
+    },
+    {
+      "name": "Marukoshi",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "lat": 44.8232,
+      "lon": 20.4632,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Kapetan Mišina 37",
+      "url": "https://www.marukoshi.rs/",
+      "id": "serbia-66b743eefd8b5532c01b"
+    },
+    {
+      "name": "Zapata",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "lat": 44.8038,
+      "lon": 20.4837,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Vojvode Bogdana 13",
+      "id": "serbia-c35da823e1ac979597d8"
+    },
+    {
+      "name": "Botako",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "lat": 44.8191,
+      "lon": 20.4711,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Šantićeva 8",
+      "url": "https://pizzabotako.rs/en/",
+      "id": "serbia-f7b4d3a221b2ebe925fd"
+    },
+    {
+      "name": "Casa Nova",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "lat": 44.8201,
+      "lon": 20.4622,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Gospodar Jovanova 42a",
+      "url": "http://www.casanova.rs/index-eng.html",
+      "id": "serbia-540e2855027ad4b32fda"
+    },
+    {
+      "name": "Restoran Caruso",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "lat": 44.8135,
+      "lon": 20.4613,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Terazije 23/8",
+      "url": "https://restorancaruso.rs/",
+      "id": "serbia-43eeae7cc06262f30313"
+    },
+    {
+      "name": "Sinđelić",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "lat": 44.7908,
+      "lon": 20.4978,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Vojislava Ilića 86",
+      "url": "https://www.restoransindjelic.com/meni",
+      "id": "serbia-bf94d9ec9e88eca91306"
+    },
+    {
+      "name": "Šaran",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "lat": 44.8481,
+      "lon": 20.413,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Kej Oslobođenja 53, Zemun",
+      "url": "https://saran.co.rs/",
+      "id": "serbia-1b1296f62fb9baa79fe4"
+    },
+    {
+      "name": "Lorenzo & Kakalamba",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "lat": 44.8096,
+      "lon": 20.4804,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Cvijićeva 110",
+      "url": "https://www.lk.rs/",
+      "id": "serbia-b8f6eda4e282a82bf54e"
+    },
+    {
+      "name": "Blaznavac",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "lat": 44.8198551,
+      "lon": 20.4618047,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Kneginje Ljubice 18",
+      "url": "https://www.facebook.com/blaznavac/",
+      "id": "serbia-8cf797f50a7d60bcb924"
+    },
+    {
+      "name": "Demokratija bar",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "lat": 44.8171251,
+      "lon": 20.4651504,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Zetska 13",
+      "url": "https://demokratijabar.rs/",
+      "id": "serbia-1f1f5c74dc8dde72a2e9"
+    },
+    {
+      "name": "Riddle Bar",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "lat": 44.8169189,
+      "lon": 20.4634946,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Skadarska 9",
+      "url": "https://riddle.bar/",
+      "id": "serbia-b1a94b9c45fdb92dedde"
+    },
+    {
+      "name": "Black Turtle",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "lat": 44.8176038,
+      "lon": 20.4510232,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Kosančićev Venac 30",
+      "url": "https://theblackturtle.com/",
+      "id": "serbia-c1b68f1f2cacfab6fb86"
+    },
+    {
+      "name": "Dogma Brewery Central",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "lat": 44.8158425,
+      "lon": 20.4620552,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Makedonska 7",
+      "url": "https://dogmabrewery.com/en/lokacije/dbc/",
+      "id": "serbia-14e5ee70ac89a6db37a0"
+    },
+    {
+      "name": "Gecko",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "lat": 44.8160212,
+      "lon": 20.4579465,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Obilićev Venac 17",
+      "url": "https://www.irishpub-gecko.com/",
+      "id": "serbia-92e306848436b603e2a6"
+    },
+    {
+      "name": "Publin",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "lat": 44.8103729,
+      "lon": 20.4589255,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Lomina 63",
+      "url": "https://www.facebook.com/publin.pab",
+      "id": "serbia-1ca6785e6e3841ca4a24"
+    },
+    {
+      "name": "Three Carrots Irish Pub",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "lat": 44.8080495,
+      "lon": 20.4627176,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Kneza Miloša 16",
+      "url": "https://www.irishpub.rs/",
+      "id": "serbia-9245e996ae5d77c98b80"
+    },
+    {
+      "name": "Zuzu's",
+      "kind": "eat",
+      "locality": "Belgrade",
+      "lat": 44.8158564,
+      "lon": 20.4582591,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Obilićev Venac 21",
+      "url": "https://www.zuzusbarandkitchen.com/",
+      "id": "serbia-f0fadf3a7f3b4a19ddbe"
+    },
+    {
+      "name": "Hostel 360",
+      "kind": "stay",
+      "locality": "Belgrade",
+      "lat": 44.8164,
+      "lon": 20.4582,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Knez Mihailova 21",
+      "price": "B&B double €36",
+      "url": "https://hostel360.com/",
+      "id": "serbia-f6f96a1f2add2523960a"
+    },
+    {
+      "name": "Hostelche",
+      "kind": "stay",
+      "locality": "Belgrade",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Kralja Petra 8",
+      "url": "https://m.facebook.com/HostelcheHostelBelgrade/",
+      "id": "serbia-27065793c59d171f69df"
+    },
+    {
+      "name": "Sun Hostel",
+      "kind": "stay",
+      "locality": "Belgrade",
+      "lat": 44.7985,
+      "lon": 20.4753,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Novopazarska 25",
+      "price": "Dorm €30",
+      "url": "https://sun-hostel-belgrade.worhot.com/",
+      "id": "serbia-147dcc11d70689619958"
+    },
+    {
+      "name": "Fair and Square Hostel",
+      "kind": "stay",
+      "locality": "Belgrade",
+      "lat": 44.8058,
+      "lon": 20.4896,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Svetog Nikole 68",
+      "price": "Dorm bunk €25",
+      "id": "serbia-25f2e636183cbdb7383b"
+    },
+    {
+      "name": "Balkan Soul Hostel",
+      "kind": "stay",
+      "locality": "Belgrade",
+      "lat": 44.8159,
+      "lon": 20.4518,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Kosančićev Venac 11a",
+      "price": "Dorm €13",
+      "url": "https://balkansoulhostel.com/",
+      "id": "serbia-bd7c0a48a8fdcc4d3825"
+    },
+    {
+      "name": "ArkaBarka Floating Hostel",
+      "kind": "stay",
+      "locality": "Belgrade",
+      "lat": 44.8225,
+      "lon": 20.4311,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Zemun Quay, Novi Beograd",
+      "price": "Bunk & breakfast €42",
+      "url": "http://www.arkabarka.net/",
+      "id": "serbia-fd0c21fbe88c3404a30b"
+    },
+    {
+      "name": "San Art Floating Hostel",
+      "kind": "stay",
+      "locality": "Belgrade",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Zemun Quay, Novi Beograd",
+      "price": "B&B double €60",
+      "url": "https://www.facebook.com/sanart.hostel",
+      "id": "serbia-3faabc26e05dd28b077c"
+    },
+    {
+      "name": "The Horse Monument Hostel",
+      "kind": "stay",
+      "locality": "Belgrade",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Čika Ljubina 1",
+      "price": "Dorm bed 2000 RSD",
+      "id": "serbia-325ad5fa5917df025583"
+    },
+    {
+      "name": "Belgrade City Hotel",
+      "kind": "stay",
+      "locality": "Belgrade",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Savski trg 7",
+      "price": "Double (room only) €90",
+      "url": "https://www.bgcityhotel.com/",
+      "id": "serbia-c058feab36550730ab74"
+    },
+    {
+      "name": "Villa Forever",
+      "kind": "stay",
+      "locality": "Belgrade",
+      "lat": 44.8161,
+      "lon": 20.4548,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Marsala Birjuzova 44",
+      "price": "Double (room only) €80",
+      "url": "https://www.villa-forever.com/",
+      "id": "serbia-08f810af5ed954ade72f"
+    },
+    {
+      "name": "Slavija Hotel",
+      "kind": "stay",
+      "locality": "Belgrade",
+      "lat": 44.8019,
+      "lon": 20.4667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Svetog Sava 2",
+      "price": "B&B double €80",
+      "url": "https://www.slavijahotelbeograd.com/",
+      "id": "serbia-96c32b07177060879418"
+    },
+    {
+      "name": "Hotel Srbija",
+      "kind": "stay",
+      "locality": "Belgrade",
+      "lat": 44.7842,
+      "lon": 20.4955,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Ustanička 127c",
+      "price": "B&B double €80",
+      "id": "serbia-068a7fb121e98e09098e"
+    },
+    {
+      "name": "Mercure Belgrade Excelsior",
+      "kind": "stay",
+      "locality": "Belgrade",
+      "lat": 44.8098,
+      "lon": 20.4656,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Kneza Milosa 5",
+      "price": "B&B double €110",
+      "url": "https://all.accor.com/hotel/B1E1/index.en.shtml",
+      "id": "serbia-d79751229ade996eb5b1"
+    },
+    {
+      "name": "Royal Inn",
+      "kind": "stay",
+      "locality": "Belgrade",
+      "lat": 44.8211,
+      "lon": 20.4571,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Kralja Petra 56",
+      "price": "B&B double €100",
+      "url": "https://royalinn.rs/",
+      "id": "serbia-1923362fb84804eb406b"
+    },
+    {
+      "name": "Nevski Hotel",
+      "kind": "stay",
+      "locality": "Belgrade",
+      "lat": 44.8198,
+      "lon": 20.4684,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Venizelosova 24a",
+      "price": "B&B double €80",
+      "url": "http://www.hotelnevski.com/",
+      "id": "serbia-1193890f1e89ee9cd43b"
+    },
+    {
+      "name": "Design Hotel Mr President",
+      "kind": "stay",
+      "locality": "Belgrade",
+      "lat": 44.810806,
+      "lon": 20.455212,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Karadjordjeva 75",
+      "price": "B&B double €90",
+      "id": "serbia-9f7a609d055d07383834"
+    },
+    {
+      "name": "Queen's Astoria Design Hotel",
+      "kind": "stay",
+      "locality": "Belgrade",
+      "lat": 44.809317,
+      "lon": 20.457459,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Milovana Milovanovića 1",
+      "price": "B&B double €110",
+      "url": "https://www.astoria.rs/",
+      "id": "serbia-89eb47d34e4b84eaa064"
+    },
+    {
+      "name": "Hotel Rex",
+      "kind": "stay",
+      "locality": "Belgrade",
+      "lat": 44.8032,
+      "lon": 20.4548,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Sarajevska 37",
+      "price": "Double (room only) €65",
+      "url": "https://www.hotelrex-belgrade.com/",
+      "id": "serbia-f2944a4f7c173f9f8249"
+    },
+    {
+      "name": "Putnik Inn",
+      "kind": "stay",
+      "locality": "Belgrade",
+      "lat": 44.8301,
+      "lon": 20.4124,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Palmira Toljatija 9, Novi Beograd",
+      "price": "B&B double €90",
+      "url": "https://putnik.com/",
+      "id": "serbia-ebcf587e9d45540f0109"
+    },
+    {
+      "name": "Belgrade Art Hotel",
+      "kind": "stay",
+      "locality": "Belgrade",
+      "lat": 44.81666,
+      "lon": 20.457845,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Knez Mihailova 27",
+      "price": "B&B double €110",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-individuals-belgrade-arthotel",
+      "id": "serbia-1fef00e293b6df2cb644"
+    },
+    {
+      "name": "Townhouse 27",
+      "kind": "stay",
+      "locality": "Belgrade",
+      "lat": 44.816424,
+      "lon": 20.453579,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Marsala Birjuzova 56",
+      "price": "B&B double €140",
+      "url": "https://townhouse27.com/",
+      "id": "serbia-b9fca7acb6b3c3fc80d1"
+    },
+    {
+      "name": "Crystal Hotel",
+      "kind": "stay",
+      "locality": "Belgrade",
+      "lat": 44.795368,
+      "lon": 20.46742,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Internacionalnih Brigada 9",
+      "price": "B&B double €120",
+      "url": "https://crystalhotel.rs/en/",
+      "id": "serbia-db94c73eadb439c7d0cb"
+    },
+    {
+      "name": "Balkan Hotel",
+      "kind": "stay",
+      "locality": "Belgrade",
+      "lat": 44.813593,
+      "lon": 20.45995,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Prizrenska 2",
+      "price": "B&B double €120",
+      "url": "https://hotelbalkanbeograd.com/",
+      "id": "serbia-5fc9406603afb646ed0b"
+    },
+    {
+      "name": "Moskva",
+      "kind": "stay",
+      "locality": "Belgrade",
+      "lat": 44.8129,
+      "lon": 20.4604,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Balkanska 1",
+      "price": "B&B double €140",
+      "url": "https://hotelmoskva.rs/",
+      "id": "serbia-1c01a6226a93ff15880d"
+    },
+    {
+      "name": "Hyatt Regency",
+      "kind": "stay",
+      "locality": "Belgrade",
+      "lat": 44.8131,
+      "lon": 20.434038,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Milentija Popovica 5, Novi Beograd",
+      "price": "B&B double €160",
+      "url": "https://www.hyatt.com/hyatt-regency/en-US/belgr-hyatt-regency-belgrade",
+      "id": "serbia-a3acb5c1e5a58adda8c9"
+    },
+    {
+      "name": "Crowne Plaza",
+      "kind": "stay",
+      "locality": "Belgrade",
+      "lat": 44.8094,
+      "lon": 20.4342,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Vladimira Popovica 10, Novi Beograd",
+      "price": "B&B double €150",
+      "url": "https://www.ihg.com/crowneplaza/hotels/us/en/belgrade/begcp/",
+      "id": "serbia-5a8744f20f11631b0682"
+    },
+    {
+      "name": "IN Hotel Belgrade",
+      "kind": "stay",
+      "locality": "Belgrade",
+      "lat": 44.8115,
+      "lon": 20.4241,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "address": "Bulevar Arsenija Carnojevica 56, Novi Beograd",
+      "price": "B&B double €120",
+      "url": "https://www.inhotel-belgrade.rs/en",
+      "id": "serbia-8c64904373fd2ffe5774"
+    },
+    {
+      "name": "Belgrade",
+      "kind": "area",
+      "locality": "Belgrade",
+      "lat": 44.8167,
+      "lon": 20.4667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belgrade",
+      "id": "serbia-6917c0d40e15e3049b53"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

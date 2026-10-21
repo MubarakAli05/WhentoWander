@@ -1,0 +1,741 @@
+{
+  "sources": [
+    {
+      "title": "Montenegro",
+      "url": "https://en.wikivoyage.org/wiki/Montenegro",
+      "checkedAt": "2026-10-21T08:11:13.492Z"
+    },
+    {
+      "title": "Podgorica",
+      "url": "https://en.wikivoyage.org/wiki/Podgorica",
+      "checkedAt": "2026-10-21T08:11:16.261Z"
+    },
+    {
+      "title": "Cetinje",
+      "url": "https://en.wikivoyage.org/wiki/Cetinje",
+      "checkedAt": "2026-10-21T08:11:19.193Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Podgorica",
+      "kind": "area",
+      "locality": "Montenegro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montenegro",
+      "id": "montenegro-506f4f83609726ebe4f0"
+    },
+    {
+      "name": "Bar",
+      "kind": "area",
+      "locality": "Montenegro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montenegro",
+      "id": "montenegro-8b9eec00e78f8ce7e167"
+    },
+    {
+      "name": "Budva",
+      "kind": "area",
+      "locality": "Montenegro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montenegro",
+      "id": "montenegro-0b73dfdb97d8414f3b63"
+    },
+    {
+      "name": "Cetinje",
+      "kind": "area",
+      "locality": "Montenegro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montenegro",
+      "id": "montenegro-788cca8b02d92ee50f62"
+    },
+    {
+      "name": "Kotor",
+      "kind": "area",
+      "locality": "Montenegro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montenegro",
+      "id": "montenegro-cb80d875357ee2cb5780"
+    },
+    {
+      "name": "Nikšić",
+      "kind": "area",
+      "locality": "Montenegro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montenegro",
+      "id": "montenegro-538a8a6ac242f4febb5a"
+    },
+    {
+      "name": "Tivat",
+      "kind": "area",
+      "locality": "Montenegro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montenegro",
+      "id": "montenegro-07045519093bad27ef51"
+    },
+    {
+      "name": "Žabljak",
+      "kind": "area",
+      "locality": "Montenegro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montenegro",
+      "id": "montenegro-e9923a0509c3e94f5af8"
+    },
+    {
+      "name": "Ulcinj",
+      "kind": "area",
+      "locality": "Montenegro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montenegro",
+      "id": "montenegro-55d7b1079a9a48c83599"
+    },
+    {
+      "name": "Rafting",
+      "kind": "do",
+      "locality": "Montenegro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montenegro",
+      "id": "montenegro-82492dbf7172fc86d278"
+    },
+    {
+      "name": "Hiking/Trekking/Biking",
+      "kind": "do",
+      "locality": "Montenegro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montenegro",
+      "id": "montenegro-d7a0c7b98ae832898a70"
+    },
+    {
+      "name": "Cruise and dive in the Bay of Kotor",
+      "kind": "do",
+      "locality": "Montenegro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montenegro",
+      "id": "montenegro-96165512ed7b4dfbb578"
+    },
+    {
+      "name": "Paragliding over Budva Riviera",
+      "kind": "do",
+      "locality": "Montenegro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montenegro",
+      "id": "montenegro-315581e3bbf31c7ed6d8"
+    },
+    {
+      "name": "Kite-surfing on the Ada Bojana",
+      "kind": "do",
+      "locality": "Montenegro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montenegro",
+      "id": "montenegro-32d930d7fd87a98f541c"
+    },
+    {
+      "name": "(summer) Skiing/Snowboarding",
+      "kind": "do",
+      "locality": "Montenegro",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Montenegro",
+      "id": "montenegro-4e898d7bd79a8bd8416d"
+    },
+    {
+      "name": "Old Turkish town",
+      "kind": "do",
+      "locality": "Podgorica",
+      "lat": 42.4355,
+      "lon": 19.2601,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "id": "montenegro-97fae340f44acb274b18"
+    },
+    {
+      "name": "Skaline",
+      "kind": "do",
+      "locality": "Podgorica",
+      "lat": 42.4395086,
+      "lon": 19.2592092,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "id": "montenegro-e10d0f66a8150486ad02"
+    },
+    {
+      "name": "Monument to King Nikola",
+      "kind": "do",
+      "locality": "Podgorica",
+      "lat": 42.43912,
+      "lon": 19.26059,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "address": "Bulevar Svetog Petra Cetinjskog",
+      "id": "montenegro-95f4bd62f272ad2301e6"
+    },
+    {
+      "name": "Hercegovačka pedestrian street",
+      "kind": "do",
+      "locality": "Podgorica",
+      "lat": 42.44265,
+      "lon": 19.26303,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "address": "Hercegovačka street",
+      "id": "montenegro-f82b4117d010bc1b4972"
+    },
+    {
+      "name": "Trg Republike",
+      "kind": "do",
+      "locality": "Podgorica",
+      "lat": 42.441262,
+      "lon": 19.262804,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "address": "Slobode",
+      "id": "montenegro-09bb5f8e1d32133efa28"
+    },
+    {
+      "name": "St. George's church",
+      "kind": "do",
+      "locality": "Podgorica",
+      "lat": 42.4455,
+      "lon": 19.2671,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "address": "19. Decembar",
+      "id": "montenegro-46e671f33d4c91f0d670"
+    },
+    {
+      "name": "Catholic Church",
+      "kind": "do",
+      "locality": "Podgorica",
+      "lat": 42.437813,
+      "lon": 19.275618,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "address": "Mojkovačka, Konik district",
+      "url": "http://www.donbosko.me/zupa-podgorica",
+      "id": "montenegro-8291c0816cc50951ee19"
+    },
+    {
+      "name": "Millennium Bridge",
+      "kind": "do",
+      "locality": "Podgorica",
+      "lat": 42.444914,
+      "lon": 19.259014,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "id": "montenegro-63f67cfc4a7d6d0ef986"
+    },
+    {
+      "name": "Dvorac Petrovića (King Nikola's castle)",
+      "kind": "do",
+      "locality": "Podgorica",
+      "lat": 42.4379845,
+      "lon": 19.2502151,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "id": "montenegro-471c20142092ccb9a653"
+    },
+    {
+      "name": "Cathedral of the Resurrection",
+      "kind": "do",
+      "locality": "Podgorica",
+      "lat": 42.4457,
+      "lon": 19.24827,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "address": "Bulevar Džordža Vašingtona",
+      "url": "http://www.hramvaskrsenja.me/",
+      "id": "montenegro-b287507c1d56e21d2d3c"
+    },
+    {
+      "name": "Church of the Great Martyr Holy Dimitrije",
+      "kind": "do",
+      "locality": "Podgorica",
+      "lat": 42.4384,
+      "lon": 19.25,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "address": "Ljubljanska",
+      "id": "montenegro-6df49a7fdd898414d7ee"
+    },
+    {
+      "name": "Rimski Trg",
+      "kind": "do",
+      "locality": "Podgorica",
+      "lat": 42.4428,
+      "lon": 19.247,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "address": "off Bulevar Svetog Petra Cetinjskog",
+      "id": "montenegro-539dc10ab47587016aa5"
+    },
+    {
+      "name": "Morača river canyon",
+      "kind": "do",
+      "locality": "Podgorica",
+      "lat": 42.4888,
+      "lon": 19.3086,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "id": "montenegro-d97e8a083c96a24743ce"
+    },
+    {
+      "name": "Doclea",
+      "kind": "do",
+      "locality": "Podgorica",
+      "lat": 42.4684,
+      "lon": 19.2655,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "price": "Free",
+      "id": "montenegro-1fe20d22a9b864a2390a"
+    },
+    {
+      "name": "Meteon",
+      "kind": "do",
+      "locality": "Podgorica",
+      "lat": 42.4725,
+      "lon": 19.361667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "id": "montenegro-b22031d55123834dd08a"
+    },
+    {
+      "name": "Rogami Beach",
+      "kind": "do",
+      "locality": "Podgorica",
+      "lat": 42.4687,
+      "lon": 19.2575,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "id": "montenegro-c61c6afa5720141ed780"
+    },
+    {
+      "name": "Podgorica City Stadium",
+      "kind": "do",
+      "locality": "Podgorica",
+      "lat": 42.44473,
+      "lon": 19.26436,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "id": "montenegro-627d5ceeff2551253f80"
+    },
+    {
+      "name": "Pizzeria Calabria",
+      "kind": "eat",
+      "locality": "Podgorica",
+      "lat": 42.4407166,
+      "lon": 19.266359,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "address": "57 Miljana Vukova",
+      "url": "https://calabriapodgorica.business.site/",
+      "id": "montenegro-15533173199ce2b7c1ef"
+    },
+    {
+      "name": "Restoran Radovce",
+      "kind": "eat",
+      "locality": "Podgorica",
+      "lat": 42.4406708,
+      "lon": 19.2654903,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "address": "18 Balšića",
+      "id": "montenegro-54dddd767791589fee38"
+    },
+    {
+      "name": "Duhovni centar",
+      "kind": "eat",
+      "locality": "Podgorica",
+      "lat": 42.4424523,
+      "lon": 19.2622113,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "address": "27 Njegoševa",
+      "id": "montenegro-f3b46a34430d76c839ad"
+    },
+    {
+      "name": "Kaktus",
+      "kind": "eat",
+      "locality": "Podgorica",
+      "lat": 42.4425958,
+      "lon": 19.2622897,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "address": "Njegoševa",
+      "id": "montenegro-16977fa46e211f480814"
+    },
+    {
+      "name": "Pizzeria Buongiorno",
+      "kind": "eat",
+      "locality": "Podgorica",
+      "lat": 42.4414059,
+      "lon": 19.2653686,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "address": "43 Balšića",
+      "id": "montenegro-cd06cea664287e22988b"
+    },
+    {
+      "name": "Shanghai",
+      "kind": "eat",
+      "locality": "Podgorica",
+      "lat": 42.4415519,
+      "lon": 19.2604182,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "address": "13 Vučedolska",
+      "url": "https://m.facebook.com/ShanghaiFastFood/",
+      "id": "montenegro-01925f42029c03a55bb3"
+    },
+    {
+      "name": "Restoran Maša",
+      "kind": "eat",
+      "locality": "Podgorica",
+      "lat": 42.4415,
+      "lon": 19.2523,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "address": "Bulevar Sv. Petra Cetinjskog 31",
+      "id": "montenegro-65f734159ccaa767ac0e"
+    },
+    {
+      "name": "Astoria",
+      "kind": "eat",
+      "locality": "Podgorica",
+      "lat": 42.44227,
+      "lon": 19.24524,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "address": "Bul Džordža Vašingtona 87",
+      "url": "http://astoriamontenegro.com/",
+      "id": "montenegro-577dc7349eadce01d1b5"
+    },
+    {
+      "name": "Restaurant Zheng He",
+      "kind": "eat",
+      "locality": "Podgorica",
+      "lat": 42.43987,
+      "lon": 19.23434,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "address": "31 Vojvode Maša Đurovića",
+      "url": "http://www.zheng-he.me/",
+      "id": "montenegro-9371290237d25d3c6ff6"
+    },
+    {
+      "name": "Alpe Bar",
+      "kind": "eat",
+      "locality": "Podgorica",
+      "lat": 42.44341,
+      "lon": 19.24906,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "address": "Bulevar Sv. Petra Cetinjskog 88",
+      "id": "montenegro-73d22ac999f3682d0333"
+    },
+    {
+      "name": "Alpe bar",
+      "kind": "eat",
+      "locality": "Podgorica",
+      "lat": 42.44342,
+      "lon": 19.24906,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "url": "https://www.facebook.com/AlpeBar",
+      "id": "montenegro-cedf4b90456c4f1d56cb"
+    },
+    {
+      "name": "Buddha bar",
+      "kind": "eat",
+      "locality": "Podgorica",
+      "lat": 42.44302,
+      "lon": 19.26091,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "id": "montenegro-cfd2cb05c3795bcb372d"
+    },
+    {
+      "name": "Carine",
+      "kind": "eat",
+      "locality": "Podgorica",
+      "lat": 42.44192,
+      "lon": 19.2637,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "url": "https://carinehotels.me/en/carine-hotel-centar-en/",
+      "id": "montenegro-67e06877798716a7bb79"
+    },
+    {
+      "name": "Greenwich",
+      "kind": "eat",
+      "locality": "Podgorica",
+      "lat": 42.44254,
+      "lon": 19.26218,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "id": "montenegro-2881dd4de85e83e5f55b"
+    },
+    {
+      "name": "Grand cafe",
+      "kind": "eat",
+      "locality": "Podgorica",
+      "lat": 42.44632,
+      "lon": 19.25036,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "id": "montenegro-e39fdd742b2cfeda50bf"
+    },
+    {
+      "name": "Café, Café",
+      "kind": "eat",
+      "locality": "Podgorica",
+      "lat": 42.44394,
+      "lon": 19.26461,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "id": "montenegro-3593f928405dddf9e7a0"
+    },
+    {
+      "name": "Hostel Podgorica",
+      "kind": "stay",
+      "locality": "Podgorica",
+      "lat": 42.43522,
+      "lon": 19.26358,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "address": "Apartment 1, entrance III, Blok 7, Bratstva i Jedinstva",
+      "id": "montenegro-d353359ed973b85b0ae7"
+    },
+    {
+      "name": "Hotel Crnogorska Kuća",
+      "kind": "stay",
+      "locality": "Podgorica",
+      "lat": 42.4511,
+      "lon": 19.2412,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "address": "Dalmatinska 130d",
+      "price": "Single from €30 (Jun-Sep)",
+      "id": "montenegro-52172404515cefb4c5e6"
+    },
+    {
+      "name": "Evropa",
+      "kind": "stay",
+      "locality": "Podgorica",
+      "lat": 42.432988,
+      "lon": 19.269257,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "address": "Orahovacka 16,",
+      "price": "Single from €40, double from €50",
+      "id": "montenegro-f0b5be0cd5c5e03c385c"
+    },
+    {
+      "name": "Hotel Podgorica",
+      "kind": "stay",
+      "locality": "Podgorica",
+      "lat": 42.43912,
+      "lon": 19.25672,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "address": "Ulica Svetlane Kane Radević",
+      "url": "https://m.facebook.com/www.hotelpodgorica.co.me/",
+      "id": "montenegro-1265ef7cd88cb8d12140"
+    },
+    {
+      "name": "Kerber hotel",
+      "kind": "stay",
+      "locality": "Podgorica",
+      "lat": 42.44052,
+      "lon": 19.26366,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "address": "Novaka Miloseva 6",
+      "price": "Single €60-110, double €90-200",
+      "url": "https://hotelkerber.me/",
+      "id": "montenegro-edd70a4801b5a732ed22"
+    },
+    {
+      "name": "Hotel Ziya",
+      "kind": "stay",
+      "locality": "Podgorica",
+      "lat": 42.44321,
+      "lon": 19.2679,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "address": "10 Beogradska",
+      "price": "€90",
+      "url": "https://www.hotelziya.me/",
+      "id": "montenegro-b9d0b106f66b96aa53de"
+    },
+    {
+      "name": "Hotel Ramada Podgorica",
+      "kind": "stay",
+      "locality": "Podgorica",
+      "lat": 42.43131,
+      "lon": 19.26282,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "address": "Save Kovačevića 74",
+      "price": "Single €90-130, double €120-250",
+      "url": "http://www.ramadapodgorica.me/",
+      "id": "montenegro-8209d8a2cea682c15cd4"
+    },
+    {
+      "name": "Hotel \"Best Western\"",
+      "kind": "stay",
+      "locality": "Podgorica",
+      "lat": 42.44327,
+      "lon": 19.24637,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "address": "145 Bulevar Svetog Petra Cetinjskog",
+      "id": "montenegro-dc4d626cac1be4d4a27a"
+    },
+    {
+      "name": "Hotel \"Apart Premier\"",
+      "kind": "stay",
+      "locality": "Podgorica",
+      "lat": 42.44363,
+      "lon": 19.24521,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "price": "Single from €90",
+      "id": "montenegro-d158ce014c315b61a591"
+    },
+    {
+      "name": "Kosta's",
+      "kind": "stay",
+      "locality": "Podgorica",
+      "lat": 42.4341,
+      "lon": 19.27923,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "price": "Single from €80",
+      "id": "montenegro-5432ca7b35dcd2830d1a"
+    },
+    {
+      "name": "Bojatours",
+      "kind": "stay",
+      "locality": "Podgorica",
+      "lat": 42.43692,
+      "lon": 19.26102,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "id": "montenegro-950f91f9ee904c4f4452"
+    },
+    {
+      "name": "Hotel Ambasador Podgorica",
+      "kind": "stay",
+      "locality": "Podgorica",
+      "lat": 42.44977,
+      "lon": 19.26171,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "address": "5 Vaka Đurovića",
+      "price": "Single €66-88, double €90-252 including breakfast",
+      "url": "https://m.facebook.com/pages/category/Hotel/Hotel-Ambasador-Podgorica-1540962242816545/",
+      "id": "montenegro-d74f2ec919588d888718"
+    },
+    {
+      "name": "Hilton Podgorica Crna Gora",
+      "kind": "stay",
+      "locality": "Podgorica",
+      "lat": 42.439071,
+      "lon": 19.263178,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "address": "Bulevar Svetog Petra Cetinjskog 2",
+      "url": "https://www3.hilton.com/en/hotels/montenegro/hilton-podgorica-crna-gora-TGDPMHI/index.html",
+      "id": "montenegro-b9365e607947cfdb913b"
+    },
+    {
+      "name": "Podgorica",
+      "kind": "area",
+      "locality": "Podgorica",
+      "lat": 42.439722,
+      "lon": 19.266111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Podgorica",
+      "id": "montenegro-00a0539392ed55ffcff8"
+    },
+    {
+      "name": "Cetinje Monastery",
+      "kind": "do",
+      "locality": "Cetinje",
+      "lat": 42.387778,
+      "lon": 18.921667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cetinje",
+      "price": "Free",
+      "id": "montenegro-af71b07da620f44f03c5"
+    },
+    {
+      "name": "Vlaška Church",
+      "kind": "do",
+      "locality": "Cetinje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cetinje",
+      "price": "Free",
+      "id": "montenegro-91abcd5ce52f4946571a"
+    },
+    {
+      "name": "Ethnographic Museum",
+      "kind": "do",
+      "locality": "Cetinje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cetinje",
+      "address": "King Nicholas' Square",
+      "price": "€2",
+      "id": "montenegro-8803b4b5afa9e2bf5ad3"
+    },
+    {
+      "name": "Museum of King Nicholas",
+      "kind": "do",
+      "locality": "Cetinje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cetinje",
+      "price": "€8",
+      "id": "montenegro-054201730c91159eb213"
+    },
+    {
+      "name": "Biljarda Hall",
+      "kind": "do",
+      "locality": "Cetinje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cetinje",
+      "price": "€3",
+      "id": "montenegro-9ecfa62c1e62368cea81"
+    },
+    {
+      "name": "National Museum of Montenegro",
+      "kind": "do",
+      "locality": "Cetinje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cetinje",
+      "address": "Novice Cerovica",
+      "url": "https://en.narodnimuzej.me/",
+      "id": "montenegro-28fe8ece95c91a168050"
+    },
+    {
+      "name": "Grave of Vladika Danilo",
+      "kind": "do",
+      "locality": "Cetinje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cetinje",
+      "id": "montenegro-62e4440f522e2879facc"
+    },
+    {
+      "name": "Lipa Cave",
+      "kind": "do",
+      "locality": "Cetinje",
+      "lat": 42.374,
+      "lon": 18.9534,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cetinje",
+      "price": "Adults: €16.90, children up to 5 years old: €2, children 5-15: €5.90",
+      "url": "https://lipa-cave.me/",
+      "id": "montenegro-afc2c038bbb12d101fd4"
+    },
+    {
+      "name": "Acrobranche (tree climbing) attraction park",
+      "kind": "do",
+      "locality": "Cetinje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cetinje",
+      "url": "https://www.facebook.com/pages/Avanturisticki%20Kamp%20Ivanova%20Korita/161798507347188/",
+      "id": "montenegro-f038cf12c070d400bb9a"
+    },
+    {
+      "name": "Vinoteka",
+      "kind": "eat",
+      "locality": "Cetinje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cetinje",
+      "id": "montenegro-b2827b3bbd0b19b95a25"
+    },
+    {
+      "name": "Konak",
+      "kind": "eat",
+      "locality": "Cetinje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cetinje",
+      "id": "montenegro-34afc180dcfaf155ed3e"
+    },
+    {
+      "name": "KOLE",
+      "kind": "eat",
+      "locality": "Cetinje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cetinje",
+      "address": "NEAR PRESIDENT PALACE",
+      "id": "montenegro-b4e2aa9f40b872a6e9e7"
+    },
+    {
+      "name": "La Vecchia Casa",
+      "kind": "stay",
+      "locality": "Cetinje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cetinje",
+      "address": "Ulica Vojvode Batrića 6",
+      "price": "$38",
+      "url": "https://www.lavecchiacasa.com/",
+      "id": "montenegro-90d45a7632a003511f6e"
+    },
+    {
+      "name": "Pansion 22",
+      "kind": "stay",
+      "locality": "Cetinje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cetinje",
+      "address": "Ul. Ivanbegova 22",
+      "price": "€20 per person",
+      "url": "http://www.pansion22.com/",
+      "id": "montenegro-37617986d9b4e9b7d0da"
+    },
+    {
+      "name": "Hotel Dapcevic",
+      "kind": "stay",
+      "locality": "Cetinje",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cetinje",
+      "address": "70 P1",
+      "price": "$56",
+      "url": "https://www.facebook.com/Hotel-Dapcevic-101582001586004/",
+      "id": "montenegro-771e7fd3524fc7beebf5"
+    },
+    {
+      "name": "Cetinje",
+      "kind": "area",
+      "locality": "Cetinje",
+      "lat": 42.393333333333,
+      "lon": 18.921944444444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Cetinje",
+      "id": "montenegro-55fdb45d53156fc9b6a6"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 3 distinct public Wikivoyage source pages; attempted 3 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

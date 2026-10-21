@@ -1,0 +1,714 @@
+{
+  "sources": [
+    {
+      "title": "Uganda",
+      "url": "https://en.wikivoyage.org/wiki/Uganda",
+      "checkedAt": "2026-10-21T08:13:01.678Z"
+    },
+    {
+      "title": "Kampala",
+      "url": "https://en.wikivoyage.org/wiki/Kampala",
+      "checkedAt": "2026-10-21T08:13:04.715Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Kampala",
+      "kind": "area",
+      "locality": "Uganda",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uganda",
+      "id": "uganda-108428a1b102eafcda28"
+    },
+    {
+      "name": "Arua",
+      "kind": "area",
+      "locality": "Uganda",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uganda",
+      "id": "uganda-5809551b32adc62faa3c"
+    },
+    {
+      "name": "Entebbe",
+      "kind": "area",
+      "locality": "Uganda",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uganda",
+      "id": "uganda-072c0fc6250428505165"
+    },
+    {
+      "name": "Jinja",
+      "kind": "area",
+      "locality": "Uganda",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uganda",
+      "id": "uganda-bf2867deb93744020f38"
+    },
+    {
+      "name": "Fort Portal",
+      "kind": "area",
+      "locality": "Uganda",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uganda",
+      "id": "uganda-d61d90d1647103d9aaca"
+    },
+    {
+      "name": "Gulu",
+      "kind": "area",
+      "locality": "Uganda",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uganda",
+      "id": "uganda-d2d137f4ace60390e9a0"
+    },
+    {
+      "name": "Mbarara",
+      "kind": "area",
+      "locality": "Uganda",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uganda",
+      "id": "uganda-4daee5438c6ecaab8897"
+    },
+    {
+      "name": "Kabale",
+      "kind": "area",
+      "locality": "Uganda",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uganda",
+      "id": "uganda-e90f7f7b0ae0075ad380"
+    },
+    {
+      "name": "Kisoro",
+      "kind": "area",
+      "locality": "Uganda",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Uganda",
+      "id": "uganda-706b855b0a1f51df2ff4"
+    },
+    {
+      "name": "National Theatre",
+      "kind": "do",
+      "locality": "Kampala",
+      "lat": 0.31579,
+      "lon": 32.58913,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "De Winton St",
+      "url": "https://www.uncc.co.ug/",
+      "id": "uganda-dbe3ae8400be27b48c24"
+    },
+    {
+      "name": "Nommo Gallery",
+      "kind": "do",
+      "locality": "Kampala",
+      "lat": 0.32012,
+      "lon": 32.58005,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Victoria Ave",
+      "url": "http://gou.go.ug/content/nommo-gallery#",
+      "id": "uganda-f965ca90522f7dade953"
+    },
+    {
+      "name": "Uganda Museum",
+      "kind": "do",
+      "locality": "Kampala",
+      "lat": 0.33585,
+      "lon": 32.58256,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Plot 5, Kira Rd",
+      "price": "When it reopens: free for Ugandan citizens, UGX 5,000 East African residents, UGX 10,000 international visitors",
+      "url": "https://museums.tourism.go.ug/",
+      "id": "uganda-516dd5207c24d70a9bad"
+    },
+    {
+      "name": "Uganda National Mosque",
+      "kind": "do",
+      "locality": "Kampala",
+      "lat": 0.31549,
+      "lon": 32.56847,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Old Kampala Hill",
+      "price": "USh 20,000 to go inside and up the minaret with a guide",
+      "id": "uganda-6f058975d56ad971d975"
+    },
+    {
+      "name": "Bahai Temple",
+      "kind": "do",
+      "locality": "Kampala",
+      "lat": 0.36441,
+      "lon": 32.58847,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Kikaya Hill",
+      "url": "http://www.bahai-how-africa.org/",
+      "id": "uganda-9baa2efa7b0c9e2f6f5f"
+    },
+    {
+      "name": "Kasubi tombs",
+      "kind": "do",
+      "locality": "Kampala",
+      "lat": 0.32906,
+      "lon": 32.55387,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Kasubi Hill",
+      "url": "http://www.kasubitombs.org/en/about/index.php",
+      "id": "uganda-728073d1d2108d829a65"
+    },
+    {
+      "name": "Wamala tombs",
+      "kind": "do",
+      "locality": "Kampala",
+      "lat": 0.3911,
+      "lon": 32.5254,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "price": "No fixed entrance fee. USh 20,000 charged by security. May be negotiable",
+      "url": "https://www.wmf.org/project/wamala-king%E2%80%99s-tombs",
+      "id": "uganda-7cb437d819eb2bd7c4e9"
+    },
+    {
+      "name": "Namirembe Cathedral",
+      "kind": "do",
+      "locality": "Kampala",
+      "lat": 0.3148884,
+      "lon": 32.5594452,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Namirembe Hill",
+      "id": "uganda-8522e6ba51e19d41280a"
+    },
+    {
+      "name": "St Mary’s Cathedral",
+      "kind": "do",
+      "locality": "Kampala",
+      "lat": 0.3025994,
+      "lon": 32.5524836,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Lubaga Hill",
+      "id": "uganda-8b66f76755ce4600777a"
+    },
+    {
+      "name": "Lubiri",
+      "kind": "do",
+      "locality": "Kampala",
+      "lat": 0.30144,
+      "lon": 32.56665,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Mengo Hill",
+      "url": "http://www.buganda.com/",
+      "id": "uganda-d0a6e9a78b8d5193144e"
+    },
+    {
+      "name": "Parliament of Uganda",
+      "kind": "do",
+      "locality": "Kampala",
+      "lat": 0.31569,
+      "lon": 32.58773,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Parliament avenue",
+      "url": "http://www.parliament.go.ug/",
+      "id": "uganda-75f034cc2b7225fbd61e"
+    },
+    {
+      "name": "Independence Monument",
+      "kind": "do",
+      "locality": "Kampala",
+      "lat": 0.31539,
+      "lon": 32.58165,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Speke Rd/Nile Ave",
+      "id": "uganda-8a940c6fce9f2c8a667b"
+    },
+    {
+      "name": "Shri Sanatan Dharma Mandal Temple",
+      "kind": "do",
+      "locality": "Kampala",
+      "lat": 0.31047,
+      "lon": 32.57883,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "10 Snay Bin Amir Rise",
+      "url": "https://www.ssdmuganda.org/",
+      "id": "uganda-0ff418b59a6793eb15aa"
+    },
+    {
+      "name": "Uganda Martyrs Catholic Shrine Namugongo",
+      "kind": "do",
+      "locality": "Kampala",
+      "lat": 0.38537,
+      "lon": 32.65152,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Naalya-Namugongo Rd",
+      "url": "http://www.ugandamartyrsshrine.org.ug/",
+      "id": "uganda-6fe9c77c189be7861cb2"
+    },
+    {
+      "name": "Boda boda tour around town",
+      "kind": "do",
+      "locality": "Kampala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "price": "USh 20,000-30,000 will last you a couple of hours",
+      "id": "uganda-b9d540e9c29a7db84a8e"
+    },
+    {
+      "name": "Speke Resort Munyonyo",
+      "kind": "do",
+      "locality": "Kampala",
+      "lat": 0.23846,
+      "lon": 32.62385,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "url": "http://www.spekeresort.com/",
+      "id": "uganda-fb79d6590edea2766c55"
+    },
+    {
+      "name": "Ndrere Centre",
+      "kind": "do",
+      "locality": "Kampala",
+      "lat": 0.36383,
+      "lon": 32.6053,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Plot 4505 Kira Rd, Ntinda - Kisaasi Rd",
+      "price": "USh 50,000",
+      "url": "http://ndere.com/",
+      "id": "uganda-c02d5ea1c581a1ff252b"
+    },
+    {
+      "name": "Ggaba Beach and KK Beach",
+      "kind": "do",
+      "locality": "Kampala",
+      "lat": 0.2542,
+      "lon": 32.63721,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "price": "USh 5,000",
+      "id": "uganda-67b6f05b22e348fc09f1"
+    },
+    {
+      "name": "One Love Beach",
+      "kind": "do",
+      "locality": "Kampala",
+      "lat": 0.2059,
+      "lon": 32.6195,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "id": "uganda-714d283e8a1303b976cc"
+    },
+    {
+      "name": "Latembe Beach",
+      "kind": "do",
+      "locality": "Kampala",
+      "lat": 0.1657,
+      "lon": 32.5782,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "id": "uganda-2aa7deba15f85ba9f559"
+    },
+    {
+      "name": "Great Wall",
+      "kind": "eat",
+      "locality": "Kampala",
+      "lat": 0.31297,
+      "lon": 32.58298,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Plot 21 Kampala Rd",
+      "price": "Fried rice with chicken USh 8000, sweet & sour pork USh 13,000",
+      "id": "uganda-c4205f6413db36733a4a"
+    },
+    {
+      "name": "Fang Fang",
+      "kind": "eat",
+      "locality": "Kampala",
+      "lat": 0.31348,
+      "lon": 32.58412,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Roof Terrace, Communication House, Plot 1, Colville St",
+      "url": "https://fangfang.co.ug/",
+      "id": "uganda-c37702b33a1fe3cd8b84"
+    },
+    {
+      "name": "Pizza or BBQ night at the Red Chilli Hideaway",
+      "kind": "eat",
+      "locality": "Kampala",
+      "lat": 0.31529,
+      "lon": 32.66242,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Butabika",
+      "url": "http://redchillihideaway.com/hideaways/red-chilli-hideaway-butabika/",
+      "id": "uganda-9ebbad623c667607c133"
+    },
+    {
+      "name": "The Roots Restaurant",
+      "kind": "eat",
+      "locality": "Kampala",
+      "lat": 0.32704,
+      "lon": 32.58257,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Plot 4, Kafu Road, Nakasero",
+      "url": "https://www.therootsrestaurant.ug/",
+      "id": "uganda-0dcc71e5fd48ab42f34f"
+    },
+    {
+      "name": "The Lawns Restaurant & Lounge Bar",
+      "kind": "eat",
+      "locality": "Kampala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "url": "http://www.thelawns.co.ug/",
+      "id": "uganda-b8d6882893c1cfbf09d8"
+    },
+    {
+      "name": "Biyani House Uganda",
+      "kind": "eat",
+      "locality": "Kampala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Plot No. 16, Acacia Avenue",
+      "price": "2500 UGX onwards",
+      "url": "http://www.biryanihouseuganda.com/",
+      "id": "uganda-21d7e0b1496680be4fa7"
+    },
+    {
+      "name": "The Bistro",
+      "kind": "eat",
+      "locality": "Kampala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "id": "uganda-520542ba52a382c8af52"
+    },
+    {
+      "name": "Evening out in Kabalagala",
+      "kind": "eat",
+      "locality": "Kampala",
+      "lat": 0.29794,
+      "lon": 32.60174,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "id": "uganda-0ca36ceb3040edb330d3"
+    },
+    {
+      "name": "Evening out in Bukoto",
+      "kind": "eat",
+      "locality": "Kampala",
+      "lat": 0.34817,
+      "lon": 32.59768,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "id": "uganda-229f6e0825bed40b9e07"
+    },
+    {
+      "name": "Expat night at Bubbles O’Leary’s",
+      "kind": "eat",
+      "locality": "Kampala",
+      "lat": 0.3329,
+      "lon": 32.58684,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "url": "https://www.facebook.com/BubblesOLearys",
+      "id": "uganda-498e990974970604c4e2"
+    },
+    {
+      "name": "Clubbing in the Industrial Area",
+      "kind": "eat",
+      "locality": "Kampala",
+      "lat": 0.32107,
+      "lon": 32.60124,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "id": "uganda-d3e638e9a98a4d57e529"
+    },
+    {
+      "name": "The Lawns Restaurant & Lounge Bar",
+      "kind": "eat",
+      "locality": "Kampala",
+      "lat": 0.32752,
+      "lon": 32.59861,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Impala Avenue, Kololo",
+      "url": "http://www.thelawns.co.ug/",
+      "id": "uganda-ee815969e3b896da4e14"
+    },
+    {
+      "name": "Cafe Javas",
+      "kind": "eat",
+      "locality": "Kampala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "id": "uganda-203f4a2d47c967221e8e"
+    },
+    {
+      "name": "1000 Cups Coffee House",
+      "kind": "eat",
+      "locality": "Kampala",
+      "lat": 0.31734,
+      "lon": 32.57636,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Buganda Road",
+      "url": "https://www.facebook.com/1000Cups-Coffee-215569201792497/",
+      "id": "uganda-71c202585ef5c6c58381"
+    },
+    {
+      "name": "Already 2",
+      "kind": "stay",
+      "locality": "Kampala",
+      "lat": 0.31539,
+      "lon": 32.57137,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "price": "Single from USh 25,000, double from USh 30,000",
+      "id": "uganda-8967cda1c31a248ab802"
+    },
+    {
+      "name": "ABC Plaza",
+      "kind": "stay",
+      "locality": "Kampala",
+      "lat": 0.31567,
+      "lon": 32.57075,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Martin road",
+      "price": "Single from USh 30,000",
+      "id": "uganda-48615e135248b170c1c1"
+    },
+    {
+      "name": "Lusam Inn Resthouse",
+      "kind": "stay",
+      "locality": "Kampala",
+      "lat": 0.3129,
+      "lon": 32.57,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Namirembe road",
+      "price": "USh 35,000",
+      "id": "uganda-188e843c766e3fdd75a8"
+    },
+    {
+      "name": "Heights City Annex",
+      "kind": "stay",
+      "locality": "Kampala",
+      "lat": 0.31523,
+      "lon": 32.5897,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "7, De Winton road",
+      "price": "Single from USh 20,000, double from USh 40,000",
+      "id": "uganda-77f61ed9de3fe1d44b74"
+    },
+    {
+      "name": "Marie Hotel",
+      "kind": "stay",
+      "locality": "Kampala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Martin road",
+      "price": "USh 35,000",
+      "id": "uganda-441452e4f2df7d514ffa"
+    },
+    {
+      "name": "Kawanda Country Inn",
+      "kind": "stay",
+      "locality": "Kampala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "off Bombo road",
+      "price": "from USh 35,000",
+      "id": "uganda-4f4939b51d02c7c13125"
+    },
+    {
+      "name": "Hotel Harambe",
+      "kind": "stay",
+      "locality": "Kampala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Plot 14-18 Nakivubo Place Road",
+      "price": "US$15",
+      "id": "uganda-393d287b129a3dcd0d35"
+    },
+    {
+      "name": "Tuhende Safari Lodge",
+      "kind": "stay",
+      "locality": "Kampala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Martin Road",
+      "price": "USh 18,000 per person.",
+      "id": "uganda-513efe281b8f25d4aa48"
+    },
+    {
+      "name": "Hotel City Square",
+      "kind": "stay",
+      "locality": "Kampala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Plot 42 Kampala road",
+      "price": "USh 60,000/70.000",
+      "id": "uganda-ca7ccd6f32f66949e4cd"
+    },
+    {
+      "name": "Selam Restaurant and Lodge",
+      "kind": "stay",
+      "locality": "Kampala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Ggaba road Kansanga",
+      "price": "USh 15,000.",
+      "id": "uganda-85d8bf36edabe6b307e7"
+    },
+    {
+      "name": "Hotel Olympia",
+      "kind": "stay",
+      "locality": "Kampala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "off Ggaba road",
+      "price": "US$15",
+      "id": "uganda-3115035240a2228042c2"
+    },
+    {
+      "name": "Mother Theresa Guest House",
+      "kind": "stay",
+      "locality": "Kampala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Ismail Road. Mbuya. Kampala",
+      "price": "single USh 30,000, double USh 50,000",
+      "url": "http://www.reachoutmbuya.org/",
+      "id": "uganda-841502013cb354a0c39f"
+    },
+    {
+      "name": "Royal Arch Inn Guest House",
+      "kind": "stay",
+      "locality": "Kampala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "547 Mutebi Road",
+      "price": "USh 25,000",
+      "id": "uganda-c6e239341c9e0e2032d1"
+    },
+    {
+      "name": "Palm Gardens and Guest House",
+      "kind": "stay",
+      "locality": "Kampala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Gayaza Road off Msisi road Makindye",
+      "price": "from USh 35,000",
+      "id": "uganda-dec9348e941b93be681f"
+    },
+    {
+      "name": "Fat Cat Backpackers",
+      "kind": "stay",
+      "locality": "Kampala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "13 Bukoto Street",
+      "price": "US$15 per dorm bed.",
+      "id": "uganda-29d4bb42159f2208532b"
+    },
+    {
+      "name": "Red Chilli Hideaway",
+      "kind": "stay",
+      "locality": "Kampala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "13-23 Bukasa Hill view road Butabika",
+      "price": "US$12 per dorm bed",
+      "url": "http://www.redchillihideaway.com/",
+      "id": "uganda-d9aaf751abd75eb14067"
+    },
+    {
+      "name": "Kampala Backpackers Hostel and Campsite",
+      "kind": "stay",
+      "locality": "Kampala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "kampala Natete road lungujja",
+      "price": "Camping US$7. Dorm bed $10. Single room $15. Double room $25",
+      "id": "uganda-94c5e45a36ef21ed2cc5"
+    },
+    {
+      "name": "Ewaka Guest House and Backpackers",
+      "kind": "stay",
+      "locality": "Kampala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "8/9 Salim bey road",
+      "price": "Camping US$5. Dorm bed $10. Room $20.",
+      "url": "http://www.ewaka-kampala.com/",
+      "id": "uganda-9f4a4eb36ea0b8666fb6"
+    },
+    {
+      "name": "Bushpig backpacker's",
+      "kind": "stay",
+      "locality": "Kampala",
+      "lat": 0.3301,
+      "lon": 32.58689,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "31 John Babiha (Acacia) Ave",
+      "price": "Bed in a 4-bed dorm $15",
+      "url": "https://bushpigkampala.com/",
+      "id": "uganda-f0b3e8a13bf2edf5b918"
+    },
+    {
+      "name": "Grand Imperial Hotel",
+      "kind": "stay",
+      "locality": "Kampala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "url": "https://www.imperialhotels.co.ug/",
+      "id": "uganda-843777be28f3cce703a5"
+    },
+    {
+      "name": "Prestige Hotel Suites",
+      "kind": "stay",
+      "locality": "Kampala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Plot 9 Lumumba Avenue, Nakasero",
+      "price": "From US$80",
+      "url": "http://www.prestigehotelsuites.com/",
+      "id": "uganda-6c2d36399f5aa7611357"
+    },
+    {
+      "name": "Hotel Africana",
+      "kind": "stay",
+      "locality": "Kampala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Plot 2-4 Wampewo Ave",
+      "id": "uganda-765e0f5a83116341dee1"
+    },
+    {
+      "name": "Hotel Ruch",
+      "kind": "stay",
+      "locality": "Kampala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "price": "from US$50",
+      "url": "http://www.hotelruch.com/",
+      "id": "uganda-eea10ca0065772f5d99f"
+    },
+    {
+      "name": "Aminaz Garden Place",
+      "kind": "stay",
+      "locality": "Kampala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "id": "uganda-b9132b3adb3e2f2439dc"
+    },
+    {
+      "name": "Shangri-la Hotel",
+      "kind": "stay",
+      "locality": "Kampala",
+      "lat": 0.31773,
+      "lon": 32.58308,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Plot 8/10 Ternan Avenue, Nakasero",
+      "price": "USh 132,106",
+      "id": "uganda-e6c9301196c52dd1fadd"
+    },
+    {
+      "name": "Golf Course Hotel",
+      "kind": "stay",
+      "locality": "Kampala",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Plot 64-86, Yusuf Lule Road",
+      "url": "http://www.golfcoursehotel.com/",
+      "id": "uganda-38b2e1198a1407e68905"
+    },
+    {
+      "name": "Kampala Serena Hotel",
+      "kind": "stay",
+      "locality": "Kampala",
+      "lat": 0.319167,
+      "lon": 32.586667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Kintu Road",
+      "price": "From US$150 per night",
+      "url": "http://www.serenahotels.com/serenakampala/",
+      "id": "uganda-d846737f9c71243d7049"
+    },
+    {
+      "name": "Sheraton Kampala Hotel",
+      "kind": "stay",
+      "locality": "Kampala",
+      "lat": 0.316667,
+      "lon": 32.583611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "address": "Ternan Avenue",
+      "url": "https://www.marriott.com/hotels/travel/ebbsi-sheraton-kampala-hotel/",
+      "id": "uganda-129b1136d2ac708ad1a8"
+    },
+    {
+      "name": "Speke Resort",
+      "kind": "stay",
+      "locality": "Kampala",
+      "lat": 0.2375,
+      "lon": 32.625,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "url": "https://www.spekeresort.com/",
+      "id": "uganda-8300297898765a188fc3"
+    },
+    {
+      "name": "Kampala",
+      "kind": "area",
+      "locality": "Kampala",
+      "lat": 0.3,
+      "lon": 32.633333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Kampala",
+      "id": "uganda-bd5379367beb80c40820"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

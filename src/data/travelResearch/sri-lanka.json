@@ -1,0 +1,1284 @@
+{
+  "sources": [
+    {
+      "title": "Sri Lanka",
+      "url": "https://en.wikivoyage.org/wiki/Sri_Lanka",
+      "checkedAt": "2026-10-21T08:05:42.675Z"
+    },
+    {
+      "title": "Sri Jayawardenapura Kotte",
+      "url": "https://en.wikivoyage.org/wiki/Sri_Jayawardenapura_Kotte",
+      "checkedAt": "2026-10-21T08:05:48.198Z"
+    },
+    {
+      "title": "Colombo",
+      "url": "https://en.wikivoyage.org/wiki/Colombo",
+      "checkedAt": "2026-10-21T08:05:51.703Z"
+    },
+    {
+      "title": "Sigiriya",
+      "url": "https://en.wikivoyage.org/wiki/Sigiriya",
+      "checkedAt": "2026-10-21T08:05:54.179Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Colombo",
+      "kind": "area",
+      "locality": "Sri Lanka",
+      "lat": 6.934444,
+      "lon": 79.842778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sri_Lanka",
+      "id": "sri-lanka-6398c5519c08603431f9"
+    },
+    {
+      "name": "Sri Jayawardenapura Kotte",
+      "kind": "area",
+      "locality": "Sri Lanka",
+      "lat": 6.910833,
+      "lon": 79.887836,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sri_Lanka",
+      "id": "sri-lanka-84ce62043cc24f7caeb2"
+    },
+    {
+      "name": "Anuradhapura",
+      "kind": "area",
+      "locality": "Sri Lanka",
+      "lat": 8.35,
+      "lon": 80.385278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sri_Lanka",
+      "id": "sri-lanka-c08b20e859aae1f9d8f1"
+    },
+    {
+      "name": "Batticaloa",
+      "kind": "area",
+      "locality": "Sri Lanka",
+      "lat": 7.716667,
+      "lon": 81.7,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sri_Lanka",
+      "id": "sri-lanka-7d0a5538899141587a04"
+    },
+    {
+      "name": "Galle",
+      "kind": "area",
+      "locality": "Sri Lanka",
+      "lat": 6.053611,
+      "lon": 80.211667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sri_Lanka",
+      "id": "sri-lanka-1cee1f78e5d4a2d0d13c"
+    },
+    {
+      "name": "Jaffna",
+      "kind": "area",
+      "locality": "Sri Lanka",
+      "lat": 9.666667,
+      "lon": 80,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sri_Lanka",
+      "id": "sri-lanka-09e46d15dee7c7e71e46"
+    },
+    {
+      "name": "Kandy",
+      "kind": "area",
+      "locality": "Sri Lanka",
+      "lat": 7.296389,
+      "lon": 80.635,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sri_Lanka",
+      "id": "sri-lanka-2b05ba96f17452c3c31b"
+    },
+    {
+      "name": "Negombo",
+      "kind": "area",
+      "locality": "Sri Lanka",
+      "lat": 7.211111,
+      "lon": 79.838611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sri_Lanka",
+      "id": "sri-lanka-b5d6a5d6520cf98d4c2a"
+    },
+    {
+      "name": "Nuwara Eliya",
+      "kind": "area",
+      "locality": "Sri Lanka",
+      "lat": 6.966667,
+      "lon": 80.766667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sri_Lanka",
+      "id": "sri-lanka-96bbf7c442825e86a050"
+    },
+    {
+      "name": "Sri Jayawardenapura Kotte",
+      "kind": "area",
+      "locality": "Sri Jayawardenapura Kotte",
+      "lat": 6.910833,
+      "lon": 79.887836,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sri_Jayawardenapura_Kotte",
+      "id": "sri-lanka-5b59f5e9da6f192b7c94"
+    },
+    {
+      "name": "Basilica of Our Lady of Lanka",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 7.03586,
+      "lon": 79.93554,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "Lankamatha Road, Ragama suburb of Colombo",
+      "id": "sri-lanka-a3863995ae0ad2095f96"
+    },
+    {
+      "name": "St Luke's Anglican Church",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.918056,
+      "lon": 79.874838,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "Borella district of Colombo-8",
+      "id": "sri-lanka-6a66bffbb00b19574be8"
+    },
+    {
+      "name": "St Michael and All Angels Anglican Church",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.91347,
+      "lon": 79.85194,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "Polwatte (159, St Michael’s Road, Colombo 3)",
+      "id": "sri-lanka-6d107c93db38095ce421"
+    },
+    {
+      "name": "St Andrew's Scots Kirk church",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.91893,
+      "lon": 79.84768,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "No. 73, Galle Road, Colombo 3",
+      "id": "sri-lanka-fbc34bc81023f9578ee5"
+    },
+    {
+      "name": "St Lucia's Cathedral",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.94824,
+      "lon": 79.86406,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "St Benedict's Street and St Lucia Street, Kotahena",
+      "id": "sri-lanka-290102baf203507744ae"
+    },
+    {
+      "name": "St Paul's Church (1853)",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.88593,
+      "lon": 79.8584,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "Galle Rd, Milagiriya district",
+      "id": "sri-lanka-6c7418f32fe4a9ed88b1"
+    },
+    {
+      "name": "Buddha Jayanthi Chaithya stupa",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.93843,
+      "lon": 79.84191,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "Colombo Harbour",
+      "id": "sri-lanka-ee18e8081ac252617bc4"
+    },
+    {
+      "name": "Gangaramaya Temple",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.916639,
+      "lon": 79.85654,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "61, Sri Jinarathana Road, Colombo 2",
+      "url": "http://gangaramaya.com/",
+      "id": "sri-lanka-28479071f2c4e89db7a2"
+    },
+    {
+      "name": "Sri Bala Selva Vinayagar",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.90786,
+      "lon": 79.89263,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "id": "sri-lanka-fc81a4cf19e4ff974816"
+    },
+    {
+      "name": "Kalani Raja Maha Viharaya.",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.9516,
+      "lon": 79.9187,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "url": "http://www.kelaniyatemple.org/",
+      "id": "sri-lanka-e113d5f4c4b0c17741bf"
+    },
+    {
+      "name": "Memm Harnafi",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.91586,
+      "lon": 79.86471,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "Dr C.W.W. Kannangara Mawatha",
+      "url": "http://www.shaikhusmanwali.org/",
+      "id": "sri-lanka-8733f585f005d6181934"
+    },
+    {
+      "name": "Church of St Anthony",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.94682,
+      "lon": 79.85627,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "id": "sri-lanka-dab04c2597a8866328f0"
+    },
+    {
+      "name": "Jami-Ul-Alfar Mosque",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.9385,
+      "lon": 79.8518,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "Second Cross Street in Pettah",
+      "id": "sri-lanka-dcb8fdc15fcc79907cc9"
+    },
+    {
+      "name": "Victoria Masonic Temple",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.92293,
+      "lon": 79.84797,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "Galle Face, Colombo 03",
+      "id": "sri-lanka-57576cdc361247f71d0e"
+    },
+    {
+      "name": "Wolvendaal church",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.9421,
+      "lon": 79.859,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "363, Galle Road, Colombo 06",
+      "id": "sri-lanka-e0b7236a2a8cd645fa12"
+    },
+    {
+      "name": "The National Museum of Colombo",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.91,
+      "lon": 79.9275,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "Cinnamon Gardens, Colombo 7",
+      "price": "Child Rs 300, adult Rs 500 (2013)",
+      "url": "http://www.museum.gov.lk/",
+      "id": "sri-lanka-11c20d0bfb2d5a3fea16"
+    },
+    {
+      "name": "The Natural History Museum",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.91115,
+      "lon": 79.86115,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "Sir Marcus Fernando Mawatha, Cinnamon Gardens, Colombo 7",
+      "price": "Child Rs 150, adult Rs 300",
+      "url": "http://www.museum.gov.lk/",
+      "id": "sri-lanka-2a5d77ecfe4c53aaee4f"
+    },
+    {
+      "name": "The Dutch Period Museum",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.936081,
+      "lon": 79.851562,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "95 Prince Street, Colombo 01",
+      "price": "Child Rs 300, adult Rs 500 (2013)",
+      "id": "sri-lanka-b3751cd88007d0550baf"
+    },
+    {
+      "name": "Independence Memorial Hall",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.90458,
+      "lon": 79.8673,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "Independence Square (formerly Torrington Square)",
+      "price": "Child Rs 150, adult Rs 300 (2013)",
+      "url": "http://www.culturaldept.gov.lk/",
+      "id": "sri-lanka-833cefad97fe9a0454cb"
+    },
+    {
+      "name": "Central Bank Currency Museum",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.934528,
+      "lon": 79.843056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "58, Sri Jayawardhanapura Mawatha, Rajagiriya",
+      "price": "free",
+      "id": "sri-lanka-2685bd7cc3f8538e2b82"
+    },
+    {
+      "name": "The Sapumal Foundation",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.91288,
+      "lon": 79.86742,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "32/4 Barnes Pl",
+      "id": "sri-lanka-43dfec1ee8c206f537ba"
+    },
+    {
+      "name": "The Lionel Wendt Memorial Art Centre",
+      "kind": "do",
+      "locality": "Colombo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "18 Guilford Crescent, Colombo 7",
+      "id": "sri-lanka-184dd669b47dda79193e"
+    },
+    {
+      "name": "India House",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.9011,
+      "lon": 79.85843,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "id": "sri-lanka-62df26243b4e9ec622a6"
+    },
+    {
+      "name": "Lakshmigiri Mansion",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.89967,
+      "lon": 79.85962,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "id": "sri-lanka-ccf484d6a3eac96ef6b3"
+    },
+    {
+      "name": "Storm Lodge.",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.9146,
+      "lon": 79.8479,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "142 Galle Rd, Colombo 3",
+      "id": "sri-lanka-210dfb286cd6e383fd94"
+    },
+    {
+      "name": "The Lighthouse.",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.9112,
+      "lon": 79.8659,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "id": "sri-lanka-3a07efe1e6ac0e12a496"
+    },
+    {
+      "name": "Whist Bungalow",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.96851,
+      "lon": 79.86864,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "id": "sri-lanka-66a722374e12f37ba1d5"
+    },
+    {
+      "name": "Lotus Tower",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.926944,
+      "lon": 79.858333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "price": "$20 USD for foreigners, Rs 500 for Sri Lankans",
+      "url": "https://colombolotustower.lk/",
+      "id": "sri-lanka-807982ed339765373e71"
+    },
+    {
+      "name": "Colombo Lighthouse",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.9362,
+      "lon": 79.84078,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "Chaithya Rd",
+      "id": "sri-lanka-8db3e17d34c707eefc56"
+    },
+    {
+      "name": "Slave Island",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.9245,
+      "lon": 79.8506,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "id": "sri-lanka-a8ce9e1f76ea4614b766"
+    },
+    {
+      "name": "Galle Face Green Promenade",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.926555,
+      "lon": 79.843547,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "Galle Road, Colombo 03",
+      "price": "Free",
+      "id": "sri-lanka-c21636c6b9ed8adf9dcf"
+    },
+    {
+      "name": "Colombo Zoological Gardens",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.8571,
+      "lon": 79.8742,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "Anagarika Dharmapala Mawatha, Dehiwala",
+      "url": "http://nationalzoo.gov.lk/",
+      "id": "sri-lanka-72b10a25aae9665e03d6"
+    },
+    {
+      "name": "Viharamahadevi Park",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.91389,
+      "lon": 79.8606,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "Cinnamon Gardens",
+      "id": "sri-lanka-4c1f0703fba6539adab3"
+    },
+    {
+      "name": "Attidiya Bird Sanctuary",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.8344,
+      "lon": 79.8927,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "id": "sri-lanka-cbb0af2aece6b1a551cb"
+    },
+    {
+      "name": "Sri Lanka Planetarium",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.900762,
+      "lon": 79.862916,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "Bauddhaloka Mawatha, Colombo 7",
+      "url": "http://www.planetarium.gov.lk/",
+      "id": "sri-lanka-0698685cba814671ef34"
+    },
+    {
+      "name": "Gordon Gardens",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.9376,
+      "lon": 79.8431,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "id": "sri-lanka-a0ec8d7f6f2470e976e2"
+    },
+    {
+      "name": "Colombo Racecourse",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.905,
+      "lon": 79.8639,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "Cinnamon Gardens, Philip Gunewardena Mawatha, Colombo 07",
+      "id": "sri-lanka-a8e9fc95ca762b95326a"
+    },
+    {
+      "name": "Ceylonese Rugby & Football Club Grounds",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.900278,
+      "lon": 79.870833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "Malalasekara Mawatha, Colombo 07",
+      "id": "sri-lanka-0a4812ef5b8b949d04bf"
+    },
+    {
+      "name": "Royal College Sports Complex",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.90278,
+      "lon": 79.8639,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "10, Sri Lanka Foundation Mawatha, Off Independence Avenue, Colombo 07",
+      "id": "sri-lanka-5e08e03e351242999538"
+    },
+    {
+      "name": "Royal Colombo Golf Club",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.971667,
+      "lon": 80.764722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "223, Model Farm Road, Colombo 08",
+      "url": "http://www.rcgcsl.com/",
+      "id": "sri-lanka-8518fd30dc2b9570031c"
+    },
+    {
+      "name": "Sugathadasa Stadium",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.9475,
+      "lon": 79.8686,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "Arthur de Silva Mawatha or Prince of Wales Ave, Colombo 14",
+      "id": "sri-lanka-ebb7930f4fc7108b032b"
+    },
+    {
+      "name": "Colombo Cricket Club Ground (CCCG)",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.908486,
+      "lon": 79.865648,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "Maitland Crescent",
+      "id": "sri-lanka-08b78c16a234e4ce68b7"
+    },
+    {
+      "name": "Nelum Pokuna Theatre",
+      "kind": "do",
+      "locality": "Colombo",
+      "lat": 6.910833,
+      "lon": 79.863333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "id": "sri-lanka-531d76487eef6f734e82"
+    },
+    {
+      "name": "New Yarl Eat House",
+      "kind": "eat",
+      "locality": "Colombo",
+      "lat": 6.8753,
+      "lon": 79.8608,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "Station Road, Wellawatte",
+      "price": "A lunch for one including a full crab costs around Rs 400",
+      "id": "sri-lanka-af4ffcd0999187e4390c"
+    },
+    {
+      "name": "The Cricket Club Cafe",
+      "kind": "eat",
+      "locality": "Colombo",
+      "lat": 6.91094,
+      "lon": 79.8582,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "34 Queens Rd",
+      "url": "http://thecricketclubcafeceylon.com/",
+      "id": "sri-lanka-23d287a3d99b6717560c"
+    },
+    {
+      "name": "The Gallery Cafe",
+      "kind": "eat",
+      "locality": "Colombo",
+      "lat": 6.89861,
+      "lon": 79.85494,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "2 Alfred House Rd",
+      "url": "http://www.paradiseroad.lk/gallery_cafe/",
+      "id": "sri-lanka-636f7c59e1fd7742b27c"
+    },
+    {
+      "name": "The Lagoon",
+      "kind": "eat",
+      "locality": "Colombo",
+      "lat": 6.91841,
+      "lon": 79.8486,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "The Cinnamon Grand Hotel, 77 Galle Road",
+      "price": "Full meal: Rs 4,000 per person",
+      "url": "http://www.cinnamonhotels.com/cinnamongrandcolombo/dining/lagoon.html",
+      "id": "sri-lanka-ece6d26c9e065a733152"
+    },
+    {
+      "name": "Mango Tree",
+      "kind": "eat",
+      "locality": "Colombo",
+      "lat": 6.91269,
+      "lon": 79.85554,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "82 Dharmapala Mawatha",
+      "price": "Full meal: Rs 1,000 per person",
+      "url": "http://www.themangotree.net/",
+      "id": "sri-lanka-792ada1b469b74c0971d"
+    },
+    {
+      "name": "The Palmyrah Restaurant",
+      "kind": "eat",
+      "locality": "Colombo",
+      "lat": 6.90857,
+      "lon": 79.85039,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "328 Galle Rd",
+      "url": "https://www.renukahotel.com/dine-and-drink/palmyrah-restaurant/",
+      "id": "sri-lanka-276a601663ecb7452af9"
+    },
+    {
+      "name": "168 Seafood Palace",
+      "kind": "eat",
+      "locality": "Colombo",
+      "lat": 6.9095,
+      "lon": 79.85071,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "id": "sri-lanka-508e32470a93defd6dc4"
+    },
+    {
+      "name": "Arunthathee Vihaar Vegetarian Family Restaurant",
+      "kind": "eat",
+      "locality": "Colombo",
+      "lat": 6.939025,
+      "lon": 79.853759,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "341 Main Street",
+      "id": "sri-lanka-9d2c3bdf5fb741a72c2f"
+    },
+    {
+      "name": "Thalis Restaurant",
+      "kind": "eat",
+      "locality": "Colombo",
+      "lat": 6.88714,
+      "lon": 79.87178,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "No 155 Park Road",
+      "price": "Meal 400-700 Rs",
+      "id": "sri-lanka-0c71e17720a21f26fe14"
+    },
+    {
+      "name": "Nihonbashi Main Restaurant",
+      "kind": "eat",
+      "locality": "Colombo",
+      "lat": 6.92,
+      "lon": 79.84731,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "11 Galle Face Terrace",
+      "url": "http://nihonbashi.lk/#home_layout_1.html",
+      "id": "sri-lanka-d8319d311146f31d5718"
+    },
+    {
+      "name": "Graze Kitchen",
+      "kind": "eat",
+      "locality": "Colombo",
+      "lat": 6.93234,
+      "lon": 79.84534,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "url": "https://www.hilton.com/en/hotels/colhitw-hilton-colombo/dining/",
+      "id": "sri-lanka-76d8a1bae727a5888e58"
+    },
+    {
+      "name": "Ginza Hohsen",
+      "kind": "eat",
+      "locality": "Colombo",
+      "lat": 6.93211,
+      "lon": 79.84262,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "url": "http://www.ginzahohsen.com/",
+      "id": "sri-lanka-8b440177705db47db005"
+    },
+    {
+      "name": "The London Grill",
+      "kind": "eat",
+      "locality": "Colombo",
+      "lat": 6.91884,
+      "lon": 79.84841,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "id": "sri-lanka-11a93478f487f57a7496"
+    },
+    {
+      "name": "California Grill",
+      "kind": "eat",
+      "locality": "Colombo",
+      "lat": 6.93178,
+      "lon": 79.84342,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "id": "sri-lanka-a1b20acecaec475cb4a1"
+    },
+    {
+      "name": "Royal Thai",
+      "kind": "eat",
+      "locality": "Colombo",
+      "lat": 6.92895,
+      "lon": 79.84972,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "115 Sir Chittampalam A. Gardiner Mawatha",
+      "url": "https://www.cinnamonhotels.com/cinnamonlakesidecolombo/experiences/royal-thai",
+      "id": "sri-lanka-8e2b48734ea29d222042"
+    },
+    {
+      "name": "The Ministry of Crab",
+      "kind": "eat",
+      "locality": "Colombo",
+      "lat": 6.93358,
+      "lon": 79.84333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "Old Dutch Hospital, Colombo Fort",
+      "url": "https://www.ministryofcrab.com/colombo/",
+      "id": "sri-lanka-75a2ec2eaf5420b718d3"
+    },
+    {
+      "name": "Mount Lavinia",
+      "kind": "eat",
+      "locality": "Colombo",
+      "lat": 6.84156,
+      "lon": 79.86286,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "id": "sri-lanka-d6a5fd338668fbed2689"
+    },
+    {
+      "name": "Whitehorse",
+      "kind": "eat",
+      "locality": "Colombo",
+      "lat": 6.91946,
+      "lon": 79.85003,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "id": "sri-lanka-2899a8e1d86edd247b84"
+    },
+    {
+      "name": "In... on the Green",
+      "kind": "eat",
+      "locality": "Colombo",
+      "lat": 6.92022,
+      "lon": 79.84643,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "id": "sri-lanka-b3f8849e938f7ddde94a"
+    },
+    {
+      "name": "7 Degrees North",
+      "kind": "eat",
+      "locality": "Colombo",
+      "lat": 6.9294,
+      "lon": 79.8496,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "id": "sri-lanka-a7618f1dbbb3adb5f0cb"
+    },
+    {
+      "name": "Cheers",
+      "kind": "eat",
+      "locality": "Colombo",
+      "lat": 6.91845,
+      "lon": 79.84829,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "id": "sri-lanka-35d0fe7b9eee1b60613f"
+    },
+    {
+      "name": "Pegasus Reef Hotel",
+      "kind": "stay",
+      "locality": "Colombo",
+      "lat": 6.9897,
+      "lon": 79.8694,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "Hendala, Wattala",
+      "price": "US$50–125",
+      "url": "https://www.pegasusreefhotel.com/",
+      "id": "sri-lanka-dedd9112e21d04c07aed"
+    },
+    {
+      "name": "Fairway Colombo Hotel",
+      "kind": "stay",
+      "locality": "Colombo",
+      "lat": 6.9328,
+      "lon": 79.8437,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "No. 7 Hospital Street, Colombo 01",
+      "price": "LKR16500- 43200",
+      "url": "https://www.fairwaycolombo.com/",
+      "id": "sri-lanka-088c73b616f38e32e73f"
+    },
+    {
+      "name": "Parisare Homestay",
+      "kind": "stay",
+      "locality": "Colombo",
+      "lat": 6.91451,
+      "lon": 79.87258,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "97/1 Rosemead Place",
+      "price": "Rs 1000/1200",
+      "id": "sri-lanka-7bbdc101b1ab059127bd"
+    },
+    {
+      "name": "Miracle City Inn Hostel",
+      "kind": "stay",
+      "locality": "Colombo",
+      "lat": 6.9143,
+      "lon": 79.85086,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "177 R. A. De Mel Mawatha",
+      "price": "Rs 1110",
+      "url": "https://miraclecityinn.com/",
+      "id": "sri-lanka-1d947fb0c4aad632cca8"
+    },
+    {
+      "name": "C1 Colombo Fort",
+      "kind": "stay",
+      "locality": "Colombo",
+      "lat": 6.93541,
+      "lon": 79.84423,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "37 Mudalige Mawatha",
+      "price": "Rs 4624",
+      "url": "http://c1fortcolombo.com/",
+      "id": "sri-lanka-6575f20eb7a091ae237c"
+    },
+    {
+      "name": "Sapphire Hotel",
+      "kind": "stay",
+      "locality": "Colombo",
+      "lat": 6.871,
+      "lon": 79.8625,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "371 Galle Rd",
+      "price": "Rs 4439",
+      "url": "http://www.hotelsapphirelk.com/",
+      "id": "sri-lanka-ccf0dc4386dd4502c2c3"
+    },
+    {
+      "name": "Hotel Clarion",
+      "kind": "stay",
+      "locality": "Colombo",
+      "lat": 6.98358,
+      "lon": 79.93291,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "103, Kandy Road, Kiribathgoda",
+      "price": "Rs 6103",
+      "url": "http://www.clarionlk.com/",
+      "id": "sri-lanka-febf5eb89fc093eba649"
+    },
+    {
+      "name": "Hotel Galadari",
+      "kind": "stay",
+      "locality": "Colombo",
+      "lat": 6.9317,
+      "lon": 79.8432,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "64 Lotus Road, Fort",
+      "price": "Rs 6103",
+      "url": "http://www.galadarihotel.lk/",
+      "id": "sri-lanka-6adee0fd63b5935aff0c"
+    },
+    {
+      "name": "Hotel Janaki",
+      "kind": "stay",
+      "locality": "Colombo",
+      "lat": 6.89067,
+      "lon": 79.86976,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "443, Fife Rd Havelock Town, Colombo 5",
+      "price": "Rs 6843",
+      "id": "sri-lanka-cf7b33de7286939459bd"
+    },
+    {
+      "name": "Garden Guest House",
+      "kind": "stay",
+      "locality": "Colombo",
+      "lat": 6.9227,
+      "lon": 79.8765,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "7 Karlsruhe Gardens, Borella, Colombo 8",
+      "url": "https://garden-guest-house-colombo.business.site/",
+      "id": "sri-lanka-5f77af05d805da662457"
+    },
+    {
+      "name": "Palm Village Hotel",
+      "kind": "stay",
+      "locality": "Colombo",
+      "lat": 7.0444,
+      "lon": 79.8584,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "262, Old Colombo Road",
+      "url": "http://www.palmvillagehotel.com/",
+      "id": "sri-lanka-6cad2e7bcb99804be9b5"
+    },
+    {
+      "name": "Hotel Renuka & Renuka City Hotel",
+      "kind": "stay",
+      "locality": "Colombo",
+      "lat": 6.9084,
+      "lon": 79.8502,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "328 Galle Road",
+      "price": "Rs 7768",
+      "url": "http://www.renukahotel.com/",
+      "id": "sri-lanka-876fffd8cbe4191ce770"
+    },
+    {
+      "name": "Mount Lavinia Hotel",
+      "kind": "stay",
+      "locality": "Colombo",
+      "lat": 6.833161,
+      "lon": 79.861957,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "No 100, Hotel Rd, Mount Lavinia",
+      "price": "Rs 10727",
+      "url": "https://www.mountlaviniahotel.com/",
+      "id": "sri-lanka-2381d2fc3af52bfa8aa7"
+    },
+    {
+      "name": "Galle Face Hotel",
+      "kind": "stay",
+      "locality": "Colombo",
+      "lat": 6.920008,
+      "lon": 79.846208,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "2 Galle Road, Kollupitiya, Colombo 3",
+      "price": "Rs 15536",
+      "url": "http://www.gallefacehotel.com/",
+      "id": "sri-lanka-1be8a08b187b13e2b6a4"
+    },
+    {
+      "name": "Hotel Nippon",
+      "kind": "stay",
+      "locality": "Colombo",
+      "lat": 6.92387,
+      "lon": 79.85227,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "123, Kumaran Ratnam Road",
+      "price": "Rs 13131",
+      "url": "https://www.hotelnippon.lk/",
+      "id": "sri-lanka-7784ada1592d0559562a"
+    },
+    {
+      "name": "The Havelock Place Bungalow",
+      "kind": "stay",
+      "locality": "Colombo",
+      "lat": 6.8853,
+      "lon": 79.86513,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "6-8, Havelock Place, Havelock Town, Colombo 5",
+      "url": "https://www.havelockbungalow.com/",
+      "id": "sri-lanka-6168f4c42e5d04a9e2d6"
+    },
+    {
+      "name": "Uga Residence",
+      "kind": "stay",
+      "locality": "Colombo",
+      "lat": 6.9174,
+      "lon": 79.85823,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "20 Park street, Slave Island, Colombo 2, Sri Lanka",
+      "url": "https://www.ugaescapes.com/residence/",
+      "id": "sri-lanka-ed4b6c94d95d6a5953e7"
+    },
+    {
+      "name": "Tintagel",
+      "kind": "stay",
+      "locality": "Colombo",
+      "lat": 6.91316,
+      "lon": 79.87084,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "65 Rosmead Place, Cinnamon Gardens, Colombo 7, Sri Lanka",
+      "url": "http://www.paradiseroadhotels.com/tintagel/",
+      "id": "sri-lanka-e8d84bd40c868fdca769"
+    },
+    {
+      "name": "The Kingsbury Colombo",
+      "kind": "stay",
+      "locality": "Colombo",
+      "lat": 6.93299,
+      "lon": 79.84201,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "48 Janadhipathi Mawatha, Fort, Colombo 1",
+      "url": "https://www.thekingsburyhotel.com/",
+      "id": "sri-lanka-8a640e5f4bd04059c91e"
+    },
+    {
+      "name": "Cinnamon Grand Colombo",
+      "kind": "stay",
+      "locality": "Colombo",
+      "lat": 6.91794,
+      "lon": 79.84848,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "77 Galle Road, Kollupitiya, Colombo 3",
+      "price": "US$127",
+      "url": "https://www.cinnamonhotels.com/cinnamongrandcolombo",
+      "id": "sri-lanka-1fd935488c1409824077"
+    },
+    {
+      "name": "Taj Samudra",
+      "kind": "stay",
+      "locality": "Colombo",
+      "lat": 6.92261,
+      "lon": 79.84682,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "25, Galle Face Centre Road, Kollupitiya, Colombo 3",
+      "url": "http://www.tajhotels.com/luxury/tajsamudra_colombo/new.htm",
+      "id": "sri-lanka-f9d6883b925480553270"
+    },
+    {
+      "name": "Cinnamon Lakeside Colombo",
+      "kind": "stay",
+      "locality": "Colombo",
+      "lat": 6.92901,
+      "lon": 79.84935,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "115, Sir Chittampalam A.Gardiner Mawatha, Colombo 2",
+      "url": "http://www.cinnamonhotels.com/en/cinnamonlakesidecolombo/",
+      "id": "sri-lanka-faa20b9948e6c5338ff4"
+    },
+    {
+      "name": "Colombo Courtyard Boutique Hotel",
+      "kind": "stay",
+      "locality": "Colombo",
+      "lat": 6.897765,
+      "lon": 79.856454,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "32, Alfred House Avenue, Colombo 03",
+      "price": "Starting from US$117",
+      "url": "https://www.colombocourthotel.com/",
+      "id": "sri-lanka-ec5d0425181ef44d6ef0"
+    },
+    {
+      "name": "Shangri-La Hotel",
+      "kind": "stay",
+      "locality": "Colombo",
+      "lat": 6.9284,
+      "lon": 79.84442,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "price": "Rs 24627",
+      "url": "https://www.shangri-la.com/colombo/shangrila/",
+      "id": "sri-lanka-cd6e0e27dc629df9db22"
+    },
+    {
+      "name": "Cinnamon Red Colombo",
+      "kind": "stay",
+      "locality": "Colombo",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "address": "No. 59, Ananda Coomaraswamy Mawatha",
+      "url": "https://www.cinnamonhotels.com/cinnamonredcolombo",
+      "id": "sri-lanka-1de99cdd108da08b7302"
+    },
+    {
+      "name": "Colombo",
+      "kind": "area",
+      "locality": "Colombo",
+      "lat": 6.934444,
+      "lon": 79.842778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Colombo",
+      "id": "sri-lanka-6d3de938b758217395ad"
+    },
+    {
+      "name": "Sigiriya Lion Rock Fortress",
+      "kind": "do",
+      "locality": "Sigiriya",
+      "lat": 7.956944,
+      "lon": 80.759722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sigiriya",
+      "id": "sri-lanka-2e3943a755ab644e5621"
+    },
+    {
+      "name": "Water Gardens",
+      "kind": "do",
+      "locality": "Sigiriya",
+      "lat": 7.956819,
+      "lon": 80.755592,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sigiriya",
+      "id": "sri-lanka-9939936d2ca3490d8c07"
+    },
+    {
+      "name": "Boulder Gardens",
+      "kind": "do",
+      "locality": "Sigiriya",
+      "lat": 7.95856,
+      "lon": 80.7592,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sigiriya",
+      "id": "sri-lanka-dfa365a5b49f86516f8b"
+    },
+    {
+      "name": "Cobra Hood Cave",
+      "kind": "do",
+      "locality": "Sigiriya",
+      "lat": 7.955961,
+      "lon": 80.7584,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sigiriya",
+      "id": "sri-lanka-c8ce051ce7e039ccfb75"
+    },
+    {
+      "name": "Fountain Gardens",
+      "kind": "do",
+      "locality": "Sigiriya",
+      "lat": 7.957533,
+      "lon": 80.754752,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sigiriya",
+      "id": "sri-lanka-2a9a469652945dda194a"
+    },
+    {
+      "name": "Sigiriya Museum",
+      "kind": "do",
+      "locality": "Sigiriya",
+      "lat": 7.95693,
+      "lon": 80.75181,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sigiriya",
+      "id": "sri-lanka-a4e9e77beaf730b9205e"
+    },
+    {
+      "name": "Pidurangala Rock",
+      "kind": "do",
+      "locality": "Sigiriya",
+      "lat": 7.965617,
+      "lon": 80.761852,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sigiriya",
+      "price": "Rs 1,000 for foreigners",
+      "id": "sri-lanka-7c017c16ecf508d98f9c"
+    },
+    {
+      "name": "Safari in Minneriya or Kaudulla National Park",
+      "kind": "do",
+      "locality": "Sigiriya",
+      "lat": 7.978889,
+      "lon": 80.848889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sigiriya",
+      "price": "€160–200 for one jeep (including 2-3 people)",
+      "id": "sri-lanka-b32aa1c2be5cd975d371"
+    },
+    {
+      "name": "Duwannagala",
+      "kind": "do",
+      "locality": "Sigiriya",
+      "lat": 7.94332,
+      "lon": 80.74205,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sigiriya",
+      "id": "sri-lanka-51e5077583d73371624d"
+    },
+    {
+      "name": "Mapagala",
+      "kind": "do",
+      "locality": "Sigiriya",
+      "lat": 7.9501,
+      "lon": 80.75741,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sigiriya",
+      "id": "sri-lanka-73e990e4b19cb0c5fae8"
+    },
+    {
+      "name": "Melu’s Rock",
+      "kind": "do",
+      "locality": "Sigiriya",
+      "lat": 7.96129,
+      "lon": 80.74474,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sigiriya",
+      "id": "sri-lanka-1bc0d38892fe2b91e6e5"
+    },
+    {
+      "name": "Hotel Delight",
+      "kind": "eat",
+      "locality": "Sigiriya",
+      "lat": 7.950396,
+      "lon": 80.735938,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sigiriya",
+      "address": "New Town Road",
+      "price": "Rs 450",
+      "id": "sri-lanka-de4ea855403ce8b23dd7"
+    },
+    {
+      "name": "Sigiriya Cafeteria",
+      "kind": "eat",
+      "locality": "Sigiriya",
+      "lat": 7.957332,
+      "lon": 80.7529,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sigiriya",
+      "id": "sri-lanka-358e7dd35b63135b3594"
+    },
+    {
+      "name": "Another World Hostel",
+      "kind": "stay",
+      "locality": "Sigiriya",
+      "lat": 7.94831,
+      "lon": 80.76083,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sigiriya",
+      "price": "Rs 4600 for standard dorm bed",
+      "id": "sri-lanka-60df7a79ee786467b8b5"
+    },
+    {
+      "name": "Aliya Resort and Spa",
+      "kind": "stay",
+      "locality": "Sigiriya",
+      "lat": 7.998716,
+      "lon": 80.735418,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sigiriya",
+      "address": "Avudangawa",
+      "url": "http://www.theme-resorts.com/aliyaresort/",
+      "id": "sri-lanka-f16dfb0f9deef9a216df"
+    },
+    {
+      "name": "Cinnamon Lodge Habarana",
+      "kind": "stay",
+      "locality": "Sigiriya",
+      "lat": 8.034794,
+      "lon": 80.748855,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sigiriya",
+      "price": "Starting at US$86",
+      "url": "https://www.cinnamonhotels.com/cinnamonlodgehabarana",
+      "id": "sri-lanka-5abb18bdd04e31435248"
+    },
+    {
+      "name": "Hotel Sigiriya",
+      "kind": "stay",
+      "locality": "Sigiriya",
+      "lat": 7.9507,
+      "lon": 80.7626,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sigiriya",
+      "price": "USD 80",
+      "url": "http://www.serendibleisure.com/hotelsigiriya/",
+      "id": "sri-lanka-a2488f991eb15fc3e3f6"
+    },
+    {
+      "name": "Kassapa Lions Rock",
+      "kind": "stay",
+      "locality": "Sigiriya",
+      "lat": 7.979662,
+      "lon": 80.727238,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sigiriya",
+      "price": "From USD 100",
+      "url": "http://www.kassapalionsrock.com/",
+      "id": "sri-lanka-c4fd72d3d840d5c554ad"
+    },
+    {
+      "name": "Sinhagiri Villa",
+      "kind": "stay",
+      "locality": "Sigiriya",
+      "lat": 7.960267,
+      "lon": 80.744424,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sigiriya",
+      "price": "USD 40",
+      "url": "http://www.sinhagirivilla.com/",
+      "id": "sri-lanka-fa54e061c087db916b79"
+    },
+    {
+      "name": "Water Garden Sigiriya",
+      "kind": "stay",
+      "locality": "Sigiriya",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sigiriya",
+      "address": "Indigaswewa",
+      "url": "https://www.watergardensigiriya.com/",
+      "id": "sri-lanka-73f84d55bdb95a0ccdc7"
+    },
+    {
+      "name": "Jetwing Vil Uyana Sigiriya",
+      "kind": "stay",
+      "locality": "Sigiriya",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sigiriya",
+      "url": "http://www.jetwinghotels.com/jetwingviluyana/",
+      "id": "sri-lanka-a2ef7c0f6875b512d208"
+    },
+    {
+      "name": "The Elephant Corridor Hotel",
+      "kind": "stay",
+      "locality": "Sigiriya",
+      "lat": 7.94356,
+      "lon": 80.759396,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sigiriya",
+      "address": "Inamaluwa - Sigiriya Rd",
+      "price": "From USD 280",
+      "url": "http://www.elephantcorridor.com/",
+      "id": "sri-lanka-210ce142a15bd56c58f1"
+    },
+    {
+      "name": "Sigiriya",
+      "kind": "area",
+      "locality": "Sigiriya",
+      "lat": 7.956944,
+      "lon": 80.759722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sigiriya",
+      "id": "sri-lanka-20112e0752fe9cec63eb"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 4 distinct public Wikivoyage source pages; attempted 4 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

@@ -1,0 +1,2215 @@
+{
+  "sources": [
+    {
+      "title": "Morocco",
+      "url": "https://en.wikivoyage.org/wiki/Morocco",
+      "checkedAt": "2026-10-21T08:02:40.478Z"
+    },
+    {
+      "title": "Rabat",
+      "url": "https://en.wikivoyage.org/wiki/Rabat",
+      "checkedAt": "2026-10-21T08:02:43.519Z"
+    },
+    {
+      "title": "Marrakech",
+      "url": "https://en.wikivoyage.org/wiki/Marrakech",
+      "checkedAt": "2026-10-21T08:02:46.719Z"
+    },
+    {
+      "title": "Merzouga",
+      "url": "https://en.wikivoyage.org/wiki/Merzouga",
+      "checkedAt": "2026-10-21T08:02:49.175Z"
+    },
+    {
+      "title": "M'Hamid",
+      "url": "https://en.wikivoyage.org/wiki/M'Hamid",
+      "checkedAt": "2026-10-21T08:02:52.162Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Rabat",
+      "kind": "area",
+      "locality": "Morocco",
+      "lat": 34.020882,
+      "lon": -6.84165,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Morocco",
+      "id": "morocco-643135a957e5bcd3aa2e"
+    },
+    {
+      "name": "Agadir",
+      "kind": "area",
+      "locality": "Morocco",
+      "lat": 30.433333,
+      "lon": -9.6,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Morocco",
+      "id": "morocco-260ade2feb93947510f7"
+    },
+    {
+      "name": "Casablanca",
+      "kind": "area",
+      "locality": "Morocco",
+      "lat": 33.533333,
+      "lon": -7.583333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Morocco",
+      "id": "morocco-184e0deddccf1e3e324b"
+    },
+    {
+      "name": "Fez",
+      "kind": "area",
+      "locality": "Morocco",
+      "lat": 34.033333,
+      "lon": -5,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Morocco",
+      "id": "morocco-a3c4c3011b102202417c"
+    },
+    {
+      "name": "Marrakech",
+      "kind": "area",
+      "locality": "Morocco",
+      "lat": 31.63,
+      "lon": -8.008889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Morocco",
+      "id": "morocco-76865705061525448573"
+    },
+    {
+      "name": "Meknes",
+      "kind": "area",
+      "locality": "Morocco",
+      "lat": 33.895,
+      "lon": -5.554722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Morocco",
+      "id": "morocco-83fc310b3056a357a2f4"
+    },
+    {
+      "name": "Ouarzazate",
+      "kind": "area",
+      "locality": "Morocco",
+      "lat": 30.916667,
+      "lon": -6.916667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Morocco",
+      "id": "morocco-551b4731d08d10294b45"
+    },
+    {
+      "name": "Tangier",
+      "kind": "area",
+      "locality": "Morocco",
+      "lat": 35.766667,
+      "lon": -5.8,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Morocco",
+      "id": "morocco-7fa1bf682ad98e5bfe69"
+    },
+    {
+      "name": "Tetouan",
+      "kind": "area",
+      "locality": "Morocco",
+      "lat": 35.566667,
+      "lon": -5.366667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Morocco",
+      "id": "morocco-dcf08f5b9a763d27d70d"
+    },
+    {
+      "name": "Kasbah of the Oudaias",
+      "kind": "do",
+      "locality": "Rabat",
+      "lat": 34.0318,
+      "lon": -6.83582,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "id": "morocco-19e58e02e85c58e141e8"
+    },
+    {
+      "name": "Old Medina",
+      "kind": "do",
+      "locality": "Rabat",
+      "lat": 34.02617,
+      "lon": -6.83625,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "id": "morocco-e0126b6f337652cbcc4d"
+    },
+    {
+      "name": "Chouhada Cemetery",
+      "kind": "do",
+      "locality": "Rabat",
+      "lat": 34.030548,
+      "lon": -6.840776,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "id": "morocco-ed2fe8d7319623feb25d"
+    },
+    {
+      "name": "The Beach",
+      "kind": "do",
+      "locality": "Rabat",
+      "lat": 34.0335,
+      "lon": -6.8375,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "id": "morocco-fcb621eaab668b25bf28"
+    },
+    {
+      "name": "Hassan Tower and the Royal Mausoleum",
+      "kind": "do",
+      "locality": "Rabat",
+      "lat": 34.02331,
+      "lon": -6.82213,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "price": "Free",
+      "id": "morocco-e39f74a202b1aba93b26"
+    },
+    {
+      "name": "National Archaeological Museum",
+      "kind": "do",
+      "locality": "Rabat",
+      "lat": 34.0137874,
+      "lon": -6.8314952,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "address": "Ave Yacoub el Mansour",
+      "id": "morocco-1c7414dbfec87363b1bc"
+    },
+    {
+      "name": "The Currency Museum of the Bank Al-Maghrib",
+      "kind": "do",
+      "locality": "Rabat",
+      "lat": 34.01953,
+      "lon": -6.8357,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "address": "Angle Avenue Allal Ben Abdellah et Rue Al-Qahira",
+      "url": "https://m.facebook.com/MuseedeBankAlMaghrib/",
+      "id": "morocco-e8b86c8674ca73acf89f"
+    },
+    {
+      "name": "St. Peter's Cathedral",
+      "kind": "do",
+      "locality": "Rabat",
+      "lat": 34.017778,
+      "lon": -6.831389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "id": "morocco-98f174a4d229c0d5aa0d"
+    },
+    {
+      "name": "Royal Palace",
+      "kind": "do",
+      "locality": "Rabat",
+      "lat": 34.0055618,
+      "lon": -6.8349918,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "id": "morocco-28fedc921f7cd1b036e4"
+    },
+    {
+      "name": "Chellah",
+      "kind": "do",
+      "locality": "Rabat",
+      "lat": 34.00682,
+      "lon": -6.82113,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "price": "70 dirham",
+      "id": "morocco-6a5c2e19f056ffcf9865"
+    },
+    {
+      "name": "Bab er-Rouah",
+      "kind": "do",
+      "locality": "Rabat",
+      "lat": 34.012806,
+      "lon": -6.837639,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "price": "Free",
+      "id": "morocco-25892ddeb56b6e0cc493"
+    },
+    {
+      "name": "Rabat Zoo",
+      "kind": "do",
+      "locality": "Rabat",
+      "lat": 33.954779,
+      "lon": -6.894207,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "address": "Annexe 23eme",
+      "price": "50 dirham, students 35 dirham",
+      "url": "http://rabatzoo.ma/",
+      "id": "morocco-1bb9000f9e15b60732ef"
+    },
+    {
+      "name": "Medina of Salé",
+      "kind": "do",
+      "locality": "Rabat",
+      "lat": 34.033056,
+      "lon": -6.820278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "price": "Free",
+      "id": "morocco-94fdb6358a34022834c3"
+    },
+    {
+      "name": "Marinid Madrasa",
+      "kind": "do",
+      "locality": "Rabat",
+      "lat": 34.039861,
+      "lon": -6.82725,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "price": "Around 60 dirham",
+      "id": "morocco-15723113d06424efe921"
+    },
+    {
+      "name": "Théâtre National Mohammed V",
+      "kind": "do",
+      "locality": "Rabat",
+      "lat": 34.020012,
+      "lon": -6.833078,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "address": "Avenue Moulay Rachid",
+      "url": "http://tnm5.ma/",
+      "id": "morocco-2a60b60999a64cfdcfbf"
+    },
+    {
+      "name": "Royal Golf Dar es Salaam",
+      "kind": "do",
+      "locality": "Rabat",
+      "lat": 33.922673,
+      "lon": -6.836715,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "id": "morocco-a4f23d5d0f9e6c50e313"
+    },
+    {
+      "name": "Cafe Maure",
+      "kind": "eat",
+      "locality": "Rabat",
+      "lat": 34.0304625,
+      "lon": -6.8350972,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "id": "morocco-b9f34e508bcacf1ce52f"
+    },
+    {
+      "name": "Majestic",
+      "kind": "eat",
+      "locality": "Rabat",
+      "lat": 34.0207427,
+      "lon": -6.8360372,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "address": "14 Av. Allal Ben Abdellah",
+      "id": "morocco-ec097e252b29e1e30299"
+    },
+    {
+      "name": "Pizza des Gourmets",
+      "kind": "eat",
+      "locality": "Rabat",
+      "lat": 34.0004664,
+      "lon": -6.8463543,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "address": "57 Rue Oued Sebou",
+      "id": "morocco-373c39dd8885f90126c0"
+    },
+    {
+      "name": "Dar Naji Agdal",
+      "kind": "eat",
+      "locality": "Rabat",
+      "lat": 34.0032342,
+      "lon": -6.8463191,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "address": "26 Av. Omar Ibn Al Khattab",
+      "id": "morocco-757fd554a1c0f2a4c601"
+    },
+    {
+      "name": "Le P'Tit Resto",
+      "kind": "eat",
+      "locality": "Rabat",
+      "lat": 34.0179957,
+      "lon": -6.8292911,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "address": "Rue er Riyad",
+      "id": "morocco-1e0c51fdfc6d036f2ea4"
+    },
+    {
+      "name": "Le Petit Beur",
+      "kind": "eat",
+      "locality": "Rabat",
+      "lat": 34.017884,
+      "lon": -6.8349545,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "address": "Rue damas",
+      "id": "morocco-8c867c28940a27affe5c"
+    },
+    {
+      "name": "El Rancho",
+      "kind": "eat",
+      "locality": "Rabat",
+      "lat": 33.9931055,
+      "lon": -6.8477574,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "address": "30 Av. Michlifen",
+      "id": "morocco-107c1b8c6111b686cd16"
+    },
+    {
+      "name": "Mega Mall Food Court",
+      "kind": "eat",
+      "locality": "Rabat",
+      "lat": 33.9673708,
+      "lon": -6.8300951,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "address": "Av. Oulad Frej",
+      "id": "morocco-81e4c098a01ecbeb4d5a"
+    },
+    {
+      "name": "La Mamma’s Pizza",
+      "kind": "eat",
+      "locality": "Rabat",
+      "lat": 34.0183464,
+      "lon": -6.8349716,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "address": "Rue Tanta",
+      "id": "morocco-91ccb49d8d0d68f98f76"
+    },
+    {
+      "name": "Ya Mal Al-Sham",
+      "kind": "eat",
+      "locality": "Rabat",
+      "lat": 34.0205209,
+      "lon": -6.8431876,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "address": "5 bis، 5 Av. Al Maghrib Al Arabi",
+      "id": "morocco-c34cc3e27ea796c10680"
+    },
+    {
+      "name": "Patisserie La Comedie",
+      "kind": "eat",
+      "locality": "Rabat",
+      "lat": 34.021106,
+      "lon": -6.8388551,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "address": "269 Ave Mohammed V",
+      "url": "https://www.facebook.com/pages/Comedie-Cafe/140391296025813",
+      "id": "morocco-90223b7b48c057ef01b5"
+    },
+    {
+      "name": "Ty Potes",
+      "kind": "eat",
+      "locality": "Rabat",
+      "lat": 34.0172373,
+      "lon": -6.8319689,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "address": "11 Rue Ghafsa",
+      "id": "morocco-c89bffc24577ec2ad4f8"
+    },
+    {
+      "name": "Villa Mandarine",
+      "kind": "eat",
+      "locality": "Rabat",
+      "lat": 33.9650389,
+      "lon": -6.8478496,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "address": "19 Rue Oulad Bou'sbaa",
+      "id": "morocco-eb7fa4266a8c5e0b60a2"
+    },
+    {
+      "name": "Paul",
+      "kind": "eat",
+      "locality": "Rabat",
+      "lat": 33.9893888,
+      "lon": -6.8483921,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "address": "Rue Ibn Hanbal",
+      "id": "morocco-48d989a1654903cde697"
+    },
+    {
+      "name": "Matsuri",
+      "kind": "eat",
+      "locality": "Rabat",
+      "lat": 33.9856826,
+      "lon": -6.8281669,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "address": "155 Av. Mohamed VI",
+      "id": "morocco-4efced0fb0579943b250"
+    },
+    {
+      "name": "Amnesia",
+      "kind": "eat",
+      "locality": "Rabat",
+      "lat": 34.021706,
+      "lon": -6.836079,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "address": "18, Rue Monastir",
+      "id": "morocco-1c968e019875c2579980"
+    },
+    {
+      "name": "Upstairs",
+      "kind": "eat",
+      "locality": "Rabat",
+      "lat": 33.994487,
+      "lon": -6.850185,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "address": "8, Avenue Michlifen",
+      "id": "morocco-24b8571df89b80a292b4"
+    },
+    {
+      "name": "Café Weimar",
+      "kind": "eat",
+      "locality": "Rabat",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "id": "morocco-b079fad70175dfc20195"
+    },
+    {
+      "name": "Le Bistrot Pietri",
+      "kind": "eat",
+      "locality": "Rabat",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "address": "Place Pietri",
+      "id": "morocco-f41dd0c9326dbe40a925"
+    },
+    {
+      "name": "El Rancho",
+      "kind": "eat",
+      "locality": "Rabat",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "id": "morocco-3f830269e8004c7d80ce"
+    },
+    {
+      "name": "El Palatino",
+      "kind": "eat",
+      "locality": "Rabat",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "id": "morocco-c86ed87dc3bbb39343e9"
+    },
+    {
+      "name": "Ty Potes",
+      "kind": "eat",
+      "locality": "Rabat",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "id": "morocco-4d5037655545fc9b85eb"
+    },
+    {
+      "name": "Las Tapas",
+      "kind": "eat",
+      "locality": "Rabat",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "id": "morocco-deae923279660a5cd330"
+    },
+    {
+      "name": "Le Deux Palais",
+      "kind": "eat",
+      "locality": "Rabat",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "id": "morocco-4ff28406567ba250eda3"
+    },
+    {
+      "name": "HI Hostel Rabat",
+      "kind": "stay",
+      "locality": "Rabat",
+      "lat": 34.0239818,
+      "lon": -6.8463572,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "address": "43 Rue Marassa Bab El Had",
+      "price": "65 dirham per bunk",
+      "url": "https://www.hihostels.com/hostels/rabat",
+      "id": "morocco-96f2fba49502157efabf"
+    },
+    {
+      "name": "Hotel Splendide",
+      "kind": "stay",
+      "locality": "Rabat",
+      "lat": 34.020991,
+      "lon": -6.83702,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "price": "100 dirham",
+      "id": "morocco-5fa338425ccd6a363adf"
+    },
+    {
+      "name": "Hotel de la Paix",
+      "kind": "stay",
+      "locality": "Rabat",
+      "lat": 34.021106,
+      "lon": -6.8388551,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "price": "150 dirham",
+      "id": "morocco-8eb0994400878471133a"
+    },
+    {
+      "name": "Hotel Central",
+      "kind": "stay",
+      "locality": "Rabat",
+      "lat": 34.021106,
+      "lon": -6.8388551,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "address": "2 Rue Al Basra",
+      "price": "120 dirham single",
+      "id": "morocco-ee8a8c414af88a15573e"
+    },
+    {
+      "name": "Medina Surfing Association",
+      "kind": "stay",
+      "locality": "Rabat",
+      "lat": 34.021106,
+      "lon": -6.8388551,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "address": "Rue Porte Maoun",
+      "price": "From €13",
+      "id": "morocco-4bf5c5d0557c21a6f956"
+    },
+    {
+      "name": "Hotel Majestic",
+      "kind": "stay",
+      "locality": "Rabat",
+      "lat": 34.0213828,
+      "lon": -6.8395033,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "price": "285 dirham",
+      "id": "morocco-f58aa4acf5f9b430a79a"
+    },
+    {
+      "name": "Hôtel Balima",
+      "kind": "stay",
+      "locality": "Rabat",
+      "lat": 34.021106,
+      "lon": -6.8388551,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "id": "morocco-33fcfcb7c1ace809824f"
+    },
+    {
+      "name": "Hôtel Majliss",
+      "kind": "stay",
+      "locality": "Rabat",
+      "lat": 34.021106,
+      "lon": -6.8388551,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "address": "6 Rue Zahla",
+      "price": "From €70",
+      "url": "http://www.majlisshotel.ma/",
+      "id": "morocco-9327efd5c8139e2df762"
+    },
+    {
+      "name": "Hotel Sofitel Jardin Des Roses",
+      "kind": "stay",
+      "locality": "Rabat",
+      "lat": 33.99046,
+      "lon": -6.83708,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "url": "https://all.accor.com/hotel/6813/index.en.shtml",
+      "id": "morocco-5677921a0a0d4daad182"
+    },
+    {
+      "name": "Golden Tulip Farah Rabat",
+      "kind": "stay",
+      "locality": "Rabat",
+      "lat": 34.025719,
+      "lon": -6.82607,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "address": "Place Sidi Makhlouf 10",
+      "price": "From 1796 dirham",
+      "id": "morocco-f43b8a5fff8b546ee8b8"
+    },
+    {
+      "name": "Villa Mandarine",
+      "kind": "stay",
+      "locality": "Rabat",
+      "lat": 34.021106,
+      "lon": -6.8388551,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "price": "From €150",
+      "url": "http://www.villamandarine.com/",
+      "id": "morocco-aac2d0db2b86d5df8a7f"
+    },
+    {
+      "name": "Rabat",
+      "kind": "area",
+      "locality": "Rabat",
+      "lat": 33.9966,
+      "lon": -6.84431,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Rabat",
+      "id": "morocco-2c3b3dad484e79a2b7b5"
+    },
+    {
+      "name": "Medina",
+      "kind": "do",
+      "locality": "Marrakech",
+      "lat": 31.63318,
+      "lon": -7.98869,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "id": "morocco-572f4eb0d4935c212ee9"
+    },
+    {
+      "name": "Djemaa El-Fna",
+      "kind": "do",
+      "locality": "Marrakech",
+      "lat": 31.62604,
+      "lon": -7.98903,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "id": "morocco-dcb595ba065d034d6f11"
+    },
+    {
+      "name": "The Souks",
+      "kind": "do",
+      "locality": "Marrakech",
+      "lat": 31.6271,
+      "lon": -7.98727,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "id": "morocco-e7ad4b236cdbd78af49b"
+    },
+    {
+      "name": "Koutoubia Mosque",
+      "kind": "do",
+      "locality": "Marrakech",
+      "lat": 31.6237,
+      "lon": -7.9935,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "id": "morocco-a1d569f289c7d4b57fca"
+    },
+    {
+      "name": "Tanneries",
+      "kind": "do",
+      "locality": "Marrakech",
+      "lat": 31.63367,
+      "lon": -7.97862,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "id": "morocco-409ae18f8c03faab4527"
+    },
+    {
+      "name": "Saadian Tombs",
+      "kind": "do",
+      "locality": "Marrakech",
+      "lat": 31.617187,
+      "lon": -7.988672,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Rue de la Kasbah",
+      "url": "https://www.saadian-tombs.com/",
+      "id": "morocco-af233fc97e4b42e159a4"
+    },
+    {
+      "name": "Moroccan Culinary Arts Museum",
+      "kind": "do",
+      "locality": "Marrakech",
+      "lat": 31.62158,
+      "lon": -7.98425,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Rue Riad Zitoun el Jdid",
+      "url": "https://www.moroccancam.com/",
+      "id": "morocco-4b14fd7b6837285103eb"
+    },
+    {
+      "name": "Majorelle Gardens",
+      "kind": "do",
+      "locality": "Marrakech",
+      "lat": 31.6415,
+      "lon": -8.0029,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Rue Yves Saint Laurent",
+      "price": "170 dirham, 30 dirham extra for the Berber Museum",
+      "url": "http://www.jardinmajorelle.com/ang/",
+      "id": "morocco-f761c2072b2661c417fb"
+    },
+    {
+      "name": "Yves Saint Laurent Museum",
+      "kind": "do",
+      "locality": "Marrakech",
+      "lat": 31.6425,
+      "lon": -8.0032,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Rue Yves St Laurent",
+      "url": "https://www.museeyslmarrakech.com/en/",
+      "id": "morocco-5fb048aed016beb5fffd"
+    },
+    {
+      "name": "Dar Si Saïd Museum",
+      "kind": "do",
+      "locality": "Marrakech",
+      "lat": 31.6234055,
+      "lon": -7.9838624,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "price": "Locals: adult 10 dirham, child below 12 3 dirham; tourists: adult 30 dirham",
+      "id": "morocco-239457b8bb8ee2932c0a"
+    },
+    {
+      "name": "Ben Youssef Madrasa",
+      "kind": "do",
+      "locality": "Marrakech",
+      "lat": 31.63203,
+      "lon": -7.98618,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Kaat Benahid",
+      "price": "Foreigners 50 dirham; Moroccans (with ID) 20 dirham; children under 12 10 dirham",
+      "url": "https://www.medersabenyoussef.ma/en/",
+      "id": "morocco-1a90b6145181f501b102"
+    },
+    {
+      "name": "El Bahia Palace",
+      "kind": "do",
+      "locality": "Marrakech",
+      "lat": 31.62089,
+      "lon": -7.98414,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "price": "Foreigners: adult 100 dirham, child aged 7–13 50 dirham; Moroccan/resident: adult 30 dirham, child aged 7–13 10 dirham",
+      "url": "https://visitbahiapalace.com/",
+      "id": "morocco-e9f883b103bd04118c95"
+    },
+    {
+      "name": "El Badi Palace",
+      "kind": "do",
+      "locality": "Marrakech",
+      "lat": 31.6187,
+      "lon": -7.9853,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Ksibat Nhass",
+      "price": "Foreigners: adult 100 dirham, child aged 7–13 50 dirham; Moroccan/resident: adult 30 dirham, child aged 7–13 10 dirham",
+      "url": "https://badi-palace.com/",
+      "id": "morocco-22d2531246ea807ad005"
+    },
+    {
+      "name": "The Menara gardens",
+      "kind": "do",
+      "locality": "Marrakech",
+      "lat": 31.61302,
+      "lon": -8.02146,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "price": "Free admission",
+      "url": "http://www.jardin-menara.com/",
+      "id": "morocco-2fcbe8797180dcbddb3a"
+    },
+    {
+      "name": "Jewish Cemetery",
+      "kind": "do",
+      "locality": "Marrakech",
+      "lat": 31.62006,
+      "lon": -7.98018,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Avenue Taoulat El Miara",
+      "price": "10 dirham",
+      "id": "morocco-a84db92777498d823e58"
+    },
+    {
+      "name": "Slat Al Azama Synagogue",
+      "kind": "do",
+      "locality": "Marrakech",
+      "lat": 31.620167,
+      "lon": -7.982385,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "price": "10 dirham",
+      "id": "morocco-5623f39add282e29c9f3"
+    },
+    {
+      "name": "Marrakech Museum",
+      "kind": "do",
+      "locality": "Marrakech",
+      "lat": 31.63158,
+      "lon": -7.98633,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "price": "50 dirham",
+      "url": "http://www.museedemarrakech.ma/",
+      "id": "morocco-4d95dabe5ef275740f91"
+    },
+    {
+      "name": "Musée de la Palmeraie",
+      "kind": "do",
+      "locality": "Marrakech",
+      "lat": 31.650543,
+      "lon": -7.947038,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Dar Tounsi, Route de Fès",
+      "price": "40 dirham",
+      "id": "morocco-d02e995d4cc9b0930504"
+    },
+    {
+      "name": "Musee Farid Belkahia",
+      "kind": "do",
+      "locality": "Marrakech",
+      "lat": 31.6561111,
+      "lon": -7.94805555,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Dar Tounsi, Route de Fès",
+      "id": "morocco-9be253ecc13a9001beb1"
+    },
+    {
+      "name": "Maison de la Photographie",
+      "kind": "do",
+      "locality": "Marrakech",
+      "lat": 31.63206,
+      "lon": -7.98442,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "46, Rue souk Ahal Fès",
+      "price": "80 dirham",
+      "url": "http://www.maisondelaphotographie.ma/",
+      "id": "morocco-9d34a3375b549df573cb"
+    },
+    {
+      "name": "Ali Ben Youssef Mosque",
+      "kind": "do",
+      "locality": "Marrakech",
+      "lat": 31.631925,
+      "lon": -7.987161,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "id": "morocco-22ced09ad6b18bfd4089"
+    },
+    {
+      "name": "Agdal Gardens",
+      "kind": "do",
+      "locality": "Marrakech",
+      "lat": 31.606111,
+      "lon": -7.979722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "price": "70 dirham for foreign adults",
+      "id": "morocco-1173fbd550bcc4d77425"
+    },
+    {
+      "name": "Almoravid Koubba",
+      "kind": "do",
+      "locality": "Marrakech",
+      "lat": 31.6315,
+      "lon": -7.9872,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "price": "50 dirham",
+      "id": "morocco-e1978d44a13640be27e4"
+    },
+    {
+      "name": "Chez Ali Fantasia",
+      "kind": "do",
+      "locality": "Marrakech",
+      "lat": 31.70305,
+      "lon": -8.02099,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "La Palmeraie de Marrakech",
+      "price": "€15",
+      "url": "https://www.fantasia-marrakech.com/",
+      "id": "morocco-db19a80808462226792a"
+    },
+    {
+      "name": "Stade de Marrakesh",
+      "kind": "do",
+      "locality": "Marrakech",
+      "lat": 31.7067,
+      "lon": -7.9806,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "id": "morocco-b35d2842846c71ad2599"
+    },
+    {
+      "name": "Marrakech Paragliding",
+      "kind": "do",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Aguergour , Ouzguita 45 Km from Marrakech",
+      "url": "https://marrakechparaglidingactivity.com/",
+      "id": "morocco-af7d5898b8fbea09a193"
+    },
+    {
+      "name": "Moratra Medina walking tour",
+      "kind": "do",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "price": "US$20 per person in a small group, US$60 per person private",
+      "url": "https://moratra.com/marrakech-medina-walking-tour/",
+      "id": "morocco-d1bd17e8ae8453c8bb35"
+    },
+    {
+      "name": "Les Bains de Marrakech",
+      "kind": "do",
+      "locality": "Marrakech",
+      "lat": 31.6172862,
+      "lon": -7.9905097,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "2 Derb Sedra, Bab Agnaou (same building as Riad Mehdi)",
+      "price": "170–1,400 dirham",
+      "url": "http://www.lesbainsdemarrakech.com/",
+      "id": "morocco-e062d3061a66d44e7926"
+    },
+    {
+      "name": "Hammam Dar el-Bacha",
+      "kind": "do",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "20 Rue Fatima Zohra",
+      "id": "morocco-dedc0cfc07ca601b573b"
+    },
+    {
+      "name": "Hammam Bab Doukkala",
+      "kind": "do",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Rue Bab Doukkala",
+      "id": "morocco-1e09ca61acadd4c992c5"
+    },
+    {
+      "name": "Thai marrakech",
+      "kind": "do",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Résidence Les Jasmins Apt N° 13 4ème étage Angle Av. Mohamed v et Rue Oum Errabia Guéliz",
+      "url": "http://www.massage-thai-marrakech.com/hammam-marrakech/",
+      "id": "morocco-37faa39b63d5a2c11814"
+    },
+    {
+      "name": "Hamam Essalama",
+      "kind": "do",
+      "locality": "Marrakech",
+      "lat": 31.6383,
+      "lon": -8.0043,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Rue Moulay Abdellah",
+      "price": "12 dirham entrance, 50 dirham scrub",
+      "id": "morocco-c6b072749993f1e2c0f6"
+    },
+    {
+      "name": "Ô Bain de Lina",
+      "kind": "do",
+      "locality": "Marrakech",
+      "lat": 31.631942,
+      "lon": -8.0102825,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "N 1, 84 Avenue Hassan II Residence El Faroukia",
+      "price": "500 dirham",
+      "url": "https://www.massage-marrakech.ma/",
+      "id": "morocco-31fe909520ceaf55b174"
+    },
+    {
+      "name": "Chez Chegrouni",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.6266752,
+      "lon": -7.98706,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Avenue Jamaa El Fna",
+      "price": "30 dirham",
+      "id": "morocco-b80c7be758f4ae26a581"
+    },
+    {
+      "name": "Chez Yassine",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.6288349,
+      "lon": -7.9941124,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "70 Avenue Fatima Zohra",
+      "price": "30 dirham tagines",
+      "id": "morocco-45ddea2899b4e9642975"
+    },
+    {
+      "name": "Henna Cafe",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.631547,
+      "lon": -7.994308,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "93 Arset Aouzal Souikat, bab Doukala",
+      "price": "40 dirham mains",
+      "url": "http://www.hennacafemarrakech.com/",
+      "id": "morocco-a30a5e84ce5f1dba1384"
+    },
+    {
+      "name": "Chez Bismilah",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.630851,
+      "lon": -7.986999,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "193 Souk El kebir",
+      "id": "morocco-e7da318069bcee726808"
+    },
+    {
+      "name": "Café Babouche medina",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.6263098,
+      "lon": -7.9869566,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "37 Rue des Banques",
+      "id": "morocco-657853b9d04cd17b520e"
+    },
+    {
+      "name": "Black Pan",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "42, Rue Ibn Toumert",
+      "price": "Average of 100-200 dirham per dish",
+      "url": "https://blackpan.net/",
+      "id": "morocco-20b9175f3b126b4134f1"
+    },
+    {
+      "name": "Associacion Amal",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.6388889,
+      "lon": -8.01361111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "url": "https://amalrestaurant.wordpress.com/",
+      "id": "morocco-8b8fe03c98ffd803abe0"
+    },
+    {
+      "name": "16 Café",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.6327667,
+      "lon": -8.0075034,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "url": "http://www.16cafe.com/",
+      "id": "morocco-c1b807f338e5cf2af4ed"
+    },
+    {
+      "name": "Café Arabe",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.630757,
+      "lon": -7.989271,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "184 mouassine",
+      "url": "http://www.cafearabe.com/",
+      "id": "morocco-5274a3a1f82fa7cffd68"
+    },
+    {
+      "name": "sky mabrouka",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.6236709,
+      "lon": -7.9894904,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "id": "morocco-5ba1967610b155e407e3"
+    },
+    {
+      "name": "Al Fassia",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.6360106,
+      "lon": -8.0133071,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "55, boulevard Zerktouni",
+      "url": "http://www.alfassia.com/our-restaurant/",
+      "id": "morocco-57922f29ecfd3c33b770"
+    },
+    {
+      "name": "Café du Livre",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.6351345,
+      "lon": -8.0105254,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "44 Rue Tariq Bnou Ziad, Guéliz",
+      "price": "medium priced, sandwiches ~ 40–60 dirham",
+      "id": "morocco-8d7dac010a2f15aa5642"
+    },
+    {
+      "name": "Café Kabash",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.617125,
+      "lon": -7.989508,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "47 Boutouil, Kasbah",
+      "url": "http://kasbahcafemarrakech.com/",
+      "id": "morocco-0b3a4fe8b435a5672284"
+    },
+    {
+      "name": "Le Marrakchi",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.6265455,
+      "lon": -7.9871162,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Place jeema el-fna, 52 Rue des Banques",
+      "id": "morocco-75151bbb4b4620d56896"
+    },
+    {
+      "name": "Le Bistrot Loft",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.6357555,
+      "lon": -8.0111673,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "18 Rue de la Liberté",
+      "price": "200 dirham",
+      "url": "http://www.restaurant-loft.com/",
+      "id": "morocco-13b592614ab0876c4ee6"
+    },
+    {
+      "name": "Diaffa",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.6271592,
+      "lon": -7.9938419,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "16 Derb Jdid",
+      "url": "http://www.restaurant-diaffa.ma/",
+      "id": "morocco-6b09379682f7dfc51ab1"
+    },
+    {
+      "name": "Dar Najat's Kitchen",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.6238915,
+      "lon": -7.9834583,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Douar Groua, derb lalla chacha, N.18",
+      "price": "€23 per person",
+      "url": "http://www.dar-najat.com/gastronomy.html",
+      "id": "morocco-2d374cd1ccaf07c59b17"
+    },
+    {
+      "name": "Maison de la Photographie",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.63206,
+      "lon": -7.98442,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "46, Rue souk Ahal Fès",
+      "url": "http://www.maisondelaphotographie.ma/",
+      "id": "morocco-21193ce897b8ffb012eb"
+    },
+    {
+      "name": "Pepe Nero",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.6251646,
+      "lon": -7.9840167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "17, Derb Cherkaoui, Douar Graoua",
+      "price": "400 dirham for 3-4 course dinner, wine for 200 dirham",
+      "url": "http://www.pepenero-marrakech.com/en/",
+      "id": "morocco-901c984bf47ea0c662af"
+    },
+    {
+      "name": "La Villa des Orangers",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.6203675,
+      "lon": -7.9917963,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Rue Sidi Mimoune 6",
+      "price": "700 dirham for three-course menu. 500 dirham for a bottle of wine.",
+      "url": "http://www.villadesorangers.com/",
+      "id": "morocco-3e612be1b33563519f42"
+    },
+    {
+      "name": "Le Grand Café de la Poste",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.6331502,
+      "lon": -8.010044,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Boulevard El mansour Eddahbi and Avenue Imam Malik",
+      "price": "300 dirham for three courses.",
+      "url": "https://www.en.grandcafedelaposte.restaurant/",
+      "id": "morocco-f780fce6bbbaeb0d5600"
+    },
+    {
+      "name": "Le Grand Salon",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.6720075,
+      "lon": -7.9288065,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Djnan Abiad, La Palmeraie B.P. 12478",
+      "price": "600 dirham for three courses",
+      "url": "http://www.ksarcharbagh.fr/the-restaurant.html",
+      "id": "morocco-5fbb888748f1fe8b39c6"
+    },
+    {
+      "name": "Dar Yacout",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.6365673,
+      "lon": -7.9934804,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "79, derb Sidi Ahmed Soussi, Bab Doukkala",
+      "price": "700 dirham menu",
+      "url": "http://www.daryacout.com/",
+      "id": "morocco-3c352b6fcdb72d3b6081"
+    },
+    {
+      "name": "Le Foundouk",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.6320813,
+      "lon": -7.9852877,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Rue Souk Hal Fassi",
+      "price": "300 dirham for a three-course dinner",
+      "url": "http://www.foundouk.com/",
+      "id": "morocco-2b74161a8b16bbdc359f"
+    },
+    {
+      "name": "Les Jardins de la Medina",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.6126108,
+      "lon": -7.9874039,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "21 Derb Chtouka",
+      "price": "450 dirham menu",
+      "url": "http://www.lesjardinsdelamedina.com/En/gastronomie.php#restaurant",
+      "id": "morocco-269f6e7fdbb0019dbdeb"
+    },
+    {
+      "name": "Eloomm",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Centre Commercial almazar, Rte d'Ourika",
+      "url": "https://eloomm.ma/",
+      "id": "morocco-cd8c20cbf9b7de31a99e"
+    },
+    {
+      "name": "Chesterfield Pub",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.6347218,
+      "lon": -8.0126345,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "115 Avenue Mohammed V",
+      "id": "morocco-e651d990e4b0191c9269"
+    },
+    {
+      "name": "Le Salama",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.6262683,
+      "lon": -7.9867501,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "40 Rue des Banques",
+      "url": "http://www.lesalama.blogspot.com/",
+      "id": "morocco-58a49116dabecbb8bcde"
+    },
+    {
+      "name": "Hotel Grand Tazi",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.622504,
+      "lon": -7.9895304,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Rue Bab Agnaou",
+      "id": "morocco-bebbdd4784dfabb95d6b"
+    },
+    {
+      "name": "Narwama",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.6260554,
+      "lon": -7.9922352,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Hay Zefriti 30, Rue Koutoubia.",
+      "price": "150 dirham mains",
+      "url": "http://www.narwama.com/",
+      "id": "morocco-c9f6df728e72d8343894"
+    },
+    {
+      "name": "Montecristo",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.6386975,
+      "lon": -8.0163213,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Rue Ibn Aicha 20",
+      "url": "https://www.facebook.com/pages/category/Restaurant/Montecristo-167647240428047/",
+      "id": "morocco-f1f9d783b723981cd109"
+    },
+    {
+      "name": "Jad Mahal",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.6220123,
+      "lon": -8.0002175,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "10 Rue Haroun Errachid",
+      "url": "http://www.jad-mahal.com/",
+      "id": "morocco-c8d38d7b43cd245fb71f"
+    },
+    {
+      "name": "Sky Lounge",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.6222728,
+      "lon": -8.0004896,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "3 Rue du Temple",
+      "url": "http://www.thepearlmarrakech.com/en/pearl-marrakech-hotel-restaurant.html",
+      "id": "morocco-7c77a569e95816e38161"
+    },
+    {
+      "name": "Comptoir Darna",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.6237194,
+      "lon": -8.0031039,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Avenue Echouhada",
+      "url": "http://www.comptoirmarrakech.com/",
+      "id": "morocco-90d47144d6810c574429"
+    },
+    {
+      "name": "Piano Bar",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.62592,
+      "lon": -7.991685,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "26 Rue de la Koutoubia",
+      "id": "morocco-6b84639fc339b2631019"
+    },
+    {
+      "name": "African Chic",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.6307287,
+      "lon": -8.0040459,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "6 Rue Oum Errabia",
+      "url": "https://www.facebook.com/africanchicmarrakech/",
+      "id": "morocco-b2086d059e4cd3de70bf"
+    },
+    {
+      "name": "Le Lounge",
+      "kind": "eat",
+      "locality": "Marrakech",
+      "lat": 31.6368164,
+      "lon": -8.0145532,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "24 Rue Yougoslavie",
+      "id": "morocco-563653a13e42934ffeac"
+    },
+    {
+      "name": "Dar Attajmil",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "lat": 31.6275282,
+      "lon": -7.9921057,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Marrakech-Medina, 23 Rue Laksour, Bab Laksour",
+      "price": "€80-110/night in B&B",
+      "url": "http://www.darattajmil.com/en/home/",
+      "id": "morocco-76aa2ce4ddf7ddea61a6"
+    },
+    {
+      "name": "Dar Jaguar",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "lat": 31.6284243,
+      "lon": -7.98596,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "7-8 Derb El Mesfioui, Rahba Kedima, Medina",
+      "price": "From €99, breakfast included.",
+      "url": "https://www.darjaguar.com/",
+      "id": "morocco-06da59d8a122090c24f0"
+    },
+    {
+      "name": "Riad Abaka",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "lat": 31.6275799,
+      "lon": -7.9919891,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "21 Derb Roukni Laksour",
+      "id": "morocco-c24ce1a51ca8338ec25b"
+    },
+    {
+      "name": "Riad Amazigh",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "80, Derb El Hammam Mouassine",
+      "price": "from €9 for bed in dorm",
+      "url": "http://www.equity-point.com/index.php?Itemid=161&lang=en",
+      "id": "morocco-3cd5a4eb339528f19021"
+    },
+    {
+      "name": "Riad Basma",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "lat": 31.625691,
+      "lon": -7.984995,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Marrakech-Medina, 22 Derb Jamaa, Riad Basma",
+      "price": "from €35",
+      "id": "morocco-c482dc288d052539f6ae"
+    },
+    {
+      "name": "Riad Chennaoui",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "lat": 31.6275799,
+      "lon": -7.9919891,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Riad Zitoune Jdid, Derb Sidi Fares N°01",
+      "price": "Dorm beds around 100 dirham",
+      "id": "morocco-64e14ff42800d1cd4cd8"
+    },
+    {
+      "name": "Riad Cinnamon",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "lat": 31.6321713,
+      "lon": -7.9880259,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "9 Derb El Hadjra",
+      "price": "from £112 per room",
+      "url": "http://www.marrakech-riad.co.uk/marrakech-riad-cinnamon/",
+      "id": "morocco-ac882bc4677ca31b2b6e"
+    },
+    {
+      "name": "Riad Dar Eliane",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "lat": 31.6299412,
+      "lon": -7.985235,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "39 Derb Maada,Azbezt,Medina",
+      "url": "http://riad-dar-eliane.hotelsmarrakech.net/en/",
+      "id": "morocco-06792ef4f707897ccb01"
+    },
+    {
+      "name": "Riad Iaazane",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "57 Derb el Gnayz, El Mouassine",
+      "price": "Single €20, double €18, dorm €10 per person",
+      "id": "morocco-0eba190f47f28822fe95"
+    },
+    {
+      "name": "Riad LakLak",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "lat": 31.6191645,
+      "lon": -7.9833976,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Marrakech Medina",
+      "price": "from €180",
+      "url": "http://www.riad-laklak-marrakech.com/",
+      "id": "morocco-100de48e2d2958d98e8a"
+    },
+    {
+      "name": "Riad Laksiba",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "16 (bis5)Derb Kadi, Kasbah, Medina",
+      "url": "http://riadinmarrakech.com/",
+      "id": "morocco-aee9877271eaa9d8b96a"
+    },
+    {
+      "name": "Riad Lotus Perle",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "54, Derb Zemrane,Bab Doukkala.",
+      "url": "https://riad-lotus-perle.hotelsmarrakech.net/en/",
+      "id": "morocco-046ef1dabdab0aed0305"
+    },
+    {
+      "name": "Riad Magellan",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Derb El Hamman No.62, Mouassine",
+      "url": "http://www.riadmagellan.com/",
+      "id": "morocco-c2e7b98e833923931184"
+    },
+    {
+      "name": "Riad Melhoun",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "99 Derb Sidi Moussa, Quartier de la Bahia, 40007 Marrakech Médina",
+      "id": "morocco-bb683311f656d647ed42"
+    },
+    {
+      "name": "Riad Naila",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Marrakech Medina, Mosquée Sidi Ben Slimane",
+      "url": "http://www.riad-naila.com/",
+      "id": "morocco-9beba627f161eaaf4962"
+    },
+    {
+      "name": "Riad Dar Najat",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "lat": 31.6238891,
+      "lon": -7.9834947,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Douar Graoua, Derb Lalla Chacha, No.18",
+      "url": "http://www.dar-najat.com/",
+      "id": "morocco-bc38a3245774c5be302a"
+    },
+    {
+      "name": "Riad Papillon",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "lat": 31.631961,
+      "lon": -7.990918,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "15, Derb Tizougarine, Dar El Basha",
+      "price": "Rooms range from £50-100 according to the season. Ask about any special offers and last minute deals",
+      "url": "http://www.marrakech-riad.com/",
+      "id": "morocco-501780046b3381e44f94"
+    },
+    {
+      "name": "Hotel Riad Primavera",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "id": "morocco-d9e501822f9d7fcd9770"
+    },
+    {
+      "name": "Riad Dar Zaman",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "lat": 31.6358281,
+      "lon": -7.9910104,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "29, Derb Bouelilou, Sidi Ben Slimane",
+      "price": "Rooms range from £50-100 according to the season. Askfor special offers and last minute deals.",
+      "url": "http://www.darzaman.com/",
+      "id": "morocco-a4f07f1002f23005c1e0"
+    },
+    {
+      "name": "Riad Zara",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "294 Derb Ben Salek",
+      "url": "http://www.riadzara.com/",
+      "id": "morocco-56cdb5b30d5bcdf57980"
+    },
+    {
+      "name": "Riad Zolah",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "116 Derb El Hammam, Mouassine",
+      "url": "http://www.riadzolah.com/",
+      "id": "morocco-9db20dc3b79f18be38a7"
+    },
+    {
+      "name": "Ryad Dyor",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "1, Driba Jdida, Sidi Ben Slimane",
+      "url": "http://www.ryaddyor.com/",
+      "id": "morocco-56c991b35c4f53c90cb5"
+    },
+    {
+      "name": "Riad Al Loune",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "77 Derb el Kadi, Azbezt",
+      "url": "http://www.riadalloune.com/",
+      "id": "morocco-3943246311420c13e640"
+    },
+    {
+      "name": "Hotel Ali",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "lat": 31.6246054,
+      "lon": -7.9897724,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "url": "http://www.hotel-ali.com/",
+      "id": "morocco-de6fc3bb27ee9749122b"
+    },
+    {
+      "name": "Hotel Salam (laksor)",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "bab ftouh rue haram chikh n.14, laksor, marrakech",
+      "price": "100 dirham for double room, no bathroom",
+      "id": "morocco-dfbc83d527f94a782232"
+    },
+    {
+      "name": "Hotel Atlas",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "url": "http://www.hotel-atlas-marrakech.com/",
+      "id": "morocco-f7599998bf2da2c281ce"
+    },
+    {
+      "name": "Hotel Central Palace",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "59, Sidi Bouloukate",
+      "id": "morocco-43bfe8372f32752e86b3"
+    },
+    {
+      "name": "Hotel el-Ward",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "65 derb Sidi Bouloukat",
+      "id": "morocco-4efa6edf42fc1ab0cee5"
+    },
+    {
+      "name": "Hotel Essaouira",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "lat": 31.6240758,
+      "lon": -7.9877901,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "3 Derb Sidi Bouloukat",
+      "url": "http://www.jnanemogador.com/eng/hotelessaouira-marrakech.htm",
+      "id": "morocco-2e9754c7a5e8ec517d2a"
+    },
+    {
+      "name": "Hotel Imouzzer",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "74 Derb Sidi Bouloukate",
+      "url": "http://www.hotel-imouzzer.com/hotelen.php",
+      "id": "morocco-aceb812283ee0ad92281"
+    },
+    {
+      "name": "Hotel Sindi",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "id": "morocco-379f1b0b4088f3891c5b"
+    },
+    {
+      "name": "Hotel Smara",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "77 sidi Bouloukat. Near Djemaa El-Fna",
+      "id": "morocco-f428a8869400573963c2"
+    },
+    {
+      "name": "Hotel Cecil",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "url": "https://www.facebook.com/pages/category/Hotel-Resort/Hotel-Cecil-Marrakech-504488376320374/",
+      "id": "morocco-1ec7d0af4670c9bce0bf"
+    },
+    {
+      "name": "Palm Plaza Hotel and Spa",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "lat": 31.594779,
+      "lon": -7.989655,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Avenue du 7ieme Art Zone Touristique Agdal",
+      "url": "http://www.hotelpalmplaza.com/",
+      "id": "morocco-beb6c90e8498e83cc72a"
+    },
+    {
+      "name": "Riad Lyla",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "4-5 Rue ouartani I Mouassani",
+      "url": "https://riad-lyla.hotelsmarrakech.net/en/",
+      "id": "morocco-07faca1ed18f545aeb37"
+    },
+    {
+      "name": "Riad Rahba",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "url": "http://www.riad-rahba.hostel.com/index.php",
+      "id": "morocco-615b0b3ce9ffc2b0b21b"
+    },
+    {
+      "name": "Aqua Mirage Marrakech",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "lat": 31.53479,
+      "lon": -7.993166,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Km 5 - Route De Tahanaout",
+      "url": "https://booking.aquamiragemarrakech.com/en/",
+      "id": "morocco-8fe0255ba9d5d6a3860f"
+    },
+    {
+      "name": "Le Vizir Center Park Resort",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "lat": 31.703848,
+      "lon": -7.973111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Route de Casablanca, Ouled ben Rahmoun",
+      "url": "https://www.vizircenter.ma/en",
+      "id": "morocco-816ed4a9af2da3a8fa4d"
+    },
+    {
+      "name": "Marrakech Rose",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "13 Derb Laadam, Kenaria, Place Jemaa el Fna",
+      "price": "Dorm beds from US$10",
+      "id": "morocco-d2f020a8fd173740a6ad"
+    },
+    {
+      "name": "Massine II",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "107 Derb Snan, Mouassine",
+      "price": "from €6 in dorm",
+      "url": "http://www.lesjardinsdemouassine.com/",
+      "id": "morocco-43670aeecbe4e5ecb16a"
+    },
+    {
+      "name": "The Heart of the Medina backpackers hostel",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "lat": 31.62702,
+      "lon": -7.985301,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "47 Derb Ben Aissa, Dabachi",
+      "url": "https://www.instantworldbooking.com/Morocco-hotels/Heart-of-the-Medina-Backpackers-Hostel_Marrakech.htm",
+      "id": "morocco-d1ea94ef77d52e235982"
+    },
+    {
+      "name": "Rue Mohammed el-Hansali",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "price": "Dorm beds from 70 dirham",
+      "id": "morocco-ef288dc561faef8678ab"
+    },
+    {
+      "name": "Sirayane boutique hotel & spa",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "lat": 31.559183,
+      "lon": -8.045544,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "Km 8 Route D'Amezmiz",
+      "url": "https://www.sirayane.com/en/",
+      "id": "morocco-7ba6a3fb896d39dbdcd8"
+    },
+    {
+      "name": "Hotel Toulousain",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "lat": 31.6351345,
+      "lon": -8.0105254,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "44 Rue Tariq Bnou Ziad, Guéliz",
+      "price": "150 dirham per night for a single room without bathroom up to 600 dirham double room 'Suite Hotel', breakfast included",
+      "url": "http://hoteltoulousain.ma/",
+      "id": "morocco-4c45dc1b0835a5dcc358"
+    },
+    {
+      "name": "Hotel al Kabir",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "price": "single/double 291/382 dirham",
+      "id": "morocco-6054bfe98a01cc489c76"
+    },
+    {
+      "name": "La Mamounia",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "url": "http://www.mamounia.com/",
+      "id": "morocco-6081371e3ea3e6c7bcf3"
+    },
+    {
+      "name": "Hotel Ibis",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "lat": 31.6299523,
+      "lon": -8.018048,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "url": "https://all.accor.com/hotel/2034/index.en.shtml",
+      "id": "morocco-02aa298972e20120c700"
+    },
+    {
+      "name": "Moroccan House Hotel",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "lat": 31.6369825,
+      "lon": -8.0103572,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "3 rue Loubnane",
+      "url": "http://www.moroccanhousehotels.com/",
+      "id": "morocco-20b3c30aac4a1cc700c3"
+    },
+    {
+      "name": "Oudaya Hotel",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "lat": 31.6359225,
+      "lon": -8.0159162,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "address": "147 Rue Mohamed El Baqal",
+      "url": "http://www.hoteloudayamarrakech.com/en/",
+      "id": "morocco-32e4b55abc3989127288"
+    },
+    {
+      "name": "Villa Dar El Kanoun",
+      "kind": "stay",
+      "locality": "Marrakech",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "id": "morocco-eba6d6e61ea24c5578a5"
+    },
+    {
+      "name": "Marrakech",
+      "kind": "area",
+      "locality": "Marrakech",
+      "lat": 31.62594,
+      "lon": -7.98863,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Marrakech",
+      "id": "morocco-4b36d69d9c4ce8f38b1c"
+    },
+    {
+      "name": "Grand Dune",
+      "kind": "do",
+      "locality": "Merzouga",
+      "lat": 31.077663,
+      "lon": -3.9902908,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "id": "morocco-f163fd3635c2bb950512"
+    },
+    {
+      "name": "Sunset on the dune",
+      "kind": "do",
+      "locality": "Merzouga",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "id": "morocco-f6abec59ad1f90d43020"
+    },
+    {
+      "name": "Camp on the dune",
+      "kind": "do",
+      "locality": "Merzouga",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "id": "morocco-f8fda34d3c527154d04e"
+    },
+    {
+      "name": "Hike the desert",
+      "kind": "do",
+      "locality": "Merzouga",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "id": "morocco-832f08bc7c9b5f7125d2"
+    },
+    {
+      "name": "Boarding the dunes",
+      "kind": "do",
+      "locality": "Merzouga",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "id": "morocco-42c697e0a2f831a8c4d4"
+    },
+    {
+      "name": "ATV & quad bikes",
+      "kind": "do",
+      "locality": "Merzouga",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "price": "From 400 dirham pp for a tour incl. guide (negotiable)",
+      "id": "morocco-787a3b0b79a5daebaf3f"
+    },
+    {
+      "name": "4WD region tour",
+      "kind": "do",
+      "locality": "Merzouga",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "price": "800 dirham per 2 hr (negotiable)",
+      "id": "morocco-2611ce51147048c7297f"
+    },
+    {
+      "name": "Haven La Chance",
+      "kind": "eat",
+      "locality": "Merzouga",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "address": "Hassi Labaid",
+      "url": "http://www.desert-hotel.com/",
+      "id": "morocco-d2a8fe768bd4fa86f78b"
+    },
+    {
+      "name": "Dar Gamra",
+      "kind": "stay",
+      "locality": "Merzouga",
+      "lat": 31.0936823,
+      "lon": -4.0067956,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "price": "Double from 170 dirham",
+      "id": "morocco-610774ac415af0a88896"
+    },
+    {
+      "name": "Les pyramides hotel",
+      "kind": "stay",
+      "locality": "Merzouga",
+      "lat": 31.08868,
+      "lon": -4.00722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "address": "Ksar Merzouga",
+      "price": "€20 per person, breakfast and dinner included",
+      "id": "morocco-3cc19027bcf34e7333e2"
+    },
+    {
+      "name": "Auberge Soleil Bleu",
+      "kind": "stay",
+      "locality": "Merzouga",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "address": "Merzouga-Hassilabied",
+      "price": "Rooms starting at 90 dirham",
+      "url": "http://www.desiertomarruecos.com/",
+      "id": "morocco-aee63f9447f25cbb7ef7"
+    },
+    {
+      "name": "Complexe touristique de Merzouga",
+      "kind": "stay",
+      "locality": "Merzouga",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "address": "centre taouz cercle rissani",
+      "price": "€30 per person, breakfast and dinner included",
+      "id": "morocco-afd8235ec3f3f65c3296"
+    },
+    {
+      "name": "Auberge Berberes",
+      "kind": "stay",
+      "locality": "Merzouga",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "price": "€20-30 per person, breakfast and dinner included",
+      "id": "morocco-7d3cac997c18e0cf2cc9"
+    },
+    {
+      "name": "Auberge Les Dunes D'or",
+      "kind": "stay",
+      "locality": "Merzouga",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "id": "morocco-0c67acf53dd286a603b4"
+    },
+    {
+      "name": "Auberge Sahara Hotel",
+      "kind": "stay",
+      "locality": "Merzouga",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "address": "Ksar Hassi Labiad",
+      "url": "https://aubergesahara.com/",
+      "id": "morocco-ed7511b07450fc6a4806"
+    },
+    {
+      "name": "Chez Julia",
+      "kind": "stay",
+      "locality": "Merzouga",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "price": "From 130 dirham",
+      "id": "morocco-4628d696e4e11646d8a1"
+    },
+    {
+      "name": "Dar el Khamlia",
+      "kind": "stay",
+      "locality": "Merzouga",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "address": "Ksar Khamlia",
+      "url": "http://www.khamliahouse.com/",
+      "id": "morocco-040d2988ec7211b48384"
+    },
+    {
+      "name": "Desert Fish",
+      "kind": "stay",
+      "locality": "Merzouga",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "id": "morocco-6d5e53e9e566a4786c72"
+    },
+    {
+      "name": "Auberge Haven La Chance Desert Hotel",
+      "kind": "stay",
+      "locality": "Merzouga",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "address": "Hassi Lybed",
+      "price": "€17-30 per person with half board",
+      "url": "http://www.desert-hotel.com/",
+      "id": "morocco-e0cc8d48c81c3b86e0ec"
+    },
+    {
+      "name": "Hotel Yasmina",
+      "kind": "stay",
+      "locality": "Merzouga",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "price": "from €20-45 per person, breakfast and dinner included",
+      "url": "http://www.hotelyasminamerzouga.com/",
+      "id": "morocco-48063ac28e93971fb368"
+    },
+    {
+      "name": "Ksar Bicha",
+      "kind": "stay",
+      "locality": "Merzouga",
+      "lat": 31.1073,
+      "lon": -4.01058,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "id": "morocco-8fb83b807e1bfc887253"
+    },
+    {
+      "name": "Les Portes du Desert",
+      "kind": "stay",
+      "locality": "Merzouga",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "price": "€26-50 per person, breakfast and dinner included",
+      "url": "http://www.lesportesdudesert.com/",
+      "id": "morocco-74d21e95b0ce5fe27325"
+    },
+    {
+      "name": "Nasser Palace",
+      "kind": "stay",
+      "locality": "Merzouga",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "address": "Ksar Hassilabied",
+      "price": "€25-45 per person including breakfast and dinner",
+      "url": "http://www.nasserpalace.com/",
+      "id": "morocco-213f04a472ee8b40c393"
+    },
+    {
+      "name": "Hotel Nomad Palace",
+      "kind": "stay",
+      "locality": "Merzouga",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "address": "Ksar Merzouga 52202",
+      "url": "http://www.hotelnomadpalace.com/",
+      "id": "morocco-5ab550ec67d9eb0f0a4d"
+    },
+    {
+      "name": "Riad Aicha Hotel",
+      "kind": "stay",
+      "locality": "Merzouga",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "id": "morocco-f110ee53716d12805a6b"
+    },
+    {
+      "name": "Snack Hassi Labied",
+      "kind": "stay",
+      "locality": "Merzouga",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "address": "center of village Hassi Labied",
+      "id": "morocco-827afde04f00a887ea06"
+    },
+    {
+      "name": "Hotel Kasbah Mohayut",
+      "kind": "stay",
+      "locality": "Merzouga",
+      "lat": 31.13115,
+      "lon": -4.01723,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "url": "http://mohayut.com/index.html",
+      "id": "morocco-d2c4f028f01df991594b"
+    },
+    {
+      "name": "Hotel Kanz Erremal",
+      "kind": "stay",
+      "locality": "Merzouga",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "address": "Touz Haci El Bide",
+      "price": "€44",
+      "url": "http://www.kanzerremal.com/",
+      "id": "morocco-5453704092182a30a7cf"
+    },
+    {
+      "name": "Auberge Ksar Sania",
+      "kind": "stay",
+      "locality": "Merzouga",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "id": "morocco-8da45faa9099e57f3ca9"
+    },
+    {
+      "name": "Merzouga Luxury Desert Camp",
+      "kind": "stay",
+      "locality": "Merzouga",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "url": "https://moroccosaharatourism.com/merzouga-luxury-desert-camp/",
+      "id": "morocco-56d898d4eae538cdac5b"
+    },
+    {
+      "name": "Sunrise Palace Merzouga",
+      "kind": "stay",
+      "locality": "Merzouga",
+      "lat": 31.22389,
+      "lon": -3.99233,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "address": "MA, Drâa-Tafilalet, Merzouga, Rass Eramel, Erg Chebbi, 52202",
+      "price": "180-400 €",
+      "url": "https://www.sunrisepalacemorocco.com/",
+      "id": "morocco-5a7c19fee00598288001"
+    },
+    {
+      "name": "Merzouga",
+      "kind": "area",
+      "locality": "Merzouga",
+      "lat": 31.09917,
+      "lon": -4.01167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Merzouga",
+      "id": "morocco-be851232f8a0203bdd24"
+    },
+    {
+      "name": "Camel trekking",
+      "kind": "do",
+      "locality": "M'Hamid",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/M'Hamid",
+      "id": "morocco-22814e1b87ef06ada824"
+    },
+    {
+      "name": "4WD, ATV, quad bikes and buggies",
+      "kind": "do",
+      "locality": "M'Hamid",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/M'Hamid",
+      "id": "morocco-f8763b76d0ca131a273b"
+    },
+    {
+      "name": "Erg Chigaga Luxury Desert Camp",
+      "kind": "stay",
+      "locality": "M'Hamid",
+      "lat": 29.805609,
+      "lon": -6.153305,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/M'Hamid",
+      "url": "https://www.desertcampmorocco.com/",
+      "id": "morocco-81fc00607ee12f654ee9"
+    },
+    {
+      "name": "Dar Azawad",
+      "kind": "stay",
+      "locality": "M'Hamid",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/M'Hamid",
+      "url": "http://www.darazawad.com/",
+      "id": "morocco-f98bcf40f9600fbb5f8c"
+    },
+    {
+      "name": "Dar Sidi Bounou",
+      "kind": "stay",
+      "locality": "M'Hamid",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/M'Hamid",
+      "address": "Bounou, M’Hamid",
+      "price": "€30-50",
+      "url": "http://www.darsidibounou.com/",
+      "id": "morocco-e4bcaa8e4a0e2adae0e0"
+    },
+    {
+      "name": "Camp Sahara holidays",
+      "kind": "stay",
+      "locality": "M'Hamid",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/M'Hamid",
+      "price": "€40",
+      "url": "https://sahara-holiday.com/",
+      "id": "morocco-17812ad54fdf9126abdc"
+    },
+    {
+      "name": "Hotel Sahara",
+      "kind": "stay",
+      "locality": "M'Hamid",
+      "lat": 29.828658,
+      "lon": -5.723405,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/M'Hamid",
+      "id": "morocco-9e10bd7d288b6b08cd93"
+    },
+    {
+      "name": "Hotel Kasbah Azalay",
+      "kind": "stay",
+      "locality": "M'Hamid",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/M'Hamid",
+      "url": "http://www.azalay.com/",
+      "id": "morocco-fac61342472189538a3a"
+    },
+    {
+      "name": "Chegaga Berber Camp",
+      "kind": "stay",
+      "locality": "M'Hamid",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/M'Hamid",
+      "url": "http://www.exploresahara.com/",
+      "id": "morocco-baf92bcda551db6787b7"
+    },
+    {
+      "name": "M'Hamid",
+      "kind": "area",
+      "locality": "M'Hamid",
+      "lat": 29.8222,
+      "lon": -5.7208,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/M'Hamid",
+      "id": "morocco-4fbb921dee16a3815731"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 5 distinct public Wikivoyage source pages; attempted 5 article titles covering the country, capital(s), and 2 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Destination article routing (regional/landmark guides may use a nearby gateway): Sahara Desert → Merzouga; Sahara Desert → M'Hamid."
+}

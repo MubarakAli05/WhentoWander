@@ -1,0 +1,205 @@
+{
+  "sources": [
+    {
+      "title": "Belize",
+      "url": "https://en.wikivoyage.org/wiki/Belize",
+      "checkedAt": "2026-10-21T08:08:37.287Z"
+    },
+    {
+      "title": "Belmopan",
+      "url": "https://en.wikivoyage.org/wiki/Belmopan",
+      "checkedAt": "2026-10-21T08:08:40.221Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Belmopan",
+      "kind": "area",
+      "locality": "Belize",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belize",
+      "id": "belize-567dcc3608b936c26050"
+    },
+    {
+      "name": "Belize City",
+      "kind": "area",
+      "locality": "Belize",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belize",
+      "id": "belize-add314168678f1b2fda2"
+    },
+    {
+      "name": "Corozal Town",
+      "kind": "area",
+      "locality": "Belize",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belize",
+      "id": "belize-6d71849728ddca48ca99"
+    },
+    {
+      "name": "Crooked Tree",
+      "kind": "area",
+      "locality": "Belize",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belize",
+      "id": "belize-20b3e7d4e8d92b7e2728"
+    },
+    {
+      "name": "Dangriga",
+      "kind": "area",
+      "locality": "Belize",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belize",
+      "id": "belize-508b54e2d952cb7d4551"
+    },
+    {
+      "name": "Hopkins",
+      "kind": "area",
+      "locality": "Belize",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belize",
+      "id": "belize-56ef6330f342625f64fc"
+    },
+    {
+      "name": "Orange Walk Town",
+      "kind": "area",
+      "locality": "Belize",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belize",
+      "id": "belize-d79b47e5fe898253ed03"
+    },
+    {
+      "name": "Punta Gorda",
+      "kind": "area",
+      "locality": "Belize",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belize",
+      "id": "belize-a413b971529dd622ddf7"
+    },
+    {
+      "name": "San Ignacio",
+      "kind": "area",
+      "locality": "Belize",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belize",
+      "id": "belize-215ea77543290869148d"
+    },
+    {
+      "name": "Ian Anderson's Caves Branch Adventure Company and Jungle Lodge",
+      "kind": "do",
+      "locality": "Belize",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belize",
+      "address": "Caves Branch",
+      "url": "http://www.cavesbranch.com/",
+      "id": "belize-1b758fa419cdf347487e"
+    },
+    {
+      "name": "St. Herman’s Cave",
+      "kind": "do",
+      "locality": "Belmopan",
+      "lat": 17.143,
+      "lon": -88.69,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belmopan",
+      "url": "http://www.belizeit.com/st-hermans-cave.html",
+      "id": "belize-49c75c05d5537346e393"
+    },
+    {
+      "name": "St. Herman’s Cave Tour (Belize Inland Tours)",
+      "kind": "do",
+      "locality": "Belmopan",
+      "lat": 17.143,
+      "lon": -88.69,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belmopan",
+      "address": "Blue Hole National Park, Mile 42 Hummingbird Highway, Cayo District",
+      "url": "http://belizeinlandtours.com/st-hermans-cave-tour/",
+      "id": "belize-23d12be23ad34243b068"
+    },
+    {
+      "name": "St. Herman's Blue Hole National Park",
+      "kind": "do",
+      "locality": "Belmopan",
+      "lat": 17.137167,
+      "lon": -88.644478,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belmopan",
+      "url": "http://www.belizeaudubon.org/?page_id=3622",
+      "id": "belize-4d494e6057a87332b529"
+    },
+    {
+      "name": "Mountain Cow Cave Tour (MayaWalk)",
+      "kind": "do",
+      "locality": "Belmopan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belmopan",
+      "address": "Blue Hole National Park",
+      "price": "US$110/person",
+      "url": "https://www.mayawalk.com/belize-crystal-cave-tour",
+      "id": "belize-d5b039a7ede74712862f"
+    },
+    {
+      "name": "Mountain Cow Cave Tour (Belize Inland Tours)",
+      "kind": "do",
+      "locality": "Belmopan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belmopan",
+      "address": "Blue Hole National Park, Mile 42 Hummingbird Highway Cayo District",
+      "price": "US$90/person",
+      "url": "http://belizeinlandtours.com/belize-crystal-cave-tour",
+      "id": "belize-447060f1bc399c7208aa"
+    },
+    {
+      "name": "Belize Zoo",
+      "kind": "do",
+      "locality": "Belmopan",
+      "lat": 17.353611,
+      "lon": -88.549722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belmopan",
+      "address": "Mile 29 on the George Price Highway (Western Highway)",
+      "price": "Foreign adults US$15, foreign children US$5, Belizean adults BZ$7, Belizean children BZ$2",
+      "url": "http://www.belizezoo.org/",
+      "id": "belize-d25cf7161d1b913d9f52"
+    },
+    {
+      "name": "Banana Bank Lodge",
+      "kind": "stay",
+      "locality": "Belmopan",
+      "lat": 17.2898,
+      "lon": -88.7757,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belmopan",
+      "address": "Mile 49 Western Hwy",
+      "url": "https://www.bananabank.com/",
+      "id": "belize-5e744043a9fb76bf2eb9"
+    },
+    {
+      "name": "Belize Jungle Dome",
+      "kind": "stay",
+      "locality": "Belmopan",
+      "lat": 17.2888,
+      "lon": -88.7777,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belmopan",
+      "address": "Banana Bank",
+      "url": "http://www.belizejungledome.com/",
+      "id": "belize-3f035adda9626f306abe"
+    },
+    {
+      "name": "Bullfrog Inn",
+      "kind": "stay",
+      "locality": "Belmopan",
+      "lat": 17.25168,
+      "lon": -88.76459,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belmopan",
+      "address": "25 Half Moon Ave",
+      "url": "https://www.bullfroginn.com/",
+      "id": "belize-9439357c109d6c2fd451"
+    },
+    {
+      "name": "Yim Saan",
+      "kind": "stay",
+      "locality": "Belmopan",
+      "lat": 17.25082,
+      "lon": -88.78527,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belmopan",
+      "address": "4253 Hummingbird Hwy",
+      "id": "belize-b1f3adc2371ce538d8ee"
+    },
+    {
+      "name": "Belmopan",
+      "kind": "area",
+      "locality": "Belmopan",
+      "lat": 17.25,
+      "lon": -88.7675,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Belmopan",
+      "id": "belize-7cfc7bdc063c100e3249"
+    }
+  ],
+  "status": "partial",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Missing categories: eat."
+}

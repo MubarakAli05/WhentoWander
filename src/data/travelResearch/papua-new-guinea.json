@@ -1,0 +1,476 @@
+{
+  "sources": [
+    {
+      "title": "Papua New Guinea",
+      "url": "https://en.wikivoyage.org/wiki/Papua_New_Guinea",
+      "checkedAt": "2026-10-21T08:07:58.629Z"
+    },
+    {
+      "title": "Port Moresby",
+      "url": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "checkedAt": "2026-10-21T08:08:01.212Z"
+    },
+    {
+      "title": "Kokoda Track",
+      "url": "https://en.wikivoyage.org/wiki/Kokoda_Track",
+      "checkedAt": "2026-10-21T08:08:04.194Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Port Moresby",
+      "kind": "area",
+      "locality": "Papua New Guinea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Papua_New_Guinea",
+      "id": "papua-new-guinea-0d4dd126760224209983"
+    },
+    {
+      "name": "Alotau",
+      "kind": "area",
+      "locality": "Papua New Guinea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Papua_New_Guinea",
+      "id": "papua-new-guinea-447bc6077525dfba08fb"
+    },
+    {
+      "name": "Goroka",
+      "kind": "area",
+      "locality": "Papua New Guinea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Papua_New_Guinea",
+      "id": "papua-new-guinea-a9e3794a0abc24835716"
+    },
+    {
+      "name": "Lae",
+      "kind": "area",
+      "locality": "Papua New Guinea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Papua_New_Guinea",
+      "id": "papua-new-guinea-388b4d64fe38ee9d3206"
+    },
+    {
+      "name": "Madang",
+      "kind": "area",
+      "locality": "Papua New Guinea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Papua_New_Guinea",
+      "id": "papua-new-guinea-b9ecc302be52ec5749c1"
+    },
+    {
+      "name": "Mount Hagen",
+      "kind": "area",
+      "locality": "Papua New Guinea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Papua_New_Guinea",
+      "id": "papua-new-guinea-1fdbdd86f81310f400fe"
+    },
+    {
+      "name": "Rabaul",
+      "kind": "area",
+      "locality": "Papua New Guinea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Papua_New_Guinea",
+      "id": "papua-new-guinea-f10adf8deb57b014a7bd"
+    },
+    {
+      "name": "Vanimo",
+      "kind": "area",
+      "locality": "Papua New Guinea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Papua_New_Guinea",
+      "id": "papua-new-guinea-67eecd317c6ff8a81a27"
+    },
+    {
+      "name": "Wewak",
+      "kind": "area",
+      "locality": "Papua New Guinea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Papua_New_Guinea",
+      "id": "papua-new-guinea-431261f047048d26807f"
+    },
+    {
+      "name": "Port Moresby Nature Park",
+      "kind": "do",
+      "locality": "Port Moresby",
+      "lat": -9.405448,
+      "lon": 147.165605,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "url": "http://www.bgci.org/garden.php?id=547",
+      "id": "papua-new-guinea-dadad58a29bbfe23f5d9"
+    },
+    {
+      "name": "Papua New Guinea National Museum & Art Gallery",
+      "kind": "do",
+      "locality": "Port Moresby",
+      "lat": -9.425693181725537,
+      "lon": 147.18995332717896,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "address": "Independence Drive, Waigani",
+      "price": "Free during the week, K10 at weekends",
+      "url": "http://www.museumpng.gov.pg/",
+      "id": "papua-new-guinea-d07dcedf716bd239cf57"
+    },
+    {
+      "name": "Bomana War Cemetery",
+      "kind": "do",
+      "locality": "Port Moresby",
+      "lat": -9.39535,
+      "lon": 147.25309,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "address": "9 Mile",
+      "price": "Free",
+      "url": "https://www.cwgc.org/find-a-cemetery/cemetery/2014300/port-moresby-(bomana)-war-cemetery/",
+      "id": "papua-new-guinea-f440eb046ffb1ebcfef1"
+    },
+    {
+      "name": "National Parliament of Papua New Guinea",
+      "kind": "do",
+      "locality": "Port Moresby",
+      "lat": -9.428064,
+      "lon": 147.191906,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "price": "Free",
+      "id": "papua-new-guinea-d81ff645931ab0009b19"
+    },
+    {
+      "name": "Touaguba Hill",
+      "kind": "do",
+      "locality": "Port Moresby",
+      "lat": -9.47478,
+      "lon": 147.15983,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "id": "papua-new-guinea-0224324102206be7cad7"
+    },
+    {
+      "name": "Moitaka Wildlife Sanctuary",
+      "kind": "do",
+      "locality": "Port Moresby",
+      "lat": -9.42622,
+      "lon": 147.20764,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "address": "Sir Hubert Murray Highway",
+      "id": "papua-new-guinea-7ad79ebd3b1dc3acdff7"
+    },
+    {
+      "name": "Port Moresby Golf Club",
+      "kind": "do",
+      "locality": "Port Moresby",
+      "lat": -9.423569,
+      "lon": 147.191697,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "id": "papua-new-guinea-1f90db386df970c7b9fc"
+    },
+    {
+      "name": "Ela Beach Craft Market",
+      "kind": "do",
+      "locality": "Port Moresby",
+      "lat": -9.481124,
+      "lon": 147.151751,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "id": "papua-new-guinea-79e520538c5f8921a193"
+    },
+    {
+      "name": "Hiking",
+      "kind": "do",
+      "locality": "Port Moresby",
+      "lat": -9.5223,
+      "lon": 147.257,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "address": "Atama Beach, Pari",
+      "price": "Free",
+      "id": "papua-new-guinea-33d8a1d8b785ef99ab79"
+    },
+    {
+      "name": "Hiri Moale Festival",
+      "kind": "do",
+      "locality": "Port Moresby",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "id": "papua-new-guinea-1b245ae23e092243e22e"
+    },
+    {
+      "name": "Asia Aromas",
+      "kind": "eat",
+      "locality": "Port Moresby",
+      "lat": -9.47705,
+      "lon": 147.14826,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "id": "papua-new-guinea-1cccabdaba4e94371ca6"
+    },
+    {
+      "name": "Daikoku",
+      "kind": "eat",
+      "locality": "Port Moresby",
+      "lat": -9.46399,
+      "lon": 147.15479,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "id": "papua-new-guinea-efdd3e688009a0b9493c"
+    },
+    {
+      "name": "Royal Papua Yacht Club",
+      "kind": "eat",
+      "locality": "Port Moresby",
+      "lat": -9.46634,
+      "lon": 147.15479,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "id": "papua-new-guinea-788ae8484af2b2dfa79f"
+    },
+    {
+      "name": "Crowne Plaza",
+      "kind": "eat",
+      "locality": "Port Moresby",
+      "lat": 9.47851,
+      "lon": 147.15149,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "id": "papua-new-guinea-02d0d2e7099a41896525"
+    },
+    {
+      "name": "Port Moresby Golf Club",
+      "kind": "eat",
+      "locality": "Port Moresby",
+      "lat": -9.42287,
+      "lon": 147.19223,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "id": "papua-new-guinea-61b373d1bffafae917d6"
+    },
+    {
+      "name": "Seoul House",
+      "kind": "eat",
+      "locality": "Port Moresby",
+      "lat": -9.46012,
+      "lon": 147.19991,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "id": "papua-new-guinea-c83df2fe55366cca572a"
+    },
+    {
+      "name": "Fu Gui",
+      "kind": "eat",
+      "locality": "Port Moresby",
+      "lat": -9.44796,
+      "lon": 147.18648,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "id": "papua-new-guinea-758a5591432d495c473d"
+    },
+    {
+      "name": "Lamana Hotel",
+      "kind": "eat",
+      "locality": "Port Moresby",
+      "lat": -9.44232,
+      "lon": 147.18,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "price": "25k",
+      "url": "http://www.lamanahotel.com.pg/",
+      "id": "papua-new-guinea-a405bf5dc8c9e36adc22"
+    },
+    {
+      "name": "Tasty Bite",
+      "kind": "eat",
+      "locality": "Port Moresby",
+      "lat": -9.477921,
+      "lon": 147.15152,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "address": "Hunter St",
+      "price": "K30-60",
+      "id": "papua-new-guinea-fe0f0cca7f6c086aadb0"
+    },
+    {
+      "name": "Tandoor On The Harbour",
+      "kind": "eat",
+      "locality": "Port Moresby",
+      "lat": -9.476946,
+      "lon": 147.148796,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "address": "Harbour Side complex",
+      "id": "papua-new-guinea-013ace3c20023d19cf87"
+    },
+    {
+      "name": "Beachside Brasserie",
+      "kind": "eat",
+      "locality": "Port Moresby",
+      "lat": -9.479448,
+      "lon": 147.154848,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "address": "Ela Beach Road",
+      "price": "K30-100",
+      "id": "papua-new-guinea-80c6202d254cde87c2c0"
+    },
+    {
+      "name": "Buffalo Burgers",
+      "kind": "eat",
+      "locality": "Port Moresby",
+      "lat": -9.443364,
+      "lon": 147.182701,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "address": "Waigani Road",
+      "price": "K20",
+      "id": "papua-new-guinea-4c8656e057989d462de8"
+    },
+    {
+      "name": "Hosi Ramen",
+      "kind": "eat",
+      "locality": "Port Moresby",
+      "lat": -9.437242,
+      "lon": 147.182505,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "address": "Vision City Mega Mall",
+      "price": "K20-30",
+      "id": "papua-new-guinea-85ae4eb7c7141a3a7bff"
+    },
+    {
+      "name": "Poolside at Airways",
+      "kind": "eat",
+      "locality": "Port Moresby",
+      "lat": -9.450902,
+      "lon": 147.216837,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "id": "papua-new-guinea-df22885399ce728d0959"
+    },
+    {
+      "name": "Jacksons Bar and Restaurant",
+      "kind": "eat",
+      "locality": "Port Moresby",
+      "lat": -9.447618,
+      "lon": 147.214266,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "address": "Gateway Hotel",
+      "id": "papua-new-guinea-1b2df72b6224fa9002ba"
+    },
+    {
+      "name": "Duffy Cafe",
+      "kind": "eat",
+      "locality": "Port Moresby",
+      "lat": -9.477183,
+      "lon": 147.148898,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "address": "Harbour Side complex",
+      "url": "http://duffypng.com/",
+      "id": "papua-new-guinea-850ea075f1477dd432b5"
+    },
+    {
+      "name": "Airways Hotel",
+      "kind": "stay",
+      "locality": "Port Moresby",
+      "lat": -9.450322,
+      "lon": 147.21678,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "address": "Jacksons Parade",
+      "price": "K550-K800",
+      "url": "http://www.airways.com.pg/",
+      "id": "papua-new-guinea-d8ca87b8e46550245dca"
+    },
+    {
+      "name": "The Crowne Plaza",
+      "kind": "stay",
+      "locality": "Port Moresby",
+      "lat": -9.478467,
+      "lon": 147.151614,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "url": "http://www.ichotelsgroup.com/h/d/cp/1/en/hd/pompg/",
+      "id": "papua-new-guinea-8808e639e1b764b0238d"
+    },
+    {
+      "name": "Gateway Hotel",
+      "kind": "stay",
+      "locality": "Port Moresby",
+      "lat": -9.447019,
+      "lon": 147.213763,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "address": "Jackson Parade",
+      "price": "PGK500+",
+      "url": "http://www.coralseahotels.com.pg/index.php/locations/gateway-hotel",
+      "id": "papua-new-guinea-999b0baafcdde430626f"
+    },
+    {
+      "name": "Grand Papua Hotel",
+      "kind": "stay",
+      "locality": "Port Moresby",
+      "lat": -9.47897,
+      "lon": 147.15055,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "address": "Mary Street, Port Moresby 121 National Capital District",
+      "url": "http://www.grandpapuahotel.com.pg/",
+      "id": "papua-new-guinea-2dd5061d2d1578905c8d"
+    },
+    {
+      "name": "Holiday Inn",
+      "kind": "stay",
+      "locality": "Port Moresby",
+      "lat": -9.446047,
+      "lon": 147.181727,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "url": "http://www.ichotelsgroup.com/h/d/hi/1/en/hd/pomih",
+      "id": "papua-new-guinea-1f2894407aafd289b189"
+    },
+    {
+      "name": "Holiday Inn Express",
+      "kind": "stay",
+      "locality": "Port Moresby",
+      "lat": -9.445273,
+      "lon": 147.182408,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "address": "Waigani Rd & Wards Rd",
+      "price": "K520",
+      "url": "http://www.ihg.com/holidayinn",
+      "id": "papua-new-guinea-131f88f06c3fb6e292e1"
+    },
+    {
+      "name": "Ela Beach Hotel",
+      "kind": "stay",
+      "locality": "Port Moresby",
+      "lat": -9.479161,
+      "lon": 147.15466,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "address": "Ela Beach Road",
+      "price": "K550+",
+      "url": "http://coralseahotels.com.pg/",
+      "id": "papua-new-guinea-2fba8271572ce4711b3a"
+    },
+    {
+      "name": "The Stanley Hotel & Suites",
+      "kind": "stay",
+      "locality": "Port Moresby",
+      "lat": -9.437821,
+      "lon": 147.18253,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "address": "Sir John Guise Drive, Waigani, Port Moresby",
+      "url": "https://www.thestanleypng.com/",
+      "id": "papua-new-guinea-31d3895fc1bd08e64289"
+    },
+    {
+      "name": "Loloata Island Resort",
+      "kind": "stay",
+      "locality": "Port Moresby",
+      "lat": -9.53459,
+      "lon": 147.29037,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "address": "Portion 1069, Bootless Bay",
+      "price": "Doubles: $225",
+      "url": "https://www.loloataislandresort.com/",
+      "id": "papua-new-guinea-99b8af887861d71e7311"
+    },
+    {
+      "name": "Hilton Port Moresby",
+      "kind": "stay",
+      "locality": "Port Moresby",
+      "lat": -9.4497,
+      "lon": 147.18,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "address": "Wards Rd",
+      "url": "https://www.hilton.com/",
+      "id": "papua-new-guinea-963d848fe6edaa49e534"
+    },
+    {
+      "name": "The Stanley Hotel & Suites",
+      "kind": "stay",
+      "locality": "Port Moresby",
+      "lat": -9.4379,
+      "lon": 147.1826,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "address": "Sir John Guise Drive",
+      "url": "http://www.thestanleypng.com/",
+      "id": "papua-new-guinea-86f73c14b4f80577b08f"
+    },
+    {
+      "name": "Port Moresby",
+      "kind": "area",
+      "locality": "Port Moresby",
+      "lat": -9.445,
+      "lon": 147.196,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port_Moresby",
+      "id": "papua-new-guinea-3742204a3baf25253840"
+    }
+  ],
+  "status": "partial",
+  "note": "Fetched 3 distinct public Wikivoyage source pages; attempted 3 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. No extractable structured facts: Kokoda Track."
+}

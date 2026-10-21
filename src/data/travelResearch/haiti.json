@@ -1,0 +1,205 @@
+{
+  "sources": [
+    {
+      "title": "Haiti",
+      "url": "https://en.wikivoyage.org/wiki/Haiti",
+      "checkedAt": "2026-10-21T08:10:00.253Z"
+    },
+    {
+      "title": "Port-au-Prince",
+      "url": "https://en.wikivoyage.org/wiki/Port-au-Prince",
+      "checkedAt": "2026-10-21T08:10:03.404Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Port-au-Prince",
+      "kind": "area",
+      "locality": "Haiti",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Haiti",
+      "id": "haiti-b9d15826c70b4b822a86"
+    },
+    {
+      "name": "Cap-Haïtien",
+      "kind": "area",
+      "locality": "Haiti",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Haiti",
+      "id": "haiti-3df7b36835887009afaa"
+    },
+    {
+      "name": "Gonaïves",
+      "kind": "area",
+      "locality": "Haiti",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Haiti",
+      "id": "haiti-ca5ee24d7661769c68c1"
+    },
+    {
+      "name": "Jacmel",
+      "kind": "area",
+      "locality": "Haiti",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Haiti",
+      "id": "haiti-608d14d340040075a909"
+    },
+    {
+      "name": "Jérémie",
+      "kind": "area",
+      "locality": "Haiti",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Haiti",
+      "id": "haiti-63ae2c6381d8cccb4e22"
+    },
+    {
+      "name": "Les Cayes",
+      "kind": "area",
+      "locality": "Haiti",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Haiti",
+      "id": "haiti-763ceb323f769183747c"
+    },
+    {
+      "name": "Petionville",
+      "kind": "area",
+      "locality": "Haiti",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Haiti",
+      "id": "haiti-ae27e970795c32a094e2"
+    },
+    {
+      "name": "Port-de-Paix",
+      "kind": "area",
+      "locality": "Haiti",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Haiti",
+      "id": "haiti-a7a2f74e2a3c8b844422"
+    },
+    {
+      "name": "Port-Salut",
+      "kind": "area",
+      "locality": "Haiti",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Haiti",
+      "id": "haiti-55df26b6b62441eb8cc9"
+    },
+    {
+      "name": "National Palace",
+      "kind": "do",
+      "locality": "Port-au-Prince",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port-au-Prince",
+      "id": "haiti-77e64179cd07dd22f5bd"
+    },
+    {
+      "name": "Cathedral of Our Lady of the Assumption",
+      "kind": "do",
+      "locality": "Port-au-Prince",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port-au-Prince",
+      "id": "haiti-4744eb519ae197356511"
+    },
+    {
+      "name": "Musée du Panthéon National Haïtien",
+      "kind": "do",
+      "locality": "Port-au-Prince",
+      "lat": 18.542939,
+      "lon": -72.337134,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port-au-Prince",
+      "address": "Avenue de la République",
+      "price": "Free entrance, guided tours US$1",
+      "id": "haiti-501cd0990dd5e62b5acb"
+    },
+    {
+      "name": "Audel Marseille",
+      "kind": "do",
+      "locality": "Port-au-Prince",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port-au-Prince",
+      "id": "haiti-e6643ae4698961ce8483"
+    },
+    {
+      "name": "Pizza Garden",
+      "kind": "eat",
+      "locality": "Port-au-Prince",
+      "lat": 18.51193,
+      "lon": -72.28485,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port-au-Prince",
+      "id": "haiti-7fe42c486db601c9bb37"
+    },
+    {
+      "name": "Big Star Market",
+      "kind": "eat",
+      "locality": "Port-au-Prince",
+      "lat": 18.51196,
+      "lon": -72.28745,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port-au-Prince",
+      "id": "haiti-dd8a1a13d63c57cce120"
+    },
+    {
+      "name": "Tabarre's Palace",
+      "kind": "stay",
+      "locality": "Port-au-Prince",
+      "lat": 18.56926,
+      "lon": -72.25863,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port-au-Prince",
+      "url": "https://sites.google.com/view/tabarre-s-palace/",
+      "id": "haiti-11cbfd505d47d47f26e1"
+    },
+    {
+      "name": "Wall's Guesthouse",
+      "kind": "stay",
+      "locality": "Port-au-Prince",
+      "lat": 18.558478,
+      "lon": -72.30893,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port-au-Prince",
+      "address": "8 Rue Mackendal, Delmas 19",
+      "url": "http://www.wallsguesthouse.com/",
+      "id": "haiti-406b3af9270473d0d429"
+    },
+    {
+      "name": "La Maison",
+      "kind": "stay",
+      "locality": "Port-au-Prince",
+      "lat": 18.5759,
+      "lon": -72.2852,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port-au-Prince",
+      "address": "27, Route de l'Aéroport, Zone Cargo, Tabarre",
+      "url": "https://www.lamaisonhaiti.com/hotel",
+      "id": "haiti-7235a78e876d1236c7ec"
+    },
+    {
+      "name": "Karibe Hotel",
+      "kind": "stay",
+      "locality": "Port-au-Prince",
+      "lat": 18.520886,
+      "lon": -72.300804,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port-au-Prince",
+      "address": "Juvénat 7, Pétion-Ville",
+      "url": "http://www.karibehotel.com/",
+      "id": "haiti-e7c9733f181d189629e1"
+    },
+    {
+      "name": "Marriott Port-au-Prince Hotel",
+      "kind": "stay",
+      "locality": "Port-au-Prince",
+      "lat": 18.532656,
+      "lon": -72.323738,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port-au-Prince",
+      "address": "Ave Jean-Paul II 147",
+      "url": "https://www.marriott.com/hotels/travel/papmc-marriott-port-au-prince-hotel",
+      "id": "haiti-9df75bfa428f5424143c"
+    },
+    {
+      "name": "Servotel",
+      "kind": "stay",
+      "locality": "Port-au-Prince",
+      "lat": 18.5747,
+      "lon": -72.2855,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port-au-Prince",
+      "address": "Route de l'Aéroport, Zone Cargo, Tabarre",
+      "url": "https://www.servotelhaiti.com/home/",
+      "id": "haiti-65a6357c6079bbd97709"
+    },
+    {
+      "name": "Port-au-Prince",
+      "kind": "area",
+      "locality": "Port-au-Prince",
+      "lat": 18.543619,
+      "lon": -72.339706,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Port-au-Prince",
+      "id": "haiti-9e7e1a3384d9a23c2917"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

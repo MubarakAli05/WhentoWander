@@ -1,0 +1,294 @@
+{
+  "sources": [
+    {
+      "title": "Dominica",
+      "url": "https://en.wikivoyage.org/wiki/Dominica",
+      "checkedAt": "2026-10-21T08:09:27.315Z"
+    },
+    {
+      "title": "Roseau",
+      "url": "https://en.wikivoyage.org/wiki/Roseau",
+      "checkedAt": "2026-10-21T08:09:30.220Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Roseau",
+      "kind": "area",
+      "locality": "Dominica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominica",
+      "id": "dominica-3c75f13453327cfba56a"
+    },
+    {
+      "name": "Portsmouth",
+      "kind": "area",
+      "locality": "Dominica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominica",
+      "id": "dominica-f7e52febdc4fd5e4a606"
+    },
+    {
+      "name": "Scott's Head",
+      "kind": "area",
+      "locality": "Dominica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominica",
+      "id": "dominica-98176346855a7a139384"
+    },
+    {
+      "name": "Calibishie",
+      "kind": "area",
+      "locality": "Dominica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominica",
+      "id": "dominica-52628752fabcab7f1747"
+    },
+    {
+      "name": "St. Joseph",
+      "kind": "area",
+      "locality": "Dominica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominica",
+      "id": "dominica-85322040e96420cee85f"
+    },
+    {
+      "name": "JC Ocean Adventures",
+      "kind": "do",
+      "locality": "Dominica",
+      "lat": 15.25,
+      "lon": -61.27,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominica",
+      "address": "Mero Village, Dominica",
+      "price": "US$50-750",
+      "url": "http://www.jcoceanadventures.com/",
+      "id": "dominica-ec187846216bd3b97ccf"
+    },
+    {
+      "name": "Middle Ham Falls",
+      "kind": "do",
+      "locality": "Dominica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominica",
+      "id": "dominica-20e5625a626ea0b17cba"
+    },
+    {
+      "name": "Valley of Desolation/ Boiling Lake",
+      "kind": "do",
+      "locality": "Dominica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominica",
+      "id": "dominica-fb23d90936b51297ffbe"
+    },
+    {
+      "name": "The Kalinago Barana Autê",
+      "kind": "do",
+      "locality": "Dominica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominica",
+      "price": "Entrance fees are US$10 per person for a 30-45 minute guided tour",
+      "id": "dominica-1f3a0407aa5ab4bc8954"
+    },
+    {
+      "name": "Black Boys Bar",
+      "kind": "eat",
+      "locality": "Dominica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominica",
+      "address": "Newtown",
+      "id": "dominica-2e6802ce65be664fd72a"
+    },
+    {
+      "name": "'Jungle Bay Resort & Spa'",
+      "kind": "stay",
+      "locality": "Dominica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominica",
+      "url": "http://www.junglebaydominica.com/",
+      "id": "dominica-0daf7d96ebe20c519cc2"
+    },
+    {
+      "name": "'Pointe Baptiste Villa and cottage'",
+      "kind": "stay",
+      "locality": "Dominica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominica",
+      "url": "http://www.pointebaptiste.com/",
+      "id": "dominica-bec374075475b3ea0952"
+    },
+    {
+      "name": "'BareFoot Travel'",
+      "kind": "stay",
+      "locality": "Dominica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominica",
+      "url": "http://www.travelbarefoot.com/",
+      "id": "dominica-fae9ea505994fab632c1"
+    },
+    {
+      "name": "'3 Rivers Eco Lodge'",
+      "kind": "stay",
+      "locality": "Dominica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominica",
+      "url": "http://www.3riversdominica.com/",
+      "id": "dominica-a1865009de584bb2e927"
+    },
+    {
+      "name": "'Beau Rive'",
+      "kind": "stay",
+      "locality": "Dominica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominica",
+      "url": "http://www.beaurive.com/",
+      "id": "dominica-4619d45339dd97210b68"
+    },
+    {
+      "name": "'Papillote'",
+      "kind": "stay",
+      "locality": "Dominica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominica",
+      "url": "http://www.papillote.dm/",
+      "id": "dominica-f1a19296d1ccdcd775b0"
+    },
+    {
+      "name": "'WindBlow Villas'",
+      "kind": "stay",
+      "locality": "Dominica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominica",
+      "url": "http://www.windblowestate.com/",
+      "id": "dominica-030fca86e8ab885d40b4"
+    },
+    {
+      "name": "Sunset Bay Club & Seaside Dive Resort",
+      "kind": "stay",
+      "locality": "Dominica",
+      "lat": 15.27,
+      "lon": -61.28,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominica",
+      "address": "Batalie Beach, Coulibistrie",
+      "url": "http://www.sunsetbayclub.com/",
+      "id": "dominica-1f3618c682e5d864dc0b"
+    },
+    {
+      "name": "Manicou River Eco Resort",
+      "kind": "stay",
+      "locality": "Dominica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominica",
+      "address": "Everton Hall Estate",
+      "price": "99.00",
+      "url": "http://www.manicouriverresort.com/",
+      "id": "dominica-68a35433655b1eb1de3c"
+    },
+    {
+      "name": "Serenity Lodges Dominica",
+      "kind": "stay",
+      "locality": "Dominica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Dominica",
+      "address": "Concord",
+      "price": "From US$69 (without AC)",
+      "url": "http://www.serenitylodgesdominica.com/",
+      "id": "dominica-6f0a24b117c05d65e406"
+    },
+    {
+      "name": "French Quarter",
+      "kind": "do",
+      "locality": "Roseau",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Roseau",
+      "id": "dominica-c20aa5702039ce3858ee"
+    },
+    {
+      "name": "Roseau Cathedral",
+      "kind": "do",
+      "locality": "Roseau",
+      "lat": 15.2975,
+      "lon": -61.3853,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Roseau",
+      "id": "dominica-ebc7072d6b60f7ba0761"
+    },
+    {
+      "name": "Dominica Museum",
+      "kind": "do",
+      "locality": "Roseau",
+      "lat": 15.2964,
+      "lon": -61.3875,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Roseau",
+      "address": "Dame Mary Eugenia Charles Boulevard",
+      "price": "$3",
+      "url": "https://www.dominicaart.com/dominica_museum/",
+      "id": "dominica-548ca53ba4452dd9f922"
+    },
+    {
+      "name": "Botanical Gardens",
+      "kind": "do",
+      "locality": "Roseau",
+      "lat": 15.301245,
+      "lon": -61.381908,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Roseau",
+      "price": "Free",
+      "id": "dominica-d7cee15252f90caa0b34"
+    },
+    {
+      "name": "Emerald Pool",
+      "kind": "do",
+      "locality": "Roseau",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Roseau",
+      "id": "dominica-3dc8ee95fffecef73fa0"
+    },
+    {
+      "name": "Champagne Beach",
+      "kind": "do",
+      "locality": "Roseau",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Roseau",
+      "id": "dominica-5b7a9ea27fb3927f8a64"
+    },
+    {
+      "name": "Patty Shack",
+      "kind": "eat",
+      "locality": "Roseau",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Roseau",
+      "url": "https://www.facebook.com/Patty-Shack-Dominica-146437842182987/",
+      "id": "dominica-5c7484c4df9a5b5a1253"
+    },
+    {
+      "name": "Urban Garden Cafe",
+      "kind": "eat",
+      "locality": "Roseau",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Roseau",
+      "address": "8, Castle St",
+      "id": "dominica-f5fd64d55356f3685f0a"
+    },
+    {
+      "name": "Fusion Village",
+      "kind": "eat",
+      "locality": "Roseau",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Roseau",
+      "address": "42, Old St",
+      "url": "http://www.fusionvillagerestaurant.com/",
+      "id": "dominica-f14b0dc00bfca34bee62"
+    },
+    {
+      "name": "Cocorico Cafe",
+      "kind": "eat",
+      "locality": "Roseau",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Roseau",
+      "address": "Corner of Bayfront and Kenedy Ave",
+      "url": "http://www.cocoricocafe.com/",
+      "id": "dominica-2ff215a6c12d71e5fa05"
+    },
+    {
+      "name": "Fort Young Hotel",
+      "kind": "stay",
+      "locality": "Roseau",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Roseau",
+      "address": "Victoria Street, P.O Box 519",
+      "url": "http://www.fortyounghotel.com/",
+      "id": "dominica-1b4de6b83e9a30eea857"
+    },
+    {
+      "name": "Garraway Hotel",
+      "kind": "stay",
+      "locality": "Roseau",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Roseau",
+      "url": "http://garrawayhotel.com/",
+      "id": "dominica-7e02fbc4087c86c6b9ef"
+    },
+    {
+      "name": "Roseau",
+      "kind": "area",
+      "locality": "Roseau",
+      "lat": 15.3,
+      "lon": -61.383333333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Roseau",
+      "id": "dominica-a1db3b283fc8b50f7b50"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

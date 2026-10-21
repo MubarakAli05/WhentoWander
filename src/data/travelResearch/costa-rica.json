@@ -1,0 +1,1402 @@
+{
+  "sources": [
+    {
+      "title": "Costa Rica",
+      "url": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "checkedAt": "2026-10-21T08:07:36.909Z"
+    },
+    {
+      "title": "San José (Costa Rica)",
+      "url": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "checkedAt": "2026-10-21T08:07:39.462Z"
+    },
+    {
+      "title": "La Fortuna",
+      "url": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "checkedAt": "2026-10-21T08:07:45.407Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "San José",
+      "kind": "area",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "id": "costa-rica-d5aa38c97889f1297d5e"
+    },
+    {
+      "name": "Alajuela",
+      "kind": "area",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "id": "costa-rica-282bfa6aba12eabf9dbb"
+    },
+    {
+      "name": "Cartago",
+      "kind": "area",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "id": "costa-rica-0fe7fc10671dad43380d"
+    },
+    {
+      "name": "San Ramón",
+      "kind": "area",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "id": "costa-rica-0069f72f4614327cf48a"
+    },
+    {
+      "name": "Heredia",
+      "kind": "area",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "id": "costa-rica-494c0b5352dddb1062a5"
+    },
+    {
+      "name": "Jacó",
+      "kind": "area",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "id": "costa-rica-ac175294b7d7ca76620c"
+    },
+    {
+      "name": "Liberia",
+      "kind": "area",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "id": "costa-rica-116f96d683def27a1426"
+    },
+    {
+      "name": "Puerto Limón",
+      "kind": "area",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "id": "costa-rica-beccb3e22831501e8d7d"
+    },
+    {
+      "name": "Quesada",
+      "kind": "area",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "id": "costa-rica-279fabc871c23e8340c3"
+    },
+    {
+      "name": "Fiesta de Palmares",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "Palmares",
+      "id": "costa-rica-407491980bce55c63218"
+    },
+    {
+      "name": "Fiesta Patronal de Santo Cristo",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "Santa Cruz",
+      "id": "costa-rica-4b92af8cb90e19afbfcf"
+    },
+    {
+      "name": "Festival de las Mulas",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "Esterillos (Jacó)",
+      "id": "costa-rica-89279b1936ea74eeb153"
+    },
+    {
+      "name": "Expo Pérez Zeledón",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "San Isidro de El General",
+      "id": "costa-rica-9acbfacfa309aff70e15"
+    },
+    {
+      "name": "Good Neighbours Jazz Festival",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "Manuel Antonio",
+      "id": "costa-rica-1e9f39d270ca73edf3a4"
+    },
+    {
+      "name": "Carnaval de Puntarenas",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "Puntarenas",
+      "id": "costa-rica-66701b40a1539d8dfc21"
+    },
+    {
+      "name": "Día del Boyero",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "San Antonio de Escazú",
+      "id": "costa-rica-200dd50d5bf4f8655f41"
+    },
+    {
+      "name": "Festival Internacional de las Artes",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "San José",
+      "id": "costa-rica-845d5ccc4318d1009e47"
+    },
+    {
+      "name": "Semana Santa",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "id": "costa-rica-51cbb1aae0ac0eaed85e"
+    },
+    {
+      "name": "Día de Juan Santamaría",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "Alajuela",
+      "id": "costa-rica-59d6a2d5d170cd285e85"
+    },
+    {
+      "name": "Feria del Ganado",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "Ciudad Quesada",
+      "id": "costa-rica-f6c87b4b0c9cfe3175b8"
+    },
+    {
+      "name": "Feria de las Orquídeas",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "San José",
+      "id": "costa-rica-b55f06804f7421f791ff"
+    },
+    {
+      "name": "Romería de la Virgen de la Candelaria",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "Paraiso/Ujarrás",
+      "id": "costa-rica-159943e8278407e595dc"
+    },
+    {
+      "name": "Semana Universidad",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "University of San José",
+      "id": "costa-rica-d786a6a9bd85357a1130"
+    },
+    {
+      "name": "Día de los Trabajadores",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "id": "costa-rica-f275f987969bb045163f"
+    },
+    {
+      "name": "Fiesta Cívica",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "Cañas",
+      "id": "costa-rica-e16f89d820417eabcadc"
+    },
+    {
+      "name": "Día de San Isidro Labrador",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "San Isidro de el General",
+      "id": "costa-rica-7b5ad8149f0e2950cc88"
+    },
+    {
+      "name": "Corpus Christi",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "Cartago and Pacayas",
+      "id": "costa-rica-7558962df3c595aabd9a"
+    },
+    {
+      "name": "Día de San Pedro y San Pablo",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "San José",
+      "id": "costa-rica-e49254df1dfaa6ceb8c0"
+    },
+    {
+      "name": "Festival de la Compañía Lírica Nacional",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "San José",
+      "id": "costa-rica-cbd6bab50252414d3afe"
+    },
+    {
+      "name": "Festival de la Virgen del Mar",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "Puntarenas",
+      "id": "costa-rica-d5635a921ea2ec9a213f"
+    },
+    {
+      "name": "Dia de la Anexión de Nicoya",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "id": "costa-rica-9e366165aec755556360"
+    },
+    {
+      "name": "Chorotega Tourist Fair",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "Nicoya",
+      "id": "costa-rica-94e58fb6aa3daf5d5eb2"
+    },
+    {
+      "name": "Festival Internacional de Música",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "id": "costa-rica-bc5701c6f076534e7436"
+    },
+    {
+      "name": "Día de Nuestra Señora de la Virgen de los Ángeles",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "Cartago",
+      "id": "costa-rica-21c2d9ea52ec3e209945"
+    },
+    {
+      "name": "Liberia Blanca",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "Liberia",
+      "id": "costa-rica-bce5a7c2a6b742bf6f3e"
+    },
+    {
+      "name": "Día de la Madre",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "id": "costa-rica-3affb18674866d6f1761"
+    },
+    {
+      "name": "National adventure Tourism Festival",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "Turrialba",
+      "id": "costa-rica-1135383cf81e88f6ad5b"
+    },
+    {
+      "name": "Día de San Ramón",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "San Ramón",
+      "id": "costa-rica-f91e4c9bd529f759baf7"
+    },
+    {
+      "name": "Semana Afro-Costarricense",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "Puerto Limón",
+      "id": "costa-rica-2c0de3bbc959be190e42"
+    },
+    {
+      "name": "Antorcha de la Libertad",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "id": "costa-rica-eb1c14f775430a5efc13"
+    },
+    {
+      "name": "Día de la Independencia",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "id": "costa-rica-7976bc21c6c0457fa4d6"
+    },
+    {
+      "name": "Carnavales de Limón",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "Puerto Limón",
+      "id": "costa-rica-b928f00b0d4c6482eae7"
+    },
+    {
+      "name": "Fiesta del Maíz",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "Upala",
+      "id": "costa-rica-67c80984b426255a408f"
+    },
+    {
+      "name": "Día del Sabanero",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "id": "costa-rica-efa350df824bbc763720"
+    },
+    {
+      "name": "Día de Todos los Santos",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "id": "costa-rica-0c55bbc3099e68b313af"
+    },
+    {
+      "name": "La Ruta de los Conquistadores",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "id": "costa-rica-268aabe1dbff0f96f46c"
+    },
+    {
+      "name": "Feria Agroecoturística",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "id": "costa-rica-79c16705d69929c32e3a"
+    },
+    {
+      "name": "Fiesta de las Carretas",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "San José",
+      "id": "costa-rica-d91aaf9e05b43fdd2037"
+    },
+    {
+      "name": "Día de la Abolición del Ejército",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "id": "costa-rica-7c22f2a3bf6bb28d196e"
+    },
+    {
+      "name": "Fiesta de los Negritos",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "Boruca",
+      "id": "costa-rica-5ea95982e01523948e5b"
+    },
+    {
+      "name": "Fiesta de la Yegüita",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "Nicoya",
+      "id": "costa-rica-e204467af912d78edb40"
+    },
+    {
+      "name": "Festival de la Luz",
+      "kind": "do",
+      "locality": "Costa Rica",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Costa_Rica",
+      "address": "San José",
+      "id": "costa-rica-c5a18a657b09fca72bc3"
+    },
+    {
+      "name": "Museo de Oro Precolombino",
+      "kind": "do",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.933333,
+      "lon": -84.076389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "price": "₡5,500/local, US$11/foreigner, ₡4,500/student. It is cheaper to pay in colones here",
+      "url": "https://museosdelbancocentral.org/eng/exhibiciones/museo-del-oro-precolombino/",
+      "id": "costa-rica-6420f72f628ea0d2426f"
+    },
+    {
+      "name": "Museo del Jade",
+      "kind": "do",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.93639,
+      "lon": -84.0736,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Avenida Central, Calle 13",
+      "price": "US$16/foreigner, $5/local. It is cheaper to pay USD than colones",
+      "url": "http://www.museodeljadeins.com/",
+      "id": "costa-rica-0b2babd1b897e359aecb"
+    },
+    {
+      "name": "Museo de los Niños",
+      "kind": "do",
+      "locality": "San José (Costa Rica)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "price": "₡600 for adults and ₡300 for children",
+      "id": "costa-rica-b4cc778444f17a812047"
+    },
+    {
+      "name": "Museo Nacional",
+      "kind": "do",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.932736,
+      "lon": -84.071439,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Calle 17 Avenida 2",
+      "price": "$11/foreigner, $6/foreign student, ₡2500/local",
+      "url": "https://www.museocostarica.go.cr/",
+      "id": "costa-rica-f3d84bd44953df32a973"
+    },
+    {
+      "name": "Costa Rican Museum of Art",
+      "kind": "do",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.935389,
+      "lon": -84.099055,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "url": "http://www.mac.go.cr/",
+      "id": "costa-rica-ee006b6f14aadc8c527d"
+    },
+    {
+      "name": "Museo de arte y diseño contemporáneo (MADC)",
+      "kind": "do",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.935499,
+      "lon": -84.072019,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Centro Nacional de la Cultura, Antigua Fábrica Nacional de Licores. Avenida 3, calle 15",
+      "url": "http://www.madc.cr/",
+      "id": "costa-rica-b3fc4bacf46255bf87d4"
+    },
+    {
+      "name": "Hacienda la Chimba",
+      "kind": "do",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.9183,
+      "lon": -84.1944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "url": "https://lachimbacr.com/",
+      "id": "costa-rica-ce26dae2ff067aeaba63"
+    },
+    {
+      "name": "La Paz Waterfall Gardens",
+      "kind": "do",
+      "locality": "San José (Costa Rica)",
+      "lat": 10.20441,
+      "lon": -84.161637,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "url": "http://www.waterfallgardens.com/",
+      "id": "costa-rica-9d5c027abe0fb633109c"
+    },
+    {
+      "name": "Spirogyra Butterfly Garden",
+      "kind": "do",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.94,
+      "lon": -84.0728,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Calle 11",
+      "url": "https://www.butterflygardencostarica.com/",
+      "id": "costa-rica-95f348d5865b8575a8ae"
+    },
+    {
+      "name": "Parque Morazán",
+      "kind": "do",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.9355,
+      "lon": -84.0753,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "id": "costa-rica-e159aa567b2bdc77b49d"
+    },
+    {
+      "name": "La Sabana",
+      "kind": "do",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.934578,
+      "lon": -84.102619,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "price": "$0",
+      "id": "costa-rica-4bfe2443959b6e4772e9"
+    },
+    {
+      "name": "Cine Magaly",
+      "kind": "do",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.9331,
+      "lon": -84.068,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Calle 23, Barrio La California",
+      "url": "https://www.cinemagaly.com/",
+      "id": "costa-rica-4da2aeba0974b22afcdd"
+    },
+    {
+      "name": "Melico Salazar Popular Theater",
+      "kind": "do",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.9334,
+      "lon": -84.0795,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Av. 2",
+      "url": "https://boleteria.teatromelico.go.cr/",
+      "id": "costa-rica-31d973a4d1937b45849c"
+    },
+    {
+      "name": "National Theater",
+      "kind": "do",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.933133,
+      "lon": -84.077017,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Plaza de la Cultura",
+      "url": "http://www.teatronacional.go.cr/",
+      "id": "costa-rica-bab5a20b25e184a84bac"
+    },
+    {
+      "name": "Academia Tica Spanish Schools",
+      "kind": "do",
+      "locality": "San José (Costa Rica)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "url": "http://www.academiatica.com/",
+      "id": "costa-rica-f892543497558ce6b249"
+    },
+    {
+      "name": "Intensa",
+      "kind": "do",
+      "locality": "San José (Costa Rica)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "url": "http://www.intensa.com/",
+      "id": "costa-rica-67234d6a2a64704d621b"
+    },
+    {
+      "name": "Mercado Central",
+      "kind": "eat",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.934883,
+      "lon": -84.081768,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Calle 8 / Av. Central",
+      "id": "costa-rica-6b6343c3af7f861f009f"
+    },
+    {
+      "name": "El Lobo Mestizo",
+      "kind": "eat",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.932296,
+      "lon": -84.073092,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Av. 2, Soledad",
+      "url": "https://www.facebook.com/lobomestizocr",
+      "id": "costa-rica-c4f398e918718706fa79"
+    },
+    {
+      "name": "Pupusería Salvadoreña",
+      "kind": "eat",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.9473549,
+      "lon": -84.0550487,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Avenida 3, Calle 22",
+      "price": "₡1,000–3,000 (Oct 2017)",
+      "id": "costa-rica-4f62d4917f5c8b1d4020"
+    },
+    {
+      "name": "Restaurante Pollos San José",
+      "kind": "eat",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.9323863,
+      "lon": -84.0826124,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Calle 8",
+      "id": "costa-rica-f87e0a290ab4d7d4b13a"
+    },
+    {
+      "name": "Soda Lima",
+      "kind": "eat",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.930827,
+      "lon": -84.080275,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "C. 2, Dolorosa",
+      "id": "costa-rica-20c79cd69a7496b33bea"
+    },
+    {
+      "name": "Café Rojo",
+      "kind": "eat",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.9372,
+      "lon": -84.077,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "corner of Ave 7 and Calle 3",
+      "url": "https://www.caferojo.net/en",
+      "id": "costa-rica-c6d31cc01889ac820a02"
+    },
+    {
+      "name": "Colonia",
+      "kind": "eat",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.9366,
+      "lon": -84.0631,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "url": "https://www.colonia.cr/en/",
+      "id": "costa-rica-2fefc77958d65eccdd7e"
+    },
+    {
+      "name": "Limoncello",
+      "kind": "eat",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.933,
+      "lon": -84.0673,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "url": "https://restaurantelimoncello.com/",
+      "id": "costa-rica-12a49af797f837a7288c"
+    },
+    {
+      "name": "Machu Picchu Restaurant",
+      "kind": "eat",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.936726,
+      "lon": -84.093615,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Paseo Colón 1st Ave",
+      "url": "https://www.facebook.com/restaurante.machu.picchu/",
+      "id": "costa-rica-3d908ff341ce35202d37"
+    },
+    {
+      "name": "DoMA Escalante",
+      "kind": "eat",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.9373,
+      "lon": -84.0641,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "El Farolito, Barrio Escalante",
+      "url": "https://www.domaescalante.com/",
+      "id": "costa-rica-7f5da4caabbb08ce672b"
+    },
+    {
+      "name": "La Esquina de Buenos Aires",
+      "kind": "eat",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.9314,
+      "lon": -84.0741,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Calle 11 esquina Ave 4",
+      "url": "https://laesquinadebuenosaires.net/index.html",
+      "id": "costa-rica-4a73e20ccb47291d6069"
+    },
+    {
+      "name": "Restaurante Grano de Oro",
+      "kind": "eat",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.933547,
+      "lon": -84.093027,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Calle 30 Avenida 2/4",
+      "url": "https://www.hotelgranodeoro.com/restaurant.html",
+      "id": "costa-rica-ff9429fb3b9d782ae63c"
+    },
+    {
+      "name": "Restaurante Silvestre",
+      "kind": "eat",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.9385,
+      "lon": -84.0764,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "url": "https://www.restaurantesilvestre.com/en",
+      "id": "costa-rica-4a3d44bd252d1d4234bb"
+    },
+    {
+      "name": "Tin Jo",
+      "kind": "eat",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.930633,
+      "lon": -84.074126,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Paseo de los estudiantes",
+      "url": "https://tinjo.com/?lang=en",
+      "id": "costa-rica-56cbf36fd20dee5005df"
+    },
+    {
+      "name": "Bar La Bohemia",
+      "kind": "eat",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.9286,
+      "lon": -84.0773,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "id": "costa-rica-58c7b32896053bda2b9c"
+    },
+    {
+      "name": "Bar Poás",
+      "kind": "eat",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.937031,
+      "lon": -84.076348,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Avenida 7, Calle 3 y 5",
+      "id": "costa-rica-83a9275eca3ada1d9492"
+    },
+    {
+      "name": "El 13",
+      "kind": "eat",
+      "locality": "San José (Costa Rica)",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "url": "https://www.facebook.com/el13bar/",
+      "id": "costa-rica-4980e19e5eab968fafaa"
+    },
+    {
+      "name": "Casa Ridgway",
+      "kind": "stay",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.9304,
+      "lon": -84.0723,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "C 15, Av 6/8",
+      "url": "https://m.facebook.com/CasaRidgway/",
+      "id": "costa-rica-c5eec131121a26e5c0f8"
+    },
+    {
+      "name": "Costa Rica Backpackers",
+      "kind": "stay",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.931,
+      "lon": -84.0686,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Avenida 6, calle 21,23",
+      "price": "Dorm US$9",
+      "url": "http://www.costaricabackpackers.com/",
+      "id": "costa-rica-9dc3db86cb19582e3a80"
+    },
+    {
+      "name": "Gaudys Hostel",
+      "kind": "stay",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.9386,
+      "lon": -84.0954,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Cnr Ave 5/Calle 36-38",
+      "url": "https://www.gaudyshotel.com/",
+      "id": "costa-rica-f29e7a9cc9a6939c36cf"
+    },
+    {
+      "name": "Hostel Casa del Parque",
+      "kind": "stay",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.9346,
+      "lon": -84.0697,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "On the corner of Avenida 3 and Calle 19",
+      "price": "Dorm bed $8",
+      "url": "http://www.hostelcasadelparque.com/",
+      "id": "costa-rica-b3114f9a9c40401766f9"
+    },
+    {
+      "name": "Hostel Casa Colón",
+      "kind": "stay",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.9353,
+      "lon": -84.09,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Paseo Colon, C 24 North, in front of Torre Mercedes, right in the corner",
+      "url": "http://www.hostelcasacolon.com/",
+      "id": "costa-rica-2c2723a35bee506a14aa"
+    },
+    {
+      "name": "Hotel Danubio",
+      "kind": "stay",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.9369,
+      "lon": -84.0864,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "calle 18, avenida 3",
+      "price": "Singles from US$18, doubles from $25",
+      "id": "costa-rica-8ba5f5a0fdd891d264f9"
+    },
+    {
+      "name": "Stray Cat Hostel",
+      "kind": "stay",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.9401715,
+      "lon": -84.0892779,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Avenida 9 y Calle 20, Barrio Mexico",
+      "price": "US$10",
+      "url": "http://www.straycathostel.com/",
+      "id": "costa-rica-97efe73afcaa17994b91"
+    },
+    {
+      "name": "Costa Rica Guesthouse",
+      "kind": "stay",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.9308,
+      "lon": -84.068,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "url": "http://www.costa-rica-guesthouse.com/",
+      "id": "costa-rica-047cb5e5c57f27c69da6"
+    },
+    {
+      "name": "Courtyard by Marriott San José",
+      "kind": "stay",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.94325,
+      "lon": -84.14578,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Autopista Prospero Fernandez, Calle Marginal N., Plaza Itskatzu San José",
+      "url": "https://www.marriott.com/SJOCY",
+      "id": "costa-rica-c3b23e3d5a71689e6a85"
+    },
+    {
+      "name": "Hemingway Inn",
+      "kind": "stay",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.9376,
+      "lon": -84.0741,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Avenida 9, Calle 9, Barrio Amon",
+      "url": "http://hemingwayinn.com/",
+      "id": "costa-rica-82f7be377ea6516cd73b"
+    },
+    {
+      "name": "Hotel Out of Bounds",
+      "kind": "stay",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.9337,
+      "lon": -84.1651,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Escazu",
+      "price": "US$70",
+      "url": "http://www.bedandbreakfastcr.com/",
+      "id": "costa-rica-7631204d3a375b51cb37"
+    },
+    {
+      "name": "Hotel Presidente",
+      "kind": "stay",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.9335363,
+      "lon": -84.0778035,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Central Ave Blvd, 7th Street",
+      "url": "http://www.hotel-presidente.com/",
+      "id": "costa-rica-c119aa65e8419a499d0a"
+    },
+    {
+      "name": "Hotel Santo Tomas",
+      "kind": "stay",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.937,
+      "lon": -84.0764,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Av. 7 between Calle 3 and 5, Barrio Amon",
+      "url": "http://www.hotelsantotomas.com/",
+      "id": "costa-rica-2d86ebca0ada0f70c768"
+    },
+    {
+      "name": "Residence Inn San José Escazu",
+      "kind": "stay",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.9381,
+      "lon": -84.1428,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "url": "https://www.marriott.com/hotels/travel/sjori-residence-inn-san-jose-escazu/",
+      "id": "costa-rica-ecc3c288dfca2fee491f"
+    },
+    {
+      "name": "TRYP San José Sabana Hotel",
+      "kind": "stay",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.9426642,
+      "lon": -84.092676,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Avenue 3, calles 38 y 40",
+      "url": "http://www.tryphotels.com/en/hotel-tryp-san-jose-sabana-costa-rica.html",
+      "id": "costa-rica-c0269fff1f2437f68cdd"
+    },
+    {
+      "name": "Barceló San José",
+      "kind": "stay",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.945688,
+      "lon": -84.1073457,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "url": "https://www.barcelo.com/en-us/barcelo-hotels/hotels/costa-rica/san-jose-de-costa-rica/barcelo-san-jose/",
+      "id": "costa-rica-742521baea1fde465b56"
+    },
+    {
+      "name": "Doubletree Cariari by Hilton San José",
+      "kind": "stay",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.9762,
+      "lon": -84.1569,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Canas Highway San Antonio de Belen",
+      "price": "US$89-229",
+      "url": "http://www.cariarisanjose.doubletree.com/",
+      "id": "costa-rica-ad80a6aa96ae262f80d3"
+    },
+    {
+      "name": "Hilton Garden Inn San José La Sabana",
+      "kind": "stay",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.939087,
+      "lon": -84.109397,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Boulevard Ernesto Rohrmoser",
+      "price": "US$140-170 per night",
+      "url": "https://hiltongardeninn3.hilton.com/en/hotels/costa-rica/hilton-garden-inn-san-jose-la-sabana-SJOLSGI/index.html",
+      "id": "costa-rica-ca5a2e947281a9e474cc"
+    },
+    {
+      "name": "Hotel Fleur de Lys",
+      "kind": "stay",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.931637,
+      "lon": -84.074874,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "url": "https://www.hotelfleurdelys.com/",
+      "id": "costa-rica-cdd976f506e5550588b7"
+    },
+    {
+      "name": "Hotel Grano de Oro",
+      "kind": "stay",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.933605,
+      "lon": -84.0952247,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "url": "https://www.hotelgranodeoro.com/",
+      "id": "costa-rica-f2af2c3cf55a6bf5d2d6"
+    },
+    {
+      "name": "Hampton Inn & Suites by Hilton San Jose-Airport",
+      "kind": "stay",
+      "locality": "San José (Costa Rica)",
+      "lat": 10.002135,
+      "lon": -84.1975667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "Hwy 1 Airport Blvd, Alajuela",
+      "url": "https://hamptoninn3.hilton.com/en/hotels/costa-rica/hampton-inn-and-suites-by-hilton-san-jose-airport-SJCAPHX/index.html",
+      "id": "costa-rica-25da5890d98b80f09468"
+    },
+    {
+      "name": "InterContinental Costa Rica at Multiplaza Mall",
+      "kind": "stay",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.9459407,
+      "lon": -84.1560379,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "url": "https://www.ihg.com/intercontinental/hotels/us/en/san-jose/sjoha/hoteldetail",
+      "id": "costa-rica-e0a27b07c158c25797ad"
+    },
+    {
+      "name": "Quality Hotel Real San José",
+      "kind": "stay",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.9456833,
+      "lon": -84.1923583,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "El Paseo Real, Costado Este Centro Empresarial Forum, Santa Ana",
+      "price": "US$80-140",
+      "url": "https://www.choicehotels.com/costa-rica/san-jose/quality-inn-hotels/cr010",
+      "id": "costa-rica-76b4fbd811764c1b2b5a"
+    },
+    {
+      "name": "Gran Hotel Costa Rica",
+      "kind": "stay",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.93366,
+      "lon": -84.077571,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "address": "2nd Ave. between streets 1 and 3",
+      "url": "https://www.hilton.com/en/hotels/sjocuqq-gran-hotel-costa-rica/",
+      "id": "costa-rica-2e9aa306a3e01a221cb5"
+    },
+    {
+      "name": "San José (Costa Rica)",
+      "kind": "area",
+      "locality": "San José (Costa Rica)",
+      "lat": 9.9333,
+      "lon": -84.0833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/San_Jos%C3%A9_(Costa_Rica)",
+      "id": "costa-rica-09ba4df2eeb987852f5e"
+    },
+    {
+      "name": "Arenal Volcano",
+      "kind": "do",
+      "locality": "La Fortuna",
+      "lat": 10.463333,
+      "lon": -84.703333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "id": "costa-rica-78ab3fd28f21b09dbe7b"
+    },
+    {
+      "name": "Lake Arenal",
+      "kind": "do",
+      "locality": "La Fortuna",
+      "lat": 10.533333,
+      "lon": -84.933333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "id": "costa-rica-0a41eab42945e521c784"
+    },
+    {
+      "name": "Fortuna Waterfall",
+      "kind": "do",
+      "locality": "La Fortuna",
+      "lat": 10.440911,
+      "lon": -84.676386,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "price": "Foreigner adults: US$20, children age 8 and under: Free",
+      "url": "https://www.cataratalafortuna.com/",
+      "id": "costa-rica-2b2d9739166bbe618378"
+    },
+    {
+      "name": "River pool",
+      "kind": "do",
+      "locality": "La Fortuna",
+      "lat": 10.458,
+      "lon": -84.64291,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "id": "costa-rica-de46b0f4e3e5dbfeaf08"
+    },
+    {
+      "name": "Arenal Butterfly Conservatory",
+      "kind": "do",
+      "locality": "La Fortuna",
+      "lat": 10.42391,
+      "lon": -84.75183,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "address": "El Castillo Village - Arenal Volcano",
+      "price": "US$12",
+      "url": "http://www.butterflyconservatory.org/",
+      "id": "costa-rica-659a2f48e3bf5cfc0df3"
+    },
+    {
+      "name": "FlyZone Wakeboard Center on Lake Arenal",
+      "kind": "do",
+      "locality": "La Fortuna",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "address": "Lake Arenal",
+      "price": "For 2018: from one hour for US$140 up to a full day (8 hr) for US$820 per group of 1-4 people",
+      "url": "http://www.flyzone-cr.com/",
+      "id": "costa-rica-1e471cc3a6edb4b3da27"
+    },
+    {
+      "name": "Tabaconcito Hot Springs",
+      "kind": "do",
+      "locality": "La Fortuna",
+      "lat": 10.48859,
+      "lon": -84.72397,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "price": "Free",
+      "id": "costa-rica-d45b01ab9ecc75d1cf2b"
+    },
+    {
+      "name": "Baldí Hot Springs",
+      "kind": "do",
+      "locality": "La Fortuna",
+      "lat": 10.483239,
+      "lon": -84.680509,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "price": "Adults US$47, children US$37",
+      "url": "http://www.baldihotsprings.cr/",
+      "id": "costa-rica-70a08ebaf4a9d76ae021"
+    },
+    {
+      "name": "EcoTermales Fortuna",
+      "kind": "do",
+      "locality": "La Fortuna",
+      "lat": 10.484014,
+      "lon": -84.674978,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "address": "On main road between La Fortuna & Arenal Lake",
+      "price": "US$80 entrance for 2, just for the pools, US$20 extra for dinner buffet and juice or cocktails US$6-12",
+      "url": "http://ecotermalesfortuna.cr/index.php",
+      "id": "costa-rica-687cf8aa169c29a8e535"
+    },
+    {
+      "name": "Tabacon Hot Springs",
+      "kind": "do",
+      "locality": "La Fortuna",
+      "lat": 10.488295,
+      "lon": -84.722649,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "price": "Entrance fee US$89",
+      "id": "costa-rica-0f1c44e84e8935e9c89e"
+    },
+    {
+      "name": "Arenal Volcano Night Hike",
+      "kind": "do",
+      "locality": "La Fortuna",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "id": "costa-rica-80cbbf711bd5049d54bf"
+    },
+    {
+      "name": "Que Rico Arenal",
+      "kind": "eat",
+      "locality": "La Fortuna",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "id": "costa-rica-cf0ebd01e8370fa6fb19"
+    },
+    {
+      "name": "Don Rufino",
+      "kind": "eat",
+      "locality": "La Fortuna",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "price": "US$15-60",
+      "url": "http://www.donrufino.com/",
+      "id": "costa-rica-e79b6f4bc97efb104d88"
+    },
+    {
+      "name": "Soda La Hormiga",
+      "kind": "eat",
+      "locality": "La Fortuna",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "id": "costa-rica-f4cffcd6f7bb5f06e093"
+    },
+    {
+      "name": "D´Mi Tierra Restaurant",
+      "kind": "eat",
+      "locality": "La Fortuna",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "address": "La Fortuna de San Carlos",
+      "price": "US$10-30",
+      "id": "costa-rica-1ed32f436b6fd43c38e4"
+    },
+    {
+      "name": "Arenal Backpackers",
+      "kind": "stay",
+      "locality": "La Fortuna",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "url": "http://www.arenalbackpackersresort.com/",
+      "id": "costa-rica-653b2ef4ee55f59c701d"
+    },
+    {
+      "name": "Oriuma Hotel",
+      "kind": "stay",
+      "locality": "La Fortuna",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "url": "http://www.arenal-online.com/",
+      "id": "costa-rica-8b63d3a1bf6905514ed3"
+    },
+    {
+      "name": "Arenal Rabfer",
+      "kind": "stay",
+      "locality": "La Fortuna",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "address": "Calle 468, Provincia de Alajuela",
+      "price": "Single US$63, double $75, triple $88, quad $103",
+      "url": "http://www.arenalrabfer.com/",
+      "id": "costa-rica-b7ed2923320e6d27edb0"
+    },
+    {
+      "name": "Arenal Manoa Hotel & Hotel Resort",
+      "kind": "stay",
+      "locality": "La Fortuna",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "address": "La Fortuna",
+      "price": "From US$135 a night.",
+      "url": "http://www.arenalmanoa.com/",
+      "id": "costa-rica-d77d7c20c02b9d0746fe"
+    },
+    {
+      "name": "Lomas del Volcan",
+      "kind": "stay",
+      "locality": "La Fortuna",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "address": "La Fortuna",
+      "price": "From US$155 a night",
+      "url": "http://lomasdelvolcan.com/",
+      "id": "costa-rica-9f677b08c6917b755095"
+    },
+    {
+      "name": "Hotel Arenal Paraíso Resort & Spa",
+      "kind": "stay",
+      "locality": "La Fortuna",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "price": "Rooms range from standard to suite ranging from US$60 to $300 (not including tax)",
+      "url": "https://arenalparaisoresort.com/",
+      "id": "costa-rica-855a9287325bc4b694bf"
+    },
+    {
+      "name": "Arenal Volcano Inn",
+      "kind": "stay",
+      "locality": "La Fortuna",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "url": "http://www.arenalvolcanoinn.com/",
+      "id": "costa-rica-e735e483259fb54d7140"
+    },
+    {
+      "name": "Finca Luna Nueva Lodge",
+      "kind": "stay",
+      "locality": "La Fortuna",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "url": "http://www.fincalunanuevalodge.com/",
+      "id": "costa-rica-eed7048442a214c3801e"
+    },
+    {
+      "name": "Hotel La Fortuna",
+      "kind": "stay",
+      "locality": "La Fortuna",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "url": "http://www.lafortunahotel.com/",
+      "id": "costa-rica-899086d495591d4c15e0"
+    },
+    {
+      "name": "Jardines de Arenal",
+      "kind": "stay",
+      "locality": "La Fortuna",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "price": "US$27.50 per person with volcano-view and slightly bigger bathroom, $23 pp for the others",
+      "id": "costa-rica-5828785f913b1f75437b"
+    },
+    {
+      "name": "La Roca Virgen",
+      "kind": "stay",
+      "locality": "La Fortuna",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "price": "US$9",
+      "id": "costa-rica-284e25bddc34fb907b0b"
+    },
+    {
+      "name": "Volcano Lodge",
+      "kind": "stay",
+      "locality": "La Fortuna",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "id": "costa-rica-1ff349e78bb6d6ca536d"
+    },
+    {
+      "name": "Arenal Oasis Eco Lodge & Wildlife Refuge",
+      "kind": "stay",
+      "locality": "La Fortuna",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "address": "La Fortuna, Arenal Volcano.",
+      "price": "US$75 double",
+      "url": "http://arenaloasis.com/",
+      "id": "costa-rica-496551bb9cc7402dba6b"
+    },
+    {
+      "name": "Magic Mountain",
+      "kind": "stay",
+      "locality": "La Fortuna",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "address": "La Fortuna",
+      "price": "US$99 double",
+      "url": "http://www.hotelmagicmountain.com/",
+      "id": "costa-rica-f9096f2ea99d50503d27"
+    },
+    {
+      "name": "Hotel Los Heroes",
+      "kind": "stay",
+      "locality": "La Fortuna",
+      "lat": 10.475375,
+      "lon": -84.830824,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "address": "Nuevo Arenal",
+      "price": "US$50",
+      "url": "http://www.pequenahelvecia.com/",
+      "id": "costa-rica-94ccf9140dc011eb8150"
+    },
+    {
+      "name": "Arenal Country Inn",
+      "kind": "stay",
+      "locality": "La Fortuna",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "price": "US$100-114",
+      "id": "costa-rica-0cd5324706552969c402"
+    },
+    {
+      "name": "Los Lagos Hotel Resort & Spa",
+      "kind": "stay",
+      "locality": "La Fortuna",
+      "lat": 10.488213,
+      "lon": -84.68656,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "url": "http://www.hotelloslagos.com/",
+      "id": "costa-rica-43cb0271b7bf4875507f"
+    },
+    {
+      "name": "Arenal Kioro",
+      "kind": "stay",
+      "locality": "La Fortuna",
+      "lat": 10.483537,
+      "lon": -84.68067,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "url": "http://www.hotelarenalkioro.com/",
+      "id": "costa-rica-12ff0380bd33eb8de37e"
+    },
+    {
+      "name": "Hotel el Silencio del Campo",
+      "kind": "stay",
+      "locality": "La Fortuna",
+      "lat": 10.485414,
+      "lon": -84.681089,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "id": "costa-rica-89773b72ef614752aa57"
+    },
+    {
+      "name": "Hotel Miradas Arenal",
+      "kind": "stay",
+      "locality": "La Fortuna",
+      "lat": 10.500867,
+      "lon": -84.693185,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "address": "Ruta 142 del templo católico de la Fortuna, 7 km to the west on the road to the volcano Alajuela San Carlos",
+      "price": "US$90",
+      "url": "https://www.miradasarenal.com/",
+      "id": "costa-rica-d24659df4320be0774ac"
+    },
+    {
+      "name": "Chachagua Rain Forest Hotel",
+      "kind": "stay",
+      "locality": "La Fortuna",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "url": "https://chachaguarainforesthotel.com/",
+      "id": "costa-rica-aef120fa50b33c0ad4da"
+    },
+    {
+      "name": "Tabacon Grand Spa",
+      "kind": "stay",
+      "locality": "La Fortuna",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "price": "From US$235 + tax per night in garden or forest rooms. Breakfast is not included",
+      "url": "http://www.tabacon.com/",
+      "id": "costa-rica-2b7e41a73067f363101d"
+    },
+    {
+      "name": "The Springs Resort & Spa",
+      "kind": "stay",
+      "locality": "La Fortuna",
+      "lat": 10.5191545,
+      "lon": -84.6903601,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "url": "https://www.thespringscostarica.com/",
+      "id": "costa-rica-63336fe36ffa3c9ff8b4"
+    },
+    {
+      "name": "Hotel Royal Corin",
+      "kind": "stay",
+      "locality": "La Fortuna",
+      "lat": 10.48508,
+      "lon": -84.680621,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "price": "US$340",
+      "url": "http://www.royalcorin.com/",
+      "id": "costa-rica-51d264f45166f61584dd"
+    },
+    {
+      "name": "La Fortuna",
+      "kind": "area",
+      "locality": "La Fortuna",
+      "lat": 10.471396,
+      "lon": -84.645374,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/La_Fortuna",
+      "id": "costa-rica-6d6d06201a8375ed64ac"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 3 distinct public Wikivoyage source pages; attempted 3 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Destination article routing (regional/landmark guides may use a nearby gateway): Arenal → La Fortuna."
+}

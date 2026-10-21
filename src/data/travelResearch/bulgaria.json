@@ -1,0 +1,1087 @@
+{
+  "sources": [
+    {
+      "title": "Bulgaria",
+      "url": "https://en.wikivoyage.org/wiki/Bulgaria",
+      "checkedAt": "2026-10-21T08:08:58.559Z"
+    },
+    {
+      "title": "Sofia",
+      "url": "https://en.wikivoyage.org/wiki/Sofia",
+      "checkedAt": "2026-10-21T08:09:01.669Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Sofia",
+      "kind": "area",
+      "locality": "Bulgaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bulgaria",
+      "id": "bulgaria-c775165a0bea554ca70d"
+    },
+    {
+      "name": "Burgas",
+      "kind": "area",
+      "locality": "Bulgaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bulgaria",
+      "id": "bulgaria-8cbadb88b97bc217e6b6"
+    },
+    {
+      "name": "Gabrovo",
+      "kind": "area",
+      "locality": "Bulgaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bulgaria",
+      "id": "bulgaria-67127a07ab1243efbd27"
+    },
+    {
+      "name": "Pleven",
+      "kind": "area",
+      "locality": "Bulgaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bulgaria",
+      "id": "bulgaria-647f84e4b436d07ca0fe"
+    },
+    {
+      "name": "Plovdiv",
+      "kind": "area",
+      "locality": "Bulgaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bulgaria",
+      "id": "bulgaria-a041e682dcc828785fb9"
+    },
+    {
+      "name": "Ruse",
+      "kind": "area",
+      "locality": "Bulgaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bulgaria",
+      "id": "bulgaria-6d9a61838456e91ce9a5"
+    },
+    {
+      "name": "Varna",
+      "kind": "area",
+      "locality": "Bulgaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bulgaria",
+      "id": "bulgaria-7568d26dd44dfc507166"
+    },
+    {
+      "name": "Veliko Tarnovo",
+      "kind": "area",
+      "locality": "Bulgaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bulgaria",
+      "id": "bulgaria-9e0df2890da92c76ac1f"
+    },
+    {
+      "name": "Vidin",
+      "kind": "area",
+      "locality": "Bulgaria",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bulgaria",
+      "id": "bulgaria-059f324b2565fa11a4b8"
+    },
+    {
+      "name": "Sofia History Museum",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.6994,
+      "lon": 23.3237,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "price": "10 лв",
+      "url": "https://sofiahistorymuseum.bg/en/home",
+      "id": "bulgaria-0e26173f90b5b088e303"
+    },
+    {
+      "name": "National Museum of Military History",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.688397,
+      "lon": 23.350711,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "92 Cherkovna Str",
+      "url": "http://www.militarymuseum.bg/",
+      "id": "bulgaria-eb36f1d4b5c632b1dfdf"
+    },
+    {
+      "name": "Institute of Ethnology and Folklore Studies with Ethnographic Museum",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.696111,
+      "lon": 23.327222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "6A Moskovska Str",
+      "url": "http://ethnography.cc.bas.bg/",
+      "id": "bulgaria-395c63deb1f0b43832bd"
+    },
+    {
+      "name": "Earth and Man National Museum",
+      "kind": "do",
+      "locality": "Sofia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "4 Cherni Vruh Blvd",
+      "url": "https://www.earthandman.org/language/en/front/",
+      "id": "bulgaria-b080c4c7329248642a69"
+    },
+    {
+      "name": "National Museum of History",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.654972,
+      "lon": 23.270778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "16 Vitoshko lale str. (ул. Витошко лале 16)",
+      "price": "10 лв, 1 лв for students",
+      "url": "http://www.historymuseum.org/",
+      "id": "bulgaria-c89ef920ceb84ca1cb71"
+    },
+    {
+      "name": "National Institute of Archaeology and Museum",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.696331,
+      "lon": 23.324564,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "2 Saborna Str.",
+      "price": "10 лв",
+      "url": "http://www.naim.bg/",
+      "id": "bulgaria-7e1bd6abae9fea6e1c1a"
+    },
+    {
+      "name": "National Polytechnic Museum",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.70405,
+      "lon": 23.31199,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "66 Opalchenska Str",
+      "id": "bulgaria-4f6f408f768360fc58ed"
+    },
+    {
+      "name": "National Museum of Natural History",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.695683,
+      "lon": 23.328464,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "1, Tzar Osvoboditel Blvd",
+      "url": "http://www.nmnhs.com/",
+      "id": "bulgaria-41d6b1db999c9b7159e2"
+    },
+    {
+      "name": "The Red Flat",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.693911,
+      "lon": 23.319845,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "24 Ivan Denkoglu Str",
+      "url": "https://redflatsofia.com/",
+      "id": "bulgaria-a714da59418f717f0051"
+    },
+    {
+      "name": "House-Museum of Ivan Vazov",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.69301,
+      "lon": 23.32758,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "url": "http://nlmuseum.bg/index.php/filiali/otdel-ekspozitzii/ivan-vazov/kashta-muzei-ivan-vazov",
+      "id": "bulgaria-a35a05063df7be3b492f"
+    },
+    {
+      "name": "Museum of Sport",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.688057,
+      "lon": 23.334656,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "1A Bulgaria Blvd",
+      "id": "bulgaria-f39665f0a5927bbe71d7"
+    },
+    {
+      "name": "Museum of Paleontology and Historical Geology",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.6934,
+      "lon": 23.33523,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "15 Tzar Osvoboditel Blvd",
+      "url": "https://gpff.gea.uni-sofia.bg/facilities/museum/",
+      "id": "bulgaria-ba9c873265ebc4f50716"
+    },
+    {
+      "name": "National Literature Museum",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.689167,
+      "lon": 23.323056,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "138 G. S. Rakovski Str., floor 2",
+      "url": "http://nlmuseum.bg/",
+      "id": "bulgaria-62413007c72329284cdb"
+    },
+    {
+      "name": "National Agricultural Museum",
+      "kind": "do",
+      "locality": "Sofia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "30 Suhodolska Str",
+      "id": "bulgaria-25c3e0d8831a84b14697"
+    },
+    {
+      "name": "National Ecclesiastical History-Archeological Museum",
+      "kind": "do",
+      "locality": "Sofia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "19 Sveta Nedelya Sq",
+      "url": "https://bg-patriarshia.bg/church-arch-instit",
+      "id": "bulgaria-9f8b2743781f84b9db77"
+    },
+    {
+      "name": "Regional History Museum of Sofia",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.69937,
+      "lon": 23.32356,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "1 Banski Sq",
+      "url": "https://www.sofiahistorymuseum.bg/en/",
+      "id": "bulgaria-8b4af266f7daa09052b6"
+    },
+    {
+      "name": "Museum of Socialist Art",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.7,
+      "lon": 23.33,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "7, Luchezar Stanchev St.",
+      "url": "https://nationalgallery.bg/visiting/museum-of-socialist-period/",
+      "id": "bulgaria-58d24540d2a62853f915"
+    },
+    {
+      "name": "National Art Gallery",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.696481,
+      "lon": 23.326786,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "1 Batenberg Sq.",
+      "url": "https://nationalartgallerybg.org/",
+      "id": "bulgaria-8234a2be150172b64adf"
+    },
+    {
+      "name": "Sofia City Art Gallery",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.694489,
+      "lon": 23.32428,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "1 General Gurko St",
+      "url": "http://www.sghg.bg/",
+      "id": "bulgaria-90fb3504c39f7d932d4e"
+    },
+    {
+      "name": "St. Alexander Nevsky Cathedral",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.695839,
+      "lon": 23.332969,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "url": "https://www.cathedral.bg/en/home/",
+      "id": "bulgaria-dceb6aa13d286d0fda0d"
+    },
+    {
+      "name": "St. Sophia Church",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.6965,
+      "lon": 23.3315,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "2 Paris str.",
+      "id": "bulgaria-07b8593807ae3f156168"
+    },
+    {
+      "name": "Boyana Church",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.644672,
+      "lon": 23.266172,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "1-3 Boyansko Ezero Str.",
+      "url": "https://boyanachurch.org/indexen.htm",
+      "id": "bulgaria-87ee6e3c08116a3ae81a"
+    },
+    {
+      "name": "Church of St. George",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.696861,
+      "lon": 23.322861,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "id": "bulgaria-80cca2c9d4abf6af4bb2"
+    },
+    {
+      "name": "Catholic cathedral St. Joseph",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.698611,
+      "lon": 23.319722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "125, Knjaz Boris I",
+      "url": "http://www.catholic-bg.org/",
+      "id": "bulgaria-149f1ecbfe575629d3c8"
+    },
+    {
+      "name": "Saint Nedelya",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.696778,
+      "lon": 23.321551,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "id": "bulgaria-ed6c5d2276cb4312208f"
+    },
+    {
+      "name": "St. Nicholas Orthodox Church",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.6957,
+      "lon": 23.3291,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "url": "http://podvorie-sofia.bg/",
+      "id": "bulgaria-2a28484293a30837385e"
+    },
+    {
+      "name": "Banya Bashi Mosque",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.699511,
+      "lon": 23.322575,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "id": "bulgaria-6928e85d3e17c0e29969"
+    },
+    {
+      "name": "Sofia Synagogue",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.700278,
+      "lon": 23.321011,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "url": "http://www.sofiasynagogue.com/",
+      "id": "bulgaria-4c455b5b8d3b576571c2"
+    },
+    {
+      "name": "Amphitheatre of Serdica",
+      "kind": "do",
+      "locality": "Sofia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "id": "bulgaria-4f771d6463b4b7991e7e"
+    },
+    {
+      "name": "Battenberg Mausoleum",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.69143,
+      "lon": 23.33264,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "id": "bulgaria-ad4bcc21e28c8f8f8ce1"
+    },
+    {
+      "name": "Knyaz Battenberg's Palace",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.696481,
+      "lon": 23.326786,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "id": "bulgaria-3154e7d3fa5d91e3a8aa"
+    },
+    {
+      "name": "Monument to Vasil Levski",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.6967,
+      "lon": 23.3353,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "id": "bulgaria-274265fc0b92879b0c7b"
+    },
+    {
+      "name": "Monument to the Tsar Liberator",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.6937,
+      "lon": 23.3323,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "id": "bulgaria-68f84b559a404acc512f"
+    },
+    {
+      "name": "Monument to the Unknown Soldier",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.69625,
+      "lon": 23.33153,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "id": "bulgaria-4202a6982f94201957cd"
+    },
+    {
+      "name": "Tsar Samuil Monument",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.69628,
+      "lon": 23.33053,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "id": "bulgaria-37a002abd4964aa852d6"
+    },
+    {
+      "name": "Russian Monument",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.6923,
+      "lon": 23.3105,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "id": "bulgaria-cdb07c6a7d1655baa430"
+    },
+    {
+      "name": "Monument to the Soviet Army",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.69055,
+      "lon": 23.33444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "id": "bulgaria-d6e4251d7c50fa70d0f8"
+    },
+    {
+      "name": "Largo",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.6977,
+      "lon": 23.3233,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "id": "bulgaria-af2a7796ee8ded2768bd"
+    },
+    {
+      "name": "Prince Alexander of Battenberg Square",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.696111,
+      "lon": 23.326389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "id": "bulgaria-13eeef11fd8ff3072613"
+    },
+    {
+      "name": "Petko R. Slaveykov Square",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.69192,
+      "lon": 23.3243,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "price": "Free",
+      "id": "bulgaria-6a0ef884ecf87c240b02"
+    },
+    {
+      "name": "Patriarh Evtimiy Square",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.6883,
+      "lon": 23.3285,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "id": "bulgaria-e8bce7aa5dabe638781f"
+    },
+    {
+      "name": "Park National Palace of Culture",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.684722,
+      "lon": 23.318889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "url": "http://www.ndk.bg/",
+      "id": "bulgaria-9663aa722a543e2dc8cf"
+    },
+    {
+      "name": "Borisova Gradina (Boris Garden)",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.6886,
+      "lon": 23.3379,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "id": "bulgaria-6e032ee5d4a01d0f0188"
+    },
+    {
+      "name": "City Garden",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.6952,
+      "lon": 23.3256,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "id": "bulgaria-b2eb671017c9e6b9f583"
+    },
+    {
+      "name": "Sofia Zoo",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.6582,
+      "lon": 23.3297,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "1 Srebarna Str",
+      "url": "http://www.zoosofia.eu/",
+      "id": "bulgaria-f98ebd86b17d130c587d"
+    },
+    {
+      "name": "Yuzhen Park (South Park)",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.670153,
+      "lon": 23.308414,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "id": "bulgaria-2a9906be5e3d178423c6"
+    },
+    {
+      "name": "Oborishte Park",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.697458,
+      "lon": 23.342344,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "Yanko Sakazov blvd",
+      "id": "bulgaria-94b095c973c2c5a0638c"
+    },
+    {
+      "name": "Kambanite Park",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.6184408,
+      "lon": 23.3766234,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "Mladost 1756",
+      "id": "bulgaria-4da09cb77baca6bf4db9"
+    },
+    {
+      "name": "Orlov Most",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.690556,
+      "lon": 23.3375,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "id": "bulgaria-9d4416f2c66a31f7d41a"
+    },
+    {
+      "name": "Lavov Most",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.705,
+      "lon": 23.323889,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "id": "bulgaria-b56f8dd3e9ad7a8d6101"
+    },
+    {
+      "name": "Snail House",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.6173,
+      "lon": 23.3348,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "Boulevard \"Simeonovsko Shose 187, 1434 Simeonovo",
+      "id": "bulgaria-f2d84226335db2906a11"
+    },
+    {
+      "name": "National Assembly of Bulgaria",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.694444,
+      "lon": 23.332778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "2 Narodno Sabranie Sq",
+      "url": "http://www.parliament.bg/",
+      "id": "bulgaria-932b1f4f2bb8a3da756b"
+    },
+    {
+      "name": "Sofia University",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.693611,
+      "lon": 23.335,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "15 Tsar Osvoboditel Blvd",
+      "url": "https://www.uni-sofia.bg/",
+      "id": "bulgaria-2a411c2a706869968a9e"
+    },
+    {
+      "name": "Bulgarian Academy of Sciences",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.694444,
+      "lon": 23.331667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "1 15 November Str",
+      "url": "http://www.bas.bg/",
+      "id": "bulgaria-78bde293cbb3117311f3"
+    },
+    {
+      "name": "SS. Cyril and Methodius National Library",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.6948,
+      "lon": 23.33599,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "88 Vasil Levski Str",
+      "url": "http://www.nationallibrary.bg/",
+      "id": "bulgaria-7be15c58c8248c711166"
+    },
+    {
+      "name": "Sofia Bike Tour",
+      "kind": "do",
+      "locality": "Sofia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "Dyacon Ignatiy, 5",
+      "url": "http://www.sofiagreentour.com/",
+      "id": "bulgaria-2ada2752b04858fa3dad"
+    },
+    {
+      "name": "Playgrounds",
+      "kind": "do",
+      "locality": "Sofia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "id": "bulgaria-b0879e47181e80368b67"
+    },
+    {
+      "name": "Sofia Opera and Ballet",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.6975,
+      "lon": 23.3305,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "url": "http://www.operasofia.bg/",
+      "id": "bulgaria-2f046d491d8a430153bf"
+    },
+    {
+      "name": "Arena Cinema",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.66044,
+      "lon": 23.38229,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "url": "http://www.kinoarena.com/",
+      "id": "bulgaria-17bfda03666e02bd959a"
+    },
+    {
+      "name": "Ivan Vazov National Theatre",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.69415,
+      "lon": 23.32653,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "5 Dyakon Ignatiy Str",
+      "url": "http://www.nationaltheatre.bg/",
+      "id": "bulgaria-e8f14d433d5a365755d9"
+    },
+    {
+      "name": "National Palace of Culture",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.6852,
+      "lon": 23.319,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "1 Bulgaria Sq",
+      "url": "http://www.ndk.bg/",
+      "id": "bulgaria-9ab82d45096318dec04e"
+    },
+    {
+      "name": "Central Military Club",
+      "kind": "do",
+      "locality": "Sofia",
+      "lat": 42.6952,
+      "lon": 23.3299,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "id": "bulgaria-c8b15479fbce185d03ca"
+    },
+    {
+      "name": "Veselata Gozba Restaurant",
+      "kind": "eat",
+      "locality": "Sofia",
+      "lat": 42.6910612,
+      "lon": 23.3181592,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "ул. П.Парчевич 29",
+      "id": "bulgaria-ad7aa3ea858ac262f315"
+    },
+    {
+      "name": "Gastrobar 6",
+      "kind": "eat",
+      "locality": "Sofia",
+      "lat": 42.6908742,
+      "lon": 23.3243059,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "ul. \"Han Krum\" 6",
+      "id": "bulgaria-05f0c433e313612e68d6"
+    },
+    {
+      "name": "Ali Baba",
+      "kind": "eat",
+      "locality": "Sofia",
+      "lat": 42.6947793,
+      "lon": 23.3216411,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "ул. „Алабин И. Вл.“ 52",
+      "id": "bulgaria-7532d05fc332f53c50b5"
+    },
+    {
+      "name": "Dream House",
+      "kind": "eat",
+      "locality": "Sofia",
+      "lat": 42.694821,
+      "lon": 23.3213987,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "улица „Алабин И. Вл 50",
+      "id": "bulgaria-832b20ecf5879ff4c35e"
+    },
+    {
+      "name": "Мекица и Кафе (Mekitsa and Coffee)",
+      "kind": "eat",
+      "locality": "Sofia",
+      "lat": 42.6908996,
+      "lon": 23.3255927,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "id": "bulgaria-6a9c06162a6b338037c5"
+    },
+    {
+      "name": "DARO",
+      "kind": "eat",
+      "locality": "Sofia",
+      "lat": 42.6914779,
+      "lon": 23.3220743,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "ul. \"Angel Kanchev\" 20",
+      "id": "bulgaria-82e859a15e0c4e657ef6"
+    },
+    {
+      "name": "Pizza Victoria",
+      "kind": "eat",
+      "locality": "Sofia",
+      "lat": 42.6951406,
+      "lon": 23.3298342,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "bul. \"Tsar Osvoboditel\" 7",
+      "url": "http://www.victoria.bg/",
+      "id": "bulgaria-dfe99a65bd8faae95e14"
+    },
+    {
+      "name": "Godzila",
+      "kind": "eat",
+      "locality": "Sofia",
+      "lat": 42.6903468,
+      "lon": 23.330996,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "ul. Gen. Y. V. Gurko 52 2",
+      "url": "http://godzila.bg/welcome",
+      "id": "bulgaria-cf3c4d29bf225514d298"
+    },
+    {
+      "name": "Pod Lipite",
+      "kind": "eat",
+      "locality": "Sofia",
+      "lat": 42.6818057,
+      "lon": 23.3354685,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "ul. \"Elin Pelin\" 1",
+      "url": "http://www.podlipitebg.com/",
+      "id": "bulgaria-12b2aa04034547b57edd"
+    },
+    {
+      "name": "Motto",
+      "kind": "eat",
+      "locality": "Sofia",
+      "lat": 42.693697,
+      "lon": 23.3301993,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "18 Aksakov str.",
+      "price": "5–15 лв per dish.",
+      "url": "http://www.motto-bg.com/",
+      "id": "bulgaria-6020c4d03240a529f344"
+    },
+    {
+      "name": "Hadjidraganovite kashti",
+      "kind": "eat",
+      "locality": "Sofia",
+      "lat": 42.7066004,
+      "lon": 23.3225812,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "75 Kozloduy",
+      "price": "€10-30 (April 2011)",
+      "url": "http://www.kashtite.com/index_en.html",
+      "id": "bulgaria-79508e4a956594ade3db"
+    },
+    {
+      "name": "Cosmos Restaurant / Космос",
+      "kind": "eat",
+      "locality": "Sofia",
+      "lat": 42.6947539,
+      "lon": 23.3189502,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "Lavele St 19",
+      "id": "bulgaria-0a1ab4256ce59ba4d8c8"
+    },
+    {
+      "name": "Onda Coffee Break",
+      "kind": "eat",
+      "locality": "Sofia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "url": "https://www.facebook.com/ONDA-COFFEE-BREAK-88775021385/",
+      "id": "bulgaria-5821014379ac20421209"
+    },
+    {
+      "name": "Pchela Sweet Shop",
+      "kind": "eat",
+      "locality": "Sofia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "id": "bulgaria-15e1bb996ad7b7ee45b8"
+    },
+    {
+      "name": "Nedelya Sweet Shop",
+      "kind": "eat",
+      "locality": "Sofia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "url": "http://www.nedelya.com/",
+      "id": "bulgaria-56620935c9644d25947e"
+    },
+    {
+      "name": "Art Club since 1991",
+      "kind": "eat",
+      "locality": "Sofia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "6 Tsar Ivan Asen II Str.",
+      "id": "bulgaria-6358629ff9a170188706"
+    },
+    {
+      "name": "JJ Murphys Irish pub",
+      "kind": "eat",
+      "locality": "Sofia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "url": "https://www.facebook.com/profile.php?id=100051778763880",
+      "id": "bulgaria-f2ddf608219cf8e8ea3b"
+    },
+    {
+      "name": "The Cocktail Bar",
+      "kind": "eat",
+      "locality": "Sofia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "url": "https://thecocktailbar.bg/",
+      "id": "bulgaria-a14fc5998179a924d91d"
+    },
+    {
+      "name": "Bar 5L",
+      "kind": "eat",
+      "locality": "Sofia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "url": "https://www.facebook.com/5LSpeakeasyBar/",
+      "id": "bulgaria-6b78f9452545a6a47403"
+    },
+    {
+      "name": "Apartment",
+      "kind": "eat",
+      "locality": "Sofia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "id": "bulgaria-ddadb2e841de15e3a222"
+    },
+    {
+      "name": "4km",
+      "kind": "eat",
+      "locality": "Sofia",
+      "lat": 42.66933,
+      "lon": 23.36965,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "boulevard Tsarigradsko shose 111",
+      "price": "Entrance is ~€10, but slightly cheaper if you arrive before midnight",
+      "url": "https://www.facebook.com/PartyCenter",
+      "id": "bulgaria-34abe957006587a471eb"
+    },
+    {
+      "name": "Peter Pan Hostel",
+      "kind": "stay",
+      "locality": "Sofia",
+      "lat": 42.69835,
+      "lon": 23.33297,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "bul. Knyaz Aleksandar Dondukov",
+      "price": "Private €12-14",
+      "url": "https://www.peterpan-hostel.com/",
+      "id": "bulgaria-8542a4a3453b157c75b7"
+    },
+    {
+      "name": "Levitt Hostel",
+      "kind": "stay",
+      "locality": "Sofia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "price": "€10",
+      "url": "http://levitthostel.com/",
+      "id": "bulgaria-396b17a3405c19656365"
+    },
+    {
+      "name": "Crosspoint Sofia Hostel",
+      "kind": "stay",
+      "locality": "Sofia",
+      "lat": 42.689865,
+      "lon": 23.328756,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "#6, Parensov St",
+      "price": "€9-18",
+      "id": "bulgaria-d25d3753a9914d20ec37"
+    },
+    {
+      "name": "Hostel Mostel",
+      "kind": "stay",
+      "locality": "Sofia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "2A, Makedonia Blvd",
+      "price": "From €9",
+      "url": "http://www.hostelmostel.com/sofia/facilities-services",
+      "id": "bulgaria-efa71460904bee0651b5"
+    },
+    {
+      "name": "Nightingale Hostel",
+      "kind": "stay",
+      "locality": "Sofia",
+      "lat": 42.692268,
+      "lon": 23.323806,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "price": "€7-12",
+      "url": "http://www.facebook.com/NIGHTINGALEHOSTEL",
+      "id": "bulgaria-590f38a2060f49bbc3a0"
+    },
+    {
+      "name": "Orient Express Hostel - Sofia",
+      "kind": "stay",
+      "locality": "Sofia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "8A Hristo Belchev Str.",
+      "id": "bulgaria-f45a14a8fe0f20ded740"
+    },
+    {
+      "name": "Interhost / Hello Sofia",
+      "kind": "stay",
+      "locality": "Sofia",
+      "lat": 42.69477,
+      "lon": 23.3213,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "50A Allabin Str",
+      "price": "Private from €11",
+      "id": "bulgaria-fac91c0ed19213daaf90"
+    },
+    {
+      "name": "Alegra Hostel",
+      "kind": "stay",
+      "locality": "Sofia",
+      "lat": 42.71024,
+      "lon": 23.31713,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "Sofroniy Vrachanski street № 145",
+      "price": "€30 private room /€15 per person",
+      "id": "bulgaria-9654a5fce935f63dc40e"
+    },
+    {
+      "name": "10 Coins Hostel",
+      "kind": "stay",
+      "locality": "Sofia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "Dechko Uzunov 24, Nadezhda",
+      "price": "Dorm €7, private room €18",
+      "url": "http://www.10coins-hostel.eu/",
+      "id": "bulgaria-b9ca3591507cd9d86028"
+    },
+    {
+      "name": "Holiday Inn Sofia",
+      "kind": "stay",
+      "locality": "Sofia",
+      "lat": 42.62547,
+      "lon": 23.37593,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "111 Aleksandar Malinov Blvd",
+      "price": "Rooms from €68",
+      "url": "http://www.hisofiahotel.com/",
+      "id": "bulgaria-f5dc95f50346fa5aaef5"
+    },
+    {
+      "name": "Holiday Village Diplomat",
+      "kind": "stay",
+      "locality": "Sofia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "url": "http://www.gloriapalace.net/",
+      "id": "bulgaria-b47804054ddc692cc304"
+    },
+    {
+      "name": "Maxim Hotel",
+      "kind": "stay",
+      "locality": "Sofia",
+      "lat": 42.70582,
+      "lon": 23.3241,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "id": "bulgaria-78a5b831f589431402ad"
+    },
+    {
+      "name": "Metropolitan Hotel Sofia",
+      "kind": "stay",
+      "locality": "Sofia",
+      "lat": 42.65685,
+      "lon": 23.38294,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "64, Tsarigradsko shose Blvd",
+      "url": "http://metropolitanhotelsofia.com/",
+      "id": "bulgaria-de271c175e7d966f1e3e"
+    },
+    {
+      "name": "Red House B&B",
+      "kind": "stay",
+      "locality": "Sofia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "15, Lyuben Karavelov St",
+      "price": "From €30",
+      "url": "http://www.redbandb.com/home.aspx",
+      "id": "bulgaria-a598e7f5e01ae18ca401"
+    },
+    {
+      "name": "Hello Sofia Guesthouse",
+      "kind": "stay",
+      "locality": "Sofia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "12 Stefan Stambolov Bul",
+      "price": "From €20",
+      "url": "http://www.hellosofia.hostel.com/",
+      "id": "bulgaria-965fee94982537d0f68b"
+    },
+    {
+      "name": "Hotel Lozenetz",
+      "kind": "stay",
+      "locality": "Sofia",
+      "lat": 42.67826,
+      "lon": 23.32614,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "23, Sveti Naum Bul",
+      "url": "http://www.lozenetzhotel.com/",
+      "id": "bulgaria-49d5807d84124e7aefe8"
+    },
+    {
+      "name": "Sofia Hotel Balkan, a Marriott Luxury Collection Hotel",
+      "kind": "stay",
+      "locality": "Sofia",
+      "lat": 42.69712,
+      "lon": 23.32204,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "5, Sveta Nedelya Sq",
+      "url": "https://www.marriott.de/hotels/travel/soflc-sofia-hotel-balkan-a-luxury-collection-hotel-sofia/",
+      "id": "bulgaria-eae54b9ec5e86f75c8dc"
+    },
+    {
+      "name": "Park Inn by Radisson Sofia Hotel",
+      "kind": "stay",
+      "locality": "Sofia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "address": "Atanas Dukov Str. 36",
+      "url": "https://www.radissonhotels.com/en-us/destination",
+      "id": "bulgaria-2f702bb4bf5f069ca677"
+    },
+    {
+      "name": "Sofia",
+      "kind": "area",
+      "locality": "Sofia",
+      "lat": 42.7,
+      "lon": 23.3333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Sofia",
+      "id": "bulgaria-908c8ca61d825d63dfb3"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

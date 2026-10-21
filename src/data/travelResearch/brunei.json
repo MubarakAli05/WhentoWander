@@ -1,0 +1,412 @@
+{
+  "sources": [
+    {
+      "title": "Brunei",
+      "url": "https://en.wikivoyage.org/wiki/Brunei",
+      "checkedAt": "2026-10-21T08:08:53.466Z"
+    },
+    {
+      "title": "Bandar Seri Begawan",
+      "url": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "checkedAt": "2026-10-21T08:08:56.247Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Bandar Seri Begawan",
+      "kind": "area",
+      "locality": "Brunei",
+      "lat": 4.892,
+      "lon": 114.939,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brunei",
+      "id": "brunei-3e383973cb014b2fdb3a"
+    },
+    {
+      "name": "Bangar",
+      "kind": "area",
+      "locality": "Brunei",
+      "lat": 4.708333,
+      "lon": 115.073611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brunei",
+      "id": "brunei-3f9100a97720bc9e8b23"
+    },
+    {
+      "name": "Kuala Belait",
+      "kind": "area",
+      "locality": "Brunei",
+      "lat": 4.583333,
+      "lon": 114.183333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brunei",
+      "id": "brunei-a0276e1cb49b00e3ff5b"
+    },
+    {
+      "name": "Muara",
+      "kind": "area",
+      "locality": "Brunei",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brunei",
+      "id": "brunei-134be8f1f8273102fd29"
+    },
+    {
+      "name": "Seria",
+      "kind": "area",
+      "locality": "Brunei",
+      "lat": 4.614132,
+      "lon": 114.330246,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brunei",
+      "id": "brunei-0c91d848edb4ad27b5a7"
+    },
+    {
+      "name": "Tutong",
+      "kind": "area",
+      "locality": "Brunei",
+      "lat": 4.806667,
+      "lon": 114.659167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Brunei",
+      "id": "brunei-a157204309eb5cde47a1"
+    },
+    {
+      "name": "Omar Ali Saifuddien Mosque",
+      "kind": "do",
+      "locality": "Bandar Seri Begawan",
+      "lat": 4.889578,
+      "lon": 114.939136,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "address": "Jalan Elizabeth II",
+      "price": "Free entry",
+      "id": "brunei-969a8b70be22c6ea5bb0"
+    },
+    {
+      "name": "Jame'Asr Hassanal Bolkiah Mosque",
+      "kind": "do",
+      "locality": "Bandar Seri Begawan",
+      "lat": 4.897944,
+      "lon": 114.921778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "address": "Jalan Stadium Negara Hassanal Bolkiah",
+      "id": "brunei-a75e13f65abd3ae8d1c4"
+    },
+    {
+      "name": "Kampong Ayer",
+      "kind": "do",
+      "locality": "Bandar Seri Begawan",
+      "lat": 4.88049,
+      "lon": 114.94368,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "price": "Free entry",
+      "id": "brunei-71caff5ce8e604aeac96"
+    },
+    {
+      "name": "Kampong Ayer Cultural & Tourism Gallery",
+      "kind": "do",
+      "locality": "Bandar Seri Begawan",
+      "lat": 4.884202,
+      "lon": 114.944645,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "id": "brunei-9c9ee51a0f8578c2555d"
+    },
+    {
+      "name": "Royal Regalia Museum",
+      "kind": "do",
+      "locality": "Bandar Seri Begawan",
+      "lat": 4.892881,
+      "lon": 114.941562,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "address": "Jalan Sultan Omar Ali Saifuddien",
+      "price": "Free entrance for local residents, foreigners pay $5 each (cash only).",
+      "id": "brunei-4733ed9ca0d4500b280b"
+    },
+    {
+      "name": "Istana Nurul Iman",
+      "kind": "do",
+      "locality": "Bandar Seri Begawan",
+      "lat": 4.871151,
+      "lon": 114.919796,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "id": "brunei-e30d5f82486fb249a2f9"
+    },
+    {
+      "name": "Brunei Museum",
+      "kind": "do",
+      "locality": "Bandar Seri Begawan",
+      "lat": 4.885383,
+      "lon": 114.968662,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "url": "http://www.museums.gov.bn/bangunan.htm",
+      "id": "brunei-3f51ef3b577c41155b75"
+    },
+    {
+      "name": "Malay Technology Museum",
+      "kind": "do",
+      "locality": "Bandar Seri Begawan",
+      "lat": 4.883352,
+      "lon": 114.96981,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "price": "Free",
+      "id": "brunei-d38576338ff4ed718fa5"
+    },
+    {
+      "name": "Tasek Lama Recreational Park",
+      "kind": "do",
+      "locality": "Bandar Seri Begawan",
+      "lat": 4.902043,
+      "lon": 114.944391,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "address": "Jln Tasek Lama",
+      "id": "brunei-05f430af93c799f83a49"
+    },
+    {
+      "name": "Kianggeh Canal",
+      "kind": "do",
+      "locality": "Bandar Seri Begawan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "id": "brunei-74d736dc86affac72d6e"
+    },
+    {
+      "name": "Proboscis monkeys",
+      "kind": "do",
+      "locality": "Bandar Seri Begawan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "price": "Roughly $15-30 or $10 per person; you might have to haggle a bit",
+      "id": "brunei-d8eca281c118e42b4fcc"
+    },
+    {
+      "name": "Teng Yun Temple",
+      "kind": "do",
+      "locality": "Bandar Seri Begawan",
+      "lat": 4.890058,
+      "lon": 114.943757,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "address": "Jalan Sungai Kianggeh and Jalan Elizabeth Dua",
+      "id": "brunei-de1cc18d653b5e2d617e"
+    },
+    {
+      "name": "Jerudong Park",
+      "kind": "do",
+      "locality": "Bandar Seri Begawan",
+      "lat": 4.934204,
+      "lon": 114.834262,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "price": "$20, residents $15",
+      "url": "http://www.jerudongparkplayground.com/",
+      "id": "brunei-0d93e94031cb885d1df7"
+    },
+    {
+      "name": "Muara Beach",
+      "kind": "do",
+      "locality": "Bandar Seri Begawan",
+      "lat": 5.038154,
+      "lon": 115.078512,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "id": "brunei-2a290b70680e2754f21e"
+    },
+    {
+      "name": "Serasa Beach",
+      "kind": "do",
+      "locality": "Bandar Seri Begawan",
+      "lat": 4.989506,
+      "lon": 115.0683,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "id": "brunei-3e38905d8cc364ca084f"
+    },
+    {
+      "name": "Kianggeh Market",
+      "kind": "eat",
+      "locality": "Bandar Seri Begawan",
+      "lat": 4.890167,
+      "lon": 114.944851,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "price": "Around $1. Only accept cash",
+      "id": "brunei-c9f855a53940a7065a11"
+    },
+    {
+      "name": "Aminah Arif Restaurant",
+      "kind": "eat",
+      "locality": "Bandar Seri Begawan",
+      "lat": 4.900515,
+      "lon": 114.926945,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "id": "brunei-04e3ae411b3ef2a0f979"
+    },
+    {
+      "name": "Pusat Belia Youth Hostel",
+      "kind": "stay",
+      "locality": "Bandar Seri Begawan",
+      "lat": 4.892136,
+      "lon": 114.943977,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "address": "Jalan Sungai Kianggeh",
+      "price": "$15/bed",
+      "id": "brunei-dd011bb6b43649fafa03"
+    },
+    {
+      "name": "APEK Utama Hotel",
+      "kind": "stay",
+      "locality": "Bandar Seri Begawan",
+      "lat": 4.875227,
+      "lon": 114.954598,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "address": "Simpang 229, Kampung Pintu Malim",
+      "price": "$30–60",
+      "url": "http://apekutamahotel.com/",
+      "id": "brunei-5a25ef8faf06b5386856"
+    },
+    {
+      "name": "KH Soon Resthouse",
+      "kind": "stay",
+      "locality": "Bandar Seri Begawan",
+      "lat": 4.88901,
+      "lon": 114.94343,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "address": "140 Jalan Pemancha",
+      "price": "Single/double shared bathroom $35/40, attached bathroom $40-50",
+      "url": "http://khsoon-resthouse.tripod.com/",
+      "id": "brunei-d08b40207e953cfc1d55"
+    },
+    {
+      "name": "Brunei Hotel",
+      "kind": "stay",
+      "locality": "Bandar Seri Begawan",
+      "lat": 4.888915,
+      "lon": 114.944033,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "address": "95 Jalan Pemancha",
+      "price": "$130-155",
+      "url": "http://thebruneihotel.com/",
+      "id": "brunei-aa47d19d73ffc714d5af"
+    },
+    {
+      "name": "Jeruton Hotel",
+      "kind": "stay",
+      "locality": "Bandar Seri Begawan",
+      "lat": 4.92066,
+      "lon": 114.838485,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "address": "Simpang 396, Sengkurong",
+      "price": "Standard $40, super $50, suites $60-100",
+      "url": "http://www.jerutonhotel.com/",
+      "id": "brunei-33625628194da6338b21"
+    },
+    {
+      "name": "Traders Inn",
+      "kind": "stay",
+      "locality": "Bandar Seri Begawan",
+      "lat": 4.89996,
+      "lon": 114.902044,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "address": "Jalan Gadong",
+      "price": "$80-120",
+      "url": "http://www.tradersinn-bn.com/",
+      "id": "brunei-b7e20bbafc2c76e5c248"
+    },
+    {
+      "name": "Joy Downtown Rest-Station",
+      "kind": "stay",
+      "locality": "Bandar Seri Begawan",
+      "lat": 4.88727,
+      "lon": 114.94348,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "address": "Jalan McArthur No. 9 1st floor",
+      "price": "20$-30$double-40$deluxe",
+      "id": "brunei-b7c6ee4047010273367e"
+    },
+    {
+      "name": "AE Backpackers Hostel",
+      "kind": "stay",
+      "locality": "Bandar Seri Begawan",
+      "lat": 4.899086,
+      "lon": 114.929225,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "address": "Simpang 88, Kiulap",
+      "price": "$20 for a bunk",
+      "id": "brunei-020ac7cc8311e0a3f4a4"
+    },
+    {
+      "name": "BK Hostel",
+      "kind": "stay",
+      "locality": "Bandar Seri Begawan",
+      "lat": 4.88816,
+      "lon": 114.943156,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "price": "US$18 for a private room",
+      "url": "https://www.airbnb.com/rooms/29979946",
+      "id": "brunei-b18e7cce2bb3ae7010d1"
+    },
+    {
+      "name": "Qing Yun Resthouse",
+      "kind": "stay",
+      "locality": "Bandar Seri Begawan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "address": "Unit 3 Ground Floor Bangunan Hj Munchit Dan Dayang Rapiah - Jaya Setia ( Berakas )",
+      "url": "https://qingyunresthouse.com/",
+      "id": "brunei-0dc1dd4f98d9bf9f383e"
+    },
+    {
+      "name": "LeGallery Hotel",
+      "kind": "stay",
+      "locality": "Bandar Seri Begawan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "url": "http://www.legallerysuiteshotel.com/",
+      "id": "brunei-9bbe64f04aaf835256ea"
+    },
+    {
+      "name": "The Holiday Lodge Hotel",
+      "kind": "stay",
+      "locality": "Bandar Seri Begawan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "address": "Lot: 27192, Kg Jerudong, Jalan Pulau Kubu",
+      "url": "http://www.theholidaylodge.com/",
+      "id": "brunei-15df0f07709159521009"
+    },
+    {
+      "name": "Mulia Hotel Brunei",
+      "kind": "stay",
+      "locality": "Bandar Seri Begawan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "address": "Lot 31954, Simpang 9, Kg. Anggerek Desa, Jalan Berakas BB3713",
+      "url": "https://www.facebook.com/MuliaHotelBrunei",
+      "id": "brunei-6f699a1c8bba142c8f50"
+    },
+    {
+      "name": "The Empire Hotel and Country Club",
+      "kind": "stay",
+      "locality": "Bandar Seri Begawan",
+      "lat": 4.967785,
+      "lon": 114.853756,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "url": "http://www.theempirehotel.com/",
+      "id": "brunei-fa699673971afced2100"
+    },
+    {
+      "name": "Radisson Hotel Brunei Darussalam",
+      "kind": "stay",
+      "locality": "Bandar Seri Begawan",
+      "lat": 4.894533,
+      "lon": 114.942397,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "address": "Jalan Tasek",
+      "price": "Rates start at $162",
+      "url": "https://www.radissonhotels.com/en-us/hotels/radisson-bandar-seri-begawan",
+      "id": "brunei-e312284e3d85fb42fb00"
+    },
+    {
+      "name": "Grand City Hotel",
+      "kind": "stay",
+      "locality": "Bandar Seri Begawan",
+      "lat": 4.917344,
+      "lon": 114.913792,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "id": "brunei-f5e4005a977575a72062"
+    },
+    {
+      "name": "Bandar Seri Begawan",
+      "kind": "area",
+      "locality": "Bandar Seri Begawan",
+      "lat": 4.890278,
+      "lon": 114.942222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bandar_Seri_Begawan",
+      "id": "brunei-7ed135603733ff05d617"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

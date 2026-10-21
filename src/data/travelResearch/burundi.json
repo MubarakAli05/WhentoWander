@@ -1,0 +1,575 @@
+{
+  "sources": [
+    {
+      "title": "Burundi",
+      "url": "https://en.wikivoyage.org/wiki/Burundi",
+      "checkedAt": "2026-10-21T08:09:00.233Z"
+    },
+    {
+      "title": "Gitega",
+      "url": "https://en.wikivoyage.org/wiki/Gitega",
+      "checkedAt": "2026-10-21T08:09:03.192Z"
+    },
+    {
+      "title": "Bujumbura",
+      "url": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "checkedAt": "2026-10-21T08:09:06.411Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Gitega",
+      "kind": "area",
+      "locality": "Burundi",
+      "lat": -3.4264,
+      "lon": 29.9306,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Burundi",
+      "id": "burundi-21351f05cf6d46d18147"
+    },
+    {
+      "name": "Bujumbura",
+      "kind": "area",
+      "locality": "Burundi",
+      "lat": -3.3825,
+      "lon": 29.3611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Burundi",
+      "id": "burundi-c496cd0de0260f775f5a"
+    },
+    {
+      "name": "Bururi",
+      "kind": "area",
+      "locality": "Burundi",
+      "lat": -3.9333,
+      "lon": 29.6167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Burundi",
+      "id": "burundi-f3bbe14e4ac5fc3faa85"
+    },
+    {
+      "name": "Cibitoke",
+      "kind": "area",
+      "locality": "Burundi",
+      "lat": -2.8883,
+      "lon": 29.1197,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Burundi",
+      "id": "burundi-d6061758751f717d26b9"
+    },
+    {
+      "name": "Kabezi",
+      "kind": "area",
+      "locality": "Burundi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Burundi",
+      "id": "burundi-efc96dffe364e8eb1e3c"
+    },
+    {
+      "name": "Muyinga",
+      "kind": "area",
+      "locality": "Burundi",
+      "lat": -2.85,
+      "lon": 30.3333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Burundi",
+      "id": "burundi-41d3d3f015db30a5362c"
+    },
+    {
+      "name": "Ngozi",
+      "kind": "area",
+      "locality": "Burundi",
+      "lat": -2.9075,
+      "lon": 29.8306,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Burundi",
+      "id": "burundi-27c33385dcd6efd481d1"
+    },
+    {
+      "name": "National Museum",
+      "kind": "do",
+      "locality": "Gitega",
+      "lat": -3.418236,
+      "lon": 29.908485,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gitega",
+      "address": "11 Avenue du 13 Octobre",
+      "price": "5,000 Fbu",
+      "id": "burundi-0c87ed4ac34ece0b066c"
+    },
+    {
+      "name": "Christ the King Cathedral",
+      "kind": "do",
+      "locality": "Gitega",
+      "lat": -3.4401,
+      "lon": 29.933,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gitega",
+      "id": "burundi-ddb69b6a303f6f5d8c04"
+    },
+    {
+      "name": "Gishora Drum Sanctuary",
+      "kind": "do",
+      "locality": "Gitega",
+      "lat": -3.3634,
+      "lon": 29.922,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gitega",
+      "id": "burundi-87b51f1f36cd32fb45bf"
+    },
+    {
+      "name": "Gitega",
+      "kind": "area",
+      "locality": "Gitega",
+      "lat": -3.4281,
+      "lon": 29.925,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gitega",
+      "id": "burundi-1b2487d2eb8079d63411"
+    },
+    {
+      "name": "Musée Vivant",
+      "kind": "do",
+      "locality": "Bujumbura",
+      "lat": -3.387,
+      "lon": 29.3536,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "11 Avenue du 13 Octobre",
+      "price": "Entrance: FBu 5,000 adult, 2,000 child; Carnivore food: FBu 5,000 guinea pig, 25,000 rabbit",
+      "id": "burundi-ddfe508a57530b4ee8ce"
+    },
+    {
+      "name": "Rusizi National Park",
+      "kind": "do",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "RN4, Chaussée d'Uvira",
+      "id": "burundi-7b9526ad1d4970b1e84a"
+    },
+    {
+      "name": "Livingstone–Stanley Monument",
+      "kind": "do",
+      "locality": "Bujumbura",
+      "lat": -3.4819,
+      "lon": 29.3524,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "id": "burundi-c1c332022ec8591590ab"
+    },
+    {
+      "name": "Cathédrale Regina Mundi de Bujumbura",
+      "kind": "do",
+      "locality": "Bujumbura",
+      "lat": -3.3919,
+      "lon": 29.3637,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "Boulevard Patrick Lumumba, Rohero",
+      "id": "burundi-cf4d81c2504d2fa9812c"
+    },
+    {
+      "name": "Monument de l’Unité National",
+      "kind": "do",
+      "locality": "Bujumbura",
+      "lat": -3.3928,
+      "lon": 29.3884,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "Chaussée Prince Louis Rwagasore",
+      "price": "FBu 10,000 for entrance + guide may request FBu 2,000 tips “to drink”.",
+      "id": "burundi-3dac60cc4b993219c44f"
+    },
+    {
+      "name": "Mausolée du Prince Louis Rwagasore",
+      "kind": "do",
+      "locality": "Bujumbura",
+      "lat": -3.3925,
+      "lon": 29.3866,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "Chaussée Prince Louis Rwagasore",
+      "id": "burundi-e4708fbd32ff5bc99004"
+    },
+    {
+      "name": "Bugarama",
+      "kind": "do",
+      "locality": "Bujumbura",
+      "lat": -3.289,
+      "lon": 29.546,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "RN1",
+      "id": "burundi-edc8a7eca4a77d5fa5ce"
+    },
+    {
+      "name": "Karera Beach",
+      "kind": "do",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "Uvira Roadway",
+      "id": "burundi-4f34c671725bbd830264"
+    },
+    {
+      "name": "Saga Plage",
+      "kind": "do",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "Uvira Roadway",
+      "url": "https://www.facebook.com/Saga-Plage-121127084737956/",
+      "id": "burundi-425ea7bfd7af664de447"
+    },
+    {
+      "name": "Association Burundaise pour la protection de la Nature (ABN)",
+      "kind": "do",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "url": "https://www.abn.bi/index.php/fr/",
+      "id": "burundi-9ad9f3fbd943106c2cea"
+    },
+    {
+      "name": "Botanika",
+      "kind": "eat",
+      "locality": "Bujumbura",
+      "lat": -3.3802,
+      "lon": 29.3646,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "11 Blvd de l'Uprona",
+      "price": "Main dish FBu 16,000-18,000, starter FBu 12,000",
+      "id": "burundi-2a50092e8c20d5441e87"
+    },
+    {
+      "name": "Le Bouteille d'Or",
+      "kind": "eat",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "id": "burundi-571a959b5523805ddc8c"
+    },
+    {
+      "name": "Le Cayor",
+      "kind": "eat",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "Chaussee Prince Louis Rwagasore",
+      "id": "burundi-836c5c1c4e2a213f35fa"
+    },
+    {
+      "name": "Le Plaisir",
+      "kind": "eat",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "Avenue de l'Amitié",
+      "id": "burundi-fa6d4a8f4dde5936f125"
+    },
+    {
+      "name": "Oasis",
+      "kind": "eat",
+      "locality": "Bujumbura",
+      "lat": -3.3807,
+      "lon": 29.364,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "14 Blvd de l'Uprona, Rohero I, BP35",
+      "price": "Meat FBu 16,000–20,000, meze FBu 16,000, pizza FBu 11,000–21,000",
+      "id": "burundi-050e62c2843d4f051a79"
+    },
+    {
+      "name": "Pont Muha",
+      "kind": "eat",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "id": "burundi-91ce7e0da326a9ef2b52"
+    },
+    {
+      "name": "Tropicana",
+      "kind": "eat",
+      "locality": "Bujumbura",
+      "lat": -3.38243,
+      "lon": 29.3633,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "Chaussée Prince Louis Rwagasore",
+      "price": "Main dishes around FBu 10,000, drinks FBu 3,000",
+      "id": "burundi-a3425abf2ea137cb25d2"
+    },
+    {
+      "name": "La Baguette Magique",
+      "kind": "eat",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "Boulevard Lumumba Patrice",
+      "id": "burundi-13d2bdbfbdbc579806ea"
+    },
+    {
+      "name": "Chez Michel",
+      "kind": "eat",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "id": "burundi-86a816edab14d09058c5"
+    },
+    {
+      "name": "Fleur de Sel",
+      "kind": "eat",
+      "locality": "Bujumbura",
+      "lat": -3.3811,
+      "lon": 29.3583,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "Blvd 1er Novembre, Peace Corner Bldg",
+      "price": "One dish FBu 11,000, two FBu 12,500, three FBu 17,500, +FBu 2,000 on evening",
+      "id": "burundi-0426e4853ca55a3d618b"
+    },
+    {
+      "name": "BBQ",
+      "kind": "eat",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "Avenue Muyinga",
+      "id": "burundi-a81a97d8b938ec6cca22"
+    },
+    {
+      "name": "Chez Andre",
+      "kind": "eat",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "Chaussée Prince Louis Rwagasore",
+      "id": "burundi-4f0c23a3dfe7ffa0165d"
+    },
+    {
+      "name": "Shanghai",
+      "kind": "eat",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "Avenue Muyinga",
+      "id": "burundi-793d2856c9a9ea91953b"
+    },
+    {
+      "name": "Tandoor",
+      "kind": "eat",
+      "locality": "Bujumbura",
+      "lat": -3.3838,
+      "lon": 29.3819,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "22 Avenue de la Culture",
+      "price": "Main dish: FBu 10,000–13,000 + rice FBu 4,500",
+      "id": "burundi-eca4614fad6935248273"
+    },
+    {
+      "name": "Le Belvédère",
+      "kind": "eat",
+      "locality": "Bujumbura",
+      "lat": -3.3907,
+      "lon": 29.3865,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "Avenue Belvédère",
+      "price": "main dish for FBu 25,000–30,000",
+      "id": "burundi-6255f42157bd612bbbff"
+    },
+    {
+      "name": "“Chez Vaya”",
+      "kind": "eat",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "url": "http://vayahotel.onlc.fr/",
+      "id": "burundi-2fd954b43f0accceb5c3"
+    },
+    {
+      "name": "Kiriri Garden",
+      "kind": "eat",
+      "locality": "Bujumbura",
+      "lat": -3.3909,
+      "lon": 29.3875,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "Ave Belvédère",
+      "url": "http://kiririgardenhotel.com/",
+      "id": "burundi-c80fddfa36a9069cb733"
+    },
+    {
+      "name": "Cercle de la Paix de Bujumbura",
+      "kind": "eat",
+      "locality": "Bujumbura",
+      "lat": -3.388,
+      "lon": 29.35,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "Avenue de la Plage",
+      "price": "meats FBu 12,000, fishes FBu 17,000",
+      "id": "burundi-54bcda54f549b3a0a86a"
+    },
+    {
+      "name": "Kiboko Grill, Ubuntu residence",
+      "kind": "eat",
+      "locality": "Bujumbura",
+      "lat": -3.3836,
+      "lon": 29.3506,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "3 Avenue de la Plage",
+      "price": "meats/fish: FBu 23,000, pizza: FBu 15,000",
+      "id": "burundi-78e7e8dd74ec10c9c47e"
+    },
+    {
+      "name": "Eden",
+      "kind": "eat",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "Ave de la Plage",
+      "id": "burundi-aca3b15b85c3cabd40e7"
+    },
+    {
+      "name": "Restaurant Tanganyika",
+      "kind": "eat",
+      "locality": "Bujumbura",
+      "lat": -3.3797,
+      "lon": 29.3482,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "1 Avenue de la Plage, BP 109",
+      "price": "Mains from FBu 18,000-25,000, Gambas reaches up to FBu 45,000",
+      "url": "http://www.tanganyikahotel.com/",
+      "id": "burundi-4a8179ce4af381490f8e"
+    },
+    {
+      "name": "Restaurant Hotel La Palmeraie",
+      "kind": "eat",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "id": "burundi-dfee831ba09cf0291840"
+    },
+    {
+      "name": "La Cervoise du Gaulois",
+      "kind": "eat",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "Rue Mutaho",
+      "id": "burundi-c45d5fbce13036f3e13d"
+    },
+    {
+      "name": "Coeur d'Afrique",
+      "kind": "eat",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "id": "burundi-e0ea0a0ed2a9e40e3829"
+    },
+    {
+      "name": "Hotel Club du Lac Tanganyika",
+      "kind": "stay",
+      "locality": "Bujumbura",
+      "lat": -3.3521,
+      "lon": 29.3195,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "RN4, Chaussee D'Uvira, BP 6573",
+      "url": "http://hotelclubdulac.com/",
+      "id": "burundi-5b60fde01faf5f70cdac"
+    },
+    {
+      "name": "Karera Beach Hotel",
+      "kind": "stay",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "id": "burundi-ffedeacd108e20b6818c"
+    },
+    {
+      "name": "Safari Gate",
+      "kind": "stay",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "Avenue du Large",
+      "price": "US$60-120",
+      "id": "burundi-67c3ec6fe88e312ebfef"
+    },
+    {
+      "name": "Ceprodilic",
+      "kind": "stay",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "Avenue du Commerce no 17",
+      "price": "FBu 30,000",
+      "id": "burundi-7bf31f0db1649e7abc00"
+    },
+    {
+      "name": "Hotel Pacific",
+      "kind": "stay",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "Avenue du Palmier no 6",
+      "price": "different room categories, rooms from FBu 35,000",
+      "id": "burundi-48312b999c4daa46a862"
+    },
+    {
+      "name": "Mess des Officiers",
+      "kind": "stay",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "Boulevard du 28 Novembre",
+      "price": "around US$10",
+      "id": "burundi-e7cabfe9d0a58840771a"
+    },
+    {
+      "name": "Camel Africa Hotel",
+      "kind": "stay",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "Bwiza 6 Ieme Avenue no 15",
+      "price": "FBu 35,000",
+      "url": "http://www.camelafricahotel.com/",
+      "id": "burundi-0c43725411004c6b7830"
+    },
+    {
+      "name": "Hotel Amahoro",
+      "kind": "stay",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "Av Industrial",
+      "price": "US$40-80",
+      "id": "burundi-a644270699ee8bc84222"
+    },
+    {
+      "name": "Roca Golf Hotel",
+      "kind": "stay",
+      "locality": "Bujumbura",
+      "lat": -3.376,
+      "lon": 29.3586,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "30 Boulevard de la Tanzanie, PO.6506, Rohero I",
+      "price": "US$200-300",
+      "url": "http://rocagolfhotel.bi/",
+      "id": "burundi-144c63c25500682bccb0"
+    },
+    {
+      "name": "Vaya Hotel",
+      "kind": "stay",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "url": "http://vayahotel.onlc.fr/",
+      "id": "burundi-28df66a6cadd6924d7b1"
+    },
+    {
+      "name": "Village Hotel",
+      "kind": "stay",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "id": "burundi-1adba7296d92f1f58a59"
+    },
+    {
+      "name": "Hotel Alexestel",
+      "kind": "stay",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "Avenue Makamba",
+      "price": "US$40-60",
+      "url": "http://alexestel.com/",
+      "id": "burundi-dadf07f101bb5e284e3a"
+    },
+    {
+      "name": "Hotel Alexestel, Nyakabiga",
+      "kind": "stay",
+      "locality": "Bujumbura",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "Avenue muyinga",
+      "price": "US$25-30",
+      "url": "http://alexestel.com/",
+      "id": "burundi-d593fdf999d1c218b656"
+    },
+    {
+      "name": "Best Outlook Hotel",
+      "kind": "stay",
+      "locality": "Bujumbura",
+      "lat": -3.3915,
+      "lon": 29.3883,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "address": "Kiriri hill, Chaussée Prince Louis Rwagasore",
+      "price": "US$80 double room only, US$150 half-board negotiable to $110",
+      "url": "http://www.bestoutlookhotelbdi.com/",
+      "id": "burundi-09977be135ac55e37a7c"
+    },
+    {
+      "name": "Bujumbura",
+      "kind": "area",
+      "locality": "Bujumbura",
+      "lat": -3.3825,
+      "lon": 29.361111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bujumbura",
+      "id": "burundi-50b78f9728bfc2da32c2"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 3 distinct public Wikivoyage source pages; attempted 3 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

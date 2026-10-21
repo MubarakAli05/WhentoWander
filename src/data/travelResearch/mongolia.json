@@ -1,0 +1,1258 @@
+{
+  "sources": [
+    {
+      "title": "Mongolia",
+      "url": "https://en.wikivoyage.org/wiki/Mongolia",
+      "checkedAt": "2026-10-21T08:14:43.766Z"
+    },
+    {
+      "title": "Ulaanbaatar",
+      "url": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "checkedAt": "2026-10-21T08:14:46.534Z"
+    },
+    {
+      "title": "Gobi",
+      "url": "https://en.wikivoyage.org/wiki/Gobi",
+      "checkedAt": "2026-10-21T08:14:49.320Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Ulaanbaatar",
+      "kind": "area",
+      "locality": "Mongolia",
+      "lat": 47.92,
+      "lon": 106.92,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mongolia",
+      "id": "mongolia-8ddedc75a089190659e0"
+    },
+    {
+      "name": "Choibalsan",
+      "kind": "area",
+      "locality": "Mongolia",
+      "lat": 48.078333,
+      "lon": 114.535,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mongolia",
+      "id": "mongolia-cc698c29f705fc24c692"
+    },
+    {
+      "name": "Erdenet",
+      "kind": "area",
+      "locality": "Mongolia",
+      "lat": 49.027778,
+      "lon": 104.044444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mongolia",
+      "id": "mongolia-3f5aedab3c63a3388491"
+    },
+    {
+      "name": "Hovd",
+      "kind": "area",
+      "locality": "Mongolia",
+      "lat": 48.004167,
+      "lon": 91.640556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mongolia",
+      "id": "mongolia-453e7e8f361f19ba93f7"
+    },
+    {
+      "name": "Karakorum",
+      "kind": "area",
+      "locality": "Mongolia",
+      "lat": 47.210278,
+      "lon": 102.847778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mongolia",
+      "id": "mongolia-b52fa4543bf8eddeca27"
+    },
+    {
+      "name": "Mörön",
+      "kind": "area",
+      "locality": "Mongolia",
+      "lat": 49.635556,
+      "lon": 100.155556,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mongolia",
+      "id": "mongolia-791d5a4b3cfd59563c62"
+    },
+    {
+      "name": "Ölgii",
+      "kind": "area",
+      "locality": "Mongolia",
+      "lat": 48.968333,
+      "lon": 89.968611,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mongolia",
+      "id": "mongolia-b668875c50bf722e671e"
+    },
+    {
+      "name": "Chinggis",
+      "kind": "area",
+      "locality": "Mongolia",
+      "lat": 47.323333,
+      "lon": 110.661111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mongolia",
+      "id": "mongolia-5ef04d9ef1892bc8b23e"
+    },
+    {
+      "name": "Tsetserleg",
+      "kind": "area",
+      "locality": "Mongolia",
+      "lat": 47.476944,
+      "lon": 101.450278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mongolia",
+      "id": "mongolia-cd57c296ff58420ffbaa"
+    },
+    {
+      "name": "Mountain Climbing",
+      "kind": "do",
+      "locality": "Mongolia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mongolia",
+      "address": "All over Mongolia",
+      "id": "mongolia-ec49042bbbad2464c565"
+    },
+    {
+      "name": "Join Kazakh eagle hunters on a hunt",
+      "kind": "do",
+      "locality": "Mongolia",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Mongolia",
+      "address": "In Western Mongolia",
+      "id": "mongolia-0c94f757460aa524a24f"
+    },
+    {
+      "name": "Choijin Lama Monastery",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91475,
+      "lon": 106.91843,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "8000₮, students 3000₮, children 1500₮, photography fee 50,000₮",
+      "url": "http://www.templemuseum.mn/welcome",
+      "id": "mongolia-9b462c1c0bf253fbf68e"
+    },
+    {
+      "name": "Gandantegchinlen Monastery",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.92248,
+      "lon": 106.89534,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "4000₮",
+      "id": "mongolia-6e673e7d11762cc50d92"
+    },
+    {
+      "name": "Bogd Khan Winter Palace Museum",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.89666,
+      "lon": 106.90783,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "Admission 8000₮, 50,000₮ photography fee",
+      "id": "mongolia-95fceb466cffd9ed39f3"
+    },
+    {
+      "name": "Chinggis Khaan National Museum",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.922528,
+      "lon": 106.914917,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "address": "J. Sambuu's street, 4th khoroo, Chingeltei District",
+      "price": "Adult 30000₮, student/senior/child/disabled 15000₮",
+      "url": "https://chinggismuseum.com/en",
+      "id": "mongolia-adf86adea710661f25d1"
+    },
+    {
+      "name": "International Intellectual Museum",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91746,
+      "lon": 106.94172,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "Admission for non_Mongolians 15,000₮, children 500₮",
+      "url": "http://www.iqmuseum.mn/",
+      "id": "mongolia-fd42724f9d4d575322c2"
+    },
+    {
+      "name": "Natural History Museum",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.9233,
+      "lon": 106.9059,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "Admission 2000₮",
+      "id": "mongolia-4cf770019dabbad02f5b"
+    },
+    {
+      "name": "National Museum of Mongolia",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.92036,
+      "lon": 106.91538,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "Adult 20,000₮, student 10,000₮, photography fee 12,000₮",
+      "url": "http://nationalmuseum.mn/",
+      "id": "mongolia-32bf506be7da9d4eccb8"
+    },
+    {
+      "name": "Marshall Zhukov House Museum",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.917972,
+      "lon": 106.953,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "address": "Peace Avenue",
+      "id": "mongolia-a5ff955572efeb5767a7"
+    },
+    {
+      "name": "Ulaanbaatar City Museum",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91806,
+      "lon": 106.93583,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "address": "Peace Avenue",
+      "id": "mongolia-8c924f908548502b16ce"
+    },
+    {
+      "name": "Mongolian Military Museum",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.9226,
+      "lon": 106.9533,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "id": "mongolia-df2e21d8cb1fcfd32df3"
+    },
+    {
+      "name": "Roerich's Shambala Museum",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.917889,
+      "lon": 106.956861,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "url": "http://www.roerichmongolia.org/house_project.html",
+      "id": "mongolia-1d0ae205953e651ea63e"
+    },
+    {
+      "name": "UBTZ History Museum",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.912231,
+      "lon": 106.885782,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "id": "mongolia-de00d63c33a0e9fc6060"
+    },
+    {
+      "name": "National Art Gallery of Mongolia",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91961,
+      "lon": 106.92109,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "Admission 2000₮, students 1000₮, children 500₮",
+      "url": "http://www.art-gallery.mn/mn",
+      "id": "mongolia-4450b7814e882fc34712"
+    },
+    {
+      "name": "The Fine Arts Zanabazar Museum",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.92013,
+      "lon": 106.90911,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "Admission 5000₮",
+      "url": "http://www.zanabazarmuseum.mn/",
+      "id": "mongolia-efcb83961e8e88a11b20"
+    },
+    {
+      "name": "Mongolian Art Center for Children's Creativity",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.926788,
+      "lon": 106.916114,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "id": "mongolia-44f1bdc965659be0047b"
+    },
+    {
+      "name": "Mongol Art Gallery",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.904528,
+      "lon": 106.948806,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "address": "Dunjingarav Street",
+      "id": "mongolia-cb0fe562b3294270c589"
+    },
+    {
+      "name": "Russian Science and Culture Center",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.92625,
+      "lon": 106.935278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "address": "Tokyo Street",
+      "price": "free",
+      "url": "https://mongolia.rs.gov.ru/",
+      "id": "mongolia-a7dbf44bbe8f7e87ffad"
+    },
+    {
+      "name": "Art House Center",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.920312,
+      "lon": 106.907411,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "url": "https://www.facebook.com/arthouse.mongolia/",
+      "id": "mongolia-40dc404c2ef235e7cea1"
+    },
+    {
+      "name": "Sükhbaatar Square",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91898,
+      "lon": 106.91777,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "id": "mongolia-a3cf82ddf8261e9e895c"
+    },
+    {
+      "name": "Monument to Marshal Georgy Zhukov",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.918167,
+      "lon": 106.952444,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "id": "mongolia-03ed7ad50603024be524"
+    },
+    {
+      "name": "Zaisan Memorial",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.885,
+      "lon": 106.91564,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "id": "mongolia-025bd44ae0c6b2b916d6"
+    },
+    {
+      "name": "Friendship Railways Height",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.909418,
+      "lon": 106.883918,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "id": "mongolia-6c776f390f7ae075e4a8"
+    },
+    {
+      "name": "Mongolia National Broadcaster",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.92907,
+      "lon": 106.88981,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "address": "khuvisglayn zam 3, 11th khoroo, Bayangol district",
+      "url": "https://www.mnb.mn/live",
+      "id": "mongolia-056683d99426fc008f37"
+    },
+    {
+      "name": "National Garden Park",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.898528,
+      "lon": 106.947667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "address": "Bayanzürkh",
+      "id": "mongolia-35a51cfee8b04ad14fd3"
+    },
+    {
+      "name": "Ulaanbaatar Park",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.909162,
+      "lon": 106.916782,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "address": "corner of Narnii Road and Chinggis Khan Avenue",
+      "id": "mongolia-f558c9a4de6ad2a3a864"
+    },
+    {
+      "name": "Yavuuhulan Garden",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.918333,
+      "lon": 106.909111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "address": "Noyon Hutagt Danzanravjaa Street",
+      "id": "mongolia-94e218aff2e2a3fc130c"
+    },
+    {
+      "name": "Korea-Mongolia Friendship Forest",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.984333,
+      "lon": 106.949694,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "address": "Dambadarjaa Street, Sükhbaatar",
+      "id": "mongolia-a8d32fd5e1ab3166dba4"
+    },
+    {
+      "name": "Amgalan Botanical Garden",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.910082,
+      "lon": 107.000472,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "id": "mongolia-37eba07fa80be5a46223"
+    },
+    {
+      "name": "Günjiin Nüden Lake",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.949191,
+      "lon": 106.838245,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "id": "mongolia-8d0179b946e346e741f1"
+    },
+    {
+      "name": "Sky Resort",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.8728,
+      "lon": 107.04537,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "Under US$20",
+      "url": "https://m.facebook.com/skyresortofficial/",
+      "id": "mongolia-77e38c7aea5c54962048"
+    },
+    {
+      "name": "Bogd Khan Mountain",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.803889,
+      "lon": 106.986389,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "id": "mongolia-475d4d4978a4358c3cf1"
+    },
+    {
+      "name": "Naadam",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "id": "mongolia-fe108fe95c7b4c799b08"
+    },
+    {
+      "name": "National Sports Stadium",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.90258,
+      "lon": 106.91538,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "id": "mongolia-f2104068361c6a223e5d"
+    },
+    {
+      "name": "Playtime Festival",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "url": "https://playtimefestival.com/home_eng",
+      "id": "mongolia-a742aeaf5381bad3b531"
+    },
+    {
+      "name": "National Academic Drama Theater",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91507,
+      "lon": 106.91473,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "id": "mongolia-1353316e6b9794ddeff0"
+    },
+    {
+      "name": "ASA Arena",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91206,
+      "lon": 106.90776,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "id": "mongolia-f8efb43b49fcf832bc1e"
+    },
+    {
+      "name": "State Opera and Ballet Theater",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91843,
+      "lon": 106.91924,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "address": "Sükhbaatar Square",
+      "url": "http://www.opera-ballet.mn/",
+      "id": "mongolia-f22bdbed98237658fadc"
+    },
+    {
+      "name": "Tumen Ekh",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91277,
+      "lon": 106.91609,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "30,000₮",
+      "url": "https://tumen-ekh.mn/",
+      "id": "mongolia-c9a3f587879a77f9eaa4"
+    },
+    {
+      "name": "Mongolian Theatre Museum",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.9199,
+      "lon": 106.9195,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "address": "Amar St",
+      "url": "https://mongoliantheatremuseum.com/",
+      "id": "mongolia-57692be457dc59fcc1ce"
+    },
+    {
+      "name": "Wrestling Palace",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.917917,
+      "lon": 106.935278,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "address": "Bayanzürkh",
+      "id": "mongolia-1abc5bd6c4a82e230be9"
+    },
+    {
+      "name": "Ganzam Palace",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.915134,
+      "lon": 106.885202,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "address": "Peace Avenue",
+      "id": "mongolia-05d3b5ef9ad26fdc85da"
+    },
+    {
+      "name": "HUN Theater",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.879228,
+      "lon": 107.042646,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "address": "Sky Resort Road",
+      "url": "https://www.facebook.com/HUNTheatre/",
+      "id": "mongolia-4f6b23e3bf627e0ed252"
+    },
+    {
+      "name": "Youth Theater",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.936977,
+      "lon": 106.813443,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "url": "http://youththeatre.mn/",
+      "id": "mongolia-97907e423d37ff91aa9f"
+    },
+    {
+      "name": "AIC Steppe Arena",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.847555,
+      "lon": 106.793059,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "url": "https://steppearena.mn/",
+      "id": "mongolia-b1fd1df9178cbb41f713"
+    },
+    {
+      "name": "Buyant Ukhaa Sport Palace",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.85444,
+      "lon": 106.78417,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "address": "Ulziit Road",
+      "url": "http://www.sport.gov.mn/",
+      "id": "mongolia-9936bd792708686e8a5c"
+    },
+    {
+      "name": "UG Arena",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.904667,
+      "lon": 106.899266,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "url": "https://ugarena.mn/",
+      "id": "mongolia-a5ffeeb9966c10e6a253"
+    },
+    {
+      "name": "National Amusement Park",
+      "kind": "do",
+      "locality": "Ulaanbaatar",
+      "lat": 47.90842,
+      "lon": 106.9237,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "url": "https://www.facebook.com/park.mongolia",
+      "id": "mongolia-156addee3d4a506b7ba5"
+    },
+    {
+      "name": "Luna Blanca",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91981,
+      "lon": 106.91393,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "Around 4000₮ (Feb 2018)",
+      "url": "https://www.facebook.com/LunaBlancaRestaurant/",
+      "id": "mongolia-aabbc0c9bc7e90939774"
+    },
+    {
+      "name": "Vegan House Cafe",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "id": "mongolia-7ad220d4dceecac95549"
+    },
+    {
+      "name": "Loving Hut - Barilgachdyn Talbai",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "id": "mongolia-403e7b2963e7b4129919"
+    },
+    {
+      "name": "Agnista Vegan Food",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "address": "706 Seoul St",
+      "id": "mongolia-7c32f0793c95bad224ff"
+    },
+    {
+      "name": "Bosco Verde",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "id": "mongolia-90bfa9cb9741e26f17ec"
+    },
+    {
+      "name": "Papa Cafe",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91908,
+      "lon": 106.93987,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "address": "Их Монгол Улсын гудамж",
+      "price": "4000-7000₮",
+      "id": "mongolia-5660f61fb7c56977821c"
+    },
+    {
+      "name": "Chinggis Club",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "lat": 47.92653,
+      "lon": 106.91445,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "US$10",
+      "id": "mongolia-0a56f848701ea6eaaf96"
+    },
+    {
+      "name": "Hishig Mongol Zoog",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "lat": 47.913,
+      "lon": 106.86367,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "US$6-10",
+      "id": "mongolia-a9a3bb98b192600113d4"
+    },
+    {
+      "name": "Millie's Espresso",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91433,
+      "lon": 106.9179,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "US$10",
+      "url": "https://www.facebook.com/Millies-Espresso-195142818141/",
+      "id": "mongolia-64fbc7778415d5850149"
+    },
+    {
+      "name": "Nayra Cafe",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91991,
+      "lon": 106.90754,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "Most under 8000₮",
+      "url": "https://www.facebook.com/pages/Nayra-Cafe/184137758298553",
+      "id": "mongolia-30b7b28297149c1a23c9"
+    },
+    {
+      "name": "Modern Nomads",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "lat": 47.9138,
+      "lon": 106.9218,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "url": "http://www.modernnomads.mn/index.php?r=1&lang=en",
+      "id": "mongolia-0aff3f2c582b8dfe6891"
+    },
+    {
+      "name": "Hurrem Sultan Restaurant",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "lat": 47.904976,
+      "lon": 106.911325,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "address": "Chinggis Khan Avenue",
+      "id": "mongolia-82b34899bbc44f827730"
+    },
+    {
+      "name": "Pakistani & Indian Cuisine",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "lat": 47.918296,
+      "lon": 106.907029,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "address": "Baruun Selbe Street",
+      "url": "https://www.facebook.com/Halalfoodrestaurantmn",
+      "id": "mongolia-ac8aaffd1dc77ae998bd"
+    },
+    {
+      "name": "Kebab & Curry Indian Restaurant",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "lat": 47.904049,
+      "lon": 106.911058,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "address": "Chinggis Khan Avenue",
+      "id": "mongolia-dee699ba098c81b87b96"
+    },
+    {
+      "name": "Lanzhou Beef Noodles",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "id": "mongolia-449954fe0401659dbe57"
+    },
+    {
+      "name": "Lale Restaurant",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "lat": 47.925556,
+      "lon": 106.892034,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "address": "Mongolian National University, L. Enebish Avenue",
+      "id": "mongolia-721ef72f56a3b28756c4"
+    },
+    {
+      "name": "California Restaurant",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91296,
+      "lon": 106.90093,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "10,000-30,000₮ per meal",
+      "id": "mongolia-4e2f3419ac94f67b98f7"
+    },
+    {
+      "name": "Hazara North Indian Restaurant",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91728,
+      "lon": 106.93516,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "From 10,000 ₮",
+      "url": "http://hazara.mn/",
+      "id": "mongolia-a696a23c66d91cf8b979"
+    },
+    {
+      "name": "Los Bandidos",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "lat": 47.92601,
+      "lon": 106.91809,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "US$7-10",
+      "id": "mongolia-47f30b2cb472707e3dbc"
+    },
+    {
+      "name": "Namaste Indian Restaurant",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "lat": 47.92419,
+      "lon": 106.93752,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "20,000₮",
+      "url": "http://namaste.mn/",
+      "id": "mongolia-a3b423b79693dcc25fca"
+    },
+    {
+      "name": "Turning Point Cafe",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "lat": 47.915,
+      "lon": 106.90708,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "Sandwiches for 12,000₮",
+      "id": "mongolia-72b961cedb3140f33ea1"
+    },
+    {
+      "name": "Ambrosia Restaurant",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91343,
+      "lon": 106.91548,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "3000₮ for a beer",
+      "url": "https://www.facebook.com/ambrosiaeventhall/",
+      "id": "mongolia-6bd7ee7816a8ccef613a"
+    },
+    {
+      "name": "Ikh Mongol",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91322,
+      "lon": 106.90792,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "3500₮ a half-liter and up",
+      "id": "mongolia-486c6938a06fb33a6fe6"
+    },
+    {
+      "name": "Mass",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91953,
+      "lon": 106.87466,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "url": "https://www.facebook.com/pages/Mass-Night-Club/263191093695809",
+      "id": "mongolia-077331bc528c722d8d2b"
+    },
+    {
+      "name": "Strings",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91827,
+      "lon": 106.88992,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "url": "https://www.facebook.com/pages/Strings/208178542535499",
+      "id": "mongolia-518d11b9d335873342c6"
+    },
+    {
+      "name": "Choco Metropolis Club",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "lat": 47.912947,
+      "lon": 106.903691,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "address": "11th floor, Seoul Plaza, Seoul Street, Sükhbaatar",
+      "url": "https://www.facebook.com/Chococlubub/",
+      "id": "mongolia-9bb6ea22963dc4df7bea"
+    },
+    {
+      "name": "Le Bistrot Francais",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "lat": 47.92385,
+      "lon": 106.91794,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "url": "https://www.facebook.com/bistrotfrancaisUB",
+      "id": "mongolia-26f7465d42b613f889ac"
+    },
+    {
+      "name": "Brauhaus",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91302,
+      "lon": 106.90284,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "Half-liters run around 2500₮",
+      "id": "mongolia-28d1268e5292d708f894"
+    },
+    {
+      "name": "Dublin Irish Pub",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91377,
+      "lon": 106.90632,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "id": "mongolia-30ec19a7e14b48014d73"
+    },
+    {
+      "name": "Grand Khaan Irish Pub",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91529,
+      "lon": 106.9142,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "4000₮ for a beer, 15,000₮ for a meal",
+      "url": "https://gk-irishpub.mn/?lang=en",
+      "id": "mongolia-4a7fd8bc1fa30cfd8ef4"
+    },
+    {
+      "name": "ROC Caffeine Bar",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "url": "https://roc.mn/",
+      "id": "mongolia-a8da3743fc49462c65b2"
+    },
+    {
+      "name": "Caffe Bene",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "url": "https://www.caffebene.mn/",
+      "id": "mongolia-931b278eb2c69c4302a4"
+    },
+    {
+      "name": "Tom N Toms Coffee",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "url": "https://www.facebook.com/profile.php?id=100079466408969",
+      "id": "mongolia-59a03c145b03dcdc3027"
+    },
+    {
+      "name": "Tous Les Jours",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "url": "https://www.facebook.com/TousLesJoursMongolia/",
+      "id": "mongolia-918ca6cb928072f559f2"
+    },
+    {
+      "name": "Cafe de Lolita",
+      "kind": "eat",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91875,
+      "lon": 106.905361,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "address": "Chingeltei",
+      "url": "https://www.facebook.com/cafe.de.lolitaa",
+      "id": "mongolia-b3d33928117e75845370"
+    },
+    {
+      "name": "Bolod's Guesthouse and Tours",
+      "kind": "stay",
+      "locality": "Ulaanbaatar",
+      "lat": 47.9217,
+      "lon": 106.90575,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "US$7/night",
+      "url": "http://bolodtours.com/",
+      "id": "mongolia-535dc5c84f5ff04cf9e6"
+    },
+    {
+      "name": "Chinggis Guest House and Tours",
+      "kind": "stay",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91492,
+      "lon": 106.90604,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "Dorm US$8, double or twin US$10",
+      "id": "mongolia-813904a4ecda753b6653"
+    },
+    {
+      "name": "Gana's Guesthouse",
+      "kind": "stay",
+      "locality": "Ulaanbaatar",
+      "lat": 47.9216,
+      "lon": 106.8991,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "From US$5 in a 6-bed ger to $25 for a double in the newly built wing",
+      "id": "mongolia-3a14fd7ffc59896e4fe2"
+    },
+    {
+      "name": "Golden Gobi",
+      "kind": "stay",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91756,
+      "lon": 106.90815,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "Dorms US$6, private rooms from $19",
+      "id": "mongolia-93167418a0349534ad54"
+    },
+    {
+      "name": "Green Steppe Mongolia Guest House",
+      "kind": "stay",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91735,
+      "lon": 106.90871,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "US$6/night",
+      "id": "mongolia-fa7f776b793ac44877bf"
+    },
+    {
+      "name": "Idre's Guesthouse",
+      "kind": "stay",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91121,
+      "lon": 106.89446,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "url": "https://tours2mongolia.com/",
+      "id": "mongolia-c55e3f6e634cf582957b"
+    },
+    {
+      "name": "Lotus Guesthouse",
+      "kind": "stay",
+      "locality": "Ulaanbaatar",
+      "lat": 47.92448,
+      "lon": 106.91208,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "US$10-30/night",
+      "url": "http://www.lotuschild.org/",
+      "id": "mongolia-1a56a2612ac988a04fe6"
+    },
+    {
+      "name": "Oasis Guesthouse",
+      "kind": "stay",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91177,
+      "lon": 106.98095,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "€10",
+      "url": "http://intergam-oasis.com/",
+      "id": "mongolia-095289ae3fbfdad943fe"
+    },
+    {
+      "name": "Petite Marmotte",
+      "kind": "stay",
+      "locality": "Ulaanbaatar",
+      "lat": 47.9286,
+      "lon": 106.9159,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "Bed dorm €5; double room €15; family room €25 (4 to 6 people)",
+      "url": "http://mongolia-trip.com/",
+      "id": "mongolia-ccd3a1901b0e65829dad"
+    },
+    {
+      "name": "Sunpath Hostel",
+      "kind": "stay",
+      "locality": "Ulaanbaatar",
+      "lat": 47.92461,
+      "lon": 106.91266,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "US$6/night",
+      "url": "http://sunpath-mongolia.com/",
+      "id": "mongolia-16f73ffaec656acb97dc"
+    },
+    {
+      "name": "Town Yard Hostel",
+      "kind": "stay",
+      "locality": "Ulaanbaatar",
+      "lat": 47.919989,
+      "lon": 106.893853,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "id": "mongolia-01c8f5e605b37079b0d3"
+    },
+    {
+      "name": "UB Guesthouse",
+      "kind": "stay",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91936,
+      "lon": 106.91095,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "Dorm beds US$6; single room $15; twin room $18; double room $20",
+      "url": "http://www.ubguesthouse.com/",
+      "id": "mongolia-dfd240927a07cf9e299a"
+    },
+    {
+      "name": "Zaya Guesthouse",
+      "kind": "stay",
+      "locality": "Ulaanbaatar",
+      "lat": 47.9167,
+      "lon": 106.90169,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "US$20 for a single and US$27 for a double room",
+      "url": "http://zayahostel.com/",
+      "id": "mongolia-0317829f0f7574b7e9ee"
+    },
+    {
+      "name": "Mandukhai Hotel",
+      "kind": "stay",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91758,
+      "lon": 106.90362,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "20,000-25,000₮/night",
+      "id": "mongolia-cf67f6c8d931533a7672"
+    },
+    {
+      "name": "Royal House Hotel",
+      "kind": "stay",
+      "locality": "Ulaanbaatar",
+      "lat": 47.915148,
+      "lon": 106.944512,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "url": "http://www.royalhousehotel.mn/",
+      "id": "mongolia-749ded370f1f5191388b"
+    },
+    {
+      "name": "ibis Styles Ulaanbaatar Polaris",
+      "kind": "stay",
+      "locality": "Ulaanbaatar",
+      "lat": 47.895156,
+      "lon": 106.883866,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "address": "81 Chinggis Avenue, Khan-Uul",
+      "price": "Double US$120",
+      "url": "https://all.accor.com/hotel/9808/index.ru.shtml",
+      "id": "mongolia-41f220b52c03f140e703"
+    },
+    {
+      "name": "Bayangol Hotel",
+      "kind": "stay",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91203,
+      "lon": 106.91365,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "url": "http://bayangolhotel.mn/",
+      "id": "mongolia-68ceb6ee4038c6630b6b"
+    },
+    {
+      "name": "Blue Sky Hotel and Tower",
+      "kind": "stay",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91674,
+      "lon": 106.91851,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "From US$200",
+      "url": "http://hotelbluesky.mn/",
+      "id": "mongolia-47a906577e4bf4868701"
+    },
+    {
+      "name": "Chinggis Khaan Hotel",
+      "kind": "stay",
+      "locality": "Ulaanbaatar",
+      "lat": 47.922101,
+      "lon": 106.934609,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "url": "http://www.chinggis-hotel.com/",
+      "id": "mongolia-6e7818f8ea14c05f0429"
+    },
+    {
+      "name": "Corporate Hotel",
+      "kind": "stay",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91299,
+      "lon": 106.91355,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "url": "http://www.corporatehotel.mn/sector/sector-1",
+      "id": "mongolia-4f9118ffe13c158c6783"
+    },
+    {
+      "name": "HS Khaan Resort Hotel",
+      "kind": "stay",
+      "locality": "Ulaanbaatar",
+      "lat": 47.971077,
+      "lon": 106.480045,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "address": "Khui doloon hudag, Argalant soum",
+      "url": "http://hs-khaan-resort.com/",
+      "id": "mongolia-ec6bbcee789ef2795990"
+    },
+    {
+      "name": "Kempinski Hotel",
+      "kind": "stay",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91982,
+      "lon": 106.94365,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "url": "http://www.kempinski.com/en/ulaanbaatar/hotel-khan-palace/welcome/",
+      "id": "mongolia-fa2fab02426c4c72e76c"
+    },
+    {
+      "name": "Ramada Citycenter",
+      "kind": "stay",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91519,
+      "lon": 106.89188,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "From US$200/night",
+      "url": "https://www.wyndhamhotels.com/ramada/ulaanbaatar-mongolia/ramada-ulaanbaatar-citycenter/overview",
+      "id": "mongolia-894fe5d8a67d27fc46d5"
+    },
+    {
+      "name": "Shangri-La Hotel",
+      "kind": "stay",
+      "locality": "Ulaanbaatar",
+      "lat": 47.912953,
+      "lon": 106.920231,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "price": "From US$440/night",
+      "url": "http://www.shangri-la.com/ulaanbaatar/shangrila/",
+      "id": "mongolia-f0ec0aa08e8992b7d0fa"
+    },
+    {
+      "name": "Ulaanbaatar Hotel",
+      "kind": "stay",
+      "locality": "Ulaanbaatar",
+      "lat": 47.91862,
+      "lon": 106.92266,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "url": "http://ubhotel.mn/",
+      "id": "mongolia-9b6b083e079080a1f9e9"
+    },
+    {
+      "name": "Mongolica Hotel and Resort",
+      "kind": "stay",
+      "locality": "Ulaanbaatar",
+      "lat": 47.860788,
+      "lon": 106.678861,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "url": "https://www.facebook.com/mongolica.resort/",
+      "id": "mongolia-3b917a75837288d92098"
+    },
+    {
+      "name": "Ulaanbaatar",
+      "kind": "area",
+      "locality": "Ulaanbaatar",
+      "lat": 47.92,
+      "lon": 106.92,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Ulaanbaatar",
+      "id": "mongolia-242e99f853429832f994"
+    },
+    {
+      "name": "Altai",
+      "kind": "area",
+      "locality": "Gobi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gobi",
+      "id": "mongolia-670aa5f8ba0f79ffd326"
+    },
+    {
+      "name": "Bayanhongor",
+      "kind": "area",
+      "locality": "Gobi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gobi",
+      "id": "mongolia-32098e4b7a8f35f50e71"
+    },
+    {
+      "name": "Dalanzadgad",
+      "kind": "area",
+      "locality": "Gobi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gobi",
+      "id": "mongolia-88cf60c5f88547a706a4"
+    },
+    {
+      "name": "Mandalgovĭ",
+      "kind": "area",
+      "locality": "Gobi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gobi",
+      "id": "mongolia-ad26fe209b847cca757c"
+    },
+    {
+      "name": "Sainshand",
+      "kind": "area",
+      "locality": "Gobi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gobi",
+      "id": "mongolia-d82557af5a1a3aa2e002"
+    },
+    {
+      "name": "Zamiin-Uud",
+      "kind": "area",
+      "locality": "Gobi",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gobi",
+      "id": "mongolia-5351316e34fdde4cb4f5"
+    },
+    {
+      "name": "Gobi",
+      "kind": "area",
+      "locality": "Gobi",
+      "lat": 45.213,
+      "lon": 102.34863,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Gobi",
+      "id": "mongolia-9d009f3420e76f9fc904"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 3 distinct public Wikivoyage source pages; attempted 3 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks. Destination article routing (regional/landmark guides may use a nearby gateway): Gobi Desert → Gobi."
+}

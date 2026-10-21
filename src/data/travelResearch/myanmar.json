@@ -1,0 +1,925 @@
+{
+  "sources": [
+    {
+      "title": "Myanmar",
+      "url": "https://en.wikivoyage.org/wiki/Myanmar",
+      "checkedAt": "2026-10-21T08:06:18.881Z"
+    },
+    {
+      "title": "Naypyidaw",
+      "url": "https://en.wikivoyage.org/wiki/Naypyidaw",
+      "checkedAt": "2026-10-21T08:06:21.184Z"
+    },
+    {
+      "title": "Bagan",
+      "url": "https://en.wikivoyage.org/wiki/Bagan",
+      "checkedAt": "2026-10-21T08:06:24.286Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Naypyidaw",
+      "kind": "area",
+      "locality": "Myanmar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Myanmar",
+      "id": "myanmar-8783e1060105441fe2cd"
+    },
+    {
+      "name": "Bago",
+      "kind": "area",
+      "locality": "Myanmar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Myanmar",
+      "id": "myanmar-09dc1e2c780ce9844e17"
+    },
+    {
+      "name": "Kawthaung",
+      "kind": "area",
+      "locality": "Myanmar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Myanmar",
+      "id": "myanmar-a782e072b2d60a778401"
+    },
+    {
+      "name": "Mandalay",
+      "kind": "area",
+      "locality": "Myanmar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Myanmar",
+      "id": "myanmar-677de596d6b397692901"
+    },
+    {
+      "name": "Mawlamyine",
+      "kind": "area",
+      "locality": "Myanmar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Myanmar",
+      "id": "myanmar-2b087e5cc8e14a3f9ecf"
+    },
+    {
+      "name": "Pyin U Lwin",
+      "kind": "area",
+      "locality": "Myanmar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Myanmar",
+      "id": "myanmar-be57f91657a5f7b9cd29"
+    },
+    {
+      "name": "Taunggyi",
+      "kind": "area",
+      "locality": "Myanmar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Myanmar",
+      "id": "myanmar-4ae87d16d89d0df012ca"
+    },
+    {
+      "name": "Twante",
+      "kind": "area",
+      "locality": "Myanmar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Myanmar",
+      "id": "myanmar-58fceb6d024fb7678f5f"
+    },
+    {
+      "name": "Yangon",
+      "kind": "area",
+      "locality": "Myanmar",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Myanmar",
+      "id": "myanmar-0ba09771ff7143ee6d18"
+    },
+    {
+      "name": "Defence Services Museum",
+      "kind": "do",
+      "locality": "Naypyidaw",
+      "lat": 19.89915,
+      "lon": 96.255809,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Naypyidaw",
+      "address": "Zeyathiri Township",
+      "price": "Free",
+      "id": "myanmar-6007d4c194c6f0925929"
+    },
+    {
+      "name": "Gems Museum",
+      "kind": "do",
+      "locality": "Naypyidaw",
+      "lat": 19.743894,
+      "lon": 96.11582,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Naypyidaw",
+      "id": "myanmar-033411e2d4296ace8903"
+    },
+    {
+      "name": "King Statues",
+      "kind": "do",
+      "locality": "Naypyidaw",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Naypyidaw",
+      "id": "myanmar-847d4041f4e7cb69a217"
+    },
+    {
+      "name": "National Herbal Park",
+      "kind": "do",
+      "locality": "Naypyidaw",
+      "lat": 19.749519,
+      "lon": 96.107931,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Naypyidaw",
+      "price": "Free",
+      "id": "myanmar-75bbd7c01a4e95d55666"
+    },
+    {
+      "name": "Naypyidaw Safari Park",
+      "kind": "do",
+      "locality": "Naypyidaw",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Naypyidaw",
+      "id": "myanmar-d5e20f60c54699b8f84c"
+    },
+    {
+      "name": "National Museum",
+      "kind": "do",
+      "locality": "Naypyidaw",
+      "lat": 19.777352,
+      "lon": 96.141488,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Naypyidaw",
+      "price": "5000 kyats",
+      "id": "myanmar-2eed7edfd1db0121629c"
+    },
+    {
+      "name": "Uppatasanti Pagoda",
+      "kind": "do",
+      "locality": "Naypyidaw",
+      "lat": 19.77115,
+      "lon": 96.182989,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Naypyidaw",
+      "id": "myanmar-33688b646c7f1d8108c9"
+    },
+    {
+      "name": "City Park",
+      "kind": "do",
+      "locality": "Naypyidaw",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Naypyidaw",
+      "id": "myanmar-c3b4d4c736388a086f51"
+    },
+    {
+      "name": "Golf",
+      "kind": "do",
+      "locality": "Naypyidaw",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Naypyidaw",
+      "id": "myanmar-0eef7d4e892c72fe0196"
+    },
+    {
+      "name": "Ngalaik Lake Gardens",
+      "kind": "do",
+      "locality": "Naypyidaw",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Naypyidaw",
+      "id": "myanmar-1eac92be13ced640d5c1"
+    },
+    {
+      "name": "Satori Japanese Restaurant Naypyitaw",
+      "kind": "eat",
+      "locality": "Naypyidaw",
+      "lat": 19.72922,
+      "lon": 96.10395,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Naypyidaw",
+      "address": "Myat Pan Thazin St, နေပြည်တော်",
+      "url": "https://www.facebook.com/Satori-Japanese-Restaurant-Naypyitaw-105999944838944/",
+      "id": "myanmar-468508f93a7a344437a1"
+    },
+    {
+      "name": "Vegas Hotel - Nay Pyi Taw",
+      "kind": "stay",
+      "locality": "Naypyidaw",
+      "lat": 19.696067,
+      "lon": 96.120653,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Naypyidaw",
+      "address": "DC001 - National Guest House Road - Dekkhina Thiri Township",
+      "price": "Starting from US$25",
+      "url": "https://www.facebook.com/vegashotelnaypyitaw",
+      "id": "myanmar-df194add8f96fcab7cd4"
+    },
+    {
+      "name": "Naypyidaw",
+      "kind": "area",
+      "locality": "Naypyidaw",
+      "lat": 19.75,
+      "lon": 96.1,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Naypyidaw",
+      "id": "myanmar-3eb6d01378f093fa2d8c"
+    },
+    {
+      "name": "New Bagan",
+      "kind": "area",
+      "locality": "Bagan",
+      "lat": 21.13242,
+      "lon": 94.86127,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-a69e34b135804f81d38f"
+    },
+    {
+      "name": "Nyaung U",
+      "kind": "area",
+      "locality": "Bagan",
+      "lat": 21.194715,
+      "lon": 94.906688,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-3913f51ec48b7b728ae6"
+    },
+    {
+      "name": "Old Bagan",
+      "kind": "area",
+      "locality": "Bagan",
+      "lat": 21.173573,
+      "lon": 94.863181,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-f5b2c9b5c8311f269e4c"
+    },
+    {
+      "name": "Kyauk Padaung",
+      "kind": "area",
+      "locality": "Bagan",
+      "lat": 20.835329,
+      "lon": 95.124734,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-a0bbdf36f2930b48499a"
+    },
+    {
+      "name": "Ananda Temple",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.170903,
+      "lon": 94.867713,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-37466aebe779fc73dd0f"
+    },
+    {
+      "name": "Dhamma Yangyi Temple",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.162281,
+      "lon": 94.872892,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-bdc385e5985b56a02e19"
+    },
+    {
+      "name": "Manuhar Pagoda",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.153324,
+      "lon": 94.859368,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-06b0446afbb325b2e0d8"
+    },
+    {
+      "name": "Htilominlo Temple",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.17872,
+      "lon": 94.879308,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-2cc592d4df60c46cb1ee"
+    },
+    {
+      "name": "Shwe Gugyi Temple",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.170837,
+      "lon": 94.862423,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-c810850632747814c6c1"
+    },
+    {
+      "name": "Shwe Zigon Temple",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.195339,
+      "lon": 94.893923,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-fa59d110e1fd4d348ff3"
+    },
+    {
+      "name": "That Byin Nyu Temple",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.1688,
+      "lon": 94.8629,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "address": "Anawrahta Road",
+      "url": "http://www.baganmyanmar.com/bagan-pagodas-temples/bagan-temples/53-that-byin-nyu-temple.html",
+      "id": "myanmar-96333bd42b03d1c4028f"
+    },
+    {
+      "name": "Shwesandaw Pagoda",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.163823,
+      "lon": 94.86608,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-3f68f55aab04a2dd80bd"
+    },
+    {
+      "name": "Gawdaw Palin Temple",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.17002,
+      "lon": 94.856704,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-b46da166ad4c870d69bf"
+    },
+    {
+      "name": "Myazedi Pagoda and Gu Byauk Gyi temple (west)",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.1573962,
+      "lon": 94.8604724,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-dd073445357e05ea2319"
+    },
+    {
+      "name": "Law Ka Ou Shaung Temple",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.162208,
+      "lon": 94.863199,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-820d39c3691b394812fd"
+    },
+    {
+      "name": "Pathada Temple",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.16536,
+      "lon": 94.862712,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-9678023424a37239c653"
+    },
+    {
+      "name": "Dhammayazika Pagoda",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.145086,
+      "lon": 94.883423,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-d3e7fc7f034f620d271c"
+    },
+    {
+      "name": "Bu Paya Stupa",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.176339,
+      "lon": 94.857865,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-1126123e032440a5f24e"
+    },
+    {
+      "name": "Sulamani Temple",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.165026,
+      "lon": 94.881253,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-e130afe59a8af39f8776"
+    },
+    {
+      "name": "Sein Nyet Ama & Sein Nyet Nyima",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.141662,
+      "lon": 94.858983,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-387061b0f0f56ce65d4c"
+    },
+    {
+      "name": "Pyathadar Hpaya",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.158407,
+      "lon": 94.88919,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-000f7c9dbcbf2249acac"
+    },
+    {
+      "name": "Myauk Guni Temple",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.159579,
+      "lon": 94.871127,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-5088b03898b76d547e35"
+    },
+    {
+      "name": "Bulethi",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.173917,
+      "lon": 94.881887,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-8fd691bd000b3160af0f"
+    },
+    {
+      "name": "Gu Byauk Gyi Temple",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.18537,
+      "lon": 94.893762,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-3397ab2b3428ff7cf1bb"
+    },
+    {
+      "name": "Upali Thein Ordination Hall",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.179635,
+      "lon": 94.876336,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-3ac37a16bf8824727f7b"
+    },
+    {
+      "name": "Mingala Zedi Pagoda",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.161314,
+      "lon": 94.857977,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-8e5a56ee065eac199f52"
+    },
+    {
+      "name": "Mahazedi Pagoda",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.169343,
+      "lon": 94.861586,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-8292a235f953c62494dc"
+    },
+    {
+      "name": "Thambula Temple",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.163011,
+      "lon": 94.904124,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-3bdea48bc79210280ea2"
+    },
+    {
+      "name": "Paya Thone Zu",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.162019,
+      "lon": 94.903354,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-6d5d69516eb1c45dfd99"
+    },
+    {
+      "name": "Somingyi Kyaung",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.146282,
+      "lon": 94.85743,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-088b32ba5d0fd249eee1"
+    },
+    {
+      "name": "Pagoda Ruins (Viewpoint)",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.14466,
+      "lon": 94.853923,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-9dba45ed7d20ba94e5b4"
+    },
+    {
+      "name": "Lone Buddha",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.142603,
+      "lon": 94.85768,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-51d0c027767ef7a903a6"
+    },
+    {
+      "name": "Bagan Archeological Museum",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.167796,
+      "lon": 94.855805,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "price": "5,000 kyat for foreigners & 500 kyat for locals.",
+      "id": "myanmar-4e4f6854d912f8c81a78"
+    },
+    {
+      "name": "Buddhist Initiation Rites",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.181831,
+      "lon": 94.865184,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-e8a7683edb3794a66a4d"
+    },
+    {
+      "name": "Monks and nuns",
+      "kind": "do",
+      "locality": "Bagan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-b8b3d3e44dbdcc1b149e"
+    },
+    {
+      "name": "Murals",
+      "kind": "do",
+      "locality": "Bagan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-ac50d586e68fde4821fc"
+    },
+    {
+      "name": "Balloons over Bagan",
+      "kind": "do",
+      "locality": "Bagan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "price": "US$299-320 per person",
+      "id": "myanmar-8d3d8a1173de490c537e"
+    },
+    {
+      "name": "Rent a chauffeured car",
+      "kind": "do",
+      "locality": "Bagan",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "price": "US$35 per day per car (fare can be split, maximum 4 passengers)",
+      "id": "myanmar-908ba58e5dc60e7ec5ec"
+    },
+    {
+      "name": "Bagan Nan Myint Tower",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.171737,
+      "lon": 94.9025,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "price": "7,000 kyat (Dec 2017)",
+      "id": "myanmar-7bfd5104578ad1716174"
+    },
+    {
+      "name": "Ko Mauk Lake",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.152389,
+      "lon": 94.89075,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-a56f641909b32fe79420"
+    },
+    {
+      "name": "Oh Htein Kone",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.162778,
+      "lon": 94.888528,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-73342d19123c467bce26"
+    },
+    {
+      "name": "Nyaung Lat Phat Kan",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.168139,
+      "lon": 94.884222,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-773c0b9018ce09b2dd0c"
+    },
+    {
+      "name": "Sulamani Kone",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.163194,
+      "lon": 94.879861,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-27f723c20b986def3494"
+    },
+    {
+      "name": "Lacquer-ware making tour",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.154125,
+      "lon": 94.858281,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "price": "Free",
+      "id": "myanmar-ae6f2f5498dc5db2f55a"
+    },
+    {
+      "name": "Tant Kyi Taung Pagoda",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.15537,
+      "lon": 94.787859,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "price": "Boat 15-20,000 kyat, 4WD 20,000 kyat",
+      "id": "myanmar-103307f83a02f079929c"
+    },
+    {
+      "name": "Mount Popa",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 20.913259,
+      "lon": 95.208719,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "price": "4-6,000 kyat return per person organised, 1,000-1,500 kyat one-way local transport",
+      "id": "myanmar-642df976d01ab0843221"
+    },
+    {
+      "name": "South end of Bagan-Nyaung U, Lanmadaw 3 Rd",
+      "kind": "eat",
+      "locality": "Bagan",
+      "lat": 21.173354,
+      "lon": 94.867383,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-99e077d2417498cd6260"
+    },
+    {
+      "name": "Restaurant Row",
+      "kind": "eat",
+      "locality": "Bagan",
+      "lat": 21.193512,
+      "lon": 94.899339,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "address": "Thi Ri Pyitsaya 4, Nyaung U",
+      "id": "myanmar-6db97b3a37c633795d4e"
+    },
+    {
+      "name": "Black Bamboo",
+      "kind": "eat",
+      "locality": "Bagan",
+      "lat": 21.19343,
+      "lon": 94.900018,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "address": "Nyaung U",
+      "id": "myanmar-892c89ffe01ce0739e1c"
+    },
+    {
+      "name": "The Moon Vegetarian Restaurant",
+      "kind": "eat",
+      "locality": "Bagan",
+      "lat": 21.1733,
+      "lon": 94.8676,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "address": "Old Bagan",
+      "price": "Around US$7 per person",
+      "id": "myanmar-e1889df948182c0dd062"
+    },
+    {
+      "name": "The Golden Emperor",
+      "kind": "eat",
+      "locality": "Bagan",
+      "lat": 21.18488,
+      "lon": 94.885994,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "address": "Nyaung-U",
+      "price": "Around US$7 per person",
+      "id": "myanmar-32c925e579cfeec959b9"
+    },
+    {
+      "name": "Kyah Restaurant",
+      "kind": "eat",
+      "locality": "Bagan",
+      "lat": 21.19709,
+      "lon": 94.90835,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "address": "Lanmadaw 2 Rd, Nyaung-U",
+      "id": "myanmar-51b247cbda52501cbcb9"
+    },
+    {
+      "name": "Shin Bo Me Ok Kyaung",
+      "kind": "do",
+      "locality": "Bagan",
+      "lat": 21.183158,
+      "lon": 94.890519,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-2291d3ac04db2695a33e"
+    },
+    {
+      "name": "The Hotel @ Tharabar Gate",
+      "kind": "stay",
+      "locality": "Bagan",
+      "lat": 21.173545310768667,
+      "lon": 94.86537351613568,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "address": "Bagan-Nyaung U Main Road",
+      "id": "myanmar-2ca3cdb07bb4dfd782c0"
+    },
+    {
+      "name": "Mya Pyei Sone Guest House",
+      "kind": "stay",
+      "locality": "Bagan",
+      "lat": 21.131922,
+      "lon": 94.859181,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "address": "Sa Pal Street, Kan Latt Quarter",
+      "price": "16/24,000 kyat single/double with AC",
+      "id": "myanmar-f8bd32d569c140c68807"
+    },
+    {
+      "name": "Ostello Bello Bagan",
+      "kind": "stay",
+      "locality": "Bagan",
+      "lat": 21.132027,
+      "lon": 94.858211,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "address": "Thiri Sandar, Hkan Latt Qtr, Main Road",
+      "price": "From 17,000 kyat (negotiable)",
+      "url": "http://www.ostellobello.com/#ob_bagan",
+      "id": "myanmar-e1542c812c528324f771"
+    },
+    {
+      "name": "Northern Breeze Guest House",
+      "kind": "stay",
+      "locality": "Bagan",
+      "lat": 21.132997,
+      "lon": 94.858285,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "address": "No.162 Cherry Street, Shwe Loung Block, Kyansitthar Quarter",
+      "price": "25-40,000 kyat (double AC en suite), e-bike 8-10,000 kyat",
+      "url": "http://www.northernbreezeguesthouse.com/",
+      "id": "myanmar-d7e7e14988f643573198"
+    },
+    {
+      "name": "Kaday Aung Hotel",
+      "kind": "stay",
+      "locality": "Bagan",
+      "lat": 21.137011,
+      "lon": 94.860705,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "price": "US$20-40",
+      "url": "http://www.kadayaunghotel.com/",
+      "id": "myanmar-5f72b172df8b9d9b2cf0"
+    },
+    {
+      "name": "Crown Prince Hotel",
+      "kind": "stay",
+      "locality": "Bagan",
+      "lat": 21.133753,
+      "lon": 94.856593,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "address": "Khat Tar Street, Shwe Loung Block, Kyansittha Quarter",
+      "price": "US$40-60",
+      "url": "http://www.crownprincehotelbagan.com/",
+      "id": "myanmar-b21e011b363a1e00a771"
+    },
+    {
+      "name": "Areindmar Hotel",
+      "kind": "stay",
+      "locality": "Bagan",
+      "lat": 21.132921,
+      "lon": 94.857583,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "address": "Cherry St",
+      "price": "US$52",
+      "url": "http://www.areindmarhotel.com/",
+      "id": "myanmar-18e70b899af26f001b7a"
+    },
+    {
+      "name": "Manisanda Hotel",
+      "kind": "stay",
+      "locality": "Bagan",
+      "lat": 21.13595,
+      "lon": 94.866407,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "address": "Corner of 7th Street x Hnin Si Street, Kyansitthar Quarter",
+      "price": "U$45-60",
+      "url": "https://www.facebook.com/Manisanda-Hotel-529744420456286/",
+      "id": "myanmar-f757634f02a8aa9016df"
+    },
+    {
+      "name": "Shwe Yee Pwint",
+      "kind": "stay",
+      "locality": "Bagan",
+      "lat": 21.131251,
+      "lon": 94.85759,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "address": "Kant Kaw St, Anawrahta Ward, Khan Long",
+      "price": "US$70-120",
+      "url": "http://www.shweyeepwinthotel.com/",
+      "id": "myanmar-d233b9e2d105d4990a9f"
+    },
+    {
+      "name": "Thazin Garden Hotel",
+      "kind": "stay",
+      "locality": "Bagan",
+      "lat": 21.128828,
+      "lon": 94.864467,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "address": "No.22, Thazin Road",
+      "url": "https://www.facebook.com/thazingardenbagan/",
+      "id": "myanmar-c8228e0c056d1930cf2b"
+    },
+    {
+      "name": "Inn Wa Guest House",
+      "kind": "stay",
+      "locality": "Bagan",
+      "lat": 21.200562,
+      "lon": 94.907638,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "address": "Lanmadaw 3 Rd",
+      "price": "US$15",
+      "id": "myanmar-2c428bb1fe72a92704fd"
+    },
+    {
+      "name": "Eden Motel",
+      "kind": "stay",
+      "locality": "Bagan",
+      "lat": 21.198886,
+      "lon": 94.908348,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "address": "Lanmadaw 2 Rd",
+      "price": "US$4-8/7-10/15 (single/double/triple)",
+      "id": "myanmar-1c2dd17145a51c2cacc3"
+    },
+    {
+      "name": "Pan Cherry Guest House",
+      "kind": "stay",
+      "locality": "Bagan",
+      "lat": 21.196246,
+      "lon": 94.899833,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "address": "51/1, 84th St, Bet: 24-25, Amts",
+      "price": "US$5/10 (single/double fan & shared), US$8/15 (single/double AC & en-suite)",
+      "url": "https://www.facebook.com/pages/Pann-Cherry-Guest-House/1461583764059881",
+      "id": "myanmar-66accc639953bb2a5b59"
+    },
+    {
+      "name": "Pyinsa Rupa Guest House",
+      "kind": "stay",
+      "locality": "Bagan",
+      "lat": 21.199427,
+      "lon": 94.904816,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "address": "Lanmadaw 3 Rd",
+      "price": "US$17 double with shared bath including breakfast, bikes US$2",
+      "id": "myanmar-a90021302f173a5b5ce8"
+    },
+    {
+      "name": "Aung Mingalar Hotel",
+      "kind": "stay",
+      "locality": "Bagan",
+      "lat": 21.19168,
+      "lon": 94.895026,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "address": "Lanmadaw 3 Rd",
+      "price": "US$10-15/15-25 (single/double)",
+      "url": "http://aungmingalarhotelbagan.com/",
+      "id": "myanmar-fba0fdb25c5a49d6f644"
+    },
+    {
+      "name": "Saw Nyein San Guest House",
+      "kind": "stay",
+      "locality": "Bagan",
+      "lat": 21.199138,
+      "lon": 94.904918,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "address": "Lanmadaw 3 Rd",
+      "price": "25/40,000 kyat (low season single/double), e-bike 5,000 kyat",
+      "id": "myanmar-3b2bfeb211b8c663ec84"
+    },
+    {
+      "name": "Thante Hotel",
+      "kind": "stay",
+      "locality": "Bagan",
+      "lat": 21.196219,
+      "lon": 94.908703,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "price": "US$35-35 single, US$38-45 double, US$48 triple",
+      "url": "http://thantenyu.com/",
+      "id": "myanmar-03d74690e1157b903ba7"
+    },
+    {
+      "name": "Zfreeti Hotel",
+      "kind": "stay",
+      "locality": "Bagan",
+      "lat": 21.190738,
+      "lon": 94.899724,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "address": "5th Thiri Pyitsaya 5 St",
+      "price": "50,000 kyat (double)",
+      "url": "http://www.zfreetihotel.com/",
+      "id": "myanmar-1a7fcf927b2f6d1a2c7b"
+    },
+    {
+      "name": "WEStay @ Bagan Lotus Hotel",
+      "kind": "stay",
+      "locality": "Bagan",
+      "lat": 21.119689,
+      "lon": 94.959287,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "address": "Nyaung U - Kyaukpadaung Road, Mile 22/7",
+      "price": "Low season, Superior room US$35, Deluxe US$45. High season, Superior room US$40, Deluxe US$50",
+      "url": "http://www.facebook.com/WEStayBaganLotusHotel",
+      "id": "myanmar-0aa6e9e20476beec79e0"
+    },
+    {
+      "name": "Amazing Bagan Resort",
+      "kind": "stay",
+      "locality": "Bagan",
+      "lat": 21.178919,
+      "lon": 94.905737,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "price": "US$53-75, restaurant US$5-10",
+      "url": "https://amazingbagangolfresort.com/",
+      "id": "myanmar-46462139f3fd3384e4eb"
+    },
+    {
+      "name": "Bagan",
+      "kind": "area",
+      "locality": "Bagan",
+      "lat": 21.1667,
+      "lon": 94.8667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Bagan",
+      "id": "myanmar-93c403c01f407c614031"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 3 distinct public Wikivoyage source pages; attempted 3 article titles covering the country, capital(s), and 1 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

@@ -1,0 +1,258 @@
+{
+  "sources": [
+    {
+      "title": "Guinea",
+      "url": "https://en.wikivoyage.org/wiki/Guinea",
+      "checkedAt": "2026-10-21T08:09:54.218Z"
+    },
+    {
+      "title": "Conakry",
+      "url": "https://en.wikivoyage.org/wiki/Conakry",
+      "checkedAt": "2026-10-21T08:09:57.184Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Conakry",
+      "kind": "area",
+      "locality": "Guinea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guinea",
+      "id": "guinea-4cef90a1fd23e65e27be"
+    },
+    {
+      "name": "Beyla]",
+      "kind": "area",
+      "locality": "Guinea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guinea",
+      "id": "guinea-f7ab423709e13f653cb7"
+    },
+    {
+      "name": "Boke",
+      "kind": "area",
+      "locality": "Guinea",
+      "lat": 10.941017,
+      "lon": -14.2801324,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guinea",
+      "id": "guinea-f045350f1af4d42a1cdd"
+    },
+    {
+      "name": "Dalaba",
+      "kind": "area",
+      "locality": "Guinea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guinea",
+      "id": "guinea-89bac34e6fc65e2f77f7"
+    },
+    {
+      "name": "Faranah",
+      "kind": "area",
+      "locality": "Guinea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guinea",
+      "id": "guinea-6670940302fe5cbba7c4"
+    },
+    {
+      "name": "Forécariah",
+      "kind": "area",
+      "locality": "Guinea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guinea",
+      "id": "guinea-082812bd0fa7654ec5da"
+    },
+    {
+      "name": "Kankan",
+      "kind": "area",
+      "locality": "Guinea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guinea",
+      "id": "guinea-570bb02a7caba564ad57"
+    },
+    {
+      "name": "Kindia",
+      "kind": "area",
+      "locality": "Guinea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guinea",
+      "id": "guinea-85cfd4a655caafcbe66b"
+    },
+    {
+      "name": "Koundara",
+      "kind": "area",
+      "locality": "Guinea",
+      "lat": 12.486061,
+      "lon": -13.296363,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guinea",
+      "id": "guinea-6979e502af7af0e8a6fa"
+    },
+    {
+      "name": "Labé",
+      "kind": "area",
+      "locality": "Guinea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guinea",
+      "id": "guinea-96c2dcf9c133f8f9296c"
+    },
+    {
+      "name": "Mamou",
+      "kind": "area",
+      "locality": "Guinea",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Guinea",
+      "id": "guinea-b7ec2ba3714eac918ee5"
+    },
+    {
+      "name": "Grand Mosque of Conakry",
+      "kind": "do",
+      "locality": "Conakry",
+      "lat": 9.533175,
+      "lon": -13.684129,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Conakry",
+      "id": "guinea-51ab5b842d00a1c09de3"
+    },
+    {
+      "name": "Sandervalia National Museum",
+      "kind": "do",
+      "locality": "Conakry",
+      "lat": 9.5047,
+      "lon": -13.709,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Conakry",
+      "id": "guinea-44c8c82028351a05b8b4"
+    },
+    {
+      "name": "Conakry Botanical Garden",
+      "kind": "do",
+      "locality": "Conakry",
+      "lat": 9.530702,
+      "lon": -13.685918,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Conakry",
+      "id": "guinea-bdcf30e0757ce5b0a1f0"
+    },
+    {
+      "name": "Monument du 22 Novembre 1970",
+      "kind": "do",
+      "locality": "Conakry",
+      "lat": 9.521468,
+      "lon": -13.690515,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Conakry",
+      "id": "guinea-2ea9fac956ca45ade157"
+    },
+    {
+      "name": "Soumba waterfalls",
+      "kind": "do",
+      "locality": "Conakry",
+      "lat": 9.7503,
+      "lon": -13.6,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Conakry",
+      "id": "guinea-726bb2e4883cfa8ee6cb"
+    },
+    {
+      "name": "St. Mary's Cathedral",
+      "kind": "do",
+      "locality": "Conakry",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Conakry",
+      "id": "guinea-7b434b4ec520fa880798"
+    },
+    {
+      "name": "Jardin de Chine",
+      "kind": "eat",
+      "locality": "Conakry",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Conakry",
+      "id": "guinea-55ce7f86edcdddf4d003"
+    },
+    {
+      "name": "Mouna Internet Cafe",
+      "kind": "eat",
+      "locality": "Conakry",
+      "lat": 9.5095,
+      "lon": -13.713,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Conakry",
+      "id": "guinea-be0cda4a69d6f6736fd9"
+    },
+    {
+      "name": "Le Cedre",
+      "kind": "eat",
+      "locality": "Conakry",
+      "lat": 9.510068,
+      "lon": -13.710932,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Conakry",
+      "address": "6th Ave",
+      "id": "guinea-ae465130922f7eca9bec"
+    },
+    {
+      "name": "Restau King",
+      "kind": "eat",
+      "locality": "Conakry",
+      "lat": 9.6054303,
+      "lon": -13.6482754,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Conakry",
+      "id": "guinea-87205c12790f05b964df"
+    },
+    {
+      "name": "Timi's",
+      "kind": "eat",
+      "locality": "Conakry",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Conakry",
+      "id": "guinea-a04a973437b48240f1d8"
+    },
+    {
+      "name": "Le Loft",
+      "kind": "eat",
+      "locality": "Conakry",
+      "lat": 9.50805,
+      "lon": -13.713507,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Conakry",
+      "id": "guinea-4f31f99ccefa9cb0d035"
+    },
+    {
+      "name": "Maison d'Accueil",
+      "kind": "stay",
+      "locality": "Conakry",
+      "lat": 9.51139,
+      "lon": -13.70514,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Conakry",
+      "price": "€13",
+      "id": "guinea-91a6523912f7f35717f5"
+    },
+    {
+      "name": "Grand Hotel de l'Independance",
+      "kind": "stay",
+      "locality": "Conakry",
+      "lat": 9.5063,
+      "lon": -13.7189,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Conakry",
+      "address": "BP 287 2nd Ave",
+      "id": "guinea-54d6a5baea47c5db5bb4"
+    },
+    {
+      "name": "Hôtel Mariador Palace",
+      "kind": "stay",
+      "locality": "Conakry",
+      "lat": 9.5894,
+      "lon": -13.6586,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Conakry",
+      "id": "guinea-8c0fd6f02de0f58db5e5"
+    },
+    {
+      "name": "Hotel Palm Camayenne",
+      "kind": "stay",
+      "locality": "Conakry",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Conakry",
+      "url": "http://www.palmcamayenne.com/",
+      "id": "guinea-6bca8efd24ebd60d356f"
+    },
+    {
+      "name": "Riviera Royal Hotel",
+      "kind": "stay",
+      "locality": "Conakry",
+      "lat": 9.520454,
+      "lon": -13.695316,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Conakry",
+      "url": "http://www.rivieraroyalhotel.com/",
+      "id": "guinea-e52528f2fd0e8c365171"
+    },
+    {
+      "name": "Conakry",
+      "kind": "area",
+      "locality": "Conakry",
+      "lat": 9.51,
+      "lon": -13.71,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Conakry",
+      "id": "guinea-64fdca66f78af3df5b7a"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

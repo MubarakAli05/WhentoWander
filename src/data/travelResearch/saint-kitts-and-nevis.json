@@ -1,0 +1,199 @@
+{
+  "sources": [
+    {
+      "title": "Saint Kitts and Nevis",
+      "url": "https://en.wikivoyage.org/wiki/Saint_Kitts_and_Nevis",
+      "checkedAt": "2026-10-21T08:11:55.458Z"
+    },
+    {
+      "title": "Basseterre",
+      "url": "https://en.wikivoyage.org/wiki/Basseterre",
+      "checkedAt": "2026-10-21T08:11:58.305Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Basseterre",
+      "kind": "area",
+      "locality": "Saint Kitts and Nevis",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saint_Kitts_and_Nevis",
+      "id": "saint-kitts-and-nevis-77050a04a21da8a97430"
+    },
+    {
+      "name": "Cayon",
+      "kind": "area",
+      "locality": "Saint Kitts and Nevis",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saint_Kitts_and_Nevis",
+      "id": "saint-kitts-and-nevis-bc11c8dbe1add5d057dc"
+    },
+    {
+      "name": "Charlestown",
+      "kind": "area",
+      "locality": "Saint Kitts and Nevis",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saint_Kitts_and_Nevis",
+      "id": "saint-kitts-and-nevis-de04a77167638738138f"
+    },
+    {
+      "name": "Dieppe Bay Town",
+      "kind": "area",
+      "locality": "Saint Kitts and Nevis",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saint_Kitts_and_Nevis",
+      "id": "saint-kitts-and-nevis-cbbc0c1fd9878dbe1f1e"
+    },
+    {
+      "name": "Gingerland",
+      "kind": "area",
+      "locality": "Saint Kitts and Nevis",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saint_Kitts_and_Nevis",
+      "id": "saint-kitts-and-nevis-6ff4710771f8e999ebdb"
+    },
+    {
+      "name": "Newcastle",
+      "kind": "area",
+      "locality": "Saint Kitts and Nevis",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saint_Kitts_and_Nevis",
+      "id": "saint-kitts-and-nevis-369ea20d0db68c4c1e52"
+    },
+    {
+      "name": "Old Road Town",
+      "kind": "area",
+      "locality": "Saint Kitts and Nevis",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saint_Kitts_and_Nevis",
+      "id": "saint-kitts-and-nevis-210cacf6b4451384e9c4"
+    },
+    {
+      "name": "Sandy Point Town",
+      "kind": "area",
+      "locality": "Saint Kitts and Nevis",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saint_Kitts_and_Nevis",
+      "id": "saint-kitts-and-nevis-25121373df2056ac66f8"
+    },
+    {
+      "name": "Leeward Islands Charters",
+      "kind": "do",
+      "locality": "Saint Kitts and Nevis",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Saint_Kitts_and_Nevis",
+      "url": "http://www.stkittsleewardislandscharters.com/",
+      "id": "saint-kitts-and-nevis-555947c9ebbf529c6b96"
+    },
+    {
+      "name": "Independence Square",
+      "kind": "do",
+      "locality": "Basseterre",
+      "lat": 17.2961,
+      "lon": -62.7223,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Basseterre",
+      "id": "saint-kitts-and-nevis-452e20b849302b02414c"
+    },
+    {
+      "name": "The Circus",
+      "kind": "do",
+      "locality": "Basseterre",
+      "lat": 17.295254,
+      "lon": -62.723737,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Basseterre",
+      "id": "saint-kitts-and-nevis-c7ede867ee40e493506e"
+    },
+    {
+      "name": "St. George's Anglican Church",
+      "kind": "do",
+      "locality": "Basseterre",
+      "lat": 17.2962,
+      "lon": -62.7191,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Basseterre",
+      "id": "saint-kitts-and-nevis-be9a1558b9631fbf0a4f"
+    },
+    {
+      "name": "Basseterre Co-Cathedral of Immaculate Conception",
+      "kind": "do",
+      "locality": "Basseterre",
+      "lat": 17.296389,
+      "lon": -62.721425,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Basseterre",
+      "id": "saint-kitts-and-nevis-06bca250204888374ecf"
+    },
+    {
+      "name": "The Cenotaph",
+      "kind": "do",
+      "locality": "Basseterre",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Basseterre",
+      "id": "saint-kitts-and-nevis-b82dc67688c71b97755f"
+    },
+    {
+      "name": "St. Kitts Heritage Society",
+      "kind": "do",
+      "locality": "Basseterre",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Basseterre",
+      "id": "saint-kitts-and-nevis-1ec607af8136f8049d93"
+    },
+    {
+      "name": "National Museum of Saint Kitts",
+      "kind": "do",
+      "locality": "Basseterre",
+      "lat": 17.294583,
+      "lon": -62.723722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Basseterre",
+      "id": "saint-kitts-and-nevis-ff94e32902244127cb0a"
+    },
+    {
+      "name": "Queen Victoria Statue Roundabout",
+      "kind": "do",
+      "locality": "Basseterre",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Basseterre",
+      "id": "saint-kitts-and-nevis-7a3d435e271b1e42854a"
+    },
+    {
+      "name": "Fort Thomas",
+      "kind": "do",
+      "locality": "Basseterre",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Basseterre",
+      "id": "saint-kitts-and-nevis-892b4be180ee605369cc"
+    },
+    {
+      "name": "Bicycle Rental",
+      "kind": "do",
+      "locality": "Basseterre",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Basseterre",
+      "address": "Cayon St",
+      "price": "US$15 per day",
+      "id": "saint-kitts-and-nevis-fb531ec81c5e5b3fdcd2"
+    },
+    {
+      "name": "Warner Park Sporting Complex",
+      "kind": "do",
+      "locality": "Basseterre",
+      "lat": 17.2986,
+      "lon": -62.7219,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Basseterre",
+      "address": "Park Range",
+      "id": "saint-kitts-and-nevis-1146d4297552e56f7f2b"
+    },
+    {
+      "name": "Shipwreck Beach Bar",
+      "kind": "eat",
+      "locality": "Basseterre",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Basseterre",
+      "url": "https://shipwreckstkitts.com/",
+      "id": "saint-kitts-and-nevis-dc582e887aae1359f2c3"
+    },
+    {
+      "name": "Ocean Terrace Inn",
+      "kind": "stay",
+      "locality": "Basseterre",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Basseterre",
+      "url": "http://www.oceanterraceinn.com/",
+      "id": "saint-kitts-and-nevis-68785f4dde8b1af2641d"
+    },
+    {
+      "name": "Basseterre",
+      "kind": "area",
+      "locality": "Basseterre",
+      "lat": 17.3,
+      "lon": -62.7333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Basseterre",
+      "id": "saint-kitts-and-nevis-c9d0a9ea080b6f28ad8c"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}

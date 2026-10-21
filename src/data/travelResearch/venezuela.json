@@ -1,0 +1,781 @@
+{
+  "sources": [
+    {
+      "title": "Venezuela",
+      "url": "https://en.wikivoyage.org/wiki/Venezuela",
+      "checkedAt": "2026-10-21T08:13:13.607Z"
+    },
+    {
+      "title": "Caracas",
+      "url": "https://en.wikivoyage.org/wiki/Caracas",
+      "checkedAt": "2026-10-21T08:13:16.393Z"
+    }
+  ],
+  "places": [
+    {
+      "name": "Caracas",
+      "kind": "area",
+      "locality": "Venezuela",
+      "lat": 10.5,
+      "lon": -66.916667,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Venezuela",
+      "id": "venezuela-3e3021dd415de8243811"
+    },
+    {
+      "name": "Coro",
+      "kind": "area",
+      "locality": "Venezuela",
+      "lat": 11.417,
+      "lon": -69.67,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Venezuela",
+      "id": "venezuela-d3d2565f7bf64a8de923"
+    },
+    {
+      "name": "Ciudad Bolívar",
+      "kind": "area",
+      "locality": "Venezuela",
+      "lat": 8.088279,
+      "lon": -63.553555,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Venezuela",
+      "id": "venezuela-dd513b497c043159b2de"
+    },
+    {
+      "name": "Ciudad Guayana",
+      "kind": "area",
+      "locality": "Venezuela",
+      "lat": 8.366312,
+      "lon": -62.649681,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Venezuela",
+      "id": "venezuela-f5e340be539d7eaf9148"
+    },
+    {
+      "name": "Maracaibo",
+      "kind": "area",
+      "locality": "Venezuela",
+      "lat": 10.65,
+      "lon": -71.633333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Venezuela",
+      "id": "venezuela-47c0a3cc1763c9439d1d"
+    },
+    {
+      "name": "Maracay",
+      "kind": "area",
+      "locality": "Venezuela",
+      "lat": 10.246944,
+      "lon": -67.596111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Venezuela",
+      "id": "venezuela-a5a5bdf52fe86be86e42"
+    },
+    {
+      "name": "Mérida",
+      "kind": "area",
+      "locality": "Venezuela",
+      "lat": 8.6,
+      "lon": -71.15,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Venezuela",
+      "id": "venezuela-94e33585cb9adec33210"
+    },
+    {
+      "name": "Puerto La Cruz",
+      "kind": "area",
+      "locality": "Venezuela",
+      "lat": 10.2,
+      "lon": -64.633333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Venezuela",
+      "id": "venezuela-9be772a164121a1ac3da"
+    },
+    {
+      "name": "San Cristóbal",
+      "kind": "area",
+      "locality": "Venezuela",
+      "lat": 7.766667,
+      "lon": -72.233333,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Venezuela",
+      "id": "venezuela-e49daa462a5ad52f83aa"
+    },
+    {
+      "name": "La Plaza Bolivar",
+      "kind": "do",
+      "locality": "Caracas",
+      "lat": 10.506,
+      "lon": -66.9146,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "located near the Metro Capitolio",
+      "id": "venezuela-30cc508224fa9117ea03"
+    },
+    {
+      "name": "Simón Bolívar Birthplace House",
+      "kind": "do",
+      "locality": "Caracas",
+      "lat": 10.495278,
+      "lon": -66.916944,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "url": "http://casa-natal-del-libertador.webnode.com.ve/",
+      "id": "venezuela-fc4661494af8c3e9bd8e"
+    },
+    {
+      "name": "Boulevard of Sabana Grande",
+      "kind": "do",
+      "locality": "Caracas",
+      "lat": 10.49382,
+      "lon": -66.878331,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Avenida Las Acacias-Quebrada Chacaíto",
+      "url": "https://web.archive.org/web/20140517120206/http://www.sabanagrandeonline.com/site/",
+      "id": "venezuela-5a7770500f7a62956c45"
+    },
+    {
+      "name": "Museo de Bellas Artes de Caracas",
+      "kind": "do",
+      "locality": "Caracas",
+      "lat": 10.500766,
+      "lon": -66.89894,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Plaza de los Museos, Parque Los Caobos",
+      "price": "free",
+      "url": "http://www.fmn.gob.ve/",
+      "id": "venezuela-f51767e517f0fda73c8b"
+    },
+    {
+      "name": "Centro de Arte La Estancia",
+      "kind": "do",
+      "locality": "Caracas",
+      "lat": 10.494675,
+      "lon": -66.846778,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Avenida Francisco de Miranda,",
+      "url": "http://www.pdvsa.com/index.php?tpl=interface.sp/design/readmenuprinc_cale.tpl.html&newsid_temas=270",
+      "id": "venezuela-b8e5e3b5a5a82aecdca9"
+    },
+    {
+      "name": "Jardin Botanico",
+      "kind": "do",
+      "locality": "Caracas",
+      "lat": 10.496,
+      "lon": -66.8982,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "next to the Central University",
+      "id": "venezuela-56bdf262360095a596af"
+    },
+    {
+      "name": "Casa John Boulton Caracas",
+      "kind": "do",
+      "locality": "Caracas",
+      "lat": 10.5129324,
+      "lon": -66.9143984,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Avenida Panteon",
+      "url": "http://fundacionboulton.com/historia/",
+      "id": "venezuela-cbc58f723aaddbae9a2c"
+    },
+    {
+      "name": "Parque del Este",
+      "kind": "do",
+      "locality": "Caracas",
+      "lat": 10.496667,
+      "lon": -66.841111,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "url": "https://m.facebook.com/parquedeleste",
+      "id": "venezuela-0a4413fbec8bad8b0170"
+    },
+    {
+      "name": "Museo de Arte Colonial",
+      "kind": "do",
+      "locality": "Caracas",
+      "lat": 10.511944,
+      "lon": -66.899722,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Located in the Quinta Anauco on Av Panteon in San Bernardino",
+      "id": "venezuela-55ff40ceb3a25505ed0c"
+    },
+    {
+      "name": "Museo Colección Ornitológica William Phelps Caracas",
+      "kind": "do",
+      "locality": "Caracas",
+      "lat": 10.49276,
+      "lon": -66.874572,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Boulevard of Sabana Grande",
+      "id": "venezuela-1f570f4f6639521ee43b"
+    },
+    {
+      "name": "Universidad Central de Venezuela",
+      "kind": "do",
+      "locality": "Caracas",
+      "lat": 10.489531,
+      "lon": -66.893035,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "url": "http://www.ucv.ve/index.php",
+      "id": "venezuela-fdd7e449506f1b7f8420"
+    },
+    {
+      "name": "Museo Sacro de Caracas",
+      "kind": "do",
+      "locality": "Caracas",
+      "lat": 10.50579,
+      "lon": -66.91413,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Av Este 2",
+      "url": "http://museosacrodecaracas.blogspot.ch/",
+      "id": "venezuela-373ca59d3914caf02644"
+    },
+    {
+      "name": "Paragliding Colonia Tovar Venezuela",
+      "kind": "do",
+      "locality": "Caracas",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Colonia Tovar",
+      "price": "US$60",
+      "url": "http://www.paraglidingvenezuela.webs.com/",
+      "id": "venezuela-f5a7ce5e3fd99703028a"
+    },
+    {
+      "name": "El Granjero del Este",
+      "kind": "eat",
+      "locality": "Caracas",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Av. Río de Janeiro",
+      "id": "venezuela-1abaeabe489a4f689cc2"
+    },
+    {
+      "name": "Maute Grill",
+      "kind": "eat",
+      "locality": "Caracas",
+      "lat": 10.483628,
+      "lon": -66.859058,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Av. Rio de Janeiro",
+      "id": "venezuela-7abf6afbfb97f3a46c0d"
+    },
+    {
+      "name": "Malabar",
+      "kind": "eat",
+      "locality": "Caracas",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Calle Orinoco",
+      "id": "venezuela-ed9e357a9ba53a9d22c5"
+    },
+    {
+      "name": "Aranjuez",
+      "kind": "eat",
+      "locality": "Caracas",
+      "lat": 10.484513,
+      "lon": -66.862796,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Calle Madrid, Qunita Anacoa",
+      "id": "venezuela-adf9cc92e65d256e3889"
+    },
+    {
+      "name": "Cafe Ole",
+      "kind": "eat",
+      "locality": "Caracas",
+      "lat": 10.484136,
+      "lon": -66.865156,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Calle California at Calle Jalisco",
+      "id": "venezuela-5644309a472790a68807"
+    },
+    {
+      "name": "Mamma Mia",
+      "kind": "eat",
+      "locality": "Caracas",
+      "lat": 10.483444,
+      "lon": -66.862919,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Avenida Principal de las Mercedes",
+      "id": "venezuela-911132f533ff35928a7b"
+    },
+    {
+      "name": "Carnivino",
+      "kind": "eat",
+      "locality": "Caracas",
+      "lat": 10.482632,
+      "lon": -66.861823,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Avenida Principal",
+      "id": "venezuela-23b7ef6d67150e61632d"
+    },
+    {
+      "name": "Avila Tei",
+      "kind": "eat",
+      "locality": "Caracas",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Avenida San Felipe, Centro Coinasa",
+      "id": "venezuela-d9ce4c2559604c27b509"
+    },
+    {
+      "name": "Chez Wang",
+      "kind": "eat",
+      "locality": "Caracas",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Plaza La Castellana",
+      "id": "venezuela-4ca6bac241ae1aef0d0d"
+    },
+    {
+      "name": "Chili's",
+      "kind": "eat",
+      "locality": "Caracas",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Torre La Castellana",
+      "id": "venezuela-50c8925f45424dadac67"
+    },
+    {
+      "name": "La Estancia",
+      "kind": "eat",
+      "locality": "Caracas",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Avenida Principal La Castellana",
+      "id": "venezuela-a2d15636635b5702de98"
+    },
+    {
+      "name": "La Romanina",
+      "kind": "eat",
+      "locality": "Caracas",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Av Avila",
+      "id": "venezuela-31d6724c4b3b0db3c8b4"
+    },
+    {
+      "name": "New Spizzico",
+      "kind": "eat",
+      "locality": "Caracas",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Av Principal La Castellana",
+      "id": "venezuela-7cffede48fbe0e84bef5"
+    },
+    {
+      "name": "El Budare de la Castellana",
+      "kind": "eat",
+      "locality": "Caracas",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Avenida Principal de La Castellana, con 1ra Transversal.",
+      "id": "venezuela-ce05724c932287538517"
+    },
+    {
+      "name": "Urrutia",
+      "kind": "eat",
+      "locality": "Caracas",
+      "lat": 10.4945828,
+      "lon": -66.8780557,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Avenida Francisco Solano, Edif. Libertador",
+      "id": "venezuela-21a8bbebb9b4d0289524"
+    },
+    {
+      "name": "La Huerta",
+      "kind": "eat",
+      "locality": "Caracas",
+      "lat": 10.4936978,
+      "lon": -66.873528,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Avenida Francisco Solano, Quinta La Huerta",
+      "id": "venezuela-389f61e162b0a9886ece"
+    },
+    {
+      "name": "Pizzeria Va Bene",
+      "kind": "eat",
+      "locality": "Caracas",
+      "lat": 10.494955,
+      "lon": -66.87832,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Boulevard of Sabana Grande and 2nd street of Bello Monte",
+      "id": "venezuela-eb319202155e0c5b7502"
+    },
+    {
+      "name": "El Arabito",
+      "kind": "eat",
+      "locality": "Caracas",
+      "lat": 10.4939715,
+      "lon": -66.8790424,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Avenida Casanova, Bello Monte",
+      "id": "venezuela-8f842d8376bce8cb0aff"
+    },
+    {
+      "name": "El Rey Del Sujuk",
+      "kind": "eat",
+      "locality": "Caracas",
+      "lat": 10.4947539,
+      "lon": -66.8780677,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Boulevard of Sabana Grande",
+      "id": "venezuela-7f19f849682faf9748b9"
+    },
+    {
+      "name": "Da Guido",
+      "kind": "eat",
+      "locality": "Caracas",
+      "lat": 10.4958618,
+      "lon": -66.8792323,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Avenida Francisco Solano.",
+      "id": "venezuela-6fad46523cd0364bbe0a"
+    },
+    {
+      "name": "Mandarin House",
+      "kind": "eat",
+      "locality": "Caracas",
+      "lat": 10.4962857,
+      "lon": -66.8801295,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Avenida Francisco Solano Sabana Grande",
+      "id": "venezuela-9f39062544df3dfc487b"
+    },
+    {
+      "name": "Golfeados de Antaño",
+      "kind": "eat",
+      "locality": "Caracas",
+      "lat": 10.4949551,
+      "lon": -66.8783203,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Boulevard of Sabana Grande",
+      "id": "venezuela-ad95683f80db60fb6ae8"
+    },
+    {
+      "name": "Flor Del Pan",
+      "kind": "eat",
+      "locality": "Caracas",
+      "lat": 10.4923153,
+      "lon": -66.8758993,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Avenida Casanova Sabana Grande",
+      "id": "venezuela-34f8651d6c14a08a3a3a"
+    },
+    {
+      "name": "Heladeria La Poma",
+      "kind": "eat",
+      "locality": "Caracas",
+      "lat": 10.4945239,
+      "lon": -66.8786095,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Boulevard of Sabana Grande",
+      "id": "venezuela-df933d98675626efb797"
+    },
+    {
+      "name": "Cafe-Trattoria Mediterraneo",
+      "kind": "eat",
+      "locality": "Caracas",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "1ra Avenida Los Palos Grandes, Edificio Oriental",
+      "id": "venezuela-a76d92476ff1c4b232f6"
+    },
+    {
+      "name": "Rey David",
+      "kind": "eat",
+      "locality": "Caracas",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "4ª Transversal de Los Palos Grandes, entre Av. Alfredo Jahn y Av. Andrés Bello",
+      "id": "venezuela-aa65c5316b115ef6bcfb"
+    },
+    {
+      "name": "Cafe Monsieur",
+      "kind": "eat",
+      "locality": "Caracas",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Avenida San Juan Bosco",
+      "id": "venezuela-10d1d6f7212fdf7dd3ec"
+    },
+    {
+      "name": "Din Din Korea",
+      "kind": "eat",
+      "locality": "Caracas",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Los Palos Grandes.",
+      "id": "venezuela-61113950285258c59c8c"
+    },
+    {
+      "name": "Bar Basque",
+      "kind": "eat",
+      "locality": "Caracas",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Alcabala a Peligro, La Candelaria",
+      "id": "venezuela-b85ea26d2ad47b359b7a"
+    },
+    {
+      "name": "El Quijote de la Candelaria",
+      "kind": "eat",
+      "locality": "Caracas",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Av. Este, esquina de la Cruz La Candelaria",
+      "id": "venezuela-346fe8cdb60338807ed4"
+    },
+    {
+      "name": "Café Tribus Cultural",
+      "kind": "eat",
+      "locality": "Caracas",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Avenida Mexico, Galeria de Arte Nacional, La Candelaria",
+      "id": "venezuela-741075403a74b0bf72ec"
+    },
+    {
+      "name": "El León",
+      "kind": "eat",
+      "locality": "Caracas",
+      "lat": 10.497511,
+      "lon": -66.851239,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "id": "venezuela-980f61c093e12e8d0f22"
+    },
+    {
+      "name": "Whisky Bar",
+      "kind": "eat",
+      "locality": "Caracas",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "id": "venezuela-4e8bb4a0e092e8181b62"
+    },
+    {
+      "name": "El Maní Es Así",
+      "kind": "eat",
+      "locality": "Caracas",
+      "lat": 10.495101,
+      "lon": -66.87443,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "id": "venezuela-d255bbf657876b355146"
+    },
+    {
+      "name": "Sal Si Puedes",
+      "kind": "eat",
+      "locality": "Caracas",
+      "lat": 10.494172,
+      "lon": -66.881149,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Pasaje Asuncion of Sabana Grande",
+      "id": "venezuela-f65f670b8d6edec2adc6"
+    },
+    {
+      "name": "Hog Heaven",
+      "kind": "eat",
+      "locality": "Caracas",
+      "lat": 10.4968775,
+      "lon": -66.8551976,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "id": "venezuela-fb0ee58272b308eb449b"
+    },
+    {
+      "name": "Los Peruanos Rock Bar",
+      "kind": "eat",
+      "locality": "Caracas",
+      "lat": 10.4942309,
+      "lon": -66.8811101,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Pasaje Asuncion of Sabana Grande",
+      "id": "venezuela-62c0ac1e34098e877f55"
+    },
+    {
+      "name": "Moulin Rouge",
+      "kind": "eat",
+      "locality": "Caracas",
+      "lat": 10.4956217,
+      "lon": -66.8782618,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Avenida Francisco Solano (Sabana Grande)",
+      "id": "venezuela-9f5f32a15cf0102d3e9f"
+    },
+    {
+      "name": "Teatro Bar",
+      "kind": "eat",
+      "locality": "Caracas",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Av. Orinoco · Las Mercedes · Torre DyD",
+      "id": "venezuela-545b5389938cb7369da9"
+    },
+    {
+      "name": "Hotel Cristal",
+      "kind": "stay",
+      "locality": "Caracas",
+      "lat": 10.4949785,
+      "lon": -66.8809964,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Pasaje Asuncion, Boulevard of Sabana Grande",
+      "price": "around US$4",
+      "id": "venezuela-1338afb9cb4612e400ab"
+    },
+    {
+      "name": "Hotel Altamira",
+      "kind": "stay",
+      "locality": "Caracas",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Av Jose Felix Sosa, El Dorado neighborhood",
+      "price": "Around US$70",
+      "id": "venezuela-3b37e143548505aba784"
+    },
+    {
+      "name": "Hotel Coliseo",
+      "kind": "stay",
+      "locality": "Caracas",
+      "lat": 10.4920897,
+      "lon": -66.8778429,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Avenida Casanova, Sabana Grande",
+      "price": "Around $50.",
+      "url": "http://hotelcoliseo.com.ve/site/",
+      "id": "venezuela-1b0cad99437a5ea62cd6"
+    },
+    {
+      "name": "Hotel Lincoln Suites",
+      "kind": "stay",
+      "locality": "Caracas",
+      "lat": 10.4955884,
+      "lon": -66.8799964,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Avenida Francisco Solano and Boulevard of Sabana Grande",
+      "price": "Around US$30",
+      "url": "http://www.lincoln-suites.com.ve/",
+      "id": "venezuela-32282b273bcdfc288b4e"
+    },
+    {
+      "name": "Hotel Alex Caracas",
+      "kind": "stay",
+      "locality": "Caracas",
+      "lat": 10.5047984,
+      "lon": -66.9079513,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Esquina Ferrenquin a La Cruz, La Candelaria",
+      "id": "venezuela-b94fc3ebd7d5393c1a04"
+    },
+    {
+      "name": "Hotel Milenio",
+      "kind": "stay",
+      "locality": "Caracas",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "id": "venezuela-b321d58ca83bf695ded6"
+    },
+    {
+      "name": "Hotel Shelter Suites",
+      "kind": "stay",
+      "locality": "Caracas",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Av Libertador and Av Jose Felix Sosa, Chacao",
+      "id": "venezuela-34b7dd56462723fe96f7"
+    },
+    {
+      "name": "Hotel Savoy",
+      "kind": "stay",
+      "locality": "Caracas",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "id": "venezuela-cf159953bfe07eb799e8"
+    },
+    {
+      "name": "Hotel Alba Caracas",
+      "kind": "stay",
+      "locality": "Caracas",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Avenida Mexico con Sur 25",
+      "id": "venezuela-14a920cdeea3fca3cb59"
+    },
+    {
+      "name": "Meliá Caracas",
+      "kind": "stay",
+      "locality": "Caracas",
+      "lat": 10.49242,
+      "lon": -66.877006,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Ave. Casanova, urb. Bellomonte, 1060",
+      "url": "https://www.melia.com/en/hotels/venezuela/caracas/melia-caracas/index.htm",
+      "id": "venezuela-108099f69e780ff82f92"
+    },
+    {
+      "name": "Pestana Caracas Hotel & Suites",
+      "kind": "stay",
+      "locality": "Caracas",
+      "lat": 10.498514,
+      "lon": -66.84145,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "1ª Avenida Urb. Santa Eduvigis",
+      "url": "http://www.pestana.com/hotels/en/hotels/southamerica/CaracasHotels/Caracas/Home/PestanaCaracas.htm/",
+      "id": "venezuela-7ec8abb7d9dbe71df5a7"
+    },
+    {
+      "name": "Hotel Waldorf Caracas",
+      "kind": "stay",
+      "locality": "Caracas",
+      "lat": 10.5044461,
+      "lon": -66.9046474,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Av. La Industria con Av. Urdaneta, Esquina Campo Elias a Puente Anauco, La Candelaria",
+      "url": "http://www.hotelwaldorf.com.ve/",
+      "id": "venezuela-670c525d2fd51feb3af8"
+    },
+    {
+      "name": "JW Marriott Hotel Caracas",
+      "kind": "stay",
+      "locality": "Caracas",
+      "lat": 10.489659,
+      "lon": -66.864304,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Av. Venezuela con Calle Mohedano, El Rosal",
+      "url": "https://www.marriott.com/CCSJW",
+      "id": "venezuela-dbfc6ba7c398a3d16060"
+    },
+    {
+      "name": "Intercontinental Tamanaco Caracas",
+      "kind": "stay",
+      "locality": "Caracas",
+      "lat": 10.4771,
+      "lon": -66.856161,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Final Av. Principal De Las Mercedes",
+      "url": "https://www.ihg.com/intercontinental/hotels/gb/en/caracas/ccsha/hoteldetail",
+      "id": "venezuela-3b806afb2a88c7ccc5fb"
+    },
+    {
+      "name": "Ambassador Suites Hotel Caracas",
+      "kind": "stay",
+      "locality": "Caracas",
+      "lat": 10.492131,
+      "lon": -66.862082,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Av. Francisco de Miranda con Av. El Parque",
+      "url": "https://ambassadorcaracas.com/",
+      "id": "venezuela-9f5bba36f10b48c2f677"
+    },
+    {
+      "name": "Hotel Eurobuilding",
+      "kind": "stay",
+      "locality": "Caracas",
+      "lat": 10.482439,
+      "lon": -66.850058,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Calle La Guairita, Chuao Caracas, 1064 A",
+      "url": "https://www.hoteleuro.com/home/2-caracas",
+      "id": "venezuela-7c39a45ed4880389afee"
+    },
+    {
+      "name": "Altamira Suites",
+      "kind": "stay",
+      "locality": "Caracas",
+      "lat": 10.498883,
+      "lon": -66.847704,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "1ª Transversal con 1ª Avenida Urb. Los Palos Grandes",
+      "url": "http://www.alsuites.com/",
+      "id": "venezuela-bcd0c53d4ce05daf9ece"
+    },
+    {
+      "name": "Tony Roma's",
+      "kind": "eat",
+      "locality": "Caracas",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "address": "Las Mercedes",
+      "id": "venezuela-d7d30bbb1fb0a01204ff"
+    },
+    {
+      "name": "Café Ole",
+      "kind": "eat",
+      "locality": "Caracas",
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "id": "venezuela-f015a4a1011645f518a2"
+    },
+    {
+      "name": "Caracas",
+      "kind": "area",
+      "locality": "Caracas",
+      "lat": 10.5,
+      "lon": -66.9167,
+      "sourceUrl": "https://en.wikivoyage.org/wiki/Caracas",
+      "id": "venezuela-44ab679f8dca89558566"
+    }
+  ],
+  "status": "researched",
+  "note": "Fetched 2 distinct public Wikivoyage source pages; attempted 2 article titles covering the country, capital(s), and 0 existing destination(s). Only explicit structured facts are retained. Locality defaults to the source article area, not a verified street location. Article-center coordinates identify areas only; venue coordinates are never inferred. Missing fields and quality tiers are intentionally omitted. Source checked dates are retrieval dates, not venue, safety, availability, or price verification; community-edited facts may be outdated. Descriptive prose and unstructured listings were not imported. Subdistrict follow-up is limited to six direct linked subpages per capital/destination, one level; no exhaustive venue census or independent business-site checks."
+}
