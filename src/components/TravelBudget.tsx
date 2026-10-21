@@ -18,21 +18,21 @@ export function TravelBudget({ days, onDaysChange }: { days: number; onDaysChang
   return (
     <div className="space-y-6">
       <div>
-        <h3 className="text-xl font-semibold text-white">A budget you can make your own</h3>
+        <h3 className="text-lg font-semibold tracking-tight text-white">A budget you can make your own</h3>
         <p className="mt-2 max-w-3xl text-sm leading-relaxed text-stone-400">Compare mid-range and premium travel, including a 10% contingency. All amounts are USD. Starting values are illustrative planning inputs, not researched local averages or live quotes. Replace them with prices for your dates; convert local-currency quotes to USD first.</p>
       </div>
-      <div className="grid grid-cols-1 gap-4 rounded-2xl border border-white/10 bg-stone-900/50 p-4 sm:grid-cols-3 sm:p-5">
-        <label className="text-sm text-stone-300">Trip length
+      <div className="grid grid-cols-2 items-end gap-3 rounded-xl border border-white/10 bg-stone-900/30 p-3 sm:grid-cols-3 sm:p-4">
+        <label className="col-span-2 min-w-0 text-xs text-stone-300 sm:col-span-1">Trip length
           <select className={inputClass} value={days} onChange={event => onDaysChange(Number(event.target.value))}>
             {[3, 5, 7, 10, 14].map(day => <option key={day} value={day}>{day} days / {day - 1} nights</option>)}
           </select>
         </label>
-        <label className="text-sm text-stone-300">Travellers
+        <label className="min-w-0 text-xs text-stone-300">Travellers
           <select className={inputClass} value={people} onChange={event => setPeople(Number(event.target.value))}>
             {[1, 2, 3, 4, 5, 6, 7, 8].map(count => <option key={count} value={count}>{count}</option>)}
           </select>
         </label>
-        <label className="text-sm text-stone-300">Rooms per night
+        <label className="min-w-0 text-xs text-stone-300">Rooms per night
           <select className={inputClass} value={rooms} onChange={event => setRooms(Number(event.target.value))}>
             {[1, 2, 3, 4, 5, 6, 7, 8].map(count => <option key={count} value={count}>{count}</option>)}
           </select>
@@ -48,11 +48,11 @@ export function TravelBudget({ days, onDaysChange }: { days: number; onDaysChang
                 <span className={`rounded-full px-2.5 py-1 text-[10px] font-medium uppercase tracking-wider ${style === 'premium' ? 'bg-amber-400/10 text-amber-300' : 'bg-white/5 text-stone-300'}`}>Illustrative · USD</span>
               </div>
               <p className="mt-1 text-xs text-stone-400">Adjust daily rates to suit your trip</p>
-              <div className="mt-5 space-y-4">
+              <div className="mt-5 divide-y divide-white/5">
                 {budgetCategories.map(category => (
-                  <label key={category.key} className="grid grid-cols-[1fr_7rem] items-center gap-3 text-sm text-stone-300">
+                  <label key={category.key} className="grid grid-cols-[minmax(0,1fr)_6rem] items-center gap-3 py-2 text-sm text-stone-300">
                     <span>{category.label}<span className="mt-1 block text-xs text-stone-500">USD / {category.unit}</span></span>
-                    <input className={inputClass} aria-label={`${style} ${category.label} USD per ${category.unit}`} type="number" min="0" max="100000" step="1" value={rates[style][category.key]} onChange={event => update(style, category.key, event.target.value)} />
+                    <input className={`${inputClass} !mt-0 text-right`} aria-label={`${style} ${category.label} USD per ${category.unit}`} type="number" min="0" max="100000" step="1" value={rates[style][category.key]} onChange={event => update(style, category.key, event.target.value)} />
                   </label>
                 ))}
               </div>

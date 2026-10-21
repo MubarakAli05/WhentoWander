@@ -97,12 +97,12 @@ export function TravelGuideMap({ places, activeId, onSelect }: Props) {
         <h3 className="text-sm font-semibold text-white">Explore the map</h3>
         <span className="inline-flex items-center gap-2 rounded-full bg-white/5 px-2.5 py-1 text-[11px] tabular-nums text-stone-300"><span aria-hidden="true" className="h-1.5 w-1.5 rounded-full bg-red-400" />{mapped} mapped places</span>
       </div>
-      <div ref={container} role="region" aria-label="Interactive map of listed travel places" className="guide-map h-[260px] bg-stone-800 sm:h-[360px]" />
+      <div ref={container} role="region" aria-label="Interactive map of listed travel places" className="guide-map h-[240px] bg-stone-800 sm:h-[320px] lg:h-[clamp(240px,45vh,420px)]" />
       <p className="px-5 py-3 text-xs leading-relaxed text-stone-400">
-        {!mapped ? 'No sourced coordinates for this selection. Use the place search links below; no location is guessed.' : 'Numbers match the results. Select a red pin to view a place; + means several places share a coordinate. Scroll zoom is disabled; use the map controls.'}
+        {!mapped ? 'No sourced coordinates for this selection. Use the listing map links; no location is guessed.' : 'Pins match listing numbers. Select a pin for details; + groups shared locations. Use the controls to zoom.'}
         {places.length > mapped && mapped > 0 && ` ${places.length - mapped} places have no sourced coordinates.`}
       </p>
-      {failed && <p role="status" className="px-5 pb-4 text-xs text-amber-300">The map service could not load completely. All places and map search links remain available below.</p>}
+      {failed && <p role="status" className="px-5 pb-4 text-xs text-amber-300">The map service could not load completely. All listings and map search links remain available.</p>}
     </div>
   );
 }

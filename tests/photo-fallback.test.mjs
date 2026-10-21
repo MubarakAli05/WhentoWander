@@ -13,10 +13,12 @@ const server = await createServer({ root, server: { middlewareMode: true, hmr: f
 let SmartImage;
 let Gallery;
 let data;
+let getHeroImageDelivery;
 try {
   ({ SmartImage } = await server.ssrLoadModule('/src/components/SmartImage.tsx'));
   ({ Gallery } = await server.ssrLoadModule('/src/components/Gallery.tsx'));
   data = await server.ssrLoadModule('/src/data/index.ts');
+  ({ getHeroImageDelivery } = await server.ssrLoadModule('/src/data/heroImage.ts'));
 } finally {
   await server.close();
 }
@@ -53,6 +55,51 @@ test('all country chains preserve subject photos before the shared photographic 
     assert.equal(sources[0], country.gallery[1].url, country.name);
     assert.equal(country.heroImage, country.gallery[0].url, country.name);
   }
+});
+
+test('country covers use bounded responsive originals without changing local previews', () => {
+  for (const country of data.allCountries) {
+    const image = country.gallery[0];
+    const hero = getHeroImageDelivery(image);
+    assert.equal(hero.previewSrc, image.url);
+    assert.ok(hero.fallbackSources.includes(image.url));
+    if (hero.srcSet) {
+      const widths = [...hero.srcSet.matchAll(/ (\d+)w/g)].map(match => Number(match[1]));
+      assert.ok(widths.length > 0);
+      assert.ok(widths.every(width => width <= 3840 && width <= image.width));
+    }
+  }
+  const switzerland = data.allCountries.find(country => country.id === 'switzerland');
+  const hero = getHeroImageDelivery(switzerland.gallery[0]);
+  assert.match(hero.src, /\/1920px-View_from_Pilatus%2C_retouched.jpg$/);
+  assert.match(hero.srcSet, /3840px-View_from_Pilatus%2C_retouched.jpg 3840w/);
+  assert.match(hero.sizes, /^max\(100vw, \d+vh, \d+px\)$/);
+  assert.equal(hero.fallbackSources[0], switzerland.gallery[0].fullUrl);
+});
+
+test('hero delivery avoids unsupported transforms and upscaling small originals', () => {
+  const image = data.allCountries.find(country => country.id === 'switzerland').gallery[0];
+  for (const fullUrl of ['https://example.com/photo.jpg', 'not-a-url', 'https://upload.wikimedia.org/wikipedia/commons/4/47/photo.png']) {
+    const hero = getHeroImageDelivery({ ...image, fullUrl });
+    assert.equal(hero.src, fullUrl);
+    assert.equal(hero.srcSet, undefined);
+  }
+  assert.equal(getHeroImageDelivery({ ...image, width: undefined }).srcSet, undefined);
+  const small = getHeroImageDelivery({ ...image, width: 800, height: 600 });
+  assert.equal(small.src, image.fullUrl);
+  assert.match(small.srcSet, / 800w$/);
+  assert.doesNotMatch(small.srcSet, /\/thumb\//);
+});
+
+test('SmartImage renders responsive covers with an immediate local preview', () => {
+  const image = data.allCountries.find(country => country.id === 'switzerland').gallery[0];
+  const html = renderToStaticMarkup(createElement(SmartImage, {
+    ...getHeroImageDelivery(image), alt: image.alt, loading: 'eager', fetchPriority: 'high',
+  }));
+  assert.match(html, /srcSet="[^"]*3840w"/);
+  assert.match(html, /sizes="max\(100vw/);
+  assert.match(html, /fetchpriority="high"/);
+  assert.match(html, /src="\/images\/countries\/switzerland-1.jpg"/);
 });
 
 test('SmartImage keeps primary photos and identifies a generic fallback honestly', () => {

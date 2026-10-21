@@ -23,6 +23,7 @@ import { Gallery } from '@/components/Gallery';
 import { PhotoAttribution } from '@/components/DiscoveryHero';
 import { getPhenomenonPhoto } from '@/data/seasonalDiscovery';
 import { CountryTravelGuide } from '@/components/CountryTravelGuide';
+import { getHeroImageDelivery } from '@/data/heroImage';
 
 export function CountryPage() {
   const { slug } = useParams();
@@ -56,25 +57,20 @@ export function CountryPage() {
       {/* HERO */}
       <section className="relative h-[70vh] min-h-[500px] flex items-end overflow-hidden">
         <div className="absolute inset-0">
-          <motion.div
-            className="w-full h-full"
-            initial={{ scale: 1.05 }}
-            animate={{ scale: 1 }}
-            transition={{ duration: 6, ease: 'easeOut' }}
-          >
-            {(() => {
-              const image = getCountryImageConfig(country);
-              return (
-                <SmartImage
-                  src={image.primary}
-                  alt={`${country.name} - ${country.description}`}
-                  fallbackSources={getCountryImageFallbacks(country)}
-                  className="w-full h-full"
-                  loading="eager"
-                />
-              );
-            })()}
-          </motion.div>
+          {(() => {
+            const image = getCountryImageConfig(country);
+            const delivery = country.gallery?.[0] ? getHeroImageDelivery(country.gallery[0]) : { src: image.primary, fallbackSources: [] };
+            return (
+              <SmartImage
+                {...delivery}
+                alt={country.gallery?.[0]?.alt || `${country.name} - ${country.description}`}
+                fallbackSources={[...delivery.fallbackSources, ...getCountryImageFallbacks(country)]}
+                className="w-full h-full"
+                loading="eager"
+                fetchPriority="high"
+              />
+            );
+          })()}
           <div className="absolute inset-0 bg-gradient-to-t from-stone-950 via-black/40 to-transparent" />
         </div>
 

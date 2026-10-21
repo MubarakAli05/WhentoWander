@@ -7,6 +7,8 @@ interface Props {
   className?: string;
   loading?: 'lazy' | 'eager';
   sizes?: string;
+  srcSet?: string;
+  fetchPriority?: 'high' | 'low' | 'auto';
   fallbackSources?: string[];
   fit?: 'cover' | 'contain';
   previewSrc?: string;
@@ -16,16 +18,18 @@ const FINAL_FALLBACK = fallbackPhoto.url;
 
 export function SmartImage({ src, fallbackSources = [], ...props }: Props) {
   const sources = [...new Set([src, ...fallbackSources, FINAL_FALLBACK].filter(Boolean))];
-  return <ImageWithFallback key={sources.join('|')} {...props} sources={sources} />;
+  return <ImageWithFallback key={JSON.stringify([sources, props.srcSet, props.sizes])} {...props} sources={sources} />;
 }
 
 function ImageWithFallback({
-  sources, alt, className = '', loading = 'lazy', sizes, fit = 'cover', previewSrc,
+  sources, alt, className = '', loading = 'lazy', sizes, srcSet, fetchPriority, fit = 'cover', previewSrc,
 }: Omit<Props, 'src' | 'fallbackSources'> & { sources: string[] }) {
   const [loaded, setLoaded] = useState(false);
   const [sourceIndex, setSourceIndex] = useState(0);
   const exhausted = sourceIndex >= sources.length;
   const isFallbackPhoto = sources[sourceIndex] === FINAL_FALLBACK;
+  // React 18 forwards this browser attribute only in lowercase.
+  const priority = fetchPriority ? { fetchpriority: fetchPriority } : {};
 
   return (
     <div className={`relative overflow-hidden bg-stone-900 ${className}`}>
@@ -45,7 +49,9 @@ function ImageWithFallback({
           alt={isFallbackPhoto ? `Travel photo fallback: ${fallbackPhoto.alt}. Requested photo: ${alt}` : alt}
           loading={loading}
           decoding="async"
-          sizes={sizes}
+          {...priority}
+          srcSet={sourceIndex === 0 ? srcSet : undefined}
+          sizes={sourceIndex === 0 ? sizes : undefined}
           onLoad={() => setLoaded(true)}
           onError={() => {
             setLoaded(false);
