@@ -1,6 +1,7 @@
 import { Link, useSearchParams } from 'react-router-dom';
 import { ArrowRight } from 'lucide-react';
 import { PHENOMENA, MONTHS, allCountries } from '@/data';
+import { getSeasonColor } from '@/data/theme';
 import { DiscoveryHero, PhotoAttribution } from '@/components/DiscoveryHero';
 import { SmartImage } from '@/components/SmartImage';
 import { PHENOMENON_CATEGORIES, filterPhenomena, getPhenomenonCategory, getPhenomenonGuidance, getPhenomenonPhoto, guideMonths, readSeasonalFilters, resetSeasonalFilters, updateSeasonalFilter } from '@/data/seasonalDiscovery';
@@ -75,7 +76,7 @@ export function PhenomenaPage() {
                   <figcaption className="px-5 pt-3 text-xs leading-relaxed text-stone-400">{photo.label}</figcaption>
                 </figure>
                 <div className="flex flex-1 flex-col p-5">
-                  <p className="text-xs font-medium text-amber-400">{getPhenomenonCategory(phenomenon)}</p>
+                  <p className={`self-start rounded-full border px-3 py-1 text-xs font-medium ${getSeasonColor(phenomenon.name)}`}>{getPhenomenonCategory(phenomenon)}</p>
                   <h3 className="mt-3 text-2xl font-semibold tracking-tight text-white">
                     <Link to={`/phenomena/${phenomenon.slug}${detailSearch}`} className="hover:text-amber-400 focus-visible:outline focus-visible:outline-amber-400">{phenomenon.name}</Link>
                   </h3>

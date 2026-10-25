@@ -39,7 +39,7 @@ export function ImageModal({ images, index, onClose, onNavigate, contextLabel }:
     <dialog
       ref={dialogRef}
       aria-label={`${contextLabel ?? 'Travel'} photo gallery`}
-      className="gallery-dialog fixed inset-0 m-0 h-dvh max-h-none w-screen max-w-none bg-black/95 text-white backdrop:bg-black/80"
+      className="photo-surface gallery-dialog fixed inset-0 m-0 h-dvh max-h-none w-screen max-w-none bg-black/95 text-white backdrop:bg-black/80"
       onCancel={event => { event.preventDefault(); onClose(); }}
       onKeyDown={event => {
         if (event.key === 'Escape') { event.preventDefault(); onClose(); }

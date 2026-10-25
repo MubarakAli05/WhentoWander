@@ -1,6 +1,7 @@
 import { Link, useSearchParams } from 'react-router-dom';
 import { ArrowRight, CalendarRange } from 'lucide-react';
 import { EVENTS, EVENT_CATEGORIES, MONTHS, allCountries } from '@/data';
+import { getMonthColor } from '@/data/theme';
 import { DiscoveryHero, PhotoAttribution } from '@/components/DiscoveryHero';
 import { SmartImage } from '@/components/SmartImage';
 import { filterEvents, getEventPhoto, getEventTiming, guideMonths, readSeasonalFilters, resetSeasonalFilters, updateSeasonalFilter } from '@/data/seasonalDiscovery';
@@ -74,8 +75,8 @@ export function EventsPage() {
                 </figure>
                 <div className="p-5">
                   <div className="flex flex-wrap items-center gap-x-3 gap-y-2 text-xs text-amber-400">
-                    <span>{event.category}</span>
-                    <span className="inline-flex items-center gap-1"><CalendarRange aria-hidden="true" className="h-3.5 w-3.5" /> {guideMonths([event.month])} guide</span>
+                    <span className="pastel-panel rounded-full border border-mauve-accent bg-mauve px-3 py-1 text-cocoa">{event.category}</span>
+                    <span className={`inline-flex items-center gap-1 rounded-full border px-3 py-1 ${getMonthColor(event.month)}`}><CalendarRange aria-hidden="true" className="h-3.5 w-3.5" /> {guideMonths([event.month])} guide</span>
                   </div>
                   <h3 className="mt-3 text-2xl font-semibold tracking-tight text-white">{event.title}</h3>
                   <p className="mt-2 text-sm font-medium text-stone-300">{event.location} · {event.countryName}</p>

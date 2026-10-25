@@ -61,7 +61,7 @@ function ImageWithFallback({
         />
       )}
       {isFallbackPhoto && loaded && (
-        <span className="pointer-events-none absolute bottom-0 left-0 right-0 bg-black/70 px-2 py-1 text-[10px] text-white" title={fallbackPhoto.modifications}>
+        <span className="photo-surface pointer-events-none absolute bottom-0 left-0 right-0 bg-black/70 px-2 py-1 text-[10px] text-white" title={fallbackPhoto.modifications}>
           Travel fallback · Lake Pukaki · {fallbackPhoto.photographer} · {fallbackPhoto.license}
         </span>
       )}

@@ -240,11 +240,11 @@ export function getExperienceCategories() {
 
 export function getRatingColor(rating: MonthRating): string {
   switch (rating) {
-    case 'best': return 'bg-emerald-500';
-    case 'good': return 'bg-amber-400';
-    case 'fair': return 'bg-stone-400';
-    case 'off': return 'bg-stone-600';
-    default: return 'bg-stone-300';
+    case 'best': return 'bg-sage';
+    case 'good': return 'bg-gold';
+    case 'fair': return 'bg-dusty-rose';
+    case 'off': return 'bg-sand';
+    default: return 'bg-sand';
   }
 }
 

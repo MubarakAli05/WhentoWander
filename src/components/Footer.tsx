@@ -5,13 +5,13 @@ import fallbackPhoto from '../data/fallbackPhoto.json';
 
 export function Footer() {
   return (
-    <footer className="bg-stone-950 text-white border-t border-white/5">
+    <footer className="photo-surface bg-cocoa text-white border-t border-white/5">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="grid grid-cols-1 md:grid-cols-4 gap-12 py-16">
           <div className="md:col-span-1">
             <Link to="/" className="flex items-center gap-2 mb-4">
               <BrandLogo />
-              <span className="text-sm font-semibold tracking-[0.2em] uppercase">When to Wander</span>
+              <span className="font-serif text-xl">When to Wander</span>
             </Link>
             <p className="text-stone-400 text-sm leading-relaxed">
               Every place has a moment. Find yours.

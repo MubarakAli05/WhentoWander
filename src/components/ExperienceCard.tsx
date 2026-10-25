@@ -3,6 +3,7 @@ import { ArrowRight, CalendarDays } from 'lucide-react';
 import type { Destination } from '@/data';
 import { allCountries, MONTHS } from '@/data';
 import { getExperienceDestinationPhoto } from '@/data/experienceDiscovery';
+import { getSeasonColor } from '@/data/theme';
 import { SmartImage } from './SmartImage';
 import { PhotoAttribution } from './DiscoveryHero';
 import { FavoriteButton } from './FavoriteButton';
@@ -36,8 +37,8 @@ export function ExperienceCard({ destination }: Props) {
         <p className="mb-2 text-xs uppercase tracking-[0.15em] text-amber-300">{country?.name} · {destination.region}</p>
         <h3 className="text-2xl font-semibold text-white"><Link to={href} className="hover:text-amber-300 focus-visible:outline focus-visible:outline-amber-300">{destination.name}</Link></h3>
         <p className="mt-3 text-sm leading-relaxed text-stone-300">{destination.whyVisit || destination.description}</p>
-        <div className="my-5 rounded-xl bg-stone-950/70 p-4">
-          <p className="mb-2 flex items-center gap-2 text-xs font-semibold uppercase tracking-wide text-amber-200"><CalendarDays className="h-4 w-4 shrink-0" aria-hidden="true" />Recommended visiting months</p>
+        <div className={`my-5 rounded-xl border p-4 ${getSeasonColor(destination.bestSeasonLabel)}`}>
+          <p className="mb-2 flex items-center gap-2 text-xs font-semibold uppercase tracking-wide text-cocoa"><CalendarDays className="h-4 w-4 shrink-0" aria-hidden="true" />Recommended visiting months</p>
           <p className="text-sm leading-relaxed text-stone-200">{months || 'Check local seasonal guidance'}</p>
           <p className="mt-2 text-xs leading-relaxed text-stone-400">{destination.bestSeasonLabel} · {destination.duration}</p>
         </div>

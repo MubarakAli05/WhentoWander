@@ -3,6 +3,7 @@ import { motion } from 'framer-motion';
 import { Calendar } from 'lucide-react';
 import type { Destination } from '@/data';
 import { allCountries } from '@/data';
+import { getRegionColor } from '@/data/theme';
 import { SmartImage } from './SmartImage';
 import { FavoriteButton } from './FavoriteButton';
 
@@ -20,7 +21,7 @@ export function DestinationCard({ destination, index = 0 }: Props) {
       whileInView={{ opacity: 1, y: 0 }}
       viewport={{ once: true, margin: '-50px' }}
       transition={{ duration: 0.5, delay: Math.min(index * 0.08, 0.4) }}
-      className="group relative bg-stone-900 rounded-lg overflow-hidden"
+      className="photo-surface group relative bg-stone-900 rounded-3xl overflow-hidden"
     >
       <Link to={`/destination/${destination.slug}`} className="block">
         <div className="aspect-[4/5] overflow-hidden">
@@ -34,7 +35,7 @@ export function DestinationCard({ destination, index = 0 }: Props) {
         </div>
         <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/30 to-transparent" />
         <div className="absolute bottom-0 left-0 right-0 p-5">
-          <p className="text-amber-400/80 text-xs uppercase tracking-[0.15em] mb-1.5">
+          <p className={`inline-flex rounded-full border px-2.5 py-1 text-xs font-medium mb-1.5 ${getRegionColor(country?.continent ?? '')}`}>
             {country?.flag} {country?.name}
           </p>
           <h3 className="text-white text-xl font-semibold mb-2">{destination.name}</h3>

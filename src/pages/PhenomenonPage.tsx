@@ -1,6 +1,7 @@
 import { Link, useParams, useSearchParams } from 'react-router-dom';
 import { ArrowLeft, MapPin, Camera, Sparkles } from 'lucide-react';
 import { PHENOMENA, allCountries } from '@/data';
+import { getSeasonColor } from '@/data/theme';
 import { DiscoveryHero } from '@/components/DiscoveryHero';
 import { getPhenomenonCategory, getPhenomenonGuidance, getPhenomenonPhoto, guideMonths } from '@/data/seasonalDiscovery';
 
@@ -35,7 +36,7 @@ export function PhenomenonPage() {
         <DiscoveryHero eyebrow={getPhenomenonCategory(phenomenon)} title={phenomenon.name} description={phenomenon.summary} image={photo.image} imageLabel={photo.label}>
           <p className="text-sm leading-relaxed text-stone-400">Seasonal possibility, not a guaranteed sighting. Start with a place, then check its local calendar.</p>
         </DiscoveryHero>
-        <section aria-labelledby="timing-guidance" className="my-8 rounded-2xl border border-amber-400/20 bg-amber-400/5 p-5 sm:p-6">
+        <section aria-labelledby="timing-guidance" className={`my-8 rounded-2xl border p-5 sm:p-6 ${getSeasonColor(phenomenon.name)}`}>
           <h2 id="timing-guidance" className="text-lg font-semibold text-white">Before choosing your dates</h2>
           <p className="mt-2 text-sm leading-relaxed text-stone-300">{getPhenomenonGuidance(phenomenon)}</p>
         </section>
@@ -52,8 +53,8 @@ export function PhenomenonPage() {
                 <p className="text-stone-500 text-[10px] uppercase tracking-wide mb-2">Where</p>
                 <p className="text-white text-sm">{phenomenon.location}</p>
               </div>
-              <div className="bg-stone-900 border border-white/5 rounded-lg p-5">
-                <Sparkles className="w-4 h-4 text-amber-400 mb-3" />
+              <div className={`border rounded-lg p-5 ${getSeasonColor(phenomenon.name)}`}>
+                <Sparkles className="w-4 h-4 text-cocoa mb-3" />
                 <p className="text-stone-400 text-xs uppercase tracking-wide mb-2">Guide months</p>
                 <p className="text-white text-sm leading-relaxed">{guideMonths(phenomenon.bestMonths)}</p>
                 <p className="mt-3 text-xs leading-relaxed text-stone-400">Reference window only; not the local season for every listed country.</p>
@@ -66,7 +67,7 @@ export function PhenomenonPage() {
             </div>
 
             <div className="bg-stone-900 border border-white/5 rounded-lg p-6">
-              <p className="text-amber-400 text-[10px] uppercase tracking-[0.2em] font-semibold mb-3">Why it is special</p>
+              <p className="pastel-panel inline-block rounded-full border border-mauve-accent bg-mauve px-3 py-1 text-cocoa text-[10px] uppercase tracking-[0.2em] font-semibold mb-3">Why it is special</p>
               <p className="text-stone-300 leading-relaxed">{phenomenon.whyItIsSpecial}</p>
             </div>
           </div>

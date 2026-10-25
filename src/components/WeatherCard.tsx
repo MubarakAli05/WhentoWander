@@ -1,4 +1,4 @@
-import { Link } from 'react-router-dom';
+import { getSeasonColor } from '@/data/theme';
 import { motion } from 'framer-motion';
 import { Cloud, Sun, CloudRain, Snowflake } from 'lucide-react';
 import type { WeatherInfo } from '@/data';
@@ -9,10 +9,10 @@ interface Props {
 
 function getWeatherIcon(season: string) {
   const s = season.toLowerCase();
-  if (s.includes('summer') || s.includes('dry')) return <Sun className="w-5 h-5 text-amber-400" />;
-  if (s.includes('winter') || s.includes('snow')) return <Snowflake className="w-5 h-5 text-blue-300" />;
-  if (s.includes('monsoon') || s.includes('wet') || s.includes('rain')) return <CloudRain className="w-5 h-5 text-blue-400" />;
-  return <Cloud className="w-5 h-5 text-stone-400" />;
+  if (s.includes('summer') || s.includes('dry')) return <Sun className="w-5 h-5 text-cocoa" />;
+  if (s.includes('winter') || s.includes('snow')) return <Snowflake className="w-5 h-5 text-cocoa" />;
+  if (s.includes('monsoon') || s.includes('wet') || s.includes('rain')) return <CloudRain className="w-5 h-5 text-cocoa" />;
+  return <Cloud className="w-5 h-5 text-cocoa" />;
 }
 
 export function WeatherCard({ weather }: Props) {
@@ -25,7 +25,7 @@ export function WeatherCard({ weather }: Props) {
           whileInView={{ opacity: 1, y: 0 }}
           viewport={{ once: true }}
           transition={{ duration: 0.4, delay: Math.min(i * 0.08, 0.3) }}
-          className="bg-stone-900 rounded-lg p-5 border border-white/5"
+          className={`rounded-lg p-5 border ${getSeasonColor(w.season)}`}
         >
           <div className="flex items-center gap-3 mb-4">
             {getWeatherIcon(w.season)}

@@ -21,7 +21,7 @@ export function FavoriteButton({ slug, variant = 'default' }: Props) {
   };
 
   const baseClass = variant === 'overlay'
-    ? 'p-2 rounded-full bg-black/40 backdrop-blur-sm hover:bg-black/60'
+    ? 'photo-surface p-2 rounded-full bg-black/40 backdrop-blur-sm hover:bg-black/60'
     : variant === 'solid'
     ? 'px-4 py-2 rounded-full bg-stone-900 border border-white/10 hover:border-amber-400/40 flex items-center gap-2 text-sm'
     : 'p-2 rounded-full hover:bg-white/5';

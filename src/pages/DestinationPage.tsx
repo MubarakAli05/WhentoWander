@@ -20,6 +20,7 @@ import { Breadcrumbs } from '@/components/Breadcrumbs';
 import { EmptyState } from '@/components/EmptyState';
 import { SmartImage } from '@/components/SmartImage';
 import { MONTHS } from '@/data';
+import { getRegionColor } from '@/data/theme';
 
 export function DestinationPage() {
   const { slug } = useParams();
@@ -59,7 +60,7 @@ export function DestinationPage() {
               loading="eager"
             />
           </motion.div>
-          <div className="absolute inset-0 bg-gradient-to-t from-stone-950 via-black/40 to-transparent" />
+          <div className="absolute inset-0 bg-gradient-to-t from-stone-950 via-ivory/80 to-transparent" />
         </div>
 
         <div className="relative z-10 max-w-7xl mx-auto w-full px-4 sm:px-6 lg:px-8 pb-12 md:pb-16">
@@ -77,7 +78,7 @@ export function DestinationPage() {
             className="flex items-start justify-between gap-4"
           >
             <div>
-              <p className="text-amber-400 text-xs uppercase tracking-[0.2em] font-semibold mb-3">
+              <p className={`inline-flex rounded-full border px-3 py-1.5 text-xs font-semibold mb-3 ${getRegionColor(country?.continent ?? '')}`}>
                 {country?.flag} {country?.name} · {destination.region}
               </p>
               <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white tracking-tight mb-4">
@@ -115,7 +116,7 @@ export function DestinationPage() {
             <MapPin className="w-4 h-4 text-amber-400/70" />
             <div>
               <p className="text-stone-500 text-[10px] uppercase tracking-wide">Region</p>
-              <p className="text-white text-sm font-medium">{destination.region}</p>
+              <p className={`mt-1 inline-flex rounded-full border px-2.5 py-1 text-sm font-medium ${getRegionColor(country?.continent ?? '')}`}>{destination.region}</p>
             </div>
           </div>
           <div className="sm:hidden">
@@ -187,7 +188,7 @@ export function DestinationPage() {
                   whileInView={{ opacity: 1, y: 0 }}
                   viewport={{ once: true }}
                   transition={{ duration: 0.5, delay: Math.min(i * 0.08, 0.3) }}
-                  className="group relative rounded-lg overflow-hidden aspect-[16/11]"
+                  className="photo-surface group relative rounded-3xl overflow-hidden aspect-[16/11]"
                 >
                   <SmartImage
                     src={exp.image}

@@ -3,15 +3,107 @@
 @tailwind utilities;
 
 @layer base {
+  :root {
+    color-scheme: light;
+    --theme-ink: 45 38 27;
+    --theme-muted: 107 94 78;
+    --theme-accent: 137 72 64;
+    --theme-danger: 145 77 69;
+    --theme-border: 171 153 127;
+    --theme-tint: 116 139 115;
+    --theme-canvas: 246 241 232;
+    --theme-card: 253 250 245;
+    --theme-panel: 237 230 214;
+  }
+
+  body {
+    background: #F6F1E8;
+    color: rgb(var(--theme-ink));
+  }
+
+  h1, h2, h3, h4 {
+    font-family: Georgia, 'Times New Roman', serif;
+    font-weight: 400;
+  }
+
+  .pastel-panel {
+    --theme-muted: 82 68 51;
+  }
+
+  .photo-surface {
+    --theme-ink: 253 250 245;
+    --theme-muted: 225 216 201;
+    --theme-accent: 216 192 138;
+    --theme-danger: 233 200 194;
+    --theme-border: 253 250 245;
+    --theme-tint: 253 250 245;
+  }
+
   :focus-visible {
-    outline: 2px solid #fbbf24;
+    outline: 2px solid #894840;
     outline-offset: 4px;
   }
 
   ::selection {
-    background: #fbbf24;
-    color: #1c1917;
+    background: #E9C8C2;
+    color: #2D261B;
   }
+}
+
+/* Keep existing utility-based screens on one palette; photo surfaces retain light captions. */
+@layer utilities {
+  .bg-stone-950 { background-color: rgb(var(--theme-canvas)); }
+  .bg-stone-950\/95 { background-color: rgb(var(--theme-canvas) / .95); }
+  .bg-stone-950\/80 { background-color: rgb(var(--theme-canvas) / .8); }
+  .bg-stone-950\/70 { background-color: rgb(var(--theme-canvas) / .7); }
+  .bg-stone-900, .hover\:bg-stone-900:hover { background-color: rgb(var(--theme-card)); }
+  .bg-stone-900\/80 { background-color: rgb(var(--theme-card) / .8); }
+  .bg-stone-900\/60 { background-color: rgb(var(--theme-card) / .6); }
+  .bg-stone-900\/50 { background-color: rgb(var(--theme-card) / .5); }
+  .bg-stone-900\/30 { background-color: rgb(var(--theme-card) / .3); }
+  .bg-stone-800, .hover\:bg-stone-800:hover { background-color: rgb(var(--theme-panel)); }
+  .bg-stone-700, .hover\:bg-stone-700:hover { background-color: #BED0BF; }
+  .bg-white\/\[0\.03\] { background-color: rgb(var(--theme-tint) / .05); }
+  .bg-white\/5, .hover\:bg-white\/5:hover { background-color: rgb(var(--theme-tint) / .08); }
+  .bg-white\/10, .hover\:bg-white\/10:hover { background-color: rgb(var(--theme-tint) / .13); }
+  .hover\:bg-white\/15:hover { background-color: rgb(var(--theme-tint) / .2); }
+
+  .text-white, .hover\:text-white:hover { color: rgb(var(--theme-ink)); }
+  .text-white\/90 { color: rgb(var(--theme-ink) / .9); }
+  .text-white\/80, .hover\:text-white\/80:hover { color: rgb(var(--theme-ink) / .85); }
+  .text-white\/70, .text-white\/60, .text-white\/50, .text-white\/40,
+  .text-stone-200, .text-stone-300, .text-stone-400, .text-stone-500, .text-stone-600 {
+    color: rgb(var(--theme-muted));
+  }
+  .placeholder\:text-white\/50::placeholder, .placeholder\:text-stone-500::placeholder { color: rgb(var(--theme-muted)); }
+  .text-stone-950 { color: #2D261B; }
+
+  .text-amber-200, .text-amber-300, .text-amber-400,
+  .text-amber-100\/90, .text-amber-400\/60, .text-amber-400\/70, .text-amber-400\/80, .text-amber-400\/90,
+  .hover\:text-amber-200:hover, .hover\:text-amber-300:hover, .hover\:text-amber-400:hover,
+  .group:hover .group-hover\:text-amber-400 { color: rgb(var(--theme-accent)); }
+  .text-blue-300, .text-blue-400 { color: #4D6289; }
+  .text-red-300, .text-red-400 { color: rgb(var(--theme-danger)); }
+  .bg-amber-400 { background-color: #E9C8C2; }
+  .bg-amber-300, .hover\:bg-amber-300:hover { background-color: #E9C8C2; }
+  .bg-amber-300\/5, .bg-amber-400\/5 { background-color: #E9C8C233; }
+  .bg-amber-400\/10, .bg-amber-400\/15, .hover\:bg-amber-400\/10:hover { background-color: #E9C8C266; }
+  .hover\:bg-amber-400\/20:hover { background-color: #E9C8C299; }
+  .bg-amber-400\/60 { background-color: #E9C8C299; }
+  .border-amber-400, .focus\:border-amber-400:focus, .focus\:border-amber-300:focus, .hover\:border-amber-300:hover { border-color: #BA7C74; }
+  .border-amber-300\/20, .border-amber-400\/15, .border-amber-400\/20, .border-amber-400\/25,
+  .border-amber-400\/30, .border-amber-400\/40, .border-amber-400\/50,
+  .focus\:border-amber-400\/40:focus, .focus\:border-amber-400\/50:focus,
+  .hover\:border-amber-400\/30:hover, .hover\:border-amber-400\/40:hover, .hover\:border-amber-400\/50:hover { border-color: #BA7C7480; }
+
+  .border-white\/5, .border-white\/10 { border-color: rgb(var(--theme-border) / .25); }
+  .border-white\/15, .border-white\/20, .hover\:border-white\/15:hover { border-color: rgb(var(--theme-border) / .4); }
+  .border-white\/30, .hover\:border-white\/25:hover { border-color: rgb(var(--theme-border) / .6); }
+  .decoration-white\/20 { text-decoration-color: rgb(var(--theme-border) / .5); }
+  .from-stone-950 { --tw-gradient-from: rgb(var(--theme-canvas)) var(--tw-gradient-from-position); --tw-gradient-to: rgb(var(--theme-canvas) / 0) var(--tw-gradient-to-position); --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to); }
+  .from-stone-900 { --tw-gradient-from: rgb(var(--theme-card)) var(--tw-gradient-from-position); --tw-gradient-to: rgb(var(--theme-card) / 0) var(--tw-gradient-to-position); --tw-gradient-stops: var(--tw-gradient-from), var(--tw-gradient-to); }
+  .via-stone-900\/60 { --tw-gradient-stops: var(--tw-gradient-from), rgb(var(--theme-card) / .6) var(--tw-gradient-via-position), var(--tw-gradient-to); }
+  .to-stone-950 { --tw-gradient-to: rgb(var(--theme-canvas)) var(--tw-gradient-to-position); }
 }
 
 .guide-map {
@@ -24,17 +116,18 @@
   justify-content: center;
   width: 30px;
   height: 30px;
-  border: 2px solid white;
+  border: 2px solid #BA7C74;
   border-radius: 50% 50% 50% 0;
-  background: #dc2626;
-  color: white;
+  background: #E9C8C2;
+  color: #2D261B;
   font: 700 12px/1 system-ui, sans-serif;
   box-shadow: 0 2px 8px #0008;
 }
 
 .guide-map-pin.is-active {
-  background: #991b1b;
-  outline: 3px solid #fbbf24;
+  background: #BED0BF;
+  border-color: #617E63;
+  outline: 3px solid #D8C08A;
 }
 
 .guide-map-choice {

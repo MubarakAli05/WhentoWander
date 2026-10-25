@@ -1,15 +1,12 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64">
-  <defs>
-    <linearGradient id="mini-metal" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#fff0b4"/><stop offset=".45" stop-color="#e7bc63"/><stop offset="1" stop-color="#aa763c"/></linearGradient>
-    <radialGradient id="mini-sun" cx="32%" cy="24%" r="80%"><stop stop-color="#fff1b3"/><stop offset=".65" stop-color="#f0bd54"/><stop offset="1" stop-color="#b47731"/></radialGradient>
-  </defs>
-  <rect width="64" height="64" rx="15" fill="#111719"/>
-  <circle cx="30" cy="34" r="22" fill="#16252d" stroke="url(#mini-metal)" stroke-width="3"/>
-  <path d="M30 14v5m0 30v5M10 34h5m30 0h5" fill="none" stroke="#b9c6c9" stroke-width="2"/>
-  <path d="m44 20-10 18-18 10 10-18Z" fill="#f0f3e9"/>
-  <path d="m44 20-10 18-4-4Z" fill="url(#mini-metal)"/>
-  <path d="m16 48 14-14 4 4Z" fill="#809aa6"/>
-  <circle cx="49" cy="13" r="10" fill="#111719"/>
-  <circle cx="49" cy="13" r="6.5" fill="url(#mini-sun)"/>
-  <path d="M49 3V1m10 12h2m-5-7 2-2" fill="none" stroke="#ecc576" stroke-width="2" stroke-linecap="round"/>
+  <rect width="64" height="64" rx="15" fill="#E9C8C2"/>
+  <circle cx="30" cy="35" r="21" fill="#F6F1E8" stroke="#2D261B" stroke-width="2.5"/>
+  <path d="M13 35a17 17 0 0 0 17 17" fill="none" stroke="#BED0BF" stroke-width="5" stroke-linecap="round"/>
+  <path d="M30 52a17 17 0 0 0 17-17" fill="none" stroke="#C5CEDF" stroke-width="5" stroke-linecap="round"/>
+  <path d="m44 21-9 19-19 9 9-19Z" fill="#2D261B" stroke="#2D261B" stroke-width="1.5" stroke-linejoin="round"/>
+  <path d="m16 49 14-14 5 5Z" fill="#CBBED6"/>
+  <circle cx="30" cy="35" r="2.5" fill="#F6F1E8"/>
+  <circle cx="48" cy="15" r="12" fill="#E9C8C2"/>
+  <path d="M48 3v2m0 20v2M36 15h2m20 0h2M39.5 6.5l1.5 1.5m14 14 1.5 1.5m0-17L55 8" fill="none" stroke="#2D261B" stroke-width="2" stroke-linecap="round"/>
+  <circle cx="48" cy="15" r="7" fill="#D8C08A" stroke="#2D261B" stroke-width="1.5"/>
 </svg>

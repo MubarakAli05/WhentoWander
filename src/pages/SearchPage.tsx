@@ -7,6 +7,7 @@ import { SectionHeading } from '@/components/SectionHeading';
 import { DestinationCard } from '@/components/DestinationCard';
 import { EmptyState } from '@/components/EmptyState';
 import { SmartImage } from '@/components/SmartImage';
+import { getRegionColor } from '@/data/theme';
 
 export function SearchPage() {
   const [searchParams, setSearchParams] = useSearchParams();
@@ -84,6 +85,7 @@ export function SearchPage() {
                         />
                         <div>
                           <p className="text-white font-medium text-sm mb-1">{c.flag} {c.name}</p>
+                          <span className={`mb-1 inline-flex rounded-full border px-2.5 py-1 text-xs font-medium ${getRegionColor(c.continent)}`}>{c.continent}</span>
                           <p className="text-stone-500 text-xs line-clamp-1">{c.description}</p>
                           <p className="text-amber-400/70 text-xs mt-1">{c.bestMonthsLabel}</p>
                         </div>

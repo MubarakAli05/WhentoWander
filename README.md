@@ -2,6 +2,26 @@
 
 A React + TypeScript travel explorer with country guides, seasonal recommendations and credited photography.
 
+## Visual theme
+
+The interface uses an ivory canvas with dusty rose, sage, periwinkle, warm gold and heather mauve accents. Palette tokens live in [tailwind.config.js](tailwind.config.js); [index.css](src/index.css) maps existing utility-based screens to those surfaces and readable cocoa text. Use `pastel-panel` for secondary text on coloured panels and `photo-surface` only around dark photo overlays or the cocoa footer, where captions must remain light.
+
+Shared mappings live in [theme.ts](src/data/theme.ts). Use the pastel for surfaces, its accent for borders/decorative details, and cocoa for readable small text:
+
+| Colour | Pastel / accent | Seasons and places |
+| --- | --- | --- |
+| Dusty rose | `#E9C8C2` / `#BA7C74` | Autumn, Europe, primary badges |
+| Sage | `#BED0BF` / `#617E63` | Spring, Asia, best-season indicators |
+| Periwinkle | `#C5CEDF` / `#5872A0` | Winter/aurora, Americas, selected filter chips |
+| Warm gold | `#D8C08A` / `#9A7A32` | Summer, Africa, good/highlight ratings |
+| Heather mauve | `#CBBED6` / `#7A60A0` | Year-round, Middle East, special tags |
+
+Oceania and unknown/mixed seasons use neutral sand. Calendar month colours use a northern-hemisphere visual convention only; destination weather, seasonal recommendations and filtering retain their actual data. Text labels and selection rings supplement colour.
+
+The homepage frames Japan's spring blossoms and Indian architecture in sage, and Iceland's European scenery in rose. Japan's country cover features the credited Itsukushima Shrine torii gate rather than coastal turbines, with its local preview and full-resolution source preserved. Original photographs remain unfiltered, and credited gallery photographs keep their source/license links. Seasonal ratings remain sage (best), gold (good), rose (fair), and sand (off season). Serif headings and the pastel compass/sun logo complete the theme; regenerate all browser/app/social branding with [generate-brand-assets.ps1](scripts/generate-brand-assets.ps1).
+
+Validate the palette, contrast, rating semantics and homepage imagery with `node --test tests/pastel-theme.test.mjs`.
+
 ## Development
 
 ```sh
@@ -32,7 +52,7 @@ The researched snapshot contains 27,396 places across 195 country records, with 
 
 The browser loads only the selected country's generated chunk from [travelResearch/](src/data/travelResearch), not the complete research catalog. Loading failures offer a page reload without erasing saved trips (a failed module import can remain cached until reload). Regenerate the per-country chunks offline with `node scripts/research-travel-guides.mjs --split` after changing the aggregate. Existing country content and the budget calculator remain available; the new researched listings load after the prerendered page mounts.
 
-The interactive Leaflet map uses OpenStreetMap tiles and visible attribution. Red numbered markers correspond to the visible filtered results; only sourced coordinates are plotted. Map search links and the full place list remain usable if tiles fail. Leaflet loads only in the browser, preserving prerendering. Map providers receive normal public tile/search requests; no API key or browser geolocation is used.
+The interactive Leaflet map uses OpenStreetMap tiles and visible attribution. Rose numbered markers correspond to the visible filtered results; the active marker uses sage. Only sourced coordinates are plotted. Map search links and the full place list remain usable if tiles fail. Leaflet loads only in the browser, preserving prerendering. Map providers receive normal public tile/search requests; no API key or browser geolocation is used.
 
 The USD budget comparison is an **editable illustrative calculator, not country-specific market-price research**. Accommodation uses rooms × nights (days minus one); other categories use travellers × days, plus a 10% contingency. International flights, intercity transfers, visas, insurance and exceptional activities are excluded. Local-currency listing prices are not silently converted to USD.
 
@@ -44,7 +64,7 @@ Validate with `node --test tests/travel-guide.test.mjs`, `npm run typecheck` and
 
 Desktop and mobile navigation expose Explore, By Month, Experiences, Countries, World, Events, Phenomena and Wanderlist, including active states for detail pages. Site search covers countries, destinations, events and phenomena. Search and mobile menus close on navigation, Escape or outside interaction.
 
-Month selection follows the URL and browser history. Event country, month and category filters are shareable in the URL. Favorites update across components and browser tabs, remain on this device, and continue in memory if browser storage is unavailable. The original homepage background is preserved.
+Month selection follows the URL and browser history. Event country, month and category filters are shareable in the URL. Favorites update across components and browser tabs, remain on this device, and continue in memory if browser storage is unavailable. The original homepage photograph is preserved in a sage-framed spring image panel beside the search and travel actions.
 
 ## Photo-led discovery
 

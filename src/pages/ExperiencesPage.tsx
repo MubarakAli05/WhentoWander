@@ -1,6 +1,7 @@
 import { Link, useSearchParams } from 'react-router-dom';
 import { ArrowRight, CalendarDays } from 'lucide-react';
 import { EXPERIENCE_CATEGORIES, MONTHS } from '@/data';
+import { getSeasonColor } from '@/data/theme';
 import { DiscoveryHero, PhotoAttribution } from '@/components/DiscoveryHero';
 import { SmartImage } from '@/components/SmartImage';
 import { experienceEditorial, experienceTimingExample, getExperienceImage, getExperienceMatches, readExperienceFilters, resetExperienceFilters, updateExperienceFilter } from '@/data/experienceDiscovery';
@@ -67,11 +68,11 @@ export function ExperiencesPage() {
                     </figcaption>
                   </figure>
                   <div className="flex flex-1 flex-col p-5 sm:p-6">
-                    <p className="mb-2 text-xs uppercase tracking-wider text-amber-300">{destinations.length} {destinations.length === 1 ? 'destination' : 'destinations'} to consider</p>
+                    <p className="pastel-panel mb-2 self-start rounded-full border border-mauve-accent bg-mauve px-3 py-1 text-xs uppercase tracking-wider text-cocoa">{destinations.length} {destinations.length === 1 ? 'destination' : 'destinations'} to consider</p>
                     <h3 className="text-2xl font-semibold text-white"><Link to={href} className="hover:text-amber-300 focus-visible:outline focus-visible:outline-amber-300">{category.label}</Link></h3>
                     <p className="mt-3 text-sm leading-relaxed text-stone-300">{editorial.summary}</p>
-                    <div className="my-5 rounded-xl bg-stone-950/70 p-4">
-                      <p className="mb-2 flex items-center gap-2 text-xs font-semibold uppercase tracking-wide text-amber-200"><CalendarDays className="h-4 w-4 shrink-0" aria-hidden="true" />Timing starting point</p>
+                    <div className={`my-5 rounded-xl border p-4 ${getSeasonColor(category.label)}`}>
+                      <p className="mb-2 flex items-center gap-2 text-xs font-semibold uppercase tracking-wide text-cocoa"><CalendarDays className="h-4 w-4 shrink-0" aria-hidden="true" />Timing starting point</p>
                       <p className="text-sm leading-relaxed text-stone-300">{experienceTimingExample(destinations)}</p>
                     </div>
                     <Link to={href} className="mt-auto flex min-h-11 items-center justify-between gap-2 border-t border-white/10 pt-4 text-sm font-semibold text-amber-300 focus-visible:outline focus-visible:outline-amber-300">Explore {category.label.toLowerCase()} <ArrowRight className="h-4 w-4 shrink-0" aria-hidden="true" /></Link>

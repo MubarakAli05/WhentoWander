@@ -4,6 +4,7 @@ import { Link } from 'react-router-dom';
 import { Sparkles } from 'lucide-react';
 import { MONTHS, EXPERIENCE_CATEGORIES, getDestinationsByMonth, getDestinationsByExperience, allCountries } from '@/data';
 import type { MonthNumber } from '@/data';
+import { getRegionColor } from '@/data/theme';
 import { MonthSelector } from './MonthSelector';
 import { SmartImage } from './SmartImage';
 
@@ -76,7 +77,7 @@ export function RecommendationPanel() {
                   <Link
                     key={dest.id}
                     to={`/destination/${dest.slug}`}
-                    className="group relative rounded-lg overflow-hidden bg-stone-900 block"
+                    className="photo-surface group relative rounded-3xl overflow-hidden bg-stone-900 block"
                   >
                     <div className="aspect-[16/10] overflow-hidden">
                       <SmartImage
@@ -88,7 +89,7 @@ export function RecommendationPanel() {
                     </div>
                     <div className="absolute inset-0 bg-gradient-to-t from-black/90 via-black/20 to-transparent" />
                     <div className="absolute bottom-0 left-0 right-0 p-5">
-                      <p className="text-amber-400/80 text-xs uppercase tracking-wide mb-1">{country?.flag} {country?.name}</p>
+                      <p className={`inline-flex rounded-full border px-2.5 py-1 text-xs font-medium mb-1 ${getRegionColor(country?.continent ?? '')}`}>{country?.flag} {country?.name}</p>
                       <h3 className="text-white text-lg font-semibold mb-1">{dest.name}</h3>
                       <p className="text-white/60 text-xs">{dest.bestSeasonLabel}</p>
                     </div>

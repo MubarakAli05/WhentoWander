@@ -38,7 +38,7 @@ export function DiscoveryHero({ eyebrow, title, description, image, imageLabel, 
         {children && <div className="mt-7">{children}</div>}
       </div>
       <figure className="min-w-0">
-        <div className="relative overflow-hidden rounded-2xl border border-white/10">
+        <div className="photo-surface relative overflow-hidden rounded-3xl border border-white/10">
           <SmartImage src={image.url} alt={image.alt} loading="eager" className="aspect-[4/3] w-full" />
           <div aria-hidden="true" className="pointer-events-none absolute inset-0 bg-gradient-to-t from-black/75 via-transparent to-transparent" />
           <figcaption className="absolute bottom-0 inset-x-0 p-5 sm:p-6 text-sm font-medium text-white">

@@ -30,7 +30,7 @@ export function Gallery({ images, contextLabel }: Props) {
           >
             <button
               onClick={() => setModalIndex(i)}
-              className="relative block aspect-[4/3] w-full overflow-hidden text-left"
+              className="photo-surface relative block aspect-[4/3] w-full overflow-hidden text-left"
               aria-label={`Open image: ${img.caption || img.alt}`}
               aria-haspopup="dialog"
             >

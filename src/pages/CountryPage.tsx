@@ -24,6 +24,7 @@ import { PhotoAttribution } from '@/components/DiscoveryHero';
 import { getPhenomenonPhoto } from '@/data/seasonalDiscovery';
 import { CountryTravelGuide } from '@/components/CountryTravelGuide';
 import { getHeroImageDelivery } from '@/data/heroImage';
+import { getRegionColor } from '@/data/theme';
 
 export function CountryPage() {
   const { slug } = useParams();
@@ -71,7 +72,7 @@ export function CountryPage() {
               />
             );
           })()}
-          <div className="absolute inset-0 bg-gradient-to-t from-stone-950 via-black/40 to-transparent" />
+          <div className="absolute inset-0 bg-gradient-to-t from-stone-950 via-ivory/80 to-transparent" />
         </div>
 
         <div className="relative z-10 max-w-7xl mx-auto w-full px-4 sm:px-6 lg:px-8 pb-12 md:pb-16">
@@ -87,7 +88,7 @@ export function CountryPage() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8 }}
           >
-            <p className="text-amber-400 text-xs uppercase tracking-[0.2em] font-semibold mb-3">
+            <p className={`inline-flex rounded-full border px-3 py-1.5 text-xs font-semibold mb-3 ${getRegionColor(country.continent)}`}>
               {country.continent}
             </p>
             <h1 className="text-4xl sm:text-5xl md:text-6xl lg:text-7xl font-bold text-white tracking-tight mb-4">
@@ -97,13 +98,13 @@ export function CountryPage() {
               {country.poetLine}
             </p>
             <div className="mt-6 flex flex-wrap gap-3">
-              <a href="#country-travel-guide" className="inline-flex items-center gap-2 rounded-full border border-amber-400/40 bg-black/30 px-5 py-3 text-sm font-semibold text-amber-300 transition-colors hover:bg-white/10">
+              <a href="#country-travel-guide" className="inline-flex items-center gap-2 rounded-full border border-amber-400/40 bg-cream/80 px-5 py-3 text-sm font-semibold text-amber-300 transition-colors hover:bg-white/10">
                 <BookOpen className="h-4 w-4" /> Plan your trip
               </a>
               <a href="#country-gallery" className="inline-flex items-center gap-2 rounded-full bg-amber-400 px-5 py-3 text-sm font-semibold text-stone-950 transition-colors hover:bg-amber-300">
                 <Camera className="h-4 w-4" /> Explore the gallery
               </a>
-              <a href="#when-to-visit" className="inline-flex items-center gap-2 rounded-full border border-white/30 bg-black/20 px-5 py-3 text-sm text-white transition-colors hover:bg-white/10">
+              <a href="#when-to-visit" className="inline-flex items-center gap-2 rounded-full border border-white/30 bg-cream/80 px-5 py-3 text-sm text-white transition-colors hover:bg-white/10">
                 <ArrowDown className="h-4 w-4" /> Find your season
               </a>
             </div>
@@ -219,7 +220,7 @@ export function CountryPage() {
                 return (
                   <article key={item.id} className="group rounded-lg overflow-hidden border border-white/5 bg-stone-900 hover:border-amber-400/30 transition-colors">
                     <Link to={`/phenomena/${item.slug}`} className="block focus-visible:outline focus-visible:outline-amber-300">
-                      <div className="relative aspect-[16/10] overflow-hidden">
+                      <div className="photo-surface relative aspect-[16/10] overflow-hidden">
                         <SmartImage src={photo.image.url} alt={photo.image.alt} loading="lazy" className="w-full h-full group-hover:scale-105 transition-transform duration-700" />
                         <div className="absolute inset-0 bg-gradient-to-t from-black/80 to-transparent" />
                         <p className="absolute bottom-3 left-4 right-4 text-white font-semibold">{item.name}</p>
@@ -377,7 +378,7 @@ export function CountryPage() {
               <Link
                 key={c.id}
                 to={`/country/${c.slug}`}
-                className="group relative block rounded-lg overflow-hidden aspect-square"
+                className="photo-surface group relative block rounded-3xl overflow-hidden aspect-square"
               >
                 <SmartImage
                   src={c.heroImage}

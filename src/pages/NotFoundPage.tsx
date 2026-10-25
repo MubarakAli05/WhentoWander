@@ -4,7 +4,7 @@ import { Home, Compass } from 'lucide-react';
 
 export function NotFoundPage() {
   return (
-    <div className="relative min-h-screen flex items-center justify-center overflow-hidden bg-stone-950">
+    <div className="photo-surface relative min-h-screen flex items-center justify-center overflow-hidden bg-stone-950">
       <div className="absolute inset-0">
         <motion.img
           src="https://images.pexels.com/photos/28356796/pexels-photo-28356796.jpeg?auto=compress&cs=tinysrgb&w=1920"

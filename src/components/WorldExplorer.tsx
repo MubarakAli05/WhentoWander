@@ -2,6 +2,7 @@ import { useState } from 'react';
 import { motion, AnimatePresence } from 'framer-motion';
 import { Globe, Search } from 'lucide-react';
 import { allCountries, CONTINENTS } from '@/data';
+import { getRegionColor } from '@/data/theme';
 import { CountryCard } from './CountryCard';
 
 export function WorldExplorer() {
@@ -39,10 +40,10 @@ export function WorldExplorer() {
               key={c}
               onClick={() => setContinent(c)}
               aria-pressed={continent === c}
-              className={`px-4 py-2 rounded-full text-xs font-semibold tracking-wide transition-all ${
+              className={`px-4 py-2 rounded-full border text-xs font-semibold tracking-wide transition-all ${getRegionColor(c)} ${
                 continent === c
-                  ? 'bg-amber-400 text-stone-950'
-                  : 'bg-stone-900 text-white/50 border border-white/5 hover:text-white/80'
+                  ? 'ring-2 ring-cocoa ring-offset-2'
+                  : 'hover:ring-1 hover:ring-cocoa'
               }`}
             >
               {c}

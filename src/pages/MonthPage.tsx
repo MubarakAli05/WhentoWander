@@ -2,6 +2,7 @@ import { useParams, useNavigate, useSearchParams, Link } from 'react-router-dom'
 import { ArrowRight, Info, MapPin } from 'lucide-react';
 import { MONTHS, CONTINENTS, getMonthInfo, getDestinationsByMonth } from '@/data';
 import { getMonthDiscovery, getMonthFeature } from '@/data/monthDiscovery';
+import { getMonthColor } from '@/data/theme';
 import { DiscoveryHero } from '@/components/DiscoveryHero';
 import { CountryCard } from '@/components/CountryCard';
 import { NotFoundPage } from '@/pages/NotFoundPage';
@@ -42,8 +43,8 @@ export function MonthPage() {
           <p className="mt-4 text-xs leading-relaxed text-stone-400">One starting point, not the whole world. Explore more regions below; seasons differ by location.</p>
         </DiscoveryHero>
 
-        <div className="mb-8 rounded-2xl border border-amber-400/15 bg-amber-400/5 p-5 sm:p-6 flex items-start gap-3">
-          <Info className="mt-1 h-5 w-5 shrink-0 text-amber-400" aria-hidden="true" />
+        <div className={`mb-8 rounded-2xl border p-5 sm:p-6 flex items-start gap-3 ${getMonthColor(selectedMonth)}`}>
+          <Info className="mt-1 h-5 w-5 shrink-0 text-cocoa" aria-hidden="true" />
           <div><h2 className="font-semibold text-white mb-2">Before you plan {feature.country.name}</h2><p className="text-sm leading-relaxed text-stone-300">{feature.watchFor}</p></div>
         </div>
         <div className="mb-8">
@@ -97,10 +98,8 @@ export function MonthPage() {
                   key={m.month}
                   to={{ pathname: `/month/${m.fullName.toLowerCase()}`, search: params.toString() }}
                   aria-current={m.month === selectedMonth ? 'page' : undefined}
-                  className={`p-4 rounded-lg border text-center transition-all ${
-                    m.month === selectedMonth
-                      ? 'border-amber-400 bg-stone-800'
-                      : 'border-white/5 bg-stone-900 hover:border-white/15'
+                  className={`p-4 rounded-lg border text-center transition-all ${getMonthColor(m.month)} ${
+                    m.month === selectedMonth ? 'ring-2 ring-cocoa ring-offset-2' : 'hover:shadow-md'
                   }`}
                 >
                   <p className="text-white text-sm font-bold mb-1">{m.shortName}</p>

@@ -87,7 +87,7 @@ export function Navbar() {
         }}
         className={`fixed top-0 left-0 right-0 z-50 transition-all duration-500 ${
           transparent
-            ? 'bg-transparent'
+            ? 'bg-ivory/95 backdrop-blur-md border-b border-cocoa/10'
             : 'bg-stone-950/95 backdrop-blur-md border-b border-white/5'
         }`}
       >
@@ -95,7 +95,7 @@ export function Navbar() {
           <div className="flex items-center justify-between h-16 lg:h-20">
             <Link to="/" onClick={closePanels} className="flex items-center gap-2 group shrink-0">
               <BrandLogo />
-              <span className={`text-sm font-semibold tracking-[0.2em] uppercase transition-colors ${transparent ? 'text-white' : 'text-white'}`}>
+              <span className="font-serif text-lg text-white transition-colors">
                 When to Wander
               </span>
             </Link>

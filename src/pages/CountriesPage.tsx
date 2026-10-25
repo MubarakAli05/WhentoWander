@@ -5,6 +5,7 @@ import { ArrowRight, Search, Compass, Camera, CalendarDays } from 'lucide-react'
 import { allCountries, CONTINENTS, MONTHS, TRAVEL_STYLES, getCountryImageFallbacks } from '@/data';
 import { SmartImage } from '@/components/SmartImage';
 import { SectionHeading } from '@/components/SectionHeading';
+import { getRegionColor } from '@/data/theme';
 
 const normalize = (value: string) => value.normalize('NFD').replace(/[\u0300-\u036f]/g, '').toLowerCase();
 
@@ -59,7 +60,7 @@ export function CountriesPage() {
               </div>
             </label>
             <label className="text-xs text-stone-400">Region
-              <select value={region} onChange={event => updateFilter('region', event.target.value)} className="mt-2 w-full rounded-lg border border-white/10 bg-stone-950 p-3 text-sm text-white">
+              <select value={region} onChange={event => updateFilter('region', event.target.value)} className={`mt-2 w-full rounded-lg border p-3 text-sm ${getRegionColor(region)}`}>
                 <option value="">All regions</option>{CONTINENTS.map(value => <option key={value}>{value}</option>)}
               </select>
             </label>
@@ -99,7 +100,7 @@ export function CountriesPage() {
                 transition={{ duration: reducedMotion ? 0 : 0.35, delay: reducedMotion ? 0 : Math.min((index % 3) * 0.04, 0.12) }}
               >
                 <Link to={`/country/${country.slug}`} className="group flex h-full flex-col rounded-xl overflow-hidden border border-white/5 bg-stone-900 transition-colors hover:border-amber-400/30">
-                  <div className="relative aspect-[16/10] shrink-0 overflow-hidden">
+                  <div className="photo-surface relative aspect-[16/10] shrink-0 overflow-hidden">
                     <SmartImage
                       src={country.heroImage}
                       alt={country.name}
@@ -109,7 +110,7 @@ export function CountriesPage() {
                     />
                     <div className="absolute inset-0 bg-gradient-to-t from-black/80 via-black/20 to-transparent" />
                     <div className="absolute bottom-0 left-0 right-0 p-5">
-                      <p className="text-amber-400 text-xs uppercase tracking-[0.2em] font-medium">{country.continent}</p>
+                      <p className={`inline-flex rounded-full border px-2.5 py-1 text-xs font-medium ${getRegionColor(country.continent)}`}>{country.continent}</p>
                       <h3 className="text-white text-xl font-semibold mt-2">{country.flag} {country.name}</h3>
                     </div>
                   </div>

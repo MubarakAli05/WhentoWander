@@ -3,6 +3,7 @@ import { motion } from 'framer-motion';
 import { ArrowRight, CalendarDays, Search } from 'lucide-react';
 import { getDestinationsByMonth, getCountriesByMonth } from '@/data';
 import type { MonthNumber } from '@/data';
+import { getMonthColor } from '@/data/theme';
 import { filterMonthFeatures, getMonthFeature } from '@/data/monthDiscovery';
 import { DiscoveryHero, PhotoAttribution } from '@/components/DiscoveryHero';
 import { SmartImage } from '@/components/SmartImage';
@@ -26,7 +27,7 @@ export function MonthsPage() {
         <DiscoveryHero eyebrow="The travel calendar" title="A year of possibilities. Pick your moment."
           description="Start with when you can go. Find a place that fits, understand what the season offers, and know what to check before you book."
           image={featured.image} imageLabel={`${featured.country.name} · ${featured.month.fullName} inspiration`}>
-          <Link to={`/month/${featured.month.fullName.toLowerCase()}`} className="inline-flex items-center gap-2 rounded-full bg-amber-400 px-5 py-3 text-sm font-semibold text-stone-950 hover:bg-amber-300">
+          <Link to={`/month/${featured.month.fullName.toLowerCase()}`} className={`inline-flex items-center gap-2 rounded-full border px-5 py-3 text-sm font-semibold hover:shadow-md ${getMonthColor(featured.month.month)}`}>
             Explore {featured.month.fullName} <ArrowRight className="h-4 w-4" />
           </Link>
           <p className="mt-4 text-xs text-stone-400">12 months · Local seasonal guidance · Both hemispheres</p>
@@ -54,15 +55,15 @@ export function MonthsPage() {
 
           {features.length ? <div className="grid grid-cols-1 md:grid-cols-2 xl:grid-cols-3 gap-6">
             {features.map((feature, index) => (
-              <motion.article key={feature.month.month} initial={{ opacity: 0, y: 16 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.35, delay: Math.min(index * 0.03, 0.15) }} className="group flex flex-col overflow-hidden rounded-2xl border border-white/10 bg-stone-900 hover:border-amber-400/40 transition-colors">
+              <motion.article key={feature.month.month} initial={{ opacity: 0, y: 16 }} whileInView={{ opacity: 1, y: 0 }} viewport={{ once: true }} transition={{ duration: 0.35, delay: Math.min(index * 0.03, 0.15) }} className={`group flex flex-col overflow-hidden rounded-2xl border hover:shadow-md transition-shadow ${getMonthColor(feature.month.month)}`}>
                 <Link to={`/month/${feature.month.fullName.toLowerCase()}`} className="flex-1">
                   <div className="relative overflow-hidden"><SmartImage src={feature.image.url} alt={feature.image.alt} className="aspect-[16/10] w-full motion-safe:group-hover:scale-105 transition-transform duration-700" /><span className="absolute left-4 top-4 rounded-full bg-stone-950/80 px-3 py-1.5 text-xs font-medium text-white">{feature.country.name}</span></div>
                   <div className="p-5 sm:p-6">
                     <div className="mb-3 flex items-center justify-between gap-3"><h3 className="text-2xl font-semibold text-white">{feature.month.fullName}</h3><span className="text-sm text-stone-500">{String(feature.month.month).padStart(2, '0')}</span></div>
-                    <p className="text-sm font-medium text-amber-300 mb-2">{feature.theme}</p>
+                    <p className="text-sm font-medium text-cocoa mb-2">{feature.theme}</p>
                     <p className="text-sm leading-relaxed text-stone-300">{feature.summary}</p>
                     <p className="mt-5 flex items-center gap-2 text-xs text-stone-400"><CalendarDays className="h-4 w-4 shrink-0" />{getCountriesByMonth(feature.month.month).length} countries · {getDestinationsByMonth(feature.month.month).length} destination guides</p>
-                    <span className="mt-4 inline-flex items-center gap-2 text-sm font-medium text-amber-400">Plan {feature.month.fullName} <ArrowRight className="h-4 w-4" /></span>
+                    <span className="mt-4 inline-flex items-center gap-2 text-sm font-medium text-cocoa">Plan {feature.month.fullName} <ArrowRight className="h-4 w-4" /></span>
                   </div>
                 </Link>
                 <PhotoAttribution image={feature.image} className="border-t border-white/5 px-5 py-3 sm:px-6" />

@@ -22,7 +22,7 @@ export function FestivalCard({ festivals }: Props) {
         >
           <h4 className="text-white font-semibold text-base mb-3">{f.name}</h4>
           <div className="flex flex-wrap gap-4 mb-3">
-            <div className="flex items-center gap-1.5 text-amber-400/80 text-xs">
+            <div className="pastel-panel flex items-center gap-1.5 rounded-full border border-mauve-accent bg-mauve px-3 py-1 text-cocoa text-xs">
               <Calendar className="w-3.5 h-3.5" />
               <span>{f.period}</span>
             </div>

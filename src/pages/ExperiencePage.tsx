@@ -1,6 +1,7 @@
 import { useParams, Link, useSearchParams } from 'react-router-dom';
 import { ArrowLeft, CalendarDays } from 'lucide-react';
 import { EXPERIENCE_CATEGORIES, MONTHS } from '@/data';
+import { getSeasonColor } from '@/data/theme';
 import { DiscoveryHero } from '@/components/DiscoveryHero';
 import { ExperienceCard } from '@/components/ExperienceCard';
 import { experienceEditorial, getExperienceImage, getExperienceMatches, readExperienceFilters, resetExperienceFilters, updateExperienceFilter } from '@/data/experienceDiscovery';
@@ -39,8 +40,8 @@ export function ExperiencePage() {
         </DiscoveryHero>
       </div>
       <section id="experience-destinations" aria-labelledby="destinations-heading" className="mx-auto max-w-7xl scroll-mt-28 px-4 py-12 sm:px-6 lg:px-8">
-        <aside className="mb-10 rounded-2xl border border-amber-300/20 bg-amber-300/5 p-5 sm:p-6" aria-label="Timing guidance">
-          <h2 className="flex items-center gap-2 text-lg font-semibold text-amber-200"><CalendarDays className="h-5 w-5 shrink-0" aria-hidden="true" />Plan around the place</h2>
+        <aside className={`mb-10 rounded-2xl border p-5 sm:p-6 ${getSeasonColor(category.label)}`} aria-label="Timing guidance">
+          <h2 className="flex items-center gap-2 text-lg font-semibold text-cocoa"><CalendarDays className="h-5 w-5 shrink-0" aria-hidden="true" />Plan around the place</h2>
           <p className="mt-3 max-w-3xl text-sm leading-relaxed text-stone-300">{editorial.planningNote}</p>
           <p className="mt-2 max-w-3xl text-sm leading-relaxed text-stone-400">The months below come from each destination’s travel guide. These are places to consider, not a guarantee that every activity is available throughout those months.</p>
         </aside>

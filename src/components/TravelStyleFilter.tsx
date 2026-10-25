@@ -21,8 +21,8 @@ export function TravelStyleFilter({ selected, onToggle }: Props) {
             onClick={() => onToggle(style)}
             className={`px-4 py-2 rounded-full text-xs font-medium tracking-wide transition-all ${
               isSelected
-                ? 'bg-amber-400 text-stone-950'
-                : 'bg-stone-900 text-white/50 border border-white/5 hover:border-amber-400/30 hover:text-white/80'
+                ? 'pastel-panel bg-periwinkle text-cocoa border border-periwinkle-accent ring-2 ring-cocoa ring-offset-2'
+                : 'bg-stone-900 text-white/50 border border-white/5 hover:border-periwinkle-accent hover:text-cocoa'
             }`}
             aria-pressed={isSelected}
           >

@@ -2,6 +2,7 @@ import { motion } from 'framer-motion';
 import { MONTHS } from '@/data';
 import type { MonthNumber, SeasonalMonth } from '@/data';
 import { getRatingColor, getRatingLabel } from '@/data';
+import { getMonthColor } from '@/data/theme';
 
 interface Props {
   seasonalMonths: SeasonalMonth[];
@@ -27,10 +28,8 @@ export function SeasonTimeline({ seasonalMonths, selectedMonth, onSelectMonth }:
               transition={{ duration: 0.3, delay: Math.min(i * 0.03, 0.2) }}
               onClick={() => onSelectMonth(m.month)}
               aria-pressed={isSelected}
-              className={`relative p-4 rounded-lg border text-left transition-all ${
-                isSelected
-                  ? 'border-amber-400 bg-stone-800'
-                  : 'border-white/5 bg-stone-900 hover:border-white/15'
+              className={`relative p-4 rounded-lg border text-left transition-all ${getMonthColor(m.month)} ${
+                isSelected ? 'ring-2 ring-cocoa ring-offset-2' : 'hover:shadow-md'
               }`}
             >
               <div className="flex items-center justify-between mb-2">
@@ -52,7 +51,7 @@ export function SeasonTimeline({ seasonalMonths, selectedMonth, onSelectMonth }:
             initial={{ opacity: 0, height: 0 }}
             animate={{ opacity: 1, height: 'auto' }}
             transition={{ duration: 0.3 }}
-            className="mt-6 p-6 rounded-lg bg-stone-900 border border-white/5"
+            className={`mt-6 p-6 rounded-lg border ${getMonthColor(selectedMonth)}`}
           >
             <div className="flex items-center gap-3 mb-3">
               <span className={`w-3 h-3 rounded-full ${getRatingColor(data.rating)}`} />
@@ -62,7 +61,7 @@ export function SeasonTimeline({ seasonalMonths, selectedMonth, onSelectMonth }:
               <span className="text-xs text-stone-500 uppercase tracking-wide">{getRatingLabel(data.rating)}</span>
             </div>
             <p className="text-white/70 text-sm leading-relaxed">
-              <span className="text-amber-400 font-medium">{data.label}</span>
+              <span className="text-cocoa font-medium">{data.label}</span>
               {data.note && <span className="text-stone-400"> — {data.note}</span>}
             </p>
           </motion.div>

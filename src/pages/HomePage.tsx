@@ -17,7 +17,9 @@ import { SectionHeading } from '@/components/SectionHeading';
 import { DestinationCard } from '@/components/DestinationCard';
 import { RecommendationPanel } from '@/components/RecommendationPanel';
 import { SmartImage } from '@/components/SmartImage';
+import { PhotoAttribution } from '@/components/DiscoveryHero';
 import { TravelPlanningGuide, TravelPlanningFaq } from '@/components/TravelPlanningGuide';
+import { getMonthColor, getRegionColor, getSeasonColor } from '@/data/theme';
 
 const heroSuggestions = ['Japan', 'Switzerland', 'Iceland', 'Türkiye', 'New Zealand'];
 
@@ -44,25 +46,8 @@ export function HomePage() {
   return (
     <div>
       {/* HERO */}
-      <section className="relative h-screen min-h-[600px] flex items-center justify-center overflow-hidden">
-        <div className="absolute inset-0">
-          <motion.div
-            className="w-full h-full"
-            initial={{ scale: 1.1 }}
-            animate={{ scale: 1 }}
-            transition={{ duration: 8, ease: 'easeOut' }}
-          >
-            <SmartImage
-              src="https://images.pexels.com/photos/16226231/pexels-photo-16226231.jpeg?auto=compress&cs=tinysrgb&w=1920"
-              alt="Cherry blossoms at a Japanese temple in spring"
-              className="w-full h-full"
-              loading="eager"
-            />
-          </motion.div>
-          <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/40 to-black/80" />
-        </div>
-
-        <div className="relative z-10 text-center px-4 max-w-3xl">
+      <section className="relative max-w-7xl mx-auto grid lg:grid-cols-2 items-center gap-12 px-4 sm:px-6 lg:px-8 pt-32 pb-20 lg:pt-40 lg:pb-28">
+        <div className="relative z-10 text-center lg:text-left">
           <motion.p
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
@@ -80,14 +65,14 @@ export function HomePage() {
           >
             Find the best time
             <br />
-            <span className="text-amber-400">to visit.</span>
+            <span className="text-amber-400 italic font-normal">to visit.</span>
           </motion.h1>
 
           <motion.p
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.6 }}
-            className="text-white/70 text-base sm:text-lg leading-relaxed mb-10 max-w-xl mx-auto"
+            className="text-white/70 text-base sm:text-lg leading-relaxed mb-8 max-w-xl mx-auto lg:mx-0"
           >
             Compare seasonal travel guides for {allCountries.length} countries. Choose where to go by month,
             regional weather patterns, festivals and the experiences you love.
@@ -98,7 +83,7 @@ export function HomePage() {
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 0.8 }}
             onSubmit={handleSearch}
-            className="max-w-xl mx-auto mb-6"
+            className="max-w-xl mx-auto lg:mx-0 mb-6"
           >
             <div className="relative">
               <Search className="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-stone-400" />
@@ -123,7 +108,7 @@ export function HomePage() {
             initial={{ opacity: 0 }}
             animate={{ opacity: 1 }}
             transition={{ duration: 0.8, delay: 1 }}
-            className="flex flex-wrap justify-center gap-2 mb-10"
+            className="flex flex-wrap justify-center lg:justify-start gap-2 mb-8"
           >
             <span className="text-white/40 text-xs self-center mr-1">Try:</span>
             {heroSuggestions.map(s => (
@@ -141,11 +126,11 @@ export function HomePage() {
             initial={{ opacity: 0, y: 20 }}
             animate={{ opacity: 1, y: 0 }}
             transition={{ duration: 0.8, delay: 1.1 }}
-            className="flex flex-col sm:flex-row gap-3 justify-center"
+            className="flex flex-col sm:flex-row lg:flex-col xl:flex-row gap-3 justify-center lg:justify-start"
           >
             <Link
               to="/world"
-              className="px-8 py-3.5 bg-amber-400 text-stone-950 text-sm font-semibold rounded-full hover:bg-amber-300 transition-colors flex items-center justify-center gap-2"
+              className="px-6 py-3.5 bg-cocoa text-cream text-sm font-semibold rounded-full hover:bg-cocoa/90 transition-colors flex items-center justify-center gap-2"
             >
               Explore the World <ArrowRight className="w-4 h-4" />
             </Link>
@@ -160,10 +145,53 @@ export function HomePage() {
         </div>
 
         <motion.div
+          initial={{ opacity: 0, y: 20 }}
+          animate={{ opacity: 1, y: 0 }}
+          transition={{ duration: 0.8, delay: 0.3 }}
+          className="grid grid-cols-2 gap-4 w-full max-w-xl mx-auto"
+          aria-label="Travel inspiration in seasonal colours"
+        >
+          <Link to="/country/japan" className={`group col-span-2 block rounded-[2rem] border p-3 pb-4 ${getSeasonColor('spring')}`}>
+            <SmartImage
+              src="https://images.pexels.com/photos/16226231/pexels-photo-16226231.jpeg?auto=compress&cs=tinysrgb&w=1920"
+              alt="Cherry blossoms at a Japanese temple in spring"
+              className="h-64 sm:h-80 rounded-[1.4rem]"
+              loading="eager"
+              fetchPriority="high"
+            />
+            <div className="flex items-center justify-between px-3 pt-4 text-cocoa">
+              <div>
+                <span className="font-serif text-xl italic">Japan in bloom</span>
+                <p className="mt-1 text-xs text-cocoa">Spring · Asia</p>
+              </div>
+              <ArrowRight className="h-4 w-4 transition-transform group-hover:translate-x-1" />
+            </div>
+          </Link>
+          {[
+            { slug: 'india', imageIndex: 2, label: 'Architectural discoveries' },
+            { slug: 'iceland', imageIndex: 0, label: 'Northern landscapes' },
+          ].map(({ slug, imageIndex, label }) => {
+            const country = allCountries.find(item => item.slug === slug);
+            const photo = country?.gallery?.[imageIndex];
+            if (!country || !photo) return null;
+            return (
+              <div key={slug} className={`group rounded-3xl border p-2.5 pb-4 ${getRegionColor(country.continent)}`}>
+                <Link to={`/country/${slug}`} className="block">
+                  <SmartImage src={photo.url} fallbackSources={getCountryImageFallbacks(country)} alt={photo.alt} className="h-32 sm:h-40 rounded-2xl" loading="eager" />
+                  <p className="px-2 pt-3 font-serif text-lg text-cocoa">{country.name}</p>
+                  <p className="px-2 pt-1 text-[11px] text-cocoa">{label} · {country.continent}</p>
+                </Link>
+                <PhotoAttribution image={photo} className="px-2 pt-2" />
+              </div>
+            );
+          })}
+        </motion.div>
+
+        <motion.div
           initial={{ opacity: 0 }}
           animate={{ opacity: 1 }}
           transition={{ duration: 1, delay: 1.5 }}
-          className="absolute bottom-8 left-1/2 -translate-x-1/2"
+          className="absolute bottom-6 left-1/2 -translate-x-1/2"
         >
           <ChevronDown className="w-6 h-6 text-white/40 animate-bounce" />
         </motion.div>
@@ -229,7 +257,7 @@ export function HomePage() {
                 >
                   <Link
                     to={`/month/${m.fullName.toLowerCase()}`}
-                    className="group block bg-stone-900 rounded-lg p-5 border border-white/5 hover:border-amber-400/30 transition-all"
+                    className={`group block rounded-2xl p-5 border hover:ring-1 hover:ring-cocoa/40 transition-all ${getMonthColor(m.month)}`}
                   >
                     <div className="flex items-center justify-between mb-3">
                       <span className="text-white font-bold text-lg">{m.shortName}</span>
@@ -239,7 +267,7 @@ export function HomePage() {
                       {dests[0] ? `${dests[0].name}, ${allCountries.find(c => c.id === dests[0].countryId)?.name}` : 'Coming soon'}
                       {dests[1] ? ` & more` : ''}
                     </p>
-                    <div className="mt-3 flex items-center gap-1 text-amber-400/60 text-xs group-hover:text-amber-400 transition-colors">
+                    <div className="mt-3 flex items-center gap-1 text-cocoa text-xs transition-colors">
                       Explore <ArrowRight className="w-3 h-3" />
                     </div>
                   </Link>
@@ -269,7 +297,7 @@ export function HomePage() {
               >
                 <Link
                   to={`/experience/${cat.id}`}
-                  className="group relative block rounded-lg overflow-hidden aspect-square"
+                  className="photo-surface group relative block rounded-3xl overflow-hidden aspect-square"
                 >
                   <SmartImage
                     src={cat.image}
@@ -308,7 +336,7 @@ export function HomePage() {
               >
                 <Link
                   to={`/country/${country.slug}`}
-                  className="group relative block rounded-lg overflow-hidden aspect-[16/10]"
+                  className="photo-surface group relative block rounded-3xl overflow-hidden aspect-[16/10]"
                 >
                   <SmartImage
                     src={country.heroImage}
@@ -363,7 +391,7 @@ export function HomePage() {
                   >
                     <Link
                       to={`/destination/${dest.slug}`}
-                      className="group relative block rounded-lg overflow-hidden aspect-[16/11]"
+                      className="photo-surface group relative block rounded-3xl overflow-hidden aspect-[16/11]"
                     >
                       <SmartImage
                         src={exp.image}
